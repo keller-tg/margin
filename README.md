@@ -4,7 +4,7 @@
 
 Margin is a calm notebook that fills itself twice a day: one real thing in the morning, one small thing in the evening. Then it ends. It has no feed, no streaks, no notifications and no tracking. The content is adapted from Wikipedia (CC BY-SA). The site makes no AI calls and holds no API keys.
 
-> **Status:** early development. Milestone (a) is done: paper, ink, fonts, theme, i18n and the wordmark. See [`docs/plan.md`](docs/plan.md) for the full plan and the decisions behind it.
+> **Status:** early development. Milestone (a) is done: paper, ink, fonts, theme, i18n and the wordmark. Milestone (b) is done: the content pipeline (pool, picker, fetcher with a committed cache, image licensing, extractive composer, verifier). See [`docs/content-pipeline.md`](docs/content-pipeline.md). See [`docs/plan.md`](docs/plan.md) for the full plan and the decisions behind it.
 
 ## Develop
 
@@ -16,6 +16,7 @@ npm run build        # typecheck + static build to dist/
 npm run shots        # Playwright screenshot matrix → e2e/__shots__/ (390/1440 × light/dark)
 npm run fonts:build  # re-subset fonts, regenerate metrics + wordmark outlines (outputs are committed)
 npm run fonts:check  # assert every DE/FR glyph is drawn by our fonts, not a fallback
+npm run content:bake # compose + verify the daily things from the committed queue and packets (no network)
 ```
 
 ## How the paper works
@@ -28,4 +29,4 @@ The owner must check whether the name **"Margin"**, its domain and its trademark
 
 ## Licenses
 
-The code is MIT. Adapted Wikipedia content is CC BY-SA 4.0. Fonts are SIL OFL 1.1. See [`docs/licenses.md`](docs/licenses.md).
+The code is MIT. Adapted Wikipedia content (`content/`, `public/daily/`) is CC BY-SA 4.0 (`LICENSE-CONTENT`). Fonts are SIL OFL 1.1. See [`docs/licenses.md`](docs/licenses.md).

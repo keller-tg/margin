@@ -13,7 +13,12 @@
     "fonts:build": "node scripts/fonts/build-fonts.mjs",
     "fonts:check": "node scripts/fonts/check-glyphs.mjs",
     "shots": "playwright test e2e/screenshots.spec.ts",
-    "check": "tsc -b && vitest run && node scripts/fonts/check-glyphs.mjs"
+    "check": "tsc -b && vitest run && node scripts/fonts/check-glyphs.mjs",
+    "pool:build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/pool-build.ts",
+    "content:prepare": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/prepare.ts",
+    "content:bake": "NODE_NO_WARNINGS=1 tsx scripts/content/bake.ts",
+    "content:verify": "NODE_NO_WARNINGS=1 tsx scripts/content/verify.ts",
+    "content:preview": "NODE_NO_WARNINGS=1 tsx scripts/content/preview.ts"
   },
   "dependencies": {
     "react": "^19.3.0",
@@ -32,8 +37,10 @@
     "opentype.js": "^2.0.0",
     "subset-font": "^2.9.0",
     "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vite": "^8.3.2",
-    "vitest": "^5.0.3"
+    "vitest": "^5.0.3",
+    "zod": "^4.6.5"
   }
 }

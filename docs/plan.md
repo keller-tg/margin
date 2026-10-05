@@ -21,9 +21,18 @@ These override anything in the plan below that says otherwise.
    - Tagline 1 is the placeholder.
    - German text and UI use Swiss spelling: "ss" instead of "ß", and «guillemets».
    - The verifier treats "ß" and "ss" as equal when comparing against sources (`foldForCompare` in `src/core/typography`).
+7. **Wikimedia access and image credits (2026-10-05, milestone b).**
+   - Image metadata comes through the language editions' Action API (`prop=pageimages|imageinfo` with `extmetadata`), never from commons.wikimedia.org directly. Titles are batched (at most 50 per request), requests run sequentially with a descriptive User-Agent and `maxlag`, and `Retry-After` is honored on 429.
+   - Every API response is cached to disk and committed (`content/cache/api/`), so each item is fetched once, ever. Tests use clearly marked fixtures only (`fixtures/`). The only live Wikimedia call at runtime is in the visitor's browser, and only if truly needed.
+   - License URL: required for CC BY / CC BY-SA. It may be empty for Public domain / CC0, and the credit then links the Commons file page. A URL is never invented.
+   - Author: the cleaned first line of Artist. If that is empty or over 80 characters, fall back to the uploader's username. Reject the image only if both fail. Every fallback and rejection is logged.
+   - Attribution: the uploader's Attribution text verbatim if present, otherwise author + license + file page. `AttributionRequired` is stored. All API strings are untrusted and rendered as plain text.
+   - A topic with no free lead image in one edition takes the image from another edition or from Wikidata P18. It is dropped only if no free image exists anywhere.
+   - /about says that images may be cropped, resized, rotated or animated for display.
+   - Details: [`docs/content-pipeline.md`](content-pipeline.md).
 > Font test renders: [`docs/research/fonts/`](research/fonts/).
 
-**The short version.** The plan is solid and buildable, but one thing blocks it right now. This cloud environment can't reach any Wikimedia host: en/de/fr.wikipedia.org, Commons, upload and Wiktionary are all "blocked by the egress proxy". I can build milestone (a) without them. The content pipeline and the 30-day batch need them allowlisted.
+**The short version.** The plan is solid and buildable. *(Update, 2026-10-05: the Wikimedia hosts are now reachable. The shared IP is heavily rate-limited, which the fetcher handles; see decision 7.)*
 
 The fonts are verified, not guessed. I rendered them in Chromium and had the engine report, glyph by glyph, which font actually drew each one. **Caveat** wins.
 

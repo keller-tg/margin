@@ -32,7 +32,8 @@ The npm dependencies are listed in `package.json`. They are bundled into the sit
 
 ## Wikimedia content
 
-Not yet shipped. It arrives with the content pipeline (milestone b):
-
-- **Text** is CC BY-SA 4.0, attributed per page.
-- **Images** come only from Commons and only under CC0, Public Domain, CC BY or CC BY-SA, each with a per-image credit.
+- **Text** is adapted from Wikipedia and licensed CC BY-SA 4.0 (`LICENSE-CONTENT`). Each thing names its source article and links the exact revision it was adapted from (`oldid`).
+- **Descriptions** used as title lines come from Wikidata, which is CC0.
+- **Images** come only from Wikimedia Commons, under CC0, Public domain, CC BY or CC BY-SA. Each image carries a credit with the author (or the uploader's own attribution text, verbatim), the license, the license URL for CC licenses, and always a link to the Commons file page. The rules are in [`content-pipeline.md`](content-pipeline.md), and every evaluated file is listed in `content/images/meta.json`.
+- **Modifications.** Images may be cropped, resized, rotated or animated for display. The /about page says so.
+- **Pipeline cache.** `content/cache/api/` holds verbatim Wikimedia API responses (CC BY-SA text, CC0 Wikidata data, and file metadata). It is committed so that nothing is fetched twice.

@@ -1,0 +1,224 @@
+// The extractive composer: builds the three paces of a thing from a packet, using only
+// sentences from the source (cleaned and, if needed, cut at a clause boundary).
+// It is the fallback when no curated text exists, and the Rabbit Trail's live composer.
+// Pure and deterministic: the same packet always gives the same thing.
+import { PACES, PACE_IDS, pageRange } from '../pace/pace';
+import type { Page, PaceId, Thing } from '../schema/thing';
+import { countWords, splitSentences } from '../text/sentences';
+import { normalizeTypography, type Lang } from '../typography/typography';
+import { capitalizeFirst, cleanSentence, danglingPronoun, fitToWords } from './clean';
+import type { Packet } from './packet';
+
+export const QUALITY_THRESHOLD = 0.6;
+
+type Cand = { text: string; idx: number; section: string | null; score: number; dangling: boolean; facts: string[] };
+
+export type ComposeResult = { thing: Thing; notes: string[] };
+
+/** Candidate sentences with a base score; earlier lead sentences and fact-bearing sentences rank higher. */
+function candidates(p: Packet): Cand[] {
+  const lang = p.lang;
+  const out: Cand[] = [];
+  const add = (text: string, section: string | null, base: number) => {
+    splitSentences(text, lang).forEach((raw, i) => {
+      const c = cleanSentence(raw);
+      if (!c) return;
+      const facts = Object.entries(p.facts).filter(([, f]) => f.sentence && raw.includes(f.surface) && f.sentence === raw).map(([id]) => id);
+      const words = countWords(c);
+      let score = base - i * 0.04 + Math.min(facts.length, 2) * 0.15;
+      if (words > 45) score -= 0.3;
+      if (/["“”«»„]/.test(c)) score -= 0.15;
+      if (/:\s/.test(c)) score -= 0.1;
+      out.push({ text: c, idx: out.length, section, score, dangling: danglingPronoun(c, lang), facts });
+    });
+  };
+  add(p.source.lead, null, 1);
+  for (const s of p.source.sections) add(s.text, s.heading, 0.6);
+  return out;
+}
+
+type Ctx = { p: Packet; lang: Lang; max: number; used: Set<number>; notes: string[]; penalty: number; truncations: number };
+
+/** Take the next usable sentence (in source order among the best), fitted to the word limit. */
+function take(ctx: Ctx, cands: Cand[], opts: { allowDangling?: boolean; afterIdx?: number; preferSection?: boolean } = {}): Cand | null {
+  const pool = cands
+    .filter((c) => !ctx.used.has(c.idx) && (opts.allowDangling || !c.dangling || (opts.afterIdx !== undefined && c.idx === opts.afterIdx + 1)))
+    .filter((c) => (opts.preferSection ? c.section !== null : true));
+  // best 6 by score, then the earliest of them — keeps the narrative order of the source
+  const best = pool.sort((a, b) => b.score - a.score).slice(0, 6).sort((a, b) => a.idx - b.idx);
+  for (const c of best) {
+    const fit = fitToWords(c.text, ctx.max, ctx.lang);
+    if (!fit) continue;
+    ctx.used.add(c.idx);
+    if (fit.truncated) ctx.truncations++;
+    return { ...c, text: fit.text };
+  }
+  return null;
+}
+
+function titleLine(ctx: Ctx, cands: Cand[]): string {
+  const d = ctx.p.source.description.trim();
+  if (d && countWords(d) <= Math.min(ctx.max, 12) && !/[()]/.test(d)) return capitalizeFirst(d);
+  // fall back to the first lead sentence, fitted
+  const first = cands.find((c) => c.section === null);
+  const fit = first && fitToWords(first.text, Math.min(ctx.max, 12), ctx.lang);
+  if (fit && first) {
+    ctx.used.add(first.idx);
+    return fit.text;
+  }
+  return '';
+}
+
+function bigNumber(ctx: Ctx, cands: Cand[]): Page | null {
+  // measures first, then large plain numbers; never a bare year
+  const facts = Object.entries(ctx.p.facts)
+    .filter(([, f]) => (f.kind === 'measure' || (f.kind === 'number' && Number(f.value) >= 10)) && f.sentence)
+    .sort(([, a], [, b]) => Number(b.kind === 'measure') - Number(a.kind === 'measure'));
+  for (const [id, f] of facts) {
+    const c = cands.find((x) => !ctx.used.has(x.idx) && x.facts.includes(id) && !x.dangling);
+    if (!c) continue;
+    const fit = fitToWords(c.text, ctx.max, ctx.lang);
+    if (!fit || !fit.text.includes(f.surface)) continue;
+    ctx.used.add(c.idx);
+    if (fit.truncated) ctx.truncations++;
+    return { type: 'bignumber', fact: id, display: f.surface, caption: fit.text };
+  }
+  return null;
+}
+
+function timeline(ctx: Ctx, cands: Cand[]): Page | null {
+  const events: { fact: string; label: string; year: number }[] = [];
+  const seenYears = new Set<number>();
+  for (const [id, f] of Object.entries(ctx.p.facts)) {
+    if (f.kind !== 'date' || !f.sentence) continue;
+    const year = Number(f.value);
+    if (seenYears.has(year)) continue;
+    const c = cands.find((x) => x.facts.includes(id) && !ctx.used.has(x.idx) && !x.dangling);
+    if (!c) continue;
+    const fit = fitToWords(c.text, Math.min(ctx.max, 14), ctx.lang);
+    if (!fit || !fit.text.includes(f.surface)) continue;
+    events.push({ fact: id, label: fit.text, year });
+    seenYears.add(year);
+    ctx.used.add(c.idx);
+    if (events.length === 4) break;
+  }
+  if (events.length < 2) return null;
+  events.sort((a, b) => a.year - b.year);
+  return { type: 'timeline', events: events.map(({ fact, label }) => ({ fact, label })) };
+}
+
+function closing(ctx: Ctx, cands: Cand[]): Page | null {
+  // prefer a calm, self-contained sentence from later in the source
+  const later = cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling).sort((a, b) => b.idx - a.idx);
+  for (const c of [...later.filter((c) => c.section === null), ...later]) {
+    const fit = fitToWords(c.text, ctx.max, ctx.lang);
+    if (!fit) continue;
+    ctx.used.add(c.idx);
+    if (fit.truncated) ctx.truncations++;
+    return { type: 'closing', text: fit.text };
+  }
+  return null;
+}
+
+function sentencePage(ctx: Ctx, cands: Cand[], opts?: Parameters<typeof take>[2]): Page | null {
+  const c = take(ctx, cands, opts);
+  return c ? { type: 'sentence', text: c.text } : null;
+}
+
+/** Compose one pace. Returns null if the page budget cannot be met with clean pages. */
+function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], minimal: boolean): { pages: Page[]; score: number } | null {
+  const spec = PACES[pace];
+  const [minPages, maxPages] = pageRange(pace, p.slot);
+  const ctx: Ctx = { p, lang: p.lang, max: spec.maxWords, used: new Set(), notes, penalty: 0, truncations: 0 };
+  const img = Object.keys(p.images)[0];
+  const allows = (t: Page['type']) => spec.types.includes(t);
+
+  const title: Page = { type: 'title', title: p.topic.title, line: titleLine(ctx, cands), ...(img ? { image: img } : {}) };
+  const body: Page[] = [];
+  const bodyTarget = maxPages - 2;
+  const push = (pg: Page | null) => pg && body.length < bodyTarget && body.push(pg);
+  const bodyMin = minPages - 2;
+
+  // the first body page explains what the thing is: the first clean lead sentence
+  push(sentencePage(ctx, cands, { allowDangling: false }));
+
+  if (!minimal) {
+    if (img && allows('image') && pace !== 'easy' && body.length < bodyTarget)
+      push({ type: 'image', image: img, caption: p.topic.title });
+    if (allows('bignumber') && body.length < bodyTarget) push(bigNumber(ctx, cands));
+    if (allows('timeline') && body.length < bodyTarget - 1) push(timeline(ctx, cands));
+  } else if (img && allows('image') && pace !== 'easy' && body.length < bodyTarget) {
+    push({ type: 'image', image: img, caption: p.topic.title });
+  }
+  while (body.length < bodyTarget) {
+    const before = body.length;
+    push(sentencePage(ctx, cands, { preferSection: pace === 'deep' && body.length > 3 }));
+    if (body.length === before) push(sentencePage(ctx, cands));
+    if (body.length === before) break;
+  }
+
+  const close = closing(ctx, cands);
+  if (!close) return null;
+  const pages = [title, ...body, close];
+  if (body.length < bodyMin) return null;
+
+  // quality
+  let score = 1;
+  if (!title.line) score -= 0.15;
+  score -= ctx.truncations * 0.05;
+  const kinds = new Set(pages.map((x) => x.type));
+  if (p.slot === 'morning' && pace !== 'easy' && kinds.size < 4) score -= 0.1;
+  for (const pg of pages) {
+    const t = pg.type === 'sentence' || pg.type === 'closing' ? pg.text : '';
+    if (t && danglingPronoun(t, p.lang)) score -= 0.15;
+  }
+  return { pages: pages.slice(0, maxPages), score };
+}
+
+/** Typography for every visible string on a page. */
+function typeset(pg: Page, lang: Lang): Page {
+  const n = (s: string) => normalizeTypography(s, lang);
+  switch (pg.type) {
+    case 'title': return { ...pg, title: n(pg.title), line: n(pg.line) };
+    case 'sentence': return { ...pg, text: n(pg.text) };
+    case 'closing': return { ...pg, text: n(pg.text) };
+    case 'bignumber': return { ...pg, display: n(pg.display), caption: n(pg.caption) };
+    case 'image': return { ...pg, caption: n(pg.caption) };
+    case 'timeline': return { ...pg, events: pg.events.map((e) => ({ ...e, label: n(e.label) })) };
+    default: return pg;
+  }
+}
+
+export function composeExtractive(p: Packet): ComposeResult {
+  const notes: string[] = [];
+  const cands = candidates(p);
+  const paces = {} as Thing['paces'];
+  const scores: number[] = [];
+  for (const pace of PACE_IDS) {
+    let r = composePace(p, pace, cands, notes, false);
+    if (!r || r.score < QUALITY_THRESHOLD) {
+      notes.push(`${pace}: ${r ? `score ${r.score.toFixed(2)} below threshold` : 'could not fill the page budget'}; using the minimal template`);
+      r = composePace(p, pace, cands, notes, true);
+    }
+    if (!r) throw new Error(`compose failed: ${p.lang}/${p.date}.${p.slot} ${p.topic.title} (${pace}): not enough clean sentences`);
+    paces[pace] = r.pages.map((pg) => typeset(pg, p.lang));
+    scores.push(r.score);
+  }
+  const usedFacts = new Set(PACE_IDS.flatMap((k) => paces[k]).flatMap((pg) => (pg.type === 'bignumber' ? [pg.fact] : pg.type === 'timeline' ? pg.events.map((e) => e.fact) : [])));
+  const teaserFit = p.source.description ? capitalizeFirst(p.source.description) : p.topic.title;
+  const thing: Thing = {
+    schema: 1,
+    id: `${p.lang}-${p.date}-${p.slot}`,
+    date: p.date,
+    lang: p.lang,
+    slot: p.slot,
+    topic: { title: p.topic.title, qid: p.topic.qid, pageid: p.topic.pageid, revid: p.topic.revid, domain: p.topic.domain, teaser: normalizeTypography(countWords(teaserFit) <= PACES.easy.maxWords ? teaserFit : p.topic.title, p.lang) },
+    sources: [{ title: p.topic.title, url: p.topic.url, revid: p.topic.revid, license: 'CC BY-SA 4.0' }],
+    images: p.images,
+    facts: Object.fromEntries(Object.entries(p.facts).filter(([id]) => usedFacts.has(id)).map(([id, f]) => [id, { kind: f.kind, value: f.value, ...(f.unit ? { unit: f.unit } : {}), surface: f.surface }])),
+    paces,
+    authoredBy: 'extractive',
+    qualityScore: Math.round(Math.min(...scores) * 100) / 100,
+  };
+  return { thing, notes };
+}

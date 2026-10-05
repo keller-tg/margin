@@ -1,0 +1,16 @@
+# Ein regulärer Ausdruck pro Zeile, ohne Gross-/Kleinschreibung, gegen sichtbare Kategorien.
+krieg
+schlacht
+massaker
+völkermord|genozid
+terroris
+folter
+attentat
+mordfall|mörder
+sexualität|sexualpraktik
+pornograf|pornograph
+prostitution
+droge|rauschgift|psychotrop|halluzinogen|opioid
+suizid
+^wahl\b|wahl in
+politische affäre

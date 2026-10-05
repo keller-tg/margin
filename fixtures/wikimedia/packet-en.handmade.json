@@ -1,0 +1,20 @@
+{
+  "_FIXTURE": "HANDMADE FIXTURE — written by hand for tests, not real API output. The prose is invented test text in an encyclopedic style.",
+  "packetVersion": 1, "date": "2026-10-06", "slot": "morning", "lang": "en",
+  "topic": { "title": "Glass sponge", "qid": "Q1000001", "pageid": 1001, "revid": 2002, "url": "https://en.wikipedia.org/w/index.php?title=Glass_sponge&oldid=2002", "domain": "animals" },
+  "limits": { "easy": { "pages": [4, 4], "maxWords": 15 }, "medium": { "pages": [6, 7], "maxWords": 25 }, "deep": { "pages": [10, 12], "maxWords": 40 } },
+  "source": {
+    "description": "class of sponges",
+    "lead": "Glass sponges are sponges with skeletons made of silica. They live in deep water in every ocean. A glass sponge can grow to a height of 1.5 metres. Their skeletons form lattices that scatter light. Some reefs off British Columbia are about 9,000 years old. The first reef was described in 1987.",
+    "sections": [
+      { "heading": "Anatomy", "text": "The skeleton of a glass sponge is built from spicules of silica. Many species have spicules with six points. The spicules of one species reach a length of 3 metres. Water flows through the body of the sponge, which filters food from it." },
+      { "heading": "Reefs", "text": "Glass sponge reefs were thought to have died out with the dinosaurs. Scientists found living reefs in the Hecate Strait in 1987. The reefs cover an area of about 1,000 square kilometres. Fishing nets can break the reefs, which grow very slowly." }
+    ]
+  },
+  "facts": {},
+  "images": {
+    "img1": { "file": "File:Euplectella aspergillum.jpg", "w": 2000, "h": 1500, "alt": "Glass sponge", "thumb": null, "sha1": "0",
+      "credit": { "author": "Test Author", "authorSource": "artist", "license": "Public domain", "licenseUrl": null, "fileUrl": "https://commons.wikimedia.org/wiki/File:Euplectella_aspergillum.jpg", "attribution": null, "attributionRequired": false } }
+  },
+  "categories": ["Hexactinellida", "Sponges"]
+}

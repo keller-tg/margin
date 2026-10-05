@@ -1,0 +1,527 @@
+{
+ "_FIXTURE": "RECORDED FIXTURE — not live data. Real Action API responses (prop=imageinfo, iiprop=url|size|mime|extmetadata) recorded 2026-10-05 from en/de/fr.wikipedia.org. Tests read this file; they never call the network.",
+ "pages": [
+  {
+   "ns": 6,
+   "title": "File:Octopus2.jpg",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 1234844,
+     "width": 2704,
+     "height": 2058,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Octopus2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2795257",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "<a href=\"https://en.wikipedia.org/wiki/Common_Octopus\" class=\"extiw\" title=\"en:Common Octopus\"><i>Octopus vulgaris</i></a> (common octopus)",
+       "source": "commons-desc-page"
+      },
+      "Credit": {
+       "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+       "source": "commons-desc-page"
+      },
+      "Artist": {
+       "value": "albert kok",
+       "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+       "value": "CC BY-SA 3.0",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Creative Commons Attribution-Share Alike 3.0",
+       "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+       "value": "true",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "LicenseUrl": {
+       "value": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+       "value": "True",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "cc-by-sa-3.0",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "en.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "File:Tour Eiffel Wikimedia Commons (cropped).jpg",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 4337484,
+     "width": 2900,
+     "height": 4830,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48220385",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "Eiffel Tower, Paris France",
+       "source": "commons-desc-page"
+      },
+      "Credit": {
+       "value": "This image has been <b>extracted</b> from another file",
+       "source": "commons-desc-page"
+      },
+      "Artist": {
+       "value": "<a href=\"//commons.wikimedia.org/wiki/User:Benh\" title=\"User:Benh\">Benh LIEU SONG</a>",
+       "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+       "value": "Public domain",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Public domain",
+       "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+       "value": "false",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Copyrighted": {
+       "value": "False",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "pd",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "en.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "File:Ada Lovelace daguerreotype by Antoine Claudet 1843 - cropped.png",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 1816077,
+     "width": 957,
+     "height": 1239,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=166285599",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "Ada Lovelace daguerreotype by Antoine Claudet 1843 - cropped",
+       "source": "commons-desc-page"
+      },
+      "Credit": {
+       "value": "shared by Paul Graham on x.com <a rel=\"nofollow\" class=\"external free\" href=\"https://x.com/paulg/status/1927655441913250041\">https://x.com/paulg/status/1927655441913250041</a>",
+       "source": "commons-desc-page"
+      },
+      "Artist": {
+       "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine_Claudet\" class=\"extiw\" title=\"w:en:Antoine Claudet\"><span title=\"French photographer (1797-1867)\">Antoine Claudet</span></a></bdi>",
+       "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+       "value": "Public domain",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Public domain",
+       "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+       "value": "false",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Copyrighted": {
+       "value": "False",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "pd",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/png"
+    }
+   ],
+   "_askedOf": "en.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "Datei:Kampsbrezel.jpg",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 152284,
+     "width": 1133,
+     "height": 756,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kampsbrezel.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kampsbrezel.jpg",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2516856",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "Laugenbrezel",
+       "source": "commons-desc-page"
+      },
+      "Credit": {
+       "value": "<span class=\"int-own-work\" lang=\"de\">Eigenes Werk</span>",
+       "source": "commons-desc-page"
+      },
+      "Artist": {
+       "value": "--<a href=\"//commons.wikimedia.org/w/index.php?title=User:Xocolatl&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Xocolatl (page does not exist)\">Xocolatl</a> 19:08, 4 August 2007 (UTC)",
+       "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+       "value": "Public domain",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Public domain",
+       "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+       "value": "false",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Copyrighted": {
+       "value": "False",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "pd",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "de.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "Datei:Octopus vulgaris 2.jpg",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 1179602,
+     "width": 3332,
+     "height": 2432,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Octopus_vulgaris_2.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1928397",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "Octopus vulgaris",
+       "source": "commons-desc-page"
+      },
+      "Credit": {
+       "value": "<p><bdi lang=\"de\" dir=\"ltr\">Übertragen aus <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//nl.wikipedia.org\" href=\"https://nl.wikipedia.org\">nl.wikipedia</a></span> nach Commons.</bdi><br>\n</p>\n(<span lang=\"de\" dir=\"ltr\">Originaltext: <i><bdi lang=\"\">Middellandse Zee</bdi></i></span>)",
+       "source": "commons-desc-page"
+      },
+      "Artist": {
+       "value": "<p><a href=\"https://en.wikipedia.org/wiki/nl:User:Albert_Kok\" class=\"extiw\" title=\"w:nl:User:Albert Kok\">Albert Kok</a> in der <a href=\"https://en.wikipedia.org/wiki/nl:\" class=\"extiw\" title=\"w:nl:\">Wikipedia auf Niederländisch</a><br>\n</p>\n(<span lang=\"de\" dir=\"ltr\">Originaltext: <i><bdi lang=\"\">Albert Kok</bdi></i></span>)",
+       "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+       "value": "Public domain",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Public domain",
+       "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+       "value": "false",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Copyrighted": {
+       "value": "False",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "pd",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "de.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "Datei:3818 - Riffelberg - Matterhorn viewed from Gornergratbahn.JPG",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 2725298,
+     "width": 3648,
+     "height": 2736,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/3818_-_Riffelberg_-_Matterhorn_viewed_from_Gornergratbahn.JPG?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:3818_-_Riffelberg_-_Matterhorn_viewed_from_Gornergratbahn.JPG",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3015514",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "<a href=\"https://de.wikipedia.org/wiki/Matterhorn\" class=\"extiw\" title=\"de:Matterhorn\">Matterhorn</a> betrachtet aus der <a href=\"https://de.wikipedia.org/wiki/Gornergratbahn\" class=\"extiw\" title=\"de:Gornergratbahn\">Gornergratbahn</a>, <a href=\"https://de.wikipedia.org/wiki/Riffelberg\" class=\"extiw\" title=\"de:Riffelberg\">Riffelberg</a> / <a href=\"https://de.wikipedia.org/wiki/Zermatt\" class=\"extiw\" title=\"de:Zermatt\">Zermatt</a>, <a href=\"https://de.wikipedia.org/wiki/Schweiz\" class=\"extiw\" title=\"de:Schweiz\">Schweiz</a>",
+       "source": "commons-desc-page"
+      },
+      "Credit": {
+       "value": "<span class=\"int-own-work\" lang=\"de\">Eigenes Werk</span>",
+       "source": "commons-desc-page"
+      },
+      "Artist": {
+       "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\">Andrew Bossi</a>",
+       "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+       "value": "CC BY-SA 2.5",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Creative Commons Attribution-Share Alike 2.5",
+       "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+       "value": "true",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "LicenseUrl": {
+       "value": "https://creativecommons.org/licenses/by-sa/2.5",
+       "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+       "value": "True",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "cc-by-sa-2.5",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "de.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "Fichier:Tour Eiffel Wikimedia Commons.jpg",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 5279797,
+     "width": 2900,
+     "height": 5367,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6926930",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "La <a href=\"https://fr.wikipedia.org/wiki/Tour_Eiffel\" class=\"extiw\" title=\"fr:Tour Eiffel\">Tour Eiffel</a>, vue du <a href=\"https://fr.wikipedia.org/wiki/Champ-de-Mars_(Paris)\" class=\"extiw\" title=\"fr:Champ-de-Mars (Paris)\">champ de Mars</a>, <a href=\"https://fr.wikipedia.org/wiki/Paris\" class=\"extiw\" title=\"fr:Paris\">Paris</a>.",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Credit": {
+       "value": "<span class=\"int-own-work\" lang=\"fr\">Travail personnel</span>",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Artist": {
+       "value": "<a href=\"//commons.wikimedia.org/wiki/User:Benh\" title=\"User:Benh\">Benh LIEU SONG</a>",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "LicenseShortName": {
+       "value": "Public domain",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Public domain",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "AttributionRequired": {
+       "value": "false",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Copyrighted": {
+       "value": "False",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "pd",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "fr.wikipedia.org"
+  },
+  {
+   "ns": 6,
+   "title": "Fichier:Mont Blanc depuis Valmorel 2.jpg",
+   "missing": true,
+   "known": true,
+   "imagerepository": "shared",
+   "imageinfo": [
+    {
+     "size": 4532064,
+     "width": 4350,
+     "height": 2900,
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mont_Blanc_depuis_Valmorel_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mont_Blanc_depuis_Valmorel_2.jpg",
+     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12730502",
+     "extmetadata": {
+      "ImageDescription": {
+       "value": "Face sud du Mont Blanc vu depuis <a href=\"https://fr.wikipedia.org/wiki/Valmorel\" class=\"extiw\" title=\"fr:Valmorel\">Valmorel</a>",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Credit": {
+       "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Mont_Blanc_depuis_Valmorel.jpg\" title=\"File:Mont Blanc depuis Valmorel.jpg\">Mont_Blanc_depuis_Valmorel.jpg</a></li></ul>",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Artist": {
+       "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Mont_Blanc_depuis_Valmorel.jpg\" title=\"File:Mont Blanc depuis Valmorel.jpg\">Mont_Blanc_depuis_Valmorel.jpg</a>: <br style=\"clear:both\"></li></ul>\n<table style=\"margin: 1.5em auto; width:90%; background-color:#ECF5FF; border:2px solid #B2E3FF; padding:1px;\" cellspacing=\"10\">\n\n<tbody><tr>\n<td>\n<div style=\"font-size:90%\">\n<table style=\"margin: 1.5em auto; width:95%; background-color:#ECF5FF; padding:1px;\" cellspacing=\"10\">\n\n<tbody><tr>\n<td width=\"50%\" valign=\"top\" style=\"border-right:2px solid #B2E3FF;\"><b>English :</b> This photo has been taken by <span class=\"plainlinks\"><b><a rel=\"nofollow\" class=\"external text\" href=\"http://matthieu.riegler.fr\">Matthieu Riegler</a></b> </span> (<a href=\"//commons.wikimedia.org/wiki/User:Kyro\" title=\"User:Kyro\">User:Kyro</a>) and released under the licenses stated below. You are free to use it for any purpose as long as you credit me as author, Wikimedia Commons as site and follow the terms of the licenses. Could you be kind enough to <a href=\"https://fr.wikipedia.org/wiki/Discussion_Utilisateur:Kyro/Publie\" class=\"extiw\" title=\"fr:Discussion Utilisateur:Kyro/Publie\">leave me a message on this page</a> to inform me about your use of this picture.\n<div align=\"center\"><b>Example</b>: <figure class=\"mw-halign-center mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Mont_Blanc_depuis_Valmorel_2.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mont_Blanc_depuis_Valmorel_2.jpg/250px-Mont_Blanc_depuis_Valmorel_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mont_Blanc_depuis_Valmorel_2.jpg/330px-Mont_Blanc_depuis_Valmorel_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"4350\" data-file-height=\"2900\"></a><figcaption></figcaption></figure><span class=\"plainlinks\" style=\"background-color:#DDD\">© <a rel=\"nofollow\" class=\"external text\" href=\"http://matthieu.riegler.fr\">Matthieu Riegler</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/\">CC-BY</a></span></div>\n</td>\n<td width=\"50%\" valign=\"top\"><b>Français :</b> Cette photo a été prise par <span class=\"plainlinks\"><b><a rel=\"nofollow\" class=\"external text\" href=\"http://matthieu.riegler.fr\">Matthieu Riegler</a></b></span> (<a href=\"//commons.wikimedia.org/wiki/User:Kyro\" title=\"User:Kyro\">User:Kyro</a>) et placée sous les licences ci-dessous. Vous êtes libre de la réutiliser, pour n'importe quelle utilisation, tant que vous me citez en tant qu'auteur, Wikimedia Commons en tant que site et suivez les instructions des licences. Pourriez-vous avoir l'amabilité de me <a href=\"https://fr.wikipedia.org/wiki/Discussion_Utilisateur:Kyro/Publie\" class=\"extiw\" title=\"fr:Discussion Utilisateur:Kyro/Publie\">laisser un message sur cette page</a> pour m'informer de votre utilisation de cette image.\n<div align=\"center\"><b>Exemple</b> : <figure class=\"mw-halign-center mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Mont_Blanc_depuis_Valmorel_2.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mont_Blanc_depuis_Valmorel_2.jpg/250px-Mont_Blanc_depuis_Valmorel_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mont_Blanc_depuis_Valmorel_2.jpg/330px-Mont_Blanc_depuis_Valmorel_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"4350\" data-file-height=\"2900\"></a><figcaption></figcaption></figure><span class=\"plainlinks\" style=\"background-color:#DDD\">© <a rel=\"nofollow\" class=\"external text\" href=\"http://matthieu.riegler.fr\">Matthieu Riegler</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.fr\">CC-BY</a></span></div>\n</td></tr></tbody></table>\n</div></td></tr>\n<tr>\n<td><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"fr\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:fr:Creative Commons\"><img alt=\"w:fr:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"paternité\"><img alt=\"paternité\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">Ce fichier est disponible selon les termes de la licence <a href=\"https://en.wikipedia.org/wiki/fr:Creative_Commons\" class=\"extiw\" title=\"w:fr:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.fr\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.fr\">Attribution 3.0 Non Transposé</a>.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Matthieu Riegler, CC-by</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"fr\">\n<dl><dd>Vous êtes libre :\n<ul><li><b>de partager</b> – de copier, distribuer et transmettre cette œuvre</li>\n<li><b>d’adapter</b> – de modifier cette œuvre</li></ul></dd>\n<dd>Sous les conditions suivantes :\n<ul><li><b>paternité</b> – Vous devez donner les informations appropriées concernant l'auteur, fournir un lien vers la licence et indiquer si des modifications ont été faites. Vous pouvez faire cela par tout moyen raisonnable, mais en aucune façon suggérant que l’auteur vous soutient ou approuve l’utilisation que vous en faites.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n</td>\n<td><br style=\"clear:both;\">\n</td></tr>\n<tr>\n<td><div align=\"center\">Vous souhaitez faire apparaitre cette photo sans crédit ? <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Kyro\" title=\"Special:EmailUser/Kyro\">Contactez moi</a> ! <br>\nIf you want to use the photo without credit, please <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Kyro\" title=\"Special:EmailUser/Kyro\">contact me</a>.</div>\n</td></tr></tbody></table>\n\n<ul><li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:O.Taris\" title=\"User:O.Taris\">O.Taris</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:O.Taris\" title=\"User talk:O.Taris\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "LicenseShortName": {
+       "value": "CC BY 3.0",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "UsageTerms": {
+       "value": "Creative Commons Attribution 3.0",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "AttributionRequired": {
+       "value": "true",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Attribution": {
+       "value": "Matthieu Riegler, CC-by",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "LicenseUrl": {
+       "value": "https://creativecommons.org/licenses/by/3.0",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Copyrighted": {
+       "value": "True",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "Restrictions": {
+       "value": "",
+       "source": "commons-desc-page",
+       "hidden": ""
+      },
+      "License": {
+       "value": "cc-by-3.0",
+       "source": "commons-templates",
+       "hidden": ""
+      }
+     },
+     "mime": "image/jpeg"
+    }
+   ],
+   "_askedOf": "fr.wikipedia.org"
+  }
+ ]
+}
