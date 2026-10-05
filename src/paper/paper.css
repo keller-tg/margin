@@ -1,0 +1,207 @@
+/* The sheet: the whole UI is one sheet of paper. */
+
+html,
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+}
+body {
+  font-family: var(--sans);
+  font-size: var(--fs-ui);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures contextual;
+}
+
+.sheet {
+  position: relative;
+  min-height: 100dvh;
+  background-color: var(--paper);
+  /* rules move with the page, never with the viewport */
+  background-attachment: local;
+  isolation: isolate;
+  overflow-x: clip;
+}
+
+/* paper patterns — each aligned so text written in .ink sits on the rule */
+.sheet[data-paper='lined'] {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0 calc(var(--rule) - 1px),
+    var(--rule-color) calc(var(--rule) - 1px) var(--rule)
+  );
+  background-position: 0 calc(var(--rule-offset) + 1px - var(--rule));
+}
+.sheet[data-paper='grid'] {
+  background-image:
+    repeating-linear-gradient(to bottom, transparent 0 calc(var(--rule) - 1px), var(--grid-color) calc(var(--rule) - 1px) var(--rule)),
+    repeating-linear-gradient(to right, transparent 0 calc(var(--rule) - 1px), var(--grid-color) calc(var(--rule) - 1px) var(--rule));
+  background-position:
+    0 calc(var(--rule-offset) + 1px - var(--rule)),
+    calc(var(--phase-x, 0px) + 1px) 0;
+}
+.sheet[data-paper='dotted'] {
+  background-image: radial-gradient(circle at 50% 50%, var(--rule-color) 0 1.15px, transparent 1.7px);
+  background-size: var(--rule) var(--rule);
+  background-position: calc(var(--phase-x, 0px) - var(--rule) / 2) calc(var(--rule-offset) - var(--rule) / 2);
+}
+.sheet[data-paper='blank'] {
+  background-image: none;
+}
+
+/* grain + fibre mottling + a soft edge, laid over the paper but under the ink */
+.sheet::before {
+  content: '';
+  position: absolute; /* scrolls with the paper (a fixed blended layer would repaint on every scroll) */
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: var(--grain), var(--fibers),
+    radial-gradient(ellipse 120% 90% at 50% 45%, transparent 55%, var(--paper-edge) 100%);
+  background-size: 240px 240px, 600px 600px, 100% 100%;
+  mix-blend-mode: var(--grain-blend);
+  opacity: var(--grain-opacity);
+}
+
+/* the margin line — also the brand mark */
+.margin-line {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: var(--margin-x);
+  width: 1.5px;
+  background: var(--margin-color);
+  opacity: 0.82;
+  pointer-events: none;
+}
+
+/* the writing column, right of the margin line */
+.column {
+  position: relative;
+  margin-left: calc(var(--margin-x) + var(--text-gap));
+  max-width: var(--text-max);
+  padding-right: 20px;
+  padding-top: calc(var(--rule) * 2);
+  padding-bottom: calc(var(--rule) * 3);
+  box-sizing: border-box;
+}
+
+/* a page whose last block (its footer) rests on the bottom rules of the screen.
+ * The column height is rounded down to whole rules so the footer still writes on the lines. */
+@supports (height: round(down, 100dvh, 1px)) {
+  .column--fill {
+    display: flex;
+    flex-direction: column;
+    min-height: round(down, 100dvh, var(--rule));
+    padding-bottom: calc(var(--rule) * 2);
+  }
+  .column--fill > .page-foot {
+    margin-top: auto;
+  }
+}
+.page-foot {
+  padding-top: calc(var(--rule) * 2);
+}
+
+/* ---------- ink: handwriting that sits on the rules ----------
+ * --n  : how many rules one line of this text occupies (1 for body, 2–3 for titles)
+ * --fs : font size
+ * The block is nudged by `top` so each baseline lands on the last rule of its line box.
+ * `top` does not affect layout, so the vertical rhythm (all in whole rules) is untouched.
+ */
+.ink {
+  --n: 1;
+  --fs: var(--fs-body);
+  display: block;
+  margin: 0;
+  font-family: var(--hand);
+  font-weight: var(--wght-body);
+  font-size: var(--fs);
+  line-height: calc(var(--n) * var(--rule));
+  position: relative;
+  top: calc(
+    (var(--n) - 1) * var(--rule) + var(--rule-offset) - var(--n) * var(--rule) / 2 -
+      (var(--asc) - var(--desc)) * var(--fs) / 2
+  );
+  color: var(--ink);
+  overflow-wrap: break-word;
+  hyphens: manual;
+}
+.ink--title {
+  --n: 2;
+  --fs: calc(var(--fs-body) * 1.85);
+  font-weight: var(--wght-title);
+  letter-spacing: -0.005em;
+}
+.ink--small {
+  --fs: calc(var(--fs-body) * 0.78);
+}
+.ink--note {
+  color: var(--note);
+}
+
+/* vertical rhythm: whole rules only */
+.gap-1 { margin-top: var(--rule); }
+.gap-2 { margin-top: calc(var(--rule) * 2); }
+.gap-3 { margin-top: calc(var(--rule) * 3); }
+
+/* ---------- quiet UI text (Inter) that also sits on a rule ---------- */
+.ui-line {
+  --fs: var(--fs-ui);
+  display: block;
+  margin: 0;
+  font-family: var(--sans);
+  font-size: var(--fs);
+  line-height: var(--rule);
+  position: relative;
+  top: calc(var(--rule-offset) - var(--rule) / 2 - (var(--asc-ui) - var(--desc-ui)) * var(--fs) / 2);
+  color: var(--ink-soft);
+  letter-spacing: 0.01em;
+}
+
+/* ---------- links & buttons written in ink ---------- */
+.ink-link {
+  color: inherit;
+  text-decoration: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+}
+.ink-link:hover .ink-underline path {
+  opacity: 1;
+}
+.ink-link:focus-visible {
+  outline: 2px solid var(--margin-color);
+  outline-offset: 4px;
+}
+.ink-underline {
+  display: block;
+  overflow: visible;
+  pointer-events: none;
+}
+.ink-underline path {
+  fill: none;
+  stroke: var(--margin-color);
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  opacity: 0.85;
+  transition: opacity 200ms var(--ease-paper);
+}
+
+::selection {
+  background: color-mix(in oklab, var(--margin-color) 26%, transparent);
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

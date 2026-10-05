@@ -1,6 +1,26 @@
 # Margin: the plan (v0, pre-build)
 
-> Status: proposal awaiting a "go". No application code has been written yet.
+> Status: approved 2026-10-05, with the decisions below. Building milestone by milestone.
+
+## Decisions (2026-10-05)
+
+These override anything in the plan below that says otherwise.
+
+1. **Network:** Wikipedia, Wikimedia and Wikidata are allowed. Wiktionary is not needed and stays out of v1.
+2. **Content policy is narrower than the "calm" default proposed in §2.** The blocklist covers:
+   - graphic violence
+   - explicit sexual content
+   - drug-use topics
+   - live political controversy
+
+   History and medicine are allowed when treated factually and calmly (e.g. the immune system, smallpox eradication). The blocklist targets explicit content; it is not a blunt category ban.
+3. **Pace labels have no minutes.** The paces are Easygoing / Medium / Deep, distinguished only by word limits and page counts.
+4. **Hosting is Cloudflare Pages** on the default `*.pages.dev` address, with no custom domain yet. The repo stays private until v1 works and `docs/licenses.md` is complete.
+5. **The curated batch starts 2026-10-06.** The first 3 days are authored in-session to lock the voice and prove the verifier, then the work fans out to parallel sub-agents per language.
+6. **Swiss spelling and the tagline.**
+   - Tagline 1 is the placeholder.
+   - German text and UI use Swiss spelling: "ss" instead of "ß", and «guillemets».
+   - The verifier treats "ß" and "ss" as equal when comparing against sources (`foldForCompare` in `src/core/typography`).
 > Font test renders: [`docs/research/fonts/`](research/fonts/).
 
 **The short version.** The plan is solid and buildable, but one thing blocks it right now. This cloud environment can't reach any Wikimedia host: en/de/fr.wikipedia.org, Commons, upload and Wiktionary are all "blocked by the egress proxy". I can build milestone (a) without them. The content pipeline and the 30-day batch need them allowlisted.

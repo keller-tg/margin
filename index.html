@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Margin</title>
+    <meta name="description" content="A calm notebook that teaches you one real thing a day, adapted from Wikipedia. Then it ends." />
+    <meta name="theme-color" content="#f7f2e8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#24211e" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="/fonts/caveat.woff2" as="font" type="font/woff2" crossorigin />
+    <script>
+      // Apply stored preferences before first paint, so night paper never flashes white.
+      try {
+        var p = JSON.parse(localStorage.getItem('margin.prefs.v1') || '{}');
+        var r = document.documentElement;
+        if (p.theme === 'light' || p.theme === 'dark') r.dataset.theme = p.theme;
+        if (p.ink) r.dataset.ink = p.ink;
+        if (p.hand) r.dataset.hand = p.hand;
+        if (p.motion === 'on' || p.motion === 'off') r.dataset.motion = p.motion;
+        if (p.lang) r.lang = p.lang === 'de' ? 'de-CH' : p.lang;
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

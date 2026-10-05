@@ -1,0 +1,95 @@
+/* Component styles for the app shell. Vertical rhythm stays in whole rules. */
+
+.m-0 { margin: 0; }
+
+/* wordmark: a line box n rules tall; the svg is placed so the word's baseline lands on the last rule */
+.wordmark {
+  position: relative;
+  color: var(--ink);
+}
+.wordmark svg {
+  position: absolute;
+  left: 0;
+  display: block;
+  width: auto;
+  overflow: visible;
+}
+.wordmark-line {
+  stroke: var(--margin-color);
+  stroke-width: 1.6;
+  vector-effect: non-scaling-stroke;
+}
+
+.tagline {
+  font-weight: 450;
+}
+
+/* margin notes: written left of the margin line, right-aligned against it */
+.margin-notes {
+  position: absolute;
+  top: calc(var(--rule) * 4);
+  left: 0;
+  width: calc(var(--margin-x) - 14px);
+  text-align: right;
+  pointer-events: none;
+}
+.margin-date {
+  transform: rotate(-3deg);
+  transform-origin: right bottom;
+}
+@media (max-width: 767px) {
+  .margin-notes { display: none; }
+}
+
+.slot-status { color: var(--ink-soft); }
+.slot-status[data-open='true'] { color: var(--ink); }
+.slot-sep { color: var(--ink-soft); }
+
+/* underlined ink links: the underline sits a few px under the baseline, drawn in the margin colour */
+.ink-link--underlined {
+  position: relative;
+  display: inline-block;
+}
+.ink-link--underlined .ink-underline {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 12px;
+  top: calc(var(--rule-offset) + 1px);
+}
+.begin-line {
+  font-weight: var(--wght-title);
+  --fs: calc(var(--fs-body) * 1.12);
+}
+.begin-line .ink-link--underlined {
+  padding-right: 0.5em;
+}
+
+.landing-foot .ink-link { color: var(--note); }
+.pace-current { color: var(--ink-soft); }
+
+/* quiet, text-only toggles */
+.lang-btn {
+  appearance: none;
+  background: none;
+  border: 0;
+  padding: 2px 0;
+  font: inherit;
+  color: var(--ink-soft);
+  cursor: pointer;
+  border-radius: 3px;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+}
+.lang-btn:hover { color: var(--ink); }
+.lang-btn[aria-pressed='true'] {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--margin-color);
+}
+.lang-btn:focus-visible {
+  outline: 2px solid var(--margin-color);
+  outline-offset: 3px;
+}
+.specimen-choice { margin-right: 1.2em; }
+.specimen-choice .lang-btn { margin-right: 0.6em; }

@@ -1,0 +1,151 @@
+/* Margin design tokens.
+ * Everything vertical is measured in rules (--rule). Text sits ON the rules: see baseline.ts for the math,
+ * which these calc() expressions mirror (baseline.test.ts keeps the numbers in sync with font-metrics.json).
+ */
+
+@font-face {
+  font-family: 'Caveat';
+  src: url('/fonts/caveat.woff2') format('woff2');
+  font-weight: 400 700;
+  font-display: swap;
+  /* Same as the font's own metrics; pinned so every engine lays out identical line boxes. */
+  ascent-override: 96%;
+  descent-override: 30%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Playpen Sans';
+  src: url('/fonts/playpen-sans.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  ascent-override: 117%;
+  descent-override: 34%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/inter.woff2') format('woff2');
+  font-weight: 400 600;
+  font-display: swap;
+  ascent-override: 96.88%;
+  descent-override: 24.12%;
+  line-gap-override: 0%;
+}
+
+:root {
+  /* ---- rhythm ---- */
+  --rule: 36px;
+  --gutter: 44px;            /* distance from the sheet's left edge to the margin line (mobile) */
+  --text-gap: 16px;          /* margin line → text */
+  --text-max: 36rem;
+  --margin-x: var(--gutter); /* x of the margin line within the sheet */
+
+  /* ---- hands (handwriting fonts) ---- */
+  --hand: 'Caveat', 'Playpen Sans', cursive;
+  --asc: 0.96;
+  --desc: 0.3;
+  --fs-body: 29px;
+  --wght-body: 500;
+  --wght-title: 620;
+
+  /* ---- the quiet sans for tiny UI ---- */
+  --sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --asc-ui: 0.9688;
+  --desc-ui: 0.2412;
+  --fs-ui: 13px;
+
+  /* Where each rule sits inside its band: the baseline of one-rule body text. */
+  --rule-offset: calc(var(--rule) / 2 + (var(--asc) - var(--desc)) * var(--fs-body) / 2);
+
+  /* ---- light paper ---- */
+  --paper: #f7f2e8;
+  --paper-edge: rgba(122, 92, 52, 0.045);
+  --rule-color: rgba(96, 130, 165, 0.3);
+  --grid-color: rgba(96, 130, 165, 0.16);
+  --margin-color: #c0674a;   /* the brand mark; decorative line, 3.6:1 */
+  --note: #a4492f;           /* handwritten margin notes, 5.3:1 (AA) */
+  --ink-soft: #6b655c;       /* quiet UI text, 5.4:1 */
+  --grain-blend: multiply;
+  --grain-opacity: 1;
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .42 0 0 0 0 .34 0 0 0 0 .22 0 0 0 .085 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --fibers: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='f'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012 .05' numOctaves='2' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .5 0 0 0 0 .4 0 0 0 0 .25 0 0 0 .045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23f)'/%3E%3C/svg%3E");
+
+  /* ---- ink (light) ---- */
+  --ink-graphite: #2e2c29;
+  --ink-blueblack: #1f2a44;
+  --ink-sepia: #5b4636;
+  --ink: var(--ink-graphite);
+
+  /* ---- motion ---- */
+  --ease-paper: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --dur-turn: 560ms;
+
+  color-scheme: light;
+}
+
+/* ---- night paper ---- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #24211e;
+    --paper-edge: rgba(0, 0, 0, 0.16);
+    --rule-color: rgba(236, 227, 210, 0.11);
+    --grid-color: rgba(236, 227, 210, 0.06);
+    --margin-color: #c9785c;
+    --note: #d98b6c;
+    --ink-soft: #b2a896;
+    --grain-blend: screen;
+    --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .85 0 0 0 0 .75 0 0 0 .04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    --fibers: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='f'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012 .05' numOctaves='2' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .85 0 0 0 0 .7 0 0 0 .02 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23f)'/%3E%3C/svg%3E");
+    --ink-graphite: #ece3d2;
+    --ink-blueblack: #cdd8ec;
+    --ink-sepia: #e6cfb0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme='dark'] {
+  --paper: #24211e;
+  --paper-edge: rgba(0, 0, 0, 0.16);
+  --rule-color: rgba(236, 227, 210, 0.11);
+  --grid-color: rgba(236, 227, 210, 0.06);
+  --margin-color: #c9785c;
+  --note: #d98b6c;
+  --ink-soft: #b2a896;
+  --grain-blend: screen;
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .85 0 0 0 0 .75 0 0 0 .04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --fibers: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='f'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012 .05' numOctaves='2' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .85 0 0 0 0 .7 0 0 0 .02 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23f)'/%3E%3C/svg%3E");
+  --ink-graphite: #ece3d2;
+  --ink-blueblack: #cdd8ec;
+  --ink-sepia: #e6cfb0;
+  color-scheme: dark;
+}
+
+:root[data-ink='blueblack'] { --ink: var(--ink-blueblack); }
+:root[data-ink='sepia'] { --ink: var(--ink-sepia); }
+
+/* the clearer handwriting option */
+:root[data-hand='playpen'] {
+  --hand: 'Playpen Sans', 'Caveat', cursive;
+  --asc: 1.17;
+  --desc: 0.34;
+  --fs-body: 20px;
+  --wght-body: 400;
+  --wght-title: 400;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --rule: 40px;
+    --fs-body: 32px;
+    --fs-ui: 13.5px;
+    --text-max: 36rem;
+    --gutter: 9rem;
+    /* centre the whole page: [margin area][margin line][text column] */
+    --margin-x: max(var(--gutter), calc(50% - (var(--gutter) + var(--text-gap) + var(--text-max)) / 2 + var(--gutter)));
+  }
+  :root[data-hand='playpen'] { --fs-body: 22px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-turn: 200ms; }
+}
+:root[data-motion='off'] { --dur-turn: 200ms; }
