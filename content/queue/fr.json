@@ -284,5 +284,175 @@
    "pickedAt": "2026-10-06T09:12:02.446Z",
    "attempt": 0
   }
+ },
+ "2026-10-17": {
+  "morning": {
+   "title": "Caspar David Friedrich",
+   "qid": "Q104884",
+   "pageid": 174810,
+   "domain": "people-arts",
+   "image": {
+    "file": "File:Gerhard von Kügelgen portrait of Friedrich.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:12:02.919Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Hydrogène",
+   "qid": "Q556",
+   "pageid": 3823265,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Liquid hydrogen bubblechamber.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:12:04.037Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-18": {
+  "morning": {
+   "title": "Îles Malouines",
+   "qid": "Q9648",
+   "pageid": 71736,
+   "domain": "islands",
+   "image": {
+    "file": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T09:13:01.547Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Diplodocus",
+   "qid": "Q14330",
+   "pageid": 91407,
+   "domain": "animals",
+   "image": {
+    "file": "File:CM Diplodocus.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:13:02.286Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-19": {
+  "morning": {
+   "title": "Empire parthe",
+   "qid": "Q1986139",
+   "pageid": 28965,
+   "domain": "history",
+   "image": {
+    "file": "File:Map Parthian Empire-fr.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:13:03.780Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Seigle",
+   "qid": "Q12099",
+   "pageid": 100404,
+   "domain": "plants",
+   "image": {
+    "file": "File:Ear of rye.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:13:05.535Z",
+   "attempt": 1
+  }
+ },
+ "2026-10-20": {
+  "morning": {
+   "title": "Colorado (fleuve)",
+   "qid": "Q1265",
+   "pageid": 164214,
+   "domain": "water",
+   "image": {
+    "file": "File:Horseshoe Bend TC 27-09-2012 15-34-14.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:13:06.711Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Mauna Loa",
+   "qid": "Q159762",
+   "pageid": 221546,
+   "domain": "landscapes",
+   "image": {
+    "file": "File:Mauna Loa.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:13:07.955Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-21": {
+  "morning": {
+   "title": "M87 (galaxie)",
+   "qid": "Q14041",
+   "pageid": 138025,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Messier 87 Hubble WikiSky.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:13:09.148Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Wapiti",
+   "qid": "Q180404",
+   "pageid": 1315355,
+   "domain": "animals",
+   "image": {
+    "file": "File:Cervus canadensis2006.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:14:01.575Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-22": {
+  "morning": {
+   "title": "Allosaurus",
+   "qid": "Q14400",
+   "pageid": 126797,
+   "domain": "animals",
+   "image": {
+    "file": "File:WLA hmns Allosaurus White Background.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:14:02.568Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Ceinture d'astéroïdes",
+   "qid": "Q2179",
+   "pageid": 33187,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Asteroid belt positions-en.png",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:14:03.318Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-23": {
+  "morning": {
+   "title": "Alfred Russel Wallace",
+   "qid": "Q160627",
+   "pageid": 163778,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Alfred-Russel-Wallace-c1895.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:14:04.440Z",
+   "attempt": 0
+  }
  }
 }
