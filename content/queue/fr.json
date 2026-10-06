@@ -50,5 +50,45 @@
    "pickedAt": "2026-10-06T09:06:06.321Z",
    "attempt": 0
   }
+ },
+ "2026-10-08": {
+  "morning": {
+   "title": "Ulrich Zwingli",
+   "qid": "Q123034",
+   "pageid": 63708,
+   "domain": "people-other",
+   "image": {
+    "file": "File:Ulrich-Zwingli-1.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:07:03.201Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Capella (étoile)",
+   "qid": "Q12970",
+   "pageid": 413256,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Capella-Sun comparison.png",
+    "via": "edition:de"
+   },
+   "pickedAt": "2026-10-06T09:07:03.435Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-09": {
+  "morning": {
+   "title": "Archaea",
+   "qid": "Q10872",
+   "pageid": 323,
+   "domain": "biology",
+   "image": {
+    "file": "File:Archaea.png",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:07:04.612Z",
+   "attempt": 0
+  }
  }
 }
