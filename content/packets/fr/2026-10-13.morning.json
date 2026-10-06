@@ -50,161 +50,123 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 11000000,
-   "surface": "11 millions",
-   "sentence": "Décentralisée et fédérale, l'Allemagne compte quatre villes de plus d'un million d'habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr (Cologne et Düsseldorf, environ 11 millions d’habitants), Francfort-sur-le-Main (environ 5,5 millions), Berlin (4,5 millions) et Stuttgart (2,7 millions)."
-  },
-  "f2": {
-   "kind": "number",
-   "value": 5500000,
-   "surface": "5,5 millions",
-   "sentence": "Décentralisée et fédérale, l'Allemagne compte quatre villes de plus d'un million d'habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr (Cologne et Düsseldorf, environ 11 millions d’habitants), Francfort-sur-le-Main (environ 5,5 millions), Berlin (4,5 millions) et Stuttgart (2,7 millions)."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 4500000,
-   "surface": "4,5 millions",
-   "sentence": "Décentralisée et fédérale, l'Allemagne compte quatre villes de plus d'un million d'habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr (Cologne et Düsseldorf, environ 11 millions d’habitants), Francfort-sur-le-Main (environ 5,5 millions), Berlin (4,5 millions) et Stuttgart (2,7 millions)."
-  },
-  "f4": {
-   "kind": "number",
-   "value": 2700000,
-   "surface": "2,7 millions",
-   "sentence": "Décentralisée et fédérale, l'Allemagne compte quatre villes de plus d'un million d'habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr (Cologne et Düsseldorf, environ 11 millions d’habitants), Francfort-sur-le-Main (environ 5,5 millions), Berlin (4,5 millions) et Stuttgart (2,7 millions)."
-  },
-  "f5": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "Le pangermanisme entraîne pour la première fois l'unification des États allemands en 1871 sous la politique de Bismarck, en tant qu'État sous la forme de l'Empire allemand."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "Après la Première Guerre mondiale, et la révolution allemande de 1918-1919, l'Empire est remplacé par la république parlementaire de Weimar."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "L'accès au pouvoir des nazis en 1933 mène au volet européen de la Seconde Guerre mondiale au cours de laquelle le régime totalitaire du dictateur Adolf Hitler connu sous le nom de Troisième Reich, fondé sur un racisme — particulièrement un antisémitisme — extrême, perpètre des crimes de masse en Europe, dont la Shoah, et laisse le pays en ruines."
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
-   "sentence": "Après sa défaite militaire en 1945, l'Allemagne perd des territoires et — par la volonté des vainqueurs alliés qui entrent dans la guerre froide — est contrainte de se scinder en deux pays le 7 octobre 1949 : à l'ouest un État démocratique, la République fédérale d'Allemagne (abrégé en RFA) et, à l'est, la République démocratique allemande (abrégé en RDA) sous emprise de l'Union soviétique."
+   "sentence": "Après sa défaite militaire en 1945, l'Allemagne perd des territoires et — par la volonté des vainqueurs alliés qui entrent dans la guerre froide — est contrainte de se scinder en deux pays le 7 octobre 1949: à l'ouest un État démocratique, la République fédérale d'Allemagne et, à l'est, la République démocratique allemande sous emprise de l'Union soviétique."
   },
-  "f9": {
+  "f5": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Après sa défaite militaire en 1945, l'Allemagne perd des territoires et — par la volonté des vainqueurs alliés qui entrent dans la guerre froide — est contrainte de se scinder en deux pays le 7 octobre 1949 : à l'ouest un État démocratique, la République fédérale d'Allemagne (abrégé en RFA) et, à l'est, la République démocratique allemande (abrégé en RDA) sous emprise de l'Union soviétique."
+   "sentence": "Après sa défaite militaire en 1945, l'Allemagne perd des territoires et — par la volonté des vainqueurs alliés qui entrent dans la guerre froide — est contrainte de se scinder en deux pays le 7 octobre 1949: à l'ouest un État démocratique, la République fédérale d'Allemagne et, à l'est, la République démocratique allemande sous emprise de l'Union soviétique."
   },
-  "f10": {
+  "f6": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
-   "sentence": "Après sa défaite militaire en 1945, l'Allemagne perd des territoires et — par la volonté des vainqueurs alliés qui entrent dans la guerre froide — est contrainte de se scinder en deux pays le 7 octobre 1949 : à l'ouest un État démocratique, la République fédérale d'Allemagne (abrégé en RFA) et, à l'est, la République démocratique allemande (abrégé en RDA) sous emprise de l'Union soviétique."
+   "sentence": "Après sa défaite militaire en 1945, l'Allemagne perd des territoires et — par la volonté des vainqueurs alliés qui entrent dans la guerre froide — est contrainte de se scinder en deux pays le 7 octobre 1949: à l'ouest un État démocratique, la République fédérale d'Allemagne et, à l'est, la République démocratique allemande sous emprise de l'Union soviétique."
   },
-  "f11": {
+  "f7": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Le mur de Berlin — qui symbolise cette division dans l'ancienne capitale — tombe le 9 novembre 1989 et l'Allemagne est à nouveau réunifiée le 3 octobre 1990, Berlin en redevenant la capitale."
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "Le mur de Berlin — qui symbolise cette division dans l'ancienne capitale — tombe le 9 novembre 1989 et l'Allemagne est à nouveau réunifiée le 3 octobre 1990, Berlin en redevenant la capitale."
   },
-  "f13": {
+  "f9": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Le mur de Berlin — qui symbolise cette division dans l'ancienne capitale — tombe le 9 novembre 1989 et l'Allemagne est à nouveau réunifiée le 3 octobre 1990, Berlin en redevenant la capitale."
   },
-  "f14": {
+  "f10": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Le mur de Berlin — qui symbolise cette division dans l'ancienne capitale — tombe le 9 novembre 1989 et l'Allemagne est à nouveau réunifiée le 3 octobre 1990, Berlin en redevenant la capitale."
   },
-  "f15": {
+  "f11": {
    "kind": "number",
    "value": 83500000,
    "surface": "83,5 millions",
    "sentence": "Comptant environ 83,5 millions d'habitants, l'Allemagne est le pays le plus peuplé de l'Union européenne."
   },
-  "f16": {
+  "f12": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "L'Allemagne est en 2017 le troisième exportateur mondial derrière la Chine et les États-Unis et est le pays présentant le plus grand excédent commercial du monde en 2018."
   },
-  "f17": {
+  "f13": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "L'Allemagne est en 2017 le troisième exportateur mondial derrière la Chine et les États-Unis et est le pays présentant le plus grand excédent commercial du monde en 2018."
   },
-  "f18": {
+  "f14": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "L'Allemagne affiche un niveau de vie « très élevé » : elle est 9e au classement IDH en 2021."
+   "sentence": "L'Allemagne affiche un niveau de vie «très élevé»: elle est 9e au classement IDH en 2021."
   },
-  "f19": {
+  "f15": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "L'Allemagne est parmi les pays les plus appréciés du monde, au 7e rang en 2024 d'après un sondage de U.S. News."
   },
-  "f20": {
+  "f16": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Depuis la réunification en octobre 1990, l'Allemagne se divise en seize régions semi-autonomes appelées lands (ou Länder)."
+   "sentence": "Depuis la réunification en octobre 1990, l'Allemagne se divise en seize régions semi-autonomes appelées lands."
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "962",
    "surface": "962",
    "sentence": "De 962 à 1806, les territoires germanophones constituent le principal espace politique et territorial du Saint-Empire romain germanique.",
    "section": "Histoire"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1806",
    "surface": "1806",
    "sentence": "De 962 à 1806, les territoires germanophones constituent le principal espace politique et territorial du Saint-Empire romain germanique.",
    "section": "Histoire"
   },
-  "f23": {
-   "kind": "date",
-   "value": "1815",
-   "surface": "1815",
-   "sentence": "Après le congrès de Vienne, les États allemands se regrouperont au sein de la Confédération germanique (de 1815 à 1866) alors en proie aux luttes d'influence entre l'Autriche et la Prusse.",
-   "section": "Histoire"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "1866",
-   "surface": "1866",
-   "sentence": "Après le congrès de Vienne, les États allemands se regrouperont au sein de la Confédération germanique (de 1815 à 1866) alors en proie aux luttes d'influence entre l'Autriche et la Prusse.",
-   "section": "Histoire"
-  },
-  "f25": {
+  "f19": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "C'est en 1871, à la fin de la guerre franco-prussienne, que les divers États allemands furent réunis dans un nouvel empire dominé par la Prusse, donnant ainsi naissance à l'Allemagne unifiée moderne, dite également Deuxième Reich ou Reich Wilhelminien.",
    "section": "Histoire"
   },
-  "f26": {
+  "f20": {
    "kind": "measure",
    "value": 1918,
    "unit": "l",
@@ -212,372 +174,323 @@
    "sentence": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l'avènement de la République, puis en 1933 celui du Troisième Reich, lequel s'effondra en 1945 dans la défaite qu'entraîna la Seconde Guerre mondiale.",
    "section": "Histoire"
   },
-  "f27": {
+  "f21": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l'avènement de la République, puis en 1933 celui du Troisième Reich, lequel s'effondra en 1945 dans la défaite qu'entraîna la Seconde Guerre mondiale.",
    "section": "Histoire"
   },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
    "sentence": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l'avènement de la République, puis en 1933 celui du Troisième Reich, lequel s'effondra en 1945 dans la défaite qu'entraîna la Seconde Guerre mondiale.",
    "section": "Histoire"
   },
-  "f29": {
+  "f23": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
-   "sentence": "D'abord occupée par les forces armées de ses vainqueurs, l'Allemagne fut séparée en deux parties en 1949, qui formèrent la République fédérale d'Allemagne (dite « Allemagne de l'Ouest ») et la République démocratique allemande (dite « Allemagne de l'Est »).",
+   "sentence": "D'abord occupée par les forces armées de ses vainqueurs, l'Allemagne fut séparée en deux parties en 1949, qui formèrent la République fédérale d'Allemagne et la République démocratique allemande.",
    "section": "Histoire"
   },
-  "f30": {
+  "f24": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "La réunification a eu lieu le 3 octobre 1990, onze mois après la chute du mur de Berlin, qui marqua la réunification populaire.",
    "section": "Histoire"
   },
-  "f31": {
+  "f25": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "La réunification a eu lieu le 3 octobre 1990, onze mois après la chute du mur de Berlin, qui marqua la réunification populaire.",
    "section": "Histoire"
   },
-  "f32": {
+  "f26": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "En 1990, sa capitale redevient Berlin.",
    "section": "Histoire"
   },
-  "f33": {
+  "f27": {
    "kind": "date",
    "value": "843",
    "surface": "843",
    "sentence": "Cependant, les historiens s'entendent pour trouver les origines d'un territoire allemand dans le partage de Verdun de 843.",
    "section": "Histoire"
   },
-  "f34": {
-   "kind": "date",
-   "value": "936",
-   "surface": "936",
-   "sentence": "C'est de la Francie orientale qu'est issu le Saint-Empire romain germanique fondé par Otton Ier, dit le Grand (936-973).",
-   "section": "Histoire"
-  },
-  "f35": {
+  "f28": {
    "kind": "date",
    "value": "1438",
    "surface": "1438",
-   "sentence": "Après 1438, l'empereur porte le titre d'un « empereur élu » après son élection formelle par les sept « électeurs » de l'Empire à Francfort.",
+   "sentence": "Après 1438, l'empereur porte le titre d'un «empereur élu» après son élection formelle par les sept «électeurs» de l'Empire à Francfort.",
    "section": "Histoire"
   },
-  "f36": {
+  "f29": {
    "kind": "number",
    "value": 300,
    "surface": "300",
    "sentence": "À l'époque moderne, le Saint-Empire compte plus de 300 États qui n'obéissent que de très loin à l'empereur Habsbourg.",
    "section": "Histoire"
   },
-  "f37": {
+  "f30": {
    "kind": "date",
    "value": "1524",
    "surface": "1524",
    "sentence": "Les paysans d'Allemagne du sud se révoltèrent contre leurs seigneurs à la fin de l'année 1524.",
    "section": "Histoire"
   },
-  "f38": {
+  "f31": {
    "kind": "date",
    "value": "1525",
    "surface": "1525",
-   "sentence": "La seule détermination dont ils firent preuve se manifesta au cours de la guerre, après que les paysans eurent fait l'expérience du comportement de leurs ennemis. »\nEn avril 1525, des armées de mercenaires levées par les seigneurs entreprirent de détruire la rébellion.",
+   "sentence": "En avril 1525, des armées de mercenaires levées par les seigneurs entreprirent de détruire la rébellion.",
    "section": "Histoire"
   },
-  "f39": {
+  "f32": {
    "kind": "number",
    "value": 100000,
    "surface": "100 000",
-   "sentence": "Des milliers de paysans — certaines estimations parlent de 100 000 — furent tués, la plupart à la suite de prétendues batailles qui n'étaient que des déroutes, les hommes d'armes des princes se divertissant beaucoup dans la poursuite des fugitifs. »\nAu XVIe siècle, la réforme luthérienne continue à diviser l'Allemagne.",
+   "sentence": "Des milliers de paysans — certaines estimations parlent de 100 000 — furent tués, la plupart à la suite de prétendues batailles qui n'étaient que des déroutes, les hommes d'armes des princes se divertissant beaucoup dans la poursuite des fugitifs.»",
    "section": "Histoire"
   },
-  "f40": {
+  "f33": {
    "kind": "date",
    "value": "1546",
    "surface": "1546",
    "sentence": "En 1546, l'empereur Charles Quint entre en guerre contre les nombreux princes des villes allemands qui se sont convertis au luthéranisme.",
    "section": "Histoire"
   },
-  "f41": {
+  "f34": {
    "kind": "date",
    "value": "1555",
    "surface": "1555",
    "sentence": "Son échec à réduire le protestantisme dans le Saint-Empire est sanctionné par la paix d'Augsbourg de 1555, qui permet à chaque prince et ville libre de choisir sa religion, mais oblige les sujets à avoir la même religion que leur souverain — cujus regio, ejus religio.",
    "section": "Histoire"
   },
-  "f42": {
+  "f35": {
    "kind": "date",
    "value": "1618",
    "surface": "1618",
    "sentence": "Les progrès du calvinisme en Allemagne à la fin du XVIe siècle et la volonté de l'empereur Ferdinand II d'imposer son autorité et celle de la religion catholique aux États du Saint-Empire, entraînent la guerre de Trente Ans, qui ravage le pays de 1618 à 1648.",
    "section": "Histoire"
   },
-  "f43": {
+  "f36": {
    "kind": "date",
    "value": "1648",
    "surface": "1648",
    "sentence": "Les progrès du calvinisme en Allemagne à la fin du XVIe siècle et la volonté de l'empereur Ferdinand II d'imposer son autorité et celle de la religion catholique aux États du Saint-Empire, entraînent la guerre de Trente Ans, qui ravage le pays de 1618 à 1648.",
    "section": "Histoire"
   },
-  "f44": {
+  "f37": {
    "kind": "number",
    "value": 350,
    "surface": "350",
    "sentence": "Les traités de Westphalie entérinent l'affaiblissement du pouvoir impérial en favorisant les droits des 350 États allemands.",
    "section": "Histoire"
   },
-  "f45": {
+  "f38": {
    "kind": "date",
    "value": "1585",
    "surface": "1585",
    "sentence": "La Frankfurter Wertpapierbörse créée en 1585 par des marchands pour établir un cours unique des monnaies, devenue une bourse aux effets de commerce au XVIIe siècle, centralise depuis la fin du XVIIIe siècle la négociation de la dette publique.",
    "section": "Histoire"
   },
-  "f46": {
+  "f39": {
    "kind": "date",
    "value": "1806",
    "surface": "1806",
    "sentence": "Sous la pression des guerres de la Révolution française, le Saint-Empire est dissous en 1806 et remplacé par la confédération du Rhin sous protectorat français.",
    "section": "Histoire"
   },
-  "f47": {
-   "kind": "date",
-   "value": "1814",
-   "surface": "1814",
-   "sentence": "Après le congrès de Vienne (novembre 1814 - juin 1815), celle-ci est remplacée par la Confédération germanique (en allemand : Deutscher Bund) qui ne regroupe plus que 39 États sous la direction honorifique des Habsbourg, lesquels ne portent plus que le titre d'Empereur d'Autriche.",
-   "section": "Histoire"
-  },
-  "f48": {
-   "kind": "date",
-   "value": "1815",
-   "surface": "1815",
-   "sentence": "Après le congrès de Vienne (novembre 1814 - juin 1815), celle-ci est remplacée par la Confédération germanique (en allemand : Deutscher Bund) qui ne regroupe plus que 39 États sous la direction honorifique des Habsbourg, lesquels ne portent plus que le titre d'Empereur d'Autriche.",
-   "section": "Histoire"
-  },
-  "f49": {
+  "f40": {
    "kind": "number",
    "value": 39,
    "surface": "39",
-   "sentence": "Après le congrès de Vienne (novembre 1814 - juin 1815), celle-ci est remplacée par la Confédération germanique (en allemand : Deutscher Bund) qui ne regroupe plus que 39 États sous la direction honorifique des Habsbourg, lesquels ne portent plus que le titre d'Empereur d'Autriche.",
+   "sentence": "Après le congrès de Vienne, celle-ci est remplacée par la Confédération germanique qui ne regroupe plus que 39 États sous la direction honorifique des Habsbourg, lesquels ne portent plus que le titre d'Empereur d'Autriche.",
    "section": "Histoire"
   },
-  "f50": {
+  "f41": {
    "kind": "date",
    "value": "1834",
    "surface": "1834",
    "sentence": "À partir de 1834, le Zollverein ou union douanière commence à se constituer à l'initiative de la Prusse.",
    "section": "Histoire"
   },
-  "f51": {
+  "f42": {
    "kind": "date",
    "value": "1848",
    "surface": "1848",
    "sentence": "Les révolutions de l'année 1848 touchent la plupart des États allemands.",
    "section": "Histoire"
   },
-  "f52": {
+  "f43": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "Il est prêt à accepter la couronne que lui proposent les princes allemands, mais l'Autriche force la Prusse à renoncer en 1850.",
    "section": "Histoire"
   },
-  "f53": {
+  "f44": {
    "kind": "date",
    "value": "1815",
    "surface": "1815",
    "sentence": "L'Allemagne se retrouve dans la même situation politique qu'en 1815.",
    "section": "Histoire"
   },
-  "f54": {
+  "f45": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
    "sentence": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier.",
    "section": "Histoire"
   },
-  "f55": {
+  "f46": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "En 1866, l'armée prussienne écrase l'armée autrichienne à Sadowa.",
    "section": "Histoire"
   },
-  "f56": {
+  "f47": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "La France, en déclarant la guerre à la Prusse le 19 juillet 1870, permet de fédérer tous les États allemands autour d'un ennemi commun.",
    "section": "Histoire"
   },
-  "f57": {
+  "f48": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "La France, en déclarant la guerre à la Prusse le 19 juillet 1870, permet de fédérer tous les États allemands autour d'un ennemi commun.",
    "section": "Histoire"
   },
-  "f58": {
+  "f49": {
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "La défaite française débouche sur la proclamation de l'Empire allemand le 18 janvier 1871 dans la galerie des Glaces du château de Versailles, avec Guillaume Ier de Prusse à sa tête, entraînant également l'annexion de l'Alsace (sauf Belfort) et du nord de la Lorraine, dont la région de Metz, place-forte de première importance.",
+   "sentence": "La défaite française débouche sur la proclamation de l'Empire allemand le 18 janvier 1871 dans la galerie des Glaces du château de Versailles, avec Guillaume Ier de Prusse à sa tête, entraînant également l'annexion de l'Alsace et du nord de la Lorraine, dont la région de Metz, place-forte de première importance.",
    "section": "Histoire"
   },
-  "f59": {
+  "f50": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
-   "sentence": "La défaite française débouche sur la proclamation de l'Empire allemand le 18 janvier 1871 dans la galerie des Glaces du château de Versailles, avec Guillaume Ier de Prusse à sa tête, entraînant également l'annexion de l'Alsace (sauf Belfort) et du nord de la Lorraine, dont la région de Metz, place-forte de première importance.",
+   "sentence": "La défaite française débouche sur la proclamation de l'Empire allemand le 18 janvier 1871 dans la galerie des Glaces du château de Versailles, avec Guillaume Ier de Prusse à sa tête, entraînant également l'annexion de l'Alsace et du nord de la Lorraine, dont la région de Metz, place-forte de première importance.",
    "section": "Histoire"
   },
-  "f60": {
+  "f51": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
-   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression (1873-1896).",
+   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression.",
    "section": "Histoire"
   },
-  "f61": {
+  "f52": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %",
-   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression (1873-1896).",
+   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression.",
    "section": "Histoire"
   },
-  "f62": {
+  "f53": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
-   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression (1873-1896).",
+   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression.",
    "section": "Histoire"
   },
-  "f63": {
-   "kind": "date",
-   "value": "1873",
-   "surface": "1873",
-   "sentence": "L'indemnité de guerre de 1871, forçant la France à emprunter 25 % de son PIB pour verser de l'or à l'Allemagne, dope la spéculation immobilière à Berlin, précipitant le krach de mai 1873, le plus profond de l'histoire boursière allemande, puis la Grande Dépression (1873-1896).",
-   "section": "Histoire"
-  },
-  "f64": {
-   "kind": "date",
-   "value": "1858",
-   "surface": "1858",
-   "sentence": "La sidérurgie allemande connaît une formidable expansion, car elle profite mieux des procédés Bessemer (1858) et surtout Thomas (1877), grâce à un charbon plus abondant, même s'il est moins rentable, exploité dans les mines de la Ruhr.",
-   "section": "Histoire"
-  },
-  "f65": {
-   "kind": "date",
-   "value": "1877",
-   "surface": "1877",
-   "sentence": "La sidérurgie allemande connaît une formidable expansion, car elle profite mieux des procédés Bessemer (1858) et surtout Thomas (1877), grâce à un charbon plus abondant, même s'il est moins rentable, exploité dans les mines de la Ruhr.",
-   "section": "Histoire"
-  },
-  "f66": {
+  "f54": {
    "kind": "date",
    "value": "1890",
    "surface": "1890",
    "sentence": "Dans les années 1890, des dizaines de milliers de travailleurs polonais émigrent de Pologne vers la Ruhr pour s'embaucher dans les mines de charbon, dont une partie qui se feront embaucher après la Première Guerre mondiale par les industriels français souhaitant relancer leur économie, grâce à leur savoir-faire.",
    "section": "Histoire"
   },
-  "f67": {
-   "kind": "date",
-   "value": "1914",
-   "surface": "1914",
-   "sentence": "L'Allemagne, devenue une des puissances politiques majeures en Europe s'engage dans la Première Guerre mondiale aux côtés de l'Autriche-Hongrie (1914) et tente d'envahir la France.",
-   "section": "Histoire"
-  },
-  "f68": {
+  "f55": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "Elle prend fin en 1918 avec la défaite allemande, et l'empereur allemand, le Kaiser Guillaume II, doit abdiquer en raison de la Révolution allemande de novembre 1918.",
    "section": "Histoire"
   },
-  "f69": {
+  "f56": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "Elle prend fin en 1918 avec la défaite allemande, et l'empereur allemand, le Kaiser Guillaume II, doit abdiquer en raison de la Révolution allemande de novembre 1918.",
    "section": "Histoire"
   },
-  "f70": {
+  "f57": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Lors du traité de Versailles, l'Allemagne est considérée comme responsable de la guerre et condamnée à payer de très lourdes réparations, d'autant que les Allemands ont fait sauter les cuvelages de 18 des 19 sociétés minières françaises du nord pendant la guerre et noyé les galeries.",
    "section": "Histoire"
   },
-  "f71": {
+  "f58": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Lors du traité de Versailles, l'Allemagne est considérée comme responsable de la guerre et condamnée à payer de très lourdes réparations, d'autant que les Allemands ont fait sauter les cuvelages de 18 des 19 sociétés minières françaises du nord pendant la guerre et noyé les galeries.",
    "section": "Histoire"
   },
-  "f72": {
+  "f59": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Le traité de Versailles est finalement signé le 28 juin 1919.",
    "section": "Histoire"
   },
-  "f73": {
+  "f60": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
    "sentence": "Le traité de Versailles est finalement signé le 28 juin 1919.",
    "section": "Histoire"
   },
-  "f74": {
+  "f61": {
    "kind": "number",
    "value": 231,
    "surface": "231",
    "sentence": "Son article 231 établit que l'Allemagne et ses alliés sont responsables des dommages causés par la guerre, disposition qui devient l'une des bases juridiques des réparations réclamées à l'Allemagne.",
    "section": "Histoire"
   },
-  "f75": {
+  "f62": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "La Alsace-Lorraine, annexée par l'Allemagne en 1871, est restituée à la France.",
    "section": "Histoire"
   },
-  "f76": {
+  "f63": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Dans le nord, le Schleswig du Nord est rattaché au Danemark à la suite de plébiscites organisés en 1920.",
    "section": "Histoire"
   },
-  "f77": {
+  "f64": {
    "kind": "date",
    "value": "1921",
    "surface": "1921",
    "sentence": "La Haute-Silésie fait l'objet d'un plébiscite en mars 1921, conformément aux dispositions du traité.",
    "section": "Histoire"
   },
-  "f78": {
+  "f65": {
    "kind": "date",
    "value": "1922",
    "surface": "1922",
    "sentence": "La frontière définitive est fixée en 1922 et laisse des populations allemandes et polonaises de part et d'autre de la nouvelle frontière.",
    "section": "Histoire"
   },
-  "f79": {
+  "f66": {
    "kind": "measure",
    "value": 88000,
    "unit": "km2",
@@ -585,49 +498,49 @@
    "sentence": "L'Allemagne perd 88 000 km2 et huit millions d'habitants.",
    "section": "Histoire"
   },
-  "f80": {
+  "f67": {
    "kind": "number",
    "value": 100000,
    "surface": "100 000",
    "sentence": "Le service militaire est aboli et l'armée est réduite à 100 000 hommes dont 5 000 officiers.",
    "section": "Histoire"
   },
-  "f81": {
+  "f68": {
    "kind": "number",
    "value": 5000,
    "surface": "5 000",
    "sentence": "Le service militaire est aboli et l'armée est réduite à 100 000 hommes dont 5 000 officiers.",
    "section": "Histoire"
   },
-  "f82": {
+  "f69": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Sa flotte de guerre se saborde à Scapa Flow, le 26 juin 1919.",
    "section": "Histoire"
   },
-  "f83": {
+  "f70": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
    "sentence": "Sa flotte de guerre se saborde à Scapa Flow, le 26 juin 1919.",
    "section": "Histoire"
   },
-  "f84": {
+  "f71": {
    "kind": "date",
    "value": "1921",
    "surface": "1921",
    "sentence": "Les réparations de guerre sont évaluées en 1921 à 132 milliards de marks-or à payer en 30 ans.",
    "section": "Histoire"
   },
-  "f85": {
+  "f72": {
    "kind": "number",
    "value": 132000000000,
    "surface": "132 milliards",
    "sentence": "Les réparations de guerre sont évaluées en 1921 à 132 milliards de marks-or à payer en 30 ans.",
    "section": "Histoire"
   },
-  "f86": {
+  "f73": {
    "kind": "measure",
    "value": 30,
    "unit": "ans",
@@ -635,63 +548,63 @@
    "sentence": "Les réparations de guerre sont évaluées en 1921 à 132 milliards de marks-or à payer en 30 ans.",
    "section": "Histoire"
   },
-  "f87": {
+  "f74": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Malgré les contraintes imposées par le traité de Versailles, l'industrie allemande connaît une reprise importante au cours des années 1920.",
    "section": "Histoire"
   },
-  "f88": {
+  "f75": {
    "kind": "date",
    "value": "1923",
    "surface": "1923",
    "sentence": "Après les difficultés de l'immédiat après-guerre et la crise de 1923, la production industrielle progresse fortement durant la période de relative stabilité qui suit la stabilisation monétaire et le plan Dawes.",
    "section": "Histoire"
   },
-  "f89": {
+  "f76": {
    "kind": "date",
    "value": "1929",
    "surface": "1929",
-   "sentence": "Le pangermanisme dévoyé en un nationalisme hostile à l'impérialisme franco-britannique et raciste envers les populations juives et slaves, le ressentiment contre les conditions du traité de Versailles et les conséquences particulièrement dures de la crise économique mondiale de 1929 permettent au NSDAP (parti nazi) d'Adolf Hitler d'accéder par les urnes au pouvoir en 1933.",
+   "sentence": "Le pangermanisme dévoyé en un nationalisme hostile à l'impérialisme franco-britannique et raciste envers les populations juives et slaves, le ressentiment contre les conditions du traité de Versailles et les conséquences particulièrement dures de la crise économique mondiale de 1929 permettent au NSDAP d'Adolf Hitler d'accéder par les urnes au pouvoir en 1933.",
    "section": "Histoire"
   },
-  "f90": {
+  "f77": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
-   "sentence": "Le pangermanisme dévoyé en un nationalisme hostile à l'impérialisme franco-britannique et raciste envers les populations juives et slaves, le ressentiment contre les conditions du traité de Versailles et les conséquences particulièrement dures de la crise économique mondiale de 1929 permettent au NSDAP (parti nazi) d'Adolf Hitler d'accéder par les urnes au pouvoir en 1933.",
+   "sentence": "Le pangermanisme dévoyé en un nationalisme hostile à l'impérialisme franco-britannique et raciste envers les populations juives et slaves, le ressentiment contre les conditions du traité de Versailles et les conséquences particulièrement dures de la crise économique mondiale de 1929 permettent au NSDAP d'Adolf Hitler d'accéder par les urnes au pouvoir en 1933.",
    "section": "Histoire"
   },
-  "f91": {
+  "f78": {
    "kind": "date",
    "value": "1935",
    "surface": "1935",
    "sentence": "En 1935, l'Allemagne devient officiellement antisémite en promulguant les lois de Nuremberg.",
    "section": "Histoire"
   },
-  "f92": {
+  "f79": {
    "kind": "date",
    "value": "1939",
    "surface": "1939",
    "sentence": "La politique d'Hitler consistant à annexer ou envahir ses voisins finit par provoquer la Seconde Guerre mondiale le 1er septembre 1939.",
    "section": "Histoire"
   },
-  "f93": {
+  "f80": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
    "sentence": "Mais, pendant l'hiver 1941-1942, l'armée allemande subit de lourdes pertes sur le front russe.",
    "section": "Histoire"
   },
-  "f94": {
+  "f81": {
    "kind": "date",
    "value": "1942",
    "surface": "1942",
-   "sentence": "En 1942-1943, la guerre tourne en faveur des pays alliés : le Royaume-Uni, le Canada, les États-Unis, l'URSS écrasent finalement les armées de l'Axe, envahissant finalement Berlin.",
+   "sentence": "En 1942-1943, la guerre tourne en faveur des pays alliés: le Royaume-Uni, le Canada, les États-Unis, l'URSS écrasent finalement les armées de l'Axe, envahissant finalement Berlin.",
    "section": "Histoire"
   },
-  "f95": {
+  "f82": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -699,287 +612,245 @@
    "sentence": "La Shoah est l'extermination systématique par l'Allemagne nazie d'entre cinq et six millions de juifs, soit les deux tiers des juifs d'Europe et environ 40 % des juifs du monde.",
    "section": "Histoire"
   },
-  "f96": {
+  "f83": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Le 30 avril 1945, Hitler se suicide.",
    "section": "Histoire"
   },
-  "f97": {
+  "f84": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
    "sentence": "Le 30 avril 1945, Hitler se suicide.",
    "section": "Histoire"
   },
-  "f98": {
+  "f85": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne (comme le plan Morgenthau), elle est finalement divisée en deux parties durant toute la Guerre froide : la RFA (République fédérale d'Allemagne) créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA (République démocratique allemande) créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
+   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne, elle est finalement divisée en deux parties durant toute la Guerre froide: la RFA créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
    "section": "Histoire"
   },
-  "f99": {
+  "f86": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
-   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne (comme le plan Morgenthau), elle est finalement divisée en deux parties durant toute la Guerre froide : la RFA (République fédérale d'Allemagne) créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA (République démocratique allemande) créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
+   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne, elle est finalement divisée en deux parties durant toute la Guerre froide: la RFA créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
    "section": "Histoire"
   },
-  "f100": {
+  "f87": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne (comme le plan Morgenthau), elle est finalement divisée en deux parties durant toute la Guerre froide : la RFA (République fédérale d'Allemagne) créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA (République démocratique allemande) créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
+   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne, elle est finalement divisée en deux parties durant toute la Guerre froide: la RFA créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
    "section": "Histoire"
   },
-  "f101": {
+  "f88": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
-   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne (comme le plan Morgenthau), elle est finalement divisée en deux parties durant toute la Guerre froide : la RFA (République fédérale d'Allemagne) créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA (République démocratique allemande) créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
+   "sentence": "Après plusieurs propositions pour une nouvelle Allemagne, elle est finalement divisée en deux parties durant toute la Guerre froide: la RFA créée le 23 mai 1949 à l'Ouest avec Bonn pour capitale et siège administratif, et la RDA créée le 7 octobre 1949 à l'Est avec Berlin-Est pour capitale.",
    "section": "Histoire"
   },
-  "f102": {
+  "f89": {
    "kind": "date",
    "value": "1957",
    "surface": "1957",
    "sentence": "La Sarre, d’abord autonome, revient à la RFA le 1er janvier 1957.",
    "section": "Histoire"
   },
-  "f103": {
+  "f90": {
    "kind": "number",
    "value": 13000000,
    "surface": "13 millions",
    "sentence": "Le creux démographique provoqué par la guerre est rapidement compensé par l'arrivée d'environ 13 millions d'Allemands expulsés des anciens territoires d'Allemagne-Orientale et des pays d'Europe de l'Est.",
    "section": "Histoire"
   },
-  "f104": {
-   "kind": "date",
-   "value": "1948",
-   "surface": "1948",
-   "sentence": "L'Allemagne de l'Ouest, sous l'impulsion du plan Marshall (1948-1952), renoue rapidement avec la croissance économique.",
-   "section": "Histoire"
-  },
-  "f105": {
+  "f91": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
-   "sentence": "Si la prospérité économique se poursuit au cours de ces décennies, des contestations sociales apparaissent régulièrement : mouvements étudiants en 1968, terrorisme d'extrême-gauche dans les années 1970, mouvement antinucléaire dans les années 1980.",
+   "sentence": "Si la prospérité économique se poursuit au cours de ces décennies, des contestations sociales apparaissent régulièrement: mouvements étudiants en 1968, terrorisme d'extrême-gauche dans les années 1970, mouvement antinucléaire dans les années 1980.",
    "section": "Histoire"
   },
-  "f106": {
+  "f92": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
-   "sentence": "Si la prospérité économique se poursuit au cours de ces décennies, des contestations sociales apparaissent régulièrement : mouvements étudiants en 1968, terrorisme d'extrême-gauche dans les années 1970, mouvement antinucléaire dans les années 1980.",
+   "sentence": "Si la prospérité économique se poursuit au cours de ces décennies, des contestations sociales apparaissent régulièrement: mouvements étudiants en 1968, terrorisme d'extrême-gauche dans les années 1970, mouvement antinucléaire dans les années 1980.",
    "section": "Histoire"
   },
-  "f107": {
+  "f93": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
-   "sentence": "Si la prospérité économique se poursuit au cours de ces décennies, des contestations sociales apparaissent régulièrement : mouvements étudiants en 1968, terrorisme d'extrême-gauche dans les années 1970, mouvement antinucléaire dans les années 1980.",
+   "sentence": "Si la prospérité économique se poursuit au cours de ces décennies, des contestations sociales apparaissent régulièrement: mouvements étudiants en 1968, terrorisme d'extrême-gauche dans les années 1970, mouvement antinucléaire dans les années 1980.",
    "section": "Histoire"
   },
-  "f108": {
-   "kind": "date",
-   "value": "1961",
-   "surface": "1961",
-   "sentence": "Ses relations avec la RDA varient selon les années, entre tensions (construction du mur de Berlin en 1961, crise des euromissiles en 1983) et détente (Ostpolitik en 1971, visites diplomatiques en 1988).",
-   "section": "Histoire"
-  },
-  "f109": {
-   "kind": "date",
-   "value": "1983",
-   "surface": "1983",
-   "sentence": "Ses relations avec la RDA varient selon les années, entre tensions (construction du mur de Berlin en 1961, crise des euromissiles en 1983) et détente (Ostpolitik en 1971, visites diplomatiques en 1988).",
-   "section": "Histoire"
-  },
-  "f110": {
-   "kind": "date",
-   "value": "1971",
-   "surface": "1971",
-   "sentence": "Ses relations avec la RDA varient selon les années, entre tensions (construction du mur de Berlin en 1961, crise des euromissiles en 1983) et détente (Ostpolitik en 1971, visites diplomatiques en 1988).",
-   "section": "Histoire"
-  },
-  "f111": {
-   "kind": "date",
-   "value": "1988",
-   "surface": "1988",
-   "sentence": "Ses relations avec la RDA varient selon les années, entre tensions (construction du mur de Berlin en 1961, crise des euromissiles en 1983) et détente (Ostpolitik en 1971, visites diplomatiques en 1988).",
-   "section": "Histoire"
-  },
-  "f112": {
+  "f94": {
    "kind": "date",
    "value": "1963",
    "surface": "1963",
    "sentence": "L'amitié franco-allemande naît du rapprochement entre Konrad Adenauer et Charles de Gaulle en 1963, et est considérée encore aujourd'hui comme le moteur de l'Europe.",
    "section": "Histoire"
   },
-  "f113": {
-   "kind": "date",
-   "value": "1953",
-   "surface": "1953",
-   "sentence": "L'Allemagne de l'Est, de son côté, sous influence soviétique et membre du pacte de Varsovie, à l'économie planifiée, s'enfonce dans la stagnation économique et est politiquement muselée par le Parti communiste SED (contestation violemment réprimée en 1953, surveillance constante de la population par la Stasi).",
-   "section": "Histoire"
-  },
-  "f114": {
+  "f95": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Le mur de Berlin chute le 9 novembre 1989, prélude à la réunification de l'Allemagne du 3 octobre 1990.",
    "section": "Histoire"
   },
-  "f115": {
+  "f96": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "Le mur de Berlin chute le 9 novembre 1989, prélude à la réunification de l'Allemagne du 3 octobre 1990.",
    "section": "Histoire"
   },
-  "f116": {
+  "f97": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Le mur de Berlin chute le 9 novembre 1989, prélude à la réunification de l'Allemagne du 3 octobre 1990.",
    "section": "Histoire"
   },
-  "f117": {
+  "f98": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Le mur de Berlin chute le 9 novembre 1989, prélude à la réunification de l'Allemagne du 3 octobre 1990.",
    "section": "Histoire"
   },
-  "f118": {
+  "f99": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "Il faut attendre toutefois 1999 pour que le transfert total soit effectif, certains ministères conservant un siège à Bonn, ancienne capitale de l'Ouest devenue ville fédérale.",
    "section": "Histoire"
   },
-  "f119": {
+  "f100": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Le coût de la réunification a entraîné d'importantes difficultés économiques pour le pays depuis les années 1990.",
    "section": "Histoire"
   },
-  "f120": {
+  "f101": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "De 1991 à 2000, 150 milliards de DM ont été investis chaque année à l'est de l'Allemagne, sans parvenir à sortir cette région de la crise ni d’un important chômage.",
    "section": "Histoire"
   },
-  "f121": {
+  "f102": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "De 1991 à 2000, 150 milliards de DM ont été investis chaque année à l'est de l'Allemagne, sans parvenir à sortir cette région de la crise ni d’un important chômage.",
    "section": "Histoire"
   },
-  "f122": {
+  "f103": {
    "kind": "number",
    "value": 150000000000,
    "surface": "150 milliards",
    "sentence": "De 1991 à 2000, 150 milliards de DM ont été investis chaque année à l'est de l'Allemagne, sans parvenir à sortir cette région de la crise ni d’un important chômage.",
    "section": "Histoire"
   },
-  "f123": {
+  "f104": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",
-   "sentence": "En 2001 les usines devenues inutiles et surtout des logements d'après-guerre à réhabiliter aboutit au programme « Transformer les villes de l’Est ».",
+   "sentence": "En 2001 les usines devenues inutiles et surtout des logements d'après-guerre à réhabiliter aboutit au programme «Transformer les villes de l’Est».",
    "section": "Histoire"
   },
-  "f124": {
+  "f105": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Des réformes en profondeur sont entreprises dans les deux parties de l'Allemagne dans les années 1990 et 2000, afin d'inciter le pays à être plus compétitif, en particulier celle du système de retraite ou celle du marché du travail.",
    "section": "Histoire"
   },
-  "f125": {
+  "f106": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Des réformes en profondeur sont entreprises dans les deux parties de l'Allemagne dans les années 1990 et 2000, afin d'inciter le pays à être plus compétitif, en particulier celle du système de retraite ou celle du marché du travail.",
    "section": "Histoire"
   },
-  "f126": {
+  "f107": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "Après la défaite électorale d'Helmut Kohl en 1998, le gouvernement allemand est dirigé jusqu'en 2005 par Gerhard Schröder, du SPD et allié aux écologistes Die Grünen.",
    "section": "Histoire"
   },
-  "f127": {
+  "f108": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Après la défaite électorale d'Helmut Kohl en 1998, le gouvernement allemand est dirigé jusqu'en 2005 par Gerhard Schröder, du SPD et allié aux écologistes Die Grünen.",
    "section": "Histoire"
   },
-  "f128": {
+  "f109": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "En 2005, le cardinal allemand Joseph Ratzinger est élu pape sous le nom de Benoît XVI.",
    "section": "Histoire"
   },
-  "f129": {
+  "f110": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Après les élections législatives anticipées de 2005, la chancelière chrétienne démocrate Angela Merkel dirige un gouvernement basé sur une « grande coalition » qui regroupe cette fois la CDU (et sa branche bavaroise la CSU) et le SPD.",
+   "sentence": "Après les élections législatives anticipées de 2005, la chancelière chrétienne démocrate Angela Merkel dirige un gouvernement basé sur une «grande coalition» qui regroupe cette fois la CDU et le SPD.",
    "section": "Histoire"
   },
-  "f130": {
+  "f111": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Depuis 2009, la même Angela Merkel est à la tête d'une coalition « noire-jaune » entre la CDU et les libéraux du FDP, avant de former une nouvelle « grande coalition » après les élections fédérales en 2013.",
+   "sentence": "Depuis 2009, la même Angela Merkel est à la tête d'une coalition «noire-jaune» entre la CDU et les libéraux du FDP, avant de former une nouvelle «grande coalition» après les élections fédérales en 2013.",
    "section": "Histoire"
   },
-  "f131": {
+  "f112": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
-   "sentence": "Depuis 2009, la même Angela Merkel est à la tête d'une coalition « noire-jaune » entre la CDU et les libéraux du FDP, avant de former une nouvelle « grande coalition » après les élections fédérales en 2013.",
+   "sentence": "Depuis 2009, la même Angela Merkel est à la tête d'une coalition «noire-jaune» entre la CDU et les libéraux du FDP, avant de former une nouvelle «grande coalition» après les élections fédérales en 2013.",
    "section": "Histoire"
   },
-  "f132": {
+  "f113": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "Elle se maintient au pouvoir jusqu'en 2021.",
    "section": "Histoire"
   },
-  "f133": {
+  "f114": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "En 2015, lors de la crise migratoire en Europe, Angela Merkel affirme que l'Allemagne doit être un pays d'accueil et ouvre les portes à environ un million de migrants.",
    "section": "Histoire"
   },
-  "f134": {
+  "f115": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Le pays connait à cette époque un dynamisme économique important, contrairement à d'autres pays européens touchés par la crise financière de 2008, et fait face au vieillissement de sa population.",
    "section": "Histoire"
   },
-  "f135": {
+  "f116": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "Olaf Scholz devient chancelier en décembre 2021, au sein d'une coalition jamaïcaine réunissant sociaux-démocrates, écologistes et libéraux.",
    "section": "Histoire"
   },
-  "f136": {
+  "f117": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",

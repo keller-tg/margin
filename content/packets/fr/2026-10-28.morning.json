@@ -57,844 +57,721 @@
    "kind": "number",
    "value": 6852,
    "surface": "6 852",
-   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles (de plus de 100 m2), dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
+   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles, dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
   },
   "f2": {
    "kind": "number",
    "value": 14125,
    "surface": "14 125",
-   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles (de plus de 100 m2), dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
+   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles, dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
   },
   "f3": {
-   "kind": "measure",
-   "value": 100,
-   "unit": "m2",
-   "surface": "100 m2",
-   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles (de plus de 100 m2), dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
-  },
-  "f4": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
    "surface": "95 %",
-   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles (de plus de 100 m2), dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
+   "sentence": "Le Japon est un archipel dont le nombre d'îles varie, suivant les estimations, de 6 852 à 14 125 îles, dont les quatre plus grandes sont Honshū, Hokkaidō, Kyūshū, et Shikoku représentant à elles seules 95 % de la superficie terrestre du pays."
   },
-  "f5": {
-   "kind": "measure",
-   "value": 3776,
-   "unit": "m",
-   "surface": "3 776 m",
-   "sentence": "Ainsi, le plus haut sommet du Japon, le mont Fuji (3 776 m), est un volcan dont la dernière éruption a eu lieu en 1707."
-  },
-  "f6": {
+  "f4": {
    "kind": "date",
    "value": "1707",
    "surface": "1707",
-   "sentence": "Ainsi, le plus haut sommet du Japon, le mont Fuji (3 776 m), est un volcan dont la dernière éruption a eu lieu en 1707."
+   "sentence": "Ainsi, le plus haut sommet du Japon, le mont Fuji, est un volcan dont la dernière éruption a eu lieu en 1707."
   },
-  "f7": {
+  "f5": {
    "kind": "number",
    "value": 123000000,
    "surface": "123 millions",
-   "sentence": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d'habitants pour 377 975 km2 (325 hab./km2), dont l'essentiel est concentré sur les étroites plaines littorales du sud de Honshū et du nord de Shikoku et Kyūshū, formant un ensemble pratiquement urbanisé en continu appelé « Mégalopole japonaise » ou « Taiheiyō Belt » (太平洋ベルト, Taiheiyō beruto, littéralement « ceinture Pacifique »)."
+   "sentence": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d'habitants pour 377 975 km2, dont l'essentiel est concentré sur les étroites plaines littorales du sud de Honshū et du nord de Shikoku et Kyūshū, formant un ensemble pratiquement urbanisé en continu appelé «Mégalopole japonaise» ou «Taiheiyō Belt»."
   },
-  "f8": {
+  "f6": {
    "kind": "measure",
    "value": 377975,
    "unit": "km2",
    "surface": "377 975 km2",
-   "sentence": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d'habitants pour 377 975 km2 (325 hab./km2), dont l'essentiel est concentré sur les étroites plaines littorales du sud de Honshū et du nord de Shikoku et Kyūshū, formant un ensemble pratiquement urbanisé en continu appelé « Mégalopole japonaise » ou « Taiheiyō Belt » (太平洋ベルト, Taiheiyō beruto, littéralement « ceinture Pacifique »)."
+   "sentence": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d'habitants pour 377 975 km2, dont l'essentiel est concentré sur les étroites plaines littorales du sud de Honshū et du nord de Shikoku et Kyūshū, formant un ensemble pratiquement urbanisé en continu appelé «Mégalopole japonaise» ou «Taiheiyō Belt»."
   },
-  "f9": {
-   "kind": "number",
-   "value": 325,
-   "surface": "325",
-   "sentence": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d'habitants pour 377 975 km2 (325 hab./km2), dont l'essentiel est concentré sur les étroites plaines littorales du sud de Honshū et du nord de Shikoku et Kyūshū, formant un ensemble pratiquement urbanisé en continu appelé « Mégalopole japonaise » ou « Taiheiyō Belt » (太平洋ベルト, Taiheiyō beruto, littéralement « ceinture Pacifique »)."
-  },
-  "f10": {
+  "f7": {
    "kind": "number",
    "value": 35000000,
    "surface": "35 millions",
    "sentence": "Le Grand Tokyo, qui comprend la capitale Tokyo et plusieurs préfectures environnantes, est la plus grande région métropolitaine du monde, avec plus de 35 millions d'habitants."
   },
-  "f11": {
+  "f8": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "La ville a été première place financière mondiale en 1990."
   },
-  "f12": {
+  "f9": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
    "sentence": "Depuis l'adoption de sa constitution en 1947, le Japon a maintenu une monarchie constitutionnelle avec un empereur et un parlement élu, la Diète."
   },
-  "f13": {
-   "kind": "date",
-   "value": "2017",
-   "surface": "2017",
-   "sentence": "Ce dynamisme économique s'appuie surtout sur une industrie performante et innovante, portée par de grands groupes d'importance mondiale appelés Keiretsu (系列), tout particulièrement dans les secteurs de la construction automobile (troisième producteur mondial en 2017) ou de l'électronique de pointe."
-  },
-  "f14": {
+  "f10": {
    "kind": "number",
    "value": 325000000000000,
    "surface": "325 000 milliards",
-   "sentence": "Acteur majeur du commerce international et puissance épargnante, il a ainsi accumulé une position créancière nette vis-à-vis du reste du monde (en) de plus de 325 000 milliards de yens, le plaçant en première position devant la Chine."
+   "sentence": "Acteur majeur du commerce international et puissance épargnante, il a ainsi accumulé une position créancière nette vis-à-vis du reste du monde de plus de 325 000 milliards de yens, le plaçant en première position devant la Chine."
   },
-  "f15": {
-   "kind": "date",
-   "value": "2021",
-   "surface": "2021",
-   "sentence": "C'est un pays développé, avec un niveau de vie très élevé (dix-neuvième IDH le plus élevé en 2021), de relativement faibles inégalités (vingtième IDH ajusté aux inégalités le plus élevé en 2023) et la plus longue espérance de vie au monde selon les estimations de l'ONU."
-  },
-  "f16": {
-   "kind": "date",
-   "value": "2023",
-   "surface": "2023",
-   "sentence": "C'est un pays développé, avec un niveau de vie très élevé (dix-neuvième IDH le plus élevé en 2021), de relativement faibles inégalités (vingtième IDH ajusté aux inégalités le plus élevé en 2023) et la plus longue espérance de vie au monde selon les estimations de l'ONU."
-  },
-  "f17": {
+  "f11": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "En 2025, le Japon est classé en 12e position pour l'indice mondial de l'innovation."
   },
-  "f18": {
+  "f12": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Le pays est depuis 2010 en déclin démographique."
   },
-  "f19": {
+  "f13": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "C'est également le pays pour lequel le poids de la dette publique brute est le plus important au monde, cette dernière s'élève en 2017 à 240 % du PIB."
   },
-  "f20": {
+  "f14": {
    "kind": "measure",
    "value": 240,
    "unit": "%",
    "surface": "240 %",
    "sentence": "C'est également le pays pour lequel le poids de la dette publique brute est le plus important au monde, cette dernière s'élève en 2017 à 240 % du PIB."
   },
-  "f21": {
+  "f15": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "Une désignation officielle du Japon sous la Constitution de 1889 était Dai-Nippon Teikoku, sans que cela n'ait rendu caduque la lecture Nihon.",
    "section": "Étymologie"
   },
-  "f22": {
+  "f16": {
    "kind": "number",
    "value": 250,
    "surface": "250",
-   "sentence": "Yamato (大和) est désormais le nom que l'on donne à la période historique allant de 250 à 710.",
+   "sentence": "Yamato est désormais le nom que l'on donne à la période historique allant de 250 à 710.",
    "section": "Étymologie"
   },
-  "f23": {
+  "f17": {
    "kind": "date",
    "value": "710",
    "surface": "710",
-   "sentence": "Yamato (大和) est désormais le nom que l'on donne à la période historique allant de 250 à 710.",
+   "sentence": "Yamato est désormais le nom que l'on donne à la période historique allant de 250 à 710.",
    "section": "Étymologie"
   },
-  "f24": {
+  "f18": {
    "kind": "measure",
    "value": 12000,
    "unit": "ans",
    "surface": "12 000 ans",
-   "sentence": "Une présence humaine y est indiquée par l'archéologie sur plusieurs niveaux de fouille depuis plus de 12 000 ans ; celle-ci débute par l'arrivée des Aïnous, peuple indigène paléo-sibérien, les premiers habitants de l'archipel japonais.",
+   "sentence": "Une présence humaine y est indiquée par l'archéologie sur plusieurs niveaux de fouille depuis plus de 12 000 ans; celle-ci débute par l'arrivée des Aïnous, peuple indigène paléo-sibérien, les premiers habitants de l'archipel japonais.",
    "section": "Histoire"
   },
-  "f25": {
-   "kind": "date",
-   "value": "1192",
-   "surface": "1192",
-   "sentence": "Les empereurs étaient les dirigeants symboliques : le véritable pouvoir était le plus souvent tenu par les puissants nobles de la Cour, des régents du clan Fujiwara (du VIIIe siècle au milieu du XIe siècle) aux shoguns (généraux en chef des armées, à partir de 1192).",
-   "section": "Histoire"
-  },
-  "f26": {
-   "kind": "date",
-   "value": "1053",
-   "surface": "1053",
-   "sentence": "L'apogée de l'autorité impériale se situe au début de l'époque de Nara (première partie du VIIIe siècle) et à la fin de celle de Heian par le biais du système des empereurs retirés (d'environ 1053 jusqu'à 1085-1092).",
-   "section": "Histoire"
-  },
-  "f27": {
-   "kind": "date",
-   "value": "1085",
-   "surface": "1085",
-   "sentence": "L'apogée de l'autorité impériale se situe au début de l'époque de Nara (première partie du VIIIe siècle) et à la fin de celle de Heian par le biais du système des empereurs retirés (d'environ 1053 jusqu'à 1085-1092).",
-   "section": "Histoire"
-  },
-  "f28": {
+  "f19": {
    "kind": "date",
    "value": "1573",
    "surface": "1573",
-   "sentence": "Une succession de trois daimyo conquérants entre 1573 et 1603 (époque Azuchi Momoyama) permet au Japon de retrouver définitivement une unité politique et d'encadrer l'organisation féodale par le système des han.",
+   "sentence": "Une succession de trois daimyo conquérants entre 1573 et 1603 permet au Japon de retrouver définitivement une unité politique et d'encadrer l'organisation féodale par le système des han.",
    "section": "Histoire"
   },
-  "f29": {
+  "f20": {
    "kind": "date",
    "value": "1603",
    "surface": "1603",
-   "sentence": "Une succession de trois daimyo conquérants entre 1573 et 1603 (époque Azuchi Momoyama) permet au Japon de retrouver définitivement une unité politique et d'encadrer l'organisation féodale par le système des han.",
+   "sentence": "Une succession de trois daimyo conquérants entre 1573 et 1603 permet au Japon de retrouver définitivement une unité politique et d'encadrer l'organisation féodale par le système des han.",
    "section": "Histoire"
   },
-  "f30": {
-   "kind": "date",
-   "value": "1573",
-   "surface": "1573",
-   "sentence": "Ces trois « unificateurs du Japon » sont successivement : Oda Nobunaga (1573-1582), Toyotomi Hideyoshi (1583-1598) et enfin Tokugawa Ieyasu qui s'impose à la bataille de Sekigahara en 1600 pour fonder en 1603 un gouvernement shogunal qui, depuis sa capitale d'Edo, va diriger l'archipel pendant deux siècles et demi (époque d'Edo).",
-   "section": "Histoire"
-  },
-  "f31": {
-   "kind": "date",
-   "value": "1583",
-   "surface": "1583",
-   "sentence": "Ces trois « unificateurs du Japon » sont successivement : Oda Nobunaga (1573-1582), Toyotomi Hideyoshi (1583-1598) et enfin Tokugawa Ieyasu qui s'impose à la bataille de Sekigahara en 1600 pour fonder en 1603 un gouvernement shogunal qui, depuis sa capitale d'Edo, va diriger l'archipel pendant deux siècles et demi (époque d'Edo).",
-   "section": "Histoire"
-  },
-  "f32": {
+  "f21": {
    "kind": "date",
    "value": "1600",
    "surface": "1600",
-   "sentence": "Ces trois « unificateurs du Japon » sont successivement : Oda Nobunaga (1573-1582), Toyotomi Hideyoshi (1583-1598) et enfin Tokugawa Ieyasu qui s'impose à la bataille de Sekigahara en 1600 pour fonder en 1603 un gouvernement shogunal qui, depuis sa capitale d'Edo, va diriger l'archipel pendant deux siècles et demi (époque d'Edo).",
+   "sentence": "Ces trois «unificateurs du Japon» sont successivement: Oda Nobunaga, Toyotomi Hideyoshi et enfin Tokugawa Ieyasu qui s'impose à la bataille de Sekigahara en 1600 pour fonder en 1603 un gouvernement shogunal qui, depuis sa capitale d'Edo, va diriger l'archipel pendant deux siècles et demi.",
    "section": "Histoire"
   },
-  "f33": {
+  "f22": {
    "kind": "date",
    "value": "1603",
    "surface": "1603",
-   "sentence": "Ces trois « unificateurs du Japon » sont successivement : Oda Nobunaga (1573-1582), Toyotomi Hideyoshi (1583-1598) et enfin Tokugawa Ieyasu qui s'impose à la bataille de Sekigahara en 1600 pour fonder en 1603 un gouvernement shogunal qui, depuis sa capitale d'Edo, va diriger l'archipel pendant deux siècles et demi (époque d'Edo).",
+   "sentence": "Ces trois «unificateurs du Japon» sont successivement: Oda Nobunaga, Toyotomi Hideyoshi et enfin Tokugawa Ieyasu qui s'impose à la bataille de Sekigahara en 1600 pour fonder en 1603 un gouvernement shogunal qui, depuis sa capitale d'Edo, va diriger l'archipel pendant deux siècles et demi.",
    "section": "Histoire"
   },
-  "f34": {
-   "kind": "date",
-   "value": "1543",
-   "surface": "1543",
-   "sentence": "À partir du XVIe siècle, des commerçants venus tout d'abord du Portugal (1543), puis des Pays-Bas et d'Angleterre débarquèrent au Japon avec des missionnaires chrétiens.",
-   "section": "Histoire"
-  },
-  "f35": {
+  "f23": {
    "kind": "date",
    "value": "1635",
    "surface": "1635",
-   "sentence": "Pendant la première partie du XVIIe siècle, le bakufu (shogunat) Tokugawa craignit que ces missionnaires portugais ne fussent la source de périls analogues à ceux que subirent ses voisins (telles les prémices d'une conquête militaire par les puissances européennes ou un anéantissement) et la religion chrétienne fut formellement interdite en 1635 sous peine de mort accompagnée de torture.",
+   "sentence": "Pendant la première partie du XVIIe siècle, le bakufu Tokugawa craignit que ces missionnaires portugais ne fussent la source de périls analogues à ceux que subirent ses voisins et la religion chrétienne fut formellement interdite en 1635 sous peine de mort accompagnée de torture.",
    "section": "Histoire"
   },
-  "f36": {
+  "f24": {
    "kind": "date",
    "value": "1639",
    "surface": "1639",
    "sentence": "Puis, en 1639, le Japon cessa toute relation avec l'étranger, à l'exception de certains contacts restreints avec des marchands chinois et néerlandais à Nagasaki, précisément sur l'île de Dejima.",
    "section": "Histoire"
   },
-  "f37": {
+  "f25": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "Le pays signe la convention de Kanagawa en 1854, premier d'une série de traités inégaux que le pays signe les années suivantes avec d'autres puissances.",
    "section": "Histoire"
   },
-  "f38": {
+  "f26": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
    "sentence": "Ceci plonge le pays dans une période d'instabilité politique à l'issue de laquelle de grands clans du sud comme Satsuma et Chōshū s'imposent comme grandes forces politiques\nLors de l'ère Meiji qui commence en 1868 de nombreuses réformes sont mises en œuvre.",
    "section": "Histoire"
   },
-  "f39": {
+  "f27": {
    "kind": "date",
    "value": "1867",
    "surface": "1867",
    "sentence": "Le dernier shogun Tokugawa Yoshinobu remet ses pouvoirs à l'empereur Meiji en 1867.",
    "section": "Histoire"
   },
-  "f40": {
-   "kind": "date",
-   "value": "1890",
-   "surface": "1890",
-   "sentence": "Le système de type féodal et l'ordre des samouraïs sont officiellement abolis. les institutions sont réformées en s'inspirant de modèles occidentaux, étudiés lors de la mission Iwakura (les préfectures sont mises en place, une constitution adoptée en 1890) et le pays s'industrialise rapidement.",
-   "section": "Histoire"
-  },
-  "f41": {
+  "f28": {
    "kind": "date",
    "value": "1895",
    "surface": "1895",
    "sentence": "Ces mutations donnent naissance à une forte ambition qui se transforme en guerres contre la Chine en 1895 puis contre la Russie en 1905, à l'issue desquelles le Japon incorpore comme colonies la Corée, Taïwan et d'autres territoires.",
    "section": "Histoire"
   },
-  "f42": {
+  "f29": {
    "kind": "date",
    "value": "1905",
    "surface": "1905",
    "sentence": "Ces mutations donnent naissance à une forte ambition qui se transforme en guerres contre la Chine en 1895 puis contre la Russie en 1905, à l'issue desquelles le Japon incorpore comme colonies la Corée, Taïwan et d'autres territoires.",
    "section": "Histoire"
   },
-  "f43": {
+  "f30": {
    "kind": "date",
    "value": "1900",
    "surface": "1900",
    "sentence": "Le Japon connait une phase de démocratisation des années 1900 aux années 1920, qui culmine lors de la période de démocratie Taishō.",
    "section": "Histoire"
   },
-  "f44": {
+  "f31": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Le Japon connait une phase de démocratisation des années 1900 aux années 1920, qui culmine lors de la période de démocratie Taishō.",
    "section": "Histoire"
   },
-  "f45": {
+  "f32": {
    "kind": "date",
    "value": "1925",
    "surface": "1925",
    "sentence": "Un bipartisme se met en place au sein de la Chambre des représentants avec l'affirmation du Rikken Seiyūkai et du Rikken Minseitō, et le suffrage universel masculin est adopté en 1925.",
    "section": "Histoire"
   },
-  "f46": {
+  "f33": {
    "kind": "date",
    "value": "1929",
    "surface": "1929",
    "sentence": "La crise économique de 1929 et la montée des tensions internationales dans les années 1930 mettent ce système sous pression et favorisent la prise de pouvoir des militaires.",
    "section": "Histoire"
   },
-  "f47": {
+  "f34": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "La crise économique de 1929 et la montée des tensions internationales dans les années 1930 mettent ce système sous pression et favorisent la prise de pouvoir des militaires.",
    "section": "Histoire"
   },
-  "f48": {
+  "f35": {
    "kind": "date",
    "value": "1931",
    "surface": "1931",
    "sentence": "L'expansionnisme du Japon reprend avec l'invasion de la Mandchourie en 1931 puis des provinces du nord de la Chine.",
    "section": "Histoire"
   },
-  "f49": {
+  "f36": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
    "sentence": "L'empire se lance en 1937 dans une invasion de la Chine, mais s'enlise dans ce conflit et voit se liguer contre lui les puissances occidentales.",
    "section": "Histoire"
   },
-  "f50": {
+  "f37": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
-   "sentence": "Le Japon prend alors le parti d'attaquer les États-Unis à Pearl Harbor en 1941 et se lance dans la « libération » de nombreuses colonies occidentales en Asie.",
+   "sentence": "Le Japon prend alors le parti d'attaquer les États-Unis à Pearl Harbor en 1941 et se lance dans la «libération» de nombreuses colonies occidentales en Asie.",
    "section": "Histoire"
   },
-  "f51": {
+  "f38": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Le Japon est cependant vaincu militairement et doit capituler le 15 août 1945 après les bombardements atomiques d'Hiroshima et de Nagasaki.",
    "section": "Histoire"
   },
-  "f52": {
+  "f39": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
    "sentence": "Le Japon est cependant vaincu militairement et doit capituler le 15 août 1945 après les bombardements atomiques d'Hiroshima et de Nagasaki.",
    "section": "Histoire"
   },
-  "f53": {
-   "kind": "date",
-   "value": "731",
-   "surface": "731",
-   "sentence": "Les militaires commettent de nombreux crimes de guerre lors de cette période (massacre de Nankin, femmes de réconfort, Unité 731, exactions sur des prisonniers de guerre…).",
-   "section": "Histoire"
-  },
-  "f54": {
+  "f40": {
    "kind": "date",
    "value": "1951",
    "surface": "1951",
-   "sentence": "Confiné à l'archipel, le pays demeure sous la tutelle des États-Unis jusqu'en 1951 (traité de San Francisco).",
+   "sentence": "Confiné à l'archipel, le pays demeure sous la tutelle des États-Unis jusqu'en 1951.",
    "section": "Histoire"
   },
-  "f55": {
+  "f41": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
    "sentence": "L'économie se rétablit ainsi rapidement et permet le retour de la prospérité dans l'archipel dont les Jeux olympiques de Tokyo et le lancement du Shinkansen en 1964 sont les symboles.",
    "section": "Histoire"
   },
-  "f56": {
+  "f42": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "Des années 1950 jusqu'aux années 1980, le Japon connaît un apogée culturel et économique et une formidable croissance.",
    "section": "Histoire"
   },
-  "f57": {
+  "f43": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
    "sentence": "Des années 1950 jusqu'aux années 1980, le Japon connaît un apogée culturel et économique et une formidable croissance.",
    "section": "Histoire"
   },
-  "f58": {
+  "f44": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Toutefois, ce « miracle économique » prend fin au début des années 1990, date à laquelle la « bulle spéculative immobilière japonaise » éclate, marquant le début de la « décennie perdue ».",
+   "sentence": "Toutefois, ce «miracle économique» prend fin au début des années 1990, date à laquelle la «bulle spéculative immobilière japonaise» éclate, marquant le début de la «décennie perdue».",
    "section": "Histoire"
   },
-  "f59": {
-   "kind": "date",
-   "value": "1993",
-   "surface": "1993",
-   "sentence": "Ces années sont aussi marquées par une certaine instabilité politique (avec la première chute d'un gouvernement par une motion de censure en 1993) et plusieurs catastrophes d'origines humaine (attentat au gaz sarin dans le métro de Tokyo en 1995) ou naturelle (tremblement de terre de Kōbe, également en 1995).",
-   "section": "Histoire"
-  },
-  "f60": {
-   "kind": "date",
-   "value": "1995",
-   "surface": "1995",
-   "sentence": "Ces années sont aussi marquées par une certaine instabilité politique (avec la première chute d'un gouvernement par une motion de censure en 1993) et plusieurs catastrophes d'origines humaine (attentat au gaz sarin dans le métro de Tokyo en 1995) ou naturelle (tremblement de terre de Kōbe, également en 1995).",
-   "section": "Histoire"
-  },
-  "f61": {
-   "kind": "date",
-   "value": "1995",
-   "surface": "1995",
-   "sentence": "Ces années sont aussi marquées par une certaine instabilité politique (avec la première chute d'un gouvernement par une motion de censure en 1993) et plusieurs catastrophes d'origines humaine (attentat au gaz sarin dans le métro de Tokyo en 1995) ou naturelle (tremblement de terre de Kōbe, également en 1995).",
-   "section": "Histoire"
-  },
-  "f62": {
+  "f45": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
-   "sentence": "Avec la guerre d'Irak en 2003, l'interprétation de cette clause pacifiste de la Constitution a été revue pour pouvoir déployer des troupes hors de son territoire dans le cadre d'opérations à caractère strictement non militaire (reconstruction, aide humanitaire…).",
+   "sentence": "Avec la guerre d'Irak en 2003, l'interprétation de cette clause pacifiste de la Constitution a été revue pour pouvoir déployer des troupes hors de son territoire dans le cadre d'opérations à caractère strictement non militaire.",
    "section": "Histoire"
   },
-  "f63": {
+  "f46": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Le 11 mars 2011, un grave séisme de magnitude 9,0, suivi d'un tsunami, frappe l'est du Tōhoku autour de Sendai, provoquant la mort de plusieurs milliers de personnes, de très graves dégâts dans toute la partie nord-est de Honshū et l'accident nucléaire de Fukushima.",
    "section": "Histoire"
   },
-  "f64": {
+  "f47": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Le 11 mars 2011, un grave séisme de magnitude 9,0, suivi d'un tsunami, frappe l'est du Tōhoku autour de Sendai, provoquant la mort de plusieurs milliers de personnes, de très graves dégâts dans toute la partie nord-est de Honshū et l'accident nucléaire de Fukushima.",
    "section": "Histoire"
   },
-  "f65": {
+  "f48": {
    "kind": "number",
    "value": 9,
    "surface": "9,0",
    "sentence": "Le 11 mars 2011, un grave séisme de magnitude 9,0, suivi d'un tsunami, frappe l'est du Tōhoku autour de Sendai, provoquant la mort de plusieurs milliers de personnes, de très graves dégâts dans toute la partie nord-est de Honshū et l'accident nucléaire de Fukushima.",
    "section": "Histoire"
   },
-  "f66": {
+  "f49": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
    "sentence": "Le Japon est une monarchie constitutionnelle à régime parlementaire, régie par la Constitution de 1947.",
    "section": "Politique"
   },
-  "f67": {
+  "f50": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "L'empereur actuel (天皇陛下, Tennō Heika) depuis le 1er mai 2019, plus connu internationalement sous son nom de naissance Naruhito, est, selon la tradition, le 126e monarque japonais issu de la lignée Yamato par la déesse Amaterasu, régnant durant l'ère Reiwa (令和時代, Reiwa-jidai, Reiwa signifiant « belle harmonie »).",
+   "sentence": "L'empereur actuel depuis le 1er mai 2019, plus connu internationalement sous son nom de naissance Naruhito, est, selon la tradition, le 126e monarque japonais issu de la lignée Yamato par la déesse Amaterasu, régnant durant l'ère Reiwa.",
    "section": "Politique"
   },
-  "f68": {
+  "f51": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "Accompagné de serviteurs portant le bicorne (symbole remémorant les liens étroits entre le Shogunat Tokugawa et l'empereur Napoléon III), l'empereur Naruhito monte en calèche le 23 novembre 2019 pour une visite au Naiku, ou sanctuaire intérieur, du sanctuaire d'Ise Jingu afin de rendre compte à Amaterasu-omikami, la légendaire déesse du soleil, de l'achèvement de ses cérémonies d'intronisation.",
+   "sentence": "Accompagné de serviteurs portant le bicorne, l'empereur Naruhito monte en calèche le 23 novembre 2019 pour une visite au Naiku, ou sanctuaire intérieur, du sanctuaire d'Ise Jingu afin de rendre compte à Amaterasu-omikami, la légendaire déesse du soleil, de l'achèvement de ses cérémonies d'intronisation.",
    "section": "Politique"
   },
-  "f69": {
+  "f52": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "Accompagné de serviteurs portant le bicorne (symbole remémorant les liens étroits entre le Shogunat Tokugawa et l'empereur Napoléon III), l'empereur Naruhito monte en calèche le 23 novembre 2019 pour une visite au Naiku, ou sanctuaire intérieur, du sanctuaire d'Ise Jingu afin de rendre compte à Amaterasu-omikami, la légendaire déesse du soleil, de l'achèvement de ses cérémonies d'intronisation.",
+   "sentence": "Accompagné de serviteurs portant le bicorne, l'empereur Naruhito monte en calèche le 23 novembre 2019 pour une visite au Naiku, ou sanctuaire intérieur, du sanctuaire d'Ise Jingu afin de rendre compte à Amaterasu-omikami, la légendaire déesse du soleil, de l'achèvement de ses cérémonies d'intronisation.",
    "section": "Politique"
   },
-  "f70": {
+  "f53": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
    "sentence": "La succession au trône se fait selon la loi de la maison impériale de 1947, par primogéniture masculine au sein des descendants, en ligne masculine exclusivement, de l'empereur Taishō.",
    "section": "Politique"
   },
-  "f71": {
+  "f54": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
-   "sentence": "Le reste de l'ancienne noblesse japonaise (華族, kazoku, littéralement « ascendance fleurie ») a été aboli en 1947.",
+   "sentence": "Le reste de l'ancienne noblesse japonaise a été aboli en 1947.",
    "section": "Politique"
   },
-  "f72": {
+  "f55": {
    "kind": "number",
    "value": 465,
    "surface": "465",
-   "sentence": "La branche législative, et donc la Diète, se compose tout d'abord d'une chambre basse, la Chambre des représentants (衆議院, Shūgi-in) de 465 sièges, dont 289 membres sont élus par le mode uninominal à un tour et 176 par la proportionnelle régionale.",
+   "sentence": "La branche législative, et donc la Diète, se compose tout d'abord d'une chambre basse, la Chambre des représentants de 465 sièges, dont 289 membres sont élus par le mode uninominal à un tour et 176 par la proportionnelle régionale.",
    "section": "Politique"
   },
-  "f73": {
+  "f56": {
    "kind": "number",
    "value": 289,
    "surface": "289",
-   "sentence": "La branche législative, et donc la Diète, se compose tout d'abord d'une chambre basse, la Chambre des représentants (衆議院, Shūgi-in) de 465 sièges, dont 289 membres sont élus par le mode uninominal à un tour et 176 par la proportionnelle régionale.",
+   "sentence": "La branche législative, et donc la Diète, se compose tout d'abord d'une chambre basse, la Chambre des représentants de 465 sièges, dont 289 membres sont élus par le mode uninominal à un tour et 176 par la proportionnelle régionale.",
    "section": "Politique"
   },
-  "f74": {
+  "f57": {
    "kind": "number",
    "value": 176,
    "surface": "176",
-   "sentence": "La branche législative, et donc la Diète, se compose tout d'abord d'une chambre basse, la Chambre des représentants (衆議院, Shūgi-in) de 465 sièges, dont 289 membres sont élus par le mode uninominal à un tour et 176 par la proportionnelle régionale.",
+   "sentence": "La branche législative, et donc la Diète, se compose tout d'abord d'une chambre basse, la Chambre des représentants de 465 sièges, dont 289 membres sont élus par le mode uninominal à un tour et 176 par la proportionnelle régionale.",
    "section": "Politique"
   },
-  "f75": {
-   "kind": "measure",
-   "value": 18,
-   "unit": "ans",
-   "surface": "18 ans",
-   "sentence": "Les représentants sont élus pour quatre ans au suffrage universel (il faut avoir 18 ans pour voter).",
-   "section": "Politique"
-  },
-  "f76": {
+  "f58": {
    "kind": "number",
    "value": 242,
    "surface": "242",
-   "sentence": "La chambre haute, appelée Chambre des conseillers (参議院, Sangi-in), de 242 membres, est composée de personnes élues pour une durée de six ans, renouvelée par moitié tous les trois ans.",
+   "sentence": "La chambre haute, appelée Chambre des conseillers, de 242 membres, est composée de personnes élues pour une durée de six ans, renouvelée par moitié tous les trois ans.",
    "section": "Politique"
   },
-  "f77": {
+  "f59": {
    "kind": "number",
    "value": 146,
    "surface": "146",
-   "sentence": "Le mode de scrutin est également mixte : 146 conseillers sont élus par un scrutin majoritaire plurinominal dans le cadre des préfectures, et 96 conseillers à la proportionnelle nationale.",
+   "sentence": "Le mode de scrutin est également mixte: 146 conseillers sont élus par un scrutin majoritaire plurinominal dans le cadre des préfectures, et 96 conseillers à la proportionnelle nationale.",
    "section": "Politique"
   },
-  "f78": {
+  "f60": {
    "kind": "number",
    "value": 96,
    "surface": "96",
-   "sentence": "Le mode de scrutin est également mixte : 146 conseillers sont élus par un scrutin majoritaire plurinominal dans le cadre des préfectures, et 96 conseillers à la proportionnelle nationale.",
+   "sentence": "Le mode de scrutin est également mixte: 146 conseillers sont élus par un scrutin majoritaire plurinominal dans le cadre des préfectures, et 96 conseillers à la proportionnelle nationale.",
    "section": "Politique"
   },
-  "f79": {
+  "f61": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Pour les amendements à la Constitution, une majorité des deux tiers dans les deux chambres est nécessaire, ce qui, à la date du 11 mai 2018, n'est encore jamais arrivé depuis 1947.",
    "section": "Politique"
   },
-  "f80": {
+  "f62": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Pour les amendements à la Constitution, une majorité des deux tiers dans les deux chambres est nécessaire, ce qui, à la date du 11 mai 2018, n'est encore jamais arrivé depuis 1947.",
    "section": "Politique"
   },
-  "f81": {
+  "f63": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
    "sentence": "Pour les amendements à la Constitution, une majorité des deux tiers dans les deux chambres est nécessaire, ce qui, à la date du 11 mai 2018, n'est encore jamais arrivé depuis 1947.",
    "section": "Politique"
   },
-  "f82": {
+  "f64": {
    "kind": "number",
    "value": 483,
    "surface": "483",
-   "sentence": "Le pouvoir judiciaire repose sur une organisation juridictionnelle composée de quatre niveaux de base : 483 cours de première instance, un tribunal de district comportant une chambre familiale dans chaque préfecture, huit Hautes Cours et une Cour suprême.",
+   "sentence": "Le pouvoir judiciaire repose sur une organisation juridictionnelle composée de quatre niveaux de base: 483 cours de première instance, un tribunal de district comportant une chambre familiale dans chaque préfecture, huit Hautes Cours et une Cour suprême.",
    "section": "Politique"
   },
-  "f83": {
+  "f65": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "Son usage a augmenté entre 2006 et 2009 : les exécutions ont doublé en un an et les condamnations ont été multipliées par six en quatre ans.",
+   "sentence": "Son usage a augmenté entre 2006 et 2009: les exécutions ont doublé en un an et les condamnations ont été multipliées par six en quatre ans.",
    "section": "Politique"
   },
-  "f84": {
+  "f66": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Son usage a augmenté entre 2006 et 2009 : les exécutions ont doublé en un an et les condamnations ont été multipliées par six en quatre ans.",
+   "sentence": "Son usage a augmenté entre 2006 et 2009: les exécutions ont doublé en un an et les condamnations ont été multipliées par six en quatre ans.",
    "section": "Politique"
   },
-  "f85": {
+  "f67": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Toutefois sous l'administration démocrate au pouvoir de 2009 à 2010, la première ministre de la Justice, Keiko Chiba, et ses successeurs, Satsuki Eda et Hideo Hiraoka, sont tous trois des opposants historiques à la peine capitale.",
    "section": "Politique"
   },
-  "f86": {
+  "f68": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Toutefois sous l'administration démocrate au pouvoir de 2009 à 2010, la première ministre de la Justice, Keiko Chiba, et ses successeurs, Satsuki Eda et Hideo Hiraoka, sont tous trois des opposants historiques à la peine capitale.",
    "section": "Politique"
   },
-  "f87": {
+  "f69": {
    "kind": "date",
    "value": "1955",
    "surface": "1955",
-   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate (PLD), qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
+   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate, qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
    "section": "Politique"
   },
-  "f88": {
+  "f70": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
-   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate (PLD), qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
+   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate, qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
    "section": "Politique"
   },
-  "f89": {
+  "f71": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
-   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate (PLD), qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
+   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate, qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
    "section": "Politique"
   },
-  "f90": {
+  "f72": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate (PLD), qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
+   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate, qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
    "section": "Politique"
   },
-  "f91": {
+  "f73": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
-   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate (PLD), qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
+   "sentence": "La vie politique est dominée depuis la fin de l'occupation américaine par le Parti libéral-démocrate, qui a fourni l'ensemble des Premiers ministres au pays de 1955 à 1993, de 1996 à 2009 et depuis 2012.",
    "section": "Politique"
   },
-  "f92": {
+  "f74": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "Celui-ci, de tendance conservatrice libérale, gouverne seul ou en coalition, notamment avec le Kōmeitō, parti sous influence de la Sōka Gakkai, dont les députés sont majoritairement issus, entre 1999 et 2009 et de 2012 à 2025.",
    "section": "Politique"
   },
-  "f93": {
+  "f75": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Celui-ci, de tendance conservatrice libérale, gouverne seul ou en coalition, notamment avec le Kōmeitō, parti sous influence de la Sōka Gakkai, dont les députés sont majoritairement issus, entre 1999 et 2009 et de 2012 à 2025.",
    "section": "Politique"
   },
-  "f94": {
+  "f76": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Celui-ci, de tendance conservatrice libérale, gouverne seul ou en coalition, notamment avec le Kōmeitō, parti sous influence de la Sōka Gakkai, dont les députés sont majoritairement issus, entre 1999 et 2009 et de 2012 à 2025.",
    "section": "Politique"
   },
-  "f95": {
+  "f77": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Celui-ci, de tendance conservatrice libérale, gouverne seul ou en coalition, notamment avec le Kōmeitō, parti sous influence de la Sōka Gakkai, dont les députés sont majoritairement issus, entre 1999 et 2009 et de 2012 à 2025.",
    "section": "Politique"
   },
-  "f96": {
+  "f78": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "En 2025 le Kōmeitō rompt l'alliance avec le PLD, ce dernier se tourne alors vers le Parti japonais de l'innovation.",
    "section": "Politique"
   },
-  "f97": {
+  "f79": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
-   "sentence": "Le principal parti d'opposition a longtemps été le Parti socialiste japonais (PSJ) jusqu'à ce que celui-ci souffre de la perte de son électorat traditionnel à la suite de son alliance de 1994 à 1998 avec le PLD dans une grande coalition gouvernementale et sa transformation en 1996 en Parti social-démocrate (PSD).",
+   "sentence": "Le principal parti d'opposition a longtemps été le Parti socialiste japonais jusqu'à ce que celui-ci souffre de la perte de son électorat traditionnel à la suite de son alliance de 1994 à 1998 avec le PLD dans une grande coalition gouvernementale et sa transformation en 1996 en Parti social-démocrate.",
    "section": "Politique"
   },
-  "f98": {
+  "f80": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "Le principal parti d'opposition a longtemps été le Parti socialiste japonais (PSJ) jusqu'à ce que celui-ci souffre de la perte de son électorat traditionnel à la suite de son alliance de 1994 à 1998 avec le PLD dans une grande coalition gouvernementale et sa transformation en 1996 en Parti social-démocrate (PSD).",
+   "sentence": "Le principal parti d'opposition a longtemps été le Parti socialiste japonais jusqu'à ce que celui-ci souffre de la perte de son électorat traditionnel à la suite de son alliance de 1994 à 1998 avec le PLD dans une grande coalition gouvernementale et sa transformation en 1996 en Parti social-démocrate.",
    "section": "Politique"
   },
-  "f99": {
+  "f81": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
-   "sentence": "Le principal parti d'opposition a longtemps été le Parti socialiste japonais (PSJ) jusqu'à ce que celui-ci souffre de la perte de son électorat traditionnel à la suite de son alliance de 1994 à 1998 avec le PLD dans une grande coalition gouvernementale et sa transformation en 1996 en Parti social-démocrate (PSD).",
+   "sentence": "Le principal parti d'opposition a longtemps été le Parti socialiste japonais jusqu'à ce que celui-ci souffre de la perte de son électorat traditionnel à la suite de son alliance de 1994 à 1998 avec le PLD dans une grande coalition gouvernementale et sa transformation en 1996 en Parti social-démocrate.",
    "section": "Politique"
   },
-  "f100": {
+  "f82": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Depuis les années 1990, l'opposition non communiste a été animée par le Parti démocrate du Japon (PDJ), fondé en 1996 et réformé en 1998, composé d'anciens dissidents tant de l'ancien PSJ que du PLD et se positionnant au centre voire au centre gauche de l'échiquier politique japonais avec une idéologie proche de la Troisième voie sociale-libérale.",
+   "sentence": "Depuis les années 1990, l'opposition non communiste a été animée par le Parti démocrate du Japon, fondé en 1996 et réformé en 1998, composé d'anciens dissidents tant de l'ancien PSJ que du PLD et se positionnant au centre voire au centre gauche de l'échiquier politique japonais avec une idéologie proche de la Troisième voie sociale-libérale.",
    "section": "Politique"
   },
-  "f101": {
+  "f83": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
-   "sentence": "Depuis les années 1990, l'opposition non communiste a été animée par le Parti démocrate du Japon (PDJ), fondé en 1996 et réformé en 1998, composé d'anciens dissidents tant de l'ancien PSJ que du PLD et se positionnant au centre voire au centre gauche de l'échiquier politique japonais avec une idéologie proche de la Troisième voie sociale-libérale.",
+   "sentence": "Depuis les années 1990, l'opposition non communiste a été animée par le Parti démocrate du Japon, fondé en 1996 et réformé en 1998, composé d'anciens dissidents tant de l'ancien PSJ que du PLD et se positionnant au centre voire au centre gauche de l'échiquier politique japonais avec une idéologie proche de la Troisième voie sociale-libérale.",
    "section": "Politique"
   },
-  "f102": {
+  "f84": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "Depuis les années 1990, l'opposition non communiste a été animée par le Parti démocrate du Japon (PDJ), fondé en 1996 et réformé en 1998, composé d'anciens dissidents tant de l'ancien PSJ que du PLD et se positionnant au centre voire au centre gauche de l'échiquier politique japonais avec une idéologie proche de la Troisième voie sociale-libérale.",
+   "sentence": "Depuis les années 1990, l'opposition non communiste a été animée par le Parti démocrate du Japon, fondé en 1996 et réformé en 1998, composé d'anciens dissidents tant de l'ancien PSJ que du PLD et se positionnant au centre voire au centre gauche de l'échiquier politique japonais avec une idéologie proche de la Troisième voie sociale-libérale.",
    "section": "Politique"
   },
-  "f103": {
+  "f85": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Il est finalement arrivé au pouvoir à l'issue des élections législatives du 30 août 2009 et son président, Yukio Hatoyama, est devenu le 60e Premier ministre du Japon le 16 septembre 2009.",
    "section": "Politique"
   },
-  "f104": {
+  "f86": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Il est finalement arrivé au pouvoir à l'issue des élections législatives du 30 août 2009 et son président, Yukio Hatoyama, est devenu le 60e Premier ministre du Japon le 16 septembre 2009.",
    "section": "Politique"
   },
-  "f105": {
+  "f87": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Il est finalement arrivé au pouvoir à l'issue des élections législatives du 30 août 2009 et son président, Yukio Hatoyama, est devenu le 60e Premier ministre du Japon le 16 septembre 2009.",
    "section": "Politique"
   },
-  "f106": {
+  "f88": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Il est finalement arrivé au pouvoir à l'issue des élections législatives du 30 août 2009 et son président, Yukio Hatoyama, est devenu le 60e Premier ministre du Japon le 16 septembre 2009.",
    "section": "Politique"
   },
-  "f107": {
+  "f89": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Naoto Kan lui succède le 4 juin 2010, avant de laisser sa place à son tour à Yoshihiko Noda le 2 septembre 2011.",
    "section": "Politique"
   },
-  "f108": {
+  "f90": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Naoto Kan lui succède le 4 juin 2010, avant de laisser sa place à son tour à Yoshihiko Noda le 2 septembre 2011.",
    "section": "Politique"
   },
-  "f109": {
+  "f91": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Naoto Kan lui succède le 4 juin 2010, avant de laisser sa place à son tour à Yoshihiko Noda le 2 septembre 2011.",
    "section": "Politique"
   },
-  "f110": {
+  "f92": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Naoto Kan lui succède le 4 juin 2010, avant de laisser sa place à son tour à Yoshihiko Noda le 2 septembre 2011.",
    "section": "Politique"
   },
-  "f111": {
+  "f93": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Toutefois, il perd la majorité dès les élections législatives suivantes du 16 décembre 2012, au profit du retour de la coalition PLD-Kōmeitō.",
    "section": "Politique"
   },
-  "f112": {
+  "f94": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Toutefois, il perd la majorité dès les élections législatives suivantes du 16 décembre 2012, au profit du retour de la coalition PLD-Kōmeitō.",
    "section": "Politique"
   },
-  "f113": {
+  "f95": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
-   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions : le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste (PDP) ; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple (PDP toujours) en 2018, parti qui se définit comme centriste réformiste ; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel (PDC), situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
+   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions: le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple en 2018, parti qui se définit comme centriste réformiste; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel, situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
    "section": "Politique"
   },
-  "f114": {
+  "f96": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
-   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions : le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste (PDP) ; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple (PDP toujours) en 2018, parti qui se définit comme centriste réformiste ; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel (PDC), situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
+   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions: le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple en 2018, parti qui se définit comme centriste réformiste; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel, situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
    "section": "Politique"
   },
-  "f115": {
+  "f97": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
-   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions : le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste (PDP) ; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple (PDP toujours) en 2018, parti qui se définit comme centriste réformiste ; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel (PDC), situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
+   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions: le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple en 2018, parti qui se définit comme centriste réformiste; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel, situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
    "section": "Politique"
   },
-  "f116": {
+  "f98": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
-   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions : le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste (PDP) ; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple (PDP toujours) en 2018, parti qui se définit comme centriste réformiste ; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel (PDC), situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
+   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions: le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple en 2018, parti qui se définit comme centriste réformiste; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel, situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
    "section": "Politique"
   },
-  "f117": {
+  "f99": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
-   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions : le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste (PDP) ; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple (PDP toujours) en 2018, parti qui se définit comme centriste réformiste ; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel (PDC), situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
+   "sentence": "L'opposition au PLD connait depuis de multiples fusions, scissions et recompositions: le PDJ s'est uni au Parti de la restauration en 2016 pour former le Parti démocrate progressiste; l'aile droite de ce dernier rejoint en 2017 le Parti de l'espoir nouvellement créé par la populaire gouverneur de Tōkyō Yuriko Koike, mouvement qui, après une contre-performance aux élections législatives de 2017, finit par fusionner avec ce qui reste du PDP pour former le Parti démocrate du peuple en 2018, parti qui se définit comme centriste réformiste; l'aile gauche du Parti démocrate progressiste a pour sa part fondé le Parti démocrate constitutionnel, situé au centre gauche social-libéral et pacifiste, devenu le premier parti de l'opposition parlementaire après les élections législatives de 2017.",
    "section": "Politique"
   },
-  "f118": {
+  "f100": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "La moitié des députés du PLD pour la mandature 2005-2009 appartiennent à des dynasties politiques, tout comme neuf des treize premiers ministres qui se sont succédé depuis 1996.",
    "section": "Politique"
   },
-  "f119": {
+  "f101": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "La moitié des députés du PLD pour la mandature 2005-2009 appartiennent à des dynasties politiques, tout comme neuf des treize premiers ministres qui se sont succédé depuis 1996.",
    "section": "Politique"
   },
-  "f120": {
+  "f102": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "De fait, et malgré des tentatives régulières pour limiter leur influence à la suite de plusieurs scandales depuis les années 1990, ces « factions » contrôlent les processus de décisions internes ainsi que les choix des dirigeants, des membres du gouvernement ou des candidats aux élections.",
+   "sentence": "De fait, et malgré des tentatives régulières pour limiter leur influence à la suite de plusieurs scandales depuis les années 1990, ces «factions» contrôlent les processus de décisions internes ainsi que les choix des dirigeants, des membres du gouvernement ou des candidats aux élections.",
    "section": "Politique"
   },
-  "f121": {
+  "f103": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",
    "sentence": "Le Japon entretient d'étroites relations économiques et militaires avec son principal allié, les États-Unis, officialisées par le traité de coopération mutuelle et de sécurité entre les États-Unis et le Japon de 1960.",
    "section": "Politique"
   },
-  "f122": {
+  "f104": {
    "kind": "date",
    "value": "1956",
    "surface": "1956",
    "sentence": "État membre de l'Organisation des Nations unies depuis 1956, le Japon a été un membre non-permanent du Conseil de sécurité pour un total de 18 ans et l'a été pour la période 2009-2010.",
    "section": "Politique"
   },
-  "f123": {
+  "f105": {
    "kind": "measure",
    "value": 18,
    "unit": "ans",
@@ -902,77 +779,77 @@
    "sentence": "État membre de l'Organisation des Nations unies depuis 1956, le Japon a été un membre non-permanent du Conseil de sécurité pour un total de 18 ans et l'a été pour la période 2009-2010.",
    "section": "Politique"
   },
-  "f124": {
+  "f106": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "État membre de l'Organisation des Nations unies depuis 1956, le Japon a été un membre non-permanent du Conseil de sécurité pour un total de 18 ans et l'a été pour la période 2009-2010.",
    "section": "Politique"
   },
-  "f125": {
+  "f107": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Le Japon a signé un pacte de sécurité avec l'Australie en mars 2007 et avec l'Inde en octobre 2008.",
    "section": "Politique"
   },
-  "f126": {
+  "f108": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Le Japon a signé un pacte de sécurité avec l'Australie en mars 2007 et avec l'Inde en octobre 2008.",
    "section": "Politique"
   },
-  "f127": {
+  "f109": {
    "kind": "number",
    "value": 8860000000,
    "surface": "8,86 milliards",
    "sentence": "Il est également le troisième plus grand donateur d'aide publique au développement, après les États-Unis et le Royaume-Uni, avec un don de 8,86 milliards de dollars US en 2004.",
    "section": "Politique"
   },
-  "f128": {
+  "f110": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Il est également le troisième plus grand donateur d'aide publique au développement, après les États-Unis et le Royaume-Uni, avec un don de 8,86 milliards de dollars US en 2004.",
    "section": "Politique"
   },
-  "f129": {
+  "f111": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Le Japon a contribué avec des troupes non-combattantes à la coalition militaire en Irak de 2004 à 2008.",
    "section": "Politique"
   },
-  "f130": {
+  "f112": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Le Japon a contribué avec des troupes non-combattantes à la coalition militaire en Irak de 2004 à 2008.",
    "section": "Politique"
   },
-  "f131": {
+  "f113": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "L'armée du Japon est restreinte par l'article 9 de la Constitution japonaise, qui fait renoncer le Japon à son droit de déclarer la guerre ou à utiliser sa force militaire comme moyen de règlement des différends internationaux.",
    "section": "Politique"
   },
-  "f132": {
+  "f114": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Le pays dispose par ailleurs d'un Conseil de sécurité nationale (国家安全保障会議), qui s'est réuni pour la première fois le 4 décembre 2013 pour discuter de la stratégie de sécurité nationale en réponse à l'instauration par la Chine d'une zone d'identification aérienne en mer de Chine orientale.",
+   "sentence": "Le pays dispose par ailleurs d'un Conseil de sécurité nationale, qui s'est réuni pour la première fois le 4 décembre 2013 pour discuter de la stratégie de sécurité nationale en réponse à l'instauration par la Chine d'une zone d'identification aérienne en mer de Chine orientale.",
    "section": "Politique"
   },
-  "f133": {
+  "f115": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
-   "sentence": "Le pays dispose par ailleurs d'un Conseil de sécurité nationale (国家安全保障会議), qui s'est réuni pour la première fois le 4 décembre 2013 pour discuter de la stratégie de sécurité nationale en réponse à l'instauration par la Chine d'une zone d'identification aérienne en mer de Chine orientale.",
+   "sentence": "Le pays dispose par ailleurs d'un Conseil de sécurité nationale, qui s'est réuni pour la première fois le 4 décembre 2013 pour discuter de la stratégie de sécurité nationale en réponse à l'instauration par la Chine d'une zone d'identification aérienne en mer de Chine orientale.",
    "section": "Politique"
   },
-  "f134": {
+  "f116": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",

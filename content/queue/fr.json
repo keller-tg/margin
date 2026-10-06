@@ -676,18 +676,6 @@
   }
  },
  "2026-11-01": {
-  "morning": {
-   "title": "Hyderabad",
-   "qid": "Q1361",
-   "pageid": 1605687,
-   "domain": "cities",
-   "image": {
-    "file": "File:Charminar close up.jpg",
-    "via": "own"
-   },
-   "pickedAt": "2026-10-06T09:17:06.642Z",
-   "attempt": 0
-  },
   "evening": {
    "title": "Sucre",
    "qid": "Q11002",
@@ -698,6 +686,18 @@
     "via": "own"
    },
    "pickedAt": "2026-10-06T09:17:07.875Z",
+   "attempt": 0
+  },
+  "morning": {
+   "title": "Columbia (fleuve)",
+   "qid": "Q2251",
+   "pageid": 201454,
+   "domain": "water",
+   "image": {
+    "file": "File:ColumbiarivergorgeJRH.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:48:01.308Z",
    "attempt": 0
   }
  },

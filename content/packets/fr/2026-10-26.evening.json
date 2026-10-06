@@ -78,13 +78,13 @@
    "value": 2500,
    "unit": "ans",
    "surface": "2500 ans",
-   "sentence": "Connue seulement à l'état cultivé (cultigène), cette espèce a probablement été domestiquée en Europe centrale et septentrionale vers 2500 ans av. J.-C."
+   "sentence": "Connue seulement à l'état cultivé, cette espèce a probablement été domestiquée en Europe centrale et septentrionale vers 2500 ans av. J.-C."
   },
   "f2": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "C’est une monocotylédone à tige cylindrique (cauline) de 25 à 150 cm de haut, au port dressé.",
+   "sentence": "C’est une monocotylédone à tige cylindrique de 25 à 150 cm de haut, au port dressé.",
    "section": "Description"
   },
   "f3": {
@@ -92,7 +92,7 @@
    "value": 150,
    "unit": "cm",
    "surface": "150 cm",
-   "sentence": "C’est une monocotylédone à tige cylindrique (cauline) de 25 à 150 cm de haut, au port dressé.",
+   "sentence": "C’est une monocotylédone à tige cylindrique de 25 à 150 cm de haut, au port dressé.",
    "section": "Description"
   },
   "f4": {
@@ -167,7 +167,7 @@
    "kind": "number",
    "value": 100,
    "surface": "100",
-   "sentence": "En France, plus de 100 variétés cultivées (cultivars) sont inscrites au Catalogue officiel des espèces et variétés et près de 360 au Catalogue européen.",
+   "sentence": "En France, plus de 100 variétés cultivées sont inscrites au Catalogue officiel des espèces et variétés et près de 360 au Catalogue européen.",
    "section": "Variétés cultivées"
   },
   "f14": {
@@ -175,7 +175,7 @@
    "value": 360,
    "unit": "au",
    "surface": "360 au",
-   "sentence": "En France, plus de 100 variétés cultivées (cultivars) sont inscrites au Catalogue officiel des espèces et variétés et près de 360 au Catalogue européen.",
+   "sentence": "En France, plus de 100 variétés cultivées sont inscrites au Catalogue officiel des espèces et variétés et près de 360 au Catalogue européen.",
    "section": "Variétés cultivées"
   },
   "f15": {
@@ -214,27 +214,20 @@
    "section": "Production"
   },
   "f20": {
-   "kind": "number",
-   "value": 2100000,
-   "surface": "2,1 millions",
-   "sentence": "Le Canada est le premier exportateur mondial (2,1 millions de tonnes), et les États-Unis le premier importateur.",
-   "section": "Production"
-  },
-  "f21": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Dans le cadre de l'année internationale de la biodiversité 2010, un projet pilote s’est déroulé dans la région Franche-Comté, visant à cultiver des surfaces d'avoine permettant aux abeilles d'utiliser le pollen de cette plante comme aliment.",
    "section": "Utilisations"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Elle contient comme le riz de 5 à 10 % de prolamines incluant l'avénine, la proline, la glutamine, qui sont des protéines présentes chez les triticées.",
    "section": "Utilisations"
   },
-  "f23": {
+  "f22": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -242,14 +235,14 @@
    "sentence": "Elle contient comme le riz de 5 à 10 % de prolamines incluant l'avénine, la proline, la glutamine, qui sont des protéines présentes chez les triticées.",
    "section": "Utilisations"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Les protéines contenues dans l'enveloppe de la graine sont en proportion de 12 à 24 %, l'un des taux les plus hauts de la famille des céréales.",
    "section": "Utilisations"
   },
-  "f25": {
+  "f24": {
    "kind": "measure",
    "value": 24,
    "unit": "%",
@@ -257,7 +250,7 @@
    "sentence": "Les protéines contenues dans l'enveloppe de la graine sont en proportion de 12 à 24 %, l'un des taux les plus hauts de la famille des céréales.",
    "section": "Utilisations"
   },
-  "f26": {
+  "f25": {
    "kind": "measure",
    "value": 80,
    "unit": "cm",
@@ -265,7 +258,7 @@
    "sentence": "Son système racinaire, très dense sur les horizons de surface, s’enracine en général à plus de 80 cm et peut atteindre 190 cm.",
    "section": "Utilisations"
   },
-  "f27": {
+  "f26": {
    "kind": "measure",
    "value": 190,
    "unit": "cm",
@@ -273,96 +266,48 @@
    "sentence": "Son système racinaire, très dense sur les horizons de surface, s’enracine en général à plus de 80 cm et peut atteindre 190 cm.",
    "section": "Utilisations"
   },
-  "f28": {
+  "f27": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
+   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays: la Belgique, les Pays-Bas, l'Allemagne, l'Italie, l'Espagne et la Suisse.",
    "section": "Commerce"
   },
-  "f29": {
+  "f28": {
    "kind": "measure",
    "value": 7500,
    "unit": "t",
    "surface": "7 500 t",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
+   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays: la Belgique, les Pays-Bas, l'Allemagne, l'Italie, l'Espagne et la Suisse.",
    "section": "Commerce"
   },
-  "f30": {
+  "f29": {
    "kind": "measure",
    "value": 98,
    "unit": "%",
    "surface": "98 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
+   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays: la Belgique, les Pays-Bas, l'Allemagne, l'Italie, l'Espagne et la Suisse.",
    "section": "Commerce"
   },
-  "f31": {
+  "f30": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
+   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays: la Belgique, les Pays-Bas, l'Allemagne, l'Italie, l'Espagne et la Suisse.",
    "section": "Commerce"
   },
-  "f32": {
-   "kind": "measure",
-   "value": 24,
-   "unit": "%",
-   "surface": "24 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
-   "section": "Commerce"
-  },
-  "f33": {
-   "kind": "measure",
-   "value": 22,
-   "unit": "%",
-   "surface": "22 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
-   "section": "Commerce"
-  },
-  "f34": {
-   "kind": "measure",
-   "value": 19,
-   "unit": "%",
-   "surface": "19 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
-   "section": "Commerce"
-  },
-  "f35": {
-   "kind": "measure",
-   "value": 19,
-   "unit": "%",
-   "surface": "19 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
-   "section": "Commerce"
-  },
-  "f36": {
-   "kind": "measure",
-   "value": 8,
-   "unit": "%",
-   "surface": "8 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
-   "section": "Commerce"
-  },
-  "f37": {
-   "kind": "measure",
-   "value": 7,
-   "unit": "%",
-   "surface": "7 %",
-   "sentence": "En 2014, la France a exporté en moyenne 7 500 t d'avoine par mois, à 98 % vers ces 6 pays : la Belgique (24 %), les Pays-Bas (22 %), l'Allemagne (19 %), l'Italie (19 %), l'Espagne (8 %) et la Suisse (7 %).",
-   "section": "Commerce"
-  },
-  "f38": {
+  "f31": {
    "kind": "number",
    "value": 170,
    "surface": "170",
    "sentence": "Le niveau de prix est d'environ 170 €/t.",
    "section": "Commerce"
   },
-  "f39": {
+  "f32": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Le 2e jour du mois de messidor (des moissons) du calendrier républicain / révolutionnaire français est officiellement dénommé jour de l'avoine, généralement chaque 20 juin du calendrier grégorien.",
+   "sentence": "Le 2e jour du mois de messidor du calendrier républicain / révolutionnaire français est officiellement dénommé jour de l'avoine, généralement chaque 20 juin du calendrier grégorien.",
    "section": "Calendrier"
   }
  },

@@ -71,294 +71,266 @@
    "value": 9400,
    "unit": "k",
    "surface": "9 400 K",
-   "sentence": "Elle est donc plutôt chaude, sa température de surface ou photosphère supérieure atteignant environ 9 400 K (soit 4 000 K de plus que le Soleil)."
+   "sentence": "Elle est donc plutôt chaude, sa température de surface ou photosphère supérieure atteignant environ 9 400 K. Ce sont donc à la fois sa luminosité intrinsèque relativement plus élevée, sa chaleur et sa proximité par rapport à la Terre qui donnent à Véga sa grande luminosité apparente."
   },
   "f4": {
-   "kind": "measure",
-   "value": 4000,
-   "unit": "k",
-   "surface": "4 000 K",
-   "sentence": "Elle est donc plutôt chaude, sa température de surface ou photosphère supérieure atteignant environ 9 400 K (soit 4 000 K de plus que le Soleil)."
-  },
-  "f5": {
-   "kind": "measure",
-   "value": 11700,
-   "unit": "ans",
-   "surface": "11 700 ans",
-   "sentence": "(et le sera de nouveau dans 11 700 ans), même s'il n'existe aucun document de l'ère préhistorique attestant qu'elle ait été utilisée pour le repérage ou l'orientation."
-  },
-  "f6": {
    "kind": "number",
    "value": 455000000,
    "surface": "455 millions",
    "sentence": "Véga a environ 455 millions d'années, soit un dixième de l'âge du Soleil."
   },
-  "f7": {
+  "f5": {
    "kind": "number",
    "value": 450000000,
    "surface": "450 millions",
-   "sentence": "Du fait de ses caractéristiques astrophysiques, sa durée de vie dans la séquence principale sera beaucoup plus courte que celle de notre étoile : il lui reste environ 450 millions d'années, contre 4,5 milliards d'années pour le Soleil."
+   "sentence": "Du fait de ses caractéristiques astrophysiques, sa durée de vie dans la séquence principale sera beaucoup plus courte que celle de notre étoile: il lui reste environ 450 millions d'années, contre 4,5 milliards d'années pour le Soleil."
   },
-  "f8": {
+  "f6": {
    "kind": "number",
    "value": 4500000000,
    "surface": "4,5 milliards",
-   "sentence": "Du fait de ses caractéristiques astrophysiques, sa durée de vie dans la séquence principale sera beaucoup plus courte que celle de notre étoile : il lui reste environ 450 millions d'années, contre 4,5 milliards d'années pour le Soleil."
+   "sentence": "Du fait de ses caractéristiques astrophysiques, sa durée de vie dans la séquence principale sera beaucoup plus courte que celle de notre étoile: il lui reste environ 450 millions d'années, contre 4,5 milliards d'années pour le Soleil."
   },
-  "f9": {
+  "f7": {
    "kind": "measure",
    "value": 274,
    "unit": "km",
    "surface": "274 km",
    "sentence": "Elle est en rotation rapide à une vitesse de 274 km s−1 à l'équateur."
   },
-  "f10": {
+  "f8": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Elle est en rotation rapide à une vitesse de 274 km s−1 à l'équateur."
   },
-  "f11": {
+  "f9": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "L'astrophotographie, c'est-à-dire la photographie des objets célestes, fut créée en 1840 lorsque John William Draper prit une image de la Lune à l'aide d'un daguerréotype.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f12": {
+  "f10": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Le 17 juillet 1850, Véga devint la première étoile autre que le Soleil à être photographiée.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "Le 17 juillet 1850, Véga devint la première étoile autre que le Soleil à être photographiée.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f14": {
+  "f12": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
-   "sentence": "Draper utilisa Véga en août 1872 afin de prendre la première image d'un spectre électromagnétique et il fut le premier à montrer la présence de raies d'absorption dans le spectre d'une étoile, contredisant ainsi l'affirmation célèbre d'Auguste Comte selon laquelle la composition chimique des étoiles était à jamais inaccessible (de telles raies avaient déjà été observées dans le spectre solaire depuis 1859 et les travaux de Robert Bunsen et Gustav Kirchhoff).",
+   "sentence": "Draper utilisa Véga en août 1872 afin de prendre la première image d'un spectre électromagnétique et il fut le premier à montrer la présence de raies d'absorption dans le spectre d'une étoile, contredisant ainsi l'affirmation célèbre d'Auguste Comte selon laquelle la composition chimique des étoiles était à jamais inaccessible.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f15": {
-   "kind": "date",
-   "value": "1859",
-   "surface": "1859",
-   "sentence": "Draper utilisa Véga en août 1872 afin de prendre la première image d'un spectre électromagnétique et il fut le premier à montrer la présence de raies d'absorption dans le spectre d'une étoile, contredisant ainsi l'affirmation célèbre d'Auguste Comte selon laquelle la composition chimique des étoiles était à jamais inaccessible (de telles raies avaient déjà été observées dans le spectre solaire depuis 1859 et les travaux de Robert Bunsen et Gustav Kirchhoff).",
-   "section": "Véga dans l'histoire de l'observation"
-  },
-  "f16": {
+  "f13": {
    "kind": "date",
    "value": "1879",
    "surface": "1879",
-   "sentence": "En 1879, William Huggins utilisa des images du spectre de Véga et d'autres étoiles similaires pour identifier douze « raies très grosses » qui étaient communes parmi ce type stellaire.",
+   "sentence": "En 1879, William Huggins utilisa des images du spectre de Véga et d'autres étoiles similaires pour identifier douze «raies très grosses» qui étaient communes parmi ce type stellaire.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 0.125,
    "surface": "0,125",
    "sentence": "Véga fut utilisée pour le premier calcul de la parallaxe d'une étoile par Friedrich G. W. von Struve, qui obtint 0,125 arcseconde.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f18": {
+  "f15": {
    "kind": "number",
    "value": 61,
    "surface": "61",
    "sentence": "Friedrich Bessel mit en doute les données de von Struve et il calcula la parallaxe de 61 Cygni, 0,314″.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 0.314,
    "surface": "0,314",
    "sentence": "Friedrich Bessel mit en doute les données de von Struve et il calcula la parallaxe de 61 Cygni, 0,314″.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f20": {
+  "f17": {
    "kind": "number",
    "value": 0.129,
    "surface": "0,129",
    "sentence": "Cependant, le résultat initial de von Struve est extrêmement proche de la valeur communément admise de nos jours, 0,129″.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f21": {
-   "kind": "number",
-   "value": 0.026,
-   "surface": "0,026",
-   "sentence": "Celle-ci étant notablement plus lumineuse que presque toutes les autres étoiles du ciel, les astronomes choisirent Véga comme référence de l'échelle de magnitude (c'est-à-dire pour mesurer la couleur et la luminosité apparente des autres étoiles) : la magnitude de Véga étant proche de zéro (en fait elle est de 0,026), elle fut décrétée nulle à toutes les longueurs d'onde.",
-   "section": "Véga dans l'histoire de l'observation"
-  },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "Véga est une des six étoiles de type spectral A0V utilisées lors de l’étalonnage initial du système à sa création dans les années 1950.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f23": {
+  "f19": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "La magnitude moyenne de ces six étoiles fut définie à l'aide de la formule : U - B = B - V = 0.",
+   "sentence": "La magnitude moyenne de ces six étoiles fut définie à l'aide de la formule: U - B = B - V = 0.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f24": {
+  "f20": {
    "kind": "number",
    "value": 350,
    "surface": "350",
    "sentence": "Ainsi, Véga a un spectre électromagnétique relativement uniforme dans le visible — longueur d'onde de 350 à 850 nanomètres —, avec une densité de flux comprise entre 2 000 et 4 000 Jy.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "850",
    "surface": "850",
    "sentence": "Ainsi, Véga a un spectre électromagnétique relativement uniforme dans le visible — longueur d'onde de 350 à 850 nanomètres —, avec une densité de flux comprise entre 2 000 et 4 000 Jy.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f26": {
+  "f22": {
    "kind": "number",
    "value": 2000,
    "surface": "2 000",
    "sentence": "Ainsi, Véga a un spectre électromagnétique relativement uniforme dans le visible — longueur d'onde de 350 à 850 nanomètres —, avec une densité de flux comprise entre 2 000 et 4 000 Jy.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f27": {
+  "f23": {
    "kind": "number",
    "value": 4000,
    "surface": "4 000",
    "sentence": "Ainsi, Véga a un spectre électromagnétique relativement uniforme dans le visible — longueur d'onde de 350 à 850 nanomètres —, avec une densité de flux comprise entre 2 000 et 4 000 Jy.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f28": {
+  "f24": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Cependant, la densité de flux de Véga diminue rapidement dans l'infrarouge et est proche de 100 Jy à une longueur d'onde de 5 micromètres.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f29": {
+  "f25": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Cependant, la densité de flux de Véga diminue rapidement dans l'infrarouge et est proche de 100 Jy à une longueur d'onde de 5 micromètres.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "Des mesures photométriques de Véga durant les années 1930 laissèrent à penser que l'étoile était faiblement variable, avec des changements de l'ordre de ±0,03 magnitudes.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f31": {
+  "f27": {
    "kind": "number",
    "value": 0.03,
    "surface": "0,03",
    "sentence": "Des mesures photométriques de Véga durant les années 1930 laissèrent à penser que l'étoile était faiblement variable, avec des changements de l'ordre de ±0,03 magnitudes.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f32": {
+  "f28": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "La magnitude de Véga fut de nouveau mesurée en 1981 à l'observatoire David Dunlap et les observations montrèrent une légère variabilité.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f33": {
+  "f29": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
-   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que « Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles ».",
+   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que «Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles».",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f34": {
+  "f30": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que « Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles ».",
+   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que «Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles».",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f35": {
+  "f31": {
    "kind": "measure",
    "value": 2,
    "unit": "%",
    "surface": "2 %",
-   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que « Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles ».",
+   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que «Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles».",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f36": {
+  "f32": {
    "kind": "measure",
    "value": 4,
    "unit": "%",
    "surface": "4 %",
-   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que « Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles ».",
+   "sentence": "Cependant, un article de 2007 examina ces résultats, ainsi que d'autres mesures, et conclut que «Une analyse prudente des résultats précédents suggère que Véga est très probablement variable dans une fourchette de 1 à 2 %, avec des excursions occasionnelles jusqu'à 4 % de la moyenne possibles».",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
-   "sentence": "Un article de 2011 affirma également que « La variabilité à long terme (d'une année à l'autre) de Véga [était] confirmée. »\nEn 1983, Véga devint la première étoile autour de laquelle fut découvert un disque de poussières.",
+   "sentence": "Un article de 2011 affirma également que «La variabilité à long terme de Véga confirmée.»",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f38": {
+  "f34": {
    "kind": "date",
    "value": "1983",
    "surface": "1983",
-   "sentence": "Un article de 2011 affirma également que « La variabilité à long terme (d'une année à l'autre) de Véga [était] confirmée. »\nEn 1983, Véga devint la première étoile autour de laquelle fut découvert un disque de poussières.",
+   "sentence": "En 1983, Véga devint la première étoile autour de laquelle fut découvert un disque de poussières.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f39": {
+  "f35": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "En 2009, une équipe du Laboratoire d'Astrophysique de Toulouse-Tarbes, CNRS/Université de Toulouse, effectua la première détection d'un champ magnétique sur Véga.",
    "section": "Véga dans l'histoire de l'observation"
   },
-  "f40": {
+  "f36": {
    "kind": "number",
    "value": 386,
    "surface": "386",
    "sentence": "L'âge de l'étoile est compris entre 386 et 511 millions d'années, soit environ la moitié de sa durée de vie sur la séquence principale.",
    "section": "Propriétés physiques"
   },
-  "f41": {
+  "f37": {
    "kind": "number",
    "value": 511000000,
    "surface": "511 millions",
    "sentence": "L'âge de l'étoile est compris entre 386 et 511 millions d'années, soit environ la moitié de sa durée de vie sur la séquence principale.",
    "section": "Propriétés physiques"
   },
-  "f42": {
+  "f38": {
    "kind": "number",
    "value": 37,
    "surface": "37",
    "sentence": "À l'heure actuelle, Véga a une masse plus de deux fois supérieure à celle du Soleil et sa luminosité intrinsèque est environ 37 fois celle du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f43": {
+  "f39": {
    "kind": "number",
    "value": 0.107,
    "surface": "0,107",
    "sentence": "Véga pourrait être une étoile variable de type Delta Scuti dont la période serait de 0,107 jours.",
    "section": "Propriétés physiques"
   },
-  "f44": {
+  "f40": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Cette réaction ne se produit principalement qu'à partir de 16 × 106 K, température plus élevée que celle du noyau du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f45": {
+  "f41": {
    "kind": "measure",
    "value": 106,
    "unit": "k",
@@ -366,7 +338,7 @@
    "sentence": "Cette réaction ne se produit principalement qu'à partir de 16 × 106 K, température plus élevée que celle du noyau du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f46": {
+  "f42": {
    "kind": "measure",
    "value": 548,
    "unit": "nm",
@@ -374,14 +346,14 @@
    "sentence": "À 548,0 nm, le flux est de 3 650 Jy avec une marge d'erreur de 2 %.",
    "section": "Propriétés physiques"
   },
-  "f47": {
+  "f43": {
    "kind": "number",
    "value": 3650,
    "surface": "3 650",
    "sentence": "À 548,0 nm, le flux est de 3 650 Jy avec une marge d'erreur de 2 %.",
    "section": "Propriétés physiques"
   },
-  "f48": {
+  "f44": {
    "kind": "measure",
    "value": 2,
    "unit": "%",
@@ -389,21 +361,21 @@
    "sentence": "À 548,0 nm, le flux est de 3 650 Jy avec une marge d'erreur de 2 %.",
    "section": "Propriétés physiques"
   },
-  "f49": {
+  "f45": {
    "kind": "number",
    "value": 2.73,
    "surface": "2,73",
    "sentence": "Il a été estimé à 2,73 ± 0,01 fois le rayon solaire.",
    "section": "Propriétés physiques"
   },
-  "f50": {
+  "f46": {
    "kind": "number",
    "value": 0.01,
    "surface": "0,01",
    "sentence": "Il a été estimé à 2,73 ± 0,01 fois le rayon solaire.",
    "section": "Propriétés physiques"
   },
-  "f51": {
+  "f47": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -411,7 +383,7 @@
    "sentence": "Il est 60 % plus élevé que celui de Sirius, alors que les modèles stellaires indiquaient qu'il ne devrait être que 12 % plus grand.",
    "section": "Propriétés physiques"
   },
-  "f52": {
+  "f48": {
    "kind": "measure",
    "value": 12,
    "unit": "%",
@@ -419,21 +391,21 @@
    "sentence": "Il est 60 % plus élevé que celui de Sirius, alors que les modèles stellaires indiquaient qu'il ne devrait être que 12 % plus grand.",
    "section": "Propriétés physiques"
   },
-  "f53": {
+  "f49": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Des observations par l'interféromètre CHARA en juin 2005 ont permis de confirmer cette hypothèse.",
    "section": "Propriétés physiques"
   },
-  "f54": {
+  "f50": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "L'axe de rotation de Véga est incliné de moins de 5° par rapport à la ligne de visée.",
    "section": "Propriétés physiques"
   },
-  "f55": {
+  "f51": {
    "kind": "measure",
    "value": 274,
    "unit": "km/s",
@@ -441,7 +413,7 @@
    "sentence": "Son équateur est en rotation à une vitesse de 274 km/s, soit à peine 7 % de moins que la vitesse à laquelle elle perdrait de la masse par son bourrelet équatorial du fait de la force centrifuge.",
    "section": "Propriétés physiques"
   },
-  "f56": {
+  "f52": {
    "kind": "measure",
    "value": 7,
    "unit": "%",
@@ -449,152 +421,110 @@
    "sentence": "Son équateur est en rotation à une vitesse de 274 km/s, soit à peine 7 % de moins que la vitesse à laquelle elle perdrait de la masse par son bourrelet équatorial du fait de la force centrifuge.",
    "section": "Propriétés physiques"
   },
-  "f57": {
+  "f53": {
    "kind": "number",
    "value": 16.3,
    "surface": "16,3",
    "sentence": "Sa période de rotation est d'environ 16,3 ou 12,5 heures.",
    "section": "Propriétés physiques"
   },
-  "f58": {
+  "f54": {
    "kind": "number",
    "value": 12.5,
    "surface": "12,5",
    "sentence": "Sa période de rotation est d'environ 16,3 ou 12,5 heures.",
    "section": "Propriétés physiques"
   },
-  "f59": {
+  "f55": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Pour comparaison, le Soleil met 27 jours pour effectuer une rotation complète.",
    "section": "Propriétés physiques"
   },
-  "f60": {
-   "kind": "number",
-   "value": 2.78,
-   "surface": "2,78",
-   "sentence": "Le rayon à l'équateur (2,78 ± 0,02 rayon solaire) est 23 % plus grand que le rayon polaire (2,26 ± 0,02 rayon solaire).",
-   "section": "Propriétés physiques"
-  },
-  "f61": {
-   "kind": "number",
-   "value": 0.02,
-   "surface": "0,02",
-   "sentence": "Le rayon à l'équateur (2,78 ± 0,02 rayon solaire) est 23 % plus grand que le rayon polaire (2,26 ± 0,02 rayon solaire).",
-   "section": "Propriétés physiques"
-  },
-  "f62": {
+  "f56": {
    "kind": "measure",
    "value": 23,
    "unit": "%",
    "surface": "23 %",
-   "sentence": "Le rayon à l'équateur (2,78 ± 0,02 rayon solaire) est 23 % plus grand que le rayon polaire (2,26 ± 0,02 rayon solaire).",
+   "sentence": "Le rayon à l'équateur est 23 % plus grand que le rayon polaire.",
    "section": "Propriétés physiques"
   },
-  "f63": {
-   "kind": "number",
-   "value": 2.26,
-   "surface": "2,26",
-   "sentence": "Le rayon à l'équateur (2,78 ± 0,02 rayon solaire) est 23 % plus grand que le rayon polaire (2,26 ± 0,02 rayon solaire).",
-   "section": "Propriétés physiques"
-  },
-  "f64": {
-   "kind": "number",
-   "value": 0.02,
-   "surface": "0,02",
-   "sentence": "Le rayon à l'équateur (2,78 ± 0,02 rayon solaire) est 23 % plus grand que le rayon polaire (2,26 ± 0,02 rayon solaire).",
-   "section": "Propriétés physiques"
-  },
-  "f65": {
+  "f57": {
    "kind": "measure",
    "value": 10000,
    "unit": "k",
    "surface": "10 000 K",
-   "sentence": "Cette différence se traduit par une variation de la température effective de l'étoile : la température est proche de 10 000 K aux pôles contre 7 600 K à l'équateur.",
+   "sentence": "Cette différence se traduit par une variation de la température effective de l'étoile: la température est proche de 10 000 K aux pôles contre 7 600 K à l'équateur.",
    "section": "Propriétés physiques"
   },
-  "f66": {
+  "f58": {
    "kind": "measure",
    "value": 7600,
    "unit": "k",
    "surface": "7 600 K",
-   "sentence": "Cette différence se traduit par une variation de la température effective de l'étoile : la température est proche de 10 000 K aux pôles contre 7 600 K à l'équateur.",
+   "sentence": "Cette différence se traduit par une variation de la température effective de l'étoile: la température est proche de 10 000 K aux pôles contre 7 600 K à l'équateur.",
    "section": "Propriétés physiques"
   },
-  "f67": {
+  "f59": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
-   "sentence": "La métallicité de la photosphère de Véga est de −0,5 : c'est-à-dire que son abondance en métaux est de seulement de 32 % celle de l'atmosphère du Soleil.",
+   "sentence": "La métallicité de la photosphère de Véga est de −0,5: c'est-à-dire que son abondance en métaux est de seulement de 32 % celle de l'atmosphère du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f68": {
+  "f60": {
    "kind": "measure",
    "value": 32,
    "unit": "%",
    "surface": "32 %",
-   "sentence": "La métallicité de la photosphère de Véga est de −0,5 : c'est-à-dire que son abondance en métaux est de seulement de 32 % celle de l'atmosphère du Soleil.",
+   "sentence": "La métallicité de la photosphère de Véga est de −0,5: c'est-à-dire que son abondance en métaux est de seulement de 32 % celle de l'atmosphère du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f69": {
+  "f61": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "À titre de comparaison, Sirius, une étoile similaire à Véga a une abondance métallique 3 fois supérieure au Soleil.",
    "section": "Propriétés physiques"
   },
-  "f70": {
+  "f62": {
    "kind": "number",
    "value": 0.0172,
    "surface": "0,0172",
-   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % (ZVéga = 0,005 5) dans la photosphère de Véga.",
+   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % dans la photosphère de Véga.",
    "section": "Propriétés physiques"
   },
-  "f71": {
+  "f63": {
    "kind": "number",
    "value": 0.002,
    "surface": "0,002",
-   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % (ZVéga = 0,005 5) dans la photosphère de Véga.",
+   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % dans la photosphère de Véga.",
    "section": "Propriétés physiques"
   },
-  "f72": {
+  "f64": {
    "kind": "measure",
    "value": 0.55,
    "unit": "%",
    "surface": "0,55 %",
-   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % (ZVéga = 0,005 5) dans la photosphère de Véga.",
+   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % dans la photosphère de Véga.",
    "section": "Propriétés physiques"
   },
-  "f73": {
-   "kind": "number",
-   "value": 0.005,
-   "surface": "0,005",
-   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % (ZVéga = 0,005 5) dans la photosphère de Véga.",
-   "section": "Propriétés physiques"
-  },
-  "f74": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Le Soleil a une proportion d'éléments plus lourds que l'hélium d'environ ZSol = 0,0172 ± 0,002; cette proportion est donc de 0,55 % (ZVéga = 0,005 5) dans la photosphère de Véga.",
-   "section": "Propriétés physiques"
-  },
-  "f75": {
+  "f65": {
    "kind": "number",
    "value": 0.03,
    "surface": "0,030",
    "sentence": "Le rapport de la quantité d'hélium sur celle d'hydrogène est de 0,030 ± 0,005 pour Véga, soit environ 40 % plus faible que pour le Soleil.",
    "section": "Propriétés physiques"
   },
-  "f76": {
+  "f66": {
    "kind": "number",
    "value": 0.005,
    "surface": "0,005",
    "sentence": "Le rapport de la quantité d'hélium sur celle d'hydrogène est de 0,030 ± 0,005 pour Véga, soit environ 40 % plus faible que pour le Soleil.",
    "section": "Propriétés physiques"
   },
-  "f77": {
+  "f67": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -602,123 +532,123 @@
    "sentence": "Le rapport de la quantité d'hélium sur celle d'hydrogène est de 0,030 ± 0,005 pour Véga, soit environ 40 % plus faible que pour le Soleil.",
    "section": "Propriétés physiques"
   },
-  "f78": {
+  "f68": {
    "kind": "number",
    "value": 13.9,
    "surface": "13,9",
-   "sentence": "Cette vitesse est mesurée par effet Doppler : elle est de −13,9 ± 0,9 km/s, la valeur négative indiquant que l'étoile se rapproche du Soleil.",
+   "sentence": "Cette vitesse est mesurée par effet Doppler: elle est de −13,9 ± 0,9 km/s, la valeur négative indiquant que l'étoile se rapproche du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f79": {
+  "f69": {
    "kind": "measure",
    "value": 0.9,
    "unit": "km/s",
    "surface": "0,9 km/s",
-   "sentence": "Cette vitesse est mesurée par effet Doppler : elle est de −13,9 ± 0,9 km/s, la valeur négative indiquant que l'étoile se rapproche du Soleil.",
+   "sentence": "Cette vitesse est mesurée par effet Doppler: elle est de −13,9 ± 0,9 km/s, la valeur négative indiquant que l'étoile se rapproche du Soleil.",
    "section": "Propriétés physiques"
   },
-  "f80": {
+  "f70": {
    "kind": "number",
    "value": 202.03,
    "surface": "202,03",
-   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde (mas) par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
+   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
    "section": "Propriétés physiques"
   },
-  "f81": {
+  "f71": {
    "kind": "number",
    "value": 0.63,
    "surface": "0,63",
-   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde (mas) par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
+   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
    "section": "Propriétés physiques"
   },
-  "f82": {
+  "f72": {
    "kind": "number",
    "value": 287.47,
    "surface": "287,47",
-   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde (mas) par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
+   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
    "section": "Propriétés physiques"
   },
-  "f83": {
+  "f73": {
    "kind": "number",
    "value": 0.54,
    "surface": "0,54",
-   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde (mas) par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
+   "sentence": "Le mouvement propre de Véga est de 202,03 ± 0,63 milliarcseconde par an d'ascension droite et 287,47 ± 0,54 mas/an de déclinaison.",
    "section": "Propriétés physiques"
   },
-  "f84": {
+  "f74": {
    "kind": "number",
    "value": 327.78,
    "surface": "327,78",
    "sentence": "Le mouvement propre total de Véga est donc de 327,78 mas/an.",
    "section": "Propriétés physiques"
   },
-  "f85": {
+  "f75": {
    "kind": "number",
    "value": 13.9,
    "surface": "13,9",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f86": {
+  "f76": {
    "kind": "number",
    "value": 0.9,
    "surface": "0,9",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f87": {
+  "f77": {
    "kind": "number",
    "value": 6.3,
    "surface": "6,3",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f88": {
+  "f78": {
    "kind": "number",
    "value": 0.8,
    "surface": "0,8",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f89": {
+  "f79": {
    "kind": "number",
    "value": 7.7,
    "surface": "7,7",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f90": {
+  "f80": {
    "kind": "number",
    "value": 0.3,
    "surface": "0,3",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f91": {
+  "f81": {
    "kind": "measure",
    "value": 17,
    "unit": "km/s",
    "surface": "17 km/s",
-   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9 ; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
+   "sentence": "Dans le système de coordonnées galactiques, les composantes de la vitesse de Véga sont U=−13,9 ± 0,9; V=−6,3 ± 0,8 et W=−7,7 ± 0,3, soit une vitesse spatiale de 17 km/s.",
    "section": "Propriétés physiques"
   },
-  "f92": {
+  "f82": {
    "kind": "measure",
    "value": 13.9,
    "unit": "km/s",
    "surface": "13,9 km/s",
-   "sentence": "La composante radiale de la vitesse (dans la direction du Soleil) est de −13,9 km/s, tandis que la vitesse transverse est de 9,9 km/s.",
+   "sentence": "La composante radiale de la vitesse est de −13,9 km/s, tandis que la vitesse transverse est de 9,9 km/s.",
    "section": "Propriétés physiques"
   },
-  "f93": {
+  "f83": {
    "kind": "measure",
    "value": 9.9,
    "unit": "km/s",
    "surface": "9,9 km/s",
-   "sentence": "La composante radiale de la vitesse (dans la direction du Soleil) est de −13,9 km/s, tandis que la vitesse transverse est de 9,9 km/s.",
+   "sentence": "La composante radiale de la vitesse est de −13,9 km/s, tandis que la vitesse transverse est de 9,9 km/s.",
    "section": "Propriétés physiques"
   },
-  "f94": {
+  "f84": {
    "kind": "measure",
    "value": 210000,
    "unit": "ans",
@@ -726,14 +656,14 @@
    "sentence": "Véga sera l'étoile la plus brillante du ciel dans environ 210 000 ans, atteindra une magnitude maximale de –0,81 dans environ 290 000 ans et sera l'étoile la plus brillante du ciel durant environ 270 000 ans.",
    "section": "Propriétés physiques"
   },
-  "f95": {
+  "f85": {
    "kind": "number",
    "value": 0.81,
    "surface": "0,81",
    "sentence": "Véga sera l'étoile la plus brillante du ciel dans environ 210 000 ans, atteindra une magnitude maximale de –0,81 dans environ 290 000 ans et sera l'étoile la plus brillante du ciel durant environ 270 000 ans.",
    "section": "Propriétés physiques"
   },
-  "f96": {
+  "f86": {
    "kind": "measure",
    "value": 290000,
    "unit": "ans",
@@ -741,7 +671,7 @@
    "sentence": "Véga sera l'étoile la plus brillante du ciel dans environ 210 000 ans, atteindra une magnitude maximale de –0,81 dans environ 290 000 ans et sera l'étoile la plus brillante du ciel durant environ 270 000 ans.",
    "section": "Propriétés physiques"
   },
-  "f97": {
+  "f87": {
    "kind": "measure",
    "value": 270000,
    "unit": "ans",
@@ -749,28 +679,28 @@
    "sentence": "Véga sera l'étoile la plus brillante du ciel dans environ 210 000 ans, atteindra une magnitude maximale de –0,81 dans environ 290 000 ans et sera l'étoile la plus brillante du ciel durant environ 270 000 ans.",
    "section": "Propriétés physiques"
   },
-  "f98": {
+  "f88": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Ce groupe contient à l'heure actuelle 16 étoiles, parmi lesquelles Alpha Librae, Alpha Cephei, Castor, Fomalhaut et Véga.",
    "section": "Propriétés physiques"
   },
-  "f99": {
+  "f89": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "L'âge estimé du groupe est de 200 ± 100 millions d'années et leur vitesse moyenne est de 16,5 km/s.",
    "section": "Propriétés physiques"
   },
-  "f100": {
+  "f90": {
    "kind": "number",
    "value": 100000000,
    "surface": "100 millions",
    "sentence": "L'âge estimé du groupe est de 200 ± 100 millions d'années et leur vitesse moyenne est de 16,5 km/s.",
    "section": "Propriétés physiques"
   },
-  "f101": {
+  "f91": {
    "kind": "measure",
    "value": 16.5,
    "unit": "km/s",
@@ -778,72 +708,58 @@
    "sentence": "L'âge estimé du groupe est de 200 ± 100 millions d'années et leur vitesse moyenne est de 16,5 km/s.",
    "section": "Propriétés physiques"
   },
-  "f102": {
+  "f92": {
    "kind": "number",
    "value": 0.6,
    "surface": "0,6",
-   "sentence": "Ce champ a une valeur moyenne de −0,6 ± 0,3 G, ce qui est comparable à la force moyenne du champ magnétique solaire à grande échelle (lui-même environ 1 000 fois plus faible que le champ magnétique mesuré localement dans les taches solaires).",
+   "sentence": "Ce champ a une valeur moyenne de −0,6 ± 0,3 G, ce qui est comparable à la force moyenne du champ magnétique solaire à grande échelle.",
    "section": "Propriétés physiques"
   },
-  "f103": {
+  "f93": {
    "kind": "measure",
    "value": 0.3,
    "unit": "g",
    "surface": "0,3 G",
-   "sentence": "Ce champ a une valeur moyenne de −0,6 ± 0,3 G, ce qui est comparable à la force moyenne du champ magnétique solaire à grande échelle (lui-même environ 1 000 fois plus faible que le champ magnétique mesuré localement dans les taches solaires).",
+   "sentence": "Ce champ a une valeur moyenne de −0,6 ± 0,3 G, ce qui est comparable à la force moyenne du champ magnétique solaire à grande échelle.",
    "section": "Propriétés physiques"
   },
-  "f104": {
-   "kind": "number",
-   "value": 1000,
-   "surface": "1 000",
-   "sentence": "Ce champ a une valeur moyenne de −0,6 ± 0,3 G, ce qui est comparable à la force moyenne du champ magnétique solaire à grande échelle (lui-même environ 1 000 fois plus faible que le champ magnétique mesuré localement dans les taches solaires).",
-   "section": "Propriétés physiques"
-  },
-  "f105": {
+  "f94": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes (10″) centrée sur l'étoile.",
+   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes centrée sur l'étoile.",
    "section": "Système stellaire"
   },
-  "f106": {
+  "f95": {
    "kind": "number",
    "value": 60,
    "surface": "60",
-   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes (10″) centrée sur l'étoile.",
+   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes centrée sur l'étoile.",
    "section": "Système stellaire"
   },
-  "f107": {
+  "f96": {
    "kind": "measure",
    "value": 100,
    "unit": "μm",
    "surface": "100 μm",
-   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes (10″) centrée sur l'étoile.",
+   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes centrée sur l'étoile.",
    "section": "Système stellaire"
   },
-  "f108": {
+  "f97": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes (10″) centrée sur l'étoile.",
+   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes centrée sur l'étoile.",
    "section": "Système stellaire"
   },
-  "f109": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Cette différence fut identifiée aux longueurs d'onde de 25, 60 et 100 μm et est due à une zone d'un rayon angulaire de 10 arcsecondes (10″) centrée sur l'étoile.",
-   "section": "Système stellaire"
-  },
-  "f110": {
+  "f98": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Compte tenu de la distance de Véga, la zone a un rayon de 80 unités astronomiques.",
    "section": "Système stellaire"
   },
-  "f111": {
+  "f99": {
    "kind": "measure",
    "value": 193,
    "unit": "μm",
@@ -851,7 +767,7 @@
    "sentence": "Des mesures ultérieures de Véga à la longueur d'onde de 193 μm trouvèrent un flux plus faible qu'attendu en cas de présence de particules de l'ordre du millimètre, suggérant que leur taille devrait être inférieure ou égale à 100 μm.",
    "section": "Système stellaire"
   },
-  "f112": {
+  "f100": {
    "kind": "measure",
    "value": 100,
    "unit": "μm",
@@ -859,115 +775,94 @@
    "sentence": "Des mesures ultérieures de Véga à la longueur d'onde de 193 μm trouvèrent un flux plus faible qu'attendu en cas de présence de particules de l'ordre du millimètre, suggérant que leur taille devrait être inférieure ou égale à 100 μm.",
    "section": "Système stellaire"
   },
-  "f113": {
+  "f101": {
    "kind": "number",
    "value": 120,
    "surface": "120",
    "sentence": "Les modèles théoriques de distribution de poussières indiquent que le disque autour de Véga est circulaire, d'un rayon de 120 ua.",
    "section": "Système stellaire"
   },
-  "f114": {
+  "f102": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "De plus, il y aurait un trou de rayon supérieur à 80 ua au centre du disque.",
    "section": "Système stellaire"
   },
-  "f115": {
+  "f103": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
    "sentence": "En 2002, environ 400 étoiles de ce type ont été identifiées.",
    "section": "Système stellaire"
   },
-  "f116": {
+  "f104": {
    "kind": "number",
    "value": 400,
    "surface": "400",
    "sentence": "En 2002, environ 400 étoiles de ce type ont été identifiées.",
    "section": "Système stellaire"
   },
-  "f117": {
+  "f105": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "En 2005, le télescope spatial Spitzer prit des photos infrarouges de haute résolution du nuage de poussières entourant Véga.",
    "section": "Système stellaire"
   },
-  "f118": {
+  "f106": {
    "kind": "number",
    "value": 43,
    "surface": "43",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
+   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation: 43 secondes d'arc à une longueur d'onde de 24 µm, 70″ à 70 µm et 105″ à 160 µm.",
    "section": "Système stellaire"
   },
-  "f119": {
-   "kind": "number",
-   "value": 330,
-   "surface": "330",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
-   "section": "Système stellaire"
-  },
-  "f120": {
+  "f107": {
    "kind": "measure",
    "value": 24,
    "unit": "µm",
    "surface": "24 µm",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
+   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation: 43 secondes d'arc à une longueur d'onde de 24 µm, 70″ à 70 µm et 105″ à 160 µm.",
    "section": "Système stellaire"
   },
-  "f121": {
+  "f108": {
    "kind": "number",
    "value": 70,
    "surface": "70",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
+   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation: 43 secondes d'arc à une longueur d'onde de 24 µm, 70″ à 70 µm et 105″ à 160 µm.",
    "section": "Système stellaire"
   },
-  "f122": {
-   "kind": "date",
-   "value": "543",
-   "surface": "543",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
-   "section": "Système stellaire"
-  },
-  "f123": {
+  "f109": {
    "kind": "measure",
    "value": 70,
    "unit": "µm",
    "surface": "70 µm",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
+   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation: 43 secondes d'arc à une longueur d'onde de 24 µm, 70″ à 70 µm et 105″ à 160 µm.",
    "section": "Système stellaire"
   },
-  "f124": {
+  "f110": {
    "kind": "number",
    "value": 105,
    "surface": "105",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
+   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation: 43 secondes d'arc à une longueur d'onde de 24 µm, 70″ à 70 µm et 105″ à 160 µm.",
    "section": "Système stellaire"
   },
-  "f125": {
-   "kind": "date",
-   "value": "815",
-   "surface": "815",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
-   "section": "Système stellaire"
-  },
-  "f126": {
+  "f111": {
    "kind": "measure",
    "value": 160,
    "unit": "µm",
    "surface": "160 µm",
-   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation : 43 secondes d'arc (soit une extension de 330 unités astronomiques étant donné la distance de Véga à la Terre) à une longueur d'onde de 24 µm, 70″ (543 ua) à 70 µm et 105″ (815 ua) à 160 µm.",
+   "sentence": "Sa taille angulaire varie en fonction de la longueur d'onde d'observation: 43 secondes d'arc à une longueur d'onde de 24 µm, 70″ à 70 µm et 105″ à 160 µm.",
    "section": "Système stellaire"
   },
-  "f127": {
+  "f112": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Ces larges disques sont circulaires et ne présentent pas d'agrégats de poussière, les particules ayant une taille comprise entre 1 et 50 µm.",
    "section": "Système stellaire"
   },
-  "f128": {
+  "f113": {
    "kind": "measure",
    "value": 50,
    "unit": "µm",
@@ -975,161 +870,147 @@
    "sentence": "Ces larges disques sont circulaires et ne présentent pas d'agrégats de poussière, les particules ayant une taille comprise entre 1 et 50 µm.",
    "section": "Système stellaire"
   },
-  "f129": {
+  "f114": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "La masse totale de ce nuage est de 3 × 10−3 fois la masse de la Terre.",
    "section": "Système stellaire"
   },
-  "f130": {
+  "f115": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "La masse totale de ce nuage est de 3 × 10−3 fois la masse de la Terre.",
    "section": "Système stellaire"
   },
-  "f131": {
+  "f116": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "La masse totale de ce nuage est de 3 × 10−3 fois la masse de la Terre.",
    "section": "Système stellaire"
   },
-  "f132": {
+  "f117": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "La frontière intérieure du disque de débris serait de 11″±2″, soit 70–102 ua.",
    "section": "Système stellaire"
   },
-  "f133": {
+  "f118": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "La frontière intérieure du disque de débris serait de 11″±2″, soit 70–102 ua.",
    "section": "Système stellaire"
   },
-  "f134": {
+  "f119": {
    "kind": "number",
    "value": 70,
    "surface": "70",
    "sentence": "La frontière intérieure du disque de débris serait de 11″±2″, soit 70–102 ua.",
    "section": "Système stellaire"
   },
-  "f135": {
-   "kind": "number",
-   "value": 102,
-   "surface": "102",
-   "sentence": "La frontière intérieure du disque de débris serait de 11″±2″, soit 70–102 ua.",
-   "section": "Système stellaire"
-  },
-  "f136": {
+  "f120": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Les observations effectuées avec le télescope CHARA du Mont Wilson en 2006 ont trouvé des preuves d'existence dans un anneau intérieur de poussières autour de Véga.",
    "section": "Système stellaire"
   },
-  "f137": {
+  "f121": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "D'un rayon extérieur de 8 ua de l'étoile, cette poussière pourrait être la preuve des perturbations dynamiques existant au sein du système.",
    "section": "Système stellaire"
   },
-  "f138": {
+  "f122": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
-   "sentence": "Des observations du télescope James Clerk Maxwell de 1997 ont montré une région centrale brillante élongée qui atteint un maximum d'intensité à 9″ (70 UA) au nord-est de Véga.",
+   "sentence": "Des observations du télescope James Clerk Maxwell de 1997 ont montré une région centrale brillante élongée qui atteint un maximum d'intensité à 9″ au nord-est de Véga.",
    "section": "Système stellaire"
   },
-  "f139": {
+  "f123": {
    "kind": "number",
    "value": 9,
    "surface": "9",
-   "sentence": "Des observations du télescope James Clerk Maxwell de 1997 ont montré une région centrale brillante élongée qui atteint un maximum d'intensité à 9″ (70 UA) au nord-est de Véga.",
+   "sentence": "Des observations du télescope James Clerk Maxwell de 1997 ont montré une région centrale brillante élongée qui atteint un maximum d'intensité à 9″ au nord-est de Véga.",
    "section": "Système stellaire"
   },
-  "f140": {
-   "kind": "number",
-   "value": 70,
-   "surface": "70",
-   "sentence": "Des observations du télescope James Clerk Maxwell de 1997 ont montré une région centrale brillante élongée qui atteint un maximum d'intensité à 9″ (70 UA) au nord-est de Véga.",
-   "section": "Système stellaire"
-  },
-  "f141": {
+  "f124": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Cependant, des images des télescopes Keck ont exclu la présence d'un compagnon de magnitude supérieure ou égale à 16, ce qui correspondrait à un corps de masse supérieure à 12 fois la masse jovienne.",
    "section": "Système stellaire"
   },
-  "f142": {
+  "f125": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Cependant, des images des télescopes Keck ont exclu la présence d'un compagnon de magnitude supérieure ou égale à 16, ce qui correspondrait à un corps de masse supérieure à 12 fois la masse jovienne.",
    "section": "Système stellaire"
   },
-  "f143": {
+  "f126": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
    "sentence": "Un article de 2002 émet l'hypothèse que ces accumulations de poussières sont causées par une planète de masse similaire à celle de Jupiter sur une orbite excentrique.",
    "section": "Système stellaire"
   },
-  "f144": {
+  "f127": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
    "sentence": "En 2003, il fut suggéré que ces accumulations seraient causées par une planète de masse similaire à Neptune migrant de 40 à 65 UA sur une période de 56 millions d'années.",
    "section": "Système stellaire"
   },
-  "f145": {
+  "f128": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "En 2003, il fut suggéré que ces accumulations seraient causées par une planète de masse similaire à Neptune migrant de 40 à 65 UA sur une période de 56 millions d'années.",
    "section": "Système stellaire"
   },
-  "f146": {
+  "f129": {
    "kind": "number",
    "value": 65,
    "surface": "65",
    "sentence": "En 2003, il fut suggéré que ces accumulations seraient causées par une planète de masse similaire à Neptune migrant de 40 à 65 UA sur une période de 56 millions d'années.",
    "section": "Système stellaire"
   },
-  "f147": {
+  "f130": {
    "kind": "number",
    "value": 56000000,
    "surface": "56 millions",
    "sentence": "En 2003, il fut suggéré que ces accumulations seraient causées par une planète de masse similaire à Neptune migrant de 40 à 65 UA sur une période de 56 millions d'années.",
    "section": "Système stellaire"
   },
-  "f148": {
+  "f131": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "En utilisant un coronographe sur le télescope Subaru à Hawaii en 2005, les astronomes furent capables de restreindre les planètes possibles autour de Véga à celles de masse inférieure à 5 à 10 masses joviennes.",
    "section": "Système stellaire"
   },
-  "f149": {
+  "f132": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "En utilisant un coronographe sur le télescope Subaru à Hawaii en 2005, les astronomes furent capables de restreindre les planètes possibles autour de Véga à celles de masse inférieure à 5 à 10 masses joviennes.",
    "section": "Système stellaire"
   },
-  "f150": {
+  "f133": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "En utilisant un coronographe sur le télescope Subaru à Hawaii en 2005, les astronomes furent capables de restreindre les planètes possibles autour de Véga à celles de masse inférieure à 5 à 10 masses joviennes.",
    "section": "Système stellaire"
   },
-  "f151": {
+  "f134": {
    "kind": "number",
    "value": 4.3,
    "surface": "4,3",

@@ -79,124 +79,64 @@
  "facts": {
   "f1": {
    "kind": "number",
-   "value": 1.2,
-   "surface": "1,20",
-   "sentence": "Le chaume est plus long et plus souple que celui du blé (1,20 à 1,40 m pour les variétés traditionnelles et 1,60 m pour les hybrides).",
-   "section": "Description"
-  },
-  "f2": {
-   "kind": "measure",
-   "value": 1.4,
-   "unit": "m",
-   "surface": "1,40 m",
-   "sentence": "Le chaume est plus long et plus souple que celui du blé (1,20 à 1,40 m pour les variétés traditionnelles et 1,60 m pour les hybrides).",
-   "section": "Description"
-  },
-  "f3": {
-   "kind": "measure",
-   "value": 1.6,
-   "unit": "m",
-   "surface": "1,60 m",
-   "sentence": "Le chaume est plus long et plus souple que celui du blé (1,20 à 1,40 m pour les variétés traditionnelles et 1,60 m pour les hybrides).",
-   "section": "Description"
-  },
-  "f4": {
-   "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Plus court, toujours barbu, il est formé de 30 à 40 épillets à trois fleurs, dont la médiane est stérile et qui ne porte donc que deux graines.",
    "section": "Description"
   },
-  "f5": {
+  "f2": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Plus court, toujours barbu, il est formé de 30 à 40 épillets à trois fleurs, dont la médiane est stérile et qui ne porte donc que deux graines.",
    "section": "Description"
   },
-  "f6": {
+  "f3": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
-   "sentence": "On a trouvé du seigle domestiqué en petites quantités dans un certain nombre de sites néolithiques d'Asie mineure, comme à Can Hasan III (Néolithique précéramique B), mais il est sinon virtuellement absent des témoins archéologiques jusqu'à l'âge du bronze, où on commence à en trouver à Olmutz, Tchéquie, en 1800-1500 avant Jésus-Christ .",
+   "sentence": "On a trouvé du seigle domestiqué en petites quantités dans un certain nombre de sites néolithiques d'Asie mineure, comme à Can Hasan III, mais il est sinon virtuellement absent des témoins archéologiques jusqu'à l'âge du bronze, où on commence à en trouver à Olmutz, Tchéquie, en 1800-1500 avant Jésus-Christ.",
    "section": "Histoire"
   },
-  "f7": {
-   "kind": "number",
-   "value": 18.4,
-   "surface": "18.40",
-   "sentence": "Bien que des vestiges archéologiques de cette céréale aient été trouvés dans un contexte romain le long du Rhin et du Danube et dans les Îles Britanniques, Pline l'Ancien fait peu de cas du seigle, le décrivant comme « une nourriture très pauvre, utile seulement pour éviter la famine » et indiquant qu'on le mélange avec du blé « pour atténuer son goût amer, et même alors il est très désagréable à l'estomac » (L'Histoire naturelle 18.40)'.",
-   "section": "Histoire"
-  },
-  "f8": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "Pour avoir une résistance au froid suffisante, le seigle se sème tôt (avant le 15 septembre).",
-   "section": "Culture"
-  },
-  "f9": {
-   "kind": "measure",
-   "value": 1.8,
-   "unit": "m",
-   "surface": "1,80 m",
-   "sentence": "Le seigle présente de l'intérêt dans les systèmes d'élevage avec peu de surface, en effet sa grande hauteur (jusqu'à 1,80 m) lui permet de produire un important volume de paille.",
-   "section": "Culture"
-  },
-  "f10": {
+  "f4": {
    "kind": "measure",
    "value": 70,
    "unit": "kg",
    "surface": "70 kg",
-   "sentence": "Dans le premier cas, on doit semer dru, à raison de 70 kg de graine à l'hectare (soit environ 200 grains/m2 correspondant à 7 grammes de grains), pour permettre l'obtention de tiges fines et tendres ; dans le second cas, c'est-à-dire pour fournir un appui aux tiges d'une vesce ou d'un pois, on emploie 30 kg de semence à l'hectare.",
+   "sentence": "Dans le premier cas, on doit semer dru, à raison de 70 kg de graine à l'hectare, pour permettre l'obtention de tiges fines et tendres; dans le second cas, c'est-à-dire pour fournir un appui aux tiges d'une vesce ou d'un pois, on emploie 30 kg de semence à l'hectare.",
    "section": "Culture"
   },
-  "f11": {
-   "kind": "number",
-   "value": 200,
-   "surface": "200",
-   "sentence": "Dans le premier cas, on doit semer dru, à raison de 70 kg de graine à l'hectare (soit environ 200 grains/m2 correspondant à 7 grammes de grains), pour permettre l'obtention de tiges fines et tendres ; dans le second cas, c'est-à-dire pour fournir un appui aux tiges d'une vesce ou d'un pois, on emploie 30 kg de semence à l'hectare.",
-   "section": "Culture"
-  },
-  "f12": {
-   "kind": "measure",
-   "value": 7,
-   "unit": "grammes",
-   "surface": "7 grammes",
-   "sentence": "Dans le premier cas, on doit semer dru, à raison de 70 kg de graine à l'hectare (soit environ 200 grains/m2 correspondant à 7 grammes de grains), pour permettre l'obtention de tiges fines et tendres ; dans le second cas, c'est-à-dire pour fournir un appui aux tiges d'une vesce ou d'un pois, on emploie 30 kg de semence à l'hectare.",
-   "section": "Culture"
-  },
-  "f13": {
+  "f5": {
    "kind": "measure",
    "value": 30,
    "unit": "kg",
    "surface": "30 kg",
-   "sentence": "Dans le premier cas, on doit semer dru, à raison de 70 kg de graine à l'hectare (soit environ 200 grains/m2 correspondant à 7 grammes de grains), pour permettre l'obtention de tiges fines et tendres ; dans le second cas, c'est-à-dire pour fournir un appui aux tiges d'une vesce ou d'un pois, on emploie 30 kg de semence à l'hectare.",
+   "sentence": "Dans le premier cas, on doit semer dru, à raison de 70 kg de graine à l'hectare, pour permettre l'obtention de tiges fines et tendres; dans le second cas, c'est-à-dire pour fournir un appui aux tiges d'une vesce ou d'un pois, on emploie 30 kg de semence à l'hectare.",
    "section": "Culture"
   },
-  "f14": {
+  "f6": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Plus de 100 variétés sont inscrites au catalogue officiel français des espèces et variétés.",
    "section": "Variétés"
   },
-  "f15": {
+  "f7": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "Le grain peut aussi être utilisé pour la fabrication de whisky aux États-Unis (Rye Whiskey) et au Canada (Canadian Rye Whiskey), le contenu en seigle peut varier entre 0 et 100 % ; le kvas russe est quant à lui obtenu à partir de pain de seigle.",
+   "sentence": "Le grain peut aussi être utilisé pour la fabrication de whisky aux États-Unis et au Canada, le contenu en seigle peut varier entre 0 et 100 %; le kvas russe est quant à lui obtenu à partir de pain de seigle.",
    "section": "Utilisation"
   },
-  "f16": {
+  "f8": {
    "kind": "measure",
    "value": 100,
    "unit": "%",
    "surface": "100 %",
-   "sentence": "Le grain peut aussi être utilisé pour la fabrication de whisky aux États-Unis (Rye Whiskey) et au Canada (Canadian Rye Whiskey), le contenu en seigle peut varier entre 0 et 100 % ; le kvas russe est quant à lui obtenu à partir de pain de seigle.",
+   "sentence": "Le grain peut aussi être utilisé pour la fabrication de whisky aux États-Unis et au Canada, le contenu en seigle peut varier entre 0 et 100 %; le kvas russe est quant à lui obtenu à partir de pain de seigle.",
    "section": "Utilisation"
   },
-  "f17": {
+  "f9": {
    "kind": "measure",
    "value": 0.11,
    "unit": "%",
@@ -204,7 +144,7 @@
    "sentence": "Dans la proportion typique d'ergot contenu dans le grain nettoyé qui est de 0,11 %, il n'y a pas d'effet indésirable dû à l'ergot.",
    "section": "Utilisation"
   },
-  "f18": {
+  "f10": {
    "kind": "measure",
    "value": 0.3,
    "unit": "%",
@@ -212,46 +152,46 @@
    "sentence": "À plus de 0,3 % d'ergot, la croissance et la mortalité des poussins augmente.",
    "section": "Utilisation"
   },
-  "f19": {
+  "f11": {
    "kind": "measure",
    "value": 50,
    "unit": "kg",
    "surface": "50 kg",
-   "sentence": "Porcs : l'alimentation des porcs de plus de 50 kg peut contenir jusqu'à 50 % de seigle.",
+   "sentence": "Porcs: l'alimentation des porcs de plus de 50 kg peut contenir jusqu'à 50 % de seigle.",
    "section": "Utilisation"
   },
-  "f20": {
+  "f12": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
    "surface": "50 %",
-   "sentence": "Porcs : l'alimentation des porcs de plus de 50 kg peut contenir jusqu'à 50 % de seigle.",
+   "sentence": "Porcs: l'alimentation des porcs de plus de 50 kg peut contenir jusqu'à 50 % de seigle.",
    "section": "Utilisation"
   },
-  "f21": {
+  "f13": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
    "surface": "15 %",
-   "sentence": "Volailles : C'est dans l'alimentation de la volaille que le seigle présente le moins d'intérêt, mieux vaut ne pas dépasser 15 % (effet laxatif).",
+   "sentence": "Volailles: C'est dans l'alimentation de la volaille que le seigle présente le moins d'intérêt, mieux vaut ne pas dépasser 15 %.",
    "section": "Utilisation"
   },
-  "f22": {
+  "f14": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
    "surface": "10 %",
-   "sentence": "Chevaux : le seigle ne doit pas dépasser 10 % de la ration totale.",
+   "sentence": "Chevaux: le seigle ne doit pas dépasser 10 % de la ration totale.",
    "section": "Utilisation"
   },
-  "f23": {
+  "f15": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Le seigle peut donner 2 à 6 tonnes de matière sèche à l'hectare, selon la fertilité du sol.",
    "section": "Utilisation"
   },
-  "f24": {
+  "f16": {
    "kind": "measure",
    "value": 6,
    "unit": "tonnes",
@@ -259,7 +199,7 @@
    "sentence": "Le seigle peut donner 2 à 6 tonnes de matière sèche à l'hectare, selon la fertilité du sol.",
    "section": "Utilisation"
   },
-  "f25": {
+  "f17": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
@@ -267,43 +207,43 @@
    "sentence": "C'est en effet la céréale à paille la plus haute en tige, jusqu'à 2,50 m.\nC'est une matière première pour la confection de toitures traditionnelles, ou le rempaillage de chaises.",
    "section": "Utilisation"
   },
-  "f26": {
+  "f18": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
    "surface": "30 %",
-   "sentence": "Selon les données de la FAO, la production mondiale de seigle diminue de plus de 30 % entre 2013 et 2018, s'expliquant par de très fortes baisses dans les trois principaux pays producteurs (Allemagne, Pologne, fédération de Russie).",
+   "sentence": "Selon les données de la FAO, la production mondiale de seigle diminue de plus de 30 % entre 2013 et 2018, s'expliquant par de très fortes baisses dans les trois principaux pays producteurs.",
    "section": "Production"
   },
-  "f27": {
+  "f19": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
-   "sentence": "Selon les données de la FAO, la production mondiale de seigle diminue de plus de 30 % entre 2013 et 2018, s'expliquant par de très fortes baisses dans les trois principaux pays producteurs (Allemagne, Pologne, fédération de Russie).",
+   "sentence": "Selon les données de la FAO, la production mondiale de seigle diminue de plus de 30 % entre 2013 et 2018, s'expliquant par de très fortes baisses dans les trois principaux pays producteurs.",
    "section": "Production"
   },
-  "f28": {
+  "f20": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
-   "sentence": "Selon les données de la FAO, la production mondiale de seigle diminue de plus de 30 % entre 2013 et 2018, s'expliquant par de très fortes baisses dans les trois principaux pays producteurs (Allemagne, Pologne, fédération de Russie).",
+   "sentence": "Selon les données de la FAO, la production mondiale de seigle diminue de plus de 30 % entre 2013 et 2018, s'expliquant par de très fortes baisses dans les trois principaux pays producteurs.",
    "section": "Production"
   },
-  "f29": {
+  "f21": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Le 1er messidor du calendrier républicain / révolutionnaire français y est officiellement dénommé jour du seigle, généralement chaque 19 juin du calendrier grégorien.",
    "section": "Calendrier"
   },
-  "f30": {
+  "f22": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "La France, en 2014, est nette exportatrice de seigle, d'après les douanes françaises.",
    "section": "Commerce"
   },
-  "f31": {
+  "f23": {
    "kind": "number",
    "value": 150,
    "surface": "150",

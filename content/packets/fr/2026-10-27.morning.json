@@ -50,67 +50,45 @@
  },
  "facts": {
   "f1": {
-   "kind": "measure",
-   "value": 2500,
-   "unit": "espèces",
-   "surface": "2 500 espèces",
-   "sentence": "Les rongeurs ou Rodentiens (Rodentia) sont un ordre de mammifères placentaires (le plus grand ordre de mammifères, regroupant plus de 2 500 espèces)."
-  },
-  "f2": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "La plupart des espèces ont jusqu'à 22 dents, sans canines ni prémolaires antérieures.",
    "section": "Description"
   },
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 4.4,
    "unit": "cm",
    "surface": "4,4 cm",
-   "sentence": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur (tête et corps), avec des femelles adultes ne pesant que 3,75 g.",
+   "sentence": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur, avec des femelles adultes ne pesant que 3,75 g.",
    "section": "Description"
   },
-  "f4": {
+  "f3": {
    "kind": "measure",
    "value": 3.75,
    "unit": "g",
    "surface": "3,75 g",
-   "sentence": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur (tête et corps), avec des femelles adultes ne pesant que 3,75 g.",
+   "sentence": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur, avec des femelles adultes ne pesant que 3,75 g.",
    "section": "Description"
   },
-  "f5": {
+  "f4": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
    "surface": "100 g",
-   "sentence": "La plupart des espèces de rongeurs pèsent moins de 100 g, mais le plus grand rongeur actuel, le Capybara (Hydrochoerus hydrochaeris), peut peser jusqu'à 66 kg.",
+   "sentence": "La plupart des espèces de rongeurs pèsent moins de 100 g, mais le plus grand rongeur actuel, le Capybara, peut peser jusqu'à 66 kg.",
    "section": "Description"
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 66,
    "unit": "kg",
    "surface": "66 kg",
-   "sentence": "La plupart des espèces de rongeurs pèsent moins de 100 g, mais le plus grand rongeur actuel, le Capybara (Hydrochoerus hydrochaeris), peut peser jusqu'à 66 kg.",
+   "sentence": "La plupart des espèces de rongeurs pèsent moins de 100 g, mais le plus grand rongeur actuel, le Capybara, peut peser jusqu'à 66 kg.",
    "section": "Description"
   },
-  "f7": {
-   "kind": "number",
-   "value": 436,
-   "surface": "436",
-   "sentence": "Du côté des taxons éteints, les ossements fossiles ont montré qu'il y a environ trois millions d'années vivait au sud de l'Amérique un rongeur bien plus grand (plus grand encore que Eumegamys paranensis ou que Phoberomys pattersoni, découvert au Venezuela et pouvant peser de 436 à 741 kg, précédents records en taille chez les rongeurs fossiles) : Josephoartigasia monesi était aussi haut qu'un bison et pesait jusqu'à une tonne environ.",
-   "section": "Description"
-  },
-  "f8": {
-   "kind": "measure",
-   "value": 741,
-   "unit": "kg",
-   "surface": "741 kg",
-   "sentence": "Du côté des taxons éteints, les ossements fossiles ont montré qu'il y a environ trois millions d'années vivait au sud de l'Amérique un rongeur bien plus grand (plus grand encore que Eumegamys paranensis ou que Phoberomys pattersoni, découvert au Venezuela et pouvant peser de 436 à 741 kg, précédents records en taille chez les rongeurs fossiles) : Josephoartigasia monesi était aussi haut qu'un bison et pesait jusqu'à une tonne environ.",
-   "section": "Description"
-  },
-  "f9": {
+  "f6": {
    "kind": "measure",
    "value": 86,
    "unit": "%",
@@ -118,7 +96,7 @@
    "sentence": "86 % des espèces sont dotées d'un minuscule ongle situé sur leur pouce qui favorise la saisie précise et stable et la manipulation de leurs sources de nourriture, cette lame de kératine permettant une zone de contact optimisée entre la pulpe du doigt et l'aliment.",
    "section": "Description"
   },
-  "f10": {
+  "f7": {
    "kind": "measure",
    "value": 80,
    "unit": "pour cent",
@@ -126,49 +104,49 @@
    "sentence": "Le système digestif des rongeurs est efficace, absorbant près de 80 pour cent de l'énergie ingérée.",
    "section": "Description"
   },
-  "f11": {
+  "f8": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
    "surface": "50 %",
-   "sentence": "Elle est par exemple utilisée par les marmottes (Marmotta sp.), qui peuvent être de 50 % plus lourdes à l'automne qu'au printemps, utilisant leurs réserves durant leur longue hibernation.",
+   "sentence": "Elle est par exemple utilisée par les marmottes, qui peuvent être de 50 % plus lourdes à l'automne qu'au printemps, utilisant leurs réserves durant leur longue hibernation.",
    "section": "Écologie et comportement"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 34,
    "unit": "%",
    "surface": "34 %",
-   "sentence": "L'examen du contenu stomacal de Souris à pattes blanches (Peromyscus leucopus) en Amérique du Nord, espèce normalement considérée comme herbivore, a montré que la matière animale constituait 34 % de l'alimentation.",
+   "sentence": "L'examen du contenu stomacal de Souris à pattes blanches en Amérique du Nord, espèce normalement considérée comme herbivore, a montré que la matière animale constituait 34 % de l'alimentation.",
    "section": "Écologie et comportement"
   },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Le premier vit entièrement sous terre et peut former des colonies comptant jusqu'à 80 individus.",
    "section": "Écologie et comportement"
   },
-  "f14": {
+  "f11": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Ces protéines urinaires majeures peuvent aussi indiquer l'identité de chaque individu, chaque mâle de Souris grise excrétant dans son urine une combinaison de 12 protéines spécifique à l'animal.",
    "section": "Écologie et comportement"
   },
-  "f15": {
+  "f12": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "De la même manière, l'octodon, un autre rongeur social, qui creuse des terriers, a une vaste palette de moyens de communication et un répertoire vocal élaboré comprenant 15 différentes catégories de sons.",
    "section": "Écologie et comportement"
   },
-  "f16": {
+  "f13": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
    "surface": "20 %",
-   "sentence": "Chez l'Écureuil de terre du Cap, les testicules du mâle peuvent représenter 20 % de la longueur de son corps (queue exclue).",
+   "sentence": "Chez l'Écureuil de terre du Cap, les testicules du mâle peuvent représenter 20 % de la longueur de son corps.",
    "section": "Écologie et comportement"
   }
  },

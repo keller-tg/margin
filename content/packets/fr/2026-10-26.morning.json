@@ -73,105 +73,75 @@
   },
   "f2": {
    "kind": "measure",
-   "value": 28,
-   "unit": "°c",
-   "surface": "28 °C",
-   "sentence": "Son point de fusion (28 °C) est proche de la température ambiante et du corps humain (CNTP), à laquelle il peut demeurer à l'état liquide par surfusion ; le césium partage cette propriété avec le gallium et le rubidium, le mercure étant le seul métal pur liquide et s'évaporant à température ambiante."
-  },
-  "f3": {
-   "kind": "measure",
    "value": 116,
    "unit": "°c",
    "surface": "116 °C",
    "sentence": "Il est extrêmement réactif et pyrophorique, et réagit avec l'eau même à une température aussi basse que −116 °C."
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
-   "sentence": "Le césium a été décelé pour la première fois en 1860 par Robert Wilhelm Bunsen et Gustav Robert Kirchhoff, lors d'une spectroscopie de l'eau minérale de Dürkheim, faite grâce au spectroscope qu’ils avaient inventé en 1859 (quelques mois après ils découvrirent le rubidium de la même façon).",
+   "sentence": "Le césium a été décelé pour la première fois en 1860 par Robert Wilhelm Bunsen et Gustav Robert Kirchhoff, lors d'une spectroscopie de l'eau minérale de Dürkheim, faite grâce au spectroscope qu’ils avaient inventé en 1859.",
    "section": "Histoire et étymologie"
   },
-  "f5": {
+  "f4": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
-   "sentence": "Le césium a été décelé pour la première fois en 1860 par Robert Wilhelm Bunsen et Gustav Robert Kirchhoff, lors d'une spectroscopie de l'eau minérale de Dürkheim, faite grâce au spectroscope qu’ils avaient inventé en 1859 (quelques mois après ils découvrirent le rubidium de la même façon).",
+   "sentence": "Le césium a été décelé pour la première fois en 1860 par Robert Wilhelm Bunsen et Gustav Robert Kirchhoff, lors d'une spectroscopie de l'eau minérale de Dürkheim, faite grâce au spectroscope qu’ils avaient inventé en 1859.",
    "section": "Histoire et étymologie"
   },
-  "f6": {
+  "f5": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "Il présente deux degrés d’oxydation : 0 (métal) et +I (composés ioniques).",
+   "sentence": "Il présente deux degrés d’oxydation: 0 et +I.",
    "section": "Physicochimie"
   },
-  "f7": {
-   "kind": "measure",
-   "value": 116,
-   "unit": "°c",
-   "surface": "116 °C",
-   "sentence": "Réactivité : le césium réagit violemment avec l’air (production de superoxyde), avec l’eau même gelée (explosion, qui n'est inhibée qu'à partir de −116 °C), avec le phosphore, le soufre et le dichlore.",
-   "section": "Physicochimie"
-  },
-  "f8": {
+  "f6": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "On connaît 40 isotopes du césium, de nombre de masse variant entre 112 et 151, plus 17 isomères.",
    "section": "Physicochimie"
   },
-  "f9": {
+  "f7": {
    "kind": "number",
    "value": 112,
    "surface": "112",
    "sentence": "On connaît 40 isotopes du césium, de nombre de masse variant entre 112 et 151, plus 17 isomères.",
    "section": "Physicochimie"
   },
-  "f10": {
+  "f8": {
    "kind": "number",
    "value": 151,
    "surface": "151",
    "sentence": "On connaît 40 isotopes du césium, de nombre de masse variant entre 112 et 151, plus 17 isomères.",
    "section": "Physicochimie"
   },
-  "f11": {
+  "f9": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "On connaît 40 isotopes du césium, de nombre de masse variant entre 112 et 151, plus 17 isomères.",
    "section": "Physicochimie"
   },
-  "f12": {
-   "kind": "number",
-   "value": 78,
-   "surface": "78",
-   "sentence": "Le seul isotope stable est 133Cs (78 neutrons), ce qui fait du césium un élément monoisotopique.",
-   "section": "Physicochimie"
-  },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 137,
    "surface": "137",
-   "sentence": "Ils sont produits dans les supernovas, et sur Terre sont issus des retombées d'essais nucléaires atmosphériques ou d'accidents nucléaires (catastrophe de Tchernobyl, par exemple) et des déchets nucléaires, notamment le césium 137.",
+   "sentence": "Ils sont produits dans les supernovas, et sur Terre sont issus des retombées d'essais nucléaires atmosphériques ou d'accidents nucléaires et des déchets nucléaires, notamment le césium 137.",
    "section": "Physicochimie"
   },
-  "f14": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "ans",
-   "surface": "30 ans",
-   "sentence": "Deux isotopes, 134Cs (demi-vie de deux ans) et 137Cs (émetteur gamma, demi-vie de 30 ans) sont des produits de fission de l'uranium, traceurs éventuels de fuites ou d'accidents de réacteurs nucléaires.",
-   "section": "Physicochimie"
-  },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
-   "sentence": "Il a en effet été très utilisé dans les études hydrologiques et écologiques mises en œuvre pour évaluer les effets de plusieurs contaminations générales de l'atmosphère induites à partir de 1945 par l'utilisation des bombes atomiques, puis par les essais nucléaires, puis (dans l'hémisphère nord principalement) par l'accident de Tchernobyl) et enfin dans une moindre mesure, à cause des rejets de centrales nucléaires ou de sites de retraitement, stockage, etc. Sa signature et son suivi ont par exemple permis de mesurer à quelle vitesse l'eau des nappes se renouvelait ou à démontrer qu'une grotte était ou non isolée du monde extérieur.",
+   "sentence": "Il a en effet été très utilisé dans les études hydrologiques et écologiques mises en œuvre pour évaluer les effets de plusieurs contaminations générales de l'atmosphère induites à partir de 1945 par l'utilisation des bombes atomiques, puis par les essais nucléaires, puis par l'accident de Tchernobyl) et enfin dans une moindre mesure, à cause des rejets de centrales nucléaires ou de sites de retraitement, stockage, etc. Sa signature et son suivi ont par exemple permis de mesurer à quelle vitesse l'eau des nappes se renouvelait ou à démontrer qu'une grotte était ou non isolée du monde extérieur.",
    "section": "Physicochimie"
   },
-  "f16": {
+  "f12": {
    "kind": "measure",
    "value": 30.15,
    "unit": "ans",
@@ -179,167 +149,114 @@
    "sentence": "Il a une période radioactive de 30,15 ans.",
    "section": "Physicochimie"
   },
-  "f17": {
+  "f13": {
    "kind": "measure",
    "value": 137,
    "unit": "m",
    "surface": "137m",
-   "sentence": "Il se désintègre en baryum 137m, un isomère de courte période (2,55 min) qui se désintègre lui-même en baryum 137 stable.",
+   "sentence": "Il se désintègre en baryum 137m, un isomère de courte période qui se désintègre lui-même en baryum 137 stable.",
+   "section": "Physicochimie"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 137,
+   "surface": "137",
+   "sentence": "Il se désintègre en baryum 137m, un isomère de courte période qui se désintègre lui-même en baryum 137 stable.",
+   "section": "Physicochimie"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 132.9054519,
+   "surface": "132,9054519",
+   "sentence": "Sa masse atomique standard est de 132,9054519 u.",
+   "section": "Physicochimie"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 135,
+   "surface": "135",
+   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134, et du césium 137.",
+   "section": "Physicochimie"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 134,
+   "surface": "134",
+   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134, et du césium 137.",
    "section": "Physicochimie"
   },
   "f18": {
    "kind": "number",
-   "value": 2.55,
-   "surface": "2,55",
-   "sentence": "Il se désintègre en baryum 137m, un isomère de courte période (2,55 min) qui se désintègre lui-même en baryum 137 stable.",
+   "value": 137,
+   "surface": "137",
+   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134, et du césium 137.",
    "section": "Physicochimie"
   },
   "f19": {
-   "kind": "number",
-   "value": 137,
-   "surface": "137",
-   "sentence": "Il se désintègre en baryum 137m, un isomère de courte période (2,55 min) qui se désintègre lui-même en baryum 137 stable.",
-   "section": "Physicochimie"
-  },
-  "f20": {
-   "kind": "number",
-   "value": 132.9054519,
-   "surface": "132,9054519",
-   "sentence": "Sa masse atomique standard est de 132,9054519(2) u.",
-   "section": "Physicochimie"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Sa masse atomique standard est de 132,9054519(2) u.",
-   "section": "Physicochimie"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 135,
-   "surface": "135",
-   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134 (période de 2 ans), et du césium 137 (période de 30 ans).",
-   "section": "Physicochimie"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 134,
-   "surface": "134",
-   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134 (période de 2 ans), et du césium 137 (période de 30 ans).",
-   "section": "Physicochimie"
-  },
-  "f24": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "ans",
-   "surface": "2 ans",
-   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134 (période de 2 ans), et du césium 137 (période de 30 ans).",
-   "section": "Physicochimie"
-  },
-  "f25": {
-   "kind": "number",
-   "value": 137,
-   "surface": "137",
-   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134 (période de 2 ans), et du césium 137 (période de 30 ans).",
-   "section": "Physicochimie"
-  },
-  "f26": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "ans",
-   "surface": "30 ans",
-   "sentence": "Les déchets radioactifs, les retombées d'essais nucléaires atmosphériques ou de l'accident de Tchernobyl peuvent contenir du césium 135 à très longue période radioactive, du césium 134 (période de 2 ans), et du césium 137 (période de 30 ans).",
-   "section": "Physicochimie"
-  },
-  "f27": {
    "kind": "number",
    "value": 135,
    "surface": "135",
    "sentence": "Le césium 135 a une période radioactive de 2,3 millions d’années et fait partie des déchets radioactifs à vie longue.",
    "section": "Physicochimie"
   },
-  "f28": {
+  "f20": {
    "kind": "number",
    "value": 2300000,
    "surface": "2,3 millions",
    "sentence": "Le césium 135 a une période radioactive de 2,3 millions d’années et fait partie des déchets radioactifs à vie longue.",
    "section": "Physicochimie"
   },
-  "f29": {
-   "kind": "date",
-   "value": "800",
-   "surface": "800",
-   "sentence": "Le césium stable est considéré comme chimiquement peu toxique (DL50 variant de 800 à 2 000 mg/kg selon sa forme chimique).",
-   "section": "Toxicité"
-  },
-  "f30": {
-   "kind": "measure",
-   "value": 2000,
-   "unit": "mg",
-   "surface": "2 000 mg",
-   "sentence": "Le césium stable est considéré comme chimiquement peu toxique (DL50 variant de 800 à 2 000 mg/kg selon sa forme chimique).",
-   "section": "Toxicité"
-  },
-  "f31": {
+  "f21": {
    "kind": "number",
    "value": 137,
    "surface": "137",
-   "sentence": "Parce qu'il est à la fois émissif de rayonnement gamma extrêmement dangereux pour tous les êtres vivants (végétaux, animaux) s'il est intégré dans l'organisme, et parce qu'il est l'homologue chimique du potassium (il tend à le remplacer dans les processus d'assimilation par les végétaux et par ingestion dans l'organisme), le césium 137 est radiotoxique, toxique et écotoxique pour toutes les espèces qui ont besoin de potassium.",
+   "sentence": "Parce qu'il est à la fois émissif de rayonnement gamma extrêmement dangereux pour tous les êtres vivants s'il est intégré dans l'organisme, et parce qu'il est l'homologue chimique du potassium, le césium 137 est radiotoxique, toxique et écotoxique pour toutes les espèces qui ont besoin de potassium.",
    "section": "Toxicité"
   },
-  "f32": {
+  "f22": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
+   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons: 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus.",
    "section": "Toxicité"
   },
-  "f33": {
+  "f23": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
    "surface": "95 %",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
+   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons: 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus.",
    "section": "Toxicité"
   },
-  "f34": {
+  "f24": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
+   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons: 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus.",
    "section": "Toxicité"
   },
-  "f35": {
+  "f25": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
+   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons: 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus.",
    "section": "Toxicité"
   },
-  "f36": {
+  "f26": {
    "kind": "number",
    "value": 100,
    "surface": "100",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
+   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons: 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus.",
    "section": "Toxicité"
   },
-  "f37": {
+  "f27": {
    "kind": "number",
    "value": 2000,
    "surface": "2 000",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
+   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons: 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus.",
    "section": "Toxicité"
   },
-  "f38": {
-   "kind": "measure",
-   "value": 70,
-   "unit": "%",
-   "surface": "70 %",
-   "sentence": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine, et l'ingestion de radiocésium y augmentait en 1998 de 200 fois environ pour les gros consommateurs de champignons : 100 Bq/jour environ pour un consommateur normal et jusqu'à 2 000 pour les consommateurs réguliers, sachant que l'Ukraine a été bien moins touchée sur le Bélarus (70 % des retombées).",
-   "section": "Toxicité"
-  },
-  "f39": {
+  "f28": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -347,222 +264,120 @@
    "sentence": "En zone contaminée de Biélorussie, la part du 137Cs ingéré par une mère transférée au bébé allaité est d'environ 15 %.",
    "section": "Toxicité"
   },
-  "f40": {
+  "f29": {
    "kind": "date",
    "value": "555",
    "surface": "555",
    "sentence": "Le 137Cs est aussi source d'anomalies congénitales (en particulier duplication des reins et des uretères, polydactylie, défauts du tube neural signalés en Bélarus dans les zones où les mères vivaient dans des zones exposées à plus de 555 Bq/m2.",
    "section": "Toxicité"
   },
-  "f41": {
-   "kind": "measure",
-   "value": 2.3,
-   "unit": "g",
-   "surface": "2,3 g",
-   "sentence": "Forage : le formiate de césium saturé dans l’eau est thermiquement stable, stable à la pression, et assez dense (2,3 g·cm−3) pour que certains sédiments y flottent.",
-   "section": "Utilisations"
-  },
-  "f42": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Forage : le formiate de césium saturé dans l’eau est thermiquement stable, stable à la pression, et assez dense (2,3 g·cm−3) pour que certains sédiments y flottent.",
-   "section": "Utilisations"
-  },
-  "f43": {
-   "kind": "date",
-   "value": "1990",
-   "surface": "1990",
-   "sentence": "Il permet de produire une boue de forage plus dense (inventée au début des années 1990), qui peut être injectée dans le tube d’un forage profond afin de mieux contrebalancer la pression hydrostatique du fond du puits ce qui facilite l’injection et contrôle la remontée des fluides naturels.",
-   "section": "Utilisations"
-  },
-  "f44": {
+  "f30": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Horloge atomique : l'isotope stable 133Cs permet d'obtenir une exactitude de 2 × 10-14 (soit une seconde sur 1 600 000 ans) grâce à l'« horloge au césium ».",
+   "sentence": "Horloge atomique: l'isotope stable 133Cs permet d'obtenir une exactitude de 2 × 10-14 grâce à l'«horloge au césium».",
    "section": "Utilisations"
   },
-  "f45": {
+  "f31": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Horloge atomique : l'isotope stable 133Cs permet d'obtenir une exactitude de 2 × 10-14 (soit une seconde sur 1 600 000 ans) grâce à l'« horloge au césium ».",
+   "sentence": "Horloge atomique: l'isotope stable 133Cs permet d'obtenir une exactitude de 2 × 10-14 grâce à l'«horloge au césium».",
    "section": "Utilisations"
   },
-  "f46": {
-   "kind": "measure",
-   "value": 1600000,
-   "unit": "ans",
-   "surface": "1 600 000 ans",
-   "sentence": "Horloge atomique : l'isotope stable 133Cs permet d'obtenir une exactitude de 2 × 10-14 (soit une seconde sur 1 600 000 ans) grâce à l'« horloge au césium ».",
-   "section": "Utilisations"
-  },
-  "f47": {
+  "f32": {
    "kind": "date",
    "value": "1967",
    "surface": "1967",
    "sentence": "La seconde est définie depuis 1967 comme la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133.",
    "section": "Utilisations"
   },
-  "f48": {
+  "f33": {
    "kind": "number",
    "value": 9192631770,
    "surface": "9 192 631 770",
    "sentence": "La seconde est définie depuis 1967 comme la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133.",
    "section": "Utilisations"
   },
-  "f49": {
+  "f34": {
    "kind": "number",
    "value": 133,
    "surface": "133",
    "sentence": "La seconde est définie depuis 1967 comme la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133.",
    "section": "Utilisations"
   },
-  "f50": {
+  "f35": {
    "kind": "number",
    "value": 12,
    "surface": "12",
-   "sentence": "Photomultiplicateurs et compteurs à scintillation : ces tubes à vide utilisent l'émission par une photocathode, puis la multiplication d'électrons par une succession d'électrodes (dynodes) - jusqu'à 12 ou 14.",
+   "sentence": "Photomultiplicateurs et compteurs à scintillation: ces tubes à vide utilisent l'émission par une photocathode, puis la multiplication d'électrons par une succession d'électrodes - jusqu'à 12 ou 14.",
    "section": "Utilisations"
   },
-  "f51": {
+  "f36": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Photomultiplicateurs et compteurs à scintillation : ces tubes à vide utilisent l'émission par une photocathode, puis la multiplication d'électrons par une succession d'électrodes (dynodes) - jusqu'à 12 ou 14.",
+   "sentence": "Photomultiplicateurs et compteurs à scintillation: ces tubes à vide utilisent l'émission par une photocathode, puis la multiplication d'électrons par une succession d'électrodes - jusqu'à 12 ou 14.",
    "section": "Utilisations"
   },
-  "f52": {
+  "f37": {
    "kind": "number",
    "value": 137,
    "surface": "137",
-   "sentence": "L'isotope 137Cs est utilisé comme source radioactive :\nDans les laboratoires d'étude de la physique, dont pour les Compteurs de Radioactivité Beta (C.R.A.B.) qui comptent les impulsions correspondant au nombre de désintégrations de noyaux de césium 137, lors d'expériences visant à démontrer l'aspect aléatoire de la désintégration radioactive.",
+   "sentence": "L'isotope 137Cs est utilisé comme source radioactive:\nDans les laboratoires d'étude de la physique, dont pour les Compteurs de Radioactivité Beta qui comptent les impulsions correspondant au nombre de désintégrations de noyaux de césium 137, lors d'expériences visant à démontrer l'aspect aléatoire de la désintégration radioactive.",
    "section": "Utilisations"
   },
-  "f53": {
-   "kind": "number",
-   "value": 60,
-   "surface": "60",
-   "sentence": "Dans certaines jauges de convoyeurs (le cobalt 60 pouvant aussi être utilisé), et dans des jauges de masse volumique (le cobalt 60 peut aussi être utilisé) ou d'autres systèmes de mesure de l’épaisseur d'un matériau ou de certaines teneurs.",
-   "section": "Utilisations"
-  },
-  "f54": {
-   "kind": "number",
-   "value": 60,
-   "surface": "60",
-   "sentence": "Dans certaines jauges de convoyeurs (le cobalt 60 pouvant aussi être utilisé), et dans des jauges de masse volumique (le cobalt 60 peut aussi être utilisé) ou d'autres systèmes de mesure de l’épaisseur d'un matériau ou de certaines teneurs.",
-   "section": "Utilisations"
-  },
-  "f55": {
-   "kind": "number",
-   "value": 109,
-   "surface": "109",
-   "sentence": "En médecine, comme source radioactive de rayonnement (activité environ 109 Bq) pour traiter le cancer du col de l'utérus et le cancer de la vessie avec une source devant être directement au contact de la tumeur.",
-   "section": "Utilisations"
-  },
-  "f56": {
-   "kind": "date",
-   "value": "1014",
-   "surface": "1014",
-   "sentence": "Des sources beaucoup plus actives (aux alentours de 1014 Bq) servent à irradier des produits sanguins pour y inhiber la division lymphocytaire et ainsi limiter les risques de maladies post-transfusionnelles chez les immunodéprimés.",
-   "section": "Utilisations"
-  },
-  "f57": {
+  "f38": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
-   "sentence": "La dose journalière est de 0,5 à 3 grammes de chlorure de césium en solution afin de créer un effet de saturation létal pour cellules propageant le cancer[réf. nécessaire].",
+   "sentence": "La dose journalière est de 0,5 à 3 grammes de chlorure de césium en solution afin de créer un effet de saturation létal pour cellules propageant le cancer.",
    "section": "Utilisations"
   },
-  "f58": {
+  "f39": {
    "kind": "measure",
    "value": 3,
    "unit": "grammes",
    "surface": "3 grammes",
-   "sentence": "La dose journalière est de 0,5 à 3 grammes de chlorure de césium en solution afin de créer un effet de saturation létal pour cellules propageant le cancer[réf. nécessaire].",
+   "sentence": "La dose journalière est de 0,5 à 3 grammes de chlorure de césium en solution afin de créer un effet de saturation létal pour cellules propageant le cancer.",
    "section": "Utilisations"
   },
-  "f59": {
+  "f40": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",
    "sentence": "Il a par exemple été libéré, entre autres éléments radioactifs, en quantités importantes lors des essais nucléaires atmosphériques au début des années 1960, puis lors des accidents toujours en cours de Tchernobyl et de Fukushima.",
    "section": "Utilisations"
   },
-  "f60": {
-   "kind": "number",
-   "value": 0.0395,
-   "surface": "0,0395",
-   "sentence": "L'interaction principale entre l'ion césium et le ciment est l'adsorption (de 0,0395 à 22,34 μg.cm-2 pour une solution de 0,0069 à 8,837 mg.L-1).",
-   "section": "Comportement du césium dans l'environnement"
-  },
-  "f61": {
-   "kind": "number",
-   "value": 22.34,
-   "surface": "22,34",
-   "sentence": "L'interaction principale entre l'ion césium et le ciment est l'adsorption (de 0,0395 à 22,34 μg.cm-2 pour une solution de 0,0069 à 8,837 mg.L-1).",
-   "section": "Comportement du césium dans l'environnement"
-  },
-  "f62": {
-   "kind": "number",
-   "value": 0.0069,
-   "surface": "0,0069",
-   "sentence": "L'interaction principale entre l'ion césium et le ciment est l'adsorption (de 0,0395 à 22,34 μg.cm-2 pour une solution de 0,0069 à 8,837 mg.L-1).",
-   "section": "Comportement du césium dans l'environnement"
-  },
-  "f63": {
-   "kind": "measure",
-   "value": 8.837,
-   "unit": "mg",
-   "surface": "8,837 mg",
-   "sentence": "L'interaction principale entre l'ion césium et le ciment est l'adsorption (de 0,0395 à 22,34 μg.cm-2 pour une solution de 0,0069 à 8,837 mg.L-1).",
-   "section": "Comportement du césium dans l'environnement"
-  },
-  "f64": {
+  "f41": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Des progrès ont été expérimentalement faits dans les années 2000 concernant l'extraction sélective par solvant du 137Cs et 90Sr, dont par le Calix[4]arene-crown-6, ce qui pourrait contribuer à réduire la radioactivité de certains déchets nucléaires en la transférant vers le résidu.",
+   "sentence": "Des progrès ont été expérimentalement faits dans les années 2000 concernant l'extraction sélective par solvant du 137Cs et 90Sr, dont par le Calixarene-crown-6, ce qui pourrait contribuer à réduire la radioactivité de certains déchets nucléaires en la transférant vers le résidu.",
    "section": "Décontamination, extraction sélective"
   },
-  "f65": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Des progrès ont été expérimentalement faits dans les années 2000 concernant l'extraction sélective par solvant du 137Cs et 90Sr, dont par le Calix[4]arene-crown-6, ce qui pourrait contribuer à réduire la radioactivité de certains déchets nucléaires en la transférant vers le résidu.",
-   "section": "Décontamination, extraction sélective"
-  },
-  "f66": {
+  "f42": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "L'INRA de Montpellier a tenté de modéliser la circulation du césium via les plantes et le sol dans les années 1990, sur la base de données montrant que le taux et la vitesse d'absorption par les plantes dépendaient des espèces considérées, mais aussi de la concentration en potassium du sol, de la densité racinaire et de la distribution profonde des racines.",
    "section": "Décontamination, extraction sélective"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 90,
-   "unit": "%",
-   "surface": "90 %",
-   "sentence": "La présence de matière organique dans l'argile diminue la fixation du césium dans le sol et favorise son transfert vers la plante (jusqu'à 90 % en plus).",
-   "section": "Décontamination, extraction sélective"
-  },
-  "f68": {
+  "f43": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
-   "sentence": "Siobhan Staunton de l'INRA (ENSAM) notait néanmoins en 1996 qu'une grande part du césium pompé par la plante est excrétée et non transférée vers les parties supérieures.",
+   "sentence": "Siobhan Staunton de l'INRA notait néanmoins en 1996 qu'une grande part du césium pompé par la plante est excrétée et non transférée vers les parties supérieures.",
    "section": "Décontamination, extraction sélective"
   },
-  "f69": {
+  "f44": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Peu après une pollution de surface, ce sont les plantes à racines superficielles qui sont contaminées, puis, 10 à 20 ans après en moyenne, ce sont les plantes se nourrissant plus profondément ou certains champignons.",
    "section": "Décontamination, extraction sélective"
   },
-  "f70": {
+  "f45": {
    "kind": "measure",
    "value": 20,
    "unit": "ans",
@@ -570,21 +385,21 @@
    "sentence": "Peu après une pollution de surface, ce sont les plantes à racines superficielles qui sont contaminées, puis, 10 à 20 ans après en moyenne, ce sont les plantes se nourrissant plus profondément ou certains champignons.",
    "section": "Décontamination, extraction sélective"
   },
-  "f71": {
+  "f46": {
    "kind": "number",
    "value": 137,
    "surface": "137",
-   "sentence": "C'est dans les écosystèmes forestiers que le césium 137 se montre le plus durablement présent (il y est moins lessivé), biodisponible et localement en voie de concentration (dans les régions où il a plu lors du nuage de Tchernobyl, les sols forestiers sont devenus le principal stock de césium, et notamment dans les creux et en montagne en pied de versant où il a pu s'accumuler au point d'y voir la radioactivité augmenter malgré la période radioactive du césium).",
+   "sentence": "C'est dans les écosystèmes forestiers que le césium 137 se montre le plus durablement présent, biodisponible et localement en voie de concentration.",
    "section": "Décontamination, extraction sélective"
   },
-  "f72": {
+  "f47": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
-   "sentence": "Le césium est invisible, mais les analyses faites depuis 1986 montrent une gamme d'effets insidieux de contamination, avec un « degré exceptionnellement élevé de transfert de radiocésium dans les produits forestiers comme le gibier et certains produits végétaux comestibles ».",
+   "sentence": "Le césium est invisible, mais les analyses faites depuis 1986 montrent une gamme d'effets insidieux de contamination, avec un «degré exceptionnellement élevé de transfert de radiocésium dans les produits forestiers comme le gibier et certains produits végétaux comestibles».",
    "section": "Décontamination, extraction sélective"
   },
-  "f73": {
+  "f48": {
    "kind": "measure",
    "value": 20,
    "unit": "ans",
@@ -592,83 +407,62 @@
    "sentence": "Par exemple, dans les zones contaminées du sud et sud/ouest de l'Allemagne, dans les 20 ans qui ont suivi les retombées de l'accident de Tchernobyl, la radioactivité moyenne de la viande de chevreuil a régulièrement diminué, mais non celle du sanglier qui est resté constante, malgré le fait que la radioactivité ambiante moyenne diminuait aussi.",
    "section": "Décontamination, extraction sélective"
   },
-  "f74": {
+  "f49": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Ainsi trouvait-on encore en Allemagne en 2008 des sangliers dont la chair dépassait plusieurs milliers de Bq/kg.",
    "section": "Décontamination, extraction sélective"
   },
-  "f75": {
+  "f50": {
    "kind": "measure",
    "value": 10,
    "unit": "ans",
    "surface": "10 ans",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
+   "sentence": "Durant 10 ans, les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg, avec - une tendance saisonnière.",
    "section": "Décontamination, extraction sélective"
   },
-  "f76": {
-   "kind": "date",
-   "value": "1998",
-   "surface": "1998",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
-   "section": "Décontamination, extraction sélective"
-  },
-  "f77": {
-   "kind": "date",
-   "value": "2008",
-   "surface": "2008",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
-   "section": "Décontamination, extraction sélective"
-  },
-  "f78": {
+  "f51": {
    "kind": "date",
    "value": "656",
    "surface": "656",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
+   "sentence": "Durant 10 ans, les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg, avec - une tendance saisonnière.",
    "section": "Décontamination, extraction sélective"
   },
-  "f79": {
+  "f52": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
+   "sentence": "Durant 10 ans, les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg, avec - une tendance saisonnière.",
    "section": "Décontamination, extraction sélective"
   },
-  "f80": {
+  "f53": {
    "kind": "number",
    "value": 8266,
    "surface": "8 266",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
+   "sentence": "Durant 10 ans, les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg, avec - une tendance saisonnière.",
    "section": "Décontamination, extraction sélective"
   },
-  "f81": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "Durant 10 ans (de 1998 à 2008), les analyses de 656 sangliers tués par des chasseurs dans les bois de l'Arrondissement de Ravensbourg (sud de l'Allemagne, à la frontière suisse) ont montré une très forte variabilité des teneurs en 137Cs, s'échelonnant de moins de 5 Bq/kg à 8 266 Bq/kg (soit plus de 13 fois le seuil légal pour la consommation), avec - (comme partout où ce type d'analyse a été fait) une tendance saisonnière (expliquée par les changements saisonniers de choix alimentaires, la fourniture d'agrainage en hiver, les conditions météorologiques, et peut-être un comportement particulier du césium chez le sanglier…).",
-   "section": "Décontamination, extraction sélective"
-  },
-  "f82": {
+  "f54": {
    "kind": "number",
    "value": 0.008,
    "surface": "0,008",
-   "sentence": "Les valeurs de tag (Facteur de transfert agrégé) pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008.",
+   "sentence": "Les valeurs de tag pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008.",
    "section": "Décontamination, extraction sélective"
   },
-  "f83": {
+  "f55": {
    "kind": "measure",
    "value": 0.062,
    "unit": "m2",
    "surface": "0,062 m2",
-   "sentence": "Les valeurs de tag (Facteur de transfert agrégé) pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008.",
+   "sentence": "Les valeurs de tag pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008.",
    "section": "Décontamination, extraction sélective"
   },
-  "f84": {
+  "f56": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Les valeurs de tag (Facteur de transfert agrégé) pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008.",
+   "sentence": "Les valeurs de tag pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008.",
    "section": "Décontamination, extraction sélective"
   }
  },

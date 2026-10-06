@@ -87,7 +87,7 @@
    "value": 30,
    "unit": "%",
    "surface": "30 %",
-   "sentence": "Comme pour les autres Falconidae, la femelle est plus grande et plus lourde que le mâle, parfois de 30 % (on parle souvent des mâles comme étant des tiercelets).",
+   "sentence": "Comme pour les autres Falconidae, la femelle est plus grande et plus lourde que le mâle, parfois de 30 %.",
    "section": "Description"
   },
   "f5": {
@@ -95,7 +95,7 @@
    "value": 25,
    "unit": "ans",
    "surface": "25 ans",
-   "sentence": "Certains animaux captifs ont vécu jusqu'à 25 ans (record enregistré), mais la durée de vie dans la nature est beaucoup plus courte, de l'ordre de 13 ans en moyenne.",
+   "sentence": "Certains animaux captifs ont vécu jusqu'à 25 ans, mais la durée de vie dans la nature est beaucoup plus courte, de l'ordre de 13 ans en moyenne.",
    "section": "Description"
   },
   "f6": {
@@ -103,7 +103,7 @@
    "value": 13,
    "unit": "ans",
    "surface": "13 ans",
-   "sentence": "Certains animaux captifs ont vécu jusqu'à 25 ans (record enregistré), mais la durée de vie dans la nature est beaucoup plus courte, de l'ordre de 13 ans en moyenne.",
+   "sentence": "Certains animaux captifs ont vécu jusqu'à 25 ans, mais la durée de vie dans la nature est beaucoup plus courte, de l'ordre de 13 ans en moyenne.",
    "section": "Description"
   },
   "f7": {
@@ -118,7 +118,7 @@
    "kind": "number",
    "value": 50,
    "surface": "50",
-   "sentence": "De fait, « la taille du domaine dépend surtout de l'abondance des proies ; elle peut ainsi varier de 50 ou 60 km2 dans d'excellentes conditions à 140 km2 dans les régions moins bien pourvues ».",
+   "sentence": "De fait, «la taille du domaine dépend surtout de l'abondance des proies; elle peut ainsi varier de 50 ou 60 km2 dans d'excellentes conditions à 140 km2 dans les régions moins bien pourvues».",
    "section": "Comportements et reproduction"
   },
   "f9": {
@@ -126,7 +126,7 @@
    "value": 60,
    "unit": "km2",
    "surface": "60 km2",
-   "sentence": "De fait, « la taille du domaine dépend surtout de l'abondance des proies ; elle peut ainsi varier de 50 ou 60 km2 dans d'excellentes conditions à 140 km2 dans les régions moins bien pourvues ».",
+   "sentence": "De fait, «la taille du domaine dépend surtout de l'abondance des proies; elle peut ainsi varier de 50 ou 60 km2 dans d'excellentes conditions à 140 km2 dans les régions moins bien pourvues».",
    "section": "Comportements et reproduction"
   },
   "f10": {
@@ -134,7 +134,7 @@
    "value": 140,
    "unit": "km2",
    "surface": "140 km2",
-   "sentence": "De fait, « la taille du domaine dépend surtout de l'abondance des proies ; elle peut ainsi varier de 50 ou 60 km2 dans d'excellentes conditions à 140 km2 dans les régions moins bien pourvues ».",
+   "sentence": "De fait, «la taille du domaine dépend surtout de l'abondance des proies; elle peut ainsi varier de 50 ou 60 km2 dans d'excellentes conditions à 140 km2 dans les régions moins bien pourvues».",
    "section": "Comportements et reproduction"
   },
   "f11": {
@@ -142,7 +142,7 @@
    "value": 45,
    "unit": "cm",
    "surface": "45 cm",
-   "sentence": "« Il se contente d'une simple corniche rocheuse d'au moins 45 cm de large, garnie de terre, de granulats ou de débris végétaux.",
+   "sentence": "«Il se contente d'une simple corniche rocheuse d'au moins 45 cm de large, garnie de terre, de granulats ou de débris végétaux.",
    "section": "Comportements et reproduction"
   },
   "f12": {
@@ -158,7 +158,7 @@
    "value": 1400,
    "unit": "m",
    "surface": "1 400 m",
-   "sentence": "Les observations dans le massif du Vercors français, par exemple, restent en dessous de 1 400 m. Le faucon défend sa zone de nidification : les animaux (oiseaux ou mammifères) s'en approchant sont attaqués et repoussés dans la mesure des possibilités du faucon.",
+   "sentence": "Les observations dans le massif du Vercors français, par exemple, restent en dessous de 1 400 m. Le faucon défend sa zone de nidification: les animaux s'en approchant sont attaqués et repoussés dans la mesure des possibilités du faucon.",
    "section": "Comportements et reproduction"
   },
   "f14": {
@@ -176,62 +176,41 @@
    "section": "Comportements et reproduction"
   },
   "f16": {
-   "kind": "number",
-   "value": 29,
-   "surface": "29",
-   "sentence": "Après la ponte, l'incubation est assurée principalement par la femelle, mais également par le mâle et dure environ un mois (de 29 à 32 jours, dans la majorité des cas).",
-   "section": "Comportements et reproduction"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 32,
-   "surface": "32",
-   "sentence": "Après la ponte, l'incubation est assurée principalement par la femelle, mais également par le mâle et dure environ un mois (de 29 à 32 jours, dans la majorité des cas).",
-   "section": "Comportements et reproduction"
-  },
-  "f18": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "L'implantation de caméras de vidéosurveillance depuis le milieu des années 2000 montre qu'en milieu anthropique, la durée d'incubation est de 33 à 34 jours en moyenne.",
    "section": "Comportements et reproduction"
   },
-  "f19": {
+  "f17": {
    "kind": "number",
    "value": 33,
    "surface": "33",
    "sentence": "L'implantation de caméras de vidéosurveillance depuis le milieu des années 2000 montre qu'en milieu anthropique, la durée d'incubation est de 33 à 34 jours en moyenne.",
    "section": "Comportements et reproduction"
   },
-  "f20": {
+  "f18": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "L'implantation de caméras de vidéosurveillance depuis le milieu des années 2000 montre qu'en milieu anthropique, la durée d'incubation est de 33 à 34 jours en moyenne.",
    "section": "Comportements et reproduction"
   },
-  "f21": {
+  "f19": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Les jeunes sont capables de voler au bout de 35 à 42 jours.",
    "section": "Comportements et reproduction"
   },
-  "f22": {
+  "f20": {
    "kind": "number",
    "value": 42,
    "surface": "42",
    "sentence": "Les jeunes sont capables de voler au bout de 35 à 42 jours.",
    "section": "Comportements et reproduction"
   },
-  "f23": {
-   "kind": "number",
-   "value": 2.45,
-   "surface": "2,45",
-   "sentence": "Un à quatre réussissent à survivre jusqu'à cette étape (en moyenne 2,45).",
-   "section": "Comportements et reproduction"
-  },
-  "f24": {
+  "f21": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
@@ -239,59 +218,59 @@
    "sentence": "Entre les premiers vols et les premières reproductions, ce sont près de 50 % des jeunes qui décéderont de causes diverses.",
    "section": "Comportements et reproduction"
   },
-  "f25": {
+  "f22": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Celle-ci n'est jamais totalement verticale, mais conserve généralement un angle de 20 à 40°.",
    "section": "Comportements et reproduction"
   },
-  "f26": {
+  "f23": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Celle-ci n'est jamais totalement verticale, mais conserve généralement un angle de 20 à 40°.",
    "section": "Comportements et reproduction"
   },
-  "f27": {
+  "f24": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
-   "sentence": "Une étude sur la physique de vol d'un « faucon idéal » pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
+   "sentence": "Une étude sur la physique de vol d'un «faucon idéal» pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
    "section": "Comportements et reproduction"
   },
-  "f28": {
+  "f25": {
    "kind": "measure",
    "value": 2,
    "unit": "kg",
    "surface": "2 kg",
-   "sentence": "Une étude sur la physique de vol d'un « faucon idéal » pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
+   "sentence": "Une étude sur la physique de vol d'un «faucon idéal» pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
    "section": "Comportements et reproduction"
   },
-  "f29": {
+  "f26": {
    "kind": "measure",
    "value": 497,
    "unit": "km/h",
    "surface": "497 km/h",
-   "sentence": "Une étude sur la physique de vol d'un « faucon idéal » pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
+   "sentence": "Une étude sur la physique de vol d'un «faucon idéal» pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
    "section": "Comportements et reproduction"
   },
-  "f30": {
+  "f27": {
    "kind": "measure",
    "value": 626,
    "unit": "km/h",
    "surface": "626 km/h",
-   "sentence": "Une étude sur la physique de vol d'un « faucon idéal » pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
+   "sentence": "Une étude sur la physique de vol d'un «faucon idéal» pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
    "section": "Comportements et reproduction"
   },
-  "f31": {
+  "f28": {
    "kind": "number",
    "value": 0.07,
    "surface": "0,07",
-   "sentence": "Une étude sur la physique de vol d'un « faucon idéal » pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
+   "sentence": "Une étude sur la physique de vol d'un «faucon idéal» pesant soit 0,5 soit 2 kg a trouvé une vitesse limite théorique de respectivement 497 km/h et 626 km/h avec un coefficient de trainée de 0,07.",
    "section": "Comportements et reproduction"
   },
-  "f32": {
+  "f29": {
    "kind": "measure",
    "value": 400,
    "unit": "km/h",
@@ -299,14 +278,14 @@
    "sentence": "D'après René-Jean Monneret, un calcul théorique basé sur la masse de l'oiseau, son volume, son coefficient aérodynamique, l'angle de sa trajectoire avec le sol et la longueur de cette trajectoire permettrait d'envisager des vitesses supérieures à 400 km/h pour des angles très verticaux et des piqués prolongés.",
    "section": "Comportements et reproduction"
   },
-  "f33": {
+  "f30": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "En 2005, Ken Franklin a enregistré un faucon piquant à une vitesse de 389 km/h.",
    "section": "Comportements et reproduction"
   },
-  "f34": {
+  "f31": {
    "kind": "measure",
    "value": 389,
    "unit": "km/h",
@@ -314,14 +293,14 @@
    "sentence": "En 2005, Ken Franklin a enregistré un faucon piquant à une vitesse de 389 km/h.",
    "section": "Comportements et reproduction"
   },
-  "f35": {
+  "f32": {
    "kind": "number",
    "value": 130,
    "surface": "130",
    "sentence": "En dehors de ces cas extrêmes, les mesures concrètes de la vitesse lors de la phase plongeante de l'attaque varient généralement et plus raisonnablement entre 130 et 184 km/h.",
    "section": "Comportements et reproduction"
   },
-  "f36": {
+  "f33": {
    "kind": "measure",
    "value": 184,
    "unit": "km/h",
@@ -329,85 +308,50 @@
    "sentence": "En dehors de ces cas extrêmes, les mesures concrètes de la vitesse lors de la phase plongeante de l'attaque varient généralement et plus raisonnablement entre 130 et 184 km/h.",
    "section": "Comportements et reproduction"
   },
-  "f37": {
+  "f34": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Les proies sont essentiellement des oiseaux de taille moyenne, aux alentours de 1 à 2 kg (mouettes, corbeaux, canards, chouettes, pigeons...).",
+   "sentence": "Les proies sont essentiellement des oiseaux de taille moyenne, aux alentours de 1 à 2 kg.",
    "section": "Espèces de son environnement"
   },
-  "f38": {
+  "f35": {
    "kind": "measure",
    "value": 2,
    "unit": "kg",
    "surface": "2 kg",
-   "sentence": "Les proies sont essentiellement des oiseaux de taille moyenne, aux alentours de 1 à 2 kg (mouettes, corbeaux, canards, chouettes, pigeons...).",
+   "sentence": "Les proies sont essentiellement des oiseaux de taille moyenne, aux alentours de 1 à 2 kg.",
    "section": "Espèces de son environnement"
   },
-  "f39": {
+  "f36": {
    "kind": "number",
    "value": 16,
    "surface": "16",
-   "sentence": "Cette répartition extrêmement vaste explique « le nombre de sous-espèces reconnues [qui] varie de 16 à 25 » selon les auteurs.",
+   "sentence": "Cette répartition extrêmement vaste explique «le nombre de sous-espèces reconnues varie de 16 à 25» selon les auteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f40": {
+  "f37": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "Cette répartition extrêmement vaste explique « le nombre de sous-espèces reconnues [qui] varie de 16 à 25 » selon les auteurs.",
+   "sentence": "Cette répartition extrêmement vaste explique «le nombre de sous-espèces reconnues varie de 16 à 25» selon les auteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f41": {
-   "kind": "number",
-   "value": 9.2,
-   "surface": "9.2",
-   "sentence": "En voici les principales selon la classification de référence du Congrès ornithologique international (version 9.2, 2019), par ordre phylogénique :\nF. p. tundrius (C. M. White, 1968) se reproduit dans les toundras du nord du continent nord-Américain, de l'Alaska au Groenland.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f42": {
-   "kind": "date",
-   "value": "2019",
-   "surface": "2019",
-   "sentence": "En voici les principales selon la classification de référence du Congrès ornithologique international (version 9.2, 2019), par ordre phylogénique :\nF. p. tundrius (C. M. White, 1968) se reproduit dans les toundras du nord du continent nord-Américain, de l'Alaska au Groenland.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f43": {
-   "kind": "date",
-   "value": "1968",
-   "surface": "1968",
-   "sentence": "En voici les principales selon la classification de référence du Congrès ornithologique international (version 9.2, 2019), par ordre phylogénique :\nF. p. tundrius (C. M. White, 1968) se reproduit dans les toundras du nord du continent nord-Américain, de l'Alaska au Groenland.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f44": {
+  "f38": {
    "kind": "number",
    "value": 1000,
    "surface": "1 000",
-   "sentence": "Il y aurait de 1 000 à 20 000 couples reproducteurs au Groenland (Mattox 1993), et quelques centaines de plus sur le continent.",
+   "sentence": "Il y aurait de 1 000 à 20 000 couples reproducteurs au Groenland, et quelques centaines de plus sur le continent.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f45": {
+  "f39": {
    "kind": "number",
    "value": 20000,
    "surface": "20 000",
-   "sentence": "Il y aurait de 1 000 à 20 000 couples reproducteurs au Groenland (Mattox 1993), et quelques centaines de plus sur le continent.",
+   "sentence": "Il y aurait de 1 000 à 20 000 couples reproducteurs au Groenland, et quelques centaines de plus sur le continent.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f46": {
-   "kind": "date",
-   "value": "1993",
-   "surface": "1993",
-   "sentence": "Il y aurait de 1 000 à 20 000 couples reproducteurs au Groenland (Mattox 1993), et quelques centaines de plus sur le continent.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f47": {
-   "kind": "date",
-   "value": "1874",
-   "surface": "1874",
-   "sentence": "F. p. pealei (Ridgeway, 1874) sur la côte pacifique, au nord-ouest de l'Amérique du Nord (îles de la Reine-Charlotte, îles Aléoutiennes, côte américaine, de l'État de Washington à l'Alaska).",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f48": {
+  "f40": {
    "kind": "measure",
    "value": 1.5,
    "unit": "kg",
@@ -415,266 +359,238 @@
    "sentence": "Assez rare, cette sous-espèce est aussi la plus grande puisqu'on y trouve parfois des femelles pouvant dépasser 1,5 kg.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f49": {
-   "kind": "date",
-   "value": "1988",
-   "surface": "1988",
-   "sentence": "1988 - Munro 1988), il y aurait 700 couples reproducteurs.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f50": {
-   "kind": "date",
-   "value": "1988",
-   "surface": "1988",
-   "sentence": "1988 - Munro 1988), il y aurait 700 couples reproducteurs.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f51": {
+  "f41": {
    "kind": "date",
    "value": "700",
    "surface": "700",
-   "sentence": "1988 - Munro 1988), il y aurait 700 couples reproducteurs.",
+   "sentence": "D'après des estimations assez anciennes, il y aurait 700 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f52": {
+  "f42": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "F. p. anatum Bonaparte, 1838 est surtout trouvé dans les montagnes Rocheuses et l'est de l'Amérique du Nord, de l'Alaska au Mexique.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f53": {
+  "f43": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Une compilation d'études de la fin des années 1990 donne : 1 700 à 1 800 couples reproducteurs.",
+   "sentence": "Une compilation d'études de la fin des années 1990 donne: 1 700 à 1 800 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f54": {
+  "f44": {
    "kind": "number",
    "value": 1700,
    "surface": "1 700",
-   "sentence": "Une compilation d'études de la fin des années 1990 donne : 1 700 à 1 800 couples reproducteurs.",
+   "sentence": "Une compilation d'études de la fin des années 1990 donne: 1 700 à 1 800 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f55": {
+  "f45": {
    "kind": "number",
    "value": 1800,
    "surface": "1 800",
-   "sentence": "Une compilation d'études de la fin des années 1990 donne : 1 700 à 1 800 couples reproducteurs.",
+   "sentence": "Une compilation d'études de la fin des années 1990 donne: 1 700 à 1 800 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f56": {
+  "f46": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "F. p. cassini Sharpe, 1873 vit au sud de l'Équateur, en Bolivie, au nord de l'Argentine, aux îles Malouines, et au Chili.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f57": {
+  "f47": {
    "kind": "date",
    "value": "1771",
    "surface": "1771",
-   "sentence": "Falco peregrinus peregrinus Tunstall, 1771, la sous-espèce nominale (celle qui a servi à décrire l'espèce), dans l'Ouest de l'Eurasie et jusqu'au fleuve Ienisseï (centre de la Sibérie) et à l'Himalaya.",
+   "sentence": "Falco peregrinus peregrinus Tunstall, 1771, la sous-espèce nominale, dans l'Ouest de l'Eurasie et jusqu'au fleuve Ienisseï et à l'Himalaya.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f58": {
+  "f48": {
    "kind": "date",
    "value": "1790",
    "surface": "1790",
    "sentence": "F. p. calidus Latham, 1790 se reproduit dans les toundras du nord de l'Eurasie, et est totalement migrateur.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f59": {
+  "f49": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Quinn et Kokorev estimaient en 2000 la population totale entre 2 300 et 5 000 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f60": {
+  "f50": {
    "kind": "number",
    "value": 2300,
    "surface": "2 300",
    "sentence": "Quinn et Kokorev estimaient en 2000 la population totale entre 2 300 et 5 000 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f61": {
+  "f51": {
    "kind": "number",
    "value": 5000,
    "surface": "5 000",
    "sentence": "Quinn et Kokorev estimaient en 2000 la population totale entre 2 300 et 5 000 couples reproducteurs.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f62": {
+  "f52": {
    "kind": "date",
    "value": "1788",
    "surface": "1788",
    "sentence": "F. p. japonensis J. F. Gmelin, 1788, parfois appelé F. p. harterti, vit en Sibérie, au Kamtchatka et au Japon.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f63": {
+  "f53": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "F. p. brookei Sharpe, 1873 vit en Europe du Sud, en Crimée et dans le Caucase, ainsi que dans le nord du Maghreb.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f64": {
+  "f54": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "F. p. peregrinator Sundevall, 1837, vit en Asie du Sud, du sud de la Chine au Pakistan, en passant par l'Inde et le Sri Lanka.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f65": {
+  "f55": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
-   "sentence": "F. p. madens Ripley et Watson, 1964, vit dans les îles du Cap-Vert (Afrique).",
+   "sentence": "F. p. madens Ripley et Watson, 1964, vit dans les îles du Cap-Vert.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f66": {
+  "f56": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
-   "sentence": "F. p. minor Bonaparte, 1850 vit en Afrique sub-saharienne, du sud du Maroc à l'Afrique australe (Afrique du Sud, Zimbabwe…).",
+   "sentence": "F. p. minor Bonaparte, 1850 vit en Afrique sub-saharienne, du sud du Maroc à l'Afrique australe.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f67": {
+  "f57": {
    "kind": "date",
    "value": "1894",
    "surface": "1894",
-   "sentence": "F. p. ernesti Sharpe, 1894, vit en Asie du Sud (Malaisie, Philippines, Nouvelle-Guinée, Archipel Bismarck...).",
+   "sentence": "F. p. ernesti Sharpe, 1894, vit en Asie du Sud.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f68": {
+  "f58": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "F. p. macropus Swainson, 1838 vit en Australie, à l'exception du sud-ouest.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f69": {
+  "f59": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
-   "sentence": "F. p. nesiotes Mayr, 1941, vit en Océanie (Nouvelle-Calédonie, Vanuatu, Fidji).",
+   "sentence": "F. p. nesiotes Mayr, 1941, vit en Océanie.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f70": {
+  "f60": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "En zones urbaines, depuis le début des années 2000, des cas de reproduction notamment à Strasbourg, Nancy, Lunéville, Albi, Paris…, ou d'hivernage à Brest, Tours, Troyes, Toulouse, Chartres, Nantes, Brive-la-Gaillarde…, sont signalés.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f71": {
+  "f61": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "Dans l'agglomération de Lyon, on compte quatre couples depuis 2016, dont trois ont produit des jeunes.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f72": {
+  "f62": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "En 2004, la LPO estimait la population en France à environ 1 500 couples.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f73": {
+  "f63": {
    "kind": "number",
    "value": 1500,
    "surface": "1 500",
    "sentence": "En 2004, la LPO estimait la population en France à environ 1 500 couples.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f74": {
+  "f64": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Les faucons ont été aperçus pour la première fois en 2007 et un nichoir a été installé en 2008.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f75": {
+  "f65": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Les faucons ont été aperçus pour la première fois en 2007 et un nichoir a été installé en 2008.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f76": {
+  "f66": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Le couple, Roger et Spirit, a eu leur première portée de deux oisillons en 2009 : Algo et Poly.",
+   "sentence": "Le couple, Roger et Spirit, a eu leur première portée de deux oisillons en 2009: Algo et Poly.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f77": {
+  "f67": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol (deux oisillons sont morts dans le nid en 2010).",
+   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f78": {
+  "f68": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
-   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol (deux oisillons sont morts dans le nid en 2010).",
+   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f79": {
+  "f69": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol (deux oisillons sont morts dans le nid en 2010).",
+   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f80": {
+  "f70": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol (deux oisillons sont morts dans le nid en 2010).",
+   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f81": {
-   "kind": "date",
-   "value": "2010",
-   "surface": "2010",
-   "sentence": "De 2009 à 2018, le nid a produit 22 oisillons dont 20 ont pris leur envol (deux oisillons sont morts dans le nid en 2010).",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f82": {
+  "f71": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "En 2019, le couple se compose d'Éole (oisillon 2011) et d'Ève.",
+   "sentence": "En 2019, le couple se compose d'Éole et d'Ève.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f83": {
-   "kind": "date",
-   "value": "2011",
-   "surface": "2011",
-   "sentence": "En 2019, le couple se compose d'Éole (oisillon 2011) et d'Ève.",
-   "section": "Répartition géographique et taxonomie"
-  },
-  "f84": {
+  "f72": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Algo et Polly, fils et fille 2012 de Roger et Spirit nichant à l'université de Montréal, nichent au moins depuis 2014 sous l'échangeur Turcot à Montréal.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f85": {
+  "f73": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "Algo et Polly, fils et fille 2012 de Roger et Spirit nichant à l'université de Montréal, nichent au moins depuis 2014 sous l'échangeur Turcot à Montréal.",
    "section": "Répartition géographique et taxonomie"
   },
-  "f86": {
+  "f74": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",

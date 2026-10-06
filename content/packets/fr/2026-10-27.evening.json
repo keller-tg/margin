@@ -82,66 +82,44 @@
    "value": 97,
    "unit": "%",
    "surface": "97 %",
-   "sentence": "Les cinq céréales principales, qui représentent près de 97 % du total, sont le maïs, le blé, le riz, l'orge et le sorgho (par ordre de tonnage produit mondialement)."
+   "sentence": "Les cinq céréales principales, qui représentent près de 97 % du total, sont le maïs, le blé, le riz, l'orge et le sorgho."
   },
   "f4": {
-   "kind": "measure",
-   "value": 45,
-   "unit": "%",
-   "surface": "45 %",
-   "sentence": "Au début du XXIe siècle, les céréales fournissent une grande partie (45 %) des calories alimentaires de l'humanité."
-  },
-  "f5": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "L'inflorescence est composée d'épillets, inflorescences élémentaires comprenant 1 à 5 fleurs, protégées par une paire de glumes, et insérées directement sur l'axe de l'inflorescence dans le cas des épis, ou portées par des pédicelles dans le cas des panicules.",
    "section": "Botanique"
   },
-  "f6": {
+  "f5": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "L'inflorescence est composée d'épillets, inflorescences élémentaires comprenant 1 à 5 fleurs, protégées par une paire de glumes, et insérées directement sur l'axe de l'inflorescence dans le cas des épis, ou portées par des pédicelles dans le cas des panicules.",
    "section": "Botanique"
   },
-  "f7": {
+  "f6": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Elles sont protégées par deux glumelles et comprennent un ovaire, portant 2 ou 3 stigmates plumeux, et trois (parfois six, par exemple chez le riz) étamines dont les anthères sont exsertes lors de l'anthèse.",
+   "sentence": "Elles sont protégées par deux glumelles et comprennent un ovaire, portant 2 ou 3 stigmates plumeux, et trois étamines dont les anthères sont exsertes lors de l'anthèse.",
+   "section": "Botanique"
+  },
+  "f7": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Elles sont protégées par deux glumelles et comprennent un ovaire, portant 2 ou 3 stigmates plumeux, et trois étamines dont les anthères sont exsertes lors de l'anthèse.",
    "section": "Botanique"
   },
   "f8": {
    "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Elles sont protégées par deux glumelles et comprennent un ovaire, portant 2 ou 3 stigmates plumeux, et trois (parfois six, par exemple chez le riz) étamines dont les anthères sont exsertes lors de l'anthèse.",
-   "section": "Botanique"
-  },
-  "f9": {
-   "kind": "number",
-   "value": 80,
-   "surface": "80",
-   "sentence": "Le grain de céréales se compose essentiellement (80 à 90 % du total) de l'albumen riche en amidon, des enveloppes qui constituent le son et de l'embryon (à un seul cotylédon).",
-   "section": "Botanique"
-  },
-  "f10": {
-   "kind": "measure",
-   "value": 90,
-   "unit": "%",
-   "surface": "90 %",
-   "sentence": "Le grain de céréales se compose essentiellement (80 à 90 % du total) de l'albumen riche en amidon, des enveloppes qui constituent le son et de l'embryon (à un seul cotylédon).",
-   "section": "Botanique"
-  },
-  "f11": {
-   "kind": "number",
    "value": 2300000,
    "surface": "2,3 millions",
-   "sentence": "L’apparition des céréales dans les écosystèmes date de 2,3 millions d’années (Ma) à en juger par des pollens anciens découverts à Acıgöl dans le Sud-Ouest de l’Anatolie.",
+   "sentence": "L’apparition des céréales dans les écosystèmes date de 2,3 millions d’années à en juger par des pollens anciens découverts à Acıgöl dans le Sud-Ouest de l’Anatolie.",
    "section": "Historique"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 14500,
    "unit": "ans",
@@ -149,7 +127,7 @@
    "sentence": "La consommation de pain est attestée en Jordanie dès 14 500 ans.",
    "section": "Historique"
   },
-  "f13": {
+  "f10": {
    "kind": "measure",
    "value": 11600,
    "unit": "ans",
@@ -157,23 +135,23 @@
    "sentence": "À Göbekli Tepe il y a 11 600 ans, une civilisation de chasseurs-cueilleurs consommait déjà du gruau et de la bouillie produits en grande quantité dans des cuves à partir de céréales sauvages.",
    "section": "Historique"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 56,
    "unit": "%",
    "surface": "56 %",
-   "sentence": "Une grande partie de la production mondiale est destinée à l'alimentation des animaux d'élevage : pour les pays développés, 56 % de la consommation de céréales sont destinés à nourrir le bétail, 23 % dans les pays en voie de développement.",
+   "sentence": "Une grande partie de la production mondiale est destinée à l'alimentation des animaux d'élevage: pour les pays développés, 56 % de la consommation de céréales sont destinés à nourrir le bétail, 23 % dans les pays en voie de développement.",
    "section": "Utilisation"
   },
-  "f15": {
+  "f12": {
    "kind": "measure",
    "value": 23,
    "unit": "%",
    "surface": "23 %",
-   "sentence": "Une grande partie de la production mondiale est destinée à l'alimentation des animaux d'élevage : pour les pays développés, 56 % de la consommation de céréales sont destinés à nourrir le bétail, 23 % dans les pays en voie de développement.",
+   "sentence": "Une grande partie de la production mondiale est destinée à l'alimentation des animaux d'élevage: pour les pays développés, 56 % de la consommation de céréales sont destinés à nourrir le bétail, 23 % dans les pays en voie de développement.",
    "section": "Utilisation"
   },
-  "f16": {
+  "f13": {
    "kind": "measure",
    "value": 37,
    "unit": "%",
@@ -181,38 +159,7 @@
    "sentence": "Mondialement, 37 % de la production de céréales est destinée à nourrir les animaux d'élevages.",
    "section": "Utilisation"
   },
-  "f17": {
-   "kind": "measure",
-   "value": 60,
-   "unit": "%",
-   "surface": "60 %",
-   "sentence": "Les grains de céréales sont des aliments riches en glucides qui contiennent principalement de l'amidon (60 % à 75 % du poids des grains) , mais également des sucres libres (de 1 à 2 %), principalement sous forme de saccharose, et à très faibles concentrations de maltose, fructose et glucose.",
-   "section": "Valeur nutritionnelle"
-  },
-  "f18": {
-   "kind": "measure",
-   "value": 75,
-   "unit": "%",
-   "surface": "75 %",
-   "sentence": "Les grains de céréales sont des aliments riches en glucides qui contiennent principalement de l'amidon (60 % à 75 % du poids des grains) , mais également des sucres libres (de 1 à 2 %), principalement sous forme de saccharose, et à très faibles concentrations de maltose, fructose et glucose.",
-   "section": "Valeur nutritionnelle"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Les grains de céréales sont des aliments riches en glucides qui contiennent principalement de l'amidon (60 % à 75 % du poids des grains) , mais également des sucres libres (de 1 à 2 %), principalement sous forme de saccharose, et à très faibles concentrations de maltose, fructose et glucose.",
-   "section": "Valeur nutritionnelle"
-  },
-  "f20": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "%",
-   "surface": "2 %",
-   "sentence": "Les grains de céréales sont des aliments riches en glucides qui contiennent principalement de l'amidon (60 % à 75 % du poids des grains) , mais également des sucres libres (de 1 à 2 %), principalement sous forme de saccharose, et à très faibles concentrations de maltose, fructose et glucose.",
-   "section": "Valeur nutritionnelle"
-  },
-  "f21": {
+  "f14": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -220,179 +167,122 @@
    "sentence": "En général, l'amylose représente environ 25 % de l'amidon total, le ratio amylose/amylopectine variant selon les espèces et variétés de céréales.",
    "section": "Valeur nutritionnelle"
   },
-  "f22": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "La teneur en protéines des céréales est relativement faible (entre 6 et 15 % selon les espèces).",
-   "section": "Valeur nutritionnelle"
-  },
-  "f23": {
-   "kind": "measure",
-   "value": 15,
-   "unit": "%",
-   "surface": "15 %",
-   "sentence": "La teneur en protéines des céréales est relativement faible (entre 6 et 15 % selon les espèces).",
-   "section": "Valeur nutritionnelle"
-  },
-  "f24": {
+  "f15": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % (par rapport à la matière sèche) chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
+   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
    "section": "Valeur nutritionnelle"
   },
-  "f25": {
+  "f16": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
    "surface": "3 %",
-   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % (par rapport à la matière sèche) chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
+   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
    "section": "Valeur nutritionnelle"
   },
-  "f26": {
+  "f17": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % (par rapport à la matière sèche) chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
+   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
    "section": "Valeur nutritionnelle"
   },
-  "f27": {
+  "f18": {
    "kind": "measure",
    "value": 9,
    "unit": "%",
    "surface": "9 %",
-   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % (par rapport à la matière sèche) chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
+   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
    "section": "Valeur nutritionnelle"
   },
-  "f28": {
+  "f19": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
    "surface": "10 %",
-   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % (par rapport à la matière sèche) chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
+   "sentence": "Les grains de céréales ont une teneur minime en lipides, variant de 1 à 3 % chez l'orge, le riz, le seigle et le blé, de 5 à 9 % chez le maïs et jusqu'à 10 % chez l'avoine.",
    "section": "Valeur nutritionnelle"
   },
-  "f29": {
+  "f20": {
    "kind": "number",
    "value": 13,
    "surface": "13",
-   "sentence": "Ces données sont classées en 13 catégories de céréales (alpiste, avoine, blé, fonio, maïs, mils, orge, riz paddy, seigle, sorgho, triticale et céréales mélangées et céréales nda) et incluent deux pseudo-céréales (quinoa et sarrasin).",
+   "sentence": "Ces données sont classées en 13 catégories de céréales et incluent deux pseudo-céréales.",
    "section": "Importance économique"
   },
-  "f30": {
+  "f21": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
+   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
    "section": "Importance économique"
   },
-  "f31": {
+  "f22": {
    "kind": "number",
    "value": 3000000000,
    "surface": "3000 millions",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
+   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
    "section": "Importance économique"
   },
-  "f32": {
-   "kind": "number",
-   "value": 2940,
-   "surface": "2940",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
-   "section": "Importance économique"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "2016",
-   "surface": "2016",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
-   "section": "Importance économique"
-  },
-  "f34": {
-   "kind": "number",
-   "value": 3022,
-   "surface": "3022",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
-   "section": "Importance économique"
-  },
-  "f35": {
-   "kind": "date",
-   "value": "2017",
-   "surface": "2017",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
-   "section": "Importance économique"
-  },
-  "f36": {
-   "kind": "number",
-   "value": 2965,
-   "surface": "2965",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
-   "section": "Importance économique"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "2018",
-   "surface": "2018",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
-   "section": "Importance économique"
-  },
-  "f38": {
+  "f23": {
    "kind": "number",
    "value": 2000000000,
    "surface": "2000 millions",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
+   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
    "section": "Importance économique"
   },
-  "f39": {
+  "f24": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes (2940 en 2016, 3022 en 2017, 2965 en 2018) alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
+   "sentence": "La production annuelle mondiale de céréales a culminé depuis la campagne 2015/2016 à environ 3000 millions de tonnes alors qu'elle stagnait à environ 2000 millions de tonnes dans les années 2000/2003.",
    "section": "Importance économique"
   },
-  "f40": {
+  "f25": {
    "kind": "number",
    "value": 3054000000,
    "surface": "3 054 millions",
    "sentence": "Elle devrait atteindre 3 054 millions de tonnes en 2029 selon les prévisions établies par l'OCDE et la FAO.",
    "section": "Importance économique"
   },
-  "f41": {
+  "f26": {
    "kind": "date",
    "value": "2029",
    "surface": "2029",
    "sentence": "Elle devrait atteindre 3 054 millions de tonnes en 2029 selon les prévisions établies par l'OCDE et la FAO.",
    "section": "Importance économique"
   },
-  "f42": {
+  "f27": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "Selon les estimations de la FAO sur le marché mondial des céréales pour l'exercice 2020/2021, la production s'est élevée à 2 777 millions de tonnes et la disponibilité totale (production + stocks) à 3 601 millions de tonnes.",
+   "sentence": "Selon les estimations de la FAO sur le marché mondial des céréales pour l'exercice 2020/2021, la production s'est élevée à 2 777 millions de tonnes et la disponibilité totale à 3 601 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f43": {
+  "f28": {
    "kind": "number",
    "value": 2777000000,
    "surface": "2 777 millions",
-   "sentence": "Selon les estimations de la FAO sur le marché mondial des céréales pour l'exercice 2020/2021, la production s'est élevée à 2 777 millions de tonnes et la disponibilité totale (production + stocks) à 3 601 millions de tonnes.",
+   "sentence": "Selon les estimations de la FAO sur le marché mondial des céréales pour l'exercice 2020/2021, la production s'est élevée à 2 777 millions de tonnes et la disponibilité totale à 3 601 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f44": {
+  "f29": {
    "kind": "number",
    "value": 3601000000,
    "surface": "3 601 millions",
-   "sentence": "Selon les estimations de la FAO sur le marché mondial des céréales pour l'exercice 2020/2021, la production s'est élevée à 2 777 millions de tonnes et la disponibilité totale (production + stocks) à 3 601 millions de tonnes.",
+   "sentence": "Selon les estimations de la FAO sur le marché mondial des céréales pour l'exercice 2020/2021, la production s'est élevée à 2 777 millions de tonnes et la disponibilité totale à 3 601 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f45": {
+  "f30": {
    "kind": "number",
    "value": 723000000,
    "surface": "723 millions",
    "sentence": "Les cultures de céréales s'étendaient sur 723 millions d’hectares dans le monde, soit 52 % des terres arables, 14 % de la surface agricole mondiale et 5 % des terres émergées du monde.",
    "section": "Importance économique"
   },
-  "f46": {
+  "f31": {
    "kind": "measure",
    "value": 52,
    "unit": "%",
@@ -400,7 +290,7 @@
    "sentence": "Les cultures de céréales s'étendaient sur 723 millions d’hectares dans le monde, soit 52 % des terres arables, 14 % de la surface agricole mondiale et 5 % des terres émergées du monde.",
    "section": "Importance économique"
   },
-  "f47": {
+  "f32": {
    "kind": "measure",
    "value": 14,
    "unit": "%",
@@ -408,7 +298,7 @@
    "sentence": "Les cultures de céréales s'étendaient sur 723 millions d’hectares dans le monde, soit 52 % des terres arables, 14 % de la surface agricole mondiale et 5 % des terres émergées du monde.",
    "section": "Importance économique"
   },
-  "f48": {
+  "f33": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -416,88 +306,65 @@
    "sentence": "Les cultures de céréales s'étendaient sur 723 millions d’hectares dans le monde, soit 52 % des terres arables, 14 % de la surface agricole mondiale et 5 % des terres émergées du monde.",
    "section": "Importance économique"
   },
-  "f49": {
+  "f34": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires (orge, avoine, seigle, sorgho et millet), et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes (soit 17,2 % de la production annuelle).",
+   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires, et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f50": {
+  "f35": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires (orge, avoine, seigle, sorgho et millet), et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes (soit 17,2 % de la production annuelle).",
+   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires, et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f51": {
+  "f36": {
    "kind": "number",
    "value": 479000000,
    "surface": "479 millions",
-   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires (orge, avoine, seigle, sorgho et millet), et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes (soit 17,2 % de la production annuelle).",
+   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires, et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f52": {
-   "kind": "measure",
-   "value": 17.2,
-   "unit": "%",
-   "surface": "17,2 %",
-   "sentence": "Les échanges commerciaux, au cours de la campagne commerciale, allant de juillet 2020 à juin 2021, dans le cas du blé et des céréales secondaires (orge, avoine, seigle, sorgho et millet), et de la campagne commerciale allant de janvier à décembre pour le riz, se sont élevées à 479 millions de tonnes (soit 17,2 % de la production annuelle).",
-   "section": "Importance économique"
-  },
-  "f53": {
+  "f37": {
    "kind": "number",
    "value": 831000000,
    "surface": "831 millions",
-   "sentence": "Le stock de clôture est de 831 millions de tonnes (soit 30,1 % de l'utilisation annuelle).",
+   "sentence": "Le stock de clôture est de 831 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f54": {
-   "kind": "measure",
-   "value": 30.1,
-   "unit": "%",
-   "surface": "30,1 %",
-   "sentence": "Le stock de clôture est de 831 millions de tonnes (soit 30,1 % de l'utilisation annuelle).",
-   "section": "Importance économique"
-  },
-  "f55": {
+  "f38": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
-   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an (pour 6 milliards d'habitants au total), dont 155 kg pour les céréales destinées à l'alimentation humaine.",
+   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an, dont 155 kg pour les céréales destinées à l'alimentation humaine.",
    "section": "Importance économique"
   },
-  "f56": {
+  "f39": {
    "kind": "number",
    "value": 2064000000,
    "surface": "2 064 millions",
-   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an (pour 6 milliards d'habitants au total), dont 155 kg pour les céréales destinées à l'alimentation humaine.",
+   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an, dont 155 kg pour les céréales destinées à l'alimentation humaine.",
    "section": "Importance économique"
   },
-  "f57": {
+  "f40": {
    "kind": "measure",
    "value": 344,
    "unit": "kg",
    "surface": "344 kg",
-   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an (pour 6 milliards d'habitants au total), dont 155 kg pour les céréales destinées à l'alimentation humaine.",
+   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an, dont 155 kg pour les céréales destinées à l'alimentation humaine.",
    "section": "Importance économique"
   },
-  "f58": {
-   "kind": "number",
-   "value": 6000000000,
-   "surface": "6 milliards",
-   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an (pour 6 milliards d'habitants au total), dont 155 kg pour les céréales destinées à l'alimentation humaine.",
-   "section": "Importance économique"
-  },
-  "f59": {
+  "f41": {
    "kind": "measure",
    "value": 155,
    "unit": "kg",
    "surface": "155 kg",
-   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an (pour 6 milliards d'habitants au total), dont 155 kg pour les céréales destinées à l'alimentation humaine.",
+   "sentence": "Pour la campagne 2002/2003, la récolte mondiale de céréales s'est élevée à 2 064 millions de tonnes, ce qui représente une moyenne brute de 344 kg par habitant et par an, dont 155 kg pour les céréales destinées à l'alimentation humaine.",
    "section": "Importance économique"
   },
-  "f60": {
+  "f42": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -505,28 +372,28 @@
    "sentence": "Le tonnage du riz paddy est proche de celui du blé, mais ce chiffre est surestimé dans la mesure où le riz paddy, non décortiqué, voit sa masse réduite de 25 % en moyenne après le décorticage qui conduit au riz complet, tandis que le blé, qui est un grain nu ne nécessite pas de décorticage.",
    "section": "Importance économique"
   },
-  "f61": {
+  "f43": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "En France en 2021, les cultures de céréales s'étendaient sur 8,91 millions d’hectares, soit la moitié du sol labourable français, pour une production de 57,5 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f62": {
+  "f44": {
    "kind": "number",
    "value": 8910000,
    "surface": "8,91 millions",
    "sentence": "En France en 2021, les cultures de céréales s'étendaient sur 8,91 millions d’hectares, soit la moitié du sol labourable français, pour une production de 57,5 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f63": {
+  "f45": {
    "kind": "number",
    "value": 57500000,
    "surface": "57,5 millions",
    "sentence": "En France en 2021, les cultures de céréales s'étendaient sur 8,91 millions d’hectares, soit la moitié du sol labourable français, pour une production de 57,5 millions de tonnes.",
    "section": "Importance économique"
   },
-  "f64": {
+  "f46": {
    "kind": "measure",
    "value": 54,
    "unit": "%",
@@ -534,182 +401,98 @@
    "sentence": "Elles étaient cultivées par 54 % des exploitations agricoles, soit un total de 245 000.",
    "section": "Importance économique"
   },
-  "f65": {
+  "f47": {
    "kind": "number",
    "value": 245000,
    "surface": "245 000",
    "sentence": "Elles étaient cultivées par 54 % des exploitations agricoles, soit un total de 245 000.",
    "section": "Importance économique"
   },
-  "f66": {
+  "f48": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f67": {
+  "f49": {
    "kind": "number",
    "value": 57600000,
    "surface": "57,6 Millions",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f68": {
-   "kind": "number",
-   "value": 29.2,
-   "surface": "29.2",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f69": {
+  "f50": {
    "kind": "number",
    "value": 6.6,
    "surface": "6,6",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f70": {
-   "kind": "number",
-   "value": 2.1,
-   "surface": "2,1",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f71": {
+  "f51": {
    "kind": "number",
    "value": 26.7,
    "surface": "26,7",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f72": {
-   "kind": "number",
-   "value": 14.9,
-   "surface": "14.9",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f73": {
+  "f52": {
    "kind": "number",
    "value": 6.5,
    "surface": "6,5",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f74": {
-   "kind": "number",
-   "value": 4.5,
-   "surface": "4.5",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f75": {
-   "kind": "number",
-   "value": 0.6,
-   "surface": "0.6",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f76": {
-   "kind": "number",
-   "value": 0.3,
-   "surface": "0,3",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f77": {
-   "kind": "number",
-   "value": 0.1,
-   "surface": "0,1",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f78": {
+  "f53": {
    "kind": "number",
    "value": 2.1,
    "surface": "2,1",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f79": {
+  "f54": {
    "kind": "number",
    "value": 2.8,
    "surface": "2,8",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f80": {
+  "f55": {
    "kind": "number",
    "value": 9.7,
    "surface": "9,7",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f81": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f82": {
-   "kind": "number",
-   "value": 2.7,
-   "surface": "2,7",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f83": {
-   "kind": "number",
-   "value": 1.7,
-   "surface": "1,7",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f84": {
-   "kind": "number",
-   "value": 0.3,
-   "surface": "0,3",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f85": {
+  "f56": {
    "kind": "number",
    "value": 4.9,
    "surface": "4,9",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f86": {
+  "f57": {
    "kind": "number",
    "value": 24.6,
    "surface": "24,6",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f87": {
-   "kind": "number",
-   "value": 13.6,
-   "surface": "13.6",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
-   "section": "Importance économique"
-  },
-  "f88": {
+  "f58": {
    "kind": "number",
    "value": 40000,
    "surface": "40 000",
-   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes (dont blé tendre : 29.2 Mt) :\nStockées et consommées à la ferme : 6,6 Mt (blé tendre : 2,1 Mt)\nMarché français : 26,7 Mt (blé tendre : 14.9 Mt) dont\nAlimentation humaine : 6,5 Mt (meunerie : 4.5 Mt, amidonnerie : 0.6 Mt, semoulerie de blé dur, Malterie : 0,3 Mt semoulerie de maïs : 0,1 Mt)\nBioéthanol : 2,1 Mt\nAutres industries : 2,8 Mt\nAliments animaux : 9,7 Mt (Volailles : 5 Mt Porcs : 2,7 Mt Bovins, ovins, caprins : 1,7 Mt Autres : 0,3 Mt)\nExportations de produits transformés : 4,9 Mt (en équivalents grains)\nExportation de grain : 24,6 Mt (blé tendre: 13.6 Mt)\n40 000 entreprises collectent, stockent ou transforment les céréales.",
+   "sentence": "Utilisation de la production en 2021 dont le total est de 57,6 Millions de tonnes:\nStockées et consommées à la ferme: 6,6 Mt\nMarché français: 26,7 Mt dont\nAlimentation humaine: 6,5 Mt\nBioéthanol: 2,1 Mt\nAutres industries: 2,8 Mt\nAliments animaux: 9,7 Mt\nExportations de produits transformés: 4,9 Mt\nExportation de grain: 24,6 Mt\n40 000 entreprises collectent, stockent ou transforment les céréales.",
    "section": "Importance économique"
   },
-  "f89": {
+  "f59": {
    "kind": "number",
    "value": 24800000,
    "surface": "24,8 millions",
    "sentence": "La France est le deuxième exportateur mondial de céréales avec 24,8 millions de tonnes, soit 43,2 % de la production.",
    "section": "Importance économique"
   },
-  "f90": {
+  "f60": {
    "kind": "measure",
    "value": 43.2,
    "unit": "%",
@@ -717,7 +500,7 @@
    "sentence": "La France est le deuxième exportateur mondial de céréales avec 24,8 millions de tonnes, soit 43,2 % de la production.",
    "section": "Importance économique"
   },
-  "f91": {
+  "f61": {
    "kind": "number",
    "value": 9000000000,
    "surface": "9 milliards",

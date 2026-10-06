@@ -58,7 +58,7 @@
    "value": 42.8,
    "unit": "années-lumière",
    "surface": "42,8 années-lumière",
-   "sentence": "Capella, également connue par sa désignation de Bayer Alpha Aurigae (et abrégée en α Aurigae ou α Aur), est un système stellaire situé à environ 42,8 années-lumière de la Terre dans la constellation du Cocher."
+   "sentence": "Capella, également connue par sa désignation de Bayer Alpha Aurigae, est un système stellaire situé à environ 42,8 années-lumière de la Terre dans la constellation du Cocher."
   },
   "f2": {
    "kind": "number",
@@ -79,204 +79,85 @@
    "sentence": "La deuxième paire, à près de 10 000 unités astronomiques de la première, consiste en deux naines rouges."
   },
   "f5": {
-   "kind": "date",
-   "value": "1603",
-   "surface": "1603",
-   "sentence": "Cette appellation, pourtant bien connue des érudits grâce aux textes des Aratea, c’est-à-dire les versions latines des Φαινόμενα d’Aratos, à leur disposition, ne fut pas utilisée au Moyen Âge, mais est exhumée à partir de ces texte à la Renaissance : Capra et Capella apparaissent ainsi pour cette étoile dans l’Uranometria de Johann Bayer (1603), et va désormais être utilisé de plus en plus fréquemment.",
-   "section": "Nomenclature, histoire et étymologie"
-  },
-  "f6": {
-   "kind": "date",
-   "value": "1899",
-   "surface": "1899",
-   "sentence": "Depuis la Renaissance, il continue à être employé : il est ainsi relevé par Richard Allen (1899), mais cède le plus souvent la place à Capella.",
-   "section": "Nomenclature, histoire et étymologie"
-  },
-  "f7": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Il s’agit de giš.TUKUL ša ŠU 2 d.AMAR.UTU, soit « l’arme divine dans les mains de Marduk », soit l’emblème de Marduk quand il devint le maître des cieux à Babylone (voir la constellation du Cocher).\nα Aur est connue comme 五車二 , soit la 2e étoile de l’astérisme Wuche, « les Cinq chars ».",
-   "section": "Nomenclature, histoire et étymologie"
-  },
-  "f8": {
    "kind": "number",
    "value": 44,
    "surface": "44",
    "sentence": "La déclinaison nord de Capella est telle qu'elle est invisible au sud de la latitude 44°S, ce qui inclut notamment le sud de la Nouvelle-Zélande, l'Argentine, le Chili et les Îles Malouines.",
    "section": "Observation"
   },
-  "f9": {
+  "f6": {
    "kind": "number",
    "value": 44,
    "surface": "44",
-   "sentence": "Elle est circumpolaire au nord de la latitude 44°N, ce qui inclut notamment la majorité de la France métropolitaine (le parallèle 44°N passe juste au nord d’Avignon), le Royaume-Uni, la Scandinavie, la majorité du Canada et le nord des États-Unis.",
+   "sentence": "Elle est circumpolaire au nord de la latitude 44°N, ce qui inclut notamment la majorité de la France métropolitaine, le Royaume-Uni, la Scandinavie, la majorité du Canada et le nord des États-Unis.",
    "section": "Observation"
   },
-  "f10": {
-   "kind": "number",
-   "value": 44,
-   "surface": "44",
-   "sentence": "Elle est circumpolaire au nord de la latitude 44°N, ce qui inclut notamment la majorité de la France métropolitaine (le parallèle 44°N passe juste au nord d’Avignon), le Royaume-Uni, la Scandinavie, la majorité du Canada et le nord des États-Unis.",
-   "section": "Observation"
-  },
-  "f11": {
+  "f7": {
    "kind": "measure",
    "value": 210000,
    "unit": "ans",
    "surface": "210 000 ans",
-   "sentence": "On estime que Capella fut l'étoile la plus brillante du ciel entre 210 000 ans et 160 000 ans avant aujourd'hui, à une magnitude d'environ -1,8[réf. souhaitée].",
+   "sentence": "On estime que Capella fut l'étoile la plus brillante du ciel entre 210 000 ans et 160 000 ans avant aujourd'hui, à une magnitude d'environ -1,8.",
    "section": "Observation"
   },
-  "f12": {
+  "f8": {
    "kind": "measure",
    "value": 160000,
    "unit": "ans",
    "surface": "160 000 ans",
-   "sentence": "On estime que Capella fut l'étoile la plus brillante du ciel entre 210 000 ans et 160 000 ans avant aujourd'hui, à une magnitude d'environ -1,8[réf. souhaitée].",
+   "sentence": "On estime que Capella fut l'étoile la plus brillante du ciel entre 210 000 ans et 160 000 ans avant aujourd'hui, à une magnitude d'environ -1,8.",
    "section": "Observation"
   },
-  "f13": {
-   "kind": "number",
-   "value": 5093,
-   "surface": "05093",
-   "sentence": "La binaire Capella A (α Aurigae A) est elle-même l'objet principal du système multiple PMSC 05093+4553 dont les deux autres composantes sont Capella H (GJ 195 A) et Capella L (GJ 195 B).",
-   "section": "Système"
-  },
-  "f14": {
+  "f9": {
    "kind": "number",
    "value": 4553,
    "surface": "4553",
-   "sentence": "La binaire Capella A (α Aurigae A) est elle-même l'objet principal du système multiple PMSC 05093+4553 dont les deux autres composantes sont Capella H (GJ 195 A) et Capella L (GJ 195 B).",
+   "sentence": "La binaire Capella A est elle-même l'objet principal du système multiple PMSC 05093+4553 dont les deux autres composantes sont Capella H et Capella L.\nD'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles: Capella C, Capella D, Capella E et Capella F et Capella G. Le Catalogue d'étoiles doubles de Washington recense sept étoiles supplémentaires: cinq d'entre elles — Capella I, M, N, Q et R — composent, avec Capella A, autant de paires d'étoiles doubles; les deux autres — Capella O et P — sont les composantes d'une étoile double — Capella OP — et composent des paires d'étoiles doubles tant avec Capella H — Capella HO et HP — qu'avec Capella L — Capella LO et LP.",
    "section": "Système"
   },
-  "f15": {
-   "kind": "number",
-   "value": 195,
-   "surface": "195",
-   "sentence": "La binaire Capella A (α Aurigae A) est elle-même l'objet principal du système multiple PMSC 05093+4553 dont les deux autres composantes sont Capella H (GJ 195 A) et Capella L (GJ 195 B).",
-   "section": "Système"
-  },
-  "f16": {
-   "kind": "number",
-   "value": 195,
-   "surface": "195",
-   "sentence": "La binaire Capella A (α Aurigae A) est elle-même l'objet principal du système multiple PMSC 05093+4553 dont les deux autres composantes sont Capella H (GJ 195 A) et Capella L (GJ 195 B).",
-   "section": "Système"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f18": {
-   "kind": "date",
-   "value": "1077",
-   "surface": "1077",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f20": {
-   "kind": "date",
-   "value": "1077",
-   "surface": "1077",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f22": {
-   "kind": "date",
-   "value": "1077",
-   "surface": "1077",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "1077",
-   "surface": "1077",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f25": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f26": {
-   "kind": "date",
-   "value": "1076",
-   "surface": "1076",
-   "sentence": "D'après le Catalogue des composantes d'étoiles doubles et multiples de Jean Dommanget et Omer Nys, cinq autres étoiles composent avec Capella A autant de paires d'étoiles doubles : Capella C (BD+45 1077 C), Capella D (BD+45 1077 D), Capella E (BD+45 1077 E) et Capella F (BD+45 1077 F) et Capella G (BD+45 1076).",
-   "section": "Système"
-  },
-  "f27": {
+  "f10": {
    "kind": "date",
    "value": "1899",
    "surface": "1899",
    "sentence": "En 1899, des observations spectroscopiques permettent de découvrir que Capella n'est pas une étoile simple.",
    "section": "Système"
   },
-  "f28": {
+  "f11": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
    "sentence": "Le système est par la suite observé par interférométrie en 1919 par John Anderson et Francis Pease à l'observatoire du Mont Wilson.",
    "section": "Système"
   },
-  "f29": {
+  "f12": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Les données sont publiées en 1920.",
    "section": "Système"
   },
-  "f30": {
+  "f13": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
    "sentence": "Une orbite de haute précision a ensuite été publiée en 1994 selon les observations effectuées par l'Interféromètre Stellaire Mark III, toujours à l'observatoire du mont Wilson.",
    "section": "Système"
   },
-  "f31": {
+  "f14": {
    "kind": "number",
    "value": 90000000,
    "surface": "90 millions",
    "sentence": "La paire formée par Capella Aa et Capella Ab consiste en deux étoiles géantes de type G. Elles sont séparées l'une de l'autre par environ 90 millions de kilomètres et ont une période orbitale de 104,02 jours.",
    "section": "Système"
   },
-  "f32": {
+  "f15": {
    "kind": "number",
    "value": 104.02,
    "surface": "104,02",
    "sentence": "La paire formée par Capella Aa et Capella Ab consiste en deux étoiles géantes de type G. Elles sont séparées l'une de l'autre par environ 90 millions de kilomètres et ont une période orbitale de 104,02 jours.",
    "section": "Système"
   },
-  "f33": {
+  "f16": {
    "kind": "measure",
    "value": 4900,
    "unit": "k",
@@ -284,28 +165,28 @@
    "sentence": "La première, Capella Aa, onzième étoile la plus brillante du ciel nocturne, a une température de surface d'environ 4 900 K, un rayon d'environ 12 rayons solaires, une masse d'environ 2,7 masses solaires et une luminosité d'environ 79 fois celle du Soleil.",
    "section": "Système"
   },
-  "f34": {
+  "f17": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "La première, Capella Aa, onzième étoile la plus brillante du ciel nocturne, a une température de surface d'environ 4 900 K, un rayon d'environ 12 rayons solaires, une masse d'environ 2,7 masses solaires et une luminosité d'environ 79 fois celle du Soleil.",
    "section": "Système"
   },
-  "f35": {
+  "f18": {
    "kind": "number",
    "value": 2.7,
    "surface": "2,7",
    "sentence": "La première, Capella Aa, onzième étoile la plus brillante du ciel nocturne, a une température de surface d'environ 4 900 K, un rayon d'environ 12 rayons solaires, une masse d'environ 2,7 masses solaires et une luminosité d'environ 79 fois celle du Soleil.",
    "section": "Système"
   },
-  "f36": {
+  "f19": {
    "kind": "number",
    "value": 79,
    "surface": "79",
    "sentence": "La première, Capella Aa, onzième étoile la plus brillante du ciel nocturne, a une température de surface d'environ 4 900 K, un rayon d'environ 12 rayons solaires, une masse d'environ 2,7 masses solaires et une luminosité d'environ 79 fois celle du Soleil.",
    "section": "Système"
   },
-  "f37": {
+  "f20": {
    "kind": "measure",
    "value": 5700,
    "unit": "k",
@@ -313,60 +194,60 @@
    "sentence": "La deuxième, Capella Ab, quatorzième étoile la plus brillante du ciel nocturne, a une température à la surface d'environ 5 700 K, un rayon d'environ 9 rayons solaires, une masse d'environ 2,6 masses solaires et une luminosité d'environ 78 fois celle du Soleil.",
    "section": "Système"
   },
-  "f38": {
+  "f21": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "La deuxième, Capella Ab, quatorzième étoile la plus brillante du ciel nocturne, a une température à la surface d'environ 5 700 K, un rayon d'environ 9 rayons solaires, une masse d'environ 2,6 masses solaires et une luminosité d'environ 78 fois celle du Soleil.",
    "section": "Système"
   },
-  "f39": {
+  "f22": {
    "kind": "number",
    "value": 2.6,
    "surface": "2,6",
    "sentence": "La deuxième, Capella Ab, quatorzième étoile la plus brillante du ciel nocturne, a une température à la surface d'environ 5 700 K, un rayon d'environ 9 rayons solaires, une masse d'environ 2,6 masses solaires et une luminosité d'environ 78 fois celle du Soleil.",
    "section": "Système"
   },
-  "f40": {
+  "f23": {
    "kind": "number",
    "value": 78,
    "surface": "78",
    "sentence": "La deuxième, Capella Ab, quatorzième étoile la plus brillante du ciel nocturne, a une température à la surface d'environ 5 700 K, un rayon d'environ 9 rayons solaires, une masse d'environ 2,6 masses solaires et une luminosité d'environ 78 fois celle du Soleil.",
    "section": "Système"
   },
-  "f41": {
+  "f24": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "En 1914, R. Furuhjelm observe que la binaire spectroscopique Capella A a une étoile pour compagnon, mais beaucoup moins visible, qui, avec son mouvement propre similaire à celui de l'étoile binaire spectroscopique, est liée physiquement à elle.",
    "section": "Système"
   },
-  "f42": {
+  "f25": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
-   "sentence": "En 1936, Carl Leo Stearns (en) remarque que ce compagnon est, en fait, une étoile double, ce qui est confirmé en octobre de la même année par Gerard Kuiper.",
+   "sentence": "En 1936, Carl Leo Stearns remarque que ce compagnon est, en fait, une étoile double, ce qui est confirmé en octobre de la même année par Gerard Kuiper.",
    "section": "Système"
   },
-  "f43": {
+  "f26": {
    "kind": "number",
    "value": 10000,
    "surface": "10 000",
    "sentence": "Cette étoile binaire Capella HL est composée de naines rouges, à une distance d'environ 10 000 unités astronomiques de la première paire.",
    "section": "Système"
   },
-  "f44": {
+  "f27": {
    "kind": "number",
    "value": 21,
    "surface": "21",
-   "sentence": "Leur découverte a été annoncée le 21 novembre 2009 par Krzysztof G. Hełminiak, Maciej Konacki, Shrinivas R. Kulkarni (en) et Joshua Eisner.",
+   "sentence": "Leur découverte a été annoncée le 21 novembre 2009 par Krzysztof G. Hełminiak, Maciej Konacki, Shrinivas R. Kulkarni et Joshua Eisner.",
    "section": "Système"
   },
-  "f45": {
+  "f28": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Leur découverte a été annoncée le 21 novembre 2009 par Krzysztof G. Hełminiak, Maciej Konacki, Shrinivas R. Kulkarni (en) et Joshua Eisner.",
+   "sentence": "Leur découverte a été annoncée le 21 novembre 2009 par Krzysztof G. Hełminiak, Maciej Konacki, Shrinivas R. Kulkarni et Joshua Eisner.",
    "section": "Système"
   }
  },

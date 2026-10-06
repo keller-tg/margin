@@ -72,7 +72,7 @@
    "kind": "date",
    "value": "1970",
    "surface": "1970",
-   "sentence": "La construction de celui des années 1970 a nécessité le déplacement de plusieurs temples (Abou Simbel, Philae...) et de forteresses qui auraient été noyés dans le lac Nasser."
+   "sentence": "La construction de celui des années 1970 a nécessité le déplacement de plusieurs temples et de forteresses qui auraient été noyés dans le lac Nasser."
   },
   "f3": {
    "kind": "measure",
@@ -99,28 +99,20 @@
    "section": "Affluents"
   },
   "f6": {
-   "kind": "measure",
-   "value": 720,
-   "unit": "km",
-   "surface": "720 km",
-   "sentence": "Au confluent du Nahr el-Jabal et du Bahr el-Ghazal (720 km de long), le fleuve est connu sous le nom de Nahr al Abyad, ou Nil Blanc, ce nom lui venant de l'argile blanchâtre en suspension dans ses eaux.",
-   "section": "Affluents"
-  },
-  "f7": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "Selim Bimbachi va effectuer trois expéditions entre 1839 et 1842 pour en découvrir les sources.",
    "section": "Affluents"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "Selim Bimbachi va effectuer trois expéditions entre 1839 et 1842 pour en découvrir les sources.",
    "section": "Affluents"
   },
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 1400,
    "unit": "km",
@@ -128,72 +120,72 @@
    "sentence": "Le Nil Bleu mesure environ 1 400 km jusqu'à Khartoum, où il rejoint le Nil Blanc pour former le Nil proprement dit.",
    "section": "Affluents"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
    "surface": "90 %",
-   "sentence": "90 % de l'eau et 96 % des sédiments transportés par le Nil proviennent de l'Éthiopie, mais cet écoulement se produit seulement en été, quand les grandes pluies tombent sur le plateau éthiopien ; le reste de l'année, les grands fleuves drainant l'Éthiopie vers le Nil coulent faiblement.",
+   "sentence": "90 % de l'eau et 96 % des sédiments transportés par le Nil proviennent de l'Éthiopie, mais cet écoulement se produit seulement en été, quand les grandes pluies tombent sur le plateau éthiopien; le reste de l'année, les grands fleuves drainant l'Éthiopie vers le Nil coulent faiblement.",
    "section": "Affluents"
   },
-  "f11": {
+  "f10": {
    "kind": "measure",
    "value": 96,
    "unit": "%",
    "surface": "96 %",
-   "sentence": "90 % de l'eau et 96 % des sédiments transportés par le Nil proviennent de l'Éthiopie, mais cet écoulement se produit seulement en été, quand les grandes pluies tombent sur le plateau éthiopien ; le reste de l'année, les grands fleuves drainant l'Éthiopie vers le Nil coulent faiblement.",
+   "sentence": "90 % de l'eau et 96 % des sédiments transportés par le Nil proviennent de l'Éthiopie, mais cet écoulement se produit seulement en été, quand les grandes pluies tombent sur le plateau éthiopien; le reste de l'année, les grands fleuves drainant l'Éthiopie vers le Nil coulent faiblement.",
    "section": "Affluents"
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 1048,
    "surface": "1 048",
-   "sentence": "Le débit du Nil Albert à Mongalla (au nord-est de Djouba) est presque constant pendant toute l'année, d'une moyenne de 1 048 m3/s.",
+   "sentence": "Le débit du Nil Albert à Mongalla est presque constant pendant toute l'année, d'une moyenne de 1 048 m3/s.",
    "section": "Hydrologie"
   },
-  "f13": {
+  "f12": {
    "kind": "date",
    "value": "510",
    "surface": "510",
    "sentence": "Le débit moyen du Nahr Al Jebel, de Nahr à la fin des marais, est d'environ 510 m3/s.",
    "section": "Hydrologie"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "924",
    "surface": "924",
    "sentence": "L'écoulement moyen du Nil Blanc à Malakal est de 924 m3/s, le débit maximum est approximativement de 1 218 m3/s début mars et le minimum est d'environ 609 m3/s en août.",
    "section": "Hydrologie"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 1218,
    "surface": "1 218",
    "sentence": "L'écoulement moyen du Nil Blanc à Malakal est de 924 m3/s, le débit maximum est approximativement de 1 218 m3/s début mars et le minimum est d'environ 609 m3/s en août.",
    "section": "Hydrologie"
   },
-  "f16": {
+  "f15": {
    "kind": "date",
    "value": "609",
    "surface": "609",
    "sentence": "L'écoulement moyen du Nil Blanc à Malakal est de 924 m3/s, le débit maximum est approximativement de 1 218 m3/s début mars et le minimum est d'environ 609 m3/s en août.",
    "section": "Hydrologie"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 99,
    "surface": "99",
    "sentence": "La fluctuation ici est due à la variation substantielle du débit du Sobat qui a un écoulement minimum d'environ 99 m3/s en août et un débit maximum de plus de 680 m3/s début mars.",
    "section": "Hydrologie"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "680",
    "surface": "680",
    "sentence": "La fluctuation ici est due à la variation substantielle du débit du Sobat qui a un écoulement minimum d'environ 99 m3/s en août et un débit maximum de plus de 680 m3/s début mars.",
    "section": "Hydrologie"
   },
-  "f19": {
+  "f18": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -201,30 +193,30 @@
    "sentence": "Le Nil Blanc contribue approximativement à 30 % du débit annuel du Nil.",
    "section": "Hydrologie"
   },
-  "f20": {
+  "f19": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
    "surface": "70 %",
-   "sentence": "Cependant, pendant la saison sèche (de janvier à juin), le Nil Blanc contribue à hauteur de 70 % voire 90 % à tout le débit du Nil.",
+   "sentence": "Cependant, pendant la saison sèche, le Nil Blanc contribue à hauteur de 70 % voire 90 % à tout le débit du Nil.",
    "section": "Hydrologie"
   },
-  "f21": {
+  "f20": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
    "surface": "90 %",
-   "sentence": "Cependant, pendant la saison sèche (de janvier à juin), le Nil Blanc contribue à hauteur de 70 % voire 90 % à tout le débit du Nil.",
+   "sentence": "Cependant, pendant la saison sèche, le Nil Blanc contribue à hauteur de 70 % voire 90 % à tout le débit du Nil.",
    "section": "Hydrologie"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 113,
    "surface": "113",
    "sentence": "Pendant cette période, le débit du Nil Bleu peut descendre jusqu'à 113 m3/s, bien que les barrages en amont règlent l'écoulement du fleuve.",
    "section": "Hydrologie"
   },
-  "f23": {
+  "f22": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -232,95 +224,88 @@
    "sentence": "Le Nil Bleu contribue approximativement à 70 % du débit du Nil.",
    "section": "Hydrologie"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 5663,
    "surface": "5 663",
-   "sentence": "Pendant la saison des pluies, le débit maximum du Nil Bleu excède souvent 5 663 m3/s fin août (multiplication par 50 du débit normal).",
+   "sentence": "Pendant la saison des pluies, le débit maximum du Nil Bleu excède souvent 5 663 m3/s fin août.",
    "section": "Hydrologie"
   },
-  "f25": {
-   "kind": "number",
-   "value": 50,
-   "surface": "50",
-   "sentence": "Pendant la saison des pluies, le débit maximum du Nil Bleu excède souvent 5 663 m3/s fin août (multiplication par 50 du débit normal).",
-   "section": "Hydrologie"
-  },
-  "f26": {
+  "f24": {
    "kind": "number",
    "value": 8212,
    "surface": "8 212",
    "sentence": "Les débits maxima de plus de 8 212 m3/s se produisent fin août – début septembre et les débits minima d'environ 552 m3/s ont lieu vers la fin avril – début mai.",
    "section": "Hydrologie"
   },
-  "f27": {
+  "f25": {
    "kind": "date",
    "value": "552",
    "surface": "552",
    "sentence": "Les débits maxima de plus de 8 212 m3/s se produisent fin août – début septembre et les débits minima d'environ 552 m3/s ont lieu vers la fin avril – début mai.",
    "section": "Hydrologie"
   },
-  "f28": {
+  "f26": {
    "kind": "number",
    "value": 140000,
    "surface": "0,14 million",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f29": {
+  "f27": {
    "kind": "measure",
    "value": 28,
    "unit": "%",
    "surface": "28 %",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f30": {
+  "f28": {
    "kind": "number",
    "value": 270000,
    "surface": "0,27 million",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f31": {
+  "f29": {
    "kind": "measure",
    "value": 27,
    "unit": "%",
    "surface": "27 %",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f32": {
+  "f30": {
    "kind": "number",
    "value": 1500000,
    "surface": "1,5 million",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f33": {
+  "f31": {
    "kind": "measure",
    "value": 13,
    "unit": "%",
    "surface": "13 %",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f34": {
+  "f32": {
    "kind": "number",
    "value": 500000,
    "surface": "0,5 million",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f35": {
+  "f33": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
    "surface": "20 %",
-   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de :\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond ;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond ;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond ;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
+   "sentence": "Le transport annuel de sédiments dans le Nil en aval du barrage d’Assouan est de l’ordre de:\nà Assouan, 0,14 million de tonnes de sédiments en suspension et en plus 28 % de charge de fond;\nà Quena, 0,27 million de tonnes de sédiments en suspension et en plus 27 % de charge de fond;\nà Sohag, 1,5 million de tonnes de sédiments en suspension et en plus 13 % de charge de fond;\nà Beni Suef, 0,5 million de tonnes de sédiments en suspension et en plus 20 % de charge de fond.",
    "section": "Hydrologie"
   },
-  "f36": {
+  "f34": {
    "kind": "measure",
    "value": 50,
    "unit": "km",
@@ -328,7 +313,7 @@
    "sentence": "Après la confluence du Nil Bleu et du Nil Blanc, le seul affluent principal restant est la rivière Atbara, qui prend sa source en Éthiopie, à environ 50 km au nord du lac Tana, et coule sur approximativement 800 km.",
    "section": "Les bras du Nil"
   },
-  "f37": {
+  "f35": {
    "kind": "measure",
    "value": 800,
    "unit": "km",
@@ -336,7 +321,7 @@
    "sentence": "Après la confluence du Nil Bleu et du Nil Blanc, le seul affluent principal restant est la rivière Atbara, qui prend sa source en Éthiopie, à environ 50 km au nord du lac Tana, et coule sur approximativement 800 km.",
    "section": "Les bras du Nil"
   },
-  "f38": {
+  "f36": {
    "kind": "measure",
    "value": 300,
    "unit": "km",
@@ -344,294 +329,224 @@
    "sentence": "Elle rejoint le Nil environ 300 km après Khartoum.",
    "section": "Les bras du Nil"
   },
-  "f39": {
+  "f37": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Le commerce de grande envergure le long du Nil depuis des temps antiques peut être prouvé à partir de l'os d'Ishango, probablement la première indication connue de la multiplication, qui a été découverte près de la source du Nil (près du lac Édouard, au nord-est du Congo), os qui a été daté au carbone 14 à près de 23 000 années avant notre ère.",
+   "sentence": "Le commerce de grande envergure le long du Nil depuis des temps antiques peut être prouvé à partir de l'os d'Ishango, probablement la première indication connue de la multiplication, qui a été découverte près de la source du Nil, os qui a été daté au carbone 14 à près de 23 000 années avant notre ère.",
    "section": "Histoire"
   },
-  "f40": {
+  "f38": {
    "kind": "measure",
    "value": 23000,
    "unit": "années",
    "surface": "23 000 années",
-   "sentence": "Le commerce de grande envergure le long du Nil depuis des temps antiques peut être prouvé à partir de l'os d'Ishango, probablement la première indication connue de la multiplication, qui a été découverte près de la source du Nil (près du lac Édouard, au nord-est du Congo), os qui a été daté au carbone 14 à près de 23 000 années avant notre ère.",
+   "sentence": "Le commerce de grande envergure le long du Nil depuis des temps antiques peut être prouvé à partir de l'os d'Ishango, probablement la première indication connue de la multiplication, qui a été découverte près de la source du Nil, os qui a été daté au carbone 14 à près de 23 000 années avant notre ère.",
    "section": "Histoire"
   },
-  "f41": {
-   "kind": "date",
-   "value": "1889",
-   "surface": "1889",
-   "sentence": "Dans son commentaire du Conte du naufragé (qu'il publia dans Les Contes populaires de l'Égypte ancienne en 1889), l'égyptologue français Gaston Maspero détaille les voyages des anciens Égyptiens se rendant aux mines de Pharaon.",
-   "section": "Histoire"
-  },
-  "f42": {
+  "f39": {
    "kind": "number",
    "value": 440,
    "surface": "440",
-   "sentence": "Les représentations hellénistiques et romaines classiques du fleuve représentaient ainsi un dieu masculin avec son visage et sa tête se cachant dans des draperies, en témoignent les vers célèbres de Lucain :\nVers les années 440 av. J.-C., l'historien grec Hérodote disserte longuement sur le fleuve dans ses Histoires.",
+   "sentence": "Les représentations hellénistiques et romaines classiques du fleuve représentaient ainsi un dieu masculin avec son visage et sa tête se cachant dans des draperies, en témoignent les vers célèbres de Lucain:\nVers les années 440 av. J.-C., l'historien grec Hérodote disserte longuement sur le fleuve dans ses Histoires.",
    "section": "Histoire"
   },
-  "f43": {
-   "kind": "number",
-   "value": 37,
-   "surface": "37",
-   "sentence": "Les prêtres égyptiens prétendent que le Nil prend son origine à l'Océan, qui entoure la terre. »\n— Diodore de Sicile, Bibliothèque historique, Livre I, XXXVII (37) (lire en ligne)\nMais aucun voyageur n'est connu dans l'Antiquité pour avoir atteint le lac Tana, encore moins pour avoir retracé les étapes de cette expédition après Méroé[réf. nécessaire].",
-   "section": "Histoire"
-  },
-  "f44": {
+  "f40": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Strabon, géographe grec, décrit le Nil dans sa Géographie (écrite en grec ancien par Strabon entre 23 et 20 av. J.-C., citant Ératosthène.",
    "section": "Histoire"
   },
-  "f45": {
+  "f41": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Strabon, géographe grec, décrit le Nil dans sa Géographie (écrite en grec ancien par Strabon entre 23 et 20 av. J.-C., citant Ératosthène.",
    "section": "Histoire"
   },
-  "f46": {
+  "f42": {
    "kind": "number",
    "value": 77,
    "surface": "77",
-   "sentence": "Vers 77, le naturaliste romain Pline l'Ancien publie son Histoire naturelle, où il situe la source dans le lac Nilis, près de l'Océan :\n« Le Nil, sorti de sources mal connues, coule à travers des lieux déserts et brûlants.",
+   "sentence": "Vers 77, le naturaliste romain Pline l'Ancien publie son Histoire naturelle, où il situe la source dans le lac Nilis, près de l'Océan:\n«Le Nil, sorti de sources mal connues, coule à travers des lieux déserts et brûlants.",
    "section": "Histoire"
   },
-  "f47": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "On y trouve, en fait de poissons, des alabètes, des coracins et des silures ; un crocodile en a été rapporté et consacré par Juba même, preuve que c'est bien le Nil, dans le temple d'Isis à Césarée, où on le voit encore aujourd'hui. »\n— Pline l'Ancien, Histoire naturelle, livre V (5), X, [1] (lire en ligne)\nLe Nil est assimilé par plusieurs auteurs à l'un des quatre fleuves d'Éden dont parle le Livre de la Genèse : l'Euphrate, le Tigre, le Gihon et le Pishon.",
-   "section": "Histoire"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "On y trouve, en fait de poissons, des alabètes, des coracins et des silures ; un crocodile en a été rapporté et consacré par Juba même, preuve que c'est bien le Nil, dans le temple d'Isis à Césarée, où on le voit encore aujourd'hui. »\n— Pline l'Ancien, Histoire naturelle, livre V (5), X, [1] (lire en ligne)\nLe Nil est assimilé par plusieurs auteurs à l'un des quatre fleuves d'Éden dont parle le Livre de la Genèse : l'Euphrate, le Tigre, le Gihon et le Pishon.",
-   "section": "Histoire"
-  },
-  "f49": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "C’est comme dans : « et ses cavaliers se répandent (pachou) » (‘Habaqouq 1, 8).",
-   "section": "Histoire"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "C’est comme dans : « et ses cavaliers se répandent (pachou) » (‘Habaqouq 1, 8).",
-   "section": "Histoire"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 16,
-   "surface": "16",
-   "sentence": "Autre explication : le Pichon fait pousser le lin (pichtan) (Beréchith raba 16, 2), ainsi qu’il est écrit à propos de l’Égypte : « ils seront confondus, ceux qui travaillent le lin (‘ovdé pichtim) » (Yecha’ya 19, 9). »\n— Rachi, commentaires sur la Genèse, 2.11 (lire en ligne)\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
-   "section": "Histoire"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Autre explication : le Pichon fait pousser le lin (pichtan) (Beréchith raba 16, 2), ainsi qu’il est écrit à propos de l’Égypte : « ils seront confondus, ceux qui travaillent le lin (‘ovdé pichtim) » (Yecha’ya 19, 9). »\n— Rachi, commentaires sur la Genèse, 2.11 (lire en ligne)\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
-   "section": "Histoire"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Autre explication : le Pichon fait pousser le lin (pichtan) (Beréchith raba 16, 2), ainsi qu’il est écrit à propos de l’Égypte : « ils seront confondus, ceux qui travaillent le lin (‘ovdé pichtim) » (Yecha’ya 19, 9). »\n— Rachi, commentaires sur la Genèse, 2.11 (lire en ligne)\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
-   "section": "Histoire"
-  },
-  "f54": {
-   "kind": "number",
-   "value": 9,
-   "surface": "9",
-   "sentence": "Autre explication : le Pichon fait pousser le lin (pichtan) (Beréchith raba 16, 2), ainsi qu’il est écrit à propos de l’Égypte : « ils seront confondus, ceux qui travaillent le lin (‘ovdé pichtim) » (Yecha’ya 19, 9). »\n— Rachi, commentaires sur la Genèse, 2.11 (lire en ligne)\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
-   "section": "Histoire"
-  },
-  "f55": {
+  "f43": {
    "kind": "number",
    "value": 2.11,
    "surface": "2.11",
-   "sentence": "Autre explication : le Pichon fait pousser le lin (pichtan) (Beréchith raba 16, 2), ainsi qu’il est écrit à propos de l’Égypte : « ils seront confondus, ceux qui travaillent le lin (‘ovdé pichtim) » (Yecha’ya 19, 9). »\n— Rachi, commentaires sur la Genèse, 2.11 (lire en ligne)\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
+   "sentence": "Autre explication: le Pichon fait pousser le lin, ainsi qu’il est écrit à propos de l’Égypte: «ils seront confondus, ceux qui travaillent le lin».»\n— Rachi, commentaires sur la Genèse, 2.11\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
    "section": "Histoire"
   },
-  "f56": {
+  "f44": {
    "kind": "date",
    "value": "1309",
    "surface": "1309",
-   "sentence": "Autre explication : le Pichon fait pousser le lin (pichtan) (Beréchith raba 16, 2), ainsi qu’il est écrit à propos de l’Égypte : « ils seront confondus, ceux qui travaillent le lin (‘ovdé pichtim) » (Yecha’ya 19, 9). »\n— Rachi, commentaires sur la Genèse, 2.11 (lire en ligne)\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
+   "sentence": "Autre explication: le Pichon fait pousser le lin, ainsi qu’il est écrit à propos de l’Égypte: «ils seront confondus, ceux qui travaillent le lin».»\n— Rachi, commentaires sur la Genèse, 2.11\nJean de Joinville, biographe de Louis IX, écrit en 1309 la Vie de saint Louis, où il narre notamment sa participation à la septième croisade en compagnie du roi.",
    "section": "Histoire"
   },
-  "f57": {
+  "f45": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Le lac Victoria a été aperçu pour la première fois par un Européen en 1858 quand l'explorateur britannique John Hanning Speke atteignit son rivage méridional pendant son voyage avec Richard Francis Burton pour explorer l'Afrique centrale et pour localiser les Grands Lacs.",
    "section": "Histoire"
   },
-  "f58": {
+  "f46": {
    "kind": "number",
    "value": 300,
    "surface": "300",
    "sentence": "Dans ce massif, la pluie tombe plus de 300 jours par an.",
    "section": "Histoire"
   },
-  "f59": {
+  "f47": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "La source la plus méridionale demeure celle du Burundi : « C'est un filet d'eau qui sort du flanc nord du mont Gikizi à 3° 54' 47\" de latitude sud, dans la commune de Rutovu au Burundi.",
+   "sentence": "La source la plus méridionale demeure celle du Burundi: «C'est un filet d'eau qui sort du flanc nord du mont Gikizi à 3° 54' 47\"de latitude sud, dans la commune de Rutovu au Burundi.",
    "section": "Histoire"
   },
-  "f60": {
+  "f48": {
    "kind": "number",
    "value": 54,
    "surface": "54",
-   "sentence": "La source la plus méridionale demeure celle du Burundi : « C'est un filet d'eau qui sort du flanc nord du mont Gikizi à 3° 54' 47\" de latitude sud, dans la commune de Rutovu au Burundi.",
+   "sentence": "La source la plus méridionale demeure celle du Burundi: «C'est un filet d'eau qui sort du flanc nord du mont Gikizi à 3° 54' 47\"de latitude sud, dans la commune de Rutovu au Burundi.",
    "section": "Histoire"
   },
-  "f61": {
+  "f49": {
    "kind": "number",
    "value": 47,
    "surface": "47",
-   "sentence": "La source la plus méridionale demeure celle du Burundi : « C'est un filet d'eau qui sort du flanc nord du mont Gikizi à 3° 54' 47\" de latitude sud, dans la commune de Rutovu au Burundi.",
+   "sentence": "La source la plus méridionale demeure celle du Burundi: «C'est un filet d'eau qui sort du flanc nord du mont Gikizi à 3° 54' 47\"de latitude sud, dans la commune de Rutovu au Burundi.",
    "section": "Histoire"
   },
-  "f62": {
+  "f50": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Elle est partie de la source du Nil en Ouganda le 17 janvier 2004 et est arrivée à la Mer Méditerranée à Rosette, quatre mois et deux semaines plus tard.",
    "section": "Histoire"
   },
-  "f63": {
+  "f51": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Elle est partie de la source du Nil en Ouganda le 17 janvier 2004 et est arrivée à la Mer Méditerranée à Rosette, quatre mois et deux semaines plus tard.",
    "section": "Histoire"
   },
-  "f64": {
+  "f52": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "National Geographic a présenté un film sur l'expédition à la fin de l'année 2005 : The Longest River.",
+   "sentence": "National Geographic a présenté un film sur l'expédition à la fin de l'année 2005: The Longest River.",
    "section": "Histoire"
   },
-  "f65": {
+  "f53": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Le 28 avril 2004, le géologue Pasquale Scaturro et son associé, le kayakiste et réalisateur de documentaires Gordon Brown, sont devenus les premières personnes à naviguer sur le Nil Bleu, du lac Tana en Éthiopie aux plages d'Alexandrie sur la Méditerranée.",
    "section": "Histoire"
   },
-  "f66": {
+  "f54": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Le 28 avril 2004, le géologue Pasquale Scaturro et son associé, le kayakiste et réalisateur de documentaires Gordon Brown, sont devenus les premières personnes à naviguer sur le Nil Bleu, du lac Tana en Éthiopie aux plages d'Alexandrie sur la Méditerranée.",
    "section": "Histoire"
   },
-  "f67": {
+  "f55": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Malgré tout, l'équipe a été forcée d'utiliser des bateaux à moteur pour la majeure partie de leur voyage, et ce n'est que le 29 janvier 2005 que le Canadien Les Jickling et le Néo-Zélandais Mark Tanner atteignirent la mer Méditerranée.",
    "section": "Histoire"
   },
-  "f68": {
+  "f56": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Malgré tout, l'équipe a été forcée d'utiliser des bateaux à moteur pour la majeure partie de leur voyage, et ce n'est que le 29 janvier 2005 que le Canadien Les Jickling et le Néo-Zélandais Mark Tanner atteignirent la mer Méditerranée.",
    "section": "Histoire"
   },
-  "f69": {
+  "f57": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "Le 30 avril 2005, une équipe menée par les Sud-Africains Peter Meredith et Hendri Coetzee fut la première expédition à naviguer jusqu'à la source la plus lointaine du Nil : la rivière Kagera, connue comme la rivière Rukarara, dans la forêt de Nyungwe au Rwanda.",
+   "sentence": "Le 30 avril 2005, une équipe menée par les Sud-Africains Peter Meredith et Hendri Coetzee fut la première expédition à naviguer jusqu'à la source la plus lointaine du Nil: la rivière Kagera, connue comme la rivière Rukarara, dans la forêt de Nyungwe au Rwanda.",
    "section": "Histoire"
   },
-  "f70": {
+  "f58": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Le 30 avril 2005, une équipe menée par les Sud-Africains Peter Meredith et Hendri Coetzee fut la première expédition à naviguer jusqu'à la source la plus lointaine du Nil : la rivière Kagera, connue comme la rivière Rukarara, dans la forêt de Nyungwe au Rwanda.",
+   "sentence": "Le 30 avril 2005, une équipe menée par les Sud-Africains Peter Meredith et Hendri Coetzee fut la première expédition à naviguer jusqu'à la source la plus lointaine du Nil: la rivière Kagera, connue comme la rivière Rukarara, dans la forêt de Nyungwe au Rwanda.",
    "section": "Histoire"
   },
-  "f71": {
+  "f59": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Le 31 mars 2006, trois explorateurs de Grande-Bretagne et de Nouvelle-Zélande ont prétendu avoir été les premiers à remonter le fleuve de son delta à la vraie source qui se trouve dans la forêt tropicale de Nyungwe, dans le sud-ouest du Rwanda.",
    "section": "Histoire"
   },
-  "f72": {
+  "f60": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Le 31 mars 2006, trois explorateurs de Grande-Bretagne et de Nouvelle-Zélande ont prétendu avoir été les premiers à remonter le fleuve de son delta à la vraie source qui se trouve dans la forêt tropicale de Nyungwe, dans le sud-ouest du Rwanda.",
    "section": "Histoire"
   },
-  "f73": {
+  "f61": {
    "kind": "measure",
    "value": 2428,
    "unit": "mètres",
    "surface": "2 428 mètres",
-   "sentence": "Au terme d'une progression dans la forêt de Nyungwe, ils se sont arrêtés autour d'un trou rempli de vase, situé à 2 428 mètres d'altitude, d'où jaillissait un filet d'eau, une source du Nil ; la source la plus lointaine du Nil, portant la longueur du fleuve à 6 718 kilomètres au lieu des 6 611 précédemment établis.",
+   "sentence": "Au terme d'une progression dans la forêt de Nyungwe, ils se sont arrêtés autour d'un trou rempli de vase, situé à 2 428 mètres d'altitude, d'où jaillissait un filet d'eau, une source du Nil; la source la plus lointaine du Nil, portant la longueur du fleuve à 6 718 kilomètres au lieu des 6 611 précédemment établis.",
    "section": "Histoire"
   },
-  "f74": {
+  "f62": {
    "kind": "measure",
    "value": 6718,
    "unit": "kilomètres",
    "surface": "6 718 kilomètres",
-   "sentence": "Au terme d'une progression dans la forêt de Nyungwe, ils se sont arrêtés autour d'un trou rempli de vase, situé à 2 428 mètres d'altitude, d'où jaillissait un filet d'eau, une source du Nil ; la source la plus lointaine du Nil, portant la longueur du fleuve à 6 718 kilomètres au lieu des 6 611 précédemment établis.",
+   "sentence": "Au terme d'une progression dans la forêt de Nyungwe, ils se sont arrêtés autour d'un trou rempli de vase, situé à 2 428 mètres d'altitude, d'où jaillissait un filet d'eau, une source du Nil; la source la plus lointaine du Nil, portant la longueur du fleuve à 6 718 kilomètres au lieu des 6 611 précédemment établis.",
    "section": "Histoire"
   },
-  "f75": {
+  "f63": {
    "kind": "number",
    "value": 6611,
    "surface": "6 611",
-   "sentence": "Au terme d'une progression dans la forêt de Nyungwe, ils se sont arrêtés autour d'un trou rempli de vase, situé à 2 428 mètres d'altitude, d'où jaillissait un filet d'eau, une source du Nil ; la source la plus lointaine du Nil, portant la longueur du fleuve à 6 718 kilomètres au lieu des 6 611 précédemment établis.",
+   "sentence": "Au terme d'une progression dans la forêt de Nyungwe, ils se sont arrêtés autour d'un trou rempli de vase, situé à 2 428 mètres d'altitude, d'où jaillissait un filet d'eau, une source du Nil; la source la plus lointaine du Nil, portant la longueur du fleuve à 6 718 kilomètres au lieu des 6 611 précédemment établis.",
    "section": "Histoire"
   },
-  "f76": {
+  "f64": {
    "kind": "date",
    "value": "829",
    "surface": "829",
-   "sentence": "Deux épisodes de gel du Nil sont connus : la première fois en 829 et la seconde fois en 1010 ou 1011.",
+   "sentence": "Deux épisodes de gel du Nil sont connus: la première fois en 829 et la seconde fois en 1010 ou 1011.",
    "section": "Histoire"
   },
-  "f77": {
+  "f65": {
    "kind": "date",
    "value": "1010",
    "surface": "1010",
-   "sentence": "Deux épisodes de gel du Nil sont connus : la première fois en 829 et la seconde fois en 1010 ou 1011.",
+   "sentence": "Deux épisodes de gel du Nil sont connus: la première fois en 829 et la seconde fois en 1010 ou 1011.",
    "section": "Histoire"
   },
-  "f78": {
+  "f66": {
    "kind": "date",
    "value": "1011",
    "surface": "1011",
-   "sentence": "Deux épisodes de gel du Nil sont connus : la première fois en 829 et la seconde fois en 1010 ou 1011.",
+   "sentence": "Deux épisodes de gel du Nil sont connus: la première fois en 829 et la seconde fois en 1010 ou 1011.",
    "section": "Histoire"
   },
-  "f79": {
+  "f67": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
-   "sentence": "Le climatologue anglais HH Lamb écrivait en 1966 dans The Changing Climate que l'étrangeté du gel du Nil était probablement attribuable à « un déplacement vers le nord de la ceinture anticyclonique, caractéristique de l'époque, et à l'air froid sibérien qui atteignait parfois la Méditerranée ».",
+   "sentence": "Le climatologue anglais HH Lamb écrivait en 1966 dans The Changing Climate que l'étrangeté du gel du Nil était probablement attribuable à «un déplacement vers le nord de la ceinture anticyclonique, caractéristique de l'époque, et à l'air froid sibérien qui atteignait parfois la Méditerranée».",
    "section": "Histoire"
   }
  },

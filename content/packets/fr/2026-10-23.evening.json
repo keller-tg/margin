@@ -51,200 +51,160 @@
  "facts": {
   "f1": {
    "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "En particulier, le diamant est le matériau naturel le plus dur (avec l'indice maximal (10) sur l'échelle de Mohs) et il possède une très forte conductivité thermique."
-  },
-  "f2": {
-   "kind": "number",
    "value": 140,
    "surface": "140",
    "sentence": "La majorité des diamants naturels se sont formés dans des conditions de très hautes températures et pressions à des profondeurs de 140 à 190 kilomètres dans le manteau terrestre."
   },
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 190,
    "unit": "kilomètres",
    "surface": "190 kilomètres",
    "sentence": "La majorité des diamants naturels se sont formés dans des conditions de très hautes températures et pressions à des profondeurs de 140 à 190 kilomètres dans le manteau terrestre."
   },
-  "f4": {
+  "f3": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Leur croissance nécessite de 1 à 3,3 milliards d'années (entre 25 et 75 % de l'âge de la Terre)."
+   "sentence": "Leur croissance nécessite de 1 à 3,3 milliards d'années."
   },
-  "f5": {
+  "f4": {
    "kind": "number",
    "value": 3300000000,
    "surface": "3,3 milliards",
-   "sentence": "Leur croissance nécessite de 1 à 3,3 milliards d'années (entre 25 et 75 % de l'âge de la Terre)."
+   "sentence": "Leur croissance nécessite de 1 à 3,3 milliards d'années."
   },
-  "f6": {
-   "kind": "number",
-   "value": 25,
-   "surface": "25",
-   "sentence": "Leur croissance nécessite de 1 à 3,3 milliards d'années (entre 25 et 75 % de l'âge de la Terre)."
-  },
-  "f7": {
-   "kind": "measure",
-   "value": 75,
-   "unit": "%",
-   "surface": "75 %",
-   "sentence": "Leur croissance nécessite de 1 à 3,3 milliards d'années (entre 25 et 75 % de l'âge de la Terre)."
-  },
-  "f8": {
+  "f5": {
    "kind": "measure",
    "value": 6000,
    "unit": "ans",
    "surface": "6 000 ans",
-   "sentence": "La légende raconte que le diamant est exploité depuis 6 000 ans en Inde (cas du Koh-i Nor).",
+   "sentence": "La légende raconte que le diamant est exploité depuis 6 000 ans en Inde.",
    "section": "Étymologie et histoire"
   },
-  "f9": {
+  "f6": {
    "kind": "measure",
    "value": 3000,
    "unit": "ans",
    "surface": "3 000 ans",
-   "sentence": "Historiquement, les premiers diamants sont extraits il y a 3 000 ans en Inde où ils sont trouvés uniquement dans les gisements alluvionnaires (rives des cours d'eau) tels le Pennar, le Godâvarî, le Mahânadî ou le Krishnâ dans la région mythique de Golconde, principal centre de commerce du diamant pendant des siècles.",
+   "sentence": "Historiquement, les premiers diamants sont extraits il y a 3 000 ans en Inde où ils sont trouvés uniquement dans les gisements alluvionnaires tels le Pennar, le Godâvarî, le Mahânadî ou le Krishnâ dans la région mythique de Golconde, principal centre de commerce du diamant pendant des siècles.",
    "section": "Étymologie et histoire"
   },
-  "f10": {
+  "f7": {
    "kind": "number",
    "value": 400,
    "surface": "400",
-   "sentence": "Le diamant est à l'origine un élément de parure comme d'autres (la taille de diamant en facettes qui lui donne sa brillance caractéristique n'apparaît pas avant le milieu du XIVe siècle, probablement par crainte que cette technique ne lui fasse perdre de ses pouvoirs), aussi est-il surtout utilisé comme amulette et talisman à cause de ses pouvoirs magiques et pour sa grande dureté dans la taille d'outils en fer ou la perforation de gemmes (jades, saphirs), comme en Chine, au Yémen vers 400 av. J.-C. où ont été trouvées des perles percées par des diamants et au Kalimantan, partie indonésienne de Bornéo où le diamant est découvert vers 600.",
+   "sentence": "Le diamant est à l'origine un élément de parure comme d'autres, aussi est-il surtout utilisé comme amulette et talisman à cause de ses pouvoirs magiques et pour sa grande dureté dans la taille d'outils en fer ou la perforation de gemmes, comme en Chine, au Yémen vers 400 av. J.-C. où ont été trouvées des perles percées par des diamants et au Kalimantan, partie indonésienne de Bornéo où le diamant est découvert vers 600.",
    "section": "Étymologie et histoire"
   },
-  "f11": {
+  "f8": {
    "kind": "date",
    "value": "600",
    "surface": "600",
-   "sentence": "Le diamant est à l'origine un élément de parure comme d'autres (la taille de diamant en facettes qui lui donne sa brillance caractéristique n'apparaît pas avant le milieu du XIVe siècle, probablement par crainte que cette technique ne lui fasse perdre de ses pouvoirs), aussi est-il surtout utilisé comme amulette et talisman à cause de ses pouvoirs magiques et pour sa grande dureté dans la taille d'outils en fer ou la perforation de gemmes (jades, saphirs), comme en Chine, au Yémen vers 400 av. J.-C. où ont été trouvées des perles percées par des diamants et au Kalimantan, partie indonésienne de Bornéo où le diamant est découvert vers 600.",
+   "sentence": "Le diamant est à l'origine un élément de parure comme d'autres, aussi est-il surtout utilisé comme amulette et talisman à cause de ses pouvoirs magiques et pour sa grande dureté dans la taille d'outils en fer ou la perforation de gemmes, comme en Chine, au Yémen vers 400 av. J.-C. où ont été trouvées des perles percées par des diamants et au Kalimantan, partie indonésienne de Bornéo où le diamant est découvert vers 600.",
    "section": "Étymologie et histoire"
   },
-  "f12": {
+  "f9": {
    "kind": "date",
    "value": "1270",
    "surface": "1270",
    "sentence": "En 1270, Louis IX institue des lois somptuaires réservant le diamant au seul souverain.",
    "section": "Étymologie et histoire"
   },
-  "f13": {
+  "f10": {
    "kind": "date",
    "value": "1477",
    "surface": "1477",
    "sentence": "Jusqu'en 1477, date à laquelle l'archiduc d'Autriche, Maximilien Ier de Habsbourg offre comme bague de fiançailles un diamant à Marie de Bourgogne, le diamant est porté uniquement par des souverains hommes.",
    "section": "Étymologie et histoire"
   },
-  "f14": {
-   "kind": "date",
-   "value": "1668",
-   "surface": "1668",
-   "sentence": "Un diamant imparfait (brillant moins) est supposé porter malheur (ainsi le Bleu de France acheté par Jean-Baptiste Tavernier en 1668 pour le compte de Louis XIV au prix de 220 000 livres, très inférieur aux gros diamants incolores).",
-   "section": "Étymologie et histoire"
-  },
-  "f15": {
-   "kind": "number",
-   "value": 220000,
-   "surface": "220 000",
-   "sentence": "Un diamant imparfait (brillant moins) est supposé porter malheur (ainsi le Bleu de France acheté par Jean-Baptiste Tavernier en 1668 pour le compte de Louis XIV au prix de 220 000 livres, très inférieur aux gros diamants incolores).",
-   "section": "Étymologie et histoire"
-  },
-  "f16": {
+  "f11": {
    "kind": "date",
    "value": "1725",
    "surface": "1725",
-   "sentence": "Les gisements indiens s'épuisant, la découverte et exploration de l'Amérique ouvre de nouveaux horizons, ce qui entraîne la découverte de gisements au Brésil à partir de 1725 : jusqu'à cette date de leur découverte à Tejuco, l'Inde et l'Indonésie détiennent les seuls gisements exploités, la découverte brésilienne provoquant une véritable « ruée vers le diamant ».",
+   "sentence": "Les gisements indiens s'épuisant, la découverte et exploration de l'Amérique ouvre de nouveaux horizons, ce qui entraîne la découverte de gisements au Brésil à partir de 1725: jusqu'à cette date de leur découverte à Tejuco, l'Inde et l'Indonésie détiennent les seuls gisements exploités, la découverte brésilienne provoquant une véritable «ruée vers le diamant».",
    "section": "Étymologie et histoire"
   },
-  "f17": {
+  "f12": {
    "kind": "date",
    "value": "1772",
    "surface": "1772",
    "sentence": "En 1772, Antoine Lavoisier utilise une lentille pour focaliser les rayons solaires sur un diamant dans une atmosphère riche en oxygène.",
    "section": "Étymologie et histoire"
   },
-  "f18": {
+  "f13": {
    "kind": "date",
    "value": "1797",
    "surface": "1797",
-   "sentence": "En 1797, Smithson Tennant répète l'expérience sur le charbon : la combustion du diamant produisant le même volume de dioxyde de carbone qu'une masse équivalente de charbon, il montre que le diamant est du carbone pur.",
+   "sentence": "En 1797, Smithson Tennant répète l'expérience sur le charbon: la combustion du diamant produisant le même volume de dioxyde de carbone qu'une masse équivalente de charbon, il montre que le diamant est du carbone pur.",
    "section": "Étymologie et histoire"
   },
-  "f19": {
+  "f14": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
-   "sentence": "En 1866, à Hopetown, à 120 kilomètres au sud de Kimberley (Afrique du Sud), le diamant Eureka (en) (baptisé ainsi à l'Exposition universelle de Paris la même année) est découvert par un jeune garçon, Erasmus Jacobs, dans une kimberlite.",
+   "sentence": "En 1866, à Hopetown, à 120 kilomètres au sud de Kimberley, le diamant Eureka est découvert par un jeune garçon, Erasmus Jacobs, dans une kimberlite.",
    "section": "Étymologie et histoire"
   },
-  "f20": {
+  "f15": {
    "kind": "measure",
    "value": 120,
    "unit": "kilomètres",
    "surface": "120 kilomètres",
-   "sentence": "En 1866, à Hopetown, à 120 kilomètres au sud de Kimberley (Afrique du Sud), le diamant Eureka (en) (baptisé ainsi à l'Exposition universelle de Paris la même année) est découvert par un jeune garçon, Erasmus Jacobs, dans une kimberlite.",
+   "sentence": "En 1866, à Hopetown, à 120 kilomètres au sud de Kimberley, le diamant Eureka est découvert par un jeune garçon, Erasmus Jacobs, dans une kimberlite.",
    "section": "Étymologie et histoire"
   },
-  "f21": {
+  "f16": {
    "kind": "date",
    "value": "1888",
    "surface": "1888",
    "sentence": "La mise au jour dans cette région de nombreuses mines diamantifères donne naissance en 1888 à la De Beers, plus grande entreprise diamantaire du monde.",
    "section": "Étymologie et histoire"
   },
-  "f22": {
+  "f17": {
    "kind": "number",
    "value": 570000000,
    "surface": "570 millions",
-   "sentence": "Dès lors, le diamant est devenu un matériau industriel dont la production annuelle atteint aujourd'hui 570 millions de carats, soit 114 tonnes (chiffres 2007).",
+   "sentence": "Dès lors, le diamant est devenu un matériau industriel dont la production annuelle atteint aujourd'hui 570 millions de carats, soit 114 tonnes.",
    "section": "Étymologie et histoire"
   },
-  "f23": {
+  "f18": {
    "kind": "measure",
    "value": 114,
    "unit": "tonnes",
    "surface": "114 tonnes",
-   "sentence": "Dès lors, le diamant est devenu un matériau industriel dont la production annuelle atteint aujourd'hui 570 millions de carats, soit 114 tonnes (chiffres 2007).",
+   "sentence": "Dès lors, le diamant est devenu un matériau industriel dont la production annuelle atteint aujourd'hui 570 millions de carats, soit 114 tonnes.",
    "section": "Étymologie et histoire"
   },
-  "f24": {
-   "kind": "date",
-   "value": "2007",
-   "surface": "2007",
-   "sentence": "Dès lors, le diamant est devenu un matériau industriel dont la production annuelle atteint aujourd'hui 570 millions de carats, soit 114 tonnes (chiffres 2007).",
-   "section": "Étymologie et histoire"
-  },
-  "f25": {
+  "f19": {
    "kind": "date",
    "value": "1932",
    "surface": "1932",
-   "sentence": "En 1932, Gabrielle Chanel lance la collection « Bijoux de diamants » dans laquelle elle supprime la parure, les diamants étant montés sur platine.",
+   "sentence": "En 1932, Gabrielle Chanel lance la collection «Bijoux de diamants» dans laquelle elle supprime la parure, les diamants étant montés sur platine.",
    "section": "Étymologie et histoire"
   },
-  "f26": {
+  "f20": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Le 2 octobre 1979 est découverte la mine de diamant d'Argyle en Australie-Occidentale qui est à ce jour[Quand ?] la plus importante mine de diamants au monde en volume.",
+   "sentence": "Le 2 octobre 1979 est découverte la mine de diamant d'Argyle en Australie-Occidentale qui est à ce jour la plus importante mine de diamants au monde en volume.",
    "section": "Étymologie et histoire"
   },
-  "f27": {
+  "f21": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
-   "sentence": "Le 2 octobre 1979 est découverte la mine de diamant d'Argyle en Australie-Occidentale qui est à ce jour[Quand ?] la plus importante mine de diamants au monde en volume.",
+   "sentence": "Le 2 octobre 1979 est découverte la mine de diamant d'Argyle en Australie-Occidentale qui est à ce jour la plus importante mine de diamants au monde en volume.",
    "section": "Étymologie et histoire"
   },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "En septembre 2012, la Russie rend publique l'existence d'un gisement de diamants sans équivalent, tenu secret durant 40 ans.",
    "section": "Étymologie et histoire"
   },
-  "f29": {
+  "f23": {
    "kind": "measure",
    "value": 40,
    "unit": "ans",
@@ -252,14 +212,14 @@
    "sentence": "En septembre 2012, la Russie rend publique l'existence d'un gisement de diamants sans équivalent, tenu secret durant 40 ans.",
    "section": "Étymologie et histoire"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Situé à Popigaï, il a été découvert au début des années 1970 dans une zone inhabitée de la Sibérie orientale, à 400 km de Khantiga et à 2 000 km au nord de Krasnoïarsk, le chef-lieu de la région.",
    "section": "Étymologie et histoire"
   },
-  "f31": {
+  "f25": {
    "kind": "measure",
    "value": 400,
    "unit": "km",
@@ -267,7 +227,7 @@
    "sentence": "Situé à Popigaï, il a été découvert au début des années 1970 dans une zone inhabitée de la Sibérie orientale, à 400 km de Khantiga et à 2 000 km au nord de Krasnoïarsk, le chef-lieu de la région.",
    "section": "Étymologie et histoire"
   },
-  "f32": {
+  "f26": {
    "kind": "measure",
    "value": 2000,
    "unit": "km",
@@ -275,21 +235,21 @@
    "sentence": "Situé à Popigaï, il a été découvert au début des années 1970 dans une zone inhabitée de la Sibérie orientale, à 400 km de Khantiga et à 2 000 km au nord de Krasnoïarsk, le chef-lieu de la région.",
    "section": "Étymologie et histoire"
   },
-  "f33": {
+  "f27": {
    "kind": "number",
    "value": 110,
    "surface": "110",
    "sentence": "Il serait 110 fois supérieur aux réserves mondiales de diamants.",
    "section": "Étymologie et histoire"
   },
-  "f34": {
+  "f28": {
    "kind": "number",
    "value": 55,
    "surface": "55",
    "sentence": "L'intérieur de l'exoplanète 55 Cancri e pourrait être constituée, pour au moins un tiers de sa masse, par du diamant.",
    "section": "Étymologie et histoire"
   },
-  "f35": {
+  "f29": {
    "kind": "measure",
    "value": 12.02,
    "unit": "g",
@@ -297,14 +257,14 @@
    "sentence": "La masse molaire du diamant est de 12,02 g mol−1, sa masse volumique mesurée est de 3 520 kg/m3.",
    "section": "Propriétés"
   },
-  "f36": {
+  "f30": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "La masse molaire du diamant est de 12,02 g mol−1, sa masse volumique mesurée est de 3 520 kg/m3.",
    "section": "Propriétés"
   },
-  "f37": {
+  "f31": {
    "kind": "measure",
    "value": 3520,
    "unit": "kg",
@@ -312,7 +272,7 @@
    "sentence": "La masse molaire du diamant est de 12,02 g mol−1, sa masse volumique mesurée est de 3 520 kg/m3.",
    "section": "Propriétés"
   },
-  "f38": {
+  "f32": {
    "kind": "measure",
    "value": 1700,
    "unit": "°c",
@@ -320,7 +280,7 @@
    "sentence": "Au-dessus d'une température de 1 700 °C dans une atmosphère neutre sans oxygène le diamant se transforme en graphite.",
    "section": "Propriétés"
   },
-  "f39": {
+  "f33": {
    "kind": "measure",
    "value": 700,
    "unit": "°c",
@@ -328,14 +288,14 @@
    "sentence": "Dans l'air sa transformation débute à environ 700 °C.",
    "section": "Propriétés"
   },
-  "f40": {
+  "f34": {
    "kind": "date",
    "value": "720",
    "surface": "720",
    "sentence": "Son point d'ignition est situé entre 720 et 800 °C dans l'oxygène et entre 850 et 1 000 °C dans l'air.",
    "section": "Propriétés"
   },
-  "f41": {
+  "f35": {
    "kind": "measure",
    "value": 800,
    "unit": "°c",
@@ -343,14 +303,14 @@
    "sentence": "Son point d'ignition est situé entre 720 et 800 °C dans l'oxygène et entre 850 et 1 000 °C dans l'air.",
    "section": "Propriétés"
   },
-  "f42": {
+  "f36": {
    "kind": "date",
    "value": "850",
    "surface": "850",
    "sentence": "Son point d'ignition est situé entre 720 et 800 °C dans l'oxygène et entre 850 et 1 000 °C dans l'air.",
    "section": "Propriétés"
   },
-  "f43": {
+  "f37": {
    "kind": "measure",
    "value": 1000,
    "unit": "°c",
@@ -358,35 +318,21 @@
    "sentence": "Son point d'ignition est situé entre 720 et 800 °C dans l'oxygène et entre 850 et 1 000 °C dans l'air.",
    "section": "Propriétés"
   },
-  "f44": {
+  "f38": {
    "kind": "number",
    "value": 0.6,
    "surface": "0,6",
-   "sentence": "À des pressions de l'ordre de 0,6–1,1 TPa (6–11 Mbar), le carbone liquide est, comme l'eau, plus dense que la forme solide.",
+   "sentence": "À des pressions de l'ordre de 0,6–1,1 TPa, le carbone liquide est, comme l'eau, plus dense que la forme solide.",
    "section": "Propriétés"
   },
-  "f45": {
+  "f39": {
    "kind": "number",
    "value": 1.1,
    "surface": "1,1",
-   "sentence": "À des pressions de l'ordre de 0,6–1,1 TPa (6–11 Mbar), le carbone liquide est, comme l'eau, plus dense que la forme solide.",
+   "sentence": "À des pressions de l'ordre de 0,6–1,1 TPa, le carbone liquide est, comme l'eau, plus dense que la forme solide.",
    "section": "Propriétés"
   },
-  "f46": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "À des pressions de l'ordre de 0,6–1,1 TPa (6–11 Mbar), le carbone liquide est, comme l'eau, plus dense que la forme solide.",
-   "section": "Propriétés"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 11,
-   "surface": "11",
-   "sentence": "À des pressions de l'ordre de 0,6–1,1 TPa (6–11 Mbar), le carbone liquide est, comme l'eau, plus dense que la forme solide.",
-   "section": "Propriétés"
-  },
-  "f48": {
+  "f40": {
    "kind": "measure",
    "value": 18,
    "unit": "km/s",
@@ -394,28 +340,14 @@
    "sentence": "L'onde sonore la plus rapide, qui se propage à environ 18 km/s, a été mesurée dans le diamant.",
    "section": "Propriétés"
   },
-  "f49": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Dans son état naturel, le diamant possède une structure dérivée de la structure cubique à faces centrées (cfc), appelée structure type diamant où en plus des atomes aux sommets du cube et au centre de chaque face, quatre des huit sites tétraédriques définis par une telle structure sont occupés, ce qui donne finalement huit atomes par maille (contre 4 pour une structure cfc classique), et fait que chaque atome de carbone a quatre voisins.",
-   "section": "Propriétés"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 227,
-   "surface": "227",
-   "sentence": "Son groupe d'espace est Fd3m (no 227 dans les tables internationales), son symbole de Pearson est\nc\nF\n8\n.",
-   "section": "Propriétés"
-  },
-  "f51": {
+  "f41": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "Son groupe d'espace est Fd3m (no 227 dans les tables internationales), son symbole de Pearson est\nc\nF\n8\n.",
+   "sentence": "Son groupe d'espace est Fd3m, son symbole de Pearson est\nc\nF\n8\n.",
    "section": "Propriétés"
   },
-  "f52": {
+  "f42": {
    "kind": "measure",
    "value": 0.3566,
    "unit": "nm",
@@ -423,63 +355,63 @@
    "sentence": "Son paramètre de maille est a = 0,3566 nm.",
    "section": "Propriétés"
   },
-  "f53": {
+  "f43": {
    "kind": "number",
    "value": 0.04537,
    "surface": "0,04537",
    "sentence": "Le volume d'une maille est de 0,04537 nm3, la densité théorique est de 3,517.",
    "section": "Propriétés"
   },
-  "f54": {
+  "f44": {
    "kind": "number",
    "value": 3.517,
    "surface": "3,517",
    "sentence": "Le volume d'une maille est de 0,04537 nm3, la densité théorique est de 3,517.",
    "section": "Propriétés"
   },
-  "f55": {
+  "f45": {
    "kind": "number",
    "value": 7.5,
    "surface": "7,5",
    "sentence": "La ténacité d'un diamant naturel a été mesurée à 7,5-10 MPa m½.",
    "section": "Propriétés"
   },
-  "f56": {
+  "f46": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Cette valeur est bonne en comparaison d'autres matériaux céramiques mais faible comparée aux matériaux utilisés en ingénierie dont les alliages atteignent des ténacités supérieures à 100 MPa m½.",
    "section": "Propriétés"
   },
-  "f57": {
+  "f47": {
    "kind": "date",
    "value": "500",
    "surface": "500",
-   "sentence": "Des valeurs de 500 W/(m·K) ont été mesurées, que l'on peut comparer aux 401 W/(m·K) du cuivre et aux 429 W/(m·K) de l'argent.",
+   "sentence": "Des valeurs de 500 W/ ont été mesurées, que l'on peut comparer aux 401 W/ du cuivre et aux 429 W/ de l'argent.",
    "section": "Propriétés"
   },
-  "f58": {
+  "f48": {
    "kind": "number",
    "value": 401,
    "surface": "401",
-   "sentence": "Des valeurs de 500 W/(m·K) ont été mesurées, que l'on peut comparer aux 401 W/(m·K) du cuivre et aux 429 W/(m·K) de l'argent.",
+   "sentence": "Des valeurs de 500 W/ ont été mesurées, que l'on peut comparer aux 401 W/ du cuivre et aux 429 W/ de l'argent.",
    "section": "Propriétés"
   },
-  "f59": {
+  "f49": {
    "kind": "number",
    "value": 429,
    "surface": "429",
-   "sentence": "Des valeurs de 500 W/(m·K) ont été mesurées, que l'on peut comparer aux 401 W/(m·K) du cuivre et aux 429 W/(m·K) de l'argent.",
+   "sentence": "Des valeurs de 500 W/ ont été mesurées, que l'on peut comparer aux 401 W/ du cuivre et aux 429 W/ de l'argent.",
    "section": "Propriétés"
   },
-  "f60": {
+  "f50": {
    "kind": "number",
    "value": 1.2,
    "surface": "1,2",
    "sentence": "Pour le diamant pur, l'accroissement relatif de longueur par degré est d'environ un millionième à température ambiante, que l'on peut comparer aux 1,2 millionièmes de l'Invar, alliage constitué de 64 % de fer et de 36 % de nickel, qui est réputé pour sa très faible dilatation.",
    "section": "Propriétés"
   },
-  "f61": {
+  "f51": {
    "kind": "measure",
    "value": 64,
    "unit": "%",
@@ -487,7 +419,7 @@
    "sentence": "Pour le diamant pur, l'accroissement relatif de longueur par degré est d'environ un millionième à température ambiante, que l'on peut comparer aux 1,2 millionièmes de l'Invar, alliage constitué de 64 % de fer et de 36 % de nickel, qui est réputé pour sa très faible dilatation.",
    "section": "Propriétés"
   },
-  "f62": {
+  "f52": {
    "kind": "measure",
    "value": 36,
    "unit": "%",
@@ -495,14 +427,14 @@
    "sentence": "Pour le diamant pur, l'accroissement relatif de longueur par degré est d'environ un millionième à température ambiante, que l'on peut comparer aux 1,2 millionièmes de l'Invar, alliage constitué de 64 % de fer et de 36 % de nickel, qui est réputé pour sa très faible dilatation.",
    "section": "Propriétés"
   },
-  "f63": {
+  "f53": {
    "kind": "number",
    "value": 11.7,
    "surface": "11,7",
    "sentence": "Le fer est très loin derrière, avec 11,7 millionièmes.",
    "section": "Propriétés"
   },
-  "f64": {
+  "f54": {
    "kind": "measure",
    "value": 1.1,
    "unit": "%",
@@ -510,71 +442,39 @@
    "sentence": "La conductivité des diamants naturels est réduite de 1,1 % par le carbone 13 naturellement présent, qui déshomogénéise la structure.",
    "section": "Propriétés"
   },
-  "f65": {
+  "f55": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "La conductivité des diamants naturels est réduite de 1,1 % par le carbone 13 naturellement présent, qui déshomogénéise la structure.",
    "section": "Propriétés"
   },
-  "f66": {
+  "f56": {
    "kind": "number",
    "value": 2.407,
    "surface": "2,407",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
+   "sentence": "Cet indice est de:\n2,407 pour la lumière rouge;\n2,417 pour la lumière jaune;\n2,426 pour la lumière verte;\n2,451 pour la lumière violette.",
    "section": "Propriétés"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 687,
-   "unit": "nm",
-   "surface": "687 nm",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
-   "section": "Propriétés"
-  },
-  "f68": {
+  "f57": {
    "kind": "number",
    "value": 2.417,
    "surface": "2,417",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
+   "sentence": "Cet indice est de:\n2,407 pour la lumière rouge;\n2,417 pour la lumière jaune;\n2,426 pour la lumière verte;\n2,451 pour la lumière violette.",
    "section": "Propriétés"
   },
-  "f69": {
-   "kind": "measure",
-   "value": 589,
-   "unit": "nm",
-   "surface": "589 nm",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
-   "section": "Propriétés"
-  },
-  "f70": {
+  "f58": {
    "kind": "number",
    "value": 2.426,
    "surface": "2,426",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
+   "sentence": "Cet indice est de:\n2,407 pour la lumière rouge;\n2,417 pour la lumière jaune;\n2,426 pour la lumière verte;\n2,451 pour la lumière violette.",
    "section": "Propriétés"
   },
-  "f71": {
-   "kind": "measure",
-   "value": 527,
-   "unit": "nm",
-   "surface": "527 nm",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
-   "section": "Propriétés"
-  },
-  "f72": {
+  "f59": {
    "kind": "number",
    "value": 2.451,
    "surface": "2,451",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
-   "section": "Propriétés"
-  },
-  "f73": {
-   "kind": "measure",
-   "value": 431,
-   "unit": "nm",
-   "surface": "431 nm",
-   "sentence": "Cet indice est de :\n2,407 pour la lumière rouge (687 nm) ;\n2,417 pour la lumière jaune (589 nm) ;\n2,426 pour la lumière verte (527 nm) ;\n2,451 pour la lumière violette (431 nm).",
+   "sentence": "Cet indice est de:\n2,407 pour la lumière rouge;\n2,417 pour la lumière jaune;\n2,426 pour la lumière verte;\n2,451 pour la lumière violette.",
    "section": "Propriétés"
   }
  },

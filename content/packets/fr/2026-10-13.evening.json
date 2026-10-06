@@ -61,137 +61,109 @@
    "kind": "date",
    "value": "1965",
    "surface": "1965",
-   "sentence": "En 1965, les premières observations en rayon X eurent lieux grâce au programme Aerobee et permit d'identifier 8 source astrophysique de rayon X, dont Cygnus X-1 (1re source X répertoriée dans la constellation du Cygne).",
+   "sentence": "En 1965, les premières observations en rayon X eurent lieux grâce au programme Aerobee et permit d'identifier 8 source astrophysique de rayon X, dont Cygnus X-1.",
    "section": "Découverte"
   },
   "f2": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "En 1965, les premières observations en rayon X eurent lieux grâce au programme Aerobee et permit d'identifier 8 source astrophysique de rayon X, dont Cygnus X-1 (1re source X répertoriée dans la constellation du Cygne).",
+   "sentence": "En 1965, les premières observations en rayon X eurent lieux grâce au programme Aerobee et permit d'identifier 8 source astrophysique de rayon X, dont Cygnus X-1.",
    "section": "Découverte"
   },
   "f3": {
-   "kind": "number",
-   "value": 226868,
-   "surface": "226868",
-   "sentence": "Parmi les sources d’intérêt, une étoile, HD 226868, fut repérée par Louise Webster et Paul Murdin en orbite autour d'une des sources de rayons X.\nJusqu'au milieu du XXe siècle, les trous noirs n'étaient que des prédictions mathématiques de la relativité générale.",
-   "section": "Découverte"
-  },
-  "f4": {
-   "kind": "number",
-   "value": 226868,
-   "surface": "226868",
-   "sentence": "Les scientifiques en faveur des trous noirs[Qui ?] proposèrent à l'époque l'idée selon laquelle l'étoile HD 226868 était en orbite très serrée autour du trou noir et que de la matière qui lui était arrachée spiralait vers le trou noir, puis, atteignant son horizon, provoquait des émissions de rayons X particulièrement importantes.",
-   "section": "Découverte"
-  },
-  "f5": {
    "kind": "date",
    "value": "1971",
    "surface": "1971",
    "sentence": "Les observations du satellite Uhuru en 1971 relancèrent le débat scientifique à propos de Cygnus X-1.",
    "section": "Découverte"
   },
-  "f6": {
+  "f4": {
    "kind": "number",
    "value": 5.6,
    "surface": "5,6",
-   "sentence": "Le satellite Uhuru permit de déterminer avec précision cette période de révolution : 5,6 jours.",
+   "sentence": "Le satellite Uhuru permit de déterminer avec précision cette période de révolution: 5,6 jours.",
    "section": "Découverte"
   },
-  "f7": {
+  "f5": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Ainsi fut précisée la valeur de 6 masses solaires comme masse minimale pour le corps invisible.",
    "section": "Découverte"
   },
-  "f8": {
+  "f6": {
    "kind": "number",
    "value": 8.9,
    "surface": "8,9",
-   "sentence": "L'étoile variable du système à une magnitude apparente de +8,9 (donc visible à l'œil avec de bonnes jumelles et dans de bonnes conditions).",
+   "sentence": "L'étoile variable du système à une magnitude apparente de +8,9.",
    "section": "Caractéristiques physiques"
   },
-  "f9": {
+  "f7": {
    "kind": "measure",
    "value": 58,
    "unit": "m",
    "surface": "58m",
-   "sentence": "Les coordonnées de Cyg X-1 sont : ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″ (pour l'époque J2000.0).",
+   "sentence": "Les coordonnées de Cyg X-1 sont: ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″.",
+   "section": "Caractéristiques physiques"
+  },
+  "f8": {
+   "kind": "number",
+   "value": 35,
+   "surface": "35",
+   "sentence": "Les coordonnées de Cyg X-1 sont: ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″.",
+   "section": "Caractéristiques physiques"
+  },
+  "f9": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "Les coordonnées de Cyg X-1 sont: ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″.",
    "section": "Caractéristiques physiques"
   },
   "f10": {
    "kind": "number",
-   "value": 35,
-   "surface": "35",
-   "sentence": "Les coordonnées de Cyg X-1 sont : ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″ (pour l'époque J2000.0).",
+   "value": 5.77,
+   "surface": "05,77",
+   "sentence": "Les coordonnées de Cyg X-1 sont: ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″.",
    "section": "Caractéristiques physiques"
   },
   "f11": {
    "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Les coordonnées de Cyg X-1 sont : ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″ (pour l'époque J2000.0).",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Le type spectral du compagnon stellaire dans Cyg X-1 est O9-B0, et une classe de luminosité I. La masse de cette étoile est autour de 20 à 30 masses solaires.",
    "section": "Caractéristiques physiques"
   },
   "f12": {
    "kind": "number",
-   "value": 5.77,
-   "surface": "05,77",
-   "sentence": "Les coordonnées de Cyg X-1 sont : ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″ (pour l'époque J2000.0).",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Le type spectral du compagnon stellaire dans Cyg X-1 est O9-B0, et une classe de luminosité I. La masse de cette étoile est autour de 20 à 30 masses solaires.",
    "section": "Caractéristiques physiques"
   },
   "f13": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "Les coordonnées de Cyg X-1 sont : ascension droite 19h 58m 21,67s et déclinaison 35° 12′ 05,77″ (pour l'époque J2000.0).",
-   "section": "Caractéristiques physiques"
-  },
-  "f14": {
-   "kind": "number",
-   "value": 20,
-   "surface": "20",
-   "sentence": "La masse de cette étoile est autour de 20 à 30 masses solaires.",
-   "section": "Caractéristiques physiques"
-  },
-  "f15": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "La masse de cette étoile est autour de 20 à 30 masses solaires.",
-   "section": "Caractéristiques physiques"
-  },
-  "f16": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Le trou noir a une masse comprise entre 7 et 13\nM\n⊙\n}\n.",
    "section": "Caractéristiques physiques"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Le trou noir a une masse comprise entre 7 et 13\nM\n⊙\n}\n.",
    "section": "Caractéristiques physiques"
   },
-  "f18": {
-   "kind": "number",
-   "value": 20,
-   "surface": "20",
-   "sentence": "Cyg X-1 est l'une des sources persistantes dans les rayons X durs (c'est-à-dire avec une énergie plus grande que 20 keV) les plus brillantes du ciel.",
-   "section": "Caractéristiques physiques"
-  },
-  "f19": {
+  "f15": {
    "kind": "number",
    "value": 1860,
    "surface": "1 860",
    "sentence": "Cyg X-1 est située à environ 1 860 parsecs, ou à peu près 6 000 années-lumière, de distance, telle que mesurée avec le VLBA entre 2009 et 2010.",
    "section": "Caractéristiques physiques"
   },
-  "f20": {
+  "f16": {
    "kind": "measure",
    "value": 6000,
    "unit": "années-lumière",
@@ -199,21 +171,21 @@
    "sentence": "Cyg X-1 est située à environ 1 860 parsecs, ou à peu près 6 000 années-lumière, de distance, telle que mesurée avec le VLBA entre 2009 et 2010.",
    "section": "Caractéristiques physiques"
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Cyg X-1 est située à environ 1 860 parsecs, ou à peu près 6 000 années-lumière, de distance, telle que mesurée avec le VLBA entre 2009 et 2010.",
    "section": "Caractéristiques physiques"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Cyg X-1 est située à environ 1 860 parsecs, ou à peu près 6 000 années-lumière, de distance, telle que mesurée avec le VLBA entre 2009 et 2010.",
    "section": "Caractéristiques physiques"
   },
-  "f23": {
+  "f19": {
    "kind": "measure",
    "value": 60,
    "unit": "km",
@@ -221,21 +193,21 @@
    "sentence": "Le trou noir de Cygnus X-1 fait environ 60 km de diamètre.",
    "section": "Caractéristiques physiques"
   },
-  "f24": {
+  "f20": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Jusqu'en 2011, les astronomes pensaient que le trou noir stellaire de Cygnus X-1 était explicable par l'explosion d'une supernova de type SN II, à partir d'une étoile au moins 30 fois plus massive que le Soleil.",
    "section": "Formation"
   },
-  "f25": {
+  "f21": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Jusqu'en 2011, les astronomes pensaient que le trou noir stellaire de Cygnus X-1 était explicable par l'explosion d'une supernova de type SN II, à partir d'une étoile au moins 30 fois plus massive que le Soleil.",
    "section": "Formation"
   },
-  "f26": {
+  "f22": {
    "kind": "measure",
    "value": 6070,
    "unit": "années-lumière",
@@ -243,35 +215,35 @@
    "sentence": "Des mesures de vitesses plus précises, et la localisation par le VLBA de ce système stellaire, situé à 6 070 années-lumière, ainsi que l’absence de nébuleuse, jettent une ombre sur ce premier scénario.",
    "section": "Formation"
   },
-  "f27": {
+  "f23": {
    "kind": "date",
    "value": "1977",
    "surface": "1977",
    "sentence": "En 1977, Rush enregistra une chanson à propos d'un voyage imaginaire vers Cygnus X-1.",
    "section": "Dans la culture"
   },
-  "f28": {
+  "f24": {
    "kind": "date",
    "value": "1978",
    "surface": "1978",
-   "sentence": "Une suite à cette chanson Cygnus X-1 Book II: Hemispheres (en) est donnée en 1978 dans leur album Hemispheres qui explore les possibilités d'un « autre côté » symbolique de Cygnus X-1.",
+   "sentence": "Une suite à cette chanson Cygnus X-1 Book II: Hemispheres est donnée en 1978 dans leur album Hemispheres qui explore les possibilités d'un «autre côté» symbolique de Cygnus X-1.",
    "section": "Dans la culture"
   },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "En 1993, Matthias Matthew Hoffmann utilise le pseudonyme de Cygnus X pour composer ses musiques Trance dont le titre le plus connu s'appelle The Orange Theme.",
    "section": "Dans la culture"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "En 1998, l'album Gold de Bethany Curve (it) contient aussi une chanson appelée Cygnus X-1.",
+   "sentence": "En 1998, l'album Gold de Bethany Curve contient aussi une chanson appelée Cygnus X-1.",
    "section": "Dans la culture"
   },
-  "f31": {
+  "f27": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",

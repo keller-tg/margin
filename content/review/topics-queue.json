@@ -68,6 +68,35 @@
     "slot": "evening"
    },
    "addedAt": "2026-10-06T09:47:04.012Z"
+  },
+  {
+   "lang": "fr",
+   "qid": "Q1361",
+   "title": "Hyderabad",
+   "status": "review",
+   "source": "word-scan",
+   "reasons": [
+    "word scan: bombe"
+   ],
+   "hits": [
+    {
+     "pace": "deep",
+     "page": 11,
+     "word": "bombe",
+     "text": "L’année 2007 est marquée par plusieurs attentats à la bombe : 18 mai, une puissante bombe tue 11 personnes et en blesse une cinquantaine à la Mecca Masjid, proche de Charminar, alors que des centaines de musulmans étaient à la prière."
+    },
+    {
+     "pace": "deep",
+     "page": 11,
+     "word": "bombe",
+     "text": "L’année 2007 est marquée par plusieurs attentats à la bombe : 18 mai, une puissante bombe tue 11 personnes et en blesse une cinquantaine à la Mecca Masjid, proche de Charminar, alors que des centaines de musulmans étaient à la prière."
+    }
+   ],
+   "pickedFor": {
+    "date": "2026-11-01",
+    "slot": "morning"
+   },
+   "addedAt": "2026-10-06T09:47:07.365Z"
   }
  ]
 }

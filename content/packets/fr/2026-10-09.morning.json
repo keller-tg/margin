@@ -66,261 +66,210 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "Certaines sont connues pour leur capacité à vivre dans des conditions extrêmes et occupent des niches écologiques qu'elles sont souvent seules à occuper (pH proche de 0, température supérieure à 100 °C, salinité élevée par exemple), mais il existe beaucoup d'Archées vivant dans des biotopes plus courants et très variés comme le sol, les lacs, la mer ou l'intestin des animaux.",
-   "section": "Description"
-  },
-  "f2": {
-   "kind": "measure",
-   "value": 100,
-   "unit": "°c",
-   "surface": "100 °C",
-   "sentence": "Certaines sont connues pour leur capacité à vivre dans des conditions extrêmes et occupent des niches écologiques qu'elles sont souvent seules à occuper (pH proche de 0, température supérieure à 100 °C, salinité élevée par exemple), mais il existe beaucoup d'Archées vivant dans des biotopes plus courants et très variés comme le sol, les lacs, la mer ou l'intestin des animaux.",
-   "section": "Description"
-  },
-  "f3": {
    "kind": "date",
    "value": "1965",
    "surface": "1965",
    "sentence": "Cependant, une nouvelle approche a été proposée en 1965 qui permet d'étudier les liens de parenté entre les procaryotes en utilisant les séquences des gènes de ces organismes.",
    "section": "Classification"
   },
-  "f4": {
+  "f2": {
    "kind": "date",
    "value": "1965",
    "surface": "1965",
    "sentence": "D'apparence souvent semblable aux bactéries, les Archées ont longtemps été considérés comme des bactéries extrémophiles particulières, jusqu'à ce que les recherches phylogénétiques sur les procaryotes, commencées en 1965, aboutissent, avec les travaux de Carl Woese et George E. Fox, à la publication en 1977 d'un arbre phylogénétique fondé sur les séquences d'ARN ribosomique 16S des gènes des organismes étudiés.",
    "section": "Classification"
   },
-  "f5": {
+  "f3": {
    "kind": "date",
    "value": "1977",
    "surface": "1977",
    "sentence": "D'apparence souvent semblable aux bactéries, les Archées ont longtemps été considérés comme des bactéries extrémophiles particulières, jusqu'à ce que les recherches phylogénétiques sur les procaryotes, commencées en 1965, aboutissent, avec les travaux de Carl Woese et George E. Fox, à la publication en 1977 d'un arbre phylogénétique fondé sur les séquences d'ARN ribosomique 16S des gènes des organismes étudiés.",
    "section": "Classification"
   },
-  "f6": {
+  "f4": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
-   "sentence": "De ce fait, les Archées ont été considérées comme des extrémophiles qui n'existaient que dans les habitats tels que les sources chaudes et les lacs salés : Woese découvre en 1979 les hyperhalophiles (genre Halobacterium) puis les thermoacidophiles (Thermoplasma acidophilum, Sulfolobus acidocaldarius), Karl Stetter isole en 1981 une espèce d’Archées anaérobies hyperthermophiles, Pyrococcus furiosus.",
+   "sentence": "De ce fait, les Archées ont été considérées comme des extrémophiles qui n'existaient que dans les habitats tels que les sources chaudes et les lacs salés: Woese découvre en 1979 les hyperhalophiles puis les thermoacidophiles, Karl Stetter isole en 1981 une espèce d’Archées anaérobies hyperthermophiles, Pyrococcus furiosus.",
+   "section": "Classification"
+  },
+  "f5": {
+   "kind": "date",
+   "value": "1981",
+   "surface": "1981",
+   "sentence": "De ce fait, les Archées ont été considérées comme des extrémophiles qui n'existaient que dans les habitats tels que les sources chaudes et les lacs salés: Woese découvre en 1979 les hyperhalophiles puis les thermoacidophiles, Karl Stetter isole en 1981 une espèce d’Archées anaérobies hyperthermophiles, Pyrococcus furiosus.",
+   "section": "Classification"
+  },
+  "f6": {
+   "kind": "date",
+   "value": "2003",
+   "surface": "2003",
+   "sentence": "Par exemple, les espèces propres Nanoarchaeum equitans, qui ont été découvertes en 2003, ont été classées dans un nouveau phylum: Nanoarchaeota.",
    "section": "Classification"
   },
   "f7": {
    "kind": "date",
-   "value": "1981",
-   "surface": "1981",
-   "sentence": "De ce fait, les Archées ont été considérées comme des extrémophiles qui n'existaient que dans les habitats tels que les sources chaudes et les lacs salés : Woese découvre en 1979 les hyperhalophiles (genre Halobacterium) puis les thermoacidophiles (Thermoplasma acidophilum, Sulfolobus acidocaldarius), Karl Stetter isole en 1981 une espèce d’Archées anaérobies hyperthermophiles, Pyrococcus furiosus.",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "Récemment mises en évidence, d'autres espèces d'Archées, tels que les archaeal Richmond Mine acidophilic nanoorganisms, qui ont été découvertes en 2006, sont liées seulement de loin aux autres groupes antérieurement connus.",
    "section": "Classification"
   },
   "f8": {
-   "kind": "date",
-   "value": "2003",
-   "surface": "2003",
-   "sentence": "Par exemple, les espèces propres Nanoarchaeum equitans, qui ont été découvertes en 2003, ont été classées dans un nouveau phylum : Nanoarchaeota.",
-   "section": "Classification"
-  },
-  "f9": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Récemment mises en évidence, d'autres espèces d'Archées, tels que les archaeal Richmond Mine acidophilic nanoorganisms (ARMAN), qui ont été découvertes en 2006, sont liées seulement de loin aux autres groupes antérieurement connus.",
-   "section": "Classification"
-  },
-  "f10": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Le superphylum TACK a été proposé en 2011, pour regrouper les Thaumarchaeota, Aigarchaeota, Crenarchaeota et Korarchaeota.",
    "section": "Classification"
   },
-  "f11": {
+  "f9": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "L'espèce d’Archées Loki, identifiée en 2015 par son génome qualifié de Candidatus en nomenclature bactérienne, appartiendrait, du point de vue phylogénétique, à l'embranchement le plus proche des eucaryotes.",
    "section": "Classification"
   },
-  "f12": {
+  "f10": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Les Archées Odin, Thor et Heimdall, formeraient, avec Loki, le super-embranchement Candidatus \"Asgard\", proposé en 2017 d'après le nom du royaume des dieux de la mythologie nordique.",
    "section": "Classification"
   },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "Selon LPSN\nCrenarchaeota\nEuryarchaeota\nKorarchaeota\nNanoarchaeota\nThaumarchaeota\net proposés\nAenigmarchaeota (es)\nAigarchaeota\nAltiarchaeota\nBathyarchaeota (es)\nDiapherotrites (es)\nGeoarchaeota (es)\nGeothermarchaeota\nHeimdallarchaeota\nHelarchaeota\nHydrothermarchaeota\nLokiarchaeota\nMamarchaeota\nMarsarchaeota\nMicrarchaeota (es)\nNanohaloarchaeota\nNezhaarchaeota\nOdinarchaeota\nPacearchaeota (es)\nParvarchaeota (es)\nThorarchaeota\nVerstraetearchaeota\nWoesearchaeota (es)\nEn janvier 2024, sur la base de cette cladistique et dans une perspective de classification classique interne aux procaryotes, le « domaine » Archaea est subdivisé en 4 règnes :\nNanobdellati (ex DPAN)\nMethanobacteriati (ex Euryarchaeota)\nThermoproteati (ex TACK)\nPromethearchaeati (Archées d'Asgård)\nQuelques mois après, une nouvelle arborescence est publiée, qui remet en cause la monophylie des deux règnes basaux.",
+   "sentence": "Selon LPSN\nCrenarchaeota\nEuryarchaeota\nKorarchaeota\nNanoarchaeota\nThaumarchaeota\net proposés\nAenigmarchaeota\nAigarchaeota\nAltiarchaeota\nBathyarchaeota\nDiapherotrites\nGeoarchaeota\nGeothermarchaeota\nHeimdallarchaeota\nHelarchaeota\nHydrothermarchaeota\nLokiarchaeota\nMamarchaeota\nMarsarchaeota\nMicrarchaeota\nNanohaloarchaeota\nNezhaarchaeota\nOdinarchaeota\nPacearchaeota\nParvarchaeota\nThorarchaeota\nVerstraetearchaeota\nWoesearchaeota\nEn janvier 2024, sur la base de cette cladistique et dans une perspective de classification classique interne aux procaryotes, le «domaine» Archaea est subdivisé en 4 règnes:\nNanobdellati\nMethanobacteriati\nThermoproteati\nPromethearchaeati\nQuelques mois après, une nouvelle arborescence est publiée, qui remet en cause la monophylie des deux règnes basaux.",
+   "section": "Classification"
+  },
+  "f12": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Selon LPSN\nCrenarchaeota\nEuryarchaeota\nKorarchaeota\nNanoarchaeota\nThaumarchaeota\net proposés\nAenigmarchaeota\nAigarchaeota\nAltiarchaeota\nBathyarchaeota\nDiapherotrites\nGeoarchaeota\nGeothermarchaeota\nHeimdallarchaeota\nHelarchaeota\nHydrothermarchaeota\nLokiarchaeota\nMamarchaeota\nMarsarchaeota\nMicrarchaeota\nNanohaloarchaeota\nNezhaarchaeota\nOdinarchaeota\nPacearchaeota\nParvarchaeota\nThorarchaeota\nVerstraetearchaeota\nWoesearchaeota\nEn janvier 2024, sur la base de cette cladistique et dans une perspective de classification classique interne aux procaryotes, le «domaine» Archaea est subdivisé en 4 règnes:\nNanobdellati\nMethanobacteriati\nThermoproteati\nPromethearchaeati\nQuelques mois après, une nouvelle arborescence est publiée, qui remet en cause la monophylie des deux règnes basaux.",
+   "section": "Classification"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "2017",
+   "surface": "2017",
+   "sentence": "2017, Castelle & Banfield et la version 10-RS226 de GTDB.",
    "section": "Classification"
   },
   "f14": {
    "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Selon LPSN\nCrenarchaeota\nEuryarchaeota\nKorarchaeota\nNanoarchaeota\nThaumarchaeota\net proposés\nAenigmarchaeota (es)\nAigarchaeota\nAltiarchaeota\nBathyarchaeota (es)\nDiapherotrites (es)\nGeoarchaeota (es)\nGeothermarchaeota\nHeimdallarchaeota\nHelarchaeota\nHydrothermarchaeota\nLokiarchaeota\nMamarchaeota\nMarsarchaeota\nMicrarchaeota (es)\nNanohaloarchaeota\nNezhaarchaeota\nOdinarchaeota\nPacearchaeota (es)\nParvarchaeota (es)\nThorarchaeota\nVerstraetearchaeota\nWoesearchaeota (es)\nEn janvier 2024, sur la base de cette cladistique et dans une perspective de classification classique interne aux procaryotes, le « domaine » Archaea est subdivisé en 4 règnes :\nNanobdellati (ex DPAN)\nMethanobacteriati (ex Euryarchaeota)\nThermoproteati (ex TACK)\nPromethearchaeati (Archées d'Asgård)\nQuelques mois après, une nouvelle arborescence est publiée, qui remet en cause la monophylie des deux règnes basaux.",
+   "value": 10,
+   "surface": "10",
+   "sentence": "2017, Castelle & Banfield et la version 10-RS226 de GTDB.",
    "section": "Classification"
   },
   "f15": {
-   "kind": "date",
-   "value": "2017",
-   "surface": "2017",
-   "sentence": "2017, Castelle & Banfield (2018) et la version 10-RS226 de GTDB (16 avril 2025).",
-   "section": "Classification"
-  },
-  "f16": {
-   "kind": "date",
-   "value": "2018",
-   "surface": "2018",
-   "sentence": "2017, Castelle & Banfield (2018) et la version 10-RS226 de GTDB (16 avril 2025).",
-   "section": "Classification"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "2017, Castelle & Banfield (2018) et la version 10-RS226 de GTDB (16 avril 2025).",
-   "section": "Classification"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 16,
-   "surface": "16",
-   "sentence": "2017, Castelle & Banfield (2018) et la version 10-RS226 de GTDB (16 avril 2025).",
-   "section": "Classification"
-  },
-  "f19": {
-   "kind": "date",
-   "value": "2025",
-   "surface": "2025",
-   "sentence": "2017, Castelle & Banfield (2018) et la version 10-RS226 de GTDB (16 avril 2025).",
-   "section": "Classification"
-  },
-  "f20": {
    "kind": "number",
    "value": 3500000000,
    "surface": "3,5 milliards",
    "sentence": "Bien que les fossiles connus de cellules procaryotes aient été datés de près de 3,5 milliards d'années, la plupart des procaryotes n'ont pas de morphologies distinctives et les formes des fossiles ne peuvent pas être utilisées pour les identifier comme étant des Archées.",
    "section": "Origine et évolution"
   },
-  "f21": {
+  "f16": {
    "kind": "number",
    "value": 2700000000,
    "surface": "2,7 milliards",
    "sentence": "Certaines publications ont suggéré que des lipides fossiles provenant de procaryotes ou d'eucaryotes étaient présents dans les schistes datant de 2,7 milliards d'années.",
    "section": "Origine et évolution"
   },
-  "f22": {
+  "f17": {
    "kind": "number",
    "value": 3800000000,
    "surface": "3,8 milliards",
    "sentence": "Les plus anciennes traces connues de ces lipides isopréniques proviennent des roches de la formation d'Isua à l'ouest du Groenland, qui comprennent des sédiments formés il y a 3,8 milliards d'années et qui sont les plus anciens sur Terre.",
    "section": "Origine et évolution"
   },
-  "f23": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Une fossilisation expérimentale est partie du principe que les premiers fossiles ( 3 Ga) se sont formés par silicification, c'est-à-dire via la précipitation de silice sur des structures cellulaires).",
-   "section": "Origine et évolution"
-  },
-  "f24": {
+  "f18": {
    "kind": "number",
    "value": 5751492,
    "surface": "5 751 492",
-   "sentence": "Le plus grand génome archéen séquencé à ce jour est celui de Methanosarcina acetivorans avec 5 751 492 paires de bases (pb) alors que le génome de Nanoarchaeum equitans, le plus petit séquencé en 2003, fait un dixième de cette taille avec seulement 490 885 pb.",
+   "sentence": "Le plus grand génome archéen séquencé à ce jour est celui de Methanosarcina acetivorans avec 5 751 492 paires de bases alors que le génome de Nanoarchaeum equitans, le plus petit séquencé en 2003, fait un dixième de cette taille avec seulement 490 885 pb.",
    "section": "Génome et génétique"
   },
-  "f25": {
+  "f19": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
-   "sentence": "Le plus grand génome archéen séquencé à ce jour est celui de Methanosarcina acetivorans avec 5 751 492 paires de bases (pb) alors que le génome de Nanoarchaeum equitans, le plus petit séquencé en 2003, fait un dixième de cette taille avec seulement 490 885 pb.",
+   "sentence": "Le plus grand génome archéen séquencé à ce jour est celui de Methanosarcina acetivorans avec 5 751 492 paires de bases alors que le génome de Nanoarchaeum equitans, le plus petit séquencé en 2003, fait un dixième de cette taille avec seulement 490 885 pb.",
    "section": "Génome et génétique"
   },
-  "f26": {
+  "f20": {
    "kind": "number",
    "value": 490885,
    "surface": "490 885",
-   "sentence": "Le plus grand génome archéen séquencé à ce jour est celui de Methanosarcina acetivorans avec 5 751 492 paires de bases (pb) alors que le génome de Nanoarchaeum equitans, le plus petit séquencé en 2003, fait un dixième de cette taille avec seulement 490 885 pb.",
+   "sentence": "Le plus grand génome archéen séquencé à ce jour est celui de Methanosarcina acetivorans avec 5 751 492 paires de bases alors que le génome de Nanoarchaeum equitans, le plus petit séquencé en 2003, fait un dixième de cette taille avec seulement 490 885 pb.",
    "section": "Génome et génétique"
   },
-  "f27": {
+  "f21": {
    "kind": "date",
    "value": "537",
    "surface": "537",
    "sentence": "Il est estimé que le génome de Nanoarchaeum equitans comporte 537 gènes codant des protéines.",
    "section": "Génome et génétique"
   },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
-   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile : 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
+   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile: 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
    "section": "Génome et génétique"
   },
-  "f29": {
+  "f23": {
    "kind": "number",
    "value": 238,
    "surface": "238",
-   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile : 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
+   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile: 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
    "section": "Génome et génétique"
   },
-  "f30": {
+  "f24": {
    "kind": "number",
    "value": 222,
    "surface": "222",
-   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile : 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
+   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile: 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
    "section": "Génome et génétique"
   },
-  "f31": {
+  "f25": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile : 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
+   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile: 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
    "section": "Génome et génétique"
   },
-  "f32": {
+  "f26": {
    "kind": "number",
    "value": 31,
    "surface": "31",
-   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile : 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
+   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile: 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
    "section": "Génome et génétique"
   },
-  "f33": {
+  "f27": {
    "kind": "number",
    "value": 189,
    "surface": "189",
-   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile : 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
+   "sentence": "En 2025, ce record est battu par une nouvelle espèce d’Archées, Candidatus Sukunaarchaeum mirabile: 238 kilopaires de bases comportant 222 gènes, codant 2 ARN ribosomiques, 31 ARN de transfert et 189 protéines.",
    "section": "Génome et génétique"
   },
-  "f34": {
+  "f28": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
-   "sentence": "Ce sont des êtres unicellulaires avec une taille variant entre 0,1 et 15 µm, mais certains se développent pour former des filaments ou des agrégats (filaments jusqu'à 200 µm).",
+   "sentence": "Ce sont des êtres unicellulaires avec une taille variant entre 0,1 et 15 µm, mais certains se développent pour former des filaments ou des agrégats.",
    "section": "Diversité des Archées, habitat"
   },
-  "f35": {
+  "f29": {
    "kind": "measure",
    "value": 15,
    "unit": "µm",
    "surface": "15 µm",
-   "sentence": "Ce sont des êtres unicellulaires avec une taille variant entre 0,1 et 15 µm, mais certains se développent pour former des filaments ou des agrégats (filaments jusqu'à 200 µm).",
+   "sentence": "Ce sont des êtres unicellulaires avec une taille variant entre 0,1 et 15 µm, mais certains se développent pour former des filaments ou des agrégats.",
    "section": "Diversité des Archées, habitat"
   },
-  "f36": {
-   "kind": "measure",
-   "value": 200,
-   "unit": "µm",
-   "surface": "200 µm",
-   "sentence": "Ce sont des êtres unicellulaires avec une taille variant entre 0,1 et 15 µm, mais certains se développent pour former des filaments ou des agrégats (filaments jusqu'à 200 µm).",
-   "section": "Diversité des Archées, habitat"
-  },
-  "f37": {
+  "f30": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
@@ -328,7 +277,7 @@
    "sentence": "Elles peuvent contribuer jusqu'à 20 % des cellules microbiennes dans les océans.",
    "section": "Diversité des Archées, habitat"
   },
-  "f38": {
+  "f31": {
    "kind": "measure",
    "value": 100,
    "unit": "°c",
@@ -336,31 +285,31 @@
    "sentence": "En effet, certaines Archées vivent à des températures élevées, souvent supérieures à 100 °C, que l'on rencontre dans les geysers, les fumeurs noirs et des puits de pétrole.",
    "section": "Diversité des Archées, habitat"
   },
-  "f39": {
+  "f32": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %",
-   "sentence": "Les halophiles, par exemple le genre Halobacterium, vivent dans des environnements salins, tels que les lacs salés (Grand Lac Salé de l'Utah), le littoral marin, les marais salants, la mer Morte, avec des concentrations en sel jusqu'à 25 %.",
+   "sentence": "Les halophiles, par exemple le genre Halobacterium, vivent dans des environnements salins, tels que les lacs salés, le littoral marin, les marais salants, la mer Morte, avec des concentrations en sel jusqu'à 25 %.",
    "section": "Diversité des Archées, habitat"
   },
-  "f40": {
+  "f33": {
    "kind": "measure",
    "value": 45,
    "unit": "°c",
    "surface": "45 °C",
-   "sentence": "Les thermophiles se développent mieux à des températures supérieures à 45 °C, dans des lieux tels que les sources d'eau chaude ; les Archées hyperthermophiles sont définies comme celles qui se développent au mieux à une température supérieure à 80 °C.",
+   "sentence": "Les thermophiles se développent mieux à des températures supérieures à 45 °C, dans des lieux tels que les sources d'eau chaude; les Archées hyperthermophiles sont définies comme celles qui se développent au mieux à une température supérieure à 80 °C.",
    "section": "Diversité des Archées, habitat"
   },
-  "f41": {
+  "f34": {
    "kind": "measure",
    "value": 80,
    "unit": "°c",
    "surface": "80 °C",
-   "sentence": "Les thermophiles se développent mieux à des températures supérieures à 45 °C, dans des lieux tels que les sources d'eau chaude ; les Archées hyperthermophiles sont définies comme celles qui se développent au mieux à une température supérieure à 80 °C.",
+   "sentence": "Les thermophiles se développent mieux à des températures supérieures à 45 °C, dans des lieux tels que les sources d'eau chaude; les Archées hyperthermophiles sont définies comme celles qui se développent au mieux à une température supérieure à 80 °C.",
    "section": "Diversité des Archées, habitat"
   },
-  "f42": {
+  "f35": {
    "kind": "measure",
    "value": 113,
    "unit": "°c",
@@ -368,14 +317,14 @@
    "sentence": "Pyrolobus fumarii est capable de se multiplier jusqu'à 113 °C.",
    "section": "Diversité des Archées, habitat"
   },
-  "f43": {
+  "f36": {
    "kind": "number",
    "value": 116,
    "surface": "116",
    "sentence": "Une étude récente a montré que la souche 116 de Methanopyrus kandleri pousse à 122 °C, ce qui est la température la plus élevée enregistrée à laquelle un organisme est encore capable de se développer.",
    "section": "Diversité des Archées, habitat"
   },
-  "f44": {
+  "f37": {
    "kind": "measure",
    "value": 122,
    "unit": "°c",
@@ -383,21 +332,21 @@
    "sentence": "Une étude récente a montré que la souche 116 de Methanopyrus kandleri pousse à 122 °C, ce qui est la température la plus élevée enregistrée à laquelle un organisme est encore capable de se développer.",
    "section": "Diversité des Archées, habitat"
   },
-  "f45": {
+  "f38": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "Par exemple, l'une des Archées acidophiles les plus extrêmes est Picrophilus torridus, qui croît à un pH de 0, ce qui équivaut à 1,2 mole d'acide sulfurique.",
    "section": "Diversité des Archées, habitat"
   },
-  "f46": {
+  "f39": {
    "kind": "number",
    "value": 1.2,
    "surface": "1,2",
    "sentence": "Par exemple, l'une des Archées acidophiles les plus extrêmes est Picrophilus torridus, qui croît à un pH de 0, ce qui équivaut à 1,2 mole d'acide sulfurique.",
    "section": "Diversité des Archées, habitat"
   },
-  "f47": {
+  "f40": {
    "kind": "measure",
    "value": 40,
    "unit": "%",

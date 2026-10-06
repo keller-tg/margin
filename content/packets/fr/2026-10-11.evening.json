@@ -103,7 +103,7 @@
    "kind": "number",
    "value": 6500000,
    "surface": "6,5 millions",
-   "sentence": "La demande mondiale d'acide acétique est d'environ 6,5 millions de tonnes par an (Mt/an).",
+   "sentence": "La demande mondiale d'acide acétique est d'environ 6,5 millions de tonnes par an.",
    "section": "Production"
   },
   "f6": {
@@ -115,35 +115,27 @@
   },
   "f7": {
    "kind": "measure",
-   "value": 17,
-   "unit": "°c",
-   "surface": "17 °C",
-   "sentence": "Similaire au nom allemand « Eisessig » (littéralement : vinaigre glacé), ce nom s'explique par les cristaux d'acide acétique semblables à de la glace qui se forment à une température légèrement inférieure à la température ambiante (à moins de 17 °C, température de fusion de l'acide acétique pur).",
-   "section": "Nomenclature"
-  },
-  "f8": {
-   "kind": "measure",
    "value": 3000,
    "unit": "ans",
    "surface": "3 000 ans",
    "sentence": "Le vinaigre fort est connu en Mésopotamie il y a plus de 3 000 ans av. J.-C..",
    "section": "Historique"
   },
-  "f9": {
+  "f8": {
    "kind": "date",
    "value": "1847",
    "surface": "1847",
    "sentence": "En 1847, le chimiste allemand Hermann Kolbe synthétisa l'acide acétique à partir de matières inorganiques pour la première fois.",
    "section": "Historique"
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
-   "sentence": "Vers 1910, la majorité de l'acide acétique glacial était obtenue à partir de la « liqueur pyroligneuse » issue de la distillation du bois.",
+   "sentence": "Vers 1910, la majorité de l'acide acétique glacial était obtenue à partir de la «liqueur pyroligneuse» issue de la distillation du bois.",
    "section": "Historique"
   },
-  "f11": {
+  "f10": {
    "kind": "measure",
    "value": 10000,
    "unit": "tonnes",
@@ -151,7 +143,7 @@
    "sentence": "L'Allemagne en produisait à l'époque 10 000 tonnes par an, dont 30 % était utilisé pour la production de colorant indigo.",
    "section": "Historique"
   },
-  "f12": {
+  "f11": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -159,14 +151,14 @@
    "sentence": "L'Allemagne en produisait à l'époque 10 000 tonnes par an, dont 30 % était utilisé pour la production de colorant indigo.",
    "section": "Historique"
   },
-  "f13": {
+  "f12": {
    "kind": "number",
    "value": 4.8,
    "surface": "4,8",
    "sentence": "L'acide acétique est un acide faible, mono-protonique en solution aqueuse, avec un pKa d'environ 4,8 à 25 °C.",
    "section": "Propriétés physico-chimiques"
   },
-  "f14": {
+  "f13": {
    "kind": "measure",
    "value": 25,
    "unit": "°c",
@@ -174,36 +166,36 @@
    "sentence": "L'acide acétique est un acide faible, mono-protonique en solution aqueuse, avec un pKa d'environ 4,8 à 25 °C.",
    "section": "Propriétés physico-chimiques"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 1,
    "surface": "1,0",
-   "sentence": "Une solution à 1,0 mol/L (concentration du vinaigre domestique) a un pH de 2,4, ce qui signifie que 0,4 % des molécules d'acide acétique sont dissociées.",
+   "sentence": "Une solution à 1,0 mol/L a un pH de 2,4, ce qui signifie que 0,4 % des molécules d'acide acétique sont dissociées.",
    "section": "Propriétés physico-chimiques"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 2.4,
    "surface": "2,4",
-   "sentence": "Une solution à 1,0 mol/L (concentration du vinaigre domestique) a un pH de 2,4, ce qui signifie que 0,4 % des molécules d'acide acétique sont dissociées.",
+   "sentence": "Une solution à 1,0 mol/L a un pH de 2,4, ce qui signifie que 0,4 % des molécules d'acide acétique sont dissociées.",
    "section": "Propriétés physico-chimiques"
   },
-  "f17": {
+  "f16": {
    "kind": "measure",
    "value": 0.4,
    "unit": "%",
    "surface": "0,4 %",
-   "sentence": "Une solution à 1,0 mol/L (concentration du vinaigre domestique) a un pH de 2,4, ce qui signifie que 0,4 % des molécules d'acide acétique sont dissociées.",
+   "sentence": "Une solution à 1,0 mol/L a un pH de 2,4, ce qui signifie que 0,4 % des molécules d'acide acétique sont dissociées.",
    "section": "Propriétés physico-chimiques"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
-   "sentence": "Il a été conjecturé dès 1937 que l'acide acétique s'associait à l'état liquide par groupe de deux molécules liées entre elles par des ponts hydrogène ; c'est pour ce cas qu'a été inventé le mot allemand Übermoleküle, qu'on traduit par supermolécule.",
+   "sentence": "Il a été conjecturé dès 1937 que l'acide acétique s'associait à l'état liquide par groupe de deux molécules liées entre elles par des ponts hydrogène; c'est pour ce cas qu'a été inventé le mot allemand Übermoleküle, qu'on traduit par supermolécule.",
    "section": "Propriétés physico-chimiques"
   },
-  "f19": {
+  "f18": {
    "kind": "measure",
    "value": 120,
    "unit": "°c",
@@ -211,36 +203,36 @@
    "sentence": "Ces dimères peuvent aussi être observés sous forme gazeuse à 120 °C.",
    "section": "Propriétés physico-chimiques"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Elle a également lieu en solution aqueuse avec une constante d'association KD dont la valeur est proche de 1.",
    "section": "Propriétés physico-chimiques"
   },
-  "f21": {
+  "f20": {
    "kind": "number",
    "value": 6.2,
    "surface": "6,2",
    "sentence": "Avec une constante diélectrique moyenne de 6,2, il peut dissoudre non seulement les composés polaires tels que les sels inorganiques et les sucres, mais aussi les composés non polaires tels que les huiles, ou des corps purs comme le soufre et le diiode.",
    "section": "Propriétés physico-chimiques"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Mg (s) + 2 CH3COOH (aq) → (CH3COO)2Mg (aq) + H2 (g)\nNaHCO3 (s) + CH3COOH (aq) → CH3COONa (aq) + CO2 (g) + H2O (l)\nL'acide acétique subit également les réactions typiques des acides carboxyliques, en particulier la formation d'éthanol par réduction, et la formation de dérivés tels que le chlorure d'acétyle par substitution nucléophile d'acyle.",
+   "sentence": "Mg + 2 CH3COOH →2Mg + H2\nNaHCO3 + CH3COOH → CH3COONa + CO2 + H2O\nL'acide acétique subit également les réactions typiques des acides carboxyliques, en particulier la formation d'éthanol par réduction, et la formation de dérivés tels que le chlorure d'acétyle par substitution nucléophile d'acyle.",
    "section": "Propriétés physico-chimiques"
   },
-  "f23": {
+  "f22": {
    "kind": "measure",
    "value": 2,
    "unit": "mg",
    "surface": "2Mg",
-   "sentence": "Mg (s) + 2 CH3COOH (aq) → (CH3COO)2Mg (aq) + H2 (g)\nNaHCO3 (s) + CH3COOH (aq) → CH3COONa (aq) + CO2 (g) + H2O (l)\nL'acide acétique subit également les réactions typiques des acides carboxyliques, en particulier la formation d'éthanol par réduction, et la formation de dérivés tels que le chlorure d'acétyle par substitution nucléophile d'acyle.",
+   "sentence": "Mg + 2 CH3COOH →2Mg + H2\nNaHCO3 + CH3COOH → CH3COONa + CO2 + H2O\nL'acide acétique subit également les réactions typiques des acides carboxyliques, en particulier la formation d'éthanol par réduction, et la formation de dérivés tels que le chlorure d'acétyle par substitution nucléophile d'acyle.",
    "section": "Propriétés physico-chimiques"
   },
-  "f24": {
+  "f23": {
    "kind": "measure",
    "value": 440,
    "unit": "°c",
@@ -248,7 +240,7 @@
    "sentence": "Chauffé au-delà de 440 °C, l'acide acétique se décompose en dioxyde de carbone et méthane, ou en eau et cétène.",
    "section": "Propriétés physico-chimiques"
   },
-  "f25": {
+  "f24": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -256,7 +248,7 @@
    "sentence": "Aujourd'hui, la méthode biologique ne concerne plus que 10 % de la production, mais elle demeure importante pour la fabrication de vinaigre car, dans la plupart des pays, la loi dispose que le vinaigre à usage alimentaire doit être d'origine biologique.",
    "section": "Production et synthèse"
   },
-  "f26": {
+  "f25": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -264,133 +256,119 @@
    "sentence": "Environ 75 % de l'acide acétique destiné à l'industrie chimique est produit par carbonylation du méthanol, voir détails ci-dessous.",
    "section": "Production et synthèse"
   },
-  "f27": {
+  "f26": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "La production totale d'acide acétique est estimée à 5 Mt/an, dont environ la moitié vient des États-Unis.",
    "section": "Production et synthèse"
   },
-  "f28": {
+  "f27": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "La production européenne arrive aux alentours de 1 Mt/an et est en diminution.",
    "section": "Production et synthèse"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 0.7,
    "surface": "0,7",
    "sentence": "Enfin, 0,7 Mt/an sont fabriquées au Japon.",
    "section": "Production et synthèse"
   },
-  "f30": {
+  "f29": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
    "sentence": "1,5 Mt/an sont recyclées, ce qui amène le marché mondial à 6,5 Mt/an.",
    "section": "Production et synthèse"
   },
-  "f31": {
+  "f30": {
    "kind": "number",
    "value": 6.5,
    "surface": "6,5",
    "sentence": "1,5 Mt/an sont recyclées, ce qui amène le marché mondial à 6,5 Mt/an.",
    "section": "Production et synthèse"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "En 2014, la France est nette importatrice d'acide acétique, d'après les douanes françaises.",
    "section": "Production et synthèse"
   },
-  "f33": {
+  "f32": {
    "kind": "number",
    "value": 430,
    "surface": "430",
    "sentence": "Le prix moyen à la tonne à l'import était de 430 €.",
    "section": "Production et synthèse"
   },
-  "f34": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Un catalyseur, généralement un complexe métallique, est nécessaire pour la carbonylation (étape 2).",
-   "section": "Production et synthèse"
-  },
-  "f35": {
+  "f33": {
    "kind": "date",
    "value": "1925",
    "surface": "1925",
    "sentence": "Henry Dreyfus de la British Celanese a développé une usine pilote de carbonylation du méthanol dès 1925.",
    "section": "Production et synthèse"
   },
-  "f36": {
-   "kind": "number",
-   "value": 200,
-   "surface": "200",
-   "sentence": "Cependant, le manque de matériel adéquat pour contenir le mélange réactionnel corrosif aux pressions nécessaires (200 atm ou plus) a freiné la commercialisation de cette méthode pendant un certain temps.",
-   "section": "Production et synthèse"
-  },
-  "f37": {
+  "f34": {
    "kind": "date",
    "value": "1963",
    "surface": "1963",
    "sentence": "Le premier processus commercialisé de carbonylation du méthanol, qui utilise du cobalt comme catalyseur, a été développé par l'entreprise chimique allemande BASF en 1963.",
    "section": "Production et synthèse"
   },
-  "f38": {
+  "f35": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
-   "sentence": "En 1968, on a découvert un nouveau catalyseur à base de rhodium (cis−[Rh(CO)2I2]−) capable d'agir efficacement à basse pression et avec très peu de sous-produits.",
+   "sentence": "En 1968, on a découvert un nouveau catalyseur à base de rhodium capable d'agir efficacement à basse pression et avec très peu de sous-produits.",
    "section": "Production et synthèse"
   },
-  "f39": {
+  "f36": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
-   "sentence": "La première usine utilisant ce catalyseur a été bâtie par l'entreprise américaine Monsanto en 1970, et la carbonylation du méthanol catalysée au rhodium est devenue la méthode dominante de production d'acide acétique (connue sous le nom de « procédé Monsanto »).",
+   "sentence": "La première usine utilisant ce catalyseur a été bâtie par l'entreprise américaine Monsanto en 1970, et la carbonylation du méthanol catalysée au rhodium est devenue la méthode dominante de production d'acide acétique.",
    "section": "Production et synthèse"
   },
-  "f40": {
+  "f37": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Vers la fin des années 1990, BP a commercialisé le catalyseur Cativa ([Ir(CO)2I2]−), favorisé par le ruthénium.",
+   "sentence": "Vers la fin des années 1990, BP a commercialisé le catalyseur Cativa, favorisé par le ruthénium.",
+   "section": "Production et synthèse"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique:\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
+   "section": "Production et synthèse"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique:\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
+   "section": "Production et synthèse"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique:\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
    "section": "Production et synthèse"
   },
   "f41": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique :\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
+   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique:\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
    "section": "Production et synthèse"
   },
   "f42": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique :\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
-   "section": "Production et synthèse"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique :\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
-   "section": "Production et synthèse"
-  },
-  "f44": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Quand le butane ou le naphta léger est chauffé dans l'air en présence de différents ions métalliques, en particulier de manganèse, de cobalt et de chrome, un peroxyde se forme puis se décompose pour former de l'acide acétique :\n2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O\nOn travaille avec une combinaison de température et de pression permettant d'avoir un mélange réactionnel aussi chaud que possible tout en gardant le butane à l'état liquide.",
-   "section": "Production et synthèse"
-  },
-  "f45": {
    "kind": "measure",
    "value": 150,
    "unit": "°c",
@@ -398,84 +376,70 @@
    "sentence": "150 °C et 55 atm sont des conditions habituelles.",
    "section": "Production et synthèse"
   },
-  "f46": {
+  "f43": {
    "kind": "number",
    "value": 55,
    "surface": "55",
    "sentence": "150 °C et 55 atm sont des conditions habituelles.",
    "section": "Production et synthèse"
   },
-  "f47": {
+  "f44": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Avec des conditions et des catalyseurs similaires à ceux utilisés pour l'oxydation du butane, l'acétaldéhyde peut être oxydé par le dioxygène de l'air pour produire de l'acide acétique :\n2 CH3CHO + O2 → 2 CH3COOH\nGrâce aux catalyseurs modernes, cette réaction peut atteindre un rendement de plus de 95 %.",
+   "sentence": "Avec des conditions et des catalyseurs similaires à ceux utilisés pour l'oxydation du butane, l'acétaldéhyde peut être oxydé par le dioxygène de l'air pour produire de l'acide acétique:\n2 CH3CHO + O2 → 2 CH3COOH\nGrâce aux catalyseurs modernes, cette réaction peut atteindre un rendement de plus de 95 %.",
    "section": "Production et synthèse"
   },
-  "f48": {
+  "f45": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Avec des conditions et des catalyseurs similaires à ceux utilisés pour l'oxydation du butane, l'acétaldéhyde peut être oxydé par le dioxygène de l'air pour produire de l'acide acétique :\n2 CH3CHO + O2 → 2 CH3COOH\nGrâce aux catalyseurs modernes, cette réaction peut atteindre un rendement de plus de 95 %.",
+   "sentence": "Avec des conditions et des catalyseurs similaires à ceux utilisés pour l'oxydation du butane, l'acétaldéhyde peut être oxydé par le dioxygène de l'air pour produire de l'acide acétique:\n2 CH3CHO + O2 → 2 CH3COOH\nGrâce aux catalyseurs modernes, cette réaction peut atteindre un rendement de plus de 95 %.",
    "section": "Production et synthèse"
   },
-  "f49": {
+  "f46": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
    "surface": "95 %",
-   "sentence": "Avec des conditions et des catalyseurs similaires à ceux utilisés pour l'oxydation du butane, l'acétaldéhyde peut être oxydé par le dioxygène de l'air pour produire de l'acide acétique :\n2 CH3CHO + O2 → 2 CH3COOH\nGrâce aux catalyseurs modernes, cette réaction peut atteindre un rendement de plus de 95 %.",
+   "sentence": "Avec des conditions et des catalyseurs similaires à ceux utilisés pour l'oxydation du butane, l'acétaldéhyde peut être oxydé par le dioxygène de l'air pour produire de l'acide acétique:\n2 CH3CHO + O2 → 2 CH3COOH\nGrâce aux catalyseurs modernes, cette réaction peut atteindre un rendement de plus de 95 %.",
    "section": "Production et synthèse"
   },
-  "f50": {
+  "f47": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Plus récemment, une transformation de l'éthylène en acide acétique en une seule étape a été commercialisée par l'entreprise Shōwa Denkō, qui a ouvert une usine d'oxydation d'éthylène à Oita, Japon, en 1997.",
    "section": "Production et synthèse"
   },
-  "f51": {
-   "kind": "number",
-   "value": 100,
-   "surface": "100",
-   "sentence": "Ce processus pourrait être un concurrent de la carbonylation du méthanol pour les petites usines (100 à 250 kt/an) en fonction du prix de l'éthylène.",
-   "section": "Production et synthèse"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 250,
-   "surface": "250",
-   "sentence": "Ce processus pourrait être un concurrent de la carbonylation du méthanol pour les petites usines (100 à 250 kt/an) en fonction du prix de l'éthylène.",
-   "section": "Production et synthèse"
-  },
-  "f53": {
+  "f48": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
-   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement : un flacon de 100 ml à 5 % coûte environ 5 €.",
+   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement: un flacon de 100 ml à 5 % coûte environ 5 €.",
    "section": "Usage médical"
   },
-  "f54": {
+  "f49": {
    "kind": "measure",
    "value": 100,
    "unit": "ml",
    "surface": "100 ml",
-   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement : un flacon de 100 ml à 5 % coûte environ 5 €.",
+   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement: un flacon de 100 ml à 5 % coûte environ 5 €.",
    "section": "Usage médical"
   },
-  "f55": {
+  "f50": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
    "surface": "5 %",
-   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement : un flacon de 100 ml à 5 % coûte environ 5 €.",
+   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement: un flacon de 100 ml à 5 % coûte environ 5 €.",
    "section": "Usage médical"
   },
-  "f56": {
+  "f51": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement : un flacon de 100 ml à 5 % coûte environ 5 €.",
+   "sentence": "En France, en 2026, son prix en pharmacie dépend de sa concentration et de son conditionnement: un flacon de 100 ml à 5 % coûte environ 5 €.",
    "section": "Usage médical"
   }
  },

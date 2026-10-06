@@ -62,21 +62,14 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 2.13,
-   "surface": "2,13",
-   "sentence": "On connait de tels usages chez les Hébreux (Lv 2,13), les Grecs et les Romains de l'Antiquité.",
-   "section": "Histoire"
-  },
-  "f2": {
    "kind": "measure",
    "value": 6000,
    "unit": "ans",
    "surface": "6 000 ans",
-   "sentence": "On estime que le sel était déjà utilisé et donc extrait, 6 000 ans avant notre ère, au lac salé de Yuncheng, dans le Shanxi[réf. nécessaire].",
+   "sentence": "On estime que le sel était déjà utilisé et donc extrait, 6 000 ans avant notre ère, au lac salé de Yuncheng, dans le Shanxi.",
    "section": "Histoire"
   },
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -84,14 +77,14 @@
    "sentence": "Au XVIe siècle, l'importance du sel est telle que les dépenses d'une famille de paysans pour ce produit avoisine les 10 % de ses revenus.",
    "section": "Histoire"
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "En 1930, en Inde, la Marche du sel initiée par Gandhi pour protester contre le monopole britannique sur le sel, fut une étape importante vers l'indépendance.",
    "section": "Histoire"
   },
-  "f5": {
+  "f4": {
    "kind": "measure",
    "value": 99.9,
    "unit": "%",
@@ -99,7 +92,7 @@
    "sentence": "Il est pur à plus de 99,9 % de NaCl.",
    "section": "Typologie"
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 7,
    "unit": "%",
@@ -107,14 +100,14 @@
    "sentence": "Du reste, l'usage comme additif alimentaire ne représente que 7 % de son usage total.",
    "section": "Typologie"
   },
-  "f7": {
+  "f6": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Des inquiétudes ont été soulevées concernant les effets toxiques possibles de l'aluminium dans les deux derniers composés, comme l'explique le documentaire Aluminium, notre poison quotidien réalisé en 2011 par Valérie Rouvière.",
    "section": "Typologie"
   },
-  "f8": {
+  "f7": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
@@ -122,109 +115,93 @@
    "sentence": "Le sel de table est un sel raffiné contenant à 95 % ou plus du chlorure de sodium presque pur, souvent iodé, bromé, et fluoré.",
    "section": "Typologie"
   },
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
    "surface": "100g",
-   "sentence": "Par exemple, le sel \"La Baleine\" annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor (soit 0,055% de NaF) et 1750 µg d'iode (soit 0,0021% de NaI).",
+   "sentence": "Par exemple, le sel \"La Baleine\"annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor et 1750 µg d'iode.",
    "section": "Typologie"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 97.5,
    "unit": "%",
    "surface": "97,5%",
-   "sentence": "Par exemple, le sel \"La Baleine\" annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor (soit 0,055% de NaF) et 1750 µg d'iode (soit 0,0021% de NaI).",
+   "sentence": "Par exemple, le sel \"La Baleine\"annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor et 1750 µg d'iode.",
    "section": "Typologie"
   },
-  "f11": {
+  "f10": {
    "kind": "measure",
    "value": 25,
    "unit": "mg",
    "surface": "25 mg",
-   "sentence": "Par exemple, le sel \"La Baleine\" annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor (soit 0,055% de NaF) et 1750 µg d'iode (soit 0,0021% de NaI).",
+   "sentence": "Par exemple, le sel \"La Baleine\"annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor et 1750 µg d'iode.",
+   "section": "Typologie"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1750",
+   "surface": "1750",
+   "sentence": "Par exemple, le sel \"La Baleine\"annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor et 1750 µg d'iode.",
    "section": "Typologie"
   },
   "f12": {
    "kind": "measure",
-   "value": 0.055,
+   "value": 97,
    "unit": "%",
-   "surface": "0,055%",
-   "sentence": "Par exemple, le sel \"La Baleine\" annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor (soit 0,055% de NaF) et 1750 µg d'iode (soit 0,0021% de NaI).",
+   "surface": "97 %",
+   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes:\nchlorure de sodium: pas moins de 97 % de l'extrait sec, non compris les additifs;\ncuivre: pas plus de 2 mg/kg;\nplomb: pas plus de 2 mg/kg;\narsenic: pas plus de 0,5 mg/kg;\ncadmium: pas plus de 0,5 mg/kg;\nmercure: pas plus de 0,1 mg/kg.",
    "section": "Typologie"
   },
   "f13": {
-   "kind": "date",
-   "value": "1750",
-   "surface": "1750",
-   "sentence": "Par exemple, le sel \"La Baleine\" annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor (soit 0,055% de NaF) et 1750 µg d'iode (soit 0,0021% de NaI).",
+   "kind": "measure",
+   "value": 2,
+   "unit": "mg",
+   "surface": "2 mg",
+   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes:\nchlorure de sodium: pas moins de 97 % de l'extrait sec, non compris les additifs;\ncuivre: pas plus de 2 mg/kg;\nplomb: pas plus de 2 mg/kg;\narsenic: pas plus de 0,5 mg/kg;\ncadmium: pas plus de 0,5 mg/kg;\nmercure: pas plus de 0,1 mg/kg.",
    "section": "Typologie"
   },
   "f14": {
    "kind": "measure",
-   "value": 0.0021,
-   "unit": "%",
-   "surface": "0,0021%",
-   "sentence": "Par exemple, le sel \"La Baleine\" annonce sur ses emballage une composition pour 100g de 97,5% de NaCl, 25 mg de fluor (soit 0,055% de NaF) et 1750 µg d'iode (soit 0,0021% de NaI).",
+   "value": 2,
+   "unit": "mg",
+   "surface": "2 mg",
+   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes:\nchlorure de sodium: pas moins de 97 % de l'extrait sec, non compris les additifs;\ncuivre: pas plus de 2 mg/kg;\nplomb: pas plus de 2 mg/kg;\narsenic: pas plus de 0,5 mg/kg;\ncadmium: pas plus de 0,5 mg/kg;\nmercure: pas plus de 0,1 mg/kg.",
    "section": "Typologie"
   },
   "f15": {
    "kind": "measure",
-   "value": 97,
-   "unit": "%",
-   "surface": "97 %",
-   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes :\nchlorure de sodium : pas moins de 97 % de l'extrait sec, non compris les additifs ;\ncuivre : pas plus de 2 mg/kg ;\nplomb : pas plus de 2 mg/kg ;\narsenic : pas plus de 0,5 mg/kg ;\ncadmium : pas plus de 0,5 mg/kg ;\nmercure : pas plus de 0,1 mg/kg.",
+   "value": 0.5,
+   "unit": "mg",
+   "surface": "0,5 mg",
+   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes:\nchlorure de sodium: pas moins de 97 % de l'extrait sec, non compris les additifs;\ncuivre: pas plus de 2 mg/kg;\nplomb: pas plus de 2 mg/kg;\narsenic: pas plus de 0,5 mg/kg;\ncadmium: pas plus de 0,5 mg/kg;\nmercure: pas plus de 0,1 mg/kg.",
    "section": "Typologie"
   },
   "f16": {
    "kind": "measure",
-   "value": 2,
+   "value": 0.5,
    "unit": "mg",
-   "surface": "2 mg",
-   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes :\nchlorure de sodium : pas moins de 97 % de l'extrait sec, non compris les additifs ;\ncuivre : pas plus de 2 mg/kg ;\nplomb : pas plus de 2 mg/kg ;\narsenic : pas plus de 0,5 mg/kg ;\ncadmium : pas plus de 0,5 mg/kg ;\nmercure : pas plus de 0,1 mg/kg.",
+   "surface": "0,5 mg",
+   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes:\nchlorure de sodium: pas moins de 97 % de l'extrait sec, non compris les additifs;\ncuivre: pas plus de 2 mg/kg;\nplomb: pas plus de 2 mg/kg;\narsenic: pas plus de 0,5 mg/kg;\ncadmium: pas plus de 0,5 mg/kg;\nmercure: pas plus de 0,1 mg/kg.",
    "section": "Typologie"
   },
   "f17": {
    "kind": "measure",
-   "value": 2,
-   "unit": "mg",
-   "surface": "2 mg",
-   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes :\nchlorure de sodium : pas moins de 97 % de l'extrait sec, non compris les additifs ;\ncuivre : pas plus de 2 mg/kg ;\nplomb : pas plus de 2 mg/kg ;\narsenic : pas plus de 0,5 mg/kg ;\ncadmium : pas plus de 0,5 mg/kg ;\nmercure : pas plus de 0,1 mg/kg.",
-   "section": "Typologie"
-  },
-  "f18": {
-   "kind": "measure",
-   "value": 0.5,
-   "unit": "mg",
-   "surface": "0,5 mg",
-   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes :\nchlorure de sodium : pas moins de 97 % de l'extrait sec, non compris les additifs ;\ncuivre : pas plus de 2 mg/kg ;\nplomb : pas plus de 2 mg/kg ;\narsenic : pas plus de 0,5 mg/kg ;\ncadmium : pas plus de 0,5 mg/kg ;\nmercure : pas plus de 0,1 mg/kg.",
-   "section": "Typologie"
-  },
-  "f19": {
-   "kind": "measure",
-   "value": 0.5,
-   "unit": "mg",
-   "surface": "0,5 mg",
-   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes :\nchlorure de sodium : pas moins de 97 % de l'extrait sec, non compris les additifs ;\ncuivre : pas plus de 2 mg/kg ;\nplomb : pas plus de 2 mg/kg ;\narsenic : pas plus de 0,5 mg/kg ;\ncadmium : pas plus de 0,5 mg/kg ;\nmercure : pas plus de 0,1 mg/kg.",
-   "section": "Typologie"
-  },
-  "f20": {
-   "kind": "measure",
    "value": 0.1,
    "unit": "mg",
    "surface": "0,1 mg",
-   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes :\nchlorure de sodium : pas moins de 97 % de l'extrait sec, non compris les additifs ;\ncuivre : pas plus de 2 mg/kg ;\nplomb : pas plus de 2 mg/kg ;\narsenic : pas plus de 0,5 mg/kg ;\ncadmium : pas plus de 0,5 mg/kg ;\nmercure : pas plus de 0,1 mg/kg.",
+   "sentence": "Le sel de qualité alimentaire est un produit cristallin se composant principalement de chlorure de sodium, provenant de marais salants, de sel gemme ou de saumures provenant de la dissolution de sel gemme et répondant aux spécifications suivantes:\nchlorure de sodium: pas moins de 97 % de l'extrait sec, non compris les additifs;\ncuivre: pas plus de 2 mg/kg;\nplomb: pas plus de 2 mg/kg;\narsenic: pas plus de 0,5 mg/kg;\ncadmium: pas plus de 0,5 mg/kg;\nmercure: pas plus de 0,1 mg/kg.",
    "section": "Typologie"
   },
-  "f21": {
+  "f18": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "À titre d'exemple d'influence de la météorologie, l'été 2007 ayant été très pluvieux, les salines de l'île de Ré n'ont pu récolter que 50 t de sel, soit 2 % de la production moyenne.",
    "section": "Techniques de production"
   },
-  "f22": {
+  "f19": {
    "kind": "measure",
    "value": 50,
    "unit": "t",
@@ -232,7 +209,7 @@
    "sentence": "À titre d'exemple d'influence de la météorologie, l'été 2007 ayant été très pluvieux, les salines de l'île de Ré n'ont pu récolter que 50 t de sel, soit 2 % de la production moyenne.",
    "section": "Techniques de production"
   },
-  "f23": {
+  "f20": {
    "kind": "measure",
    "value": 2,
    "unit": "%",
@@ -240,7 +217,7 @@
    "sentence": "À titre d'exemple d'influence de la météorologie, l'été 2007 ayant été très pluvieux, les salines de l'île de Ré n'ont pu récolter que 50 t de sel, soit 2 % de la production moyenne.",
    "section": "Techniques de production"
   },
-  "f24": {
+  "f21": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",

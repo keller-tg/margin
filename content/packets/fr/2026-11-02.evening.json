@@ -71,577 +71,470 @@
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Le radioisotope le moins instable est 18F, dont la demi-vie est d'un peu moins de 2 h et qui se transmute en oxygène 18 (dans 97 % des cas par désintégration β+ et sinon par capture électronique)."
+   "sentence": "Le radioisotope le moins instable est 18F, dont la demi-vie est d'un peu moins de 2 h et qui se transmute en oxygène 18."
   },
   "f3": {
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "Le radioisotope le moins instable est 18F, dont la demi-vie est d'un peu moins de 2 h et qui se transmute en oxygène 18 (dans 97 % des cas par désintégration β+ et sinon par capture électronique)."
+   "sentence": "Le radioisotope le moins instable est 18F, dont la demi-vie est d'un peu moins de 2 h et qui se transmute en oxygène 18."
   },
   "f4": {
-   "kind": "measure",
-   "value": 97,
-   "unit": "%",
-   "surface": "97 %",
-   "sentence": "Le radioisotope le moins instable est 18F, dont la demi-vie est d'un peu moins de 2 h et qui se transmute en oxygène 18 (dans 97 % des cas par désintégration β+ et sinon par capture électronique)."
-  },
-  "f5": {
    "kind": "number",
    "value": 3.98,
    "surface": "3,98",
    "sentence": "Il possède la plus forte électronégativité, d'une valeur de 3,98."
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 219,
    "unit": "°c",
    "surface": "219 °C",
    "sentence": "Le point de fusion du difluor est de −219 °C et son point d'ébullition de −188 °C, températures entre lesquelles le difluor est liquide, avec une masse volumique de 1 500 kg/m3."
   },
-  "f7": {
+  "f6": {
    "kind": "measure",
    "value": 188,
    "unit": "°c",
    "surface": "188 °C",
    "sentence": "Le point de fusion du difluor est de −219 °C et son point d'ébullition de −188 °C, températures entre lesquelles le difluor est liquide, avec une masse volumique de 1 500 kg/m3."
   },
-  "f8": {
+  "f7": {
    "kind": "measure",
    "value": 1500,
    "unit": "kg",
    "surface": "1 500 kg",
    "sentence": "Le point de fusion du difluor est de −219 °C et son point d'ébullition de −188 °C, températures entre lesquelles le difluor est liquide, avec une masse volumique de 1 500 kg/m3."
   },
-  "f9": {
+  "f8": {
    "kind": "date",
    "value": "1530",
    "surface": "1530",
    "sentence": "Georgius Agricola décrivait déjà l'existence du fluor en 1530 mais cet élément n'a été isolé qu'en 1886, par Henri Moissan."
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "1886",
    "surface": "1886",
    "sentence": "Georgius Agricola décrivait déjà l'existence du fluor en 1530 mais cet élément n'a été isolé qu'en 1886, par Henri Moissan."
   },
-  "f11": {
+  "f10": {
    "kind": "date",
    "value": "1530",
    "surface": "1530",
-   "sentence": "Le fluor (du latin fluor signifiant flux ou courant) est d'abord mentionné au XVIe siècle par Basile Valentin sous le nom de Flußspat puis décrit par Georgius Agricola en 1530, sous sa forme de fluorine, comme une substance utilisée pour promouvoir la fusion des métaux ou des minéraux.",
+   "sentence": "Le fluor est d'abord mentionné au XVIe siècle par Basile Valentin sous le nom de Flußspat puis décrit par Georgius Agricola en 1530, sous sa forme de fluorine, comme une substance utilisée pour promouvoir la fusion des métaux ou des minéraux.",
    "section": "Histoire"
   },
-  "f12": {
+  "f11": {
    "kind": "date",
    "value": "1725",
    "surface": "1725",
    "sentence": "Les premières explications du processus de formation de l'acide fluorhydrique furent publiées en 1725 par George Weygand, qui les tenait de Matthäus Pauli, qui lui-même les tenait d'un verrier anglais.",
    "section": "Histoire"
   },
-  "f13": {
+  "f12": {
    "kind": "date",
    "value": "1768",
    "surface": "1768",
    "sentence": "En 1768, Andreas Marggraf décrivit la première observation de cette réaction chimique.",
    "section": "Histoire"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "1771",
    "surface": "1771",
    "sentence": "Inspiré par les publications d'Andreas Marggraf, Carl Scheele commença dès 1771 à chercher la nature chimique du fluor, ainsi que le détail de ses réactions avec les acides.",
    "section": "Histoire"
   },
-  "f15": {
+  "f14": {
    "kind": "date",
    "value": "1822",
    "surface": "1822",
    "sentence": "Le fait que le fluor était capable de graver le verre permit à Jacob Berzelius d'en trouver dans de l'eau en 1822.",
    "section": "Histoire"
   },
-  "f16": {
+  "f15": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
-   "sentence": "En 1833, Aimé mit en présence du fluorure d'argent (AgF) avec du chlore dans un vase de verre.",
+   "sentence": "En 1833, Aimé mit en présence du fluorure d'argent avec du chlore dans un vase de verre.",
    "section": "Histoire"
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "1848",
    "surface": "1848",
    "sentence": "En 1848, Louyet reprit des expériences analogues, en remplaçant le fluorure d'argent par du fluorure de mercure.",
    "section": "Histoire"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "En 1869, Georges Core produisit une petite quantité de fluor grâce à une électrolyse.",
    "section": "Histoire"
   },
-  "f19": {
+  "f18": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "Bien que le fluor ne soit pas encore vraiment isolé, Mendeleïev le plaça dans sa classification périodique en 1869.",
    "section": "Histoire"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 26,
    "surface": "26",
-   "sentence": "Ce n'est que le 26 juin 1886 qu'Henri Moissan parvint à isoler le fluor (sous forme gazeuse) par électrolyse de fluorure d'hydrogène (HF), avec du bifluorure de potassium comme électrolyte et des électrodes en platine iridié, sous une tension de 50 volts.",
+   "sentence": "Ce n'est que le 26 juin 1886 qu'Henri Moissan parvint à isoler le fluor par électrolyse de fluorure d'hydrogène, avec du bifluorure de potassium comme électrolyte et des électrodes en platine iridié, sous une tension de 50 volts.",
    "section": "Histoire"
   },
-  "f21": {
+  "f20": {
    "kind": "date",
    "value": "1886",
    "surface": "1886",
-   "sentence": "Ce n'est que le 26 juin 1886 qu'Henri Moissan parvint à isoler le fluor (sous forme gazeuse) par électrolyse de fluorure d'hydrogène (HF), avec du bifluorure de potassium comme électrolyte et des électrodes en platine iridié, sous une tension de 50 volts.",
+   "sentence": "Ce n'est que le 26 juin 1886 qu'Henri Moissan parvint à isoler le fluor par électrolyse de fluorure d'hydrogène, avec du bifluorure de potassium comme électrolyte et des électrodes en platine iridié, sous une tension de 50 volts.",
    "section": "Histoire"
   },
-  "f22": {
+  "f21": {
    "kind": "measure",
    "value": 50,
    "unit": "volts",
    "surface": "50 volts",
-   "sentence": "Ce n'est que le 26 juin 1886 qu'Henri Moissan parvint à isoler le fluor (sous forme gazeuse) par électrolyse de fluorure d'hydrogène (HF), avec du bifluorure de potassium comme électrolyte et des électrodes en platine iridié, sous une tension de 50 volts.",
+   "sentence": "Ce n'est que le 26 juin 1886 qu'Henri Moissan parvint à isoler le fluor par électrolyse de fluorure d'hydrogène, avec du bifluorure de potassium comme électrolyte et des électrodes en platine iridié, sous une tension de 50 volts.",
    "section": "Histoire"
   },
-  "f23": {
-   "kind": "measure",
-   "value": 50,
-   "unit": "°c",
-   "surface": "50 °C",
-   "sentence": "Henri Moissan dut mener cette expérience à basse température (−50 °C) pour maintenir le fluorure d'hydrogène à l'état liquide, car ce dernier bout à 19 °C.",
-   "section": "Histoire"
-  },
-  "f24": {
+  "f22": {
    "kind": "measure",
    "value": 19,
    "unit": "°c",
    "surface": "19 °C",
-   "sentence": "Henri Moissan dut mener cette expérience à basse température (−50 °C) pour maintenir le fluorure d'hydrogène à l'état liquide, car ce dernier bout à 19 °C.",
+   "sentence": "Henri Moissan dut mener cette expérience à basse température pour maintenir le fluorure d'hydrogène à l'état liquide, car ce dernier bout à 19 °C.",
    "section": "Histoire"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1906",
    "surface": "1906",
    "sentence": "Cette découverte, rapportée à l'Académie des sciences deux jours plus tard, lui valut le prix Nobel de chimie en 1906, conjointement à sa mise au point d'un four à arc électrique.",
    "section": "Histoire"
   },
-  "f26": {
-   "kind": "date",
-   "value": "1813",
-   "surface": "1813",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f27": {
-   "kind": "date",
-   "value": "1833",
-   "surface": "1833",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f28": {
-   "kind": "date",
-   "value": "1834",
-   "surface": "1834",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f29": {
-   "kind": "date",
-   "value": "1836",
-   "surface": "1836",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f30": {
-   "kind": "date",
-   "value": "1846",
-   "surface": "1846",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f31": {
-   "kind": "date",
-   "value": "1854",
-   "surface": "1854",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f32": {
-   "kind": "date",
-   "value": "1862",
-   "surface": "1862",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "1870",
-   "surface": "1870",
-   "sentence": "Moissan avait ainsi réussi là où des chimistes parmi les plus grands avaient échoué, comme décrit dans la section précédente : H. Davy (1813-14), G. Aimé (1833), M. Faraday (1834), C.J. et T Knox (1836), P. Louyet (1846), E. Frémy (1854), H. Kammerer (1862) et G. Gore (1870).",
-   "section": "Histoire"
-  },
-  "f34": {
+  "f24": {
    "kind": "number",
    "value": 9,
    "surface": "9",
-   "sentence": "L'atome de fluor possède 9 électrons, 2 sur la couche K et 7 sur la couche L. Sa configuration électronique est 1s2 2s2 2p5, qu'on peut écrire [He] 2s2 2p5 pour mettre en exergue la couche de valence.",
+   "sentence": "L'atome de fluor possède 9 électrons, 2 sur la couche K et 7 sur la couche L. Sa configuration électronique est 1s2 2s2 2p5, qu'on peut écrire 2s2 2p5 pour mettre en exergue la couche de valence.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f35": {
+  "f25": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "L'atome de fluor possède 9 électrons, 2 sur la couche K et 7 sur la couche L. Sa configuration électronique est 1s2 2s2 2p5, qu'on peut écrire [He] 2s2 2p5 pour mettre en exergue la couche de valence.",
+   "sentence": "L'atome de fluor possède 9 électrons, 2 sur la couche K et 7 sur la couche L. Sa configuration électronique est 1s2 2s2 2p5, qu'on peut écrire 2s2 2p5 pour mettre en exergue la couche de valence.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "L'atome de fluor possède 9 électrons, 2 sur la couche K et 7 sur la couche L. Sa configuration électronique est 1s2 2s2 2p5, qu'on peut écrire 2s2 2p5 pour mettre en exergue la couche de valence.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Le fluor possède en tout dix-huit isotopes mais seul le fluor 19 est stable, faisant du fluor un élément monoisotopique.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "Les autres isotopes les plus stables sont le fluor 18 d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 d'une demi-vie de 11,163 s.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 1.8293,
+   "surface": "1,8293",
+   "sentence": "Les autres isotopes les plus stables sont le fluor 18 d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 d'une demi-vie de 11,163 s.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 110,
+   "surface": "110",
+   "sentence": "Les autres isotopes les plus stables sont le fluor 18 d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 d'une demi-vie de 11,163 s.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Les autres isotopes les plus stables sont le fluor 18 d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 d'une demi-vie de 11,163 s.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 11.163,
+   "surface": "11,163",
+   "sentence": "Les autres isotopes les plus stables sont le fluor 18 d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 d'une demi-vie de 11,163 s.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "Sur Terre, il n'y aucun fluor 18 naturel car aucun processus naturel ne conduit à sa formation et donc l'abondance du fluor 19 est de 100 %, faisant du fluor également un élément mononucléidique; 19F étant le seul isotope naturel, cela permet de connaître sa masse molaire avec une très grande précision.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Sur Terre, il n'y aucun fluor 18 naturel car aucun processus naturel ne conduit à sa formation et donc l'abondance du fluor 19 est de 100 %, faisant du fluor également un élément mononucléidique; 19F étant le seul isotope naturel, cela permet de connaître sa masse molaire avec une très grande précision.",
+   "section": "Propriétés atomiques et nucléaires"
+  },
+  "f35": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "%",
+   "surface": "100 %",
+   "sentence": "Sur Terre, il n'y aucun fluor 18 naturel car aucun processus naturel ne conduit à sa formation et donc l'abondance du fluor 19 est de 100 %, faisant du fluor également un élément mononucléidique; 19F étant le seul isotope naturel, cela permet de connaître sa masse molaire avec une très grande précision.",
    "section": "Propriétés atomiques et nucléaires"
   },
   "f36": {
    "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "L'atome de fluor possède 9 électrons, 2 sur la couche K et 7 sur la couche L. Sa configuration électronique est 1s2 2s2 2p5, qu'on peut écrire [He] 2s2 2p5 pour mettre en exergue la couche de valence.",
+   "value": 19,
+   "surface": "19",
+   "sentence": "L'isotope le plus abondant, le fluor 19, provient de la nucléosynthèse stellaire.",
    "section": "Propriétés atomiques et nucléaires"
   },
   "f37": {
    "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Pour respecter la règle de l'octet (8 électrons sur la couche de valence), le fluor neutre peut gagner un dixième électron et former ainsi l'ion fluorure F−.",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Il est parfois produit sur Terre par désintégration bêta de l'oxygène 19 ou par capture électronique du néon 19.",
    "section": "Propriétés atomiques et nucléaires"
   },
   "f38": {
    "kind": "number",
    "value": 19,
    "surface": "19",
-   "sentence": "Le fluor possède en tout dix-huit isotopes mais seul le fluor 19 (19F) est stable, faisant du fluor un élément monoisotopique.",
+   "sentence": "Il est parfois produit sur Terre par désintégration bêta de l'oxygène 19 ou par capture électronique du néon 19.",
    "section": "Propriétés atomiques et nucléaires"
   },
   "f39": {
    "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "Les autres isotopes les plus stables sont le fluor 18 (18F) d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 (20F) d'une demi-vie de 11,163 s.",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
   "f40": {
    "kind": "number",
-   "value": 1.8293,
-   "surface": "1,8293",
-   "sentence": "Les autres isotopes les plus stables sont le fluor 18 (18F) d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 (20F) d'une demi-vie de 11,163 s.",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
   "f41": {
-   "kind": "number",
-   "value": 110,
-   "surface": "110",
-   "sentence": "Les autres isotopes les plus stables sont le fluor 18 (18F) d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 (20F) d'une demi-vie de 11,163 s.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f42": {
-   "kind": "number",
-   "value": 20,
-   "surface": "20",
-   "sentence": "Les autres isotopes les plus stables sont le fluor 18 (18F) d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 (20F) d'une demi-vie de 11,163 s.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 11.163,
-   "surface": "11,163",
-   "sentence": "Les autres isotopes les plus stables sont le fluor 18 (18F) d'une demi-vie de 1,8293 h, soit environ 110 min, et le fluor 20 (20F) d'une demi-vie de 11,163 s.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f44": {
-   "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "Sur Terre, il n'y aucun fluor 18 naturel car aucun processus naturel ne conduit à sa formation et donc l'abondance du fluor 19 est de 100 %, faisant du fluor également un élément mononucléidique ; 19F étant le seul isotope naturel, cela permet de connaître sa masse molaire avec une très grande précision.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f45": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Sur Terre, il n'y aucun fluor 18 naturel car aucun processus naturel ne conduit à sa formation et donc l'abondance du fluor 19 est de 100 %, faisant du fluor également un élément mononucléidique ; 19F étant le seul isotope naturel, cela permet de connaître sa masse molaire avec une très grande précision.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f46": {
-   "kind": "measure",
-   "value": 100,
-   "unit": "%",
-   "surface": "100 %",
-   "sentence": "Sur Terre, il n'y aucun fluor 18 naturel car aucun processus naturel ne conduit à sa formation et donc l'abondance du fluor 19 est de 100 %, faisant du fluor également un élément mononucléidique ; 19F étant le seul isotope naturel, cela permet de connaître sa masse molaire avec une très grande précision.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "L'isotope le plus abondant, le fluor 19, provient de la nucléosynthèse stellaire (cycle CNO III ou IV).",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Il est parfois produit sur Terre par désintégration bêta de l'oxygène 19 (19O) ou par capture électronique du néon 19 (19Ne).",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f49": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Il est parfois produit sur Terre par désintégration bêta de l'oxygène 19 (19O) ou par capture électronique du néon 19 (19Ne).",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f52": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f53": {
+  "f42": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f54": {
+  "f43": {
    "kind": "number",
    "value": 18.998403,
    "surface": "18,998 403",
    "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f55": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "g",
-   "surface": "2 g",
-   "sentence": "Le fluor 19 possède 19 nucléons dont 10 neutrons et 9 protons, atome de masse atomique de 18,998 403 2 g/mol.",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f56": {
+  "f44": {
    "kind": "number",
    "value": 1487.445,
    "surface": "1 487,445",
    "sentence": "Il est caractérisé par un excès de masse de −1 487,445 1 ± 8 keV et une énergie de liaison nucléaire de 7 779 ± 0 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f57": {
+  "f45": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Il est caractérisé par un excès de masse de −1 487,445 1 ± 8 keV et une énergie de liaison nucléaire de 7 779 ± 0 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f58": {
+  "f46": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Il est caractérisé par un excès de masse de −1 487,445 1 ± 8 keV et une énergie de liaison nucléaire de 7 779 ± 0 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f59": {
+  "f47": {
    "kind": "number",
    "value": 7779,
    "surface": "7 779",
    "sentence": "Il est caractérisé par un excès de masse de −1 487,445 1 ± 8 keV et une énergie de liaison nucléaire de 7 779 ± 0 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f60": {
+  "f48": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "Il est caractérisé par un excès de masse de −1 487,445 1 ± 8 keV et une énergie de liaison nucléaire de 7 779 ± 0 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f61": {
+  "f49": {
    "kind": "number",
    "value": 16,
    "surface": "16",
-   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs (1,14 × 10−20 s).",
+   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f62": {
+  "f50": {
    "kind": "number",
    "value": 11.4,
    "surface": "11,4",
-   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs (1,14 × 10−20 s).",
+   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f63": {
-   "kind": "number",
-   "value": 1.14,
-   "surface": "1,14",
-   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs (1,14 × 10−20 s).",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f64": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs (1,14 × 10−20 s).",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f65": {
-   "kind": "number",
-   "value": 20,
-   "surface": "20",
-   "sentence": "L'isotope ayant la demi-vie la plus courte est le fluor 16, qui se désintègre par émission d'un proton en 11,4 zs (1,14 × 10−20 s).",
-   "section": "Propriétés atomiques et nucléaires"
-  },
-  "f66": {
+  "f51": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Le fluor 17 se désintègre par capture électronique en 64,49 s.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f67": {
+  "f52": {
    "kind": "number",
    "value": 64.49,
    "surface": "64,49",
    "sentence": "Le fluor 17 se désintègre par capture électronique en 64,49 s.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f68": {
+  "f53": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f69": {
+  "f54": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f70": {
+  "f55": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f71": {
+  "f56": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f72": {
+  "f57": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f73": {
+  "f58": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f74": {
+  "f59": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f75": {
+  "f60": {
    "kind": "number",
    "value": 4.158,
    "surface": "4,158",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f76": {
+  "f61": {
    "kind": "number",
    "value": 4.23,
    "surface": "4,23",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f77": {
+  "f62": {
    "kind": "number",
    "value": 2.23,
    "surface": "2,23",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f78": {
+  "f63": {
    "kind": "number",
    "value": 0.34,
    "surface": "0,34",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f79": {
+  "f64": {
    "kind": "number",
    "value": 0.059,
    "surface": "0,059",
    "sentence": "Les fluor 20, fluor 21, fluor 22, fluor 23, fluor 24 et fluor 25 se désintègrent par désintégration β− en 11 s, 4,158 s, 4,23 s, 2,23 s, 0,34 s et 0,059 s, respectivement.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f80": {
+  "f65": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Le fluor 18 est le radioisotope le plus stable qui puisse être fabriqué.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f81": {
+  "f66": {
    "kind": "number",
    "value": 109.77,
    "surface": "109,77",
    "sentence": "Sa demi-vie est d'environ 109,77 min.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f82": {
+  "f67": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Ce nucléide compte 9 protons et 9 neutrons pour une masse atomique de 18,000 937 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f83": {
+  "f68": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Ce nucléide compte 9 protons et 9 neutrons pour une masse atomique de 18,000 937 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f84": {
+  "f69": {
    "kind": "measure",
    "value": 18.000937,
    "unit": "g",
@@ -649,49 +542,49 @@
    "sentence": "Ce nucléide compte 9 protons et 9 neutrons pour une masse atomique de 18,000 937 g/mol.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f85": {
+  "f70": {
    "kind": "number",
    "value": 873.1,
    "surface": "873,1",
    "sentence": "Il est caractérisé par un excès de masse de 873,1 ± 0,5 keV et une énergie de liaison nucléaire de 7 631,638 ± 0,026 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f86": {
+  "f71": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
    "sentence": "Il est caractérisé par un excès de masse de 873,1 ± 0,5 keV et une énergie de liaison nucléaire de 7 631,638 ± 0,026 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f87": {
+  "f72": {
    "kind": "number",
    "value": 7631.638,
    "surface": "7 631,638",
    "sentence": "Il est caractérisé par un excès de masse de 873,1 ± 0,5 keV et une énergie de liaison nucléaire de 7 631,638 ± 0,026 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f88": {
+  "f73": {
    "kind": "number",
    "value": 0.026,
    "surface": "0,026",
    "sentence": "Il est caractérisé par un excès de masse de 873,1 ± 0,5 keV et une énergie de liaison nucléaire de 7 631,638 ± 0,026 keV.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f89": {
+  "f74": {
    "kind": "date",
    "value": "692",
    "surface": "692",
    "sentence": "Les Fα présentent des raies à 692, 686 et 678 nm environ chacune.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f90": {
+  "f75": {
    "kind": "date",
    "value": "686",
    "surface": "686",
    "sentence": "Les Fα présentent des raies à 692, 686 et 678 nm environ chacune.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f91": {
+  "f76": {
    "kind": "measure",
    "value": 678,
    "unit": "nm",
@@ -699,7 +592,7 @@
    "sentence": "Les Fα présentent des raies à 692, 686 et 678 nm environ chacune.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f92": {
+  "f77": {
    "kind": "measure",
    "value": 640,
    "unit": "nm",
@@ -707,7 +600,7 @@
    "sentence": "Les Fβ présentent une raie à 640 nm et les Fγ à 623 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f93": {
+  "f78": {
    "kind": "measure",
    "value": 623,
    "unit": "nm",
@@ -715,91 +608,91 @@
    "sentence": "Les Fβ présentent une raie à 640 nm et les Fγ à 623 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f94": {
+  "f79": {
    "kind": "date",
    "value": "744",
    "surface": "744",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f95": {
+  "f80": {
    "kind": "date",
    "value": "740",
    "surface": "740",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f96": {
+  "f81": {
    "kind": "date",
    "value": "734",
    "surface": "734",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f97": {
+  "f82": {
    "kind": "date",
    "value": "714",
    "surface": "714",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f98": {
+  "f83": {
    "kind": "date",
    "value": "704",
    "surface": "704",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f99": {
+  "f84": {
    "kind": "date",
    "value": "691",
    "surface": "691",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f100": {
+  "f85": {
    "kind": "number",
    "value": 687.5,
    "surface": "687,5",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f101": {
+  "f86": {
    "kind": "number",
    "value": 685.5,
    "surface": "685,5",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f102": {
+  "f87": {
    "kind": "number",
    "value": 683.5,
    "surface": "683,5",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f103": {
+  "f88": {
    "kind": "date",
    "value": "677",
    "surface": "677",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f104": {
+  "f89": {
    "kind": "number",
    "value": 640.5,
    "surface": "640,5",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f105": {
+  "f90": {
    "kind": "date",
    "value": "634",
    "surface": "634",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f106": {
+  "f91": {
    "kind": "measure",
    "value": 623,
    "unit": "nm",
@@ -807,14 +700,14 @@
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f107": {
+  "f92": {
    "kind": "date",
    "value": "744",
    "surface": "744",
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f108": {
+  "f93": {
    "kind": "measure",
    "value": 740,
    "unit": "nm",
@@ -822,14 +715,14 @@
    "sentence": "Avec les électrodes de platine, on obtient plusieurs raies de longueur d'onde 744, 740, 734, 714, 704, 691, 687,5, 685,5, 683,5, 677, 640,5, 634 et 623 nm alors que les électrodes d'or ne permettent pas d'avoir les longueurs d'onde 744 et 740 nm.",
    "section": "Propriétés atomiques et nucléaires"
   },
-  "f109": {
+  "f94": {
    "kind": "number",
    "value": 1.264,
    "surface": "1,264",
    "sentence": "Henri Moissan a obtenu une densité de 1,264 à 0 °C et 760 mmHg.",
    "section": "Corps simple"
   },
-  "f110": {
+  "f95": {
    "kind": "measure",
    "value": 0,
    "unit": "°c",
@@ -837,42 +730,42 @@
    "sentence": "Henri Moissan a obtenu une densité de 1,264 à 0 °C et 760 mmHg.",
    "section": "Corps simple"
   },
-  "f111": {
+  "f96": {
    "kind": "date",
    "value": "760",
    "surface": "760",
    "sentence": "Henri Moissan a obtenu une densité de 1,264 à 0 °C et 760 mmHg.",
    "section": "Corps simple"
   },
-  "f112": {
+  "f97": {
    "kind": "number",
    "value": 1.316,
    "surface": "1,316",
    "sentence": "Il a ensuite calculé la densité théorique en multipliant la densité de l'hydrogène et le poids atomique du fluor, et il a trouvé 1,316.",
    "section": "Corps simple"
   },
-  "f113": {
+  "f98": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Avec l'eau, même à basse température, il forme de l'ozone et de l'acide fluorhydrique :\n3 F2 + 3 H2O → O3 + 6 HF.",
+   "sentence": "Avec l'eau, même à basse température, il forme de l'ozone et de l'acide fluorhydrique:\n3 F2 + 3 H2O → O3 + 6 HF.",
    "section": "Corps simple"
   },
-  "f114": {
+  "f99": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Avec l'eau, même à basse température, il forme de l'ozone et de l'acide fluorhydrique :\n3 F2 + 3 H2O → O3 + 6 HF.",
+   "sentence": "Avec l'eau, même à basse température, il forme de l'ozone et de l'acide fluorhydrique:\n3 F2 + 3 H2O → O3 + 6 HF.",
    "section": "Corps simple"
   },
-  "f115": {
+  "f100": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Avec l'eau, même à basse température, il forme de l'ozone et de l'acide fluorhydrique :\n3 F2 + 3 H2O → O3 + 6 HF.",
+   "sentence": "Avec l'eau, même à basse température, il forme de l'ozone et de l'acide fluorhydrique:\n3 F2 + 3 H2O → O3 + 6 HF.",
    "section": "Corps simple"
   },
-  "f116": {
+  "f101": {
    "kind": "measure",
    "value": 250,
    "unit": "°c",
@@ -880,14 +773,14 @@
    "sentence": "Même dans des conditions de basse température et sans lumière, le difluor réagit de façon explosive avec le dihydrogène, même en dessous de −250 °C lorsque le fluor est solide et l'hydrogène liquide.",
    "section": "Corps simple"
   },
-  "f117": {
+  "f102": {
    "kind": "date",
    "value": "1886",
    "surface": "1886",
    "sentence": "Le difluor, F2, est aujourd'hui encore produit industriellement grâce au procédé d'électrolyse introduit par Henri Moissan en 1886.",
    "section": "Corps simple"
   },
-  "f118": {
+  "f103": {
    "kind": "measure",
    "value": 90,
    "unit": "°c",
@@ -895,7 +788,7 @@
    "sentence": "Le bain électrolytique est constitué d'un mélange KF-2HF fondu à 90 °C – 100 °C environ.",
    "section": "Corps simple"
   },
-  "f119": {
+  "f104": {
    "kind": "measure",
    "value": 100,
    "unit": "°c",
@@ -903,56 +796,56 @@
    "sentence": "Le bain électrolytique est constitué d'un mélange KF-2HF fondu à 90 °C – 100 °C environ.",
    "section": "Corps simple"
   },
-  "f120": {
+  "f105": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Lors de la réaction d'électrolyse, le difluor est produit sur une anode en carbone selon :\n2 HF2− → F2(g) + 2 HF + 2 e−.",
+   "sentence": "Lors de la réaction d'électrolyse, le difluor est produit sur une anode en carbone selon:\n2 HF2− → F2 + 2 HF + 2 e−.",
    "section": "Corps simple"
   },
-  "f121": {
+  "f106": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Lors de la réaction d'électrolyse, le difluor est produit sur une anode en carbone selon :\n2 HF2− → F2(g) + 2 HF + 2 e−.",
+   "sentence": "Lors de la réaction d'électrolyse, le difluor est produit sur une anode en carbone selon:\n2 HF2− → F2 + 2 HF + 2 e−.",
    "section": "Corps simple"
   },
-  "f122": {
+  "f107": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Lors de la réaction d'électrolyse, le difluor est produit sur une anode en carbone selon :\n2 HF2− → F2(g) + 2 HF + 2 e−.",
+   "sentence": "Lors de la réaction d'électrolyse, le difluor est produit sur une anode en carbone selon:\n2 HF2− → F2 + 2 HF + 2 e−.",
    "section": "Corps simple"
   },
-  "f123": {
+  "f108": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "À la cathode (en métal), du dihydrogène est produit :\n4 HF + 2 e− → H2(g) + 2 HF2−.",
+   "sentence": "À la cathode, du dihydrogène est produit:\n4 HF + 2 e− → H2 + 2 HF2−.",
    "section": "Corps simple"
   },
-  "f124": {
+  "f109": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "À la cathode (en métal), du dihydrogène est produit :\n4 HF + 2 e− → H2(g) + 2 HF2−.",
+   "sentence": "À la cathode, du dihydrogène est produit:\n4 HF + 2 e− → H2 + 2 HF2−.",
    "section": "Corps simple"
   },
-  "f125": {
+  "f110": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "À la cathode (en métal), du dihydrogène est produit :\n4 HF + 2 e− → H2(g) + 2 HF2−.",
+   "sentence": "À la cathode, du dihydrogène est produit:\n4 HF + 2 e− → H2 + 2 HF2−.",
    "section": "Corps simple"
   },
-  "f126": {
+  "f111": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Dans la cellule d'électrolyse, le potentiel appliqué est compris entre 8 et 10 V, et la densité de courant est de l'ordre de 12 A dm−2.",
    "section": "Corps simple"
   },
-  "f127": {
+  "f112": {
    "kind": "measure",
    "value": 10,
    "unit": "v",
@@ -960,44 +853,36 @@
    "sentence": "Dans la cellule d'électrolyse, le potentiel appliqué est compris entre 8 et 10 V, et la densité de courant est de l'ordre de 12 A dm−2.",
    "section": "Corps simple"
   },
-  "f128": {
+  "f113": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Dans la cellule d'électrolyse, le potentiel appliqué est compris entre 8 et 10 V, et la densité de courant est de l'ordre de 12 A dm−2.",
    "section": "Corps simple"
   },
-  "f129": {
+  "f114": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Dans la cellule d'électrolyse, le potentiel appliqué est compris entre 8 et 10 V, et la densité de courant est de l'ordre de 12 A dm−2.",
    "section": "Corps simple"
   },
-  "f130": {
-   "kind": "measure",
-   "value": 95,
-   "unit": "%",
-   "surface": "95 %",
-   "sentence": "Le rendement en courant est bon (95 %), mais le rendement énergétique global n'est que de 30 %.",
-   "section": "Corps simple"
-  },
-  "f131": {
+  "f115": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
    "surface": "30 %",
-   "sentence": "Le rendement en courant est bon (95 %), mais le rendement énergétique global n'est que de 30 %.",
+   "sentence": "Le rendement en courant est bon, mais le rendement énergétique global n'est que de 30 %.",
    "section": "Corps simple"
   },
-  "f132": {
+  "f116": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "En 1986, à l'occasion du centième anniversaire de la découverte de la préparation électrochimique du fluor, Karl Christe a découvert une méthode originale et purement chimique de préparation en faisant réagir à 150 °C de l'acide fluorhydrique anhydre HF avec K2MnF6 et SbF5.",
    "section": "Corps simple"
   },
-  "f133": {
+  "f117": {
    "kind": "measure",
    "value": 150,
    "unit": "°c",
@@ -1005,138 +890,116 @@
    "sentence": "En 1986, à l'occasion du centième anniversaire de la découverte de la préparation électrochimique du fluor, Karl Christe a découvert une méthode originale et purement chimique de préparation en faisant réagir à 150 °C de l'acide fluorhydrique anhydre HF avec K2MnF6 et SbF5.",
    "section": "Corps simple"
   },
-  "f134": {
+  "f118": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "La réaction est :\nK2MnF6 + 2 SbF5 → 2 KSbF6 + MnF3 + 1/2 F2.",
+   "sentence": "La réaction est:\nK2MnF6 + 2 SbF5 → 2 KSbF6 + MnF3 + 1/2 F2.",
    "section": "Corps simple"
   },
-  "f135": {
+  "f119": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "La réaction est :\nK2MnF6 + 2 SbF5 → 2 KSbF6 + MnF3 + 1/2 F2.",
+   "sentence": "La réaction est:\nK2MnF6 + 2 SbF5 → 2 KSbF6 + MnF3 + 1/2 F2.",
    "section": "Corps simple"
   },
-  "f136": {
+  "f120": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "La réaction est :\nK2MnF6 + 2 SbF5 → 2 KSbF6 + MnF3 + 1/2 F2.",
+   "sentence": "La réaction est:\nK2MnF6 + 2 SbF5 → 2 KSbF6 + MnF3 + 1/2 F2.",
    "section": "Corps simple"
   },
-  "f137": {
+  "f121": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Six fluorures d'oxygène et chlore sont possibles mais seulement 5 ont été caractérisés : FClIIIO, FClVIIO3, FClVO2, F3ClVO et F3ClVIIO2.",
+   "sentence": "Six fluorures d'oxygène et chlore sont possibles mais seulement 5 ont été caractérisés: FClIIIO, FClVIIO3, FClVO2, F3ClVO et F3ClVIIO2.",
    "section": "Composés chimiques"
   },
-  "f138": {
+  "f122": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "FClO peut être obtenu par la réaction : ClF3 + H2O → FClO + 2 HF, mais ce composé est très instable (sa demi-vie est de 25 s à température ambiante) et se décompose en FClO2 et ClF.",
+   "sentence": "FClO peut être obtenu par la réaction: ClF3 + H2O → FClO + 2 HF, mais ce composé est très instable et se décompose en FClO2 et ClF.",
    "section": "Composés chimiques"
   },
-  "f139": {
-   "kind": "number",
-   "value": 25,
-   "surface": "25",
-   "sentence": "FClO peut être obtenu par la réaction : ClF3 + H2O → FClO + 2 HF, mais ce composé est très instable (sa demi-vie est de 25 s à température ambiante) et se décompose en FClO2 et ClF.",
-   "section": "Composés chimiques"
-  },
-  "f140": {
+  "f123": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Sa production se fait selon la réaction en présence de NaF :\nCl2O + 2 F2 → F3ClO + ClF.",
+   "sentence": "Sa production se fait selon la réaction en présence de NaF:\nCl2O + 2 F2 → F3ClO + ClF.",
    "section": "Composés chimiques"
   },
-  "f141": {
+  "f124": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Il est produit par la réaction :\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
+   "sentence": "Il est produit par la réaction:\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
    "section": "Composés chimiques"
   },
-  "f142": {
+  "f125": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Il est produit par la réaction :\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
+   "sentence": "Il est produit par la réaction:\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
    "section": "Composés chimiques"
   },
-  "f143": {
+  "f126": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Il est produit par la réaction :\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
+   "sentence": "Il est produit par la réaction:\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
    "section": "Composés chimiques"
   },
-  "f144": {
+  "f127": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Il est produit par la réaction :\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
+   "sentence": "Il est produit par la réaction:\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
    "section": "Composés chimiques"
   },
-  "f145": {
+  "f128": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Il est produit par la réaction :\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
+   "sentence": "Il est produit par la réaction:\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
    "section": "Composés chimiques"
   },
-  "f146": {
+  "f129": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Il est produit par la réaction :\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
+   "sentence": "Il est produit par la réaction:\n6 NaClO3 + 4 ClF3 → 6 FClO2 + 6 NaF + 2 Cl2 + 3 O2.",
    "section": "Composés chimiques"
   },
-  "f147": {
+  "f130": {
    "kind": "number",
    "value": 110,
    "surface": "110",
-   "sentence": "Dans ce cadre, le difluor a été utilisé lors de l'élaboration de la bombe atomique, à l'occasion du Projet Manhattan ;\nla cryolithe, un minéral composé de fluorure de sodium et d'aluminium (Na3AlF6), est utilisée comme électrolyte dans la production d'aluminium par électrolyse ;\nle fluor monoatomique est utilisé pour le « plasma ashing » dans la fabrication des semi-conducteurs ;\navec d'autres composés, le fluor est utilisé dans la fabrication de plus d'une centaine de composés fluorés commerciaux, tels que le plastique haute température ;\nl'isotope radioactif 18F du fluor, émetteur de positons, est le noyau le plus utilisé dans la technique de tomographie par émission de positons (TEP, une technique de visualisation médicale non invasive) de par sa demi-vie de 110 minutes, relativement longue ;\nle fluorure de sodium a été utilisé comme insecticide, particulièrement contre les cafards, ou comme dératiseur ;\ndes fluorures sont ajoutés au sel (42 % du sel vendu aux ménages français est iodé et fluoré) et aux dentifrices, ou parfois dans certaines sources d'eau ou dans certains aliments pour lutter contre les caries dentaires.",
+   "sentence": "Dans ce cadre, le difluor a été utilisé lors de l'élaboration de la bombe atomique, à l'occasion du Projet Manhattan;\nla cryolithe, un minéral composé de fluorure de sodium et d'aluminium, est utilisée comme électrolyte dans la production d'aluminium par électrolyse;\nle fluor monoatomique est utilisé pour le «plasma ashing» dans la fabrication des semi-conducteurs;\navec d'autres composés, le fluor est utilisé dans la fabrication de plus d'une centaine de composés fluorés commerciaux, tels que le plastique haute température;\nl'isotope radioactif 18F du fluor, émetteur de positons, est le noyau le plus utilisé dans la technique de tomographie par émission de positons de par sa demi-vie de 110 minutes, relativement longue;\nle fluorure de sodium a été utilisé comme insecticide, particulièrement contre les cafards, ou comme dératiseur;\ndes fluorures sont ajoutés au sel et aux dentifrices, ou parfois dans certaines sources d'eau ou dans certains aliments pour lutter contre les caries dentaires.",
    "section": "Utilisation"
   },
-  "f148": {
-   "kind": "measure",
-   "value": 42,
-   "unit": "%",
-   "surface": "42 %",
-   "sentence": "Dans ce cadre, le difluor a été utilisé lors de l'élaboration de la bombe atomique, à l'occasion du Projet Manhattan ;\nla cryolithe, un minéral composé de fluorure de sodium et d'aluminium (Na3AlF6), est utilisée comme électrolyte dans la production d'aluminium par électrolyse ;\nle fluor monoatomique est utilisé pour le « plasma ashing » dans la fabrication des semi-conducteurs ;\navec d'autres composés, le fluor est utilisé dans la fabrication de plus d'une centaine de composés fluorés commerciaux, tels que le plastique haute température ;\nl'isotope radioactif 18F du fluor, émetteur de positons, est le noyau le plus utilisé dans la technique de tomographie par émission de positons (TEP, une technique de visualisation médicale non invasive) de par sa demi-vie de 110 minutes, relativement longue ;\nle fluorure de sodium a été utilisé comme insecticide, particulièrement contre les cafards, ou comme dératiseur ;\ndes fluorures sont ajoutés au sel (42 % du sel vendu aux ménages français est iodé et fluoré) et aux dentifrices, ou parfois dans certaines sources d'eau ou dans certains aliments pour lutter contre les caries dentaires.",
-   "section": "Utilisation"
-  },
-  "f149": {
+  "f131": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "L'Afssaps a d'ailleurs modifié en décembre 2008 ses recommandations sur la prescription fluorée et ne recommande plus de supplément entre 0 et 6 mois.",
    "section": "Utilisation"
   },
-  "f150": {
+  "f132": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "L'Afssaps a d'ailleurs modifié en décembre 2008 ses recommandations sur la prescription fluorée et ne recommande plus de supplément entre 0 et 6 mois.",
    "section": "Utilisation"
   },
-  "f151": {
+  "f133": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "L'Afssaps a d'ailleurs modifié en décembre 2008 ses recommandations sur la prescription fluorée et ne recommande plus de supplément entre 0 et 6 mois.",
-   "section": "Utilisation"
-  },
-  "f152": {
-   "kind": "date",
-   "value": "687",
-   "surface": "687",
-   "sentence": "Au-delà, l'apport de fluor est réservé aux enfants à risque carieux élevé ;\ncomme arme chimique, le fluor est utilisé dans les gaz sarin (classifié comme arme de destruction massive par la résolution 687 du Conseil de sécurité des Nations unies) et soman, entre autres ;\ncertains antidépresseurs comme la fluvoxamine, la paroxétine, l'escitalopram, la fluoxétine (Prozac), etc. contiennent du fluor.",
    "section": "Utilisation"
   }
  },

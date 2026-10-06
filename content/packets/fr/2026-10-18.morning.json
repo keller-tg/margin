@@ -82,21 +82,21 @@
    "value": 361,
    "unit": "km",
    "surface": "361 km",
-   "sentence": "Les îles Malouines ou îles Falkland (en anglais : Falkland Islands ; en espagnol : Islas Malvinas) sont un archipel de l'océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan, l'extrémité orientale de l'île des États, à 397 kilomètres au nord-est du cap San Diego, la pointe est de la Terre de Feu, et à 1 216 kilomètres au nord de l'extrémité septentrionale de la péninsule Antarctique."
+   "sentence": "Les îles Malouines ou îles Falkland sont un archipel de l'océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan, l'extrémité orientale de l'île des États, à 397 kilomètres au nord-est du cap San Diego, la pointe est de la Terre de Feu, et à 1 216 kilomètres au nord de l'extrémité septentrionale de la péninsule Antarctique."
   },
   "f2": {
    "kind": "measure",
    "value": 397,
    "unit": "kilomètres",
    "surface": "397 kilomètres",
-   "sentence": "Les îles Malouines ou îles Falkland (en anglais : Falkland Islands ; en espagnol : Islas Malvinas) sont un archipel de l'océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan, l'extrémité orientale de l'île des États, à 397 kilomètres au nord-est du cap San Diego, la pointe est de la Terre de Feu, et à 1 216 kilomètres au nord de l'extrémité septentrionale de la péninsule Antarctique."
+   "sentence": "Les îles Malouines ou îles Falkland sont un archipel de l'océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan, l'extrémité orientale de l'île des États, à 397 kilomètres au nord-est du cap San Diego, la pointe est de la Terre de Feu, et à 1 216 kilomètres au nord de l'extrémité septentrionale de la péninsule Antarctique."
   },
   "f3": {
    "kind": "measure",
    "value": 1216,
    "unit": "kilomètres",
    "surface": "1 216 kilomètres",
-   "sentence": "Les îles Malouines ou îles Falkland (en anglais : Falkland Islands ; en espagnol : Islas Malvinas) sont un archipel de l'océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan, l'extrémité orientale de l'île des États, à 397 kilomètres au nord-est du cap San Diego, la pointe est de la Terre de Feu, et à 1 216 kilomètres au nord de l'extrémité septentrionale de la péninsule Antarctique."
+   "sentence": "Les îles Malouines ou îles Falkland sont un archipel de l'océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan, l'extrémité orientale de l'île des États, à 397 kilomètres au nord-est du cap San Diego, la pointe est de la Terre de Feu, et à 1 216 kilomètres au nord de l'extrémité septentrionale de la péninsule Antarctique."
   },
   "f4": {
    "kind": "date",
@@ -108,7 +108,7 @@
    "kind": "date",
    "value": "750",
    "surface": "750",
-   "sentence": "L'archipel est composé de deux îles principales, la Grande Malouine et la Malouine orientale, séparées par un large chenal, le détroit des Malouines (Falkland Sound en anglais, Estrecho de San Carlos en espagnol), ainsi que de plus de 750 îles et îlots."
+   "sentence": "L'archipel est composé de deux îles principales, la Grande Malouine et la Malouine orientale, séparées par un large chenal, le détroit des Malouines, ainsi que de plus de 750 îles et îlots."
   },
   "f6": {
    "kind": "measure",
@@ -121,142 +121,128 @@
    "kind": "number",
    "value": 3000,
    "surface": "3 000",
-   "sentence": "Il abrite une population d'environ 3 000 habitants (appelés Malouins), dont les deux tiers résident dans la capitale Port Stanley."
+   "sentence": "Il abrite une population d'environ 3 000 habitants, dont les deux tiers résident dans la capitale Port Stanley."
   },
   "f8": {
    "kind": "date",
-   "value": "1520",
-   "surface": "1520",
-   "sentence": "Découvertes par Amerigo Vespucci au début du XVIe siècle, puis visitées par Esteban Gómez (1520), Simón de Alcazaba et Alonso de Camargo (avant 1540), les îles Malouines sont baptisées en 1592 par les Anglais « îles méridionales de Davis », nom que leur donna le navigateur anglais John Davis.",
+   "value": "1592",
+   "surface": "1592",
+   "sentence": "Découvertes par Amerigo Vespucci au début du XVIe siècle, puis visitées par Esteban Gómez, Simón de Alcazaba et Alonso de Camargo, les îles Malouines sont baptisées en 1592 par les Anglais «îles méridionales de Davis», nom que leur donna le navigateur anglais John Davis.",
    "section": "Nom"
   },
   "f9": {
    "kind": "date",
-   "value": "1540",
-   "surface": "1540",
-   "sentence": "Découvertes par Amerigo Vespucci au début du XVIe siècle, puis visitées par Esteban Gómez (1520), Simón de Alcazaba et Alonso de Camargo (avant 1540), les îles Malouines sont baptisées en 1592 par les Anglais « îles méridionales de Davis », nom que leur donna le navigateur anglais John Davis.",
+   "value": "1594",
+   "surface": "1594",
+   "sentence": "Deux ans plus tard, en 1594, le navigateur anglais Richard Hawkins les nomme «Hawkins’s Maiden-Land».",
    "section": "Nom"
   },
   "f10": {
    "kind": "date",
-   "value": "1592",
-   "surface": "1592",
-   "sentence": "Découvertes par Amerigo Vespucci au début du XVIe siècle, puis visitées par Esteban Gómez (1520), Simón de Alcazaba et Alonso de Camargo (avant 1540), les îles Malouines sont baptisées en 1592 par les Anglais « îles méridionales de Davis », nom que leur donna le navigateur anglais John Davis.",
+   "value": "1600",
+   "surface": "1600",
+   "sentence": "En 1600, le navigateur hollandais Sebald de Weert y accoste à son tour et leur donne le nom d'«îles Sebald».",
    "section": "Nom"
   },
   "f11": {
    "kind": "date",
-   "value": "1594",
-   "surface": "1594",
-   "sentence": "Deux ans plus tard, en 1594, le navigateur anglais Richard Hawkins les nomme « Hawkins’s Maiden-Land ».",
+   "value": "1690",
+   "surface": "1690",
+   "sentence": "Lors d'une nouvelle exploration en 1690, John Strong, qui dirige l'expédition, les nomme à son tour Falkland Islands, d'après son seigneur, Anthony Cary, 5e vicomte de Falkland.",
    "section": "Nom"
   },
   "f12": {
    "kind": "date",
-   "value": "1600",
-   "surface": "1600",
-   "sentence": "En 1600, le navigateur hollandais Sebald de Weert y accoste à son tour et leur donne le nom d'« îles Sebald ».",
+   "value": "1764",
+   "surface": "1764",
+   "sentence": "Le Français Louis-Antoine de Bougainville les visite à son tour en 1764 et les baptise «îles Malouines» d'après le nom des habitants de Saint-Malo, port breton dont proviennent les premiers colons permanents connus de ces îles.",
    "section": "Nom"
   },
   "f13": {
-   "kind": "date",
-   "value": "1690",
-   "surface": "1690",
-   "sentence": "Lors d'une nouvelle exploration en 1690, John Strong, qui dirige l'expédition, les nomme à son tour Falkland Islands, d'après son seigneur, Anthony Cary (en), 5e vicomte de Falkland (une petite ville du Sud-Est de l'Écosse dans le Fife).",
-   "section": "Nom"
-  },
-  "f14": {
-   "kind": "date",
-   "value": "1764",
-   "surface": "1764",
-   "sentence": "Le Français Louis-Antoine de Bougainville les visite à son tour en 1764 et les baptise « îles Malouines » d'après le nom des habitants de Saint-Malo, port breton dont proviennent les premiers colons permanents connus de ces îles.",
-   "section": "Nom"
-  },
-  "f15": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "Mais en raison du désaccord sur la souveraineté sur l'archipel, l'usage de noms espagnols est considéré comme agressif sur l'archipel, particulièrement par ceux qui sont associés à la tentative de récupération des îles par des troupes argentines en 1982 alors qu'elles étaient occupées par les Britanniques depuis 1833.",
    "section": "Nom"
   },
-  "f16": {
+  "f14": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "Mais en raison du désaccord sur la souveraineté sur l'archipel, l'usage de noms espagnols est considéré comme agressif sur l'archipel, particulièrement par ceux qui sont associés à la tentative de récupération des îles par des troupes argentines en 1982 alors qu'elles étaient occupées par les Britanniques depuis 1833.",
    "section": "Nom"
   },
-  "f17": {
+  "f15": {
    "kind": "date",
    "value": "1764",
    "surface": "1764",
    "sentence": "Désertes jusqu'à leur découverte par les Européens au XVIe siècle, les îles Malouines sont colonisées en 1764 sous la direction du français Louis-Antoine de Bougainville, mais passent en 1767 sous souveraineté espagnole, Louis XV voulant endiguer l'avancée britannique.",
    "section": "Histoire"
   },
-  "f18": {
+  "f16": {
    "kind": "date",
    "value": "1767",
    "surface": "1767",
    "sentence": "Désertes jusqu'à leur découverte par les Européens au XVIe siècle, les îles Malouines sont colonisées en 1764 sous la direction du français Louis-Antoine de Bougainville, mais passent en 1767 sous souveraineté espagnole, Louis XV voulant endiguer l'avancée britannique.",
    "section": "Histoire"
   },
-  "f19": {
+  "f17": {
    "kind": "date",
    "value": "1770",
    "surface": "1770",
    "sentence": "Elles font ensuite l'objet de revendications territoriales de l'Espagne et du Royaume-Uni, ce qui conduit à une crise diplomatique, la crise des Malouines de 1770, conclue par un compromis entre les deux États.",
    "section": "Histoire"
   },
-  "f20": {
+  "f18": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
    "sentence": "Après son indépendance de l'Espagne en 1816, l'Argentine se proclame héritière de la souveraineté espagnole sur les îles Malouines, situées au large de ses côtes.",
    "section": "Histoire"
   },
-  "f21": {
+  "f19": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "Le Royaume-Uni contrôle cependant l'archipel à partir de 1833, et y installe progressivement des colons d'origine britannique.",
    "section": "Histoire"
   },
-  "f22": {
+  "f20": {
    "kind": "date",
    "value": "1911",
    "surface": "1911",
    "sentence": "En 1911, les îles Malouines avaient 3275 habitants, et 916 d'entre eux habitaient Port Stanley.",
    "section": "Histoire"
   },
-  "f23": {
+  "f21": {
    "kind": "number",
    "value": 3275,
    "surface": "3275",
    "sentence": "En 1911, les îles Malouines avaient 3275 habitants, et 916 d'entre eux habitaient Port Stanley.",
    "section": "Histoire"
   },
-  "f24": {
+  "f22": {
    "kind": "date",
    "value": "916",
    "surface": "916",
    "sentence": "En 1911, les îles Malouines avaient 3275 habitants, et 916 d'entre eux habitaient Port Stanley.",
    "section": "Histoire"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
-   "sentence": "L'Argentine conteste la souveraineté britannique sur les îles Malouines, et tente d'en prendre le contrôle par les armes en 1982 : c'est la guerre des Malouines, dont le Royaume-Uni sort vainqueur.",
+   "sentence": "L'Argentine conteste la souveraineté britannique sur les îles Malouines, et tente d'en prendre le contrôle par les armes en 1982: c'est la guerre des Malouines, dont le Royaume-Uni sort vainqueur.",
    "section": "Histoire"
   },
-  "f26": {
+  "f24": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Un référendum d'auto-détermination a lieu en mars 2013 pour permettre aux habitants de choisir leur statut, une consultation par laquelle ceux-ci choisissent à 98,8 % de conserver le statut de territoire britannique d'outre-mer, mais ce référendum n'est pas reconnu par les autorités argentines, qui le jugent illégitime.",
    "section": "Histoire"
   },
-  "f27": {
+  "f25": {
    "kind": "measure",
    "value": 98.8,
    "unit": "%",
@@ -264,56 +250,56 @@
    "sentence": "Un référendum d'auto-détermination a lieu en mars 2013 pour permettre aux habitants de choisir leur statut, une consultation par laquelle ceux-ci choisissent à 98,8 % de conserver le statut de territoire britannique d'outre-mer, mais ce référendum n'est pas reconnu par les autorités argentines, qui le jugent illégitime.",
    "section": "Histoire"
   },
-  "f28": {
+  "f26": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
-   "sentence": "En 2015, le gouvernement de Cristina Kirchner dénonce auprès de l'Organisation des Nations unies la politique du renforcement du dispositif militaire britannique, qui vise à « moderniser le dispositif de défense » selon le ministre britannique de la Défense Michael Fallon.",
+   "sentence": "En 2015, le gouvernement de Cristina Kirchner dénonce auprès de l'Organisation des Nations unies la politique du renforcement du dispositif militaire britannique, qui vise à «moderniser le dispositif de défense» selon le ministre britannique de la Défense Michael Fallon.",
    "section": "Histoire"
   },
-  "f29": {
+  "f27": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Selon la Constitution de 2009, l'archipel dispose d'une autonomie interne complète.",
    "section": "Politique"
   },
-  "f30": {
+  "f28": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Depuis les élections générales de 2013, les membres de l'Assemblée législative reçoivent un salaire et ils sont censés exercer leur mandat à temps plein, les obligeant à abandonner tout autre travail et tout intérêt professionnel, pour assurer leur indépendance.",
    "section": "Politique"
   },
-  "f31": {
+  "f29": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Du fait de leurs liens avec le Royaume-Uni, les Malouines ont fait partie des pays et territoires d'outre-mer de l'Union européenne jusqu'au 31 janvier 2020, date du retrait du Royaume-Uni de l'Union européenne.",
    "section": "Politique"
   },
-  "f32": {
+  "f30": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Du fait de leurs liens avec le Royaume-Uni, les Malouines ont fait partie des pays et territoires d'outre-mer de l'Union européenne jusqu'au 31 janvier 2020, date du retrait du Royaume-Uni de l'Union européenne.",
    "section": "Politique"
   },
-  "f33": {
+  "f31": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "Les eaux territoriales de l'archipel s'étendent jusqu'à 200 milles marins du littoral, conformément à la Convention des Nations unies sur le droit de la mer et sont en contact avec les frontières maritimes de l'Argentine.",
    "section": "Politique"
   },
-  "f34": {
+  "f32": {
    "kind": "date",
    "value": "776",
    "surface": "776",
-   "sentence": "Il existe deux îles principales, Malouine orientale (Soledad / East Falkland) et Grande Malouine (Gran Malvina / West Falkland) et environ 776 plus petites îles ou îlots dont l'île Bobs.",
+   "sentence": "Il existe deux îles principales, Malouine orientale et Grande Malouine et environ 776 plus petites îles ou îlots dont l'île Bobs.",
    "section": "Géographie"
   },
-  "f35": {
+  "f33": {
    "kind": "measure",
    "value": 12173,
    "unit": "km2",
@@ -321,7 +307,7 @@
    "sentence": "L'ensemble représente une surface de 12 173 km2.",
    "section": "Géographie"
   },
-  "f36": {
+  "f34": {
    "kind": "measure",
    "value": 343,
    "unit": "km",
@@ -329,7 +315,7 @@
    "sentence": "Les îles sont situées à 343 km de l'île argentine des États, à 463 km de la côte continentale de l'Argentine, à 489 km du Chili, à 928 km de l'Antarctique et à 1 078 km à l'ouest des Shag Rocks de la Géorgie du Sud.",
    "section": "Géographie"
   },
-  "f37": {
+  "f35": {
    "kind": "measure",
    "value": 463,
    "unit": "km",
@@ -337,7 +323,7 @@
    "sentence": "Les îles sont situées à 343 km de l'île argentine des États, à 463 km de la côte continentale de l'Argentine, à 489 km du Chili, à 928 km de l'Antarctique et à 1 078 km à l'ouest des Shag Rocks de la Géorgie du Sud.",
    "section": "Géographie"
   },
-  "f38": {
+  "f36": {
    "kind": "measure",
    "value": 489,
    "unit": "km",
@@ -345,7 +331,7 @@
    "sentence": "Les îles sont situées à 343 km de l'île argentine des États, à 463 km de la côte continentale de l'Argentine, à 489 km du Chili, à 928 km de l'Antarctique et à 1 078 km à l'ouest des Shag Rocks de la Géorgie du Sud.",
    "section": "Géographie"
   },
-  "f39": {
+  "f37": {
    "kind": "measure",
    "value": 928,
    "unit": "km",
@@ -353,7 +339,7 @@
    "sentence": "Les îles sont situées à 343 km de l'île argentine des États, à 463 km de la côte continentale de l'Argentine, à 489 km du Chili, à 928 km de l'Antarctique et à 1 078 km à l'ouest des Shag Rocks de la Géorgie du Sud.",
    "section": "Géographie"
   },
-  "f40": {
+  "f38": {
    "kind": "measure",
    "value": 1078,
    "unit": "km",
@@ -361,7 +347,7 @@
    "sentence": "Les îles sont situées à 343 km de l'île argentine des États, à 463 km de la côte continentale de l'Argentine, à 489 km du Chili, à 928 km de l'Antarctique et à 1 078 km à l'ouest des Shag Rocks de la Géorgie du Sud.",
    "section": "Géographie"
   },
-  "f41": {
+  "f39": {
    "kind": "measure",
    "value": 1288,
    "unit": "km",
@@ -369,7 +355,7 @@
    "sentence": "La côte a une longueur estimée de 1 288 km.",
    "section": "Géographie"
   },
-  "f42": {
+  "f40": {
    "kind": "measure",
    "value": 705,
    "unit": "mètres",
@@ -377,37 +363,21 @@
    "sentence": "Les deux îles ont des chaînes de montagnes, le plus haut point de l'archipel étant le mont Usborne, 705 mètres, sur la Malouine orientale.",
    "section": "Géographie"
   },
-  "f43": {
+  "f41": {
    "kind": "number",
    "value": 12,
    "surface": "12",
-   "sentence": "L'archipel revendique des eaux territoriales à 12 milles nautiques (22,2 km) et une zone économique exclusive de 200 milles nautiques (370,4 km), qui est une source de désaccord avec l'Argentine.",
+   "sentence": "L'archipel revendique des eaux territoriales à 12 milles nautiques et une zone économique exclusive de 200 milles nautiques, qui est une source de désaccord avec l'Argentine.",
    "section": "Géographie"
   },
-  "f44": {
-   "kind": "measure",
-   "value": 22.2,
-   "unit": "km",
-   "surface": "22,2 km",
-   "sentence": "L'archipel revendique des eaux territoriales à 12 milles nautiques (22,2 km) et une zone économique exclusive de 200 milles nautiques (370,4 km), qui est une source de désaccord avec l'Argentine.",
-   "section": "Géographie"
-  },
-  "f45": {
+  "f42": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "L'archipel revendique des eaux territoriales à 12 milles nautiques (22,2 km) et une zone économique exclusive de 200 milles nautiques (370,4 km), qui est une source de désaccord avec l'Argentine.",
+   "sentence": "L'archipel revendique des eaux territoriales à 12 milles nautiques et une zone économique exclusive de 200 milles nautiques, qui est une source de désaccord avec l'Argentine.",
    "section": "Géographie"
   },
-  "f46": {
-   "kind": "measure",
-   "value": 370.4,
-   "unit": "km",
-   "surface": "370,4 km",
-   "sentence": "L'archipel revendique des eaux territoriales à 12 milles nautiques (22,2 km) et une zone économique exclusive de 200 milles nautiques (370,4 km), qui est une source de désaccord avec l'Argentine.",
-   "section": "Géographie"
-  },
-  "f47": {
+  "f43": {
    "kind": "measure",
    "value": 13,
    "unit": "°c",
@@ -415,7 +385,7 @@
    "sentence": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet.",
    "section": "Climat"
   },
-  "f48": {
+  "f44": {
    "kind": "measure",
    "value": 4,
    "unit": "°c",
@@ -423,14 +393,14 @@
    "sentence": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet.",
    "section": "Climat"
   },
-  "f49": {
+  "f45": {
    "kind": "number",
    "value": 573.6,
    "surface": "573,6",
    "sentence": "La pluviométrie annuelle moyenne est 573,6 millimètres, la partie est des îles Malouines étant généralement plus humide que la partie ouest.",
    "section": "Climat"
   },
-  "f50": {
+  "f46": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -438,7 +408,7 @@
    "sentence": "La pêche représente 40 % du PIB et 60 % des recettes fiscales de l'archipel.",
    "section": "Économie"
   },
-  "f51": {
+  "f47": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -446,21 +416,7 @@
    "sentence": "La pêche représente 40 % du PIB et 60 % des recettes fiscales de l'archipel.",
    "section": "Économie"
   },
-  "f52": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Des réserves substantielles mais encore inexploitées de matières premières (estimées entre 10 et 140 milliards d'euros) se trouveraient dans les fonds marins de leur territoire.",
-   "section": "Économie"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 140000000000,
-   "surface": "140 milliards",
-   "sentence": "Des réserves substantielles mais encore inexploitées de matières premières (estimées entre 10 et 140 milliards d'euros) se trouveraient dans les fonds marins de leur territoire.",
-   "section": "Économie"
-  },
-  "f54": {
+  "f48": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -468,21 +424,21 @@
    "sentence": "Au niveau des relations entre les îles Malouines et l'Union européenne, 90 % des exportations de l'archipel se font vers l'Europe.",
    "section": "Économie"
   },
-  "f55": {
+  "f49": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
-   "sentence": "Depuis la guerre de 1982, au cours de laquelle l'archipel a déclaré une zone de pêche exclusive, la pêche (notamment des calmars) constitue la principale activité économique des îles Malouines.",
+   "sentence": "Depuis la guerre de 1982, au cours de laquelle l'archipel a déclaré une zone de pêche exclusive, la pêche constitue la principale activité économique des îles Malouines.",
    "section": "Économie"
   },
-  "f56": {
+  "f50": {
    "kind": "number",
    "value": 140000000,
    "surface": "140 millions",
    "sentence": "Le gouvernement vend des licences de pêche à des navires européens, qui rapportent plus de 140 millions de livres par an de revenus.",
    "section": "Économie"
   },
-  "f57": {
+  "f51": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -490,42 +446,28 @@
    "sentence": "Plus de 75 % des prises sont du calmar, principalement exporté vers l'Espagne.",
    "section": "Économie"
   },
-  "f58": {
-   "kind": "date",
-   "value": "2002",
-   "surface": "2002",
-   "sentence": "L'élevage de moutons est la principale activité des habitants de l'île (en 2002, on recensait 583 000 moutons sur l'archipel) apportant une importante source de revenus avec l'exportation de laine de haute qualité vers Londres.",
-   "section": "Économie"
-  },
-  "f59": {
-   "kind": "number",
-   "value": 583000,
-   "surface": "583 000",
-   "sentence": "L'élevage de moutons est la principale activité des habitants de l'île (en 2002, on recensait 583 000 moutons sur l'archipel) apportant une importante source de revenus avec l'exportation de laine de haute qualité vers Londres.",
-   "section": "Économie"
-  },
-  "f60": {
+  "f52": {
    "kind": "number",
    "value": 60000,
    "surface": "60 000",
    "sentence": "Le tourisme a fortement progressé, avec 60 000 visiteurs en 2009.",
    "section": "Économie"
   },
-  "f61": {
+  "f53": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Le tourisme a fortement progressé, avec 60 000 visiteurs en 2009.",
    "section": "Économie"
   },
-  "f62": {
+  "f54": {
    "kind": "number",
    "value": 7000000,
    "surface": "7 millions",
    "sentence": "Le tourisme est la seconde activité économique des îles, générant 7 millions de livres par an.",
    "section": "Économie"
   },
-  "f63": {
+  "f55": {
    "kind": "measure",
    "value": 1991,
    "unit": "au",
@@ -533,219 +475,197 @@
    "sentence": "Elle est responsable de la majorité de l'activité économique de l'archipel, bien que ses fermes aient été vendues en 1991 au Gouvernement des îles Malouines.",
    "section": "Économie"
   },
-  "f64": {
+  "f56": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Vers 2009-2010, de petites compagnies pétrolières, le trio britannique Desire Petroleum, Rockhopper et Falkland Oil & Gas, ont envisagé d'explorer les possibles ressources pétrolières de l'île et ont entamé à partir de février une campagne de forage.",
    "section": "Économie"
   },
-  "f65": {
+  "f57": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Ceci a suscité l'attention de la secrétaire d’État américaine, Hillary Clinton, qui demandait en janvier 2010 à son ambassade des informations supplémentaires à ce sujet, et notamment concernant l'attitude du gouvernement argentin.",
    "section": "Économie"
   },
-  "f66": {
+  "f58": {
    "kind": "number",
    "value": 407,
    "surface": "407",
-   "sentence": "La résolution 407 (2007) du gouvernement argentin de Cristina Fernández de Kirchner menaçait toute compagnie explorant les lieux sans son accord d'être interdite d'activité en Argentine.",
+   "sentence": "La résolution 407 du gouvernement argentin de Cristina Fernández de Kirchner menaçait toute compagnie explorant les lieux sans son accord d'être interdite d'activité en Argentine.",
    "section": "Économie"
   },
-  "f67": {
-   "kind": "date",
-   "value": "2007",
-   "surface": "2007",
-   "sentence": "La résolution 407 (2007) du gouvernement argentin de Cristina Fernández de Kirchner menaçait toute compagnie explorant les lieux sans son accord d'être interdite d'activité en Argentine.",
-   "section": "Économie"
-  },
-  "f68": {
+  "f59": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Un accord est ensuite intervenu avec les Argentins pour l'exploitation des ressources off-shore, dont on estimait jusqu'en fin 2010 qu'il y avait d'importantes réserves de pétrole, mais les conditions climatiques des mers australes rendent cette exploitation difficile et les désaccords persistant sur la souveraineté de l'archipel entravent ce développement.",
    "section": "Économie"
   },
-  "f69": {
+  "f60": {
    "kind": "number",
    "value": 125000000,
    "surface": "125 millions",
-   "sentence": "Les îles sont auto-suffisantes, sauf pour leur défense ; les exportations[Quoi ?] rapportent plus de 125 millions de livres par an[réf. nécessaire].",
+   "sentence": "Les îles sont auto-suffisantes, sauf pour leur défense; les exportations rapportent plus de 125 millions de livres par an.",
    "section": "Économie"
   },
-  "f70": {
+  "f61": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "La première « véritable » découverte de pétrole dans les eaux de l'archipel a été enregistrée le 6 mai 2010 dans un bloc d'exploration détenu par la compagnie Rockhopper.",
+   "sentence": "La première «véritable» découverte de pétrole dans les eaux de l'archipel a été enregistrée le 6 mai 2010 dans un bloc d'exploration détenu par la compagnie Rockhopper.",
    "section": "Économie"
   },
-  "f71": {
+  "f62": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "La première « véritable » découverte de pétrole dans les eaux de l'archipel a été enregistrée le 6 mai 2010 dans un bloc d'exploration détenu par la compagnie Rockhopper.",
+   "sentence": "La première «véritable» découverte de pétrole dans les eaux de l'archipel a été enregistrée le 6 mai 2010 dans un bloc d'exploration détenu par la compagnie Rockhopper.",
    "section": "Économie"
   },
-  "f72": {
+  "f63": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Le 6 décembre 2010, Desire Petroleum a confirmé que « l'examen des données du forage effectué au nord des îles Malouines démontrait que le forage était de mauvaise qualité » et donc inexploitable, celui-ci étant le seul estimé potentiellement exploitable.",
+   "sentence": "Le 6 décembre 2010, Desire Petroleum a confirmé que «l'examen des données du forage effectué au nord des îles Malouines démontrait que le forage était de mauvaise qualité» et donc inexploitable, celui-ci étant le seul estimé potentiellement exploitable.",
    "section": "Économie"
   },
-  "f73": {
+  "f64": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "Le 6 décembre 2010, Desire Petroleum a confirmé que « l'examen des données du forage effectué au nord des îles Malouines démontrait que le forage était de mauvaise qualité » et donc inexploitable, celui-ci étant le seul estimé potentiellement exploitable.",
+   "sentence": "Le 6 décembre 2010, Desire Petroleum a confirmé que «l'examen des données du forage effectué au nord des îles Malouines démontrait que le forage était de mauvaise qualité» et donc inexploitable, celui-ci étant le seul estimé potentiellement exploitable.",
    "section": "Économie"
   },
-  "f74": {
+  "f65": {
    "kind": "measure",
    "value": 1982,
    "unit": "au",
    "surface": "1982 au",
-   "sentence": "Durant l'occupation argentine d'avril 1982 au 14 juin 1982, les timbres d'Argentine (en) furent utilisés sans surcharge.",
+   "sentence": "Durant l'occupation argentine d'avril 1982 au 14 juin 1982, les timbres d'Argentine furent utilisés sans surcharge.",
    "section": "Philatélie"
   },
-  "f75": {
+  "f66": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Durant l'occupation argentine d'avril 1982 au 14 juin 1982, les timbres d'Argentine (en) furent utilisés sans surcharge.",
+   "sentence": "Durant l'occupation argentine d'avril 1982 au 14 juin 1982, les timbres d'Argentine furent utilisés sans surcharge.",
    "section": "Philatélie"
   },
-  "f76": {
+  "f67": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
-   "sentence": "Durant l'occupation argentine d'avril 1982 au 14 juin 1982, les timbres d'Argentine (en) furent utilisés sans surcharge.",
+   "sentence": "Durant l'occupation argentine d'avril 1982 au 14 juin 1982, les timbres d'Argentine furent utilisés sans surcharge.",
    "section": "Philatélie"
   },
-  "f77": {
+  "f68": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Les timbres-à-date du bureau de poste de Port Stanley furent retirés et remplacés dès le 6 avril par un cachet argentin libellé « 9409 ISLAS MALVINAS * REPUBLICA ARGENTINA - date - surmonté du drapeau argentin ».",
+   "sentence": "Les timbres-à-date du bureau de poste de Port Stanley furent retirés et remplacés dès le 6 avril par un cachet argentin libellé «9409 ISLAS MALVINAS * REPUBLICA ARGENTINA - date - surmonté du drapeau argentin».",
    "section": "Philatélie"
   },
-  "f78": {
+  "f69": {
    "kind": "number",
    "value": 9409,
    "surface": "9409",
-   "sentence": "Les timbres-à-date du bureau de poste de Port Stanley furent retirés et remplacés dès le 6 avril par un cachet argentin libellé « 9409 ISLAS MALVINAS * REPUBLICA ARGENTINA - date - surmonté du drapeau argentin ».",
+   "sentence": "Les timbres-à-date du bureau de poste de Port Stanley furent retirés et remplacés dès le 6 avril par un cachet argentin libellé «9409 ISLAS MALVINAS * REPUBLICA ARGENTINA - date - surmonté du drapeau argentin».",
    "section": "Philatélie"
   },
-  "f79": {
+  "f70": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents (qui datait d'avant avril 1982) et continua à émettre ses propres timbres dès juillet 1982.",
+   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents et continua à émettre ses propres timbres dès juillet 1982.",
    "section": "Philatélie"
   },
-  "f80": {
+  "f71": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
-   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents (qui datait d'avant avril 1982) et continua à émettre ses propres timbres dès juillet 1982.",
+   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents et continua à émettre ses propres timbres dès juillet 1982.",
    "section": "Philatélie"
   },
-  "f81": {
+  "f72": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
-   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents (qui datait d'avant avril 1982) et continua à émettre ses propres timbres dès juillet 1982.",
+   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents et continua à émettre ses propres timbres dès juillet 1982.",
    "section": "Philatélie"
   },
-  "f82": {
-   "kind": "date",
-   "value": "1982",
-   "surface": "1982",
-   "sentence": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents (qui datait d'avant avril 1982) et continua à émettre ses propres timbres dès juillet 1982.",
-   "section": "Philatélie"
-  },
-  "f83": {
+  "f73": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "Le musée de Goose Green à Goose Green dont la thématique principale est de retracer les événements de la guerre de 1982.",
    "section": "Patrimoine"
   },
-  "f84": {
+  "f74": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "Le musée de Port Howard à Port Howard abrite des souvenirs de la guerre de 1982.",
    "section": "Patrimoine"
   },
-  "f85": {
+  "f75": {
    "kind": "date",
    "value": "1925",
    "surface": "1925",
    "sentence": "Le pont suspendu de Bodie Creek, construit en 1925 et fermé en 1997, permettait de relier Lafonia à la majeure partie de l’est des Îles Malouines.",
    "section": "Patrimoine"
   },
-  "f86": {
+  "f76": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Le pont suspendu de Bodie Creek, construit en 1925 et fermé en 1997, permettait de relier Lafonia à la majeure partie de l’est des Îles Malouines.",
    "section": "Patrimoine"
   },
-  "f87": {
+  "f77": {
    "kind": "number",
    "value": 3198,
    "surface": "3 198",
-   "sentence": "L'île était peuplée de 3 198 habitants en 2016, essentiellement d'origine européenne (britannique et scandinave), mais on compte aussi une petite minorité chilienne.",
+   "sentence": "L'île était peuplée de 3 198 habitants en 2016, essentiellement d'origine européenne, mais on compte aussi une petite minorité chilienne.",
    "section": "Habitants"
   },
-  "f88": {
+  "f78": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
-   "sentence": "L'île était peuplée de 3 198 habitants en 2016, essentiellement d'origine européenne (britannique et scandinave), mais on compte aussi une petite minorité chilienne.",
+   "sentence": "L'île était peuplée de 3 198 habitants en 2016, essentiellement d'origine européenne, mais on compte aussi une petite minorité chilienne.",
    "section": "Habitants"
   },
-  "f89": {
-   "kind": "measure",
-   "value": 12173,
-   "unit": "km2",
-   "surface": "12 173 km2",
-   "sentence": "Les autres vivent dans ce qui est appelé le Camp (les 12 173 km2 de l'archipel, hors Stanley).",
-   "section": "Habitants"
-  },
-  "f90": {
+  "f79": {
    "kind": "number",
    "value": 1700,
    "surface": "1 700",
    "sentence": "De plus, 1 700 soldats britanniques sont stationnés dans la base aéronavale de RAF Mount Pleasant.",
    "section": "Habitants"
   },
-  "f91": {
+  "f80": {
    "kind": "date",
    "value": "1811",
    "surface": "1811",
    "sentence": "Les descendants des rares colons français et espagnols présents avant 1811 se sont intégrés aux populations britanniques et scandinaves, et seuls quelques noms de familles, souvent anglicisés, rappellent la colonisation française avant 1764 et la période espagnole jusqu'à l'indépendance de l'Argentine en 1816.",
    "section": "Habitants"
   },
-  "f92": {
+  "f81": {
    "kind": "date",
    "value": "1764",
    "surface": "1764",
    "sentence": "Les descendants des rares colons français et espagnols présents avant 1811 se sont intégrés aux populations britanniques et scandinaves, et seuls quelques noms de familles, souvent anglicisés, rappellent la colonisation française avant 1764 et la période espagnole jusqu'à l'indépendance de l'Argentine en 1816.",
    "section": "Habitants"
   },
-  "f93": {
+  "f82": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
    "sentence": "Les descendants des rares colons français et espagnols présents avant 1811 se sont intégrés aux populations britanniques et scandinaves, et seuls quelques noms de familles, souvent anglicisés, rappellent la colonisation française avant 1764 et la période espagnole jusqu'à l'indépendance de l'Argentine en 1816.",
    "section": "Habitants"
   },
-  "f94": {
+  "f83": {
    "kind": "measure",
    "value": 89,
    "unit": "%",
@@ -753,14 +673,14 @@
    "sentence": "La langue officielle des Îles Malouines est l'anglais, parlé par 89 % de la population selon le recensement de 2006.",
    "section": "Habitants"
   },
-  "f95": {
+  "f84": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "La langue officielle des Îles Malouines est l'anglais, parlé par 89 % de la population selon le recensement de 2006.",
    "section": "Habitants"
   },
-  "f96": {
+  "f85": {
    "kind": "measure",
    "value": 9,
    "unit": "%",

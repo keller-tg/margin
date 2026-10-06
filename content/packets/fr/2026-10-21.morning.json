@@ -61,362 +61,330 @@
    "kind": "number",
    "value": 87,
    "surface": "87",
-   "sentence": "Messier 87 (aussi dénommée M87, NGC 4486, ou radiogalaxie Virgo A) est une galaxie elliptique supergéante."
+   "sentence": "Messier 87 est une galaxie elliptique supergéante."
   },
   "f2": {
-   "kind": "number",
-   "value": 4486,
-   "surface": "4486",
-   "sentence": "Messier 87 (aussi dénommée M87, NGC 4486, ou radiogalaxie Virgo A) est une galaxie elliptique supergéante."
-  },
-  "f3": {
    "kind": "date",
    "value": "1779",
    "surface": "1779",
    "sentence": "Elle a été découverte en 1779 par l'astronome allemand Johann Gottfried Koehler."
   },
-  "f4": {
+  "f3": {
    "kind": "number",
    "value": 15.4,
    "surface": "15,4",
-   "sentence": "Située à 15,4 ± 0,6 Mpc (∼50,2 millions d'al) de la Terre, c'est la plus grande et la plus lumineuse des galaxies de l'amas de la Vierge."
+   "sentence": "Située à 15,4 ± 0,6 Mpc de la Terre, c'est la plus grande et la plus lumineuse des galaxies de l'amas de la Vierge."
   },
-  "f5": {
+  "f4": {
    "kind": "number",
    "value": 0.6,
    "surface": "0,6",
-   "sentence": "Située à 15,4 ± 0,6 Mpc (∼50,2 millions d'al) de la Terre, c'est la plus grande et la plus lumineuse des galaxies de l'amas de la Vierge."
+   "sentence": "Située à 15,4 ± 0,6 Mpc de la Terre, c'est la plus grande et la plus lumineuse des galaxies de l'amas de la Vierge."
   },
-  "f6": {
-   "kind": "number",
-   "value": 50200000,
-   "surface": "50,2 millions",
-   "sentence": "Située à 15,4 ± 0,6 Mpc (∼50,2 millions d'al) de la Terre, c'est la plus grande et la plus lumineuse des galaxies de l'amas de la Vierge."
-  },
-  "f7": {
+  "f5": {
    "kind": "measure",
    "value": 5000,
    "unit": "années-lumière",
    "surface": "5 000 années-lumière",
    "sentence": "Un jet de plasma énergétique émerge du cœur et s'étend sur au moins 5 000 années-lumière."
   },
-  "f8": {
-   "kind": "number",
-   "value": 4486,
-   "surface": "4486",
-   "sentence": "NGC 4486 a été définie par Gérard de Vaucouleurs comme une galaxie de type morphologique E+0-1 dans son atlas des galaxies."
-  },
-  "f9": {
+  "f6": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "NGC 4486 a été définie par Gérard de Vaucouleurs comme une galaxie de type morphologique E+0-1 dans son atlas des galaxies."
   },
-  "f10": {
+  "f7": {
    "kind": "measure",
    "value": 490000,
    "unit": "années-lumière",
    "surface": "490 000 années-lumière",
    "sentence": "L'enveloppe galactique s'étend sur un rayon d'environ 490 000 années-lumière."
   },
-  "f11": {
+  "f8": {
    "kind": "number",
    "value": 46000000,
    "surface": "46 millions",
    "sentence": "Toute poussière produite au sein de la galaxie est détruite dans les 46 millions d'années par l’émission de rayons X du cœur, bien que des observations optiques aient révélé des filaments de poussière."
   },
-  "f12": {
+  "f9": {
    "kind": "number",
    "value": 12000,
    "surface": "12 000",
    "sentence": "Orbitant au sein de la galaxie, on trouve une population anormale d'environ 12 000 amas globulaires, à comparer avec les 150-200 amas globulaires de la Voie lactée."
   },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Orbitant au sein de la galaxie, on trouve une population anormale d'environ 12 000 amas globulaires, à comparer avec les 150-200 amas globulaires de la Voie lactée."
   },
-  "f14": {
+  "f11": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Étant la plus grande galaxie elliptique la plus proche de la Terre et l'une des plus brillantes radiosources du ciel, Messier 87 est une cible favorite d'observation pour les astronomes amateurs et d'étude pour les astronomes professionnels."
   },
-  "f15": {
+  "f12": {
    "kind": "date",
    "value": "1779",
    "surface": "1779",
    "sentence": "Cette galaxie a été découverte en 1779 par l'astronome allemand Johann Gottfried Koehler.",
    "section": "Historique des observations"
   },
-  "f16": {
+  "f13": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "L'astronome français Charles Messier redécouvre cette galaxie le 18 mars 1779 et il l'intègre à la troisième édition de son catalogue de 103 objets astronomiques ayant l'apparence de nébulosité qu'il publie en 1781.",
    "section": "Historique des observations"
   },
-  "f17": {
+  "f14": {
    "kind": "date",
    "value": "1779",
    "surface": "1779",
    "sentence": "L'astronome français Charles Messier redécouvre cette galaxie le 18 mars 1779 et il l'intègre à la troisième édition de son catalogue de 103 objets astronomiques ayant l'apparence de nébulosité qu'il publie en 1781.",
    "section": "Historique des observations"
   },
-  "f18": {
+  "f15": {
    "kind": "number",
    "value": 103,
    "surface": "103",
    "sentence": "L'astronome français Charles Messier redécouvre cette galaxie le 18 mars 1779 et il l'intègre à la troisième édition de son catalogue de 103 objets astronomiques ayant l'apparence de nébulosité qu'il publie en 1781.",
    "section": "Historique des observations"
   },
-  "f19": {
+  "f16": {
    "kind": "date",
    "value": "1781",
    "surface": "1781",
    "sentence": "L'astronome français Charles Messier redécouvre cette galaxie le 18 mars 1779 et il l'intègre à la troisième édition de son catalogue de 103 objets astronomiques ayant l'apparence de nébulosité qu'il publie en 1781.",
    "section": "Historique des observations"
   },
-  "f20": {
+  "f17": {
    "kind": "date",
    "value": "1880",
    "surface": "1880",
    "sentence": "Durant les années 1880, cette nébulosité sera référencée dans le New General Catalogue comme NGC 4486.",
    "section": "Historique des observations"
   },
-  "f21": {
-   "kind": "number",
-   "value": 4486,
-   "surface": "4486",
-   "sentence": "Durant les années 1880, cette nébulosité sera référencée dans le New General Catalogue comme NGC 4486.",
-   "section": "Historique des observations"
-  },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
-   "sentence": "En 1918, l'astronome américain Heber Doust Curtis de l'observatoire Lick observa qu'il n'y avait pas de structure spirale dans Messier 87 et remarqua « un curieux rayon droit… apparemment connecté au noyau par une fine ligne de matière ».",
+   "sentence": "En 1918, l'astronome américain Heber Doust Curtis de l'observatoire Lick observa qu'il n'y avait pas de structure spirale dans Messier 87 et remarqua «un curieux rayon droit… apparemment connecté au noyau par une fine ligne de matière».",
    "section": "Historique des observations"
   },
-  "f23": {
+  "f19": {
    "kind": "number",
    "value": 87,
    "surface": "87",
-   "sentence": "En 1918, l'astronome américain Heber Doust Curtis de l'observatoire Lick observa qu'il n'y avait pas de structure spirale dans Messier 87 et remarqua « un curieux rayon droit… apparemment connecté au noyau par une fine ligne de matière ».",
+   "sentence": "En 1918, l'astronome américain Heber Doust Curtis de l'observatoire Lick observa qu'il n'y avait pas de structure spirale dans Messier 87 et remarqua «un curieux rayon droit… apparemment connecté au noyau par une fine ligne de matière».",
    "section": "Historique des observations"
   },
-  "f24": {
+  "f20": {
    "kind": "number",
    "value": 21.5,
    "surface": "21,5",
    "sentence": "Elle a atteint la magnitude photographique de 21,5.",
    "section": "Historique des observations"
   },
-  "f25": {
+  "f21": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "L'astronome américain Edwin Hubble catégorisa Messier 87 comme l'une des plus brillantes nébuleuses globulaires, parce qu'elle lui manquait une structure en spirale mais qu'elle semblait appartenir à la même famille des nébuleuses non galactiques comme les nébuleuses spirales.",
    "section": "Historique des observations"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1926",
    "surface": "1926",
-   "sentence": "En 1926, il créa une nouvelle classification des nébuleuses, décrivant Messier 87 comme étant une nébuleuse elliptique extra-galactique sans aucune élongation apparente (classe E0).",
+   "sentence": "En 1926, il créa une nouvelle classification des nébuleuses, décrivant Messier 87 comme étant une nébuleuse elliptique extra-galactique sans aucune élongation apparente.",
+   "section": "Historique des observations"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 87,
+   "surface": "87",
+   "sentence": "En 1926, il créa une nouvelle classification des nébuleuses, décrivant Messier 87 comme étant une nébuleuse elliptique extra-galactique sans aucune élongation apparente.",
+   "section": "Historique des observations"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1931",
+   "surface": "1931",
+   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc de la Terre.",
+   "section": "Historique des observations"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 87,
+   "surface": "87",
+   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc de la Terre.",
+   "section": "Historique des observations"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 1.8,
+   "surface": "1,8",
+   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc de la Terre.",
    "section": "Historique des observations"
   },
   "f27": {
    "kind": "number",
    "value": 87,
    "surface": "87",
-   "sentence": "En 1926, il créa une nouvelle classification des nébuleuses, décrivant Messier 87 comme étant une nébuleuse elliptique extra-galactique sans aucune élongation apparente (classe E0).",
+   "sentence": "Messier 87 continua à être appelée «nébuleuse extra-galactique» durant de nombreuses années, mais en 1956 elle fut reconnue comme étant une galaxie de type E0.",
    "section": "Historique des observations"
   },
   "f28": {
    "kind": "date",
-   "value": "1931",
-   "surface": "1931",
-   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc (∼5,87 millions d'al) de la Terre.",
+   "value": "1956",
+   "surface": "1956",
+   "sentence": "Messier 87 continua à être appelée «nébuleuse extra-galactique» durant de nombreuses années, mais en 1956 elle fut reconnue comme étant une galaxie de type E0.",
    "section": "Historique des observations"
   },
   "f29": {
-   "kind": "number",
-   "value": 87,
-   "surface": "87",
-   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc (∼5,87 millions d'al) de la Terre.",
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947",
+   "sentence": "En 1947, une importante source radio fut localisée à l'endroit même de Messier 87, elle fut nommée «Virgo-A».",
    "section": "Historique des observations"
   },
   "f30": {
    "kind": "number",
-   "value": 1.8,
-   "surface": "1,8",
-   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc (∼5,87 millions d'al) de la Terre.",
+   "value": 87,
+   "surface": "87",
+   "sentence": "En 1947, une importante source radio fut localisée à l'endroit même de Messier 87, elle fut nommée «Virgo-A».",
    "section": "Historique des observations"
   },
   "f31": {
-   "kind": "number",
-   "value": 5870000,
-   "surface": "5,87 millions",
-   "sentence": "Jusqu'en 1931, Hubble identifia Messier 87 comme un membre de l'amas de la Vierge, pour lequel il estima provisoirement une distance d'environ 1,8 Mpc (∼5,87 millions d'al) de la Terre.",
-   "section": "Historique des observations"
-  },
-  "f32": {
-   "kind": "number",
-   "value": 87,
-   "surface": "87",
-   "sentence": "Messier 87 continua à être appelée « nébuleuse extra-galactique » durant de nombreuses années, mais en 1956 elle fut reconnue comme étant une galaxie de type E0.",
-   "section": "Historique des observations"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "1956",
-   "surface": "1956",
-   "sentence": "Messier 87 continua à être appelée « nébuleuse extra-galactique » durant de nombreuses années, mais en 1956 elle fut reconnue comme étant une galaxie de type E0.",
-   "section": "Historique des observations"
-  },
-  "f34": {
-   "kind": "date",
-   "value": "1947",
-   "surface": "1947",
-   "sentence": "En 1947, une importante source radio fut localisée à l'endroit même de Messier 87, elle fut nommée « Virgo-A ».",
-   "section": "Historique des observations"
-  },
-  "f35": {
-   "kind": "number",
-   "value": 87,
-   "surface": "87",
-   "sentence": "En 1947, une importante source radio fut localisée à l'endroit même de Messier 87, elle fut nommée « Virgo-A ».",
-   "section": "Historique des observations"
-  },
-  "f36": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Cette source fut confirmée comme étant Messier 87 en 1953, et le jet sortant du cœur de cette nébuleuse extra-galactique comme en étant la cause.",
    "section": "Historique des observations"
   },
-  "f37": {
+  "f32": {
    "kind": "date",
    "value": "1953",
    "surface": "1953",
    "sentence": "Cette source fut confirmée comme étant Messier 87 en 1953, et le jet sortant du cœur de cette nébuleuse extra-galactique comme en étant la cause.",
    "section": "Historique des observations"
   },
-  "f38": {
+  "f33": {
    "kind": "number",
    "value": 260,
    "surface": "260",
-   "sentence": "Ce jet part du cœur avec un angle de position de 260°, d'une distance angulaire de 20\" avec une épaisseur angulaire de 2\".",
+   "sentence": "Ce jet part du cœur avec un angle de position de 260°, d'une distance angulaire de 20\"avec une épaisseur angulaire de 2\".",
    "section": "Historique des observations"
   },
-  "f39": {
+  "f34": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Ce jet part du cœur avec un angle de position de 260°, d'une distance angulaire de 20\" avec une épaisseur angulaire de 2\".",
+   "sentence": "Ce jet part du cœur avec un angle de position de 260°, d'une distance angulaire de 20\"avec une épaisseur angulaire de 2\".",
    "section": "Historique des observations"
   },
-  "f40": {
+  "f35": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Ce jet part du cœur avec un angle de position de 260°, d'une distance angulaire de 20\" avec une épaisseur angulaire de 2\".",
+   "sentence": "Ce jet part du cœur avec un angle de position de 260°, d'une distance angulaire de 20\"avec une épaisseur angulaire de 2\".",
    "section": "Historique des observations"
   },
-  "f41": {
+  "f36": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "L'énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV.",
    "section": "Historique des observations"
   },
-  "f42": {
+  "f37": {
    "kind": "date",
    "value": "1056",
    "surface": "1056",
    "sentence": "L'énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV.",
    "section": "Historique des observations"
   },
-  "f43": {
+  "f38": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "En 1969-70, une composante très énergétique de l’émission radio fut trouvée très précisément dans l'alignement de la source optique du jet.",
    "section": "Historique des observations"
   },
-  "f44": {
+  "f39": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Le 25 avril 1965, le laboratoire américain Naval Research Laboratory lança une fusée Aerobee 150.",
    "section": "Historique des observations"
   },
-  "f45": {
+  "f40": {
    "kind": "date",
    "value": "1965",
    "surface": "1965",
    "sentence": "Le 25 avril 1965, le laboratoire américain Naval Research Laboratory lança une fusée Aerobee 150.",
    "section": "Historique des observations"
   },
-  "f46": {
+  "f41": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Le 25 avril 1965, le laboratoire américain Naval Research Laboratory lança une fusée Aerobee 150.",
    "section": "Historique des observations"
   },
-  "f47": {
+  "f42": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Ce lancement permit de découvrir 7 sources de rayons X potentielles, incluant la première source de rayons X extragalactique, nommée « Virgo X-1 » puisqu'étant la première source détectée dans l'amas de la Vierge.",
+   "sentence": "Ce lancement permit de découvrir 7 sources de rayons X potentielles, incluant la première source de rayons X extragalactique, nommée «Virgo X-1» puisqu'étant la première source détectée dans l'amas de la Vierge.",
    "section": "Historique des observations"
   },
-  "f48": {
+  "f43": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Le 7 juillet 1967, une autre fusée Aerobee lancée du pas de tir situé à White Sands confirma que la source Virgo X-1 était la radiogalaxie Messier 87.",
    "section": "Historique des observations"
   },
-  "f49": {
+  "f44": {
    "kind": "date",
    "value": "1967",
    "surface": "1967",
    "sentence": "Le 7 juillet 1967, une autre fusée Aerobee lancée du pas de tir situé à White Sands confirma que la source Virgo X-1 était la radiogalaxie Messier 87.",
    "section": "Historique des observations"
   },
-  "f50": {
+  "f45": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Le 7 juillet 1967, une autre fusée Aerobee lancée du pas de tir situé à White Sands confirma que la source Virgo X-1 était la radiogalaxie Messier 87.",
    "section": "Historique des observations"
   },
-  "f51": {
+  "f46": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Des observations ultérieures en rayons X par le HEAO-1 et HEAO-2 montrèrent une source complexe qui incluait le noyau galactique actif de Messier 87.",
    "section": "Historique des observations"
   },
-  "f52": {
+  "f47": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Messier 87 est située près de la limite Nord de la constellation de la Vierge, près de la constellation de la Chevelure de Bérénice.",
    "section": "Propriétés"
   },
-  "f53": {
+  "f48": {
    "kind": "number",
    "value": 9.59,
    "surface": "9,59",
    "sentence": "Cette galaxie, de magnitude apparente égale à 9,59, peut être observée avec un petit télescope de 6 cm de diamètre.",
    "section": "Propriétés"
   },
-  "f54": {
+  "f49": {
    "kind": "measure",
    "value": 6,
    "unit": "cm",
@@ -424,49 +392,49 @@
    "sentence": "Cette galaxie, de magnitude apparente égale à 9,59, peut être observée avec un petit télescope de 6 cm de diamètre.",
    "section": "Propriétés"
   },
-  "f55": {
+  "f50": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Visuellement, la galaxie s'étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″.",
    "section": "Propriétés"
   },
-  "f56": {
+  "f51": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Visuellement, la galaxie s'étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″.",
    "section": "Propriétés"
   },
-  "f57": {
+  "f52": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Visuellement, la galaxie s'étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″.",
    "section": "Propriétés"
   },
-  "f58": {
+  "f53": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Visuellement, la galaxie s'étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″.",
    "section": "Propriétés"
   },
-  "f59": {
+  "f54": {
    "kind": "number",
    "value": 45,
    "surface": "45",
    "sentence": "Visuellement, la galaxie s'étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″.",
    "section": "Propriétés"
   },
-  "f60": {
+  "f55": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Jusqu'en 1990, la seule observation visuelle connue du jet est attribuée à l'astronome russo-américain Otto Struve qui utilisa le télescope Hooker de 254 cm de diamètre.",
    "section": "Propriétés"
   },
-  "f61": {
+  "f56": {
    "kind": "measure",
    "value": 254,
    "unit": "cm",
@@ -474,273 +442,224 @@
    "sentence": "Jusqu'en 1990, la seule observation visuelle connue du jet est attribuée à l'astronome russo-américain Otto Struve qui utilisa le télescope Hooker de 254 cm de diamètre.",
    "section": "Propriétés"
   },
-  "f62": {
+  "f57": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Dans la classification de Hubble revue par De Vaucouleurs, Messier 87 est catégorisée comme une galaxie E0p.",
    "section": "Propriétés"
   },
-  "f63": {
+  "f58": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Messier 87 est considérée comme une galaxie de type cD, c'est-à-dire une galaxie supergéante de classe D. Cette dernière catégorie, fut proposée initialement par l'astronome américain William W. Morgan en 1958, est une galaxie qui a un noyau ressemblant à ceux des galaxies elliptiques, entouré par une enveloppe diffuse, étendue et sans poussière.",
    "section": "Propriétés"
   },
-  "f64": {
+  "f59": {
    "kind": "date",
    "value": "1958",
    "surface": "1958",
    "sentence": "Messier 87 est considérée comme une galaxie de type cD, c'est-à-dire une galaxie supergéante de classe D. Cette dernière catégorie, fut proposée initialement par l'astronome américain William W. Morgan en 1958, est une galaxie qui a un noyau ressemblant à ceux des galaxies elliptiques, entouré par une enveloppe diffuse, étendue et sans poussière.",
    "section": "Propriétés"
   },
-  "f65": {
+  "f60": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "La distance de Messier 87 a été estimée à l'aide de différentes techniques, dont la mesure de luminosité des nébuleuses planétaires, la comparaison avec d'autres galaxies dont la distance avait été estimée avec des bougies standards comme les céphéides, la distribution linéaire de la taille des amas globulaires, et la méthode du Sommet de la branche des géantes rouges utilisant la résolution individuelle des géantes rouges.",
    "section": "Propriétés"
   },
-  "f66": {
+  "f61": {
    "kind": "number",
    "value": 16.757,
    "surface": "16,757",
-   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc (∼54,7 millions d'al) basée sur un ensemble de près de 120 mesures.",
+   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc basée sur un ensemble de près de 120 mesures.",
    "section": "Propriétés"
   },
-  "f67": {
+  "f62": {
    "kind": "number",
    "value": 2.949,
    "surface": "2,949",
-   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc (∼54,7 millions d'al) basée sur un ensemble de près de 120 mesures.",
+   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc basée sur un ensemble de près de 120 mesures.",
    "section": "Propriétés"
   },
-  "f68": {
-   "kind": "number",
-   "value": 54700000,
-   "surface": "54,7 millions",
-   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc (∼54,7 millions d'al) basée sur un ensemble de près de 120 mesures.",
-   "section": "Propriétés"
-  },
-  "f69": {
+  "f63": {
    "kind": "number",
    "value": 120,
    "surface": "120",
-   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc (∼54,7 millions d'al) basée sur un ensemble de près de 120 mesures.",
+   "sentence": "La base de données NASA/IPAC rapporte une distance de 16,757 ± 2,949 Mpc basée sur un ensemble de près de 120 mesures.",
    "section": "Propriétés"
   },
-  "f70": {
+  "f64": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc (∼50,2 millions d'al).",
+   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc.",
    "section": "Propriétés"
   },
-  "f71": {
+  "f65": {
    "kind": "number",
    "value": 15.4,
    "surface": "15,4",
-   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc (∼50,2 millions d'al).",
+   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc.",
    "section": "Propriétés"
   },
-  "f72": {
+  "f66": {
    "kind": "number",
    "value": 0.6,
    "surface": "0,6",
-   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc (∼50,2 millions d'al).",
+   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc.",
    "section": "Propriétés"
   },
-  "f73": {
-   "kind": "number",
-   "value": 50200000,
-   "surface": "50,2 millions",
-   "sentence": "Cette distance est en accord avec l'une des mesures les plus précises réalisée en 2019, soit 15,4 ± 0,6 Mpc (∼50,2 millions d'al).",
-   "section": "Propriétés"
-  },
-  "f74": {
+  "f67": {
    "kind": "number",
    "value": 129,
    "surface": "129",
    "sentence": "À cette distance, la taille de la partie visible de M87 est d'environ 129 kal.",
    "section": "Propriétés"
   },
-  "f75": {
+  "f68": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "La masse de Messier 87 dans un rayon de 9-40 K pc à partir du noyau augmente régulièrement d'environ d'un rapport r1,7, où r est le rayon du noyau.",
    "section": "Propriétés"
   },
-  "f76": {
+  "f69": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "La masse de Messier 87 dans un rayon de 9-40 K pc à partir du noyau augmente régulièrement d'environ d'un rapport r1,7, où r est le rayon du noyau.",
    "section": "Propriétés"
   },
-  "f77": {
+  "f70": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "La masse de Messier 87 dans un rayon de 9-40 K pc à partir du noyau augmente régulièrement d'environ d'un rapport r1,7, où r est le rayon du noyau.",
    "section": "Propriétés"
   },
-  "f78": {
+  "f71": {
    "kind": "number",
    "value": 32,
    "surface": "32",
-   "sentence": "Dans un rayon d'environ 32 kpc (∼104 000 al), la masse équivaut à ((2,4 ± 0,6)) × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
+   "sentence": "Dans un rayon d'environ 32 kpc, la masse équivaut à × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
    "section": "Propriétés"
   },
-  "f79": {
-   "kind": "number",
-   "value": 104000,
-   "surface": "104 000",
-   "sentence": "Dans un rayon d'environ 32 kpc (∼104 000 al), la masse équivaut à ((2,4 ± 0,6)) × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
-   "section": "Propriétés"
-  },
-  "f80": {
-   "kind": "number",
-   "value": 2.4,
-   "surface": "2,4",
-   "sentence": "Dans un rayon d'environ 32 kpc (∼104 000 al), la masse équivaut à ((2,4 ± 0,6)) × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
-   "section": "Propriétés"
-  },
-  "f81": {
-   "kind": "number",
-   "value": 0.6,
-   "surface": "0,6",
-   "sentence": "Dans un rayon d'environ 32 kpc (∼104 000 al), la masse équivaut à ((2,4 ± 0,6)) × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
-   "section": "Propriétés"
-  },
-  "f82": {
+  "f72": {
    "kind": "date",
    "value": "1012",
    "surface": "1012",
-   "sentence": "Dans un rayon d'environ 32 kpc (∼104 000 al), la masse équivaut à ((2,4 ± 0,6)) × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
+   "sentence": "Dans un rayon d'environ 32 kpc, la masse équivaut à × 1012 masse solaire, soit le double de la masse de la Voie lactée.",
    "section": "Propriétés"
   },
-  "f83": {
+  "f73": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Toutefois, seule une fraction de cette masse est sous forme stellaire, puisque Messier 87 a un rapport masse/luminosité égal à 6,3 ± 0,8.",
    "section": "Propriétés"
   },
-  "f84": {
+  "f74": {
    "kind": "number",
    "value": 6.3,
    "surface": "6,3",
    "sentence": "Toutefois, seule une fraction de cette masse est sous forme stellaire, puisque Messier 87 a un rapport masse/luminosité égal à 6,3 ± 0,8.",
    "section": "Propriétés"
   },
-  "f85": {
+  "f75": {
    "kind": "number",
    "value": 0.8,
    "surface": "0,8",
    "sentence": "Toutefois, seule une fraction de cette masse est sous forme stellaire, puisque Messier 87 a un rapport masse/luminosité égal à 6,3 ± 0,8.",
    "section": "Propriétés"
   },
-  "f86": {
+  "f76": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "La masse totale de Messier 87 pourrait-être 200 fois celle de la Voie lactée.",
    "section": "Propriétés"
   },
-  "f87": {
+  "f77": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "La masse totale de Messier 87 pourrait-être 200 fois celle de la Voie lactée.",
    "section": "Propriétés"
   },
-  "f88": {
+  "f78": {
    "kind": "number",
    "value": 300,
    "surface": "300",
-   "sentence": "L'enveloppe stellaire étendue de cette galaxie atteint un diamètre d'environ 300 kpc (∼978 000 al), à comparer avec les environ 100 kpc (∼326 000 al) pour la Voie lactée.",
+   "sentence": "L'enveloppe stellaire étendue de cette galaxie atteint un diamètre d'environ 300 kpc, à comparer avec les environ 100 kpc pour la Voie lactée.",
    "section": "Propriétés"
   },
-  "f89": {
-   "kind": "number",
-   "value": 978000,
-   "surface": "978 000",
-   "sentence": "L'enveloppe stellaire étendue de cette galaxie atteint un diamètre d'environ 300 kpc (∼978 000 al), à comparer avec les environ 100 kpc (∼326 000 al) pour la Voie lactée.",
-   "section": "Propriétés"
-  },
-  "f90": {
+  "f79": {
    "kind": "number",
    "value": 100,
    "surface": "100",
-   "sentence": "L'enveloppe stellaire étendue de cette galaxie atteint un diamètre d'environ 300 kpc (∼978 000 al), à comparer avec les environ 100 kpc (∼326 000 al) pour la Voie lactée.",
+   "sentence": "L'enveloppe stellaire étendue de cette galaxie atteint un diamètre d'environ 300 kpc, à comparer avec les environ 100 kpc pour la Voie lactée.",
    "section": "Propriétés"
   },
-  "f91": {
-   "kind": "number",
-   "value": 326000,
-   "surface": "326 000",
-   "sentence": "L'enveloppe stellaire étendue de cette galaxie atteint un diamètre d'environ 300 kpc (∼978 000 al), à comparer avec les environ 100 kpc (∼326 000 al) pour la Voie lactée.",
-   "section": "Propriétés"
-  },
-  "f92": {
+  "f80": {
    "kind": "number",
    "value": 1000000000,
    "surface": "1 milliard",
    "sentence": "Au-delà de cette distance le bord extérieur de la galaxie a été tronqué par d'autres phénomènes, probablement une rencontre très perturbatrice, il y a 1 milliard d'années, avec la galaxie M84 qui s'est éloignée depuis, ou un effondrement de matière noire dans l'amas de galaxies environnant.",
    "section": "Propriétés"
   },
-  "f93": {
+  "f81": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Il y a quelques preuves de courants stellaires linéaires au nord-ouest de la galaxie, qui pourraient avoir été créés par un effet de marée des autres galaxies de l'amas en orbite, où par une petite galaxie en collision avec Messier 87.",
    "section": "Propriétés"
   },
-  "f94": {
+  "f82": {
    "kind": "number",
    "value": 6.5,
    "surface": "6,5",
-   "sentence": "Au cœur de cette galaxie se trouve un trou noir supermassif (TNSM), nommé M87*, dont la masse est estimée à 6,5 ± 0,7 milliards de masses solaires.",
+   "sentence": "Au cœur de cette galaxie se trouve un trou noir supermassif, nommé M87*, dont la masse est estimée à 6,5 ± 0,7 milliards de masses solaires.",
    "section": "Structure"
   },
-  "f95": {
+  "f83": {
    "kind": "number",
    "value": 700000000,
    "surface": "0,7 milliards",
-   "sentence": "Au cœur de cette galaxie se trouve un trou noir supermassif (TNSM), nommé M87*, dont la masse est estimée à 6,5 ± 0,7 milliards de masses solaires.",
+   "sentence": "Au cœur de cette galaxie se trouve un trou noir supermassif, nommé M87*, dont la masse est estimée à 6,5 ± 0,7 milliards de masses solaires.",
    "section": "Structure"
   },
-  "f96": {
+  "f84": {
    "kind": "number",
    "value": 38000000000,
    "surface": "38 milliards",
    "sentence": "Son diamètre est de 38 milliards de km, soit 254 ua, ou 1,5 jour-lumière, ou encore environ 3 fois le diamètre de l'orbite moyenne de Pluton.",
    "section": "Structure"
   },
-  "f97": {
+  "f85": {
    "kind": "number",
    "value": 254,
    "surface": "254",
    "sentence": "Son diamètre est de 38 milliards de km, soit 254 ua, ou 1,5 jour-lumière, ou encore environ 3 fois le diamètre de l'orbite moyenne de Pluton.",
    "section": "Structure"
   },
-  "f98": {
+  "f86": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
    "sentence": "Son diamètre est de 38 milliards de km, soit 254 ua, ou 1,5 jour-lumière, ou encore environ 3 fois le diamètre de l'orbite moyenne de Pluton.",
    "section": "Structure"
   },
-  "f99": {
+  "f87": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Son diamètre est de 38 milliards de km, soit 254 ua, ou 1,5 jour-lumière, ou encore environ 3 fois le diamètre de l'orbite moyenne de Pluton.",
    "section": "Structure"
   },
-  "f100": {
+  "f88": {
    "kind": "measure",
    "value": 1000,
    "unit": "km",
@@ -748,77 +667,70 @@
    "sentence": "Ce gaz orbite autour du trou noir à des vitesses allant jusqu'à 1 000 km s−1.",
    "section": "Structure"
   },
-  "f101": {
+  "f89": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Ce gaz orbite autour du trou noir à des vitesses allant jusqu'à 1 000 km s−1.",
    "section": "Structure"
   },
-  "f102": {
+  "f90": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "Le trou noir de M87 est décalé par rapport à son centre d’une distance d'environ 25 pc (∼81,5 al).",
+   "sentence": "Le trou noir de M87 est décalé par rapport à son centre d’une distance d'environ 25 pc.",
    "section": "Structure"
   },
-  "f103": {
-   "kind": "number",
-   "value": 81.5,
-   "surface": "81,5",
-   "sentence": "Le trou noir de M87 est décalé par rapport à son centre d’une distance d'environ 25 pc (∼81,5 al).",
-   "section": "Structure"
-  },
-  "f104": {
+  "f91": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "En 2011, une étude de M87 n'a pas trouvé de déplacement statistiquement significatif.",
    "section": "Structure"
   },
-  "f105": {
+  "f92": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Le 10 avril 2019, l'équipe de l'Event Horizon Telescope révèle la première image résolue d'un trou noir, ce qui est M87*.",
    "section": "Structure"
   },
-  "f106": {
+  "f93": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Le 10 avril 2019, l'équipe de l'Event Horizon Telescope révèle la première image résolue d'un trou noir, ce qui est M87*.",
    "section": "Structure"
   },
-  "f107": {
+  "f94": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Puis le 26 avril 2023, l'Observatoire européen austral, qui est le partenaire des principaux groupes internationaux de télescope, présente une image obtenue, après cinq ans de travail.",
    "section": "Structure"
   },
-  "f108": {
+  "f95": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Puis le 26 avril 2023, l'Observatoire européen austral, qui est le partenaire des principaux groupes internationaux de télescope, présente une image obtenue, après cinq ans de travail.",
    "section": "Structure"
   },
-  "f109": {
+  "f96": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Les galaxies elliptiques actives ayant une forme similaire à Messier 87 sont supposées s'être formées lors de la fusion de galaxies plus petites.",
    "section": "Structure"
   },
-  "f110": {
+  "f97": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "L'espace entre les étoiles dans la galaxie Messier 87 est rempli d'un milieu interstellaire gazeux diffus, qui a été enrichi chimiquement en éléments éjecté par les étoiles lors de leur évolution après leur passage sur la séquence principale.",
    "section": "Structure"
   },
-  "f111": {
+  "f98": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -826,7 +738,7 @@
    "sentence": "Environ 60 % de l'abondance de ces éléments lourds ont été produits par des supernovas à effondrement de cœur, tandis que le reste vient des supernovas de type Ia.",
    "section": "Structure"
   },
-  "f112": {
+  "f99": {
    "kind": "measure",
    "value": 87,
    "unit": "au",
@@ -834,7 +746,7 @@
    "sentence": "Mais les supernovas de type Ia ont par contre fourni un apport continu au milieu interstellaire de Messier 87 au cours de son histoire.",
    "section": "Structure"
   },
-  "f113": {
+  "f100": {
    "kind": "measure",
    "value": 25,
    "unit": "μm",
@@ -842,365 +754,322 @@
    "sentence": "L'étude de M87 dans l'infrarouge lointain montre un excès d'énergie à des longueurs d'onde plus grandes que 25 μm.",
    "section": "Structure"
   },
-  "f114": {
+  "f101": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Toutefois, dans le cas de Messier 87, cette émission semble être totalement expliquée par le rayonnement synchrotron du jet.",
    "section": "Structure"
   },
-  "f115": {
+  "f102": {
    "kind": "number",
    "value": 46000000,
    "surface": "46 millions",
    "sentence": "À l'intérieur de la galaxie, les grains de silicate sont supposés survivre au maximum 46 millions d'années, du fait de l’émission de rayons X par le noyau.",
    "section": "Structure"
   },
-  "f116": {
+  "f103": {
    "kind": "number",
    "value": 70000,
    "surface": "70 000",
    "sentence": "La masse totale de poussière dans la galaxie ne représente que tout au plus 70 000 masses solaires.",
    "section": "Structure"
   },
-  "f117": {
-   "kind": "measure",
-   "value": 100000000,
-   "unit": "m",
-   "surface": "100 000 000 M",
-   "sentence": "Par comparaison, la Voie lactée en contient à peu près cent millions de masses solaires (100 000 000 M☉).",
-   "section": "Structure"
-  },
-  "f118": {
+  "f104": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Dans un rayon environ 4 kpc (∼13 000 al) à partir du noyau, l'abondance en éléments autre que l'hélium (ce que les astronomes appellent métallicité) représente la moitié de ce qui est présent dans le Soleil.",
+   "sentence": "Dans un rayon environ 4 kpc à partir du noyau, l'abondance en éléments autre que l'hélium représente la moitié de ce qui est présent dans le Soleil.",
    "section": "Structure"
   },
-  "f119": {
-   "kind": "number",
-   "value": 13000,
-   "surface": "13 000",
-   "sentence": "Dans un rayon environ 4 kpc (∼13 000 al) à partir du noyau, l'abondance en éléments autre que l'hélium (ce que les astronomes appellent métallicité) représente la moitié de ce qui est présent dans le Soleil.",
-   "section": "Structure"
-  },
-  "f120": {
+  "f105": {
    "kind": "number",
    "value": 87,
    "surface": "87",
-   "sentence": "Bien que classée comme galaxie elliptique et qu'elle ne possède donc pas de bande de poussière (en) d'une galaxie spirale, des filaments optiques ont été observés dans Messier 87.",
+   "sentence": "Bien que classée comme galaxie elliptique et qu'elle ne possède donc pas de bande de poussière d'une galaxie spirale, des filaments optiques ont été observés dans Messier 87.",
    "section": "Structure"
   },
-  "f121": {
+  "f106": {
    "kind": "number",
    "value": 10000,
    "surface": "10 000",
    "sentence": "Ces filaments ont une masse estimée à environ 10 000 fois la masse solaire.",
    "section": "Structure"
   },
-  "f122": {
+  "f107": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Messier 87 possède une population anormalement grande d'amas globulaires.",
    "section": "Structure"
   },
-  "f123": {
+  "f108": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Un relevé réalisé en 2006 sur une distance angulaire de 25′ à partir du noyau estime qu'il y a 12 000 ± 800 amas globulaires en orbite autour de Messier 87, à comparer avec les 150-200 amas globulaires de la Voie lactée.",
    "section": "Structure"
   },
-  "f124": {
+  "f109": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Un relevé réalisé en 2006 sur une distance angulaire de 25′ à partir du noyau estime qu'il y a 12 000 ± 800 amas globulaires en orbite autour de Messier 87, à comparer avec les 150-200 amas globulaires de la Voie lactée.",
    "section": "Structure"
   },
-  "f125": {
+  "f110": {
    "kind": "number",
    "value": 12000,
    "surface": "12 000",
    "sentence": "Un relevé réalisé en 2006 sur une distance angulaire de 25′ à partir du noyau estime qu'il y a 12 000 ± 800 amas globulaires en orbite autour de Messier 87, à comparer avec les 150-200 amas globulaires de la Voie lactée.",
    "section": "Structure"
   },
-  "f126": {
+  "f111": {
    "kind": "date",
    "value": "800",
    "surface": "800",
    "sentence": "Un relevé réalisé en 2006 sur une distance angulaire de 25′ à partir du noyau estime qu'il y a 12 000 ± 800 amas globulaires en orbite autour de Messier 87, à comparer avec les 150-200 amas globulaires de la Voie lactée.",
    "section": "Structure"
   },
-  "f127": {
+  "f112": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Un relevé réalisé en 2006 sur une distance angulaire de 25′ à partir du noyau estime qu'il y a 12 000 ± 800 amas globulaires en orbite autour de Messier 87, à comparer avec les 150-200 amas globulaires de la Voie lactée.",
    "section": "Structure"
   },
-  "f128": {
+  "f113": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Un relevé réalisé en 2006 sur une distance angulaire de 25′ à partir du noyau estime qu'il y a 12 000 ± 800 amas globulaires en orbite autour de Messier 87, à comparer avec les 150-200 amas globulaires de la Voie lactée.",
    "section": "Structure"
   },
-  "f129": {
+  "f114": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "La distribution en taille de ces amas est semblable à celles des amas globulaires de la Voie Lactée, la plupart ont un rayon entre 1 et 6 parsecs.",
    "section": "Structure"
   },
-  "f130": {
+  "f115": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "La distribution en taille de ces amas est semblable à celles des amas globulaires de la Voie Lactée, la plupart ont un rayon entre 1 et 6 parsecs.",
    "section": "Structure"
   },
-  "f131": {
+  "f116": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "La taille des amas de Messier 87 montre une augmentation progressive lorsque l'on s'éloigne du centre galactique.",
    "section": "Structure"
   },
-  "f132": {
+  "f117": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 (Virgo Cluster Catalog dans l'article) est estimé à 14 660 ± 891.",
+   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 est estimé à 14 660 ± 891.",
    "section": "Structure"
   },
-  "f133": {
-   "kind": "date",
-   "value": "1316",
-   "surface": "1316",
-   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 (Virgo Cluster Catalog dans l'article) est estimé à 14 660 ± 891.",
-   "section": "Structure"
-  },
-  "f134": {
+  "f118": {
    "kind": "number",
    "value": 14660,
    "surface": "14 660",
-   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 (Virgo Cluster Catalog dans l'article) est estimé à 14 660 ± 891.",
+   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 est estimé à 14 660 ± 891.",
    "section": "Structure"
   },
-  "f135": {
+  "f119": {
    "kind": "date",
    "value": "891",
    "surface": "891",
-   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 (Virgo Cluster Catalog dans l'article) est estimé à 14 660 ± 891.",
+   "sentence": "Selon une autre étude publiée en 2008 et basée sur les observations réalisées avec le télescope spatial Hubble, le nombre d'amas globulaires dans M87 (VCC 1316 est estimé à 14 660 ± 891.",
    "section": "Structure"
   },
-  "f136": {
-   "kind": "number",
-   "value": 88,
-   "surface": "88",
-   "sentence": "La vitesse des amas globulaires dans le halo de M87 indique une fraction de son contenu en matière noire de (88 ± 1) % de sa masse à l'intérieur de cinq rayons effectifs.",
-   "section": "Structure"
-  },
-  "f137": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "La vitesse des amas globulaires dans le halo de M87 indique une fraction de son contenu en matière noire de (88 ± 1) % de sa masse à l'intérieur de cinq rayons effectifs.",
-   "section": "Structure"
-  },
-  "f138": {
+  "f120": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Le jet de matière qui émerge du cœur de Messier 87 s'étend sur au moins 5 000 al et est composé de matière éjectée de la galaxie par un trou noir supermassif.",
    "section": "Jet"
   },
-  "f139": {
+  "f121": {
    "kind": "number",
    "value": 5000,
    "surface": "5 000",
    "sentence": "Le jet de matière qui émerge du cœur de Messier 87 s'étend sur au moins 5 000 al et est composé de matière éjectée de la galaxie par un trou noir supermassif.",
    "section": "Jet"
   },
-  "f140": {
+  "f122": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Ce jet est hautement collimaté, il semble contraint à un angle d'environ 16° sur 2 pc du cœur et un angle de 6–7° à 12 pc.",
    "section": "Jet"
   },
-  "f141": {
+  "f123": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Ce jet est hautement collimaté, il semble contraint à un angle d'environ 16° sur 2 pc du cœur et un angle de 6–7° à 12 pc.",
    "section": "Jet"
   },
-  "f142": {
+  "f124": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Ce jet est hautement collimaté, il semble contraint à un angle d'environ 16° sur 2 pc du cœur et un angle de 6–7° à 12 pc.",
    "section": "Jet"
   },
-  "f143": {
+  "f125": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Ce jet est hautement collimaté, il semble contraint à un angle d'environ 16° sur 2 pc du cœur et un angle de 6–7° à 12 pc.",
    "section": "Jet"
   },
-  "f144": {
+  "f126": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Ce jet est hautement collimaté, il semble contraint à un angle d'environ 16° sur 2 pc du cœur et un angle de 6–7° à 12 pc.",
    "section": "Jet"
   },
-  "f145": {
+  "f127": {
    "kind": "number",
    "value": 250000,
    "surface": "250 000",
    "sentence": "Des lobes de matière émanant du jet s'étendent jusqu'à 250 000 al.",
    "section": "Jet"
   },
-  "f146": {
+  "f128": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "Sur des images prises par le télescope spatial Hubble en 1999, la vitesse du jet de Messier 87 a été mesurée à 4 ou 6 fois la vitesse de la lumière.",
    "section": "Jet"
   },
-  "f147": {
+  "f129": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Sur des images prises par le télescope spatial Hubble en 1999, la vitesse du jet de Messier 87 a été mesurée à 4 ou 6 fois la vitesse de la lumière.",
    "section": "Jet"
   },
-  "f148": {
+  "f130": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Sur des images prises par le télescope spatial Hubble en 1999, la vitesse du jet de Messier 87 a été mesurée à 4 ou 6 fois la vitesse de la lumière.",
    "section": "Jet"
   },
-  "f149": {
+  "f131": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Sur des images prises par le télescope spatial Hubble en 1999, la vitesse du jet de Messier 87 a été mesurée à 4 ou 6 fois la vitesse de la lumière.",
    "section": "Jet"
   },
-  "f150": {
+  "f132": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Des observations faites par le télescope spatial Chandra montrent la présence de boucles et d'anneaux dans le gaz émettant fortement en rayons X, qui traversent l'amas et entourent Messier 87.",
    "section": "Jet"
   },
-  "f151": {
+  "f133": {
    "kind": "number",
    "value": 6000000,
    "surface": "6 millions",
    "sentence": "La distribution des boucles suggère que des éruptions mineures arrivent tous les 6 millions d'années.",
    "section": "Jet"
   },
-  "f152": {
+  "f134": {
    "kind": "number",
    "value": 85000,
    "surface": "85 000",
    "sentence": "Un de ces anneaux, causé par une éruption majeure, est une onde de choc de 85 000 al de diamètre autour du trou noir.",
    "section": "Jet"
   },
-  "f153": {
+  "f135": {
    "kind": "number",
    "value": 100000,
    "surface": "100 000",
    "sentence": "D'autres structures remarquables observées comprennent des filaments étroits émettant dans le rayonnement X, longs jusqu'à 100 000 al, et une grande cavité dans le gaz chaud causée par une éruption majeure, il y a 70 millions d'années.",
    "section": "Jet"
   },
-  "f154": {
+  "f136": {
    "kind": "number",
    "value": 70000000,
    "surface": "70 millions",
    "sentence": "D'autres structures remarquables observées comprennent des filaments étroits émettant dans le rayonnement X, longs jusqu'à 100 000 al, et une grande cavité dans le gaz chaud causée par une éruption majeure, il y a 70 millions d'années.",
    "section": "Jet"
   },
-  "f155": {
+  "f137": {
    "kind": "number",
    "value": 56,
    "surface": "56",
    "sentence": "Les observations impliquent aussi la présence d'ondes sonores, 56 octaves sous le Do pour les éruptions mineures et 58 à 59 sous le Do pour les éruptions majeures.",
    "section": "Jet"
   },
-  "f156": {
+  "f138": {
    "kind": "number",
    "value": 58,
    "surface": "58",
    "sentence": "Les observations impliquent aussi la présence d'ondes sonores, 56 octaves sous le Do pour les éruptions mineures et 58 à 59 sous le Do pour les éruptions majeures.",
    "section": "Jet"
   },
-  "f157": {
+  "f139": {
    "kind": "number",
    "value": 59,
    "surface": "59",
    "sentence": "Les observations impliquent aussi la présence d'ondes sonores, 56 octaves sous le Do pour les éruptions mineures et 58 à 59 sous le Do pour les éruptions majeures.",
    "section": "Jet"
   },
-  "f158": {
+  "f140": {
    "kind": "number",
    "value": 87,
    "surface": "87",
-   "sentence": "Messier 87 est une très puissante source de rayons gamma, qui sont les plus énergétiques rayons du spectre électromagnétique ; plus d'un million de fois plus puissants que la lumière visible.",
+   "sentence": "Messier 87 est une très puissante source de rayons gamma, qui sont les plus énergétiques rayons du spectre électromagnétique; plus d'un million de fois plus puissants que la lumière visible.",
    "section": "Jet"
   },
-  "f159": {
+  "f141": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Les rayons gamma venant de Messier 87 ont été observés depuis la fin des années 1990, mais récemment en utilisant le H.E.S.S. un réseau de télescopes à imagerie Tcherenkov atmosphérique, les scientifiques ont mesuré des variations dans le flux de rayons gamma venant M87, et ont trouvé que le flux changeait sur des durées de quelques jours.",
    "section": "Jet"
   },
-  "f160": {
+  "f142": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Les rayons gamma venant de Messier 87 ont été observés depuis la fin des années 1990, mais récemment en utilisant le H.E.S.S. un réseau de télescopes à imagerie Tcherenkov atmosphérique, les scientifiques ont mesuré des variations dans le flux de rayons gamma venant M87, et ont trouvé que le flux changeait sur des durées de quelques jours.",
    "section": "Jet"
   },
-  "f161": {
+  "f143": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Cette courte période rend le voisinage immédiat du trou noir supermassif dans Messier 87, la source la plus probable de ces rayons gamma.",
    "section": "Jet"
   },
-  "f162": {
+  "f144": {
    "kind": "number",
    "value": 65,
    "surface": "65",
-   "sentence": "Cet agglomérat est à environ 65 pc (∼212 al) du cœur.",
+   "sentence": "Cet agglomérat est à environ 65 pc du cœur.",
    "section": "Jet"
   },
-  "f163": {
-   "kind": "number",
-   "value": 212,
-   "surface": "212",
-   "sentence": "Cet agglomérat est à environ 65 pc (∼212 al) du cœur.",
-   "section": "Jet"
-  },
-  "f164": {
+  "f145": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "En 2006, l'intensité des rayons X de cet agglomérat a augmenté d'un facteur 50 sur une période de quatre ans.",
    "section": "Jet"
   },
-  "f165": {
+  "f146": {
    "kind": "number",
    "value": 50,
    "surface": "50",

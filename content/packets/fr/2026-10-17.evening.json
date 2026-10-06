@@ -73,26 +73,26 @@
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H (ou protium, comportant un proton et aucun neutron) et d'environ 0,01 % de deutérium 2H (un proton, un neutron)."
+   "sentence": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H et d'environ 0,01 % de deutérium 2H."
   },
   "f2": {
    "kind": "measure",
    "value": 0.01,
    "unit": "%",
    "surface": "0,01 %",
-   "sentence": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H (ou protium, comportant un proton et aucun neutron) et d'environ 0,01 % de deutérium 2H (un proton, un neutron)."
+   "sentence": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H et d'environ 0,01 % de deutérium 2H."
   },
   "f3": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "L'hydrogène peut avoir les nombres d'oxydation 0 (dihydrogène H2 ou hydrogène métallique), +I (dans la plupart de ses composés chimiques) et –I (dans les hydrures métalliques)."
+   "sentence": "L'hydrogène peut avoir les nombres d'oxydation 0, +I et –I."
   },
   "f4": {
    "kind": "date",
    "value": "1766",
    "surface": "1766",
-   "sentence": "Le corps simple H2 est mis en évidence à l'état gazeux par Henry Cavendish en 1766, qui l'appelle « air inflammable » parce qu'il brûle ou explose en présence d'oxygène, produisant de la vapeur d'eau.",
+   "sentence": "Le corps simple H2 est mis en évidence à l'état gazeux par Henry Cavendish en 1766, qui l'appelle «air inflammable» parce qu'il brûle ou explose en présence d'oxygène, produisant de la vapeur d'eau.",
    "section": "Découverte"
   },
   "f5": {
@@ -100,7 +100,7 @@
    "value": 75,
    "unit": "%",
    "surface": "75 %",
-   "sentence": "L'hydrogène est l'élément le plus abondant de l'Univers : 75 % en masse et 92 % en nombre d'atomes de matière baryonique (c'est-à-dire hors matière noire).",
+   "sentence": "L'hydrogène est l'élément le plus abondant de l'Univers: 75 % en masse et 92 % en nombre d'atomes de matière baryonique.",
    "section": "Abondance"
   },
   "f6": {
@@ -108,7 +108,7 @@
    "value": 92,
    "unit": "%",
    "surface": "92 %",
-   "sentence": "L'hydrogène est l'élément le plus abondant de l'Univers : 75 % en masse et 92 % en nombre d'atomes de matière baryonique (c'est-à-dire hors matière noire).",
+   "sentence": "L'hydrogène est l'élément le plus abondant de l'Univers: 75 % en masse et 92 % en nombre d'atomes de matière baryonique.",
    "section": "Abondance"
   },
   "f7": {
@@ -116,33 +116,17 @@
    "value": 0.22,
    "unit": "%",
    "surface": "0,22 %",
-   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %).",
+   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène et le silicium.",
    "section": "Abondance"
   },
   "f8": {
-   "kind": "measure",
-   "value": 47,
-   "unit": "%",
-   "surface": "47 %",
-   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %).",
-   "section": "Abondance"
-  },
-  "f9": {
-   "kind": "measure",
-   "value": 27,
-   "unit": "%",
-   "surface": "27 %",
-   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %).",
-   "section": "Abondance"
-  },
-  "f10": {
    "kind": "number",
    "value": 0.55,
    "surface": "0,55",
    "sentence": "Il est rare également dans l'atmosphère terrestre, dont il ne représente en volume que 0,55 ppm des gaz atmosphériques.",
    "section": "Abondance"
   },
-  "f11": {
+  "f9": {
    "kind": "measure",
    "value": 63,
    "unit": "%",
@@ -150,7 +134,7 @@
    "sentence": "Par exemple, l'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain.",
    "section": "Abondance"
   },
-  "f12": {
+  "f10": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -158,151 +142,63 @@
    "sentence": "Par exemple, l'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain.",
    "section": "Abondance"
   },
-  "f13": {
-   "kind": "measure",
-   "value": 96,
-   "unit": "%",
-   "surface": "96 %",
-   "sentence": "L'une d'elles au Mali est quasiment pure (à 96 %) et est utilisée pour produire de l'électricité depuis les années 2010.",
-   "section": "Abondance"
-  },
-  "f14": {
+  "f11": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "L'une d'elles au Mali est quasiment pure (à 96 %) et est utilisée pour produire de l'électricité depuis les années 2010.",
+   "sentence": "L'une d'elles au Mali est quasiment pure et est utilisée pour produire de l'électricité depuis les années 2010.",
    "section": "Abondance"
   },
-  "f15": {
+  "f12": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "L'hydrogène est l'élément chimique le plus simple, de numéro atomique 1 ; son isotope le plus commun est constitué seulement d'un proton et d'un électron.",
+   "sentence": "L'hydrogène est l'élément chimique le plus simple, de numéro atomique 1; son isotope le plus commun est constitué seulement d'un proton et d'un électron.",
    "section": "Atome d'hydrogène"
   },
-  "f16": {
-   "kind": "number",
-   "value": 200,
-   "surface": "200",
-   "sentence": "La section efficace de capture de l'hydrogène (200 mb aux neutrons thermiques et 0,04 mb aux neutrons rapides)[réf. nécessaire] est suffisamment faible pour permettre l'utilisation de l'eau comme modérateur et réfrigérant des réacteurs nucléaires.",
-   "section": "Atome d'hydrogène"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 0.04,
-   "surface": "0,04",
-   "sentence": "La section efficace de capture de l'hydrogène (200 mb aux neutrons thermiques et 0,04 mb aux neutrons rapides)[réf. nécessaire] est suffisamment faible pour permettre l'utilisation de l'eau comme modérateur et réfrigérant des réacteurs nucléaires.",
-   "section": "Atome d'hydrogène"
-  },
-  "f18": {
-   "kind": "measure",
-   "value": 99.98,
-   "unit": "%",
-   "surface": "99,98 %",
-   "sentence": "Les isotopes les plus notables de l'hydrogène sont :\nl'hydrogène léger ou protium 1H, le plus abondant (~99,98 % de l'hydrogène naturel).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 0.0082,
-   "surface": "0,0082",
-   "sentence": "C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f20": {
-   "kind": "measure",
-   "value": 0.0184,
-   "unit": "%",
-   "surface": "0,0184 %",
-   "sentence": "C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f21": {
-   "kind": "measure",
-   "value": 0.015,
-   "unit": "%",
-   "surface": "0,015 %",
-   "sentence": "C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f22": {
-   "kind": "date",
-   "value": "1018",
-   "surface": "1018",
-   "sentence": "Sur Terre, il est essentiellement présent sous forme d'eau deutérée HDO (eau semi-lourde) ;\nle tritium 3H (ou T), présent seulement en quantité infime dans l'hydrogène naturel (un atome de tritium pour 1018 atomes d’hydrogène).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 1.39,
-   "surface": "1,39",
-   "sentence": "Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f24": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f25": {
-   "kind": "number",
-   "value": 22,
-   "surface": "22",
-   "sentence": "Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f26": {
+  "f13": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Il se décompose par émission de neutron ;\nl'hydrogène 7 (7H), le nucléide le plus riche en neutrons jamais observé, relativement au nombre de protons (N/Z = 6).",
+   "sentence": "Il se décompose par émission de neutron;\nl'hydrogène 7, le nucléide le plus riche en neutrons jamais observé, relativement au nombre de protons.",
    "section": "Isotopes et propriétés nucléaires"
   },
-  "f27": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Il se décompose par émission de neutron ;\nl'hydrogène 7 (7H), le nucléide le plus riche en neutrons jamais observé, relativement au nombre de protons (N/Z = 6).",
-   "section": "Isotopes et propriétés nucléaires"
-  },
-  "f28": {
+  "f14": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Sa demi-vie est de l'ordre de 10−21 seconde.",
    "section": "Isotopes et propriétés nucléaires"
   },
-  "f29": {
+  "f15": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Sa demi-vie est de l'ordre de 10−21 seconde.",
    "section": "Isotopes et propriétés nucléaires"
   },
-  "f30": {
+  "f16": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "La fusion nucléaire réalisée dans les bombes à hydrogène ou bombes H concerne des isotopes intermédiaires de la fusion (l'hydrogène se transforme en hélium), comme celle qui se déroule dans les étoiles : isotopes lourds de l'hydrogène, hélium 3, tritium, etc. Mais, dans une bombe H, les réactions nucléaires ne durent que quelques dizaines de nanosecondes, ce qui permet uniquement des réactions en une unique étape.",
+   "sentence": "La fusion nucléaire réalisée dans les bombes à hydrogène ou bombes H concerne des isotopes intermédiaires de la fusion, comme celle qui se déroule dans les étoiles: isotopes lourds de l'hydrogène, hélium 3, tritium, etc. Mais, dans une bombe H, les réactions nucléaires ne durent que quelques dizaines de nanosecondes, ce qui permet uniquement des réactions en une unique étape.",
    "section": "Isotopes et propriétés nucléaires"
   },
-  "f31": {
+  "f17": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "Depuis 2006, le projet ITER vise à vérifier la « faisabilité scientifique et technique de la fusion nucléaire comme nouvelle source d’énergie ».",
+   "sentence": "Depuis 2006, le projet ITER vise à vérifier la «faisabilité scientifique et technique de la fusion nucléaire comme nouvelle source d’énergie».",
    "section": "Isotopes et propriétés nucléaires"
   },
-  "f32": {
+  "f18": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Il s'apparente aux métaux alcalins qui le suivent dans le groupe 1 du tableau de Mendeleïev.",
    "section": "Corps simple hydrogène"
   },
-  "f33": {
+  "f19": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -310,93 +206,63 @@
    "sentence": "En raison de l'immensité de ces espaces et malgré la très faible densité du gaz, l'hydrogène monoatomique constitue près de 75 % de la masse baryonique de l'univers.",
    "section": "Corps simple hydrogène"
   },
-  "f34": {
+  "f20": {
    "kind": "measure",
    "value": 14.01,
    "unit": "k",
    "surface": "14,01 K",
-   "sentence": "L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K (−259,14 °C).",
+   "sentence": "L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K. L'état solide fut obtenu pour la première fois en 1899 par James Dewar.",
    "section": "Corps simple hydrogène"
   },
-  "f35": {
-   "kind": "measure",
-   "value": 259.14,
-   "unit": "°c",
-   "surface": "259,14 °C",
-   "sentence": "L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K (−259,14 °C).",
-   "section": "Corps simple hydrogène"
-  },
-  "f36": {
+  "f21": {
    "kind": "date",
    "value": "1899",
    "surface": "1899",
-   "sentence": "L'état solide fut obtenu pour la première fois en 1899 par James Dewar.",
+   "sentence": "L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K. L'état solide fut obtenu pour la première fois en 1899 par James Dewar.",
    "section": "Corps simple hydrogène"
   },
-  "f37": {
-   "kind": "number",
-   "value": 400,
-   "surface": "400",
-   "sentence": "D'aucuns estiment qu'il y a un intervalle de pressions (autour de 400 GPa) dans lequel l'hydrogène métallique est liquide, même à de très basses températures.",
-   "section": "Corps simple hydrogène"
-  },
-  "f38": {
-   "kind": "measure",
-   "value": 0.02,
-   "unit": "%",
-   "surface": "0,02 %",
-   "sentence": "Cette appellation n'est pas rigoureusement correcte si l'on tient compte de la présence, certes discrète (inférieure à 0,02 %), des autres isotopes.",
-   "section": "Propriétés chimiques et composés"
-  },
-  "f39": {
+  "f22": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
-   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "sentence": "Son rayon est très petit: environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
    "section": "Propriétés chimiques et composés"
   },
-  "f40": {
+  "f23": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "sentence": "Son rayon est très petit: environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
    "section": "Propriétés chimiques et composés"
   },
-  "f41": {
+  "f24": {
    "kind": "measure",
    "value": 15,
    "unit": "m",
    "surface": "15 m",
-   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "sentence": "Son rayon est très petit: environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
    "section": "Propriétés chimiques et composés"
   },
-  "f42": {
+  "f25": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "sentence": "Son rayon est très petit: environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
    "section": "Propriétés chimiques et composés"
   },
-  "f43": {
+  "f26": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "sentence": "Son rayon est très petit: environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
    "section": "Propriétés chimiques et composés"
   },
-  "f44": {
+  "f27": {
    "kind": "measure",
    "value": 11,
    "unit": "m",
    "surface": "11 m",
-   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
-   "section": "Propriétés chimiques et composés"
-  },
-  "f45": {
-   "kind": "number",
-   "value": 2.2,
-   "surface": "2,2",
-   "sentence": "L'hydrogène se combine avec la plupart des autres éléments car il possède une électronégativité moyenne (2,2) et peut ainsi former des composés avec des éléments métalliques ou non-métalliques.",
+   "sentence": "Son rayon est très petit: environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
    "section": "Propriétés chimiques et composés"
   }
  },

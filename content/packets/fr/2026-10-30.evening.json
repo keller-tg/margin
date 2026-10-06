@@ -69,7 +69,7 @@
    "kind": "number",
    "value": 51,
    "surface": "51",
-   "sentence": "L'antimoine est l'élément chimique de numéro atomique 51, de symbole Sb (Stibium)."
+   "sentence": "L'antimoine est l'élément chimique de numéro atomique 51, de symbole Sb."
   },
   "f2": {
    "kind": "number",
@@ -94,14 +94,14 @@
    "kind": "date",
    "value": "1050",
    "surface": "1050",
-   "sentence": "Cette forme latine médiévale, attestée vers 1050, a une origine incertaine :\nselon l'étymologie populaire, une légende explique l'origine de ce nom par une succession de décès survenus au Moyen Âge parmi des moines.",
+   "sentence": "Cette forme latine médiévale, attestée vers 1050, a une origine incertaine:\nselon l'étymologie populaire, une légende explique l'origine de ce nom par une succession de décès survenus au Moyen Âge parmi des moines.",
    "section": "Histoire et étymologie"
   },
   "f6": {
    "kind": "date",
    "value": "1050",
    "surface": "1050",
-   "sentence": "Cependant le préfixe grec anti-, qui présente des valeurs diverses (« en face, en échange, à son tour, équivalant à, contre… »), n'a jamais celle d'une simple négation ;\nLippman a conjecturé un terme grec, anthemonion (mascara, littéralement « fleurette ») et cite de nombreux termes apparentés en grec ancien décrivant des éléments chimiques ou biologiques ;\nles utilisations précoces du terme antimonium remontent à 1050-1100, par Constantin l'Africain dans des traités de médecine arabe et plusieurs spécialistes pensent qu'il s'agit d'une altération scripturale de l'arabe الإثمد al-ʾiṯmid, un emprunt à l’ancien égyptien stim ou smdt par l'intermédiaire du copte ou du grec στίμμι / stímmi.",
+   "sentence": "Cependant le préfixe grec anti-, qui présente des valeurs diverses, n'a jamais celle d'une simple négation;\nLippman a conjecturé un terme grec, anthemonion et cite de nombreux termes apparentés en grec ancien décrivant des éléments chimiques ou biologiques;\nles utilisations précoces du terme antimonium remontent à 1050-1100, par Constantin l'Africain dans des traités de médecine arabe et plusieurs spécialistes pensent qu'il s'agit d'une altération scripturale de l'arabe الإثمد al-ʾiṯmid, un emprunt à l’ancien égyptien stim ou smdt par l'intermédiaire du copte ou du grec στίμμι / stímmi.",
    "section": "Histoire et étymologie"
   },
   "f7": {
@@ -236,47 +236,33 @@
   },
   "f25": {
    "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Il engendre alors lentement ce que l'on croyait de l'acide antimonique, mais qui se trouve sous la forme d'ions antimoniates Sb(OH)6−.",
+   "value": 0.58,
+   "surface": "0,58",
+   "sentence": "L'antimoine Sb de valence V, ou Sb se situe à un niveau d'énergie supérieur de 0,58 e.V à Sb.",
    "section": "Corps simple"
   },
   "f26": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "L'antimoine perd des électrons et forme des ions Sb3+, hydrolysé en SbO+ ou même précipité en Sb(O{H)2+ en milieu acide.",
+   "value": 0.21,
+   "surface": "0,21",
+   "sentence": "L'antimoine corps simple ou Sb0 n'est qu'à un niveau d'énergie inférieur de 0,21 e.V par rapport à Sb.",
    "section": "Corps simple"
   },
   "f27": {
    "kind": "number",
-   "value": 0.58,
-   "surface": "0,58",
-   "sentence": "L'antimoine Sb de valence V, ou Sb(V) se situe à un niveau d'énergie supérieur de 0,58 e.V à Sb(III).",
+   "value": 0.51,
+   "surface": "0,51",
+   "sentence": "Sb représenté par l'hydrogène antimonié SbH3 plonge à −0,51 e.V par rapport à Sb0.",
    "section": "Corps simple"
   },
   "f28": {
-   "kind": "number",
-   "value": 0.21,
-   "surface": "0,21",
-   "sentence": "L'antimoine corps simple ou Sb0 (Sb au degré d'oxydation zéro ou élémentaire) n'est qu'à un niveau d'énergie inférieur de 0,21 e.V par rapport à Sb(III).",
-   "section": "Corps simple"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 0.51,
-   "surface": "0,51",
-   "sentence": "Sb(-III) représenté par l'hydrogène antimonié SbH3 plonge à −0,51 e.V par rapport à Sb0.",
-   "section": "Corps simple"
-  },
-  "f30": {
    "kind": "number",
    "value": 11.7,
    "surface": "11,7",
    "sentence": "Sb2O3 sénarmontite ou cristal de maille cubique → Sb2O3 fleur d'antimoine structure valentinite instable avec\nΔ\nH\n= −11,7 kJ/mol\nL'antimoine s'enflamme spontanément dans le gaz chlore.",
    "section": "Corps simple"
   },
-  "f31": {
+  "f29": {
    "kind": "measure",
    "value": 200,
    "unit": "°c",
@@ -284,7 +270,7 @@
    "sentence": "Le chlorure normalement formé est un pentachlorure SbCl5, et il faut réchauffer ce corps lentement vers 200 °C pour former le trichlorure SbCl3.",
    "section": "Corps simple"
   },
-  "f32": {
+  "f30": {
    "kind": "measure",
    "value": 200,
    "unit": "°c",
@@ -292,84 +278,63 @@
    "sentence": "Néanmoins, le trichlorure d'antimoine peut être obtenu avec les corps simples si la température est maintenue à 200 °C.",
    "section": "Corps simple"
   },
-  "f33": {
+  "f31": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux :\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
+   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux:\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
+   "section": "Corps simple"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux:\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
+   "section": "Corps simple"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux:\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
    "section": "Corps simple"
   },
   "f34": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux :\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
+   "value": 290.6,
+   "surface": "290,6",
+   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux:\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
    "section": "Corps simple"
   },
   "f35": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux :\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
-   "section": "Corps simple"
-  },
-  "f36": {
-   "kind": "number",
-   "value": 290.6,
-   "surface": "290,6",
-   "sentence": "Mais sa décomposition exothermique peut survenir à la moindre excitation à l'état gazeux :\n2 SbH3 gaz instable → 2 Sb poudre cristal + 3 H2 gaz avec\nΔ\nH\n= −290,6 kJ/mol.",
-   "section": "Corps simple"
-  },
-  "f37": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "L'antimoine est présent dans de nombreux composés minéraux, souvent associé avec le plomb, sous forme d'oxydes, de sulfures, de sulfoxydes, d'oxychlorures, etc.\nL'acide antimonique HSb(OH)6 est inconnu en pratique : il n'existe que l'ion antimoniate, par exemple dans le pyroantimoniate de sodium NaSb(OH)6, encore écrit par convention Na2Sb2O5(OH)2.",
-   "section": "Alliages et composés chimiques"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "L'antimoine est présent dans de nombreux composés minéraux, souvent associé avec le plomb, sous forme d'oxydes, de sulfures, de sulfoxydes, d'oxychlorures, etc.\nL'acide antimonique HSb(OH)6 est inconnu en pratique : il n'existe que l'ion antimoniate, par exemple dans le pyroantimoniate de sodium NaSb(OH)6, encore écrit par convention Na2Sb2O5(OH)2.",
-   "section": "Alliages et composés chimiques"
-  },
-  "f39": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "L'antimoine est présent dans de nombreux composés minéraux, souvent associé avec le plomb, sous forme d'oxydes, de sulfures, de sulfoxydes, d'oxychlorures, etc.\nL'acide antimonique HSb(OH)6 est inconnu en pratique : il n'existe que l'ion antimoniate, par exemple dans le pyroantimoniate de sodium NaSb(OH)6, encore écrit par convention Na2Sb2O5(OH)2.",
-   "section": "Alliages et composés chimiques"
-  },
-  "f40": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "5 H2O, le pyroantimoniate de potassium.",
    "section": "Alliages et composés chimiques"
   },
-  "f41": {
+  "f36": {
    "kind": "number",
    "value": 27.7,
    "surface": "27,7",
    "sentence": "Ainsi\nSb2S3 rouge orangé, amorphe, chauffé et secoué → Sb2S3 cristaux allongés gris-noir type stibine avec\nΔ\nH\n= 27,7 kJ/mol.",
    "section": "Alliages et composés chimiques"
   },
-  "f42": {
+  "f37": {
    "kind": "number",
    "value": 0.7,
    "surface": "0,7",
    "sentence": "Le clarke s'élève entre 0,7 et 0,2 ppm ou en moyenne 0,5 g par tonne.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f43": {
+  "f38": {
    "kind": "number",
    "value": 0.2,
    "surface": "0,2",
    "sentence": "Le clarke s'élève entre 0,7 et 0,2 ppm ou en moyenne 0,5 g par tonne.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f44": {
+  "f39": {
    "kind": "measure",
    "value": 0.5,
    "unit": "g",
@@ -377,63 +342,35 @@
    "sentence": "Le clarke s'élève entre 0,7 et 0,2 ppm ou en moyenne 0,5 g par tonne.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f45": {
+  "f40": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Pour les analyses de cycle de vie et l'appréhension de l'épuisement des ressources dites abiotiques, l'antimoine est l'unité utilisée depuis 2004 pour quantifier une consommation de matière première.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f46": {
+  "f41": {
    "kind": "number",
    "value": 4.6,
    "surface": "4,6",
    "sentence": "Elle est de couleur gris acier, d’une densité de 4,6.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f47": {
+  "f42": {
    "kind": "date",
    "value": "1827",
    "surface": "1827",
    "sentence": "Son nom lui a été donné en hommage à Pierre Berthier qui en fut le découvreur en 1827 à Chazelles dans le Puy-de-Dôme en France.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f48": {
+  "f43": {
    "kind": "number",
    "value": 4.6,
    "surface": "4,6",
    "sentence": "Sa densité est également de 4,6.",
    "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
   },
-  "f49": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "On peut citer par exemple :\navec des cations plomb :\nardaïte Pb19Sb13S35Cl7\nbénavidésite Pb4(Mn,Fe)Sb6S14\nfranckéite (Pb,Sn)6Fe2+Sn2Sb2S14\njamesonite Pb4FeSb6S14\nsemseyite Pb9Sb8S14\nboulangérite Pb5Sb4S11\nplagionite Pb5Sb8S11\nmadocite Pb17Sb16S41\nménéghinite Pb13CuSb7S24\nguettardite Pb(Sb,As)2S4\ntwinnite Pb(Sb,As)2S4\nzinkénite Pb6Sb14S27\navec des cations cuivre :\nbournonite CuPbSbS3\ntétraédrite (Cu, Fe, Ag, Zn)12Sb4S13\nchalcostibite CuSbS2\nfreibergite (Ag,Cu,Fe)12(Sb,As)4S13\ngalkhaïte (Cs, Ti)(Hg, Cu, Zn)6(As, Sb)4S12\nautres cations :\nullmannite NiSbS\nallemontite ou stibarsen AsSb\ndyscrasite Ag3Sb\npyrargyrite Ag3SbS3\nstéphanite Ag5SbS4\nmiargyrite AgSbS2\nnagyagite AuPb(Sb,Bi)Te2-3S6\nrouthiérite Tl(Cu,Ag)(Hg,Zn)2(As,Sb)2S6\nvrbaïte Tl4Hg3Sb2As8S20\nLes oxydes sont généralement colorés :\nde couleur blanche ou grise :\nla sénarmontite (Sb2O3 cubique),\nla valentinite (Sb2O3 orthorhombique) ;\nde couleur jaune :\nla stibiconite (en) (Sb3O6(OH)) ;\nde couleur rouge :\nla kermésite (Sb2S2O) ou antimoine rouge.",
-   "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "On peut citer par exemple :\navec des cations plomb :\nardaïte Pb19Sb13S35Cl7\nbénavidésite Pb4(Mn,Fe)Sb6S14\nfranckéite (Pb,Sn)6Fe2+Sn2Sb2S14\njamesonite Pb4FeSb6S14\nsemseyite Pb9Sb8S14\nboulangérite Pb5Sb4S11\nplagionite Pb5Sb8S11\nmadocite Pb17Sb16S41\nménéghinite Pb13CuSb7S24\nguettardite Pb(Sb,As)2S4\ntwinnite Pb(Sb,As)2S4\nzinkénite Pb6Sb14S27\navec des cations cuivre :\nbournonite CuPbSbS3\ntétraédrite (Cu, Fe, Ag, Zn)12Sb4S13\nchalcostibite CuSbS2\nfreibergite (Ag,Cu,Fe)12(Sb,As)4S13\ngalkhaïte (Cs, Ti)(Hg, Cu, Zn)6(As, Sb)4S12\nautres cations :\nullmannite NiSbS\nallemontite ou stibarsen AsSb\ndyscrasite Ag3Sb\npyrargyrite Ag3SbS3\nstéphanite Ag5SbS4\nmiargyrite AgSbS2\nnagyagite AuPb(Sb,Bi)Te2-3S6\nrouthiérite Tl(Cu,Ag)(Hg,Zn)2(As,Sb)2S6\nvrbaïte Tl4Hg3Sb2As8S20\nLes oxydes sont généralement colorés :\nde couleur blanche ou grise :\nla sénarmontite (Sb2O3 cubique),\nla valentinite (Sb2O3 orthorhombique) ;\nde couleur jaune :\nla stibiconite (en) (Sb3O6(OH)) ;\nde couleur rouge :\nla kermésite (Sb2S2O) ou antimoine rouge.",
-   "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "On peut citer par exemple :\navec des cations plomb :\nardaïte Pb19Sb13S35Cl7\nbénavidésite Pb4(Mn,Fe)Sb6S14\nfranckéite (Pb,Sn)6Fe2+Sn2Sb2S14\njamesonite Pb4FeSb6S14\nsemseyite Pb9Sb8S14\nboulangérite Pb5Sb4S11\nplagionite Pb5Sb8S11\nmadocite Pb17Sb16S41\nménéghinite Pb13CuSb7S24\nguettardite Pb(Sb,As)2S4\ntwinnite Pb(Sb,As)2S4\nzinkénite Pb6Sb14S27\navec des cations cuivre :\nbournonite CuPbSbS3\ntétraédrite (Cu, Fe, Ag, Zn)12Sb4S13\nchalcostibite CuSbS2\nfreibergite (Ag,Cu,Fe)12(Sb,As)4S13\ngalkhaïte (Cs, Ti)(Hg, Cu, Zn)6(As, Sb)4S12\nautres cations :\nullmannite NiSbS\nallemontite ou stibarsen AsSb\ndyscrasite Ag3Sb\npyrargyrite Ag3SbS3\nstéphanite Ag5SbS4\nmiargyrite AgSbS2\nnagyagite AuPb(Sb,Bi)Te2-3S6\nrouthiérite Tl(Cu,Ag)(Hg,Zn)2(As,Sb)2S6\nvrbaïte Tl4Hg3Sb2As8S20\nLes oxydes sont généralement colorés :\nde couleur blanche ou grise :\nla sénarmontite (Sb2O3 cubique),\nla valentinite (Sb2O3 orthorhombique) ;\nde couleur jaune :\nla stibiconite (en) (Sb3O6(OH)) ;\nde couleur rouge :\nla kermésite (Sb2S2O) ou antimoine rouge.",
-   "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Ces deux minéraux ont aussi pu être synthétisés.\nshakhovite Hg4SbO3(OH)3",
-   "section": "Occurrence dans les milieux naturels, minéralogie et géologie"
-  },
-  "f53": {
+  "f44": {
    "kind": "measure",
    "value": 0.5,
    "unit": "mg",
@@ -441,155 +378,92 @@
    "sentence": "La limite de tolérance dans l'atmosphère de travail est 0,5 mg/m3 d'air.",
    "section": "Toxicité et environnement"
   },
-  "f54": {
+  "f45": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Il est parfois retrouvé dans l'eau en bouteille (à partir du PET qui en relargue) et dans l'eau potable, à des concentrations « généralement inférieures aux valeurs réglementées » ; vu sa toxicité, Santé Canada a émis une norme provisoire de concentration maximale acceptable pour l’eau potable qui est de 6 µg/L.",
+   "sentence": "Il est parfois retrouvé dans l'eau en bouteille et dans l'eau potable, à des concentrations «généralement inférieures aux valeurs réglementées»; vu sa toxicité, Santé Canada a émis une norme provisoire de concentration maximale acceptable pour l’eau potable qui est de 6 µg/L.",
    "section": "Toxicité et environnement"
   },
-  "f55": {
-   "kind": "date",
-   "value": "1309",
-   "surface": "1309",
-   "sentence": "En France, il existe deux fiches toxicologiques sur le site de l'INRS:\nsur le trioxyde d'antimoine (synonymes : anhydride antimonieux, antimoine trioxyde, diantimoine trioxyde, oxyde antimonieux, oxyde d’antimoine(III), sesquioxyde d’antimoine ; numéro CAS : 1309-64-4) ;\nsur l’hydrure d'antimoine (synonymes : antimoine trihydrure, hydrogène antimonié, hydrure d’antimoine, stibine ; numéro CAS : 7803-52-3).",
-   "section": "Toxicité et environnement"
-  },
-  "f56": {
-   "kind": "number",
-   "value": 7803,
-   "surface": "7803",
-   "sentence": "En France, il existe deux fiches toxicologiques sur le site de l'INRS:\nsur le trioxyde d'antimoine (synonymes : anhydride antimonieux, antimoine trioxyde, diantimoine trioxyde, oxyde antimonieux, oxyde d’antimoine(III), sesquioxyde d’antimoine ; numéro CAS : 1309-64-4) ;\nsur l’hydrure d'antimoine (synonymes : antimoine trihydrure, hydrogène antimonié, hydrure d’antimoine, stibine ; numéro CAS : 7803-52-3).",
-   "section": "Toxicité et environnement"
-  },
-  "f57": {
+  "f46": {
    "kind": "number",
    "value": 4145,
    "surface": "4 145",
-   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la « Cohorte Elfe » ; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées (moyenne géométrique : 0,04 μg/L ; avec 0,06 μg/g de créatinine, soit un niveau proche des moyennes trouvées chez la femme (enceinte ou non, en France et à l’étranger) lors d'études précédentes.",
+   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la «Cohorte Elfe»; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées.",
    "section": "Toxicité et environnement"
   },
-  "f58": {
+  "f47": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
-   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la « Cohorte Elfe » ; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées (moyenne géométrique : 0,04 μg/L ; avec 0,06 μg/g de créatinine, soit un niveau proche des moyennes trouvées chez la femme (enceinte ou non, en France et à l’étranger) lors d'études précédentes.",
+   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la «Cohorte Elfe»; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées.",
    "section": "Toxicité et environnement"
   },
-  "f59": {
+  "f48": {
    "kind": "date",
    "value": "990",
    "surface": "990",
-   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la « Cohorte Elfe » ; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées (moyenne géométrique : 0,04 μg/L ; avec 0,06 μg/g de créatinine, soit un niveau proche des moyennes trouvées chez la femme (enceinte ou non, en France et à l’étranger) lors d'études précédentes.",
+   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la «Cohorte Elfe»; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées.",
    "section": "Toxicité et environnement"
   },
-  "f60": {
+  "f49": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
    "surface": "70 %",
-   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la « Cohorte Elfe » ; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées (moyenne géométrique : 0,04 μg/L ; avec 0,06 μg/g de créatinine, soit un niveau proche des moyennes trouvées chez la femme (enceinte ou non, en France et à l’étranger) lors d'études précédentes.",
+   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la «Cohorte Elfe»; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées.",
    "section": "Toxicité et environnement"
   },
-  "f61": {
-   "kind": "number",
-   "value": 0.04,
-   "surface": "0,04",
-   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la « Cohorte Elfe » ; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées (moyenne géométrique : 0,04 μg/L ; avec 0,06 μg/g de créatinine, soit un niveau proche des moyennes trouvées chez la femme (enceinte ou non, en France et à l’étranger) lors d'études précédentes.",
-   "section": "Toxicité et environnement"
-  },
-  "f62": {
-   "kind": "number",
-   "value": 0.06,
-   "surface": "0,06",
-   "sentence": "À l'occasion du suivi d'une cohorte de 4 145 femmes enceintes de la « Cohorte Elfe » ; femmes ayant accouché en France en 2011, hors Corse et TOM), le dosage urinaire de 990 femmes enceintes a révélé la présence d'antimoine au-delà des seuils de détection dans 70 % des échantillons d’urine analysées (moyenne géométrique : 0,04 μg/L ; avec 0,06 μg/g de créatinine, soit un niveau proche des moyennes trouvées chez la femme (enceinte ou non, en France et à l’étranger) lors d'études précédentes.",
-   "section": "Toxicité et environnement"
-  },
-  "f63": {
-   "kind": "date",
-   "value": "2011",
-   "surface": "2011",
-   "sentence": "Les seuils toxicologiques ont été choisis de manière à ne pas gêner l'industrie (ne pas empêcher la commercialisation des bouteilles PET en particulier), mais devraient selon les toxicologues André Picot et Jean-François Narbonne (2011) être revus à la baisse en Europe : « La VTR doit être mieux précisée, certaines valeurs limites comme celle retenue pour l’eau devraient être ramenées de 5 à 2 μg/L.",
-   "section": "Toxicité et environnement"
-  },
-  "f64": {
+  "f50": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Les seuils toxicologiques ont été choisis de manière à ne pas gêner l'industrie (ne pas empêcher la commercialisation des bouteilles PET en particulier), mais devraient selon les toxicologues André Picot et Jean-François Narbonne (2011) être revus à la baisse en Europe : « La VTR doit être mieux précisée, certaines valeurs limites comme celle retenue pour l’eau devraient être ramenées de 5 à 2 μg/L.",
+   "sentence": "Les seuils toxicologiques ont été choisis de manière à ne pas gêner l'industrie, mais devraient selon les toxicologues André Picot et Jean-François Narbonne être revus à la baisse en Europe: «La VTR doit être mieux précisée, certaines valeurs limites comme celle retenue pour l’eau devraient être ramenées de 5 à 2 μg/L.",
    "section": "Toxicité et environnement"
   },
-  "f65": {
+  "f51": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Les seuils toxicologiques ont été choisis de manière à ne pas gêner l'industrie (ne pas empêcher la commercialisation des bouteilles PET en particulier), mais devraient selon les toxicologues André Picot et Jean-François Narbonne (2011) être revus à la baisse en Europe : « La VTR doit être mieux précisée, certaines valeurs limites comme celle retenue pour l’eau devraient être ramenées de 5 à 2 μg/L.",
+   "sentence": "Les seuils toxicologiques ont été choisis de manière à ne pas gêner l'industrie, mais devraient selon les toxicologues André Picot et Jean-François Narbonne être revus à la baisse en Europe: «La VTR doit être mieux précisée, certaines valeurs limites comme celle retenue pour l’eau devraient être ramenées de 5 à 2 μg/L.",
    "section": "Toxicité et environnement"
   },
-  "f66": {
+  "f52": {
    "kind": "measure",
    "value": 0.5,
    "unit": "mg",
    "surface": "0,5 mg",
-   "sentence": "De même en ce qui concerne le risque lié à l’exposition à l’antimoine et à ses composés en milieu de travail, une réévaluation de la norme, qui est actuellement de 0,5 mg/m3, devrait certainement aller vers son abaissement ».",
+   "sentence": "De même en ce qui concerne le risque lié à l’exposition à l’antimoine et à ses composés en milieu de travail, une réévaluation de la norme, qui est actuellement de 0,5 mg/m3, devrait certainement aller vers son abaissement».",
    "section": "Toxicité et environnement"
   },
-  "f67": {
+  "f53": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "La littérature scientifique suggère « que, bien que des concentrations de Sb allant jusqu'à 30 μg/g soient bioaccessibles dans les peintures extérieures et que des concentrations allant jusqu'à 20 mg/L soient migrantes dans certains articles en céramique, aucune réglementation pertinente n'est actuellement en place.",
+   "sentence": "La littérature scientifique suggère «que, bien que des concentrations de Sb allant jusqu'à 30 μg/g soient bioaccessibles dans les peintures extérieures et que des concentrations allant jusqu'à 20 mg/L soient migrantes dans certains articles en céramique, aucune réglementation pertinente n'est actuellement en place.",
    "section": "Toxicité et environnement"
   },
-  "f68": {
+  "f54": {
    "kind": "measure",
    "value": 20,
    "unit": "mg",
    "surface": "20 mg",
-   "sentence": "La littérature scientifique suggère « que, bien que des concentrations de Sb allant jusqu'à 30 μg/g soient bioaccessibles dans les peintures extérieures et que des concentrations allant jusqu'à 20 mg/L soient migrantes dans certains articles en céramique, aucune réglementation pertinente n'est actuellement en place.",
+   "sentence": "La littérature scientifique suggère «que, bien que des concentrations de Sb allant jusqu'à 30 μg/g soient bioaccessibles dans les peintures extérieures et que des concentrations allant jusqu'à 20 mg/L soient migrantes dans certains articles en céramique, aucune réglementation pertinente n'est actuellement en place.",
    "section": "Toxicité et environnement"
   },
-  "f69": {
-   "kind": "date",
-   "value": "2010",
-   "surface": "2010",
-   "sentence": "2010).",
-   "section": "Toxicité et environnement"
-  },
-  "f70": {
-   "kind": "date",
-   "value": "2010",
-   "surface": "2010",
-   "sentence": "(2010) notent qu'il a soudainement fortement augmenté (depuis le début des années 2000) dans l’air, ainsi que dans l’eau au point d'être devenu l’un des éléments métalliques en traces (ETM) les plus enrichis dans les environnements urbains par rapport au fond géochimique.",
-   "section": "Toxicité et environnement"
-  },
-  "f71": {
-   "kind": "date",
-   "value": "2000",
-   "surface": "2000",
-   "sentence": "(2010) notent qu'il a soudainement fortement augmenté (depuis le début des années 2000) dans l’air, ainsi que dans l’eau au point d'être devenu l’un des éléments métalliques en traces (ETM) les plus enrichis dans les environnements urbains par rapport au fond géochimique.",
-   "section": "Toxicité et environnement"
-  },
-  "f72": {
-   "kind": "date",
-   "value": "2021",
-   "surface": "2021",
-   "sentence": "Une piste récente (publication 2021) est celle d'un adsorbant à base d'oxyde de graphène et d'alginate de sodium (GAD) doté d'une bonne capacité à adsorber l'antimoine présent dans l'eau (capacité d'adsorption de Langmuir est de 7,67 mg/g, mais en sachant que son efficacité diminue avec la température.",
-   "section": "Toxicité et environnement"
-  },
-  "f73": {
+  "f55": {
    "kind": "measure",
    "value": 7.67,
    "unit": "mg",
    "surface": "7,67 mg",
-   "sentence": "Une piste récente (publication 2021) est celle d'un adsorbant à base d'oxyde de graphène et d'alginate de sodium (GAD) doté d'une bonne capacité à adsorber l'antimoine présent dans l'eau (capacité d'adsorption de Langmuir est de 7,67 mg/g, mais en sachant que son efficacité diminue avec la température.",
+   "sentence": "Une piste récente est celle d'un adsorbant à base d'oxyde de graphène et d'alginate de sodium doté d'une bonne capacité à adsorber l'antimoine présent dans l'eau (capacité d'adsorption de Langmuir est de 7,67 mg/g, mais en sachant que son efficacité diminue avec la température.",
    "section": "Toxicité et environnement"
   },
-  "f74": {
+  "f56": {
    "kind": "number",
    "value": 0.11,
    "surface": "0,11",
-   "sentence": "Comme pour d'autres métaux et métalloïdes, les champignons semblent pouvoir être utilisés pour un biomonitoring de l'environnement ; dans le cas d'une analyse des métaux et métalloïdes de neuf espèces de champignons comestibles venant de cinq régions de la Chine, les taux de Sb étaient compris entre une valeur indétectable par la méthode (ICP-MS) utilisée et 0,11 µg/g de champignon sec.",
+   "sentence": "Comme pour d'autres métaux et métalloïdes, les champignons semblent pouvoir être utilisés pour un biomonitoring de l'environnement; dans le cas d'une analyse des métaux et métalloïdes de neuf espèces de champignons comestibles venant de cinq régions de la Chine, les taux de Sb étaient compris entre une valeur indétectable par la méthode utilisée et 0,11 µg/g de champignon sec.",
    "section": "Toxicité et environnement"
   }
  },

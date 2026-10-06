@@ -85,21 +85,21 @@
    "kind": "date",
    "value": "1777",
    "surface": "1777",
-   "sentence": "Nom scientifique valide : Cervus canadensis Erxleben, 1777\nProtonyme : Cervus elaphus canadensis Erxleben, 1777\nNoms vulgaires (vulgarisation scientifique) : Wapiti, Cerf Wapiti, Cerf wapiti, Cerf, Cerf d'Amérique, Cerf du Canada, Cerf du Canada de l'Est, Wapiti de l'Est\nNoms vernaculaires (langage courant) : elk, kanadar orein (basque), uapití (catalan)\nLe terme wapiti est actuellement utilisé dans différentes langues, parfois avec des variantes orthographiques, pour désigner une seule et unique espèce (Cervus canadensis).",
+   "sentence": "Nom scientifique valide: Cervus canadensis Erxleben, 1777\nProtonyme: Cervus elaphus canadensis Erxleben, 1777\nNoms vulgaires: Wapiti, Cerf Wapiti, Cerf wapiti, Cerf, Cerf d'Amérique, Cerf du Canada, Cerf du Canada de l'Est, Wapiti de l'Est\nNoms vernaculaires: elk, kanadar orein, uapití\nLe terme wapiti est actuellement utilisé dans différentes langues, parfois avec des variantes orthographiques, pour désigner une seule et unique espèce.",
    "section": "Dénominations"
   },
   "f5": {
    "kind": "date",
    "value": "1777",
    "surface": "1777",
-   "sentence": "Nom scientifique valide : Cervus canadensis Erxleben, 1777\nProtonyme : Cervus elaphus canadensis Erxleben, 1777\nNoms vulgaires (vulgarisation scientifique) : Wapiti, Cerf Wapiti, Cerf wapiti, Cerf, Cerf d'Amérique, Cerf du Canada, Cerf du Canada de l'Est, Wapiti de l'Est\nNoms vernaculaires (langage courant) : elk, kanadar orein (basque), uapití (catalan)\nLe terme wapiti est actuellement utilisé dans différentes langues, parfois avec des variantes orthographiques, pour désigner une seule et unique espèce (Cervus canadensis).",
+   "sentence": "Nom scientifique valide: Cervus canadensis Erxleben, 1777\nProtonyme: Cervus elaphus canadensis Erxleben, 1777\nNoms vulgaires: Wapiti, Cerf Wapiti, Cerf wapiti, Cerf, Cerf d'Amérique, Cerf du Canada, Cerf du Canada de l'Est, Wapiti de l'Est\nNoms vernaculaires: elk, kanadar orein, uapití\nLe terme wapiti est actuellement utilisé dans différentes langues, parfois avec des variantes orthographiques, pour désigner une seule et unique espèce.",
    "section": "Dénominations"
   },
   "f6": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
-   "sentence": "Jusqu'en 2004, le cerf élaphe et le wapiti ont été considérés comme une seule espèce : Cervus elaphus, sur la base d'hybrides fertiles produits en captivité.",
+   "sentence": "Jusqu'en 2004, le cerf élaphe et le wapiti ont été considérés comme une seule espèce: Cervus elaphus, sur la base d'hybrides fertiles produits en captivité.",
    "section": "Taxinomie"
   },
   "f7": {
@@ -186,7 +186,7 @@
    "kind": "date",
    "value": "1835",
    "surface": "1835",
-   "sentence": "Dans l'est du Canada, l'espèce était présente à l'origine au Québec et en Ontario ; la rude compétition avec les autres cervidés a entraîné sa disparition en 1835 à l'est du Manitoba.",
+   "sentence": "Dans l'est du Canada, l'espèce était présente à l'origine au Québec et en Ontario; la rude compétition avec les autres cervidés a entraîné sa disparition en 1835 à l'est du Manitoba.",
    "section": "Répartition"
   },
   "f18": {
@@ -208,7 +208,7 @@
    "value": 15,
    "unit": "%",
    "surface": "15 %",
-   "sentence": "L'introduction de cerfs en Nouvelle-Zélande a commencé dans le milieu du XIXe siècle, et leur population actuelle est essentiellement européenne (cerf élaphe) avec seulement 15 % de wapitis.",
+   "sentence": "L'introduction de cerfs en Nouvelle-Zélande a commencé dans le milieu du XIXe siècle, et leur population actuelle est essentiellement européenne avec seulement 15 % de wapitis.",
    "section": "Répartition"
   },
   "f21": {
@@ -261,30 +261,6 @@
    "unit": "kg",
    "surface": "16 kg",
    "sentence": "La période de gestation est de 240 à 262 jours et la progéniture pèse entre 15 et 16 kg.",
-   "section": "Comportement"
-  },
-  "f28": {
-   "kind": "measure",
-   "value": 1.2,
-   "unit": "m",
-   "surface": "1,2 m",
-   "sentence": "Le wapiti mâle conserve ses bois (jusqu'à plus de 1,2 m chacun) plus de la moitié de l'année.",
-   "section": "Comportement"
-  },
-  "f29": {
-   "kind": "measure",
-   "value": 250,
-   "unit": "kg",
-   "surface": "250 kg",
-   "sentence": "Une fois leur bois perdus, les mâles (pouvant atteindre 250 kg) tendent à former des groupes homogènes, ce qui leur permet de collaborer pour se défendre des prédateurs.",
-   "section": "Comportement"
-  },
-  "f30": {
-   "kind": "measure",
-   "value": 10,
-   "unit": "ans",
-   "surface": "10 ans",
-   "sentence": "Cependant la relation prédateur-proie interfère aussi avec ce processus :\nOn a constaté dans le Parc national de Yellowstone (sur la base de plus de 10 ans de suivi) qu'en fin d'hiver les prédateurs vont plutôt cibler les mâles ayant déjà perdu leurs bois (qui sont aussi supposés avoir été les meilleures reproducteurs la saison précédente).",
    "section": "Comportement"
   }
  },

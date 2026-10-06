@@ -65,90 +65,91 @@
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc (∼643 al), mais elle était définie à 427 années-lumière pendant les décennies précédentes."
+   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc, mais elle était définie à 427 années-lumière pendant les décennies précédentes."
   },
   "f2": {
    "kind": "number",
    "value": 197,
    "surface": "197",
-   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc (∼643 al), mais elle était définie à 427 années-lumière pendant les décennies précédentes."
+   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc, mais elle était définie à 427 années-lumière pendant les décennies précédentes."
   },
   "f3": {
    "kind": "number",
    "value": 45,
    "surface": "45",
-   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc (∼643 al), mais elle était définie à 427 années-lumière pendant les décennies précédentes."
+   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc, mais elle était définie à 427 années-lumière pendant les décennies précédentes."
   },
   "f4": {
-   "kind": "date",
-   "value": "643",
-   "surface": "643",
-   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc (∼643 al), mais elle était définie à 427 années-lumière pendant les décennies précédentes."
-  },
-  "f5": {
    "kind": "measure",
    "value": 427,
    "unit": "années-lumière",
    "surface": "427 années-lumière",
-   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc (∼643 al), mais elle était définie à 427 années-lumière pendant les décennies précédentes."
+   "sentence": "En 2008, un article propose la distance de 197 ± 45 pc, mais elle était définie à 427 années-lumière pendant les décennies précédentes."
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "En 2013, le télescope spatial Herschel estime que Bételgeuse pourrait se trouver à une distance voisine de 500 années-lumière."
   },
-  "f7": {
+  "f6": {
    "kind": "measure",
    "value": 500,
    "unit": "années-lumière",
    "surface": "500 années-lumière",
    "sentence": "En 2013, le télescope spatial Herschel estime que Bételgeuse pourrait se trouver à une distance voisine de 500 années-lumière."
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Le diamètre angulaire de Bételgeuse est le fruit de la première mesure d'un diamètre d'étoile, réalisée en 1920-1921 par les astronomes Michelson et Pease avec le télescope Hooker de l'observatoire du Mont Wilson et par interférométrie."
   },
-  "f9": {
+  "f8": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Étoile variable habituellement considérée comme la huitième étoile la plus brillante du ciel, sa luminosité a baissé soudainement en novembre 2019, au point de la faire descendre en 2020 à la 21e place."
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Étoile variable habituellement considérée comme la huitième étoile la plus brillante du ciel, sa luminosité a baissé soudainement en novembre 2019, au point de la faire descendre en 2020 à la 21e place."
   },
-  "f11": {
+  "f10": {
    "kind": "measure",
    "value": 87,
    "unit": "%",
    "surface": "87 %",
    "sentence": "Sa luminosité a par la suite progressivement remonté, pour revenir à environ 87 % de sa luminosité nominale en mars 2021."
   },
-  "f12": {
+  "f11": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "Sa luminosité a par la suite progressivement remonté, pour revenir à environ 87 % de sa luminosité nominale en mars 2021."
   },
-  "f13": {
+  "f12": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Bételgeuse (forme internationale : Betelgeuse) est le nom propre de l'étoile qui a été approuvé par l'Union astronomique internationale le 20 juillet 2016.",
+   "sentence": "Bételgeuse est le nom propre de l'étoile qui a été approuvé par l'Union astronomique internationale le 20 juillet 2016.",
    "section": "Nom"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
-   "sentence": "Bételgeuse (forme internationale : Betelgeuse) est le nom propre de l'étoile qui a été approuvé par l'Union astronomique internationale le 20 juillet 2016.",
+   "sentence": "Bételgeuse est le nom propre de l'étoile qui a été approuvé par l'Union astronomique internationale le 20 juillet 2016.",
    "section": "Nom"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Elle est en outre le seul astre connu de magnitude 1 dont l’éclat varie d’environ 1 magnitude sur une période de 5,7 années.",
+   "section": "Caractéristiques"
   },
   "f15": {
    "kind": "number",
@@ -158,13 +159,6 @@
    "section": "Caractéristiques"
   },
   "f16": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Elle est en outre le seul astre connu de magnitude 1 dont l’éclat varie d’environ 1 magnitude sur une période de 5,7 années.",
-   "section": "Caractéristiques"
-  },
-  "f17": {
    "kind": "measure",
    "value": 5.7,
    "unit": "années",
@@ -172,21 +166,21 @@
    "sentence": "Elle est en outre le seul astre connu de magnitude 1 dont l’éclat varie d’environ 1 magnitude sur une période de 5,7 années.",
    "section": "Caractéristiques"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "Entre 1993 et 2009, son diamètre a diminué de 15 %, sans qu'on en connaisse encore les raisons.",
    "section": "Caractéristiques"
   },
-  "f19": {
+  "f18": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Entre 1993 et 2009, son diamètre a diminué de 15 %, sans qu'on en connaisse encore les raisons.",
    "section": "Caractéristiques"
   },
-  "f20": {
+  "f19": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -194,45 +188,52 @@
    "sentence": "Entre 1993 et 2009, son diamètre a diminué de 15 %, sans qu'on en connaisse encore les raisons.",
    "section": "Caractéristiques"
   },
-  "f21": {
+  "f20": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "La mesure de son diamètre angulaire a été réalisée en 1920 par les astronomes Albert A. Michelson et Francis Pease avec le télescope Hooker de l'observatoire du Mont Wilson, grâce à la technique de l'interférométrie.",
    "section": "Caractéristiques"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 100000,
    "surface": "100 000",
    "sentence": "Cette supergéante rouge rayonne comme approximativement 100 000 soleils réunis.",
    "section": "Caractéristiques"
   },
-  "f23": {
+  "f22": {
    "kind": "number",
    "value": 1000,
    "surface": "1 000",
-   "sentence": "Son rayon a été déterminé comme étant environ 1 000 fois plus grand que celui du Soleil (et donc son volume environ un milliard de fois plus grand), mais sa masse n'est que quinze à vingt fois celle du Soleil.",
+   "sentence": "Son rayon a été déterminé comme étant environ 1 000 fois plus grand que celui du Soleil, mais sa masse n'est que quinze à vingt fois celle du Soleil.",
    "section": "Caractéristiques"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "En 2020, une étude affirme que Bételgeuse serait moins grosse qu'estimé auparavant : la supergéante ne serait pas aussi grande que l'orbite de Jupiter, mais seulement les deux tiers.",
+   "sentence": "En 2020, une étude affirme que Bételgeuse serait moins grosse qu'estimé auparavant: la supergéante ne serait pas aussi grande que l'orbite de Jupiter, mais seulement les deux tiers.",
    "section": "Caractéristiques"
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "760",
    "surface": "760",
    "sentence": "Son rayon serait environ 760 fois celui du Soleil.",
    "section": "Caractéristiques"
   },
-  "f26": {
+  "f25": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
+   "sentence": "D'après les observations conduites pendant plusieurs années par Charles Townes et son collègue Edward Wishnow, la taille de Bételgeuse s'est réduite entre 1993 et 2009 d'une distance égale à celle qui sépare Vénus du Soleil, et il semble que le processus irait en s'accélérant.",
+   "section": "Caractéristiques"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009",
    "sentence": "D'après les observations conduites pendant plusieurs années par Charles Townes et son collègue Edward Wishnow, la taille de Bételgeuse s'est réduite entre 1993 et 2009 d'une distance égale à celle qui sépare Vénus du Soleil, et il semble que le processus irait en s'accélérant.",
    "section": "Caractéristiques"
   },
@@ -240,46 +241,39 @@
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "D'après les observations conduites pendant plusieurs années par Charles Townes et son collègue Edward Wishnow, la taille de Bételgeuse s'est réduite entre 1993 et 2009 d'une distance égale à celle qui sépare Vénus du Soleil, et il semble que le processus irait en s'accélérant.",
+   "sentence": "Selon des observations publiées en 2009, Bételgeuse aurait arrêté de grandir.",
    "section": "Caractéristiques"
   },
   "f28": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Selon des observations publiées en 2009, Bételgeuse aurait arrêté de grandir.",
+   "sentence": "L'ESO et l'observatoire de Paris ont, en juillet 2009, obtenu des images d'une grande précision de la géante rouge en utilisant le Très Grand Télescope basé au Chili.",
    "section": "Caractéristiques"
   },
   "f29": {
    "kind": "date",
-   "value": "2009",
-   "surface": "2009",
-   "sentence": "L'ESO et l'observatoire de Paris ont, en juillet 2009, obtenu des images d'une grande précision de la géante rouge en utilisant le Très Grand Télescope basé au Chili.",
+   "value": "2016",
+   "surface": "2016",
+   "sentence": "Les observations avec ALMA ont révélé en 2016 une tache de grande taille, située dans la partie nord-est du disque et qui est environ 1 000 °C plus chaude que le reste de l'étoile.",
    "section": "Caractéristiques"
   },
   "f30": {
-   "kind": "date",
-   "value": "2016",
-   "surface": "2016",
-   "sentence": "Les observations avec ALMA ont révélé en 2016 une tache de grande taille (plusieurs unités astronomiques), située dans la partie nord-est du disque et qui est environ 1 000 °C plus chaude que le reste de l'étoile.",
-   "section": "Caractéristiques"
-  },
-  "f31": {
    "kind": "measure",
    "value": 1000,
    "unit": "°c",
    "surface": "1 000 °C",
-   "sentence": "Les observations avec ALMA ont révélé en 2016 une tache de grande taille (plusieurs unités astronomiques), située dans la partie nord-est du disque et qui est environ 1 000 °C plus chaude que le reste de l'étoile.",
+   "sentence": "Les observations avec ALMA ont révélé en 2016 une tache de grande taille, située dans la partie nord-est du disque et qui est environ 1 000 °C plus chaude que le reste de l'étoile.",
    "section": "Caractéristiques"
   },
-  "f32": {
+  "f31": {
    "kind": "number",
    "value": 425,
    "surface": "425",
    "sentence": "Sa variabilité montre une période dominante d'environ 425 jours, sur laquelle se surimpose une période à long terme d'environ 5,9 ans.",
    "section": "Caractéristiques"
   },
-  "f33": {
+  "f32": {
    "kind": "measure",
    "value": 5.9,
    "unit": "ans",
@@ -287,49 +281,49 @@
    "sentence": "Sa variabilité montre une période dominante d'environ 425 jours, sur laquelle se surimpose une période à long terme d'environ 5,9 ans.",
    "section": "Caractéristiques"
   },
-  "f34": {
+  "f33": {
    "kind": "number",
    "value": 0.3,
    "surface": "0,3",
    "sentence": "Habituellement, sa luminosité maximale s'établit autour de la magnitude 0,3 ou 0,4, ce qui en fait la 6e ou la 7e étoile la plus brillante du ciel nocturne.",
    "section": "Caractéristiques"
   },
-  "f35": {
+  "f34": {
    "kind": "number",
    "value": 0.4,
    "surface": "0,4",
    "sentence": "Habituellement, sa luminosité maximale s'établit autour de la magnitude 0,3 ou 0,4, ce qui en fait la 6e ou la 7e étoile la plus brillante du ciel nocturne.",
    "section": "Caractéristiques"
   },
-  "f36": {
+  "f35": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "À la fin de l'année 2019 et au début de l'année 2020, Bételgeuse connaît l'assombrissement le plus important jamais observé, sa magnitude apparente s'abaissant à 1,61 en février 2020.",
    "section": "Caractéristiques"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "À la fin de l'année 2019 et au début de l'année 2020, Bételgeuse connaît l'assombrissement le plus important jamais observé, sa magnitude apparente s'abaissant à 1,61 en février 2020.",
    "section": "Caractéristiques"
   },
-  "f38": {
+  "f37": {
    "kind": "number",
    "value": 1.61,
    "surface": "1,61",
    "sentence": "À la fin de l'année 2019 et au début de l'année 2020, Bételgeuse connaît l'assombrissement le plus important jamais observé, sa magnitude apparente s'abaissant à 1,61 en février 2020.",
    "section": "Caractéristiques"
   },
-  "f39": {
+  "f38": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "À la fin de l'année 2019 et au début de l'année 2020, Bételgeuse connaît l'assombrissement le plus important jamais observé, sa magnitude apparente s'abaissant à 1,61 en février 2020.",
    "section": "Caractéristiques"
   },
-  "f40": {
+  "f39": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -337,14 +331,14 @@
    "sentence": "Dès la fin du même mois, sa luminosité regagne à peu près 10 %.",
    "section": "Caractéristiques"
   },
-  "f41": {
+  "f40": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "En avril 2023, sa luminosité a augmenté de 55 % ou plus en quelques jours, ce qui place Bételgeuse à la 7e place parmi les étoiles les plus brillantes au ciel.",
    "section": "Caractéristiques"
   },
-  "f42": {
+  "f41": {
    "kind": "measure",
    "value": 55,
    "unit": "%",
@@ -352,167 +346,153 @@
    "sentence": "En avril 2023, sa luminosité a augmenté de 55 % ou plus en quelques jours, ce qui place Bételgeuse à la 7e place parmi les étoiles les plus brillantes au ciel.",
    "section": "Caractéristiques"
   },
-  "f43": {
+  "f42": {
    "kind": "date",
    "value": "890",
    "surface": "890",
-   "sentence": "Eamon O'Gorman, Pierre Kervella, Graham Mark Harper, Anita Richards, Leen Decin, Miguel Montargès et I. McDonald ont observé pendant une heure le gaz chaud de la chromosphère de Bételgeuse dans l'infrarouge lointain, à 890 micromètres de longueur d'onde, avec 47 antennes du grand réseau d'antennes millimétrique/submillimétrique de l'Atacama (ALMA) qui synthétisait alors un télescope virtuel de 16 kilomètres de diamètre.",
+   "sentence": "Eamon O'Gorman, Pierre Kervella, Graham Mark Harper, Anita Richards, Leen Decin, Miguel Montargès et I. McDonald ont observé pendant une heure le gaz chaud de la chromosphère de Bételgeuse dans l'infrarouge lointain, à 890 micromètres de longueur d'onde, avec 47 antennes du grand réseau d'antennes millimétrique/submillimétrique de l'Atacama qui synthétisait alors un télescope virtuel de 16 kilomètres de diamètre.",
    "section": "Observations"
   },
-  "f44": {
+  "f43": {
    "kind": "number",
    "value": 47,
    "surface": "47",
-   "sentence": "Eamon O'Gorman, Pierre Kervella, Graham Mark Harper, Anita Richards, Leen Decin, Miguel Montargès et I. McDonald ont observé pendant une heure le gaz chaud de la chromosphère de Bételgeuse dans l'infrarouge lointain, à 890 micromètres de longueur d'onde, avec 47 antennes du grand réseau d'antennes millimétrique/submillimétrique de l'Atacama (ALMA) qui synthétisait alors un télescope virtuel de 16 kilomètres de diamètre.",
+   "sentence": "Eamon O'Gorman, Pierre Kervella, Graham Mark Harper, Anita Richards, Leen Decin, Miguel Montargès et I. McDonald ont observé pendant une heure le gaz chaud de la chromosphère de Bételgeuse dans l'infrarouge lointain, à 890 micromètres de longueur d'onde, avec 47 antennes du grand réseau d'antennes millimétrique/submillimétrique de l'Atacama qui synthétisait alors un télescope virtuel de 16 kilomètres de diamètre.",
    "section": "Observations"
   },
-  "f45": {
+  "f44": {
    "kind": "measure",
    "value": 16,
    "unit": "kilomètres",
    "surface": "16 kilomètres",
-   "sentence": "Eamon O'Gorman, Pierre Kervella, Graham Mark Harper, Anita Richards, Leen Decin, Miguel Montargès et I. McDonald ont observé pendant une heure le gaz chaud de la chromosphère de Bételgeuse dans l'infrarouge lointain, à 890 micromètres de longueur d'onde, avec 47 antennes du grand réseau d'antennes millimétrique/submillimétrique de l'Atacama (ALMA) qui synthétisait alors un télescope virtuel de 16 kilomètres de diamètre.",
+   "sentence": "Eamon O'Gorman, Pierre Kervella, Graham Mark Harper, Anita Richards, Leen Decin, Miguel Montargès et I. McDonald ont observé pendant une heure le gaz chaud de la chromosphère de Bételgeuse dans l'infrarouge lointain, à 890 micromètres de longueur d'onde, avec 47 antennes du grand réseau d'antennes millimétrique/submillimétrique de l'Atacama qui synthétisait alors un télescope virtuel de 16 kilomètres de diamètre.",
    "section": "Observations"
   },
-  "f46": {
+  "f45": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "section": "Siwarha, son étoile compagne"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 2170,
+   "surface": "2 170",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f47": {
    "kind": "number",
-   "value": 2170,
-   "surface": "2 170",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 1.17,
+   "surface": "1,17",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f48": {
    "kind": "number",
-   "value": 1.17,
-   "surface": "1,17",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 0.7,
+   "surface": "0,7",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f49": {
    "kind": "number",
-   "value": 0.7,
-   "surface": "0,7",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 1850,
+   "surface": "1 850",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f50": {
    "kind": "number",
-   "value": 1850,
-   "surface": "1 850",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 70,
+   "surface": "70",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f51": {
    "kind": "number",
-   "value": 70,
-   "surface": "70",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 2.43,
+   "surface": "2,43",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f52": {
    "kind": "number",
-   "value": 2.43,
-   "surface": "2,43",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 0.21,
+   "surface": "0,21",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f53": {
    "kind": "number",
-   "value": 0.21,
-   "surface": "0,21",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
+   "value": 0.32,
+   "surface": "0,32",
+   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
    "section": "Siwarha, son étoile compagne"
   },
   "f54": {
-   "kind": "number",
-   "value": 0.32,
-   "surface": "0,32",
-   "sentence": "Selon une étude de Jared A. Goldberg, Meridith Joyce et László Molnár publiée en 2024, la longue période secondaire de Bételgeuse, de 2 170 jours, serait due à une étoile compagne, désignée α Ori B. Elle aurait une masse minimale m sin(i) de 1,17 ± 0,7 masse solaire et une séparation orbitale de 1 850 ± 70 rayons solaires, c'est-à-dire 2,43+0,21 −0,32 fois le rayon de Bételgeuse.",
-   "section": "Siwarha, son étoile compagne"
-  },
-  "f55": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "L'existence d'un tel compagnon est appuyée par imagerie directe en juillet 2025.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f56": {
+  "f55": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
    "sentence": "Bien que la détection ne présente qu'une signification statistique de 1,5 σ, ce qui ne permet pas de confirmer qu'elle est bien réelle, elle reste cohérente avec les observations précédentes.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f57": {
+  "f56": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "L'équipe qui a découvert ce compagnon a proposé le nom de Siwarha (سوارها, « Son Bracelet »), nom officiellement reconnu par le groupe de travail sur les noms d'étoiles le 22 septembre 2025.",
+   "sentence": "L'équipe qui a découvert ce compagnon a proposé le nom de Siwarha, nom officiellement reconnu par le groupe de travail sur les noms d'étoiles le 22 septembre 2025.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f58": {
+  "f57": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
-   "sentence": "L'équipe qui a découvert ce compagnon a proposé le nom de Siwarha (سوارها, « Son Bracelet »), nom officiellement reconnu par le groupe de travail sur les noms d'étoiles le 22 septembre 2025.",
+   "sentence": "L'équipe qui a découvert ce compagnon a proposé le nom de Siwarha, nom officiellement reconnu par le groupe de travail sur les noms d'étoiles le 22 septembre 2025.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f59": {
+  "f58": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Le 28 juillet 2026, il est annoncé par l'astronome français Miguel Montargès et ses collègues que ce compagnon a été détecté en imagerie directe à 6 sigma en décembre 2024 avec SPHERE.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f60": {
+  "f59": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
    "sentence": "Le 28 juillet 2026, il est annoncé par l'astronome français Miguel Montargès et ses collègues que ce compagnon a été détecté en imagerie directe à 6 sigma en décembre 2024 avec SPHERE.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f61": {
+  "f60": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Le 28 juillet 2026, il est annoncé par l'astronome français Miguel Montargès et ses collègues que ce compagnon a été détecté en imagerie directe à 6 sigma en décembre 2024 avec SPHERE.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f62": {
+  "f61": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "Le 28 juillet 2026, il est annoncé par l'astronome français Miguel Montargès et ses collègues que ce compagnon a été détecté en imagerie directe à 6 sigma en décembre 2024 avec SPHERE.",
    "section": "Siwarha, son étoile compagne"
   },
-  "f63": {
+  "f62": {
    "kind": "date",
    "value": "2027",
    "surface": "2027",
    "sentence": "Pour confirmer son existence, ce compagnon devra être réobservé en 2027, de l'autre côté de Bételgeuse, même si sa réalité fait désormais peu de doute.",
    "section": "Siwarha, son étoile compagne"
-  },
-  "f64": {
-   "kind": "date",
-   "value": "1958",
-   "surface": "1958",
-   "sentence": "Bételgeuse est le siège d'un étrange gouvernement galactique dans le roman Le Gambit des étoiles de Gérard Klein (1958).",
-   "section": "Dans la culture"
-  },
-  "f65": {
-   "kind": "date",
-   "value": "1964",
-   "surface": "1964",
-   "sentence": "Dans le livre de l'astrophysique Une étoile appelée Soleil (1964), avec humeur, l'auteur présentait que les Cow-boys de la région, qui ne connaissaient pas l'origine de ce nom, l'appelaient Battle goose (Oie de bataille).",
-   "section": "Dans la culture"
   }
  },
  "images": {

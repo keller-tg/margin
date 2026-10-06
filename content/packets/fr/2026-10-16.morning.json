@@ -81,7 +81,7 @@
    "kind": "date",
    "value": "1974",
    "surface": "1974",
-   "sentence": "En France, l'émission doublée en français fait son apparition dès 1974 sous la forme d'une séquence intitulée « Bonjour Sésame »."
+   "sentence": "En France, l'émission doublée en français fait son apparition dès 1974 sous la forme d'une séquence intitulée «Bonjour Sésame»."
   },
   "f4": {
    "kind": "number",
@@ -179,7 +179,7 @@
    "kind": "number",
    "value": 5000,
    "surface": "5 000",
-   "sentence": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur (et 95% pour la population totale).",
+   "sentence": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur.",
    "section": "Production"
   },
   "f20": {
@@ -187,53 +187,45 @@
    "value": 90,
    "unit": "%",
    "surface": "90%",
-   "sentence": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur (et 95% pour la population totale).",
+   "sentence": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur.",
    "section": "Production"
   },
   "f21": {
-   "kind": "measure",
-   "value": 95,
-   "unit": "%",
-   "surface": "95%",
-   "sentence": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur (et 95% pour la population totale).",
-   "section": "Production"
-  },
-  "f22": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "En février 1966, cette idée parvient à Lloyd Morriset, qui travaille alors auprès de la Carnegie Corporation à New York, fondation consacrée à l'éducation.",
    "section": "Production"
   },
-  "f23": {
+  "f22": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "Dans les années 1950 et 1960 aux États-Unis, les émissions de télévision ont eu tendance à verser dans la violence et le commercialisme, ce qui était critiqué, notamment par de nombreux parents de la classe moyenne, des religieux, des politiciens et des psychologues.",
    "section": "Production"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",
    "sentence": "Dans les années 1950 et 1960 aux États-Unis, les émissions de télévision ont eu tendance à verser dans la violence et le commercialisme, ce qui était critiqué, notamment par de nombreux parents de la classe moyenne, des religieux, des politiciens et des psychologues.",
    "section": "Production"
   },
-  "f25": {
+  "f24": {
    "kind": "number",
    "value": 8000000,
    "surface": "8 millions",
    "sentence": "Pendant les deux ans de préparation, un montant de 8 millions de dollars est débloqué.",
    "section": "Production"
   },
-  "f26": {
+  "f25": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Parmi eux, Gerald S. Lesser, psychologue, est le directeur des conseillers qui resta en cette fonction jusqu'en 1996.",
    "section": "Production"
   },
-  "f27": {
+  "f26": {
    "kind": "measure",
    "value": 19,
    "unit": "ans",
@@ -241,113 +233,98 @@
    "sentence": "Un autre personnage important est le docteur Edward L. Palmer, pédagogue de l'expérience, qui est devenu l'un des fondateurs du CTW et qui fut ensuite le président adjoint des chercheurs durant 19 ans.",
    "section": "Production"
   },
-  "f28": {
+  "f27": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "L'émission commença ainsi le 10 novembre 1969.",
    "section": "Production"
   },
-  "f29": {
+  "f28": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "L'émission commença ainsi le 10 novembre 1969.",
    "section": "Production"
   },
-  "f30": {
+  "f29": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
    "sentence": "Ensuite, pour le projet, il organise une série de sessions durant été 1968, y invitant psychologues, sociologues, enseignants, directeurs de télévision, auteurs des livres pour les enfants et responsables de divertissement.",
    "section": "Rôle important de Gerald S. Lesser"
   },
-  "f31": {
+  "f30": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "Ainsi, lorsque l'acteur Will Lee qui jouait M. Hooper, meurt en 1982, un épisode consacré, faisant preuve d'une excellente délicatesse, est diffusé.",
    "section": "Rôle important de Gerald S. Lesser"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "En 2005, à la suite de la catastrophe de l'ouragan Katrina, l'équipe présente le nid détruit de Big Bird, attristé.",
    "section": "Rôle important de Gerald S. Lesser"
   },
-  "f33": {
+  "f32": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "En 1970, chaque épisode de Sesame Street coûte 28 000 dollars tandis qu'une publicité des chaînes américaines reste, le week-end au matin, à 7 500 dollars environ.",
    "section": "Tournage de l'épisode"
   },
-  "f34": {
+  "f33": {
    "kind": "number",
    "value": 28000,
    "surface": "28 000",
    "sentence": "En 1970, chaque épisode de Sesame Street coûte 28 000 dollars tandis qu'une publicité des chaînes américaines reste, le week-end au matin, à 7 500 dollars environ.",
    "section": "Tournage de l'épisode"
   },
-  "f35": {
+  "f34": {
    "kind": "number",
    "value": 7500,
    "surface": "7 500",
    "sentence": "En 1970, chaque épisode de Sesame Street coûte 28 000 dollars tandis qu'une publicité des chaînes américaines reste, le week-end au matin, à 7 500 dollars environ.",
    "section": "Tournage de l'épisode"
   },
-  "f36": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Avant le premier épisode déjà, le magazine TV Guide écrivait : « Indiscutablement, il s'agit de la production la plus prestigieuse et la plus exhaustivement étudiée, et jamais achevée auparavant, dans l'optique d'éduquer les enfants d'âge préscolaire (3 à 5 ans) chez eux et sur le petit écran. » Dans la première semaine, en novembre 1969, la Saturday Review l'a qualifiée de : « spectacle le plus complètement étudié dans l'histoire de la télévision. »\nCes avis ont été suivis de ceux d'autres magazines majeurs américains comme Time, Newsweek, Life, Look, Good Housekeeping et Ebony.",
-   "section": "Réaction du public"
-  },
-  "f37": {
-   "kind": "measure",
-   "value": 5,
-   "unit": "ans",
-   "surface": "5 ans",
-   "sentence": "Avant le premier épisode déjà, le magazine TV Guide écrivait : « Indiscutablement, il s'agit de la production la plus prestigieuse et la plus exhaustivement étudiée, et jamais achevée auparavant, dans l'optique d'éduquer les enfants d'âge préscolaire (3 à 5 ans) chez eux et sur le petit écran. » Dans la première semaine, en novembre 1969, la Saturday Review l'a qualifiée de : « spectacle le plus complètement étudié dans l'histoire de la télévision. »\nCes avis ont été suivis de ceux d'autres magazines majeurs américains comme Time, Newsweek, Life, Look, Good Housekeeping et Ebony.",
-   "section": "Réaction du public"
-  },
-  "f38": {
+  "f35": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
-   "sentence": "Avant le premier épisode déjà, le magazine TV Guide écrivait : « Indiscutablement, il s'agit de la production la plus prestigieuse et la plus exhaustivement étudiée, et jamais achevée auparavant, dans l'optique d'éduquer les enfants d'âge préscolaire (3 à 5 ans) chez eux et sur le petit écran. » Dans la première semaine, en novembre 1969, la Saturday Review l'a qualifiée de : « spectacle le plus complètement étudié dans l'histoire de la télévision. »\nCes avis ont été suivis de ceux d'autres magazines majeurs américains comme Time, Newsweek, Life, Look, Good Housekeeping et Ebony.",
+   "sentence": "Dans la première semaine, en novembre 1969, la Saturday Review l'a qualifiée de: «spectacle le plus complètement étudié dans l'histoire de la télévision.»",
    "section": "Réaction du public"
   },
-  "f39": {
+  "f36": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "En outre, entre octobre et décembre 1969, plus de cent articles et éditoriaux sur l'émission sont apparus dans les journaux américains, dans toutes les régions.",
    "section": "Réaction du public"
   },
-  "f40": {
+  "f37": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Le 24 mai 1970, The New York Times publie un article très détaillé sur l'émission Sesame Street.",
    "section": "Réaction du public"
   },
-  "f41": {
+  "f38": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Le 24 mai 1970, The New York Times publie un article très détaillé sur l'émission Sesame Street.",
    "section": "Réaction du public"
   },
-  "f42": {
+  "f39": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Un sondage effectué à Bedford-Stuyvesant en mars 1970 montre que 90% d'enfants âgés de 2 à 5 ans, qui ne sont accueillis ni à l'école maternelle ni à la crèche, regardent cette émission.",
    "section": "Réaction du public"
   },
-  "f43": {
+  "f40": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -355,14 +332,14 @@
    "sentence": "Un sondage effectué à Bedford-Stuyvesant en mars 1970 montre que 90% d'enfants âgés de 2 à 5 ans, qui ne sont accueillis ni à l'école maternelle ni à la crèche, regardent cette émission.",
    "section": "Réaction du public"
   },
-  "f44": {
+  "f41": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Un sondage effectué à Bedford-Stuyvesant en mars 1970 montre que 90% d'enfants âgés de 2 à 5 ans, qui ne sont accueillis ni à l'école maternelle ni à la crèche, regardent cette émission.",
    "section": "Réaction du public"
   },
-  "f45": {
+  "f42": {
    "kind": "measure",
    "value": 5,
    "unit": "ans",
@@ -370,49 +347,49 @@
    "sentence": "Un sondage effectué à Bedford-Stuyvesant en mars 1970 montre que 90% d'enfants âgés de 2 à 5 ans, qui ne sont accueillis ni à l'école maternelle ni à la crèche, regardent cette émission.",
    "section": "Réaction du public"
   },
-  "f46": {
+  "f43": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "Un autre sondage, par Nielsen, indique qu'en décembre 1969 et pendant une semaine, 2,2 millions de foyers regardent au moins une partie d'émission chaque jour.",
    "section": "Réaction du public"
   },
-  "f47": {
+  "f44": {
    "kind": "number",
    "value": 2200000,
    "surface": "2,2 millions",
    "sentence": "Un autre sondage, par Nielsen, indique qu'en décembre 1969 et pendant une semaine, 2,2 millions de foyers regardent au moins une partie d'émission chaque jour.",
    "section": "Réaction du public"
   },
-  "f48": {
+  "f45": {
    "kind": "number",
    "value": 12000000,
    "surface": "12 millions",
    "sentence": "Celui-ci estime qu'aux États-Unis, presque la moitié des 12 millions d'enfants en âge préscolaire regardent Sesame Street sur l'écran offert par l'administration.",
    "section": "Réaction du public"
   },
-  "f49": {
+  "f46": {
    "kind": "number",
    "value": 42,
    "surface": "42",
    "sentence": "Ainsi, à l'Île d'Alcatraz, 42 enfants indiens de cette catégorie la regardent dans la cour commune.",
    "section": "Réaction du public"
   },
-  "f50": {
+  "f47": {
    "kind": "number",
    "value": 7000000,
    "surface": "7 millions",
    "sentence": "Le magazine Time, quant à lui, estime durant la même année que 7 millions d'enfants en âge préscolaire regardent cette émission chaque jour.",
    "section": "Réaction du public"
   },
-  "f51": {
+  "f48": {
    "kind": "number",
    "value": 130,
    "surface": "130",
    "sentence": "130 enfants dans la pauvreté et habitant à Long Island, dans les États du Tennessee et du Maine ont été divisés en deux groupes.",
    "section": "Réaction du public"
   },
-  "f52": {
+  "f49": {
    "kind": "measure",
    "value": 3,
    "unit": "ans",
@@ -420,35 +397,35 @@
    "sentence": "Dans l'État du New Jersey, un parent a été réveillé au milieu de la nuit par son fils de 3 ans, récemment devenu spectateur de Sesame Street.",
    "section": "Réaction du public"
   },
-  "f53": {
+  "f50": {
    "kind": "number",
    "value": 6000000,
    "surface": "6 millions",
-   "sentence": "Cette administration s'engage, avec enthousiasme, à offrir des possibilités à chaque jeune, en particulier au cours de ses cinq premières années de vie, et est heureuse de figurer parmi les parrains de votre programme distingué. »\nEn raison de la qualité de cette émission, ce qui la rend très coûteuse, 6 millions de dollars supplémentaires de subventions sont accordés pour réaliser 130 épisodes, réservés à partir de la 2e saison.",
+   "sentence": "En raison de la qualité de cette émission, ce qui la rend très coûteuse, 6 millions de dollars supplémentaires de subventions sont accordés pour réaliser 130 épisodes, réservés à partir de la 2e saison.",
    "section": "Réaction du public"
   },
-  "f54": {
+  "f51": {
    "kind": "number",
    "value": 130,
    "surface": "130",
-   "sentence": "Cette administration s'engage, avec enthousiasme, à offrir des possibilités à chaque jeune, en particulier au cours de ses cinq premières années de vie, et est heureuse de figurer parmi les parrains de votre programme distingué. »\nEn raison de la qualité de cette émission, ce qui la rend très coûteuse, 6 millions de dollars supplémentaires de subventions sont accordés pour réaliser 130 épisodes, réservés à partir de la 2e saison.",
+   "sentence": "En raison de la qualité de cette émission, ce qui la rend très coûteuse, 6 millions de dollars supplémentaires de subventions sont accordés pour réaliser 130 épisodes, réservés à partir de la 2e saison.",
    "section": "Réaction du public"
   },
-  "f55": {
+  "f52": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "30 secondes de nouveau enseignement après 30 secondes d'autre, cette succession en vrac ne serait pas efficace pour les enfants.",
    "section": "Critiques"
   },
-  "f56": {
+  "f53": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "30 secondes de nouveau enseignement après 30 secondes d'autre, cette succession en vrac ne serait pas efficace pour les enfants.",
    "section": "Critiques"
   },
-  "f57": {
+  "f54": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -456,14 +433,14 @@
    "sentence": "Parmi les courriers que le CTW a reçus, 15% d'avis étaient les protestations.",
    "section": "Critiques"
   },
-  "f58": {
+  "f55": {
    "kind": "date",
    "value": "1975",
    "surface": "1975",
    "sentence": "En dépit de la popularité de cette marionnette, Roosevelt Franklin a été retiré en 1975, après la saison 7",
    "section": "Critiques"
   },
-  "f59": {
+  "f56": {
    "kind": "number",
    "value": 7,
    "surface": "7",

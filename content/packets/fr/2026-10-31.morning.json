@@ -62,97 +62,44 @@
  },
  "facts": {
   "f1": {
-   "kind": "measure",
-   "value": 71,
-   "unit": "%",
-   "surface": "71 %",
-   "sentence": "Les mers, par opposition aux terres, sont les étendues d’eau salée, qui couvrent la plus grande partie (environ 71 %) de la surface terrestre."
-  },
-  "f2": {
    "kind": "number",
    "value": 12,
    "surface": "12",
-   "sentence": "On distingue des mouvements ondulatoires, sous forme d’oscillations verticales :\nla houle est provoquée par le vent ; sa période est de l’ordre de la seconde ou de la dizaine de secondes et son amplitude peut atteindre plusieurs dizaines de mètres ;\nle clapotis est le mouvement que l’on constate dans un port, c’est la combinaison des houles réfléchies sur les parois ;\nles seiches, constatées dans les ports et les bassins ; d’une période variant d’une minute à plusieurs minutes, leurs amplitudes sont faibles ;\nla marée est due à l’attraction de la Lune et du Soleil ; sa période est d’environ 12 heures, et son amplitude, très variable en fonction du lieu géographique, peut atteindre plus de dix mètres.",
+   "sentence": "On distingue des mouvements ondulatoires, sous forme d’oscillations verticales:\nla houle est provoquée par le vent; sa période est de l’ordre de la seconde ou de la dizaine de secondes et son amplitude peut atteindre plusieurs dizaines de mètres;\nle clapotis est le mouvement que l’on constate dans un port, c’est la combinaison des houles réfléchies sur les parois;\nles seiches, constatées dans les ports et les bassins; d’une période variant d’une minute à plusieurs minutes, leurs amplitudes sont faibles;\nla marée est due à l’attraction de la Lune et du Soleil; sa période est d’environ 12 heures, et son amplitude, très variable en fonction du lieu géographique, peut atteindre plus de dix mètres.",
    "section": "Physique"
   },
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 37,
    "unit": "g",
    "surface": "37 g",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
+   "sentence": "Cette salinité est de l’ordre de 37 g/l en Méditerranée et 300 g/l pour la mer Morte, d'environ 35 dans les océans.",
    "section": "Physique"
   },
-  "f4": {
-   "kind": "measure",
-   "value": 3.7,
-   "unit": "%",
-   "surface": "3,7 %",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
-   "section": "Physique"
-  },
-  "f5": {
+  "f3": {
    "kind": "measure",
    "value": 300,
    "unit": "g",
    "surface": "300 g",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
+   "sentence": "Cette salinité est de l’ordre de 37 g/l en Méditerranée et 300 g/l pour la mer Morte, d'environ 35 dans les océans.",
    "section": "Physique"
   },
-  "f6": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "%",
-   "surface": "30 %",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
-   "section": "Physique"
-  },
-  "f7": {
+  "f4": {
    "kind": "number",
    "value": 35,
    "surface": "35",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
+   "sentence": "Cette salinité est de l’ordre de 37 g/l en Méditerranée et 300 g/l pour la mer Morte, d'environ 35 dans les océans.",
    "section": "Physique"
   },
-  "f8": {
+  "f5": {
    "kind": "measure",
-   "value": 27,
-   "unit": "g",
-   "surface": "27 g",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
-   "section": "Physique"
-  },
-  "f9": {
-   "kind": "measure",
-   "value": 5,
-   "unit": "g",
-   "surface": "5 g",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
-   "section": "Physique"
-  },
-  "f10": {
-   "kind": "measure",
-   "value": 3,
-   "unit": "g",
-   "surface": "3 g",
-   "sentence": "Cette salinité est de l’ordre de 37 g/l (3,7 %) en Méditerranée et 300 g/l (30 %) pour la mer Morte, d'environ 35 dans les océans (dont 27 g de chlorure de sodium, 5 g d'autres chlorures et 3 g composés de sulfates, carbonates et bromures).",
-   "section": "Physique"
-  },
-  "f11": {
-   "kind": "number",
    "value": 28,
-   "surface": "28",
-   "sentence": "Il y a donc un kilogramme de sels dans environ 28 (= 1000/35) litres d’eau de mer.",
+   "unit": "litres",
+   "surface": "28 litres",
+   "sentence": "Il y a donc un kilogramme de sels dans environ 28 litres d’eau de mer.",
    "section": "Physique"
   },
-  "f12": {
-   "kind": "date",
-   "value": "1000",
-   "surface": "1000",
-   "sentence": "Il y a donc un kilogramme de sels dans environ 28 (= 1000/35) litres d’eau de mer.",
-   "section": "Physique"
-  },
-  "f13": {
+  "f6": {
    "kind": "measure",
    "value": 359,
    "unit": "g",
@@ -160,21 +107,21 @@
    "sentence": "Il tend à se dissoudre dans l’eau jusqu’à une concentration de saturation de 359 g/l.",
    "section": "Physique"
   },
-  "f14": {
+  "f7": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
-   "sentence": "La mesure précise du niveau des mers est possible depuis 1993 grâce à des satellites (Topex-Poséidon, puis Jason-1 et Jason-2).",
+   "sentence": "La mesure précise du niveau des mers est possible depuis 1993 grâce à des satellites.",
    "section": "Physique"
   },
-  "f15": {
+  "f8": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Selon une étude publiée dans la revue Global and planetary change vers novembre 2008, le niveau des mers a monté de 3,3 mm par an de 1993 à 2003 et de 2,5 mm par an depuis 2003.",
    "section": "Physique"
   },
-  "f16": {
+  "f9": {
    "kind": "measure",
    "value": 3.3,
    "unit": "mm",
@@ -182,21 +129,21 @@
    "sentence": "Selon une étude publiée dans la revue Global and planetary change vers novembre 2008, le niveau des mers a monté de 3,3 mm par an de 1993 à 2003 et de 2,5 mm par an depuis 2003.",
    "section": "Physique"
   },
-  "f17": {
+  "f10": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "Selon une étude publiée dans la revue Global and planetary change vers novembre 2008, le niveau des mers a monté de 3,3 mm par an de 1993 à 2003 et de 2,5 mm par an depuis 2003.",
    "section": "Physique"
   },
-  "f18": {
+  "f11": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
    "sentence": "Selon une étude publiée dans la revue Global and planetary change vers novembre 2008, le niveau des mers a monté de 3,3 mm par an de 1993 à 2003 et de 2,5 mm par an depuis 2003.",
    "section": "Physique"
   },
-  "f19": {
+  "f12": {
    "kind": "measure",
    "value": 2.5,
    "unit": "mm",
@@ -204,21 +151,21 @@
    "sentence": "Selon une étude publiée dans la revue Global and planetary change vers novembre 2008, le niveau des mers a monté de 3,3 mm par an de 1993 à 2003 et de 2,5 mm par an depuis 2003.",
    "section": "Physique"
   },
-  "f20": {
+  "f13": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
    "sentence": "Selon une étude publiée dans la revue Global and planetary change vers novembre 2008, le niveau des mers a monté de 3,3 mm par an de 1993 à 2003 et de 2,5 mm par an depuis 2003.",
    "section": "Physique"
   },
-  "f21": {
+  "f14": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
    "sentence": "Depuis 2003, la fonte des glaces contribue pour 1,9 mm par an à la montée des mers, pour moitié due à la fonte des deux calottes polaires et pour moitié à la fonte des glaciers d'altitude.",
    "section": "Physique"
   },
-  "f22": {
+  "f15": {
    "kind": "measure",
    "value": 1.9,
    "unit": "mm",
@@ -226,77 +173,63 @@
    "sentence": "Depuis 2003, la fonte des glaces contribue pour 1,9 mm par an à la montée des mers, pour moitié due à la fonte des deux calottes polaires et pour moitié à la fonte des glaciers d'altitude.",
    "section": "Physique"
   },
-  "f23": {
-   "kind": "date",
-   "value": "1551",
-   "surface": "1551",
-   "sentence": "A la Renaissance, on peut citer Pierre Belon, qui publie L'histoire naturelle des estranges poissons marins, avec la vraie peincture et description du daulphin, et de plusieurs autres de son espèce (1551) suivi de La Nature et diversité des poissons, avec leurs pourtraicts représentez au plus près du naturel (1555), deux ouvrages marquant un tournant dans la description d'espèces marines (bien que les poissons y désignent un éventail d'animaux bien plus large qu'aujourd'hui, incluant notamment des cétacés et crustacés).Le XVIIIe siècle voit l'essor des voyages d'exploration scientifique.",
-   "section": "Biologie marine"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "1555",
-   "surface": "1555",
-   "sentence": "A la Renaissance, on peut citer Pierre Belon, qui publie L'histoire naturelle des estranges poissons marins, avec la vraie peincture et description du daulphin, et de plusieurs autres de son espèce (1551) suivi de La Nature et diversité des poissons, avec leurs pourtraicts représentez au plus près du naturel (1555), deux ouvrages marquant un tournant dans la description d'espèces marines (bien que les poissons y désignent un éventail d'animaux bien plus large qu'aujourd'hui, incluant notamment des cétacés et crustacés).Le XVIIIe siècle voit l'essor des voyages d'exploration scientifique.",
-   "section": "Biologie marine"
-  },
-  "f25": {
+  "f16": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Les chercheuses et chercheurs en anthropologie commencent à s'intéresser aux rapports multiples des sociétés à la mer autour des années 1970-1980.",
    "section": "Relation des humains à la mer"
   },
-  "f26": {
+  "f17": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "La journée mondiale de la mer a lieu chaque année, le 29 septembre.",
    "section": "Relation des humains à la mer"
   },
-  "f27": {
+  "f18": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "La journée mondiale de l'océan a lieu chaque année, le 8 juin.",
    "section": "Relation des humains à la mer"
   },
-  "f28": {
+  "f19": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Elle a été mise en place par l'Assemblée Générale des Nations unies en 2008.",
    "section": "Relation des humains à la mer"
   },
-  "f29": {
+  "f20": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "La Commission européenne a proposé en 2008 la date du 20 mai pour célébrer la mer en Europe, pour valoriser la culture et le patrimoine maritimes.",
    "section": "Relation des humains à la mer"
   },
-  "f30": {
+  "f21": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "La Commission européenne a proposé en 2008 la date du 20 mai pour célébrer la mer en Europe, pour valoriser la culture et le patrimoine maritimes.",
    "section": "Relation des humains à la mer"
   },
-  "f31": {
+  "f22": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
    "sentence": "En France, l'arrivée des congés payés en 1936 a permis aux employés les plus aisés de passer des vacances en bords de mer.",
    "section": "Relation des humains à la mer"
   },
-  "f32": {
+  "f23": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "L'extension des congés payés à 3 puis 4 semaines a finalement démocratisé l'accès à la mer pour en faire aujourd'hui un symbole de vacances.",
    "section": "Relation des humains à la mer"
   },
-  "f33": {
+  "f24": {
    "kind": "number",
    "value": 4,
    "surface": "4",

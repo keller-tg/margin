@@ -71,172 +71,73 @@
  "facts": {
   "f1": {
    "kind": "number",
-   "value": 71,
-   "surface": "71",
-   "sentence": "Les Fregatidae (Frégatidés en français) sont une famille d'oiseaux de mer légers, de taille moyenne à grande (de 71 à 114 cm), appelés frégates."
-  },
-  "f2": {
-   "kind": "measure",
-   "value": 114,
-   "unit": "cm",
-   "surface": "114 cm",
-   "sentence": "Les Fregatidae (Frégatidés en français) sont une famille d'oiseaux de mer légers, de taille moyenne à grande (de 71 à 114 cm), appelés frégates."
-  },
-  "f3": {
-   "kind": "measure",
-   "value": 2.3,
-   "unit": "mètres",
-   "surface": "2,3 mètres",
-   "sentence": "Les frégates ont les ailes longues (leur envergure peut atteindre 2,3 mètres chez les mâles), la queue pointue et fourchue, le bec long et crochu.",
-   "section": "Description"
-  },
-  "f4": {
-   "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "La femelle pond 1 à 2 œufs, et les deux parents se relaient au nourrissage durant les trois premiers mois.",
    "section": "Description"
   },
-  "f5": {
+  "f2": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "La femelle pond 1 à 2 œufs, et les deux parents se relaient au nourrissage durant les trois premiers mois.",
    "section": "Description"
   },
-  "f6": {
+  "f3": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Seule la mère élève le ou les petits les 8 mois suivants.",
    "section": "Description"
   },
-  "f7": {
-   "kind": "date",
-   "value": "1990",
-   "surface": "1990",
-   "sentence": "Comme l'ensemble des familles de l'ancien ordre des Pelecaniformes, les frégatidés ont été intégrés dans l'ordre élargi des Ciconiiformes, à la suite des résultats d'expériences d'hybridation de l'ADN (classification de Sibley & Monroe, 1990)) montrant que le clade Ciconiiformes + Pelecaniformes était monophylétique.",
-   "section": "Position systématique"
-  },
-  "f8": {
-   "kind": "date",
-   "value": "2001",
-   "surface": "2001",
-   "sentence": "2001, Ericson et al.",
-   "section": "Position systématique"
-  },
-  "f9": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "2006, Hackett et al.",
-   "section": "Position systématique"
-  },
-  "f10": {
-   "kind": "date",
-   "value": "2008",
-   "surface": "2008",
-   "sentence": "2008).",
-   "section": "Position systématique"
-  },
-  "f11": {
+  "f4": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "En conséquence, les Fregatidae ont été déplacés dans un nouvel ordre, les Suliformes, à la suite du congrès 2010 de l'American Ornithologists' Union (AOU).",
+   "sentence": "En conséquence, les Fregatidae ont été déplacés dans un nouvel ordre, les Suliformes, à la suite du congrès 2010 de l'American Ornithologists' Union.",
    "section": "Position systématique"
   },
-  "f12": {
+  "f5": {
    "kind": "number",
    "value": 2.6,
    "surface": "2.6",
    "sentence": "Le Congrès ornithologique international a immédiatement répercuté cette modification taxinomique dans sa classification de référence à la version 2.6.",
    "section": "Position systématique"
   },
-  "f13": {
+  "f6": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "En 2022, les résultats de la première étude phylogénétique complète de la famille des Fregatidae, menée par Filippa M. S. Martins et al., sert de base aux nouvelles classifications, notamment la classification de référence du Congrès ornithologique international (version 15.1).",
+   "sentence": "En 2022, les résultats de la première étude phylogénétique complète de la famille des Fregatidae, menée par Filippa M. S. Martins et al., sert de base aux nouvelles classifications, notamment la classification de référence du Congrès ornithologique international.",
    "section": "Position systématique"
   },
-  "f14": {
-   "kind": "number",
-   "value": 15.1,
-   "surface": "15.1",
-   "sentence": "En 2022, les résultats de la première étude phylogénétique complète de la famille des Fregatidae, menée par Filippa M. S. Martins et al., sert de base aux nouvelles classifications, notamment la classification de référence du Congrès ornithologique international (version 15.1).",
-   "section": "Position systématique"
-  },
-  "f15": {
-   "kind": "number",
-   "value": 14.1,
-   "surface": "14.1",
-   "sentence": "D'après la classification de référence (version 14.1, 2024) de l'Union internationale des ornithologues, il y a 5 espèces de Fregatidae toutes du genre Fregata.",
-   "section": "Liste des espèces"
-  },
-  "f16": {
-   "kind": "date",
-   "value": "2024",
-   "surface": "2024",
-   "sentence": "D'après la classification de référence (version 14.1, 2024) de l'Union internationale des ornithologues, il y a 5 espèces de Fregatidae toutes du genre Fregata.",
-   "section": "Liste des espèces"
-  },
-  "f17": {
+  "f7": {
    "kind": "measure",
    "value": 5,
    "unit": "espèces",
    "surface": "5 espèces",
-   "sentence": "D'après la classification de référence (version 14.1, 2024) de l'Union internationale des ornithologues, il y a 5 espèces de Fregatidae toutes du genre Fregata.",
+   "sentence": "D'après la classification de référence de l'Union internationale des ornithologues, il y a 5 espèces de Fregatidae toutes du genre Fregata.",
    "section": "Liste des espèces"
   },
-  "f18": {
+  "f8": {
    "kind": "date",
    "value": "1799",
    "surface": "1799",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
+   "sentence": "Liste par ordre phylogénique:\nFregata Lacépède, 1799;\nFregata aquila – Frégate aigle-de-mer;\nFregata magnificens Mathews, 1914 – Frégate superbe;\nFregata ariel – Frégate ariel;\nFregata minor – Frégate du Pacifique;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
    "section": "Liste des espèces"
   },
-  "f19": {
-   "kind": "measure",
-   "value": 5,
-   "unit": "espèces",
-   "surface": "5 espèces",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
-   "section": "Liste des espèces"
-  },
-  "f20": {
-   "kind": "date",
-   "value": "1758",
-   "surface": "1758",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
-   "section": "Liste des espèces"
-  },
-  "f21": {
+  "f9": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
+   "sentence": "Liste par ordre phylogénique:\nFregata Lacépède, 1799;\nFregata aquila – Frégate aigle-de-mer;\nFregata magnificens Mathews, 1914 – Frégate superbe;\nFregata ariel – Frégate ariel;\nFregata minor – Frégate du Pacifique;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
    "section": "Liste des espèces"
   },
-  "f22": {
-   "kind": "date",
-   "value": "1845",
-   "surface": "1845",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
-   "section": "Liste des espèces"
-  },
-  "f23": {
-   "kind": "date",
-   "value": "1789",
-   "surface": "1789",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
-   "section": "Liste des espèces"
-  },
-  "f24": {
+  "f10": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
-   "sentence": "Liste par ordre phylogénique :\nFregata Lacépède, 1799 (5 espèces) ;\nFregata aquila (Linnaeus, 1758) – Frégate aigle-de-mer ;\nFregata magnificens Mathews, 1914 – Frégate superbe ;\nFregata ariel (Gray, GR, 1845) – Frégate ariel ;\nFregata minor (Gmelin, JF, 1789) – Frégate du Pacifique ;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
+   "sentence": "Liste par ordre phylogénique:\nFregata Lacépède, 1799;\nFregata aquila – Frégate aigle-de-mer;\nFregata magnificens Mathews, 1914 – Frégate superbe;\nFregata ariel – Frégate ariel;\nFregata minor – Frégate du Pacifique;\nFregata andrewsi Mathews, 1914 – Frégate d'Andrews.",
    "section": "Liste des espèces"
   }
  },

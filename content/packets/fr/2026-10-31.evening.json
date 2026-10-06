@@ -62,443 +62,133 @@
   },
   "f2": {
    "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Les étoiles de mer sont des animaux souvent très colorés, et caractérisés comme tous les échinodermes par une symétrie pentaradiale (symétrie d'ordre 5) généralement bien visible à l'âge adulte.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Chacun de ces sillons radiaux porte entre 2 et 4 rangées de podia, qui sont les organes de la locomotion: ceux-ci sont généralement terminés par une ventouse.",
    "section": "Description"
   },
   "f3": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Chacun de ces sillons radiaux porte entre 2 et 4 rangées de podia (ou pieds ambulacraires), qui sont les organes de la locomotion : ceux-ci sont généralement terminés par une ventouse (qui est en fait un disque adhésif).",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Chacun de ces sillons radiaux porte entre 2 et 4 rangées de podia, qui sont les organes de la locomotion: ceux-ci sont généralement terminés par une ventouse.",
    "section": "Description"
   },
   "f4": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Chacun de ces sillons radiaux porte entre 2 et 4 rangées de podia (ou pieds ambulacraires), qui sont les organes de la locomotion : ceux-ci sont généralement terminés par une ventouse (qui est en fait un disque adhésif).",
-   "section": "Description"
-  },
-  "f5": {
    "kind": "measure",
    "value": 6,
    "unit": "kg",
    "surface": "6 kg",
-   "sentence": "En termes de poids, certaines espèces du genre Thromidia (comme Thromidia gigas (en)) pourraient atteindre les 6 kg.",
+   "sentence": "En termes de poids, certaines espèces du genre Thromidia pourraient atteindre les 6 kg.",
    "section": "Description"
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "En 2023, une étude menée par une équipe de généticiens du développement de l'université de Berkeley se posait la question de la répartition de l'expression des gènes typiques des régions antérieures et postérieures des deutérostomes.",
    "section": "Description"
   },
-  "f7": {
+  "f6": {
    "kind": "measure",
    "value": 14,
    "unit": "cm",
    "surface": "14 cm",
-   "sentence": "La vitesse moyenne d'une étoile est de 14 cm à la minute ; cependant, en cas de stress, certaines espèces peuvent se projeter vers l'avant par à-coups plus rapides, et les espèces prédatrices sont parfois plus rapides.",
+   "sentence": "La vitesse moyenne d'une étoile est de 14 cm à la minute; cependant, en cas de stress, certaines espèces peuvent se projeter vers l'avant par à-coups plus rapides, et les espèces prédatrices sont parfois plus rapides.",
    "section": "Description"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
-   "sentence": "Une étude publiée en 2018 a porté sur 13 espèces vivant à différentes profondeurs, collectées au large des côtes du Groenland : toutes sauf une avaient des yeux fonctionnels (ocelles).",
+   "sentence": "Une étude publiée en 2018 a porté sur 13 espèces vivant à différentes profondeurs, collectées au large des côtes du Groenland: toutes sauf une avaient des yeux fonctionnels.",
    "section": "Description"
   },
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 13,
    "unit": "espèces",
    "surface": "13 espèces",
-   "sentence": "Une étude publiée en 2018 a porté sur 13 espèces vivant à différentes profondeurs, collectées au large des côtes du Groenland : toutes sauf une avaient des yeux fonctionnels (ocelles).",
+   "sentence": "Une étude publiée en 2018 a porté sur 13 espèces vivant à différentes profondeurs, collectées au large des côtes du Groenland: toutes sauf une avaient des yeux fonctionnels.",
    "section": "Description"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 300,
    "unit": "m",
    "surface": "300 m",
-   "sentence": "Trois de ces espèces vivent à plus de 300 m de fond là où il n'y a quasiment plus de lumière provenant de la surface, mais avaient conservé ces organes en parfait état de marche ; chaque œil contient assez d'ommatidia (unités individuelles d'un œil composé) pour offrir à l'animal une image de quelques centaines de pixels.",
+   "sentence": "Trois de ces espèces vivent à plus de 300 m de fond là où il n'y a quasiment plus de lumière provenant de la surface, mais avaient conservé ces organes en parfait état de marche; chaque œil contient assez d'ommatidia pour offrir à l'animal une image de quelques centaines de pixels.",
    "section": "Description"
   },
-  "f11": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Plusieurs espèces sont spécialisées dans les écosystèmes subglaciaires, comme la grande Labidiaster annulatus, d'autres habitent les abysses comme les Brisingida (on compte 19 familles totalement inféodées aux grandes profondeurs), d'autres enfin supportent d'être émergée pendant les marées basses.",
-   "section": "Répartition géographique"
-  },
-  "f12": {
+  "f10": {
    "kind": "measure",
    "value": 6000,
    "unit": "m",
    "surface": "6 000 m",
-   "sentence": "Plusieurs familles sont inféodées aux abysses comme les Freyellidae et les Brisingidae, que l'on trouve jusqu'à 6 000 m de profondeur (6 860 m pour Freyella kurilokamchatica), mais le record de profondeur semble être détenu par les Porcellanasteridae, comme Eremicaster vicinus (trouvée à 7 614 m) ou une Hymenaster filmée à 8 400 m.",
+   "sentence": "Plusieurs familles sont inféodées aux abysses comme les Freyellidae et les Brisingidae, que l'on trouve jusqu'à 6 000 m de profondeur, mais le record de profondeur semble être détenu par les Porcellanasteridae, comme Eremicaster vicinus ou une Hymenaster filmée à 8 400 m.",
    "section": "Répartition géographique"
   },
-  "f13": {
-   "kind": "measure",
-   "value": 6860,
-   "unit": "m",
-   "surface": "6 860 m",
-   "sentence": "Plusieurs familles sont inféodées aux abysses comme les Freyellidae et les Brisingidae, que l'on trouve jusqu'à 6 000 m de profondeur (6 860 m pour Freyella kurilokamchatica), mais le record de profondeur semble être détenu par les Porcellanasteridae, comme Eremicaster vicinus (trouvée à 7 614 m) ou une Hymenaster filmée à 8 400 m.",
-   "section": "Répartition géographique"
-  },
-  "f14": {
-   "kind": "measure",
-   "value": 7614,
-   "unit": "m",
-   "surface": "7 614 m",
-   "sentence": "Plusieurs familles sont inféodées aux abysses comme les Freyellidae et les Brisingidae, que l'on trouve jusqu'à 6 000 m de profondeur (6 860 m pour Freyella kurilokamchatica), mais le record de profondeur semble être détenu par les Porcellanasteridae, comme Eremicaster vicinus (trouvée à 7 614 m) ou une Hymenaster filmée à 8 400 m.",
-   "section": "Répartition géographique"
-  },
-  "f15": {
+  "f11": {
    "kind": "measure",
    "value": 8400,
    "unit": "m",
    "surface": "8 400 m",
-   "sentence": "Plusieurs familles sont inféodées aux abysses comme les Freyellidae et les Brisingidae, que l'on trouve jusqu'à 6 000 m de profondeur (6 860 m pour Freyella kurilokamchatica), mais le record de profondeur semble être détenu par les Porcellanasteridae, comme Eremicaster vicinus (trouvée à 7 614 m) ou une Hymenaster filmée à 8 400 m.",
+   "sentence": "Plusieurs familles sont inféodées aux abysses comme les Freyellidae et les Brisingidae, que l'on trouve jusqu'à 6 000 m de profondeur, mais le record de profondeur semble être détenu par les Porcellanasteridae, comme Eremicaster vicinus ou une Hymenaster filmée à 8 400 m.",
    "section": "Répartition géographique"
   },
-  "f16": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "Ceux-ci ne sont généralement pas distinguables de l'extérieur car les gonades ne sont pas visibles, mais leur sexe est apparent lors du frai.[30]\nCertaines espèces sont hermaphrodites simultanées, produisant des ovules et des spermatozoïdes en même temps et chez quelques-unes d'entre elles, la même gonade, appelée ovotestis, produit à la fois des ovules et des spermatozoïdes.",
-   "section": "Cycle de vie"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 32,
-   "surface": "32",
-   "sentence": "Lorsque ceux-ci deviennent suffisamment grands, ils redeviennent des femelles.[32]\nChaque bras d'étoile de mer contient deux gonades qui libèrent des gamètes à travers des ouvertures appelées gonoductes, situées sur le disque central entre les bras.",
-   "section": "Cycle de vie"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 33,
-   "surface": "33",
-   "sentence": "Dans d'autres, les œufs peuvent être collés sous les roches.[33] Chez certaines espèces d’étoiles de mer, les femelles couvent leurs œufs – soit simplement en les enveloppant[33], soit en les gardant dans des structures spécialisées.",
-   "section": "Cycle de vie"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 33,
-   "surface": "33",
-   "sentence": "Dans d'autres, les œufs peuvent être collés sous les roches.[33] Chez certaines espèces d’étoiles de mer, les femelles couvent leurs œufs – soit simplement en les enveloppant[33], soit en les gardant dans des structures spécialisées.",
-   "section": "Cycle de vie"
-  },
-  "f20": {
-   "kind": "number",
-   "value": 34,
-   "surface": "34",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 35,
-   "surface": "35",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 31,
-   "surface": "31",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f24": {
-   "kind": "number",
-   "value": 36,
-   "surface": "36",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f25": {
-   "kind": "number",
-   "value": 34,
-   "surface": "34",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 31,
-   "surface": "31",
-   "sentence": "La couvaison peut se faire dans des poches sur la surface aborale de l'étoile de mer,[34][30] à l'intérieur de l'estomac pylorique (Leptasterias tenera)[35] ou même à l'intérieur des gonades elles-mêmes.[31] Les étoiles de mer qui couvent leurs œufs en « s'asseyant » dessus adoptent généralement une posture bossue avec leurs disques soulevés du substrat.[36] Le Pteraster militaris couve quelques-uns de ses petits et disperse les œufs restants, trop nombreux pour tenir dans sa poche.[34] Chez ces espèces couveuses, les œufs sont relativement gros et pourvus de jaune, et ils se développent généralement directement en étoiles de mer miniatures sans stade larvaire intermédiaire.[31] Les jeunes en développement sont appelés lécithotrophes car ils se nourrissent du jaune, par opposition aux larves « planctotrophes » qui se nourrissent dans la colonne d'eau.",
-   "section": "Cycle de vie"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 37,
-   "surface": "37",
-   "sentence": "Chez Parvulastra parvivipara, une couveuse intragonadique, les jeunes étoiles de mer obtiennent des nutriments en mangeant d'autres œufs et embryons dans la poche à couvain.[37] La couvaison est particulièrement courante chez les espèces polaires et des grands fonds qui vivent dans des environnements défavorables au développement larvaire[30] et chez les espèces plus petites qui ne produisent que quelques œufs.[38][39]\nSous les tropiques, une réserve abondante de phytoplancton est disponible en permanence pour que les larves d’étoiles de mer puissent se nourrir.",
-   "section": "Cycle de vie"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "Chez Parvulastra parvivipara, une couveuse intragonadique, les jeunes étoiles de mer obtiennent des nutriments en mangeant d'autres œufs et embryons dans la poche à couvain.[37] La couvaison est particulièrement courante chez les espèces polaires et des grands fonds qui vivent dans des environnements défavorables au développement larvaire[30] et chez les espèces plus petites qui ne produisent que quelques œufs.[38][39]\nSous les tropiques, une réserve abondante de phytoplancton est disponible en permanence pour que les larves d’étoiles de mer puissent se nourrir.",
-   "section": "Cycle de vie"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 38,
-   "surface": "38",
-   "sentence": "Chez Parvulastra parvivipara, une couveuse intragonadique, les jeunes étoiles de mer obtiennent des nutriments en mangeant d'autres œufs et embryons dans la poche à couvain.[37] La couvaison est particulièrement courante chez les espèces polaires et des grands fonds qui vivent dans des environnements défavorables au développement larvaire[30] et chez les espèces plus petites qui ne produisent que quelques œufs.[38][39]\nSous les tropiques, une réserve abondante de phytoplancton est disponible en permanence pour que les larves d’étoiles de mer puissent se nourrir.",
-   "section": "Cycle de vie"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 39,
-   "surface": "39",
-   "sentence": "Chez Parvulastra parvivipara, une couveuse intragonadique, les jeunes étoiles de mer obtiennent des nutriments en mangeant d'autres œufs et embryons dans la poche à couvain.[37] La couvaison est particulièrement courante chez les espèces polaires et des grands fonds qui vivent dans des environnements défavorables au développement larvaire[30] et chez les espèces plus petites qui ne produisent que quelques œufs.[38][39]\nSous les tropiques, une réserve abondante de phytoplancton est disponible en permanence pour que les larves d’étoiles de mer puissent se nourrir.",
-   "section": "Cycle de vie"
-  },
-  "f31": {
-   "kind": "number",
-   "value": 40,
-   "surface": "40",
-   "sentence": "Le frai a lieu à tout moment de l'année, chaque espèce ayant sa propre saison de reproduction caractéristique.[40] Dans les régions tempérées, le printemps et l’été apportent une augmentation des disponibilités alimentaires.",
-   "section": "Cycle de vie"
-  },
-  "f32": {
-   "kind": "number",
-   "value": 41,
-   "surface": "41",
-   "sentence": "Le premier individu d'une espèce à frayer peut libérer une phéromone qui sert à attirer d'autres étoiles de mer et à libérer leurs gamètes de manière synchrone.[41] Chez d'autres espèces, un mâle et une femelle peuvent se réunir et former un couple.",
-   "section": "Cycle de vie"
-  },
-  "f33": {
-   "kind": "number",
-   "value": 44,
-   "surface": "44",
-   "sentence": "Ce comportement est appelé pseudocopulation[44] et le mâle grimpe dessus en plaçant ses bras entre ceux de la femelle.",
-   "section": "Cycle de vie"
-  },
-  "f34": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "Chez certaines espèces, les femelles matures produisent des produits chimiques pour attirer les spermatozoïdes dans l'eau de mer.[45]\nLa plupart des embryons d’étoiles de mer éclosent au stade blastula.",
-   "section": "Cycle de vie"
-  },
-  "f35": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Les cils sont utilisés pour la locomotion et l'alimentation, leur rythme rythmique transportant le phytoplancton vers la bouche.[8]\nL'étape suivante du développement est celle d'une larve de brachiolaria et implique la croissance de trois bras courts supplémentaires.",
-   "section": "Cycle de vie"
-  },
-  "f36": {
+  "f12": {
    "kind": "measure",
    "value": 1,
    "unit": "mm",
    "surface": "1 mm",
-   "sentence": "Il jette sa tige et devient une étoile de mer juvénile vivant en liberté d'environ 1 mm (0,04 po) de diamètre.",
+   "sentence": "Il jette sa tige et devient une étoile de mer juvénile vivant en liberté d'environ 1 mm de diamètre.",
    "section": "Cycle de vie"
   },
-  "f37": {
-   "kind": "number",
-   "value": 0.04,
-   "surface": "0,04",
-   "sentence": "Il jette sa tige et devient une étoile de mer juvénile vivant en liberté d'environ 1 mm (0,04 po) de diamètre.",
-   "section": "Cycle de vie"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Les étoiles de mer de l'ordre Paxillosida n'ont pas de stade brachiolaria, les larves de bipinnaria s'installant sur le fond marin et se développant directement en juvéniles.[8]\nAlors que les larves comportent une tête, un tronc et des membres, ces différentes parties du corps n'apparaissent plus clairement chez l'adulte.",
-   "section": "Cycle de vie"
-  },
-  "f39": {
+  "f13": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "En 2024, une étude de l'expression des gènes du développement de l'ectoderme montre que l'adulte n'est plus qu'une tête, dont les branches sont des excroissances : différents gènes s'expriment pour les tissus de la tête, du tronc et des membres, mais lors de la métamorphose en adulte, seuls ceux de la tête s'expriment.",
+   "sentence": "En 2024, une étude de l'expression des gènes du développement de l'ectoderme montre que l'adulte n'est plus qu'une tête, dont les branches sont des excroissances: différents gènes s'expriment pour les tissus de la tête, du tronc et des membres, mais lors de la métamorphose en adulte, seuls ceux de la tête s'expriment.",
    "section": "Cycle de vie"
   },
-  "f40": {
-   "kind": "number",
-   "value": 46,
-   "surface": "46",
-   "sentence": "Certaines espèces d'étoiles de mer des trois familles des Asterinidae, des Asteriidae et des Solasteridae sont capables de se reproduire de manière asexuée à l'âge adulte soit par fission de leurs disques centraux[46], soit par autotomie d'un ou plusieurs de leurs bras.[47] Il dépend du genre que l'un ou l'autre de ces processus se produise.",
-   "section": "Cycle de vie"
-  },
-  "f41": {
-   "kind": "number",
-   "value": 47,
-   "surface": "47",
-   "sentence": "Certaines espèces d'étoiles de mer des trois familles des Asterinidae, des Asteriidae et des Solasteridae sont capables de se reproduire de manière asexuée à l'âge adulte soit par fission de leurs disques centraux[46], soit par autotomie d'un ou plusieurs de leurs bras.[47] Il dépend du genre que l'un ou l'autre de ces processus se produise.",
-   "section": "Cycle de vie"
-  },
-  "f42": {
+  "f14": {
    "kind": "measure",
    "value": 1,
    "unit": "cm",
    "surface": "1 cm",
-   "sentence": "Parmi les étoiles de mer capables de régénérer tout leur corps à partir d'un seul bras, certaines peuvent le faire même à partir de fragments de seulement 1 cm (0,4 po) de long.[48] Les bras simples qui régénèrent un individu entier sont appelés formes comètes.",
+   "sentence": "Parmi les étoiles de mer capables de régénérer tout leur corps à partir d'un seul bras, certaines peuvent le faire même à partir de fragments de seulement 1 cm de long.",
    "section": "Cycle de vie"
   },
-  "f43": {
-   "kind": "number",
-   "value": 0.4,
-   "surface": "0,4",
-   "sentence": "Parmi les étoiles de mer capables de régénérer tout leur corps à partir d'un seul bras, certaines peuvent le faire même à partir de fragments de seulement 1 cm (0,4 po) de long.[48] Les bras simples qui régénèrent un individu entier sont appelés formes comètes.",
-   "section": "Cycle de vie"
-  },
-  "f44": {
-   "kind": "number",
-   "value": 48,
-   "surface": "48",
-   "sentence": "Parmi les étoiles de mer capables de régénérer tout leur corps à partir d'un seul bras, certaines peuvent le faire même à partir de fragments de seulement 1 cm (0,4 po) de long.[48] Les bras simples qui régénèrent un individu entier sont appelés formes comètes.",
-   "section": "Cycle de vie"
-  },
-  "f45": {
-   "kind": "number",
-   "value": 49,
-   "surface": "49",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f46": {
-   "kind": "number",
-   "value": 50,
-   "surface": "50",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 51,
-   "surface": "51",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 52,
-   "surface": "52",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f49": {
-   "kind": "number",
-   "value": 51,
-   "surface": "51",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 48,
-   "surface": "48",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 22,
-   "surface": "22",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 48,
-   "surface": "48",
-   "sentence": "La division de l'étoile de mer, soit à travers son disque, soit à la base du bras, s'accompagne généralement d'une faiblesse dans la structure qui fournit une zone de fracture.[49]\nLes larves de plusieurs espèces d'étoiles de mer peuvent se reproduire de manière asexuée avant d'atteindre leur maturité.[50] Ils le font en autotomisant certaines parties de leur corps ou en bourgeonnant.[51] Lorsqu'une telle larve sent que la nourriture est abondante, elle emprunte la voie de la reproduction asexuée plutôt que celle du développement normal.[52] Bien que cela lui coûte du temps et de l'énergie et retarde la maturité, cela permet à une seule larve de donner naissance à plusieurs adultes lorsque les conditions sont appropriées.[51]\nCertaines espèces d'étoiles de mer ont la capacité de régénérer les bras perdus et peuvent voir repousser un tout nouveau membre avec le temps.[48] Quelques-uns peuvent faire repousser un nouveau disque complet à partir d'un seul bras, tandis que d'autres ont besoin qu'au moins une partie du disque central soit attachée à la partie détachée.[22] La repousse peut prendre plusieurs mois ou années,[48] et les étoiles de mer sont vulnérables aux infections dès les premiers stades après la perte d'un bras.",
-   "section": "Cycle de vie"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 53,
-   "surface": "53",
-   "sentence": "Ce type de tissu est appelé tissu conjonctif de capture et se trouve chez la plupart des échinodermes.[53] Un facteur favorisant l'autotomie a été identifié qui, lorsqu'il est injecté dans une autre étoile de mer, provoque une perte rapide des bras.[54]\nLa durée de vie d'une étoile de mer varie considérablement selon les espèces, étant généralement plus longue dans les formes plus grandes et chez celles comportant des larves planctoniques.",
-   "section": "Cycle de vie"
-  },
-  "f54": {
-   "kind": "number",
-   "value": 54,
-   "surface": "54",
-   "sentence": "Ce type de tissu est appelé tissu conjonctif de capture et se trouve chez la plupart des échinodermes.[53] Un facteur favorisant l'autotomie a été identifié qui, lorsqu'il est injecté dans une autre étoile de mer, provoque une perte rapide des bras.[54]\nLa durée de vie d'une étoile de mer varie considérablement selon les espèces, étant généralement plus longue dans les formes plus grandes et chez celles comportant des larves planctoniques.",
-   "section": "Cycle de vie"
-  },
-  "f55": {
+  "f15": {
    "kind": "measure",
    "value": 20,
    "unit": "g",
    "surface": "20 g",
-   "sentence": "Il pèse 20 g (0,7 oz) adulte, atteint sa maturité sexuelle en deux ans et vit environ dix ans.[8] Pisaster ochraceus libère un grand nombre d'œufs dans la mer chaque année et pèse jusqu'à 800 g à l'âge adulte.",
+   "sentence": "Il pèse 20 g adulte, atteint sa maturité sexuelle en deux ans et vit environ dix ans.",
    "section": "Cycle de vie"
   },
-  "f56": {
-   "kind": "number",
-   "value": 0.7,
-   "surface": "0,7",
-   "sentence": "Il pèse 20 g (0,7 oz) adulte, atteint sa maturité sexuelle en deux ans et vit environ dix ans.[8] Pisaster ochraceus libère un grand nombre d'œufs dans la mer chaque année et pèse jusqu'à 800 g à l'âge adulte.",
-   "section": "Cycle de vie"
-  },
-  "f57": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Il pèse 20 g (0,7 oz) adulte, atteint sa maturité sexuelle en deux ans et vit environ dix ans.[8] Pisaster ochraceus libère un grand nombre d'œufs dans la mer chaque année et pèse jusqu'à 800 g à l'âge adulte.",
-   "section": "Cycle de vie"
-  },
-  "f58": {
+  "f16": {
    "kind": "measure",
    "value": 800,
    "unit": "g",
    "surface": "800 g",
-   "sentence": "Il pèse 20 g (0,7 oz) adulte, atteint sa maturité sexuelle en deux ans et vit environ dix ans.[8] Pisaster ochraceus libère un grand nombre d'œufs dans la mer chaque année et pèse jusqu'à 800 g à l'âge adulte.",
+   "sentence": "Pisaster ochraceus libère un grand nombre d'œufs dans la mer chaque année et pèse jusqu'à 800 g à l'âge adulte.",
    "section": "Cycle de vie"
   },
-  "f59": {
+  "f17": {
    "kind": "measure",
    "value": 34,
    "unit": "ans",
    "surface": "34 ans",
-   "sentence": "Il atteint sa maturité au bout de cinq ans et sa durée de vie maximale enregistrée est de 34 ans.[8] La durée de vie moyenne d'une étoile de mer est de 35 ans, et les espèces d'étoiles de mer plus grandes vivent généralement plus longtemps que leurs homologues plus petites.[55]",
+   "sentence": "Il atteint sa maturité au bout de cinq ans et sa durée de vie maximale enregistrée est de 34 ans.",
    "section": "Cycle de vie"
   },
-  "f60": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Il atteint sa maturité au bout de cinq ans et sa durée de vie maximale enregistrée est de 34 ans.[8] La durée de vie moyenne d'une étoile de mer est de 35 ans, et les espèces d'étoiles de mer plus grandes vivent généralement plus longtemps que leurs homologues plus petites.[55]",
-   "section": "Cycle de vie"
-  },
-  "f61": {
+  "f18": {
    "kind": "measure",
    "value": 35,
    "unit": "ans",
    "surface": "35 ans",
-   "sentence": "Il atteint sa maturité au bout de cinq ans et sa durée de vie maximale enregistrée est de 34 ans.[8] La durée de vie moyenne d'une étoile de mer est de 35 ans, et les espèces d'étoiles de mer plus grandes vivent généralement plus longtemps que leurs homologues plus petites.[55]",
-   "section": "Cycle de vie"
-  },
-  "f62": {
-   "kind": "number",
-   "value": 55,
-   "surface": "55",
-   "sentence": "Il atteint sa maturité au bout de cinq ans et sa durée de vie maximale enregistrée est de 34 ans.[8] La durée de vie moyenne d'une étoile de mer est de 35 ans, et les espèces d'étoiles de mer plus grandes vivent généralement plus longtemps que leurs homologues plus petites.[55]",
+   "sentence": "La durée de vie moyenne d'une étoile de mer est de 35 ans, et les espèces d'étoiles de mer plus grandes vivent généralement plus longtemps que leurs homologues plus petites.",
    "section": "Cycle de vie"
   }
  },

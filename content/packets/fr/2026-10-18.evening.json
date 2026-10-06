@@ -69,13 +69,13 @@
    "kind": "number",
    "value": 154,
    "surface": "154",
-   "sentence": "Diplodocus est un genre fossile de très grands dinosaures herbivores sauropodes de la famille des Diplodocidés ayant vécu au Jurassique supérieur (Kimméridgien supérieur), il y a environ entre 154 et 152 Ma (millions d'années), en Amérique du Nord où il a été découvert dans les parties moyenne et supérieure de la formation de Morrison dans les États de l'ouest des États-Unis."
+   "sentence": "Diplodocus est un genre fossile de très grands dinosaures herbivores sauropodes de la famille des Diplodocidés ayant vécu au Jurassique supérieur, il y a environ entre 154 et 152 Ma, en Amérique du Nord où il a été découvert dans les parties moyenne et supérieure de la formation de Morrison dans les États de l'ouest des États-Unis."
   },
   "f2": {
    "kind": "number",
    "value": 152,
    "surface": "152",
-   "sentence": "Diplodocus est un genre fossile de très grands dinosaures herbivores sauropodes de la famille des Diplodocidés ayant vécu au Jurassique supérieur (Kimméridgien supérieur), il y a environ entre 154 et 152 Ma (millions d'années), en Amérique du Nord où il a été découvert dans les parties moyenne et supérieure de la formation de Morrison dans les États de l'ouest des États-Unis."
+   "sentence": "Diplodocus est un genre fossile de très grands dinosaures herbivores sauropodes de la famille des Diplodocidés ayant vécu au Jurassique supérieur, il y a environ entre 154 et 152 Ma, en Amérique du Nord où il a été découvert dans les parties moyenne et supérieure de la formation de Morrison dans les États de l'ouest des États-Unis."
   },
   "f3": {
    "kind": "date",
@@ -87,68 +87,61 @@
    "kind": "date",
    "value": "1878",
    "surface": "1878",
-   "sentence": "Le genre Diplodocus est décrit en 1878 par le paléontologue américain Othniel Charles Marsh (1831-1899).",
+   "sentence": "Le genre Diplodocus est décrit en 1878 par le paléontologue américain Othniel Charles Marsh.",
    "section": "Historique"
   },
   "f5": {
-   "kind": "date",
-   "value": "1831",
-   "surface": "1831",
-   "sentence": "Le genre Diplodocus est décrit en 1878 par le paléontologue américain Othniel Charles Marsh (1831-1899).",
-   "section": "Historique"
-  },
-  "f6": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
    "sentence": "Selon Paleobiology Database en 2026, ce genre Diplodocus a soixante-quatre collections référencées de fossiles, du Kimmeridgien au Tithonien du Jurassique supérieur, c'est-à-dire datant de 154,8-145,06 Ma avant notre ère.",
    "section": "Fossiles"
   },
-  "f7": {
+  "f6": {
    "kind": "number",
    "value": 154.8,
    "surface": "154,8",
    "sentence": "Selon Paleobiology Database en 2026, ce genre Diplodocus a soixante-quatre collections référencées de fossiles, du Kimmeridgien au Tithonien du Jurassique supérieur, c'est-à-dire datant de 154,8-145,06 Ma avant notre ère.",
    "section": "Fossiles"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
-   "sentence": "Le nom générique, inventé par Othniel Charles Marsh en 1878, est un néologisme latin dérivé du grec διπλόος (diploos) « double » et δοκός (dokos) « faisceau », en raison de la présence d'os appelés arcs hémaux ou chevrons ayant une structure en double poutre et qui forment une longue succession osseuse dans la partie inférieure de la queue.",
+   "sentence": "Le nom générique, inventé par Othniel Charles Marsh en 1878, est un néologisme latin dérivé du grec διπλόος «double» et δοκός «faisceau», en raison de la présence d'os appelés arcs hémaux ou chevrons ayant une structure en double poutre et qui forment une longue succession osseuse dans la partie inférieure de la queue.",
    "section": "Étymologie"
   },
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 25,
    "unit": "mètres",
    "surface": "25 mètres",
-   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010 ; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
+   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
    "section": "Description"
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010 ; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
+   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
    "section": "Description"
   },
-  "f11": {
+  "f10": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010 ; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
+   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
    "section": "Description"
   },
-  "f12": {
+  "f11": {
    "kind": "measure",
    "value": 16,
    "unit": "tonnes",
    "surface": "16 tonnes",
-   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010 ; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
+   "sentence": "Sa longueur totale est évaluée à 25 mètres par Gregory Paul en 2010; selon lui, l'estimation de sa masse varie entre 10 et 16 tonnes.",
    "section": "Description"
   },
-  "f13": {
+  "f12": {
    "kind": "measure",
    "value": 54,
    "unit": "mètres",
@@ -156,21 +149,21 @@
    "sentence": "Sa longueur totale a été historiquement surévaluée avec une valeur de 54 mètres extrapolée à partir de restes partiels de Seismosaurus hallorum, ancien nom de D. hallorum, par l'inventeur de cette espèce, David Gillette en 1991.",
    "section": "Description"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "Sa longueur totale a été historiquement surévaluée avec une valeur de 54 mètres extrapolée à partir de restes partiels de Seismosaurus hallorum, ancien nom de D. hallorum, par l'inventeur de cette espèce, David Gillette en 1991.",
    "section": "Description"
   },
-  "f15": {
+  "f14": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Thomas Holtz en 2011 estime la taille de D. hallorum à 30 mètres, après que Kenneth Carpenter a constaté en 2006 que D. Gillette avait positionné trop en arrière certaines vertèbres caudales et que la treizième vertèbre de la queue de D. carnegii, qui servait de modèle pour évaluer la longueur de D. hallorum, appartenait en fait à un autre spécimen.",
    "section": "Description"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 30,
    "unit": "mètres",
@@ -178,14 +171,14 @@
    "sentence": "Thomas Holtz en 2011 estime la taille de D. hallorum à 30 mètres, après que Kenneth Carpenter a constaté en 2006 que D. Gillette avait positionné trop en arrière certaines vertèbres caudales et que la treizième vertèbre de la queue de D. carnegii, qui servait de modèle pour évaluer la longueur de D. hallorum, appartenait en fait à un autre spécimen.",
    "section": "Description"
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Thomas Holtz en 2011 estime la taille de D. hallorum à 30 mètres, après que Kenneth Carpenter a constaté en 2006 que D. Gillette avait positionné trop en arrière certaines vertèbres caudales et que la treizième vertèbre de la queue de D. carnegii, qui servait de modèle pour évaluer la longueur de D. hallorum, appartenait en fait à un autre spécimen.",
    "section": "Description"
   },
-  "f18": {
+  "f17": {
    "kind": "measure",
    "value": 24,
    "unit": "tonnes",
@@ -193,28 +186,21 @@
    "sentence": "La masse de D. hallorum pouvait atteindre 24 tonnes.",
    "section": "Description"
   },
-  "f19": {
+  "f18": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "Robert T. Baker s'est demandé en 1986 si Diplodocus avait une trompe.",
    "section": "Description"
   },
-  "f20": {
+  "f19": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Une étude de 2006, conduite par P. Knoll et ses colègues a montré qu'il n'y avait aucune preuve paléoneuroanatomique pour une telle existence.",
    "section": "Description"
   },
-  "f21": {
-   "kind": "date",
-   "value": "2001",
-   "surface": "2001",
-   "sentence": "Des études menées par Lawrence Witmer (2001) indiquent que, alors que les ouvertures nasales sont haut situées sur la tête, les narines étaient situés beaucoup plus bas sur le museau et qu'entre les deux pouvait éventuellement se trouver une chambre de résonance.",
-   "section": "Description"
-  },
-  "f22": {
+  "f20": {
    "kind": "measure",
    "value": 6,
    "unit": "mètres",
@@ -222,307 +208,286 @@
    "sentence": "Sa longueur pouvait dépasser 6 mètres, ce qui constitue un avantage compétitif indéniable pour l'accès à plus de nourriture, soit en hauteur, soit en projection horizontale, en particulier pour des plantes aquatiques de marais comme des massifs de prêles.",
    "section": "Description"
   },
-  "f23": {
+  "f21": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Une étude de Matthew J. Cobley et de ses collègues en 2013 pour les diplodocidés, conclut que leur flexibilité ne peut pas être basée uniquement sur l'ostéologie.",
    "section": "Description"
   },
-  "f24": {
+  "f22": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "Mike P. Taylor, en 2014, remet en cause ces résultats après une étude des cous de Diplodocus et d'Apatosaurus.",
    "section": "Description"
   },
-  "f25": {
+  "f23": {
    "kind": "number",
    "value": 80,
    "surface": "80",
-   "sentence": "Diplodocus a une queue extrêmement longue, composée d'environ 80 vertèbres caudales, soit presque le double du nombre de vertèbres de queue de certains sauropodes comme Shunosaurus (43) ou Camarasaurus (53).",
+   "sentence": "Diplodocus a une queue extrêmement longue, composée d'environ 80 vertèbres caudales, soit presque le double du nombre de vertèbres de queue de certains sauropodes comme Shunosaurus ou Camarasaurus.",
    "section": "Description"
   },
-  "f26": {
-   "kind": "number",
-   "value": 43,
-   "surface": "43",
-   "sentence": "Diplodocus a une queue extrêmement longue, composée d'environ 80 vertèbres caudales, soit presque le double du nombre de vertèbres de queue de certains sauropodes comme Shunosaurus (43) ou Camarasaurus (53).",
-   "section": "Description"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 53,
-   "surface": "53",
-   "sentence": "Diplodocus a une queue extrêmement longue, composée d'environ 80 vertèbres caudales, soit presque le double du nombre de vertèbres de queue de certains sauropodes comme Shunosaurus (43) ou Camarasaurus (53).",
-   "section": "Description"
-  },
-  "f28": {
+  "f24": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "En 1997, il a été calculé qu'un tel fouet pouvait provoquer un bang supersonique de plus de 200 décibels.",
    "section": "Description"
   },
-  "f29": {
+  "f25": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "En 1997, il a été calculé qu'un tel fouet pouvait provoquer un bang supersonique de plus de 200 décibels.",
    "section": "Description"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "La découverte en 1990 d'empreintes de peau de diplodocidés a montré que certaines espèces portaient des épines kératineuses étroites et pointues comme celles des iguanes.",
    "section": "Description"
   },
-  "f31": {
+  "f27": {
    "kind": "measure",
    "value": 18,
    "unit": "centimètres",
    "surface": "18 centimètres",
-   "sentence": "Ces épines peuvent atteindre 18 centimètres de long, elles sont placées sur la partie arrière (fouet) de la queue et, peut-être, sur l'ensemble du dos et du cou de l'animal.",
+   "sentence": "Ces épines peuvent atteindre 18 centimètres de long, elles sont placées sur la partie arrière de la queue et, peut-être, sur l'ensemble du dos et du cou de l'animal.",
    "section": "Description"
   },
-  "f32": {
+  "f28": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
    "sentence": "Après la première découverte par Benjamin Mudge et Samuel Wendell Williston en 1877 à Cañon City dans le Colorado du squelette nommé Diplodocus longus par Othniel Charles Marsh en 1878, plusieurs espèces de Diplodocus ont été décrites entre 1878 et 1924.",
    "section": "Les différentes espèces"
   },
-  "f33": {
+  "f29": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
    "sentence": "Après la première découverte par Benjamin Mudge et Samuel Wendell Williston en 1877 à Cañon City dans le Colorado du squelette nommé Diplodocus longus par Othniel Charles Marsh en 1878, plusieurs espèces de Diplodocus ont été décrites entre 1878 et 1924.",
    "section": "Les différentes espèces"
   },
-  "f34": {
+  "f30": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
    "sentence": "Après la première découverte par Benjamin Mudge et Samuel Wendell Williston en 1877 à Cañon City dans le Colorado du squelette nommé Diplodocus longus par Othniel Charles Marsh en 1878, plusieurs espèces de Diplodocus ont été décrites entre 1878 et 1924.",
    "section": "Les différentes espèces"
   },
-  "f35": {
+  "f31": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "Après la première découverte par Benjamin Mudge et Samuel Wendell Williston en 1877 à Cañon City dans le Colorado du squelette nommé Diplodocus longus par Othniel Charles Marsh en 1878, plusieurs espèces de Diplodocus ont été décrites entre 1878 et 1924.",
    "section": "Les différentes espèces"
   },
-  "f36": {
+  "f32": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
    "sentence": "D. carnegii, décrite en 1901, est l'espèce la mieux connue, par de nombreux squelettes post-crâniens, bien qu'elle ne soit pas l'espèce type et qu'aucun crâne de cette espèce n'ait été clairement été rattaché au reste du squelette.",
    "section": "Les différentes espèces"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "1902",
    "surface": "1902",
    "sentence": "D. hayi, découverte en 1902 dans le Wyoming par William H. Utterback est connue par un crâne et un squelette post-crânien partiel.",
    "section": "Les différentes espèces"
   },
-  "f38": {
+  "f34": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "Elle est décrite en 1924 par W. J. Holland.",
    "section": "Les différentes espèces"
   },
-  "f39": {
+  "f35": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
-   "sentence": "En 2015, elle est renommée et attribuée à un nouveau genre, Galeamopus, comme c'est le cas pour beaucoup de spécimens de « Diplodocus », ce qui fait qu'aucun crâne n'est attribué avec certitude à Diplodocus.",
+   "sentence": "En 2015, elle est renommée et attribuée à un nouveau genre, Galeamopus, comme c'est le cas pour beaucoup de spécimens de «Diplodocus», ce qui fait qu'aucun crâne n'est attribué avec certitude à Diplodocus.",
    "section": "Les différentes espèces"
   },
-  "f40": {
+  "f36": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
-   "sentence": "Diplodocus carnegii (également orthographié D. carnegiei), du nom de l'industriel et philanthrope américain Andrew Carnegie, est la mieux connue, principalement en raison de la découverte d'un squelette quasi complet collecté par Jacob Wortman, du Carnegie Museum of Natural History à Pittsburgh, en Pennsylvanie et décrit et nommé par John Bell Hatcher en 1901.",
+   "sentence": "Diplodocus carnegii, du nom de l'industriel et philanthrope américain Andrew Carnegie, est la mieux connue, principalement en raison de la découverte d'un squelette quasi complet collecté par Jacob Wortman, du Carnegie Museum of Natural History à Pittsburgh, en Pennsylvanie et décrit et nommé par John Bell Hatcher en 1901.",
    "section": "Les différentes espèces"
   },
-  "f41": {
+  "f37": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "En 2016, Emanuel Tschopp et Octavio Mateus ont déposé une requête auprès de la commission internationale de nomenclature zoologique pour que D. carnegii soit retenue comme nouvelle espèce type du genre Diplodocus en remplacement de D. longus, dont les fossiles sont considérés par la plupart des paléontologues comme des nomen dubia, ou appartenant à une autre espèce.",
    "section": "Les différentes espèces"
   },
-  "f42": {
+  "f38": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
-   "sentence": "Diplodocus hallorum, a été découverte en 1979 sous la forme d'un squelette partiel (référencé NMMNH P-3690) comprenant des vertèbres, des côtes et un pelvis.",
+   "sentence": "Diplodocus hallorum, a été découverte en 1979 sous la forme d'un squelette partiel comprenant des vertèbres, des côtes et un pelvis.",
    "section": "Les différentes espèces"
   },
-  "f43": {
+  "f39": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "Elle a été décrite en 1991 par D. Gillette sous le nom de Seismosaurus halli.",
    "section": "Les différentes espèces"
   },
-  "f44": {
+  "f40": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
    "sentence": "George Olshevsky a par la suite proposé de la renommer S. hallorum, invoquant une erreur grammaticale de l'inventeur, ce dont D. Gillette s'est acquitté en 1994 et qui a ensuite été repris par la plupart des paléontologues dont K. Carpenter.",
    "section": "Les différentes espèces"
   },
-  "f45": {
+  "f41": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "En 2004, lors d'une présentation à l'assemblée annuelle de la société américaine de géologie, Spencer Lucas et ses collègues défendent l'idée que Seismosaurus devrait être considéré comme un synonyme junior du genre Diplodocus.",
    "section": "Les différentes espèces"
   },
-  "f46": {
+  "f42": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Ceci a été suivi par une publication plus détaillée en 2006, qui non seulement rebaptisait l'espèce Diplodocus hallorum, mais émettait aussi l'hypothèse qu'il pourrait s'agir de la même espèce que D. longus.",
    "section": "Les différentes espèces"
   },
-  "f47": {
+  "f43": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "En 2015, l'analyse phylogénétique des diplodocidés conduite par E. Tschopp et ses collègues conclut que les spécimens les plus complets de D. longus étaient bien de la même espèce que D. hallorum, et que les autres attribués à D. longus devaient être considérés comme des nomen dubia.",
    "section": "Les différentes espèces"
   },
-  "f48": {
+  "f44": {
    "kind": "date",
    "value": "1884",
    "surface": "1884",
    "sentence": "D. lacustris a été nommée par O. C. Marsh en 1884, dans le contexte singulier de la guerre des os avec E. D. Cope, à partir des restes d'un animal de petite taille de la formation de Morrison, dans le Colorado.",
    "section": "Les différentes espèces"
   },
-  "f49": {
+  "f45": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "En 2015 cependant, E. Tschopp et ses collègues réassignent ce spécimen au genre Camarasaurus.",
    "section": "Les différentes espèces"
   },
-  "f50": {
+  "f46": {
    "kind": "date",
    "value": "1951",
    "surface": "1951",
    "sentence": "En 1951, une étude de Kenneth A. Kermack montre que ces sauropodes n'auraient probablement pas pu respirer par les narines lorsque le reste du corps aurait été immergé, car la pression de l'eau sur la paroi thoracique aurait été trop forte.",
    "section": "Paléobiologie"
   },
-  "f51": {
+  "f47": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Depuis les années 1970, un consensus général a fait des sauropodes des animaux bien terrestres, broutant les arbres, les fougères et les buissons.",
    "section": "Paléobiologie"
   },
-  "f52": {
+  "f48": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
    "sentence": "Par exemple, un dessin de reconstruction classique de 1910 par Oliver P. Hay représente deux Diplodocus avec les membres écartés sur les côtés de leurs corps comme des lézards sur les bords d'une rivière.",
    "section": "Paléobiologie"
   },
-  "f53": {
+  "f49": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
    "sentence": "Cependant, cette hypothèse a été contestée dès 1910 par W.J. Holland qui a démontré qu'un Diplodocus marchant ainsi aurait eu besoin d'une tranchée pour faire avancer son ventre.",
    "section": "Paléobiologie"
   },
-  "f54": {
+  "f50": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "Des empreintes de sauropodes trouvées dans les années 1930 ont fini par réfuter la théorie de Hay.",
    "section": "Paléobiologie"
   },
-  "f55": {
+  "f51": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Upchurch en 2000 souligne que la région préorbitaire (en avant des yeux) allongée de son crâne, devait lui permettre d'effeuiller en une seule action de grandes longueurs de branches.",
+   "sentence": "Upchurch en 2000 souligne que la région préorbitaire allongée de son crâne, devait lui permettre d'effeuiller en une seule action de grandes longueurs de branches.",
    "section": "Paléobiologie"
   },
-  "f56": {
+  "f52": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "En outre un mouvement vers l'arrière de la mâchoire inférieure (« mouvement palinal ») pourrait avoir joué deux rôles importants dans son comportement alimentaire : 1) une augmentation de l'ouverture de la gueule et 2) un ajustement précis de la position relative des deux rangées des dents, permettant un meilleur effeuillage.",
+   "sentence": "En outre un mouvement vers l'arrière de la mâchoire inférieure pourrait avoir joué deux rôles importants dans son comportement alimentaire: 1) une augmentation de l'ouverture de la gueule et 2) un ajustement précis de la position relative des deux rangées des dents, permettant un meilleur effeuillage.",
    "section": "Paléobiologie"
   },
-  "f57": {
+  "f53": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "En outre un mouvement vers l'arrière de la mâchoire inférieure (« mouvement palinal ») pourrait avoir joué deux rôles importants dans son comportement alimentaire : 1) une augmentation de l'ouverture de la gueule et 2) un ajustement précis de la position relative des deux rangées des dents, permettant un meilleur effeuillage.",
+   "sentence": "En outre un mouvement vers l'arrière de la mâchoire inférieure pourrait avoir joué deux rôles importants dans son comportement alimentaire: 1) une augmentation de l'ouverture de la gueule et 2) un ajustement précis de la position relative des deux rangées des dents, permettant un meilleur effeuillage.",
    "section": "Paléobiologie"
   },
-  "f58": {
+  "f54": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "En 2012, Mark Young et ses collègues réalisent des modélisations biomécaniques du crâne des diplodocinés.",
    "section": "Paléobiologie"
   },
-  "f59": {
+  "f55": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Ils en concluent que 1) l'hypothèse que les dents étaient utilisées pour arracher l'écorce (wikt:écorçage) des arbres n'est pas possible car cela aurait soumis les dents et le crâne à des contraintes trop fortes, 2) par contre, les hypothèses d'effeuillage des branches par les dents et/ou d'ajustement précis des dents étaient plausibles d'un point de vue biomécanique.",
+   "sentence": "Ils en concluent que 1) l'hypothèse que les dents étaient utilisées pour arracher l'écorce des arbres n'est pas possible car cela aurait soumis les dents et le crâne à des contraintes trop fortes, 2) par contre, les hypothèses d'effeuillage des branches par les dents et/ou d'ajustement précis des dents étaient plausibles d'un point de vue biomécanique.",
    "section": "Paléobiologie"
   },
-  "f60": {
+  "f56": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Ils en concluent que 1) l'hypothèse que les dents étaient utilisées pour arracher l'écorce (wikt:écorçage) des arbres n'est pas possible car cela aurait soumis les dents et le crâne à des contraintes trop fortes, 2) par contre, les hypothèses d'effeuillage des branches par les dents et/ou d'ajustement précis des dents étaient plausibles d'un point de vue biomécanique.",
+   "sentence": "Ils en concluent que 1) l'hypothèse que les dents étaient utilisées pour arracher l'écorce des arbres n'est pas possible car cela aurait soumis les dents et le crâne à des contraintes trop fortes, 2) par contre, les hypothèses d'effeuillage des branches par les dents et/ou d'ajustement précis des dents étaient plausibles d'un point de vue biomécanique.",
    "section": "Paléobiologie"
   },
-  "f61": {
+  "f57": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Michael D'Emic et ses collègues en 2013 ont observé que dans chaque cavité dentaire, jusqu'à cinq dents de remplacement pouvaient se développer pour remplacer la dent active.",
    "section": "Paléobiologie"
   },
-  "f62": {
+  "f58": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Ils estiment que le remplacement s'effectuait habituellement en moins de 35 jours.",
    "section": "Paléobiologie"
   },
-  "f63": {
+  "f59": {
    "kind": "measure",
    "value": 10,
    "unit": "mètres",
    "surface": "10 mètres",
-   "sentence": "Diplodocus, avec son cou plus ou moins flexible latéralement et de haut en bas, mais aussi la possibilité d'utiliser sa queue comme point d'appui et de se redresser sur ses pattes arrière (appui tripode), avait la possibilité de manger à plusieurs niveaux de végétation, du sol jusqu'à environ 10 mètres de hauteur.",
+   "sentence": "Diplodocus, avec son cou plus ou moins flexible latéralement et de haut en bas, mais aussi la possibilité d'utiliser sa queue comme point d'appui et de se redresser sur ses pattes arrière, avait la possibilité de manger à plusieurs niveaux de végétation, du sol jusqu'à environ 10 mètres de hauteur.",
    "section": "Paléobiologie"
   },
-  "f64": {
+  "f60": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "En 2010, Jeffrey Whitlock et ses collègues décrivent le crâne d'un Diplodocus juvénile (référencé CM 11255) qui diffère sensiblement des crânes adultes du même genre.",
-   "section": "Paléobiologie"
-  },
-  "f65": {
-   "kind": "number",
-   "value": 11255,
-   "surface": "11255",
-   "sentence": "En 2010, Jeffrey Whitlock et ses collègues décrivent le crâne d'un Diplodocus juvénile (référencé CM 11255) qui diffère sensiblement des crânes adultes du même genre.",
+   "sentence": "En 2010, Jeffrey Whitlock et ses collègues décrivent le crâne d'un Diplodocus juvénile qui diffère sensiblement des crânes adultes du même genre.",
    "section": "Paléobiologie"
   }
  },

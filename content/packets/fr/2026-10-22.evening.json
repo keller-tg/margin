@@ -110,40 +110,17 @@
    "kind": "number",
    "value": 100,
    "surface": "100",
-   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10 (c'est-à-dire qu'il existerait 100 fois plus d'astéroïdes d'un diamètre de 100 m que de 1 km)[réf. nécessaire].",
+   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10.",
    "section": "Caractéristiques"
   },
   "f9": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10 (c'est-à-dire qu'il existerait 100 fois plus d'astéroïdes d'un diamètre de 100 m que de 1 km)[réf. nécessaire].",
+   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10.",
    "section": "Caractéristiques"
   },
   "f10": {
-   "kind": "number",
-   "value": 100,
-   "surface": "100",
-   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10 (c'est-à-dire qu'il existerait 100 fois plus d'astéroïdes d'un diamètre de 100 m que de 1 km)[réf. nécessaire].",
-   "section": "Caractéristiques"
-  },
-  "f11": {
-   "kind": "measure",
-   "value": 100,
-   "unit": "m",
-   "surface": "100 m",
-   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10 (c'est-à-dire qu'il existerait 100 fois plus d'astéroïdes d'un diamètre de 100 m que de 1 km)[réf. nécessaire].",
-   "section": "Caractéristiques"
-  },
-  "f12": {
-   "kind": "measure",
-   "value": 1,
-   "unit": "km",
-   "surface": "1 km",
-   "sentence": "On considère que le nombre d'astéroïdes d'une certaine taille augmente d'un facteur 100 lorsque le diamètre diminue d'un facteur 10 (c'est-à-dire qu'il existerait 100 fois plus d'astéroïdes d'un diamètre de 100 m que de 1 km)[réf. nécessaire].",
-   "section": "Caractéristiques"
-  },
-  "f13": {
    "kind": "measure",
    "value": 0.1,
    "unit": "µm",
@@ -151,107 +128,93 @@
    "sentence": "Cette progression subsiste jusqu'à ce que leur taille devienne suffisamment petite, soit inférieure à 0,1 µm.",
    "section": "Caractéristiques"
   },
-  "f14": {
+  "f11": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
    "sentence": "Lorsque le rapport de la force de radiation sur la force de gravité est supérieur à 0,5, ces poussières sont évacuées hors du Système solaire interne.",
    "section": "Caractéristiques"
   },
-  "f15": {
+  "f12": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
    "sentence": "Mais pour un rapport proche de 0,1, l'effet Poynting-Robertson conduit ces poussières à spiraler lentement vers le Soleil jusqu'à leur évaporation à environ une unité astronomique de celui-ci.",
    "section": "Caractéristiques"
   },
-  "f16": {
+  "f13": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
    "sentence": "Enfin, pour un rapport entre 0,1 et 0,5 le destin des poussières dépendra de leurs conditions initiales de vélocité.",
    "section": "Caractéristiques"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
    "sentence": "Enfin, pour un rapport entre 0,1 et 0,5 le destin des poussières dépendra de leurs conditions initiales de vélocité.",
    "section": "Caractéristiques"
   },
-  "f18": {
+  "f15": {
    "kind": "number",
    "value": 3,
    "surface": "3,0",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
+   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg, soit 4 à 5 % de celle de la Lune.",
    "section": "Caractéristiques"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 3.6,
    "surface": "3,6",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
+   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg, soit 4 à 5 % de celle de la Lune.",
    "section": "Caractéristiques"
   },
-  "f20": {
+  "f17": {
    "kind": "measure",
    "value": 1021,
    "unit": "kg",
    "surface": "1021 kg",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
+   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg, soit 4 à 5 % de celle de la Lune.",
    "section": "Caractéristiques"
   },
-  "f21": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
-   "section": "Caractéristiques"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 3600000000,
-   "surface": "3,6 milliards",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
-   "section": "Caractéristiques"
-  },
-  "f23": {
+  "f18": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
+   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg, soit 4 à 5 % de celle de la Lune.",
    "section": "Caractéristiques"
   },
-  "f24": {
+  "f19": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
    "surface": "5 %",
-   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg (3 à 3,6 milliards de milliards de tonnes), soit 4 à 5 % de celle de la Lune.",
+   "sentence": "La masse totale de la ceinture d'astéroïdes est estimée entre 3,0 et 3,6 × 1021 kg, soit 4 à 5 % de celle de la Lune.",
    "section": "Caractéristiques"
   },
-  "f25": {
+  "f20": {
    "kind": "number",
    "value": 2.8,
    "surface": "2,8",
    "sentence": "Il orbite à 2,8 ua du Soleil, ce qui est également la distance du centre de masse de la ceinture d'astéroïdes.",
    "section": "Caractéristiques"
   },
-  "f26": {
+  "f21": {
    "kind": "number",
    "value": 3.2,
    "surface": "3,20",
    "sentence": "Vesta a par ailleurs une magnitude absolue plus élevée que les autres astéroïdes, aux environs de 3,20.",
    "section": "Caractéristiques"
   },
-  "f27": {
+  "f22": {
    "kind": "number",
    "value": 4500000000,
    "surface": "4,5 milliards",
-   "sentence": "Cependant, du fait de leur petite taille, cette période de fusion fut brève (par rapport aux planètes) et s'est généralement terminée il y a 4,5 milliards d'années après avoir duré entre quelques dizaines et une centaine de millions d'années.",
+   "sentence": "Cependant, du fait de leur petite taille, cette période de fusion fut brève et s'est généralement terminée il y a 4,5 milliards d'années après avoir duré entre quelques dizaines et une centaine de millions d'années.",
    "section": "Caractéristiques"
   },
-  "f28": {
+  "f23": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -259,14 +222,14 @@
    "sentence": "Ces astéroïdes de type C incluent plus de 75 % de tous les astéroïdes visibles.",
    "section": "Caractéristiques"
   },
-  "f29": {
+  "f24": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
-   "sentence": "Vers l'intérieur de la ceinture, aux alentours de 2,5 ua du Soleil, les astéroïdes de type S (silicates) sont les plus courants.",
+   "sentence": "Vers l'intérieur de la ceinture, aux alentours de 2,5 ua du Soleil, les astéroïdes de type S sont les plus courants.",
    "section": "Caractéristiques"
   },
-  "f30": {
+  "f25": {
    "kind": "measure",
    "value": 17,
    "unit": "%",
@@ -274,22 +237,22 @@
    "sentence": "Ils possèdent un albédo relativement élevé et forment 17 % du total.",
    "section": "Caractéristiques"
   },
-  "f31": {
+  "f26": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
    "surface": "10 %",
-   "sentence": "Une troisième catégorie, regroupant 10 % du total, est celle des astéroïdes de type M (riches en métaux).",
+   "sentence": "Une troisième catégorie, regroupant 10 % du total, est celle des astéroïdes de type M. Leur spectre ressemble à celui d'un alliage fer-nickel, avec une apparence blanche ou légèrement rouge et aucune caractéristique d'absorption.",
    "section": "Caractéristiques"
   },
-  "f32": {
+  "f27": {
    "kind": "number",
    "value": 2.7,
    "surface": "2,7",
    "sentence": "À l'intérieur de la ceinture, la distribution des astéroïdes de type M culmine à 2,7 ua du Soleil.",
    "section": "Caractéristiques"
   },
-  "f33": {
+  "f28": {
    "kind": "measure",
    "value": 99,
    "unit": "%",
@@ -297,163 +260,142 @@
    "sentence": "Les observations suggèrent que 99 % du basalte prédit n'existe pas.",
    "section": "Caractéristiques"
   },
-  "f34": {
+  "f29": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",
-   "sentence": "Jusqu'en 2001, on pensait que la plupart des corps basaltiques découverts dans la ceinture provenaient de Vesta (d'où leur nom de type V).",
+   "sentence": "Jusqu'en 2001, on pensait que la plupart des corps basaltiques découverts dans la ceinture provenaient de Vesta.",
    "section": "Caractéristiques"
   },
-  "f35": {
-   "kind": "date",
-   "value": "1459",
-   "surface": "1459",
-   "sentence": "Cependant, la découverte de (1459) Magnya a révélé une composition chimique légèrement différente des autres astéroïdes basaltiques, suggérant une origine distincte.",
-   "section": "Caractéristiques"
-  },
-  "f36": {
+  "f30": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
-   "sentence": "En 2007, (7472) Kumakiri et (10537) 1991 RY16 furent découverts possédant une composition basaltique et dont l'origine ne peut provenir de Vesta.",
+   "sentence": "En 2007, Kumakiri et 1991 RY16 furent découverts possédant une composition basaltique et dont l'origine ne peut provenir de Vesta.",
    "section": "Caractéristiques"
   },
-  "f37": {
-   "kind": "number",
-   "value": 7472,
-   "surface": "7472",
-   "sentence": "En 2007, (7472) Kumakiri et (10537) 1991 RY16 furent découverts possédant une composition basaltique et dont l'origine ne peut provenir de Vesta.",
-   "section": "Caractéristiques"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 10537,
-   "surface": "10537",
-   "sentence": "En 2007, (7472) Kumakiri et (10537) 1991 RY16 furent découverts possédant une composition basaltique et dont l'origine ne peut provenir de Vesta.",
-   "section": "Caractéristiques"
-  },
-  "f39": {
+  "f31": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
-   "sentence": "En 2007, (7472) Kumakiri et (10537) 1991 RY16 furent découverts possédant une composition basaltique et dont l'origine ne peut provenir de Vesta.",
+   "sentence": "En 2007, Kumakiri et 1991 RY16 furent découverts possédant une composition basaltique et dont l'origine ne peut provenir de Vesta.",
    "section": "Caractéristiques"
   },
-  "f40": {
+  "f32": {
    "kind": "measure",
    "value": 200,
    "unit": "k",
    "surface": "200 K",
-   "sentence": "Pour des particules de poussière, la température typique va de 200 K (-73 °C) à 2,2 ua à 165 K (-108 °C) à 3,2 ua.",
+   "sentence": "Pour des particules de poussière, la température typique va de 200 K à 2,2 ua à 165 K à 3,2 ua.",
    "section": "Caractéristiques"
   },
-  "f41": {
+  "f33": {
    "kind": "number",
    "value": 2.2,
    "surface": "2,2",
-   "sentence": "Pour des particules de poussière, la température typique va de 200 K (-73 °C) à 2,2 ua à 165 K (-108 °C) à 3,2 ua.",
+   "sentence": "Pour des particules de poussière, la température typique va de 200 K à 2,2 ua à 165 K à 3,2 ua.",
    "section": "Caractéristiques"
   },
-  "f42": {
+  "f34": {
    "kind": "measure",
    "value": 165,
    "unit": "k",
    "surface": "165 K",
-   "sentence": "Pour des particules de poussière, la température typique va de 200 K (-73 °C) à 2,2 ua à 165 K (-108 °C) à 3,2 ua.",
+   "sentence": "Pour des particules de poussière, la température typique va de 200 K à 2,2 ua à 165 K à 3,2 ua.",
    "section": "Caractéristiques"
   },
-  "f43": {
+  "f35": {
    "kind": "number",
    "value": 3.2,
    "surface": "3,2",
-   "sentence": "Pour des particules de poussière, la température typique va de 200 K (-73 °C) à 2,2 ua à 165 K (-108 °C) à 3,2 ua.",
+   "sentence": "Pour des particules de poussière, la température typique va de 200 K à 2,2 ua à 165 K à 3,2 ua.",
    "section": "Caractéristiques"
   },
-  "f44": {
+  "f36": {
    "kind": "number",
    "value": 0.4,
    "surface": "0,4",
    "sentence": "La grande majorité des astéroïdes de la ceinture principale a une excentricité inférieure à 0,4 et une inclinaison inférieure à 30°.",
    "section": "Caractéristiques"
   },
-  "f45": {
+  "f37": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "La grande majorité des astéroïdes de la ceinture principale a une excentricité inférieure à 0,4 et une inclinaison inférieure à 30°.",
    "section": "Caractéristiques"
   },
-  "f46": {
+  "f38": {
    "kind": "number",
    "value": 0.07,
    "surface": "0,07",
    "sentence": "Leur distribution orbitale est maximale pour une excentricité d'environ 0,07 et une inclinaison inférieure à 4°.",
    "section": "Caractéristiques"
   },
-  "f47": {
+  "f39": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Leur distribution orbitale est maximale pour une excentricité d'environ 0,07 et une inclinaison inférieure à 4°.",
    "section": "Caractéristiques"
   },
-  "f48": {
+  "f40": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f49": {
+  "f41": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f50": {
+  "f42": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f51": {
+  "f43": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f52": {
+  "f44": {
    "kind": "number",
    "value": 2.06,
    "surface": "2,06",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f53": {
+  "f45": {
    "kind": "number",
    "value": 3.27,
    "surface": "3,27",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f54": {
+  "f46": {
    "kind": "number",
    "value": 0.33,
    "surface": "0,33",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f55": {
+  "f47": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Elle est située entre les lacunes de Kirkwood 4:1 et 2:1, entre 2,06 et 3,27 ua et ses composants ont une excentricité plus petite que 0,33 et une inclinaison inférieure à 20°.",
    "section": "Caractéristiques"
   },
-  "f56": {
+  "f48": {
    "kind": "measure",
    "value": 93.4,
    "unit": "%",
@@ -461,252 +403,189 @@
    "sentence": "Cette région contient 93,4 % de tous les astéroïdes numérotés du Système solaire.",
    "section": "Caractéristiques"
   },
-  "f57": {
+  "f49": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Les deux diagrammes suivants mettent en évidence certains éléments orbitaux des astéroïdes connus en fonction de leur demi-grand axe (en ua) ; les astéroïdes de la ceinture sont indiqués en rouge et bleu, entre 2 et 4 ua (le rouge correspondant à la région la plus peuplée de la ceinture).",
+   "sentence": "Les deux diagrammes suivants mettent en évidence certains éléments orbitaux des astéroïdes connus en fonction de leur demi-grand axe; les astéroïdes de la ceinture sont indiqués en rouge et bleu, entre 2 et 4 ua.",
    "section": "Caractéristiques"
   },
-  "f58": {
+  "f50": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Les deux diagrammes suivants mettent en évidence certains éléments orbitaux des astéroïdes connus en fonction de leur demi-grand axe (en ua) ; les astéroïdes de la ceinture sont indiqués en rouge et bleu, entre 2 et 4 ua (le rouge correspondant à la région la plus peuplée de la ceinture).",
+   "sentence": "Les deux diagrammes suivants mettent en évidence certains éléments orbitaux des astéroïdes connus en fonction de leur demi-grand axe; les astéroïdes de la ceinture sont indiqués en rouge et bleu, entre 2 et 4 ua.",
    "section": "Caractéristiques"
   },
-  "f59": {
+  "f51": {
    "kind": "number",
    "value": 5.2,
    "surface": "5,2",
    "sentence": "Le groupe d'astéroïdes situé vers 5,2 ua est celui des troyens.",
    "section": "Caractéristiques"
   },
-  "f60": {
+  "f52": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
    "section": "Caractéristiques"
   },
-  "f61": {
+  "f53": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
    "section": "Caractéristiques"
   },
-  "f62": {
+  "f54": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
    "section": "Caractéristiques"
   },
-  "f63": {
+  "f55": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
    "section": "Caractéristiques"
   },
-  "f64": {
+  "f56": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
    "section": "Caractéristiques"
   },
+  "f57": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
+   "section": "Caractéristiques"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
+   "section": "Caractéristiques"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
+   "section": "Caractéristiques"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Ainsi, un astéroïde situé dans la lacune 3:1 réaliserait 3 orbites autour du Soleil pour chaque orbite de Jupiter.",
+   "section": "Caractéristiques"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Ainsi, un astéroïde situé dans la lacune 3:1 réaliserait 3 orbites autour du Soleil pour chaque orbite de Jupiter.",
+   "section": "Caractéristiques"
+  },
+  "f62": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Ainsi, un astéroïde situé dans la lacune 3:1 réaliserait 3 orbites autour du Soleil pour chaque orbite de Jupiter.",
+   "section": "Caractéristiques"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "La zone I s'étend de la résonance 4:1 à la résonance 3:1.",
+   "section": "Caractéristiques"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "La zone I s'étend de la résonance 4:1 à la résonance 3:1.",
+   "section": "Caractéristiques"
+  },
   "f65": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
+   "sentence": "La zone I s'étend de la résonance 4:1 à la résonance 3:1.",
    "section": "Caractéristiques"
   },
   "f66": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
+   "value": 1,
+   "surface": "1",
+   "sentence": "La zone I s'étend de la résonance 4:1 à la résonance 3:1.",
    "section": "Caractéristiques"
   },
   "f67": {
    "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Les lacunes principales se produisent en résonance 3:1, 5:2, 7:3 et 2:1 avec Jupiter.",
+   "value": 5,
+   "surface": "5",
+   "sentence": "La zone II part de la fin de la zone I jusqu'à la résonance 5:2.",
    "section": "Caractéristiques"
   },
   "f68": {
    "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Ainsi, un astéroïde situé dans la lacune 3:1 réaliserait 3 orbites autour du Soleil pour chaque orbite de Jupiter.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "La zone II part de la fin de la zone I jusqu'à la résonance 5:2.",
    "section": "Caractéristiques"
   },
   "f69": {
    "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Ainsi, un astéroïde situé dans la lacune 3:1 réaliserait 3 orbites autour du Soleil pour chaque orbite de Jupiter.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "La zone III débute à la limite externe de la zone II jusqu'à la lacune de la résonance 2:1.",
    "section": "Caractéristiques"
   },
   "f70": {
    "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Ainsi, un astéroïde situé dans la lacune 3:1 réaliserait 3 orbites autour du Soleil pour chaque orbite de Jupiter.",
+   "value": 1,
+   "surface": "1",
+   "sentence": "La zone III débute à la limite externe de la zone II jusqu'à la lacune de la résonance 2:1.",
    "section": "Caractéristiques"
   },
   "f71": {
    "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Des résonances plus faibles se produisent pour d'autres valeurs des demi-grands axes, causant un nombre moins important d'astéroïdes à posséder ces valeurs (par exemple la résonance 8:3 pour le demi-grand axe de 2,71 ua).",
+   "value": 3,
+   "surface": "3",
+   "sentence": "La ceinture interne est composée des astéroïdes orbitant plus près de Mars que la lacune de Kirkwood de résonance 3:1 et la ceinture externe du reste des astéroïdes.",
    "section": "Caractéristiques"
   },
   "f72": {
    "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Des résonances plus faibles se produisent pour d'autres valeurs des demi-grands axes, causant un nombre moins important d'astéroïdes à posséder ces valeurs (par exemple la résonance 8:3 pour le demi-grand axe de 2,71 ua).",
+   "value": 1,
+   "surface": "1",
+   "sentence": "La ceinture interne est composée des astéroïdes orbitant plus près de Mars que la lacune de Kirkwood de résonance 3:1 et la ceinture externe du reste des astéroïdes.",
    "section": "Caractéristiques"
   },
   "f73": {
    "kind": "number",
-   "value": 2.71,
-   "surface": "2,71",
-   "sentence": "Des résonances plus faibles se produisent pour d'autres valeurs des demi-grands axes, causant un nombre moins important d'astéroïdes à posséder ces valeurs (par exemple la résonance 8:3 pour le demi-grand axe de 2,71 ua).",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Certains auteurs définissent ces deux ceintures à partir de la résonance 2:1.",
    "section": "Caractéristiques"
   },
   "f74": {
    "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "La zone I s'étend de la résonance 4:1 (2,06 ua) à la résonance 3:1 (2,5 ua).",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Certains auteurs définissent ces deux ceintures à partir de la résonance 2:1.",
    "section": "Caractéristiques"
   },
   "f75": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "La zone I s'étend de la résonance 4:1 (2,06 ua) à la résonance 3:1 (2,5 ua).",
-   "section": "Caractéristiques"
-  },
-  "f76": {
-   "kind": "number",
-   "value": 2.06,
-   "surface": "2,06",
-   "sentence": "La zone I s'étend de la résonance 4:1 (2,06 ua) à la résonance 3:1 (2,5 ua).",
-   "section": "Caractéristiques"
-  },
-  "f77": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "La zone I s'étend de la résonance 4:1 (2,06 ua) à la résonance 3:1 (2,5 ua).",
-   "section": "Caractéristiques"
-  },
-  "f78": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "La zone I s'étend de la résonance 4:1 (2,06 ua) à la résonance 3:1 (2,5 ua).",
-   "section": "Caractéristiques"
-  },
-  "f79": {
-   "kind": "number",
-   "value": 2.5,
-   "surface": "2,5",
-   "sentence": "La zone I s'étend de la résonance 4:1 (2,06 ua) à la résonance 3:1 (2,5 ua).",
-   "section": "Caractéristiques"
-  },
-  "f80": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "La zone II part de la fin de la zone I jusqu'à la résonance 5:2 (2,82 ua).",
-   "section": "Caractéristiques"
-  },
-  "f81": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "La zone II part de la fin de la zone I jusqu'à la résonance 5:2 (2,82 ua).",
-   "section": "Caractéristiques"
-  },
-  "f82": {
-   "kind": "number",
-   "value": 2.82,
-   "surface": "2,82",
-   "sentence": "La zone II part de la fin de la zone I jusqu'à la résonance 5:2 (2,82 ua).",
-   "section": "Caractéristiques"
-  },
-  "f83": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "La zone III débute à la limite externe de la zone II jusqu'à la lacune de la résonance 2:1 (3,28 ua).",
-   "section": "Caractéristiques"
-  },
-  "f84": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "La zone III débute à la limite externe de la zone II jusqu'à la lacune de la résonance 2:1 (3,28 ua).",
-   "section": "Caractéristiques"
-  },
-  "f85": {
-   "kind": "number",
-   "value": 3.28,
-   "surface": "3,28",
-   "sentence": "La zone III débute à la limite externe de la zone II jusqu'à la lacune de la résonance 2:1 (3,28 ua).",
-   "section": "Caractéristiques"
-  },
-  "f86": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "La ceinture interne est composée des astéroïdes orbitant plus près de Mars que la lacune de Kirkwood de résonance 3:1 (2,5 ua) et la ceinture externe du reste des astéroïdes.",
-   "section": "Caractéristiques"
-  },
-  "f87": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "La ceinture interne est composée des astéroïdes orbitant plus près de Mars que la lacune de Kirkwood de résonance 3:1 (2,5 ua) et la ceinture externe du reste des astéroïdes.",
-   "section": "Caractéristiques"
-  },
-  "f88": {
-   "kind": "number",
-   "value": 2.5,
-   "surface": "2,5",
-   "sentence": "La ceinture interne est composée des astéroïdes orbitant plus près de Mars que la lacune de Kirkwood de résonance 3:1 (2,5 ua) et la ceinture externe du reste des astéroïdes.",
-   "section": "Caractéristiques"
-  },
-  "f89": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Certains auteurs définissent ces deux ceintures à partir de la résonance 2:1 (3,3 ua).",
-   "section": "Caractéristiques"
-  },
-  "f90": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Certains auteurs définissent ces deux ceintures à partir de la résonance 2:1 (3,3 ua).",
-   "section": "Caractéristiques"
-  },
-  "f91": {
-   "kind": "number",
-   "value": 3.3,
-   "surface": "3,3",
-   "sentence": "Certains auteurs définissent ces deux ceintures à partir de la résonance 2:1 (3,3 ua).",
-   "section": "Caractéristiques"
-  },
-  "f92": {
    "kind": "measure",
    "value": 100,
    "unit": "m",
@@ -714,14 +593,14 @@
    "sentence": "Aucun astéroïde connu plus grand que 100 m ne possède une période de rotation inférieure à 2,2 h.",
    "section": "Caractéristiques"
   },
-  "f93": {
+  "f76": {
    "kind": "number",
    "value": 2.2,
    "surface": "2,2",
    "sentence": "Aucun astéroïde connu plus grand que 100 m ne possède une période de rotation inférieure à 2,2 h.",
    "section": "Caractéristiques"
   },
-  "f94": {
+  "f77": {
    "kind": "measure",
    "value": 100,
    "unit": "m",
@@ -729,7 +608,7 @@
    "sentence": "Ceci suggère que la majorité des astéroïdes de plus de 100 m sont des empilements de débris formés par accumulation après collisions entre astéroïdes.",
    "section": "Caractéristiques"
   },
-  "f95": {
+  "f78": {
    "kind": "measure",
    "value": 10,
    "unit": "km",
@@ -737,14 +616,14 @@
    "sentence": "On estime qu'une collision entre deux corps d'un diamètre supérieur à 10 km s'y produit tous les 10 millions d'années.",
    "section": "Caractéristiques"
   },
-  "f96": {
+  "f79": {
    "kind": "number",
    "value": 10000000,
    "surface": "10 millions",
    "sentence": "On estime qu'une collision entre deux corps d'un diamètre supérieur à 10 km s'y produit tous les 10 millions d'années.",
    "section": "Caractéristiques"
   },
-  "f97": {
+  "f80": {
    "kind": "measure",
    "value": 40,
    "unit": "µm",
@@ -752,7 +631,7 @@
    "sentence": "Les particules qui la produisent mesurent en moyenne 40 µm et ont une durée de vie de l'ordre de 700 000 ans.",
    "section": "Caractéristiques"
   },
-  "f98": {
+  "f81": {
    "kind": "measure",
    "value": 700000,
    "unit": "ans",
@@ -760,147 +639,140 @@
    "sentence": "Les particules qui la produisent mesurent en moyenne 40 µm et ont une durée de vie de l'ordre de 700 000 ans.",
    "section": "Caractéristiques"
   },
-  "f99": {
+  "f82": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "On estime de 20 à 30 le nombre de familles quasi certaines, dont les membres présentent un spectre commun.",
    "section": "Familles et groupes"
   },
-  "f100": {
+  "f83": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "On estime de 20 à 30 le nombre de familles quasi certaines, dont les membres présentent un spectre commun.",
    "section": "Familles et groupes"
   },
-  "f101": {
+  "f84": {
    "kind": "date",
    "value": "800",
    "surface": "800",
    "sentence": "La famille de Flore, l'une des plus importantes, contient plus de 800 membres et se serait formée par une collision survenue il y a moins d'un milliard d'années.",
    "section": "Familles et groupes"
   },
-  "f102": {
+  "f85": {
    "kind": "number",
    "value": 1.8,
    "surface": "1,8",
    "sentence": "Le groupe de Hungaria s'étend en périphérie interne de la ceinture, entre 1,8 et 2,0 ua.",
    "section": "Familles et groupes"
   },
-  "f103": {
+  "f86": {
    "kind": "number",
    "value": 2,
    "surface": "2,0",
    "sentence": "Le groupe de Hungaria s'étend en périphérie interne de la ceinture, entre 1,8 et 2,0 ua.",
    "section": "Familles et groupes"
   },
-  "f104": {
-   "kind": "number",
-   "value": 434,
-   "surface": "434",
-   "sentence": "Ce groupe est nommé d'après son membre principal, (434) Hungaria.",
-   "section": "Familles et groupes"
-  },
-  "f105": {
+  "f87": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Il est séparé du reste de la ceinture par la lacune de Kirkwood 4:1 et est caractérisé par une forte inclinaison.",
    "section": "Familles et groupes"
   },
-  "f106": {
+  "f88": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Il est séparé du reste de la ceinture par la lacune de Kirkwood 4:1 et est caractérisé par une forte inclinaison.",
    "section": "Familles et groupes"
   },
-  "f107": {
+  "f89": {
    "kind": "number",
    "value": 2.25,
    "surface": "2,25",
    "sentence": "Elle est composée principalement d'astéroïdes de type S, tandis que le groupe voisin de Hungaria est principalement constituée d'astéroïdes de type E. Elle orbite entre 2,25 et 2,5 ua.",
    "section": "Familles et groupes"
   },
-  "f108": {
+  "f90": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
    "sentence": "Elle est composée principalement d'astéroïdes de type S, tandis que le groupe voisin de Hungaria est principalement constituée d'astéroïdes de type E. Elle orbite entre 2,25 et 2,5 ua.",
    "section": "Familles et groupes"
   },
-  "f109": {
+  "f91": {
    "kind": "number",
    "value": 3.3,
    "surface": "3,3",
    "sentence": "Le groupe de Cybèle occupe la partie externe de la ceinture principale, entre 3,3 et 3,5 ua, avec une résonance 7:4 avec Jupiter.",
    "section": "Familles et groupes"
   },
-  "f110": {
+  "f92": {
    "kind": "number",
    "value": 3.5,
    "surface": "3,5",
    "sentence": "Le groupe de Cybèle occupe la partie externe de la ceinture principale, entre 3,3 et 3,5 ua, avec une résonance 7:4 avec Jupiter.",
    "section": "Familles et groupes"
   },
-  "f111": {
+  "f93": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Le groupe de Cybèle occupe la partie externe de la ceinture principale, entre 3,3 et 3,5 ua, avec une résonance 7:4 avec Jupiter.",
    "section": "Familles et groupes"
   },
-  "f112": {
+  "f94": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Le groupe de Cybèle occupe la partie externe de la ceinture principale, entre 3,3 et 3,5 ua, avec une résonance 7:4 avec Jupiter.",
    "section": "Familles et groupes"
   },
-  "f113": {
+  "f95": {
    "kind": "number",
    "value": 3.5,
    "surface": "3,5",
    "sentence": "Le groupe de Hilda orbite entre 3,5 et 4,2 ua.",
    "section": "Familles et groupes"
   },
-  "f114": {
+  "f96": {
    "kind": "number",
    "value": 4.2,
    "surface": "4,2",
    "sentence": "Le groupe de Hilda orbite entre 3,5 et 4,2 ua.",
    "section": "Familles et groupes"
   },
-  "f115": {
+  "f97": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Il est en résonance 3:2 avec Jupiter et constitué d'astéroïdes aux orbites relativement circulaires.",
    "section": "Familles et groupes"
   },
-  "f116": {
+  "f98": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Il est en résonance 3:2 avec Jupiter et constitué d'astéroïdes aux orbites relativement circulaires.",
    "section": "Familles et groupes"
   },
-  "f117": {
+  "f99": {
    "kind": "number",
    "value": 4.2,
    "surface": "4,2",
    "sentence": "Il y a relativement peu d'astéroïdes au-delà de 4,2 ua et ce jusqu'au niveau de l'orbite de Jupiter.",
    "section": "Familles et groupes"
   },
-  "f118": {
+  "f100": {
    "kind": "number",
    "value": 5700000,
    "surface": "5,7 millions",
    "sentence": "La famille de Karin semble s'être formée il y a 5,7 millions d'années à la suite d'une collision avec un astéroïde de 16 km de rayon.",
    "section": "Familles et groupes"
   },
-  "f119": {
+  "f101": {
    "kind": "measure",
    "value": 16,
    "unit": "km",
@@ -908,14 +780,14 @@
    "sentence": "La famille de Karin semble s'être formée il y a 5,7 millions d'années à la suite d'une collision avec un astéroïde de 16 km de rayon.",
    "section": "Familles et groupes"
   },
-  "f120": {
+  "f102": {
    "kind": "number",
    "value": 8300000.000000001,
    "surface": "8,3 millions",
    "sentence": "La famille de Veritas s'est formée il y a 8,3 millions d'années et des preuves de cet événement ont pris la forme d'une poussière interplanétaire retrouvée dans des sédiments océaniques.",
    "section": "Familles et groupes"
   },
-  "f121": {
+  "f103": {
    "kind": "measure",
    "value": 450000,
    "unit": "ans",
@@ -923,21 +795,7 @@
    "sentence": "Le groupe de Datura s'est semble-t-il formé il y a 450 000 ans par collision.",
    "section": "Familles et groupes"
   },
-  "f122": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "D'autres groupes récents, comme celui d'Iannini (entre 1 et 5 millions d'années) pourraient avoir contribué à cette poussière.",
-   "section": "Familles et groupes"
-  },
-  "f123": {
-   "kind": "number",
-   "value": 5000000,
-   "surface": "5 millions",
-   "sentence": "D'autres groupes récents, comme celui d'Iannini (entre 1 et 5 millions d'années) pourraient avoir contribué à cette poussière.",
-   "section": "Familles et groupes"
-  },
-  "f124": {
+  "f104": {
    "kind": "measure",
    "value": 0.1,
    "unit": "%",
@@ -945,32 +803,25 @@
    "sentence": "À cause de perturbations gravitationnelles, la majeure partie des matériaux furent éjectés à peine un million d'années après leur formation, ne laissant finalement que moins de 0,1 % de la masse d'origine.",
    "section": "Origine"
   },
-  "f125": {
+  "f105": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "La résonance orbitale 4:1 avec Jupiter, vers 2,06 ua, peut être considérée comme la limite interne de la ceinture.",
    "section": "Origine"
   },
-  "f126": {
+  "f106": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "La résonance orbitale 4:1 avec Jupiter, vers 2,06 ua, peut être considérée comme la limite interne de la ceinture.",
    "section": "Origine"
   },
-  "f127": {
+  "f107": {
    "kind": "number",
    "value": 2.06,
    "surface": "2,06",
    "sentence": "La résonance orbitale 4:1 avec Jupiter, vers 2,06 ua, peut être considérée comme la limite interne de la ceinture.",
-   "section": "Origine"
-  },
-  "f128": {
-   "kind": "number",
-   "value": 1.67,
-   "surface": "1,67",
-   "sentence": "De plus, la plupart des corps qui s'y sont formés furent éjectés par Mars (dont l'aphélie est situé à 1,67 ua) ou par des perturbations gravitationnelles au début du Système solaire.",
    "section": "Origine"
   }
  },

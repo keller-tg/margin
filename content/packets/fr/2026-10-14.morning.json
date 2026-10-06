@@ -89,7 +89,7 @@
    "kind": "date",
    "value": "2013",
    "surface": "2013",
-   "sentence": "Cependant, à la suite de la découverte en 2013 d'un nouveau fossile à plumes (nouveau genre, nouvelle espèce), une équipe de paléontologues propose de rétablir l'archéoptéryx dans son statut antérieur (voir le chapitre Des propositions controversées)."
+   "sentence": "Cependant, à la suite de la découverte en 2013 d'un nouveau fossile à plumes, une équipe de paléontologues propose de rétablir l'archéoptéryx dans son statut antérieur."
   },
   "f7": {
    "kind": "date",
@@ -98,49 +98,34 @@
    "sentence": "En 2018, l'étude d'un fossile d'archéoptéryx à l'European Synchrotron Radiation Facility révèle que bien qu'il ne pratiquât pas le vol battu des oiseaux modernes, il pouvait faire un vol actif en se propulsant avec ses ailes."
   },
   "f8": {
-   "kind": "measure",
-   "value": 1,
-   "unit": "km",
-   "surface": "1 km",
-   "sentence": "S'il pouvait voler et qu'il était poïkilotherme, il devait être capable de voler vigoureusement, mais probablement sur une distance courte (on estime alors son rayon de vol à légèrement plus de 1 km).",
-   "section": "Description"
-  },
-  "f9": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "En 2004, on a en revanche établi que son cerveau était plus volumineux que celui de la plupart des autres dinosaures, ce qui est considéré par de nombreux scientifiques comme nécessaire pour voler correctement, mais cette nécessité a été remise en question.",
    "section": "Chorologie"
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "La plume a été découverte en 1860, puis décrite l'année suivante par Hermann von Meyer.",
    "section": "Systématique"
   },
-  "f11": {
+  "f10": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Cette hypothèse a été confirmée en 2019 en étudiant cette plume à l'aide de la méthode de la fluorescence induite par laser.",
    "section": "Systématique"
   },
-  "f12": {
-   "kind": "number",
-   "value": 37001,
-   "surface": "37001",
-   "sentence": "Peu de temps plus tard, le premier squelette, connu comme le spécimen de Londres (BMNH 37001) a été découvert en 1861 près de Langenaltheim en Allemagne.",
-   "section": "Systématique"
-  },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "1861",
    "surface": "1861",
-   "sentence": "Peu de temps plus tard, le premier squelette, connu comme le spécimen de Londres (BMNH 37001) a été découvert en 1861 près de Langenaltheim en Allemagne.",
+   "sentence": "Peu de temps plus tard, le premier squelette, connu comme le spécimen de Londres a été découvert en 1861 près de Langenaltheim en Allemagne.",
    "section": "Systématique"
   },
-  "f14": {
+  "f12": {
    "kind": "measure",
    "value": 1862,
    "unit": "au",
@@ -148,350 +133,301 @@
    "sentence": "Celui-ci l'a vendu en 1862 au musée d'histoire naturelle de Londres.",
    "section": "Systématique"
   },
-  "f15": {
+  "f13": {
    "kind": "date",
    "value": "1863",
    "surface": "1863",
    "sentence": "Richard Owen le décrit en 1863 et rapproche la plume de l'animal.",
    "section": "Systématique"
   },
-  "f16": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "10, p. 335-336), Charles Darwin, à la vue du travail d'Owen, déclare que l'espèce est une forme transitoire entre les reptiles et les oiseaux.",
-   "section": "Systématique"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 335,
-   "surface": "335",
-   "sentence": "10, p. 335-336), Charles Darwin, à la vue du travail d'Owen, déclare que l'espèce est une forme transitoire entre les reptiles et les oiseaux.",
-   "section": "Systématique"
-  },
-  "f18": {
-   "kind": "date",
-   "value": "1880",
-   "surface": "1880",
-   "sentence": "Le spécimen de Berlin (HMN 1880) a été découvert en 1876 ou 1877 sur le site de Blumenberg près de Eichstätt en Allemagne par Jakob Niemeyer, qui l'échange à Johann Dörr contre une vache.",
-   "section": "Systématique"
-  },
-  "f19": {
+  "f14": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
-   "sentence": "Le spécimen de Berlin (HMN 1880) a été découvert en 1876 ou 1877 sur le site de Blumenberg près de Eichstätt en Allemagne par Jakob Niemeyer, qui l'échange à Johann Dörr contre une vache.",
+   "sentence": "Le spécimen de Berlin a été découvert en 1876 ou 1877 sur le site de Blumenberg près de Eichstätt en Allemagne par Jakob Niemeyer, qui l'échange à Johann Dörr contre une vache.",
    "section": "Systématique"
   },
-  "f20": {
+  "f15": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
-   "sentence": "Le spécimen de Berlin (HMN 1880) a été découvert en 1876 ou 1877 sur le site de Blumenberg près de Eichstätt en Allemagne par Jakob Niemeyer, qui l'échange à Johann Dörr contre une vache.",
+   "sentence": "Le spécimen de Berlin a été découvert en 1876 ou 1877 sur le site de Blumenberg près de Eichstätt en Allemagne par Jakob Niemeyer, qui l'échange à Johann Dörr contre une vache.",
    "section": "Systématique"
   },
-  "f21": {
+  "f16": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
    "sentence": "En 1881, celui-ci met en concurrence le musée d'histoire naturelle de Berlin et le muséum d'histoire naturelle Peabody de Othniel Charles Marsh.",
    "section": "Systématique"
   },
-  "f22": {
+  "f17": {
    "kind": "date",
    "value": "1884",
    "surface": "1884",
    "sentence": "Décrit en 1884 par Wilhelm Dames, c'est le spécimen le plus complet.",
    "section": "Systématique"
   },
-  "f23": {
+  "f18": {
    "kind": "date",
    "value": "1956",
    "surface": "1956",
-   "sentence": "Composé d'un torse, sans queue ni tête, le spécimen de Maxberg (S5) a été découvert entre 1956 et 1958 vers Langenaltheim et a été décrit en 1959 par F. von Heller.",
+   "sentence": "Composé d'un torse, sans queue ni tête, le spécimen de Maxberg a été découvert entre 1956 et 1958 vers Langenaltheim et a été décrit en 1959 par F. von Heller.",
    "section": "Systématique"
   },
-  "f24": {
+  "f19": {
    "kind": "date",
    "value": "1958",
    "surface": "1958",
-   "sentence": "Composé d'un torse, sans queue ni tête, le spécimen de Maxberg (S5) a été découvert entre 1956 et 1958 vers Langenaltheim et a été décrit en 1959 par F. von Heller.",
+   "sentence": "Composé d'un torse, sans queue ni tête, le spécimen de Maxberg a été découvert entre 1956 et 1958 vers Langenaltheim et a été décrit en 1959 par F. von Heller.",
    "section": "Systématique"
   },
-  "f25": {
+  "f20": {
    "kind": "date",
    "value": "1959",
    "surface": "1959",
-   "sentence": "Composé d'un torse, sans queue ni tête, le spécimen de Maxberg (S5) a été découvert entre 1956 et 1958 vers Langenaltheim et a été décrit en 1959 par F. von Heller.",
+   "sentence": "Composé d'un torse, sans queue ni tête, le spécimen de Maxberg a été découvert entre 1956 et 1958 vers Langenaltheim et a été décrit en 1959 par F. von Heller.",
    "section": "Systématique"
   },
-  "f26": {
+  "f21": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "On s'est aperçu de sa disparition lorsque le musée a dû rendre le spécimen à la mort de son propriétaire en 1991.",
    "section": "Systématique"
   },
-  "f27": {
-   "kind": "number",
-   "value": 6428,
-   "surface": "6428",
-   "sentence": "Le spécimen de Haarlem, référencé TM 6428/29, également connu sous le nom de spécimen de Teyler, a été découvert en 1855 près de Riedenburg.",
-   "section": "Systématique"
-  },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "1855",
    "surface": "1855",
    "sentence": "Le spécimen de Haarlem, référencé TM 6428/29, également connu sous le nom de spécimen de Teyler, a été découvert en 1855 près de Riedenburg.",
    "section": "Systématique"
   },
-  "f29": {
+  "f23": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "Il est décrit à l'origine sous le nom de Pterodactylus crassipes par le paléontologue allemand Hermann von Meyer en 1857.",
    "section": "Systématique"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Ce spécimen est l'un des moins complets, connu seulement par une partie de ses os des membres, quelques vertèbres cervicales isolées et des côtes, mais c'est le tout premier Archaeopteryx découvert, bien qu'il ait fallu attendre 1970 pour que John Ostrom l'attribue à ce genre.",
    "section": "Systématique"
   },
-  "f31": {
+  "f25": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
-   "sentence": "Cependant, en 2017, Christian Foth et Oliver Rauhut le ré-étudient et le placent dans un nouveau genre : Ostromia, un avialien basal rattaché à la famille des Anchiornithidae qui regroupe les fossiles découverts depuis la fin des années 2000 en Chine, dont Anchiornis.",
+   "sentence": "Cependant, en 2017, Christian Foth et Oliver Rauhut le ré-étudient et le placent dans un nouveau genre: Ostromia, un avialien basal rattaché à la famille des Anchiornithidae qui regroupe les fossiles découverts depuis la fin des années 2000 en Chine, dont Anchiornis.",
+   "section": "Systématique"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000",
+   "sentence": "Cependant, en 2017, Christian Foth et Oliver Rauhut le ré-étudient et le placent dans un nouveau genre: Ostromia, un avialien basal rattaché à la famille des Anchiornithidae qui regroupe les fossiles découverts depuis la fin des années 2000 en Chine, dont Anchiornis.",
+   "section": "Systématique"
+  },
+  "f27": {
+   "kind": "date",
+   "value": "1951",
+   "surface": "1951",
+   "sentence": "Le spécimen de Eichstätt a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
+   "section": "Systématique"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1955",
+   "surface": "1955",
+   "sentence": "Le spécimen de Eichstätt a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
+   "section": "Systématique"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1974",
+   "surface": "1974",
+   "sentence": "Le spécimen de Eichstätt a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
+   "section": "Systématique"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1960",
+   "surface": "1960",
+   "sentence": "Le spécimen de Solnhofen a été découvert dans les années 1960 à Eichstätt en Allemagne et a été décrit en 1988 par Peter Wellnhofer.",
+   "section": "Systématique"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "1988",
+   "surface": "1988",
+   "sentence": "Le spécimen de Solnhofen a été découvert dans les années 1960 à Eichstätt en Allemagne et a été décrit en 1988 par Peter Wellnhofer.",
    "section": "Systématique"
   },
   "f32": {
    "kind": "date",
-   "value": "2000",
-   "surface": "2000",
-   "sentence": "Cependant, en 2017, Christian Foth et Oliver Rauhut le ré-étudient et le placent dans un nouveau genre : Ostromia, un avialien basal rattaché à la famille des Anchiornithidae qui regroupe les fossiles découverts depuis la fin des années 2000 en Chine, dont Anchiornis.",
+   "value": "1993",
+   "surface": "1993",
+   "sentence": "Le spécimen de Munich autrefois connu sous le nom de spécimen de Solnhofen-Aktien-Verein, a été découvert dans les environs de Langenaltheim et a été décrit en 1993 par Peter Wellnhofer.",
    "section": "Systématique"
   },
   "f33": {
-   "kind": "number",
-   "value": 2257,
-   "surface": "2257",
-   "sentence": "Le spécimen de Eichstätt (JM 2257) a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
-   "section": "Systématique"
-  },
-  "f34": {
-   "kind": "date",
-   "value": "1951",
-   "surface": "1951",
-   "sentence": "Le spécimen de Eichstätt (JM 2257) a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
-   "section": "Systématique"
-  },
-  "f35": {
-   "kind": "date",
-   "value": "1955",
-   "surface": "1955",
-   "sentence": "Le spécimen de Eichstätt (JM 2257) a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
-   "section": "Systématique"
-  },
-  "f36": {
-   "kind": "date",
-   "value": "1974",
-   "surface": "1974",
-   "sentence": "Le spécimen de Eichstätt (JM 2257) a été découvert en 1951 ou 1955 sur le site de Workerszell près de Eichstätt et a été décrit par Peter Wellnhofer en 1974.",
-   "section": "Systématique"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1999",
-   "surface": "1999",
-   "sentence": "Le spécimen de Solnhofen (BSP 1999) a été découvert dans les années 1960 à Eichstätt en Allemagne et a été décrit en 1988 par Peter Wellnhofer.",
-   "section": "Systématique"
-  },
-  "f38": {
-   "kind": "date",
-   "value": "1960",
-   "surface": "1960",
-   "sentence": "Le spécimen de Solnhofen (BSP 1999) a été découvert dans les années 1960 à Eichstätt en Allemagne et a été décrit en 1988 par Peter Wellnhofer.",
-   "section": "Systématique"
-  },
-  "f39": {
-   "kind": "date",
-   "value": "1988",
-   "surface": "1988",
-   "sentence": "Le spécimen de Solnhofen (BSP 1999) a été découvert dans les années 1960 à Eichstätt en Allemagne et a été décrit en 1988 par Peter Wellnhofer.",
-   "section": "Systématique"
-  },
-  "f40": {
-   "kind": "date",
-   "value": "1993",
-   "surface": "1993",
-   "sentence": "Le spécimen de Munich autrefois connu sous le nom de spécimen de Solnhofen-Aktien-Verein (S6), a été découvert dans les environs de Langenaltheim et a été décrit en 1993 par Peter Wellnhofer.",
-   "section": "Systématique"
-  },
-  "f41": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Un huitième spécimen fragmentaire a été découvert en 1990, non dans le calcaire de Solnhofen mais dans les calcaires et calcaires argileux de la formation sus-jacente de Mörnsheim, un peu plus récent (quelques centaines de milliers d'années) à Daiting, dans le district de Souabe, localité distante d'une vingtaine de kilomètres de Sohnhofen.",
+   "sentence": "Un huitième spécimen fragmentaire a été découvert en 1990, non dans le calcaire de Solnhofen mais dans les calcaires et calcaires argileux de la formation sus-jacente de Mörnsheim, un peu plus récent à Daiting, dans le district de Souabe, localité distante d'une vingtaine de kilomètres de Sohnhofen.",
    "section": "Systématique"
   },
-  "f42": {
+  "f34": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Ce fossile est par conséquent désigné comme le spécimen de Daiting et est connu depuis 1996 par un moulage brièvement exposé au Naturkunde-Museum à Bamberg.",
    "section": "Systématique"
   },
-  "f43": {
+  "f35": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "L'original a été acheté par le paléontologue Raimund Albertsdörfer en 2009.",
    "section": "Systématique"
   },
-  "f44": {
+  "f36": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Il a été exposé pour la première fois avec six autres fossiles originaux d'Archaeopteryx au salon des minéraux de Munich en octobre 2009.",
    "section": "Systématique"
   },
-  "f45": {
+  "f37": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "En 2009, un premier examen rapide par les scientifiques indique que ce spécimen pourrait représenter une nouvelle espèce d'Archaeopteryx.",
    "section": "Systématique"
   },
-  "f46": {
+  "f38": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "En 2019, il a été nommé Archaeopteryx albersdoerferi par Martin Kundrát et ses collègues en 2019.",
    "section": "Systématique"
   },
-  "f47": {
+  "f39": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "En 2019, il a été nommé Archaeopteryx albersdoerferi par Martin Kundrát et ses collègues en 2019.",
    "section": "Systématique"
   },
-  "f48": {
+  "f40": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "Cependant la formation de Mörnsheim a fourni un autre avialien basal : Alcmonavis poeschli, décrit en 2019.",
+   "sentence": "Cependant la formation de Mörnsheim a fourni un autre avialien basal: Alcmonavis poeschli, décrit en 2019.",
    "section": "Systématique"
   },
-  "f49": {
+  "f41": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Un autre spécimen fragmentaire, le spécimen de Bürgermeister-Müller a été découvert en 1997 et il est conservé actuellement au musée Bürgermeister-Müller.",
    "section": "Systématique"
   },
-  "f50": {
+  "f42": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004.",
    "section": "Systématique"
   },
-  "f51": {
-   "kind": "number",
-   "value": 100,
-   "surface": "100",
-   "sentence": "Détenu dans une collection privée, le spécimen de Thermopolis (WDC CSG 100) a été découvert en Allemagne et a été décrit en 2005 par Gerald Mayr et Burkhard Pohl.",
-   "section": "Systématique"
-  },
-  "f52": {
+  "f43": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Détenu dans une collection privée, le spécimen de Thermopolis (WDC CSG 100) a été découvert en Allemagne et a été décrit en 2005 par Gerald Mayr et Burkhard Pohl.",
+   "sentence": "Détenu dans une collection privée, le spécimen de Thermopolis a été découvert en Allemagne et a été décrit en 2005 par Gerald Mayr et Burkhard Pohl.",
    "section": "Systématique"
   },
-  "f53": {
+  "f44": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Le spécimen « Thermopolis » a été dépeint dans le numéro du 2 décembre 2005 de Science comme « un spécimen d'archéoptéryx bien conservé pour ses traits de théropodes ».",
+   "sentence": "Le spécimen «Thermopolis» a été dépeint dans le numéro du 2 décembre 2005 de Science comme «un spécimen d'archéoptéryx bien conservé pour ses traits de théropodes».",
    "section": "Systématique"
   },
-  "f54": {
+  "f45": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Le spécimen « Thermopolis » a été dépeint dans le numéro du 2 décembre 2005 de Science comme « un spécimen d'archéoptéryx bien conservé pour ses traits de théropodes ».",
+   "sentence": "Le spécimen «Thermopolis» a été dépeint dans le numéro du 2 décembre 2005 de Science comme «un spécimen d'archéoptéryx bien conservé pour ses traits de théropodes».",
    "section": "Systématique"
   },
-  "f55": {
+  "f46": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Ce dixième spécimen a été nommé Archaeopteryx siemensii en 2007.",
    "section": "Systématique"
   },
-  "f56": {
+  "f47": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "La découverte d'un onzième spécimen a été annoncée en 2011.",
    "section": "Systématique"
   },
-  "f57": {
+  "f48": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "Décrit en 2014, il est l'un des spécimens les plus complets, mais il manque une grande partie du crâne et une patte avant.",
    "section": "Systématique"
   },
-  "f58": {
+  "f49": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Un douzième spécimen a été découvert par des collectionneurs amateurs en 2010 dans une carrière de Schamhaupten, mais cette découverte n'a été annoncée qu'en 2014.",
    "section": "Systématique"
   },
-  "f59": {
+  "f50": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "Un douzième spécimen a été découvert par des collectionneurs amateurs en 2010 dans une carrière de Schamhaupten, mais cette découverte n'a été annoncée qu'en 2014.",
    "section": "Systématique"
   },
-  "f60": {
+  "f51": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Un fossile partiel, limité à une aile droite isolée, découvert par un paléontologue amateur en 2017 dans la formation de Mörnsheim, a été considéré comme un possible treizième spécimen.",
    "section": "Systématique"
   },
-  "f61": {
+  "f52": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Oliver W. M. Rauhut et ses collègues le décrivent en 2019 comme un avialien basal, non rattaché à la famille des Archaeopterygidae car un petit peu plus proche des oiseaux modernes qu'Archaeopteryx.",
    "section": "Systématique"
   },
-  "f62": {
+  "f53": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "2006, les noms des clades reprenant les propositions de Sereno, 2005.\nlégende : † — éteint —\nL'histoire de l'apparition des oiseaux n'est pas complètement établie.",
+   "sentence": "2006, les noms des clades reprenant les propositions de Sereno, 2005.\nlégende: † — éteint —\nL'histoire de l'apparition des oiseaux n'est pas complètement établie.",
    "section": "Systématique"
   },
-  "f63": {
+  "f54": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "2006, les noms des clades reprenant les propositions de Sereno, 2005.\nlégende : † — éteint —\nL'histoire de l'apparition des oiseaux n'est pas complètement établie.",
+   "sentence": "2006, les noms des clades reprenant les propositions de Sereno, 2005.\nlégende: † — éteint —\nL'histoire de l'apparition des oiseaux n'est pas complètement établie.",
    "section": "Systématique"
   },
-  "f64": {
+  "f55": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",

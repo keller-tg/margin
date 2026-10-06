@@ -72,19 +72,19 @@
    "kind": "date",
    "value": "2023",
    "surface": "2023",
-   "sentence": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l'agglomération de Minneapolis-Saint Paul (qui comprend d'autres communes plus petites), ce qui classait l'aire urbaine comme la 16e plus grande agglomération des États-Unis et la 105e plus vaste à l'échelle mondiale."
+   "sentence": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l'agglomération de Minneapolis-Saint Paul, ce qui classait l'aire urbaine comme la 16e plus grande agglomération des États-Unis et la 105e plus vaste à l'échelle mondiale."
   },
   "f3": {
    "kind": "number",
    "value": 425115,
    "surface": "425 115",
-   "sentence": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l'agglomération de Minneapolis-Saint Paul (qui comprend d'autres communes plus petites), ce qui classait l'aire urbaine comme la 16e plus grande agglomération des États-Unis et la 105e plus vaste à l'échelle mondiale."
+   "sentence": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l'agglomération de Minneapolis-Saint Paul, ce qui classait l'aire urbaine comme la 16e plus grande agglomération des États-Unis et la 105e plus vaste à l'échelle mondiale."
   },
   "f4": {
    "kind": "number",
    "value": 3712020,
    "surface": "3 712 020",
-   "sentence": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l'agglomération de Minneapolis-Saint Paul (qui comprend d'autres communes plus petites), ce qui classait l'aire urbaine comme la 16e plus grande agglomération des États-Unis et la 105e plus vaste à l'échelle mondiale."
+   "sentence": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l'agglomération de Minneapolis-Saint Paul, ce qui classait l'aire urbaine comme la 16e plus grande agglomération des États-Unis et la 105e plus vaste à l'échelle mondiale."
   },
   "f5": {
    "kind": "measure",
@@ -106,62 +106,33 @@
    "value": 151.3,
    "unit": "km2",
    "surface": "151,3 km2",
-   "sentence": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2 (58,4 mi2).",
+   "sentence": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2.",
    "section": "Géographie"
   },
   "f8": {
-   "kind": "number",
-   "value": 58.4,
-   "surface": "58,4",
-   "sentence": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2 (58,4 mi2).",
-   "section": "Géographie"
-  },
-  "f9": {
    "kind": "measure",
    "value": 142.2,
    "unit": "km2",
    "surface": "142,2 km2",
-   "sentence": "142,2 km2 (54,9 mi2) de sa superficie sont situés en surface tandis que 9,1 km2 (3,5 mi2) (6,01 %) sont constitués d'eau.",
+   "sentence": "142,2 km2 de sa superficie sont situés en surface tandis que 9,1 km2 sont constitués d'eau.",
    "section": "Géographie"
   },
-  "f10": {
-   "kind": "number",
-   "value": 54.9,
-   "surface": "54,9",
-   "sentence": "142,2 km2 (54,9 mi2) de sa superficie sont situés en surface tandis que 9,1 km2 (3,5 mi2) (6,01 %) sont constitués d'eau.",
-   "section": "Géographie"
-  },
-  "f11": {
+  "f9": {
    "kind": "measure",
    "value": 9.1,
    "unit": "km2",
    "surface": "9,1 km2",
-   "sentence": "142,2 km2 (54,9 mi2) de sa superficie sont situés en surface tandis que 9,1 km2 (3,5 mi2) (6,01 %) sont constitués d'eau.",
+   "sentence": "142,2 km2 de sa superficie sont situés en surface tandis que 9,1 km2 sont constitués d'eau.",
    "section": "Géographie"
   },
-  "f12": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3,5",
-   "sentence": "142,2 km2 (54,9 mi2) de sa superficie sont situés en surface tandis que 9,1 km2 (3,5 mi2) (6,01 %) sont constitués d'eau.",
-   "section": "Géographie"
-  },
-  "f13": {
-   "kind": "measure",
-   "value": 6.01,
-   "unit": "%",
-   "surface": "6,01 %",
-   "sentence": "142,2 km2 (54,9 mi2) de sa superficie sont situés en surface tandis que 9,1 km2 (3,5 mi2) (6,01 %) sont constitués d'eau.",
-   "section": "Géographie"
-  },
-  "f14": {
+  "f10": {
    "kind": "number",
    "value": 209,
    "surface": "209",
    "sentence": "Son altitude varie entre 209 et 323 mètres au-dessus du niveau de la mer.",
    "section": "Géographie"
   },
-  "f15": {
+  "f11": {
    "kind": "measure",
    "value": 323,
    "unit": "mètres",
@@ -169,145 +140,89 @@
    "sentence": "Son altitude varie entre 209 et 323 mètres au-dessus du niveau de la mer.",
    "section": "Géographie"
   },
-  "f16": {
+  "f12": {
    "kind": "measure",
    "value": 22,
    "unit": "°c",
    "surface": "22 °C",
-   "sentence": "L'été est chaud et fréquemment humide avec une température du mois le plus chaud supérieure à 22 °C (juillet avec 23,2 °C).",
+   "sentence": "L'été est chaud et fréquemment humide avec une température du mois le plus chaud supérieure à 22 °C.",
    "section": "Géographie"
   },
-  "f17": {
-   "kind": "measure",
-   "value": 23.2,
-   "unit": "°c",
-   "surface": "23,2 °C",
-   "sentence": "L'été est chaud et fréquemment humide avec une température du mois le plus chaud supérieure à 22 °C (juillet avec 23,2 °C).",
-   "section": "Géographie"
-  },
-  "f18": {
+  "f13": {
    "kind": "measure",
    "value": 3,
    "unit": "°c",
    "surface": "3 °C",
-   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C (janvier avec −9,1 °C), malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec (février avec 20 mm) sont supérieures à 1/10 des précipitations du mois estival le plus humide (août avec 110 mm).",
+   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C, malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec sont supérieures à 1/10 des précipitations du mois estival le plus humide.",
    "section": "Géographie"
   },
-  "f19": {
-   "kind": "measure",
-   "value": 9.1,
-   "unit": "°c",
-   "surface": "9,1 °C",
-   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C (janvier avec −9,1 °C), malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec (février avec 20 mm) sont supérieures à 1/10 des précipitations du mois estival le plus humide (août avec 110 mm).",
-   "section": "Géographie"
-  },
-  "f20": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "mm",
-   "surface": "20 mm",
-   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C (janvier avec −9,1 °C), malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec (février avec 20 mm) sont supérieures à 1/10 des précipitations du mois estival le plus humide (août avec 110 mm).",
-   "section": "Géographie"
-  },
-  "f21": {
+  "f14": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C (janvier avec −9,1 °C), malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec (février avec 20 mm) sont supérieures à 1/10 des précipitations du mois estival le plus humide (août avec 110 mm).",
+   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C, malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec sont supérieures à 1/10 des précipitations du mois estival le plus humide.",
    "section": "Géographie"
   },
-  "f22": {
-   "kind": "measure",
-   "value": 110,
-   "unit": "mm",
-   "surface": "110 mm",
-   "sentence": "L'hiver est froid et assez sec avec une température moyenne du mois le plus froid inférieure à −3 °C (janvier avec −9,1 °C), malgré cela le climat n'est pas qualifié de climat continental avec hiver sec car les précipitations du mois hivernal le plus sec (février avec 20 mm) sont supérieures à 1/10 des précipitations du mois estival le plus humide (août avec 110 mm).",
-   "section": "Géographie"
-  },
-  "f23": {
+  "f15": {
    "kind": "measure",
    "value": 7.4,
    "unit": "°c",
    "surface": "7,4 °C",
-   "sentence": "Parmi toutes les grandes métropoles des États-Unis, Minneapolis-Saint Paul est la plus froide avec seulement 7,4 °C (7,5 °C) de moyenne de températures.",
+   "sentence": "Parmi toutes les grandes métropoles des États-Unis, Minneapolis-Saint Paul est la plus froide avec seulement 7,4 °C de moyenne de températures.",
    "section": "Géographie"
   },
-  "f24": {
-   "kind": "measure",
-   "value": 7.5,
-   "unit": "°c",
-   "surface": "7,5 °C",
-   "sentence": "Parmi toutes les grandes métropoles des États-Unis, Minneapolis-Saint Paul est la plus froide avec seulement 7,4 °C (7,5 °C) de moyenne de températures.",
-   "section": "Géographie"
-  },
-  "f25": {
+  "f16": {
    "kind": "measure",
    "value": 42,
    "unit": "°c",
    "surface": "42 °C",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
+   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C.",
    "section": "Géographie"
   },
-  "f26": {
-   "kind": "measure",
-   "value": 42.2,
-   "unit": "°c",
-   "surface": "42,2 °C",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
-   "section": "Géographie"
-  },
-  "f27": {
+  "f17": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
+   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C.",
    "section": "Géographie"
   },
-  "f28": {
+  "f18": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
+   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C.",
    "section": "Géographie"
   },
-  "f29": {
+  "f19": {
    "kind": "number",
    "value": 21,
    "surface": "21",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
+   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C.",
    "section": "Géographie"
   },
-  "f30": {
+  "f20": {
    "kind": "date",
    "value": "1888",
    "surface": "1888",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
+   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C.",
    "section": "Géographie"
   },
-  "f31": {
+  "f21": {
    "kind": "measure",
    "value": 40.55,
    "unit": "°c",
    "surface": "40,55 °C",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
+   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C.",
    "section": "Géographie"
   },
-  "f32": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "°c",
-   "surface": "40 °C",
-   "sentence": "La plus haute température jamais enregistrée à Minneapolis fut de 42 °C (42,2 °C) le 14 juillet 1936, alors que la plus froide fut constatée le 21 janvier 1888 avec −40,55 °C (−40 °C).",
-   "section": "Géographie"
-  },
-  "f33": {
+  "f22": {
    "kind": "date",
    "value": "1983",
    "surface": "1983",
    "sentence": "L'hiver le plus neigeux fut celui de 1983-1984 lorsqu'au total 2,50 m de neige tombèrent sur la ville.",
    "section": "Géographie"
   },
-  "f34": {
+  "f23": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
@@ -315,225 +230,189 @@
    "sentence": "L'hiver le plus neigeux fut celui de 1983-1984 lorsqu'au total 2,50 m de neige tombèrent sur la ville.",
    "section": "Géographie"
   },
-  "f35": {
+  "f24": {
    "kind": "date",
    "value": "1680",
    "surface": "1680",
-   "sentence": "Avant la seconde moitié du XIXe siècle, l'histoire de Minneapolis est intimement liée à celle des Sioux, tribu d'Amérindiens qui occupaient à l'origine son territoire bien avant l'arrivée des premiers Européens dans les années 1680 ; le père Louis Hennepin, mandaté par la France, fut le premier à explorer la région.",
+   "sentence": "Avant la seconde moitié du XIXe siècle, l'histoire de Minneapolis est intimement liée à celle des Sioux, tribu d'Amérindiens qui occupaient à l'origine son territoire bien avant l'arrivée des premiers Européens dans les années 1680; le père Louis Hennepin, mandaté par la France, fut le premier à explorer la région.",
    "section": "Histoire"
   },
-  "f36": {
+  "f25": {
    "kind": "date",
    "value": "1680",
    "surface": "1680",
    "sentence": "La mainmise de la France sur ce territoire commença dès 1680 après l'expédition de Louis Hennepin.",
    "section": "Histoire"
   },
-  "f37": {
+  "f26": {
    "kind": "date",
    "value": "1763",
    "surface": "1763",
    "sentence": "En 1763, à la suite du traité de Paris découlant de la guerre de Sept Ans, la zone du Minnesota actuel à l'ouest du Mississippi et au sud de la baie d'Hudson fut cédée à l'Espagne.",
    "section": "Histoire"
   },
-  "f38": {
+  "f27": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Faisant partie de la Nouvelle-France, le territoire ouest de Minneapolis revint brièvement sous contrôle français en 1803 avant d'être intégré définitivement dans les États-Unis à la suite de la vente de la Louisiane.",
    "section": "Histoire"
   },
-  "f39": {
+  "f28": {
    "kind": "date",
    "value": "1763",
    "surface": "1763",
    "sentence": "La partie de la ville située à l'est du Mississippi fut transférée à l'Angleterre, également à l'issue du traité de Paris de 1763.",
    "section": "Histoire"
   },
-  "f40": {
-   "kind": "date",
-   "value": "1817",
-   "surface": "1817",
-   "sentence": "Dans l'objectif d'asseoir l'autorité des États-Unis sur les territoires indiens de l'ouest, John Caldwell Calhoun, Secrétaire à la Guerre des États-Unis, avait chargé l'armée de reconnaître les terres pour y établir le camp de Fort Snelling (1817), l'une des premières colonies de l'État.",
-   "section": "Histoire"
-  },
-  "f41": {
-   "kind": "date",
-   "value": "1839",
-   "surface": "1839",
-   "sentence": "Les géomètres de l'armée baptisèrent spontanément le plan d'eau naturel découvert sur le site « lac Calhoun » en honneur au ministre et l'on retrouve ce nom sur la carte d'état-major de Fort Snelling du lieutenant James L. Thompson (1839).",
-   "section": "Histoire"
-  },
-  "f42": {
+  "f29": {
    "kind": "date",
    "value": "1805",
    "surface": "1805",
    "sentence": "L'armée américaine bâtit le Fort Snelling sur un territoire acheté aux Sioux en 1805.",
    "section": "Histoire"
   },
-  "f43": {
+  "f30": {
    "kind": "date",
    "value": "1819",
    "surface": "1819",
    "sentence": "Ce terrain qu'occupait le fort dès sa construction en 1819 correspond aujourd'hui à la totalité de Minneapolis et à la moitié de Saint Paul.",
    "section": "Histoire"
   },
-  "f44": {
+  "f31": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
-   "sentence": "Ce n'est qu'en 1850 que le tout premier non-militaire fut autorisé à s'y installer ; il s'agissait de John H. Stevens qui avait obtenu ce droit en échange de son offre d'un service de bac à travers les fleuves pour relier le fort à la commune proche de Saint Anthony.",
+   "sentence": "Ce n'est qu'en 1850 que le tout premier non-militaire fut autorisé à s'y installer; il s'agissait de John H. Stevens qui avait obtenu ce droit en échange de son offre d'un service de bac à travers les fleuves pour relier le fort à la commune proche de Saint Anthony.",
    "section": "Histoire"
   },
-  "f45": {
+  "f32": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
-   "sentence": "Peu après, en 1852, le président américain Millard Fillmore approuva une loi (act) du Congrès accordant une réduction de la surface sous protection de Fort Snelling, ouvrant alors la partie à l'ouest du fleuve aux implantations civiles.",
+   "sentence": "Peu après, en 1852, le président américain Millard Fillmore approuva une loi du Congrès accordant une réduction de la surface sous protection de Fort Snelling, ouvrant alors la partie à l'ouest du fleuve aux implantations civiles.",
    "section": "Histoire"
   },
-  "f46": {
+  "f33": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "C'est finalement « Minneapolis » qui sera retenu après qu'un professeur d'école a proposé « Minnehapolis » au St. Anthony Express, journal local qui publia l'idée le 5 novembre 1852, laquelle fut adoptée une semaine plus tard.",
+   "sentence": "C'est finalement «Minneapolis» qui sera retenu après qu'un professeur d'école a proposé «Minnehapolis» au St. Anthony Express, journal local qui publia l'idée le 5 novembre 1852, laquelle fut adoptée une semaine plus tard.",
    "section": "Histoire"
   },
-  "f47": {
+  "f34": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
-   "sentence": "C'est finalement « Minneapolis » qui sera retenu après qu'un professeur d'école a proposé « Minnehapolis » au St. Anthony Express, journal local qui publia l'idée le 5 novembre 1852, laquelle fut adoptée une semaine plus tard.",
+   "sentence": "C'est finalement «Minneapolis» qui sera retenu après qu'un professeur d'école a proposé «Minnehapolis» au St. Anthony Express, journal local qui publia l'idée le 5 novembre 1852, laquelle fut adoptée une semaine plus tard.",
    "section": "Histoire"
   },
-  "f48": {
+  "f35": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
-   "sentence": "Minneapolis fut considérée comme une ville dès 1856 par la législation territoriale du Minnesota (Minnesota Territorial Legislature).",
+   "sentence": "Minneapolis fut considérée comme une ville dès 1856 par la législation territoriale du Minnesota.",
    "section": "Histoire"
   },
-  "f49": {
+  "f36": {
    "kind": "date",
    "value": "1867",
    "surface": "1867",
    "sentence": "En 1867, Dorilus Morrison fut élu en tant que premier maire de la ville.",
    "section": "Histoire"
   },
-  "f50": {
+  "f37": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "Longtemps mise en suspens, la fusion de St Anthony avec Minneapolis ne fut effectuée qu'en 1872 après que l'agglomération se fut rapidement développée à la suite de la guerre de Sécession.",
    "section": "Histoire"
   },
-  "f51": {
+  "f38": {
    "kind": "date",
    "value": "1932",
    "surface": "1932",
-   "sentence": "Avec la naissance des premières multinationales du secteur en son sein comme General Mills ou Pillsbury, Minneapolis fut souvent surnommée la « capitale des minoteries » notamment car jusqu'en 1932, elle fit partie de la région du monde avec la plus forte production de grains.",
+   "sentence": "Avec la naissance des premières multinationales du secteur en son sein comme General Mills ou Pillsbury, Minneapolis fut souvent surnommée la «capitale des minoteries» notamment car jusqu'en 1932, elle fit partie de la région du monde avec la plus forte production de grains.",
    "section": "Histoire"
   },
-  "f52": {
+  "f39": {
    "kind": "date",
    "value": "1916",
    "surface": "1916",
    "sentence": "La ville élit en 1916 Thomas Van Lear comme maire.",
    "section": "Histoire"
   },
-  "f53": {
+  "f40": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "Il ne reste cependant que deux ans en fonction, étant battu en 1918 dans le climat germanophobe marquant la fin de la Première guerre mondiale, et n'aura guère eu le temps de donner une orientation socialiste à la ville.",
    "section": "Histoire"
   },
-  "f54": {
+  "f41": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Les années 1920 et 1930 constituèrent une période relativement noire pour la réputation de Minneapolis, avec le développement du crime organisé et de la corruption, illustré par le parrain le plus célèbre alors, Kid Cann.",
    "section": "Histoire"
   },
-  "f55": {
+  "f42": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "Les années 1920 et 1930 constituèrent une période relativement noire pour la réputation de Minneapolis, avec le développement du crime organisé et de la corruption, illustré par le parrain le plus célèbre alors, Kid Cann.",
    "section": "Histoire"
   },
-  "f56": {
+  "f43": {
    "kind": "date",
    "value": "1931",
    "surface": "1931",
    "sentence": "En 1931, le chômage et la misère provoqués par la Grande Dépression entraînent des émeutes de la faim dans la ville.",
    "section": "Histoire"
   },
-  "f57": {
+  "f44": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "Pour remédier à ces problèmes, un vaste plan de renouvellement urbain fut lancé avec la destruction d'environ 200 bâtiments (soit près de 40 % de la ville) aussi bien insalubres que parfois à l'architecture recherchée.",
+   "sentence": "Pour remédier à ces problèmes, un vaste plan de renouvellement urbain fut lancé avec la destruction d'environ 200 bâtiments aussi bien insalubres que parfois à l'architecture recherchée.",
    "section": "Histoire"
   },
-  "f58": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "%",
-   "surface": "40 %",
-   "sentence": "Pour remédier à ces problèmes, un vaste plan de renouvellement urbain fut lancé avec la destruction d'environ 200 bâtiments (soit près de 40 % de la ville) aussi bien insalubres que parfois à l'architecture recherchée.",
-   "section": "Histoire"
-  },
-  "f59": {
+  "f45": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "Aujourd'hui, certains problèmes persistent encore, bien qu'un programme de déségrégation dans l'éducation ait été engagé dès 1972.",
    "section": "Histoire"
   },
-  "f60": {
+  "f46": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "La seconde période trouble pour la ville s'établit pendant les années 1990, lorsque le taux de criminalité avec l'influence montante des gangs augmenta considérablement, notamment dans les quartiers pauvres.",
    "section": "Histoire"
   },
-  "f61": {
+  "f47": {
    "kind": "number",
    "value": 97,
    "surface": "97",
-   "sentence": "Après avoir atteint un nombre record de 97 homicides en 1995, Minneapolis gagna le surnom de « Murderapolis » (murder signifiant meurtre en anglais).",
+   "sentence": "Après avoir atteint un nombre record de 97 homicides en 1995, Minneapolis gagna le surnom de «Murderapolis».",
    "section": "Histoire"
   },
-  "f62": {
+  "f48": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "Après avoir atteint un nombre record de 97 homicides en 1995, Minneapolis gagna le surnom de « Murderapolis » (murder signifiant meurtre en anglais).",
+   "sentence": "Après avoir atteint un nombre record de 97 homicides en 1995, Minneapolis gagna le surnom de «Murderapolis».",
    "section": "Histoire"
   },
-  "f63": {
+  "f49": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "De nombreuses mesures environnementales ont été prises, comme en 2005, lorsque l'interdiction de fumer dans les lieux publics fut adoptée.",
    "section": "Histoire"
   },
-  "f64": {
-   "kind": "date",
-   "value": "1927",
-   "surface": "1927",
-   "sentence": "Le Walker Art Center (ouvert en 1927) fut un des initiateurs du mouvement pop art alors que le Guthrie Theater (créé en 1963) accueillit de nombreux artistes récompensés par les Emmy Awards ou les oscars du cinéma.",
-   "section": "Histoire"
-  },
-  "f65": {
-   "kind": "date",
-   "value": "1963",
-   "surface": "1963",
-   "sentence": "Le Walker Art Center (ouvert en 1927) fut un des initiateurs du mouvement pop art alors que le Guthrie Theater (créé en 1963) accueillit de nombreux artistes récompensés par les Emmy Awards ou les oscars du cinéma.",
-   "section": "Histoire"
-  },
-  "f66": {
+  "f50": {
    "kind": "measure",
    "value": 2006,
    "unit": "au",
@@ -541,63 +420,63 @@
    "sentence": "Le nouveau Guthrie Theater, servi par une architecture avant-gardiste, a ouvert ses portes en 2006 au milieu des anciens moulins reconvertis.",
    "section": "Histoire"
   },
-  "f67": {
+  "f51": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
    "sentence": "Dans les années 1980, une nouvelle vague de musiciens, représentée par des artistes comme Prince, les Hüsker Dü, The Replacements ou encore Soul Asylum, contribuèrent également à bâtir la réputation artistique de la ville et donnèrent naissance à un courant musical, le Minneapolis sound.",
    "section": "Histoire"
   },
-  "f68": {
+  "f52": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Le 25 mai 2020, un homme Afro-Américain, du nom de George Perry Floyd, trouve la mort lors d'une interpellation par des policiers dans la région métropolitaine de Minneapolis-Saint Paul.",
    "section": "Violences policières"
   },
-  "f69": {
+  "f53": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Le 25 mai 2020, un homme Afro-Américain, du nom de George Perry Floyd, trouve la mort lors d'une interpellation par des policiers dans la région métropolitaine de Minneapolis-Saint Paul.",
    "section": "Violences policières"
   },
-  "f70": {
+  "f54": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
    "sentence": "Début 2026, des effectifs des agents fédéraux de la United States Immigration and Customs Enforcement, dit ICE, sont déployés de façon exceptionnelle sur décision de la Maison Blanche.",
    "section": "Violences policières"
   },
-  "f71": {
+  "f55": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Le 6 janvier, une citoyenne, mère de trois enfants, est abattue à bout portant au volant de sa voiture.",
    "section": "Violences policières"
   },
-  "f72": {
+  "f56": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "La population se lève et de nombreuses manifestations contre ces agissements qu'ils jugent illégaux, dont une grève générale le 23 janvier.",
    "section": "Violences policières"
   },
-  "f73": {
+  "f57": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "Le 30 janvier 2026, Donald Trump qualifie Alex Pretti, d'« agitateur et, peut-être, insurgé ».",
+   "sentence": "Le 30 janvier 2026, Donald Trump qualifie Alex Pretti, d'«agitateur et, peut-être, insurgé».",
    "section": "Violences policières"
   },
-  "f74": {
+  "f58": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
-   "sentence": "Le 30 janvier 2026, Donald Trump qualifie Alex Pretti, d'« agitateur et, peut-être, insurgé ».",
+   "sentence": "Le 30 janvier 2026, Donald Trump qualifie Alex Pretti, d'«agitateur et, peut-être, insurgé».",
    "section": "Violences policières"
   },
-  "f75": {
+  "f59": {
    "kind": "measure",
    "value": 5,
    "unit": "ans",
@@ -605,25 +484,25 @@
    "sentence": "Les vidéos de la mort de Renee Good et d'Alex Pretti font le tour du monde, ainsi que les images de l'arrestation d'un enfant de 5 ans, cartable sur le dos.",
    "section": "Violences policières"
   },
-  "f76": {
+  "f60": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Le 28 janvier 2026, quelques jours après la mort d'Alex Pretti et quelques semaines après celle de Renee Good des mains des agents du ICE, Le chanteur Bruce Springsteen met en ligne la chanson Streets of Minneapolis, écrite et enregistrée en deux jours, afin de protester contre ces assassinats.",
    "section": "Violences policières"
   },
-  "f77": {
+  "f61": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
    "sentence": "Le 28 janvier 2026, quelques jours après la mort d'Alex Pretti et quelques semaines après celle de Renee Good des mains des agents du ICE, Le chanteur Bruce Springsteen met en ligne la chanson Streets of Minneapolis, écrite et enregistrée en deux jours, afin de protester contre ces assassinats.",
    "section": "Violences policières"
   },
-  "f78": {
+  "f62": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
-   "sentence": "En février 2026, confronté à cette résistance de la population locale, la Maison Blanche décide de retirer une bonne partie des effectifs fédéraux de l'Immigration and Customs Enforcement (ICE, la police de l'immigration) et de la Customs and Border Protection (CBP, l'équivalent des douanes), déployées.",
+   "sentence": "En février 2026, confronté à cette résistance de la population locale, la Maison Blanche décide de retirer une bonne partie des effectifs fédéraux de l'Immigration and Customs Enforcement et de la Customs and Border Protection, déployées.",
    "section": "Violences policières"
   }
  },

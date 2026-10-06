@@ -50,55 +50,31 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Alfred Russel Wallace (8 janvier 1823 – 7 novembre 1913) est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1823",
-   "surface": "1823",
-   "sentence": "Alfred Russel Wallace (8 janvier 1823 – 7 novembre 1913) est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Alfred Russel Wallace (8 janvier 1823 – 7 novembre 1913) est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1913",
-   "surface": "1913",
-   "sentence": "Alfred Russel Wallace (8 janvier 1823 – 7 novembre 1913) est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
-  },
-  "f5": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
    "sentence": "Ses travaux lui valurent, entre autres, la Royal Medal en 1868, la médaille linnéenne en 1892 et la médaille d’or Darwin-Wallace en 1908."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1892",
    "surface": "1892",
    "sentence": "Ses travaux lui valurent, entre autres, la Royal Medal en 1868, la médaille linnéenne en 1892 et la médaille d’or Darwin-Wallace en 1908."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "1908",
    "surface": "1908",
    "sentence": "Ses travaux lui valurent, entre autres, la Royal Medal en 1868, la médaille linnéenne en 1892 et la médaille d’or Darwin-Wallace en 1908."
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
-   "sentence": "À l'âge de cinq ans, Wallace déménagea avec sa famille à Hertford, au nord de Londres ; il fit ses études à la Hertford Grammar School jusqu'à ce que des difficultés financières contraignent sa famille à le retirer de l'école en 1836.",
+   "sentence": "À l'âge de cinq ans, Wallace déménagea avec sa famille à Hertford, au nord de Londres; il fit ses études à la Hertford Grammar School jusqu'à ce que des difficultés financières contraignent sa famille à le retirer de l'école en 1836.",
    "section": "Biographie"
   },
-  "f9": {
+  "f5": {
    "kind": "measure",
    "value": 19,
    "unit": "ans",
@@ -106,35 +82,35 @@
    "sentence": "Wallace s'installa alors chez son frère John, âgé de 19 ans et apprenti dans le bâtiment, et travailla avec lui à Londres.",
    "section": "Biographie"
   },
-  "f10": {
+  "f6": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "Il quitta Londres en 1837, emménagea chez William et devint son apprenti pendant six ans.",
    "section": "Biographie"
   },
-  "f11": {
+  "f7": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "Il déménagea à Kington fin 1839, près de la frontière galloise, pour finalement s'installer à Neath dans le comté de Glamorgan.",
    "section": "Biographie"
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "Wallace exécuta des travaux d'arpentage dans l'ouest de l’Angleterre et au Pays de Galles de 1840 à 1843.",
    "section": "Biographie"
   },
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "Wallace exécuta des travaux d'arpentage dans l'ouest de l’Angleterre et au Pays de Galles de 1840 à 1843.",
    "section": "Biographie"
   },
-  "f14": {
+  "f10": {
    "kind": "measure",
    "value": 19,
    "unit": "ans",
@@ -142,308 +118,273 @@
    "sentence": "Celui-ci n'avait que 19 ans et avait déjà publié un article sur les scarabées dans le journal Zoologist.",
    "section": "Biographie"
   },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1845",
    "surface": "1845",
    "sentence": "Lorsque William mourut en mars 1845, Wallace démissionna afin de prendre en charge la gestion du cabinet de son frère à Neath mais, malgré l'aide de son frère John, il ne parvint pas à faire marcher les affaires.",
    "section": "Biographie"
   },
-  "f16": {
+  "f12": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
-   "sentence": "À l'automne 1846, les deux frères purent acheter une maison près de Neath, puis ils y emménagèrent avec leur mère et leur sœur Fanny (leur père était mort en 1843).",
+   "sentence": "À l'automne 1846, les deux frères purent acheter une maison près de Neath, puis ils y emménagèrent avec leur mère et leur sœur Fanny.",
    "section": "Biographie"
   },
-  "f17": {
-   "kind": "date",
-   "value": "1843",
-   "surface": "1843",
-   "sentence": "À l'automne 1846, les deux frères purent acheter une maison près de Neath, puis ils y emménagèrent avec leur mère et leur sœur Fanny (leur père était mort en 1843).",
-   "section": "Biographie"
-  },
-  "f18": {
+  "f13": {
    "kind": "date",
    "value": "1848",
    "surface": "1848",
    "sentence": "Wallace, accompagné d'Henry Bates, partit donc en 1848 pour le Brésil à bord du Mischief.",
    "section": "Biographie"
   },
-  "f19": {
+  "f14": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
-   "sentence": "Ils furent rejoints brièvement en 1849 par Richard Spruce, un jeune explorateur et botaniste, ainsi que par le plus jeune frère de Wallace, Herbert ; celui-ci partit peu de temps après (il mourut deux années plus tard de la fièvre jaune) tandis que Spruce, comme Bates, resta plus de dix ans en Amérique du Sud.",
+   "sentence": "Ils furent rejoints brièvement en 1849 par Richard Spruce, un jeune explorateur et botaniste, ainsi que par le plus jeune frère de Wallace, Herbert; celui-ci partit peu de temps après tandis que Spruce, comme Bates, resta plus de dix ans en Amérique du Sud.",
    "section": "Biographie"
   },
-  "f20": {
+  "f15": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Il embarqua pour l'Angleterre sur le Helen le 12 juillet 1852.",
    "section": "Biographie"
   },
-  "f21": {
+  "f16": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "Il embarqua pour l'Angleterre sur le Helen le 12 juillet 1852.",
    "section": "Biographie"
   },
-  "f22": {
+  "f17": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Wallace passa les 18 mois suivant son retour en Angleterre à vivre grâce au paiement de l'assurance pour la perte de sa collection et grâce à la vente de ce qu'il avait pu sauver du naufrage.",
    "section": "Biographie"
   },
-  "f23": {
+  "f18": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "De 1854 à 1862, Wallace explora l'archipel Malais ou Indes orientales (aujourd’hui la Malaisie et l'Indonésie) afin de recueillir des spécimens destinés à être vendus et d'étudier la nature.",
+   "sentence": "De 1854 à 1862, Wallace explora l'archipel Malais ou Indes orientales afin de recueillir des spécimens destinés à être vendus et d'étudier la nature.",
    "section": "Biographie"
   },
-  "f24": {
+  "f19": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
-   "sentence": "De 1854 à 1862, Wallace explora l'archipel Malais ou Indes orientales (aujourd’hui la Malaisie et l'Indonésie) afin de recueillir des spécimens destinés à être vendus et d'étudier la nature.",
+   "sentence": "De 1854 à 1862, Wallace explora l'archipel Malais ou Indes orientales afin de recueillir des spécimens destinés à être vendus et d'étudier la nature.",
    "section": "Biographie"
   },
-  "f25": {
+  "f20": {
    "kind": "number",
    "value": 125000,
    "surface": "125 000",
-   "sentence": "Wallace collecta plus de 125 000 spécimens dans l’archipel Malais (dont quelque 80 000 coléoptères) ; plus d'un millier étaient des espèces inconnues jusqu'alors.",
+   "sentence": "Wallace collecta plus de 125 000 spécimens dans l’archipel Malais; plus d'un millier étaient des espèces inconnues jusqu'alors.",
    "section": "Biographie"
   },
-  "f26": {
-   "kind": "number",
-   "value": 80000,
-   "surface": "80 000",
-   "sentence": "Wallace collecta plus de 125 000 spécimens dans l’archipel Malais (dont quelque 80 000 coléoptères) ; plus d'un millier étaient des espèces inconnues jusqu'alors.",
-   "section": "Biographie"
-  },
-  "f27": {
+  "f21": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "Il fit le récit de ses découvertes et de son aventure en 1869 dans The Malay Archipelago.",
    "section": "Biographie"
   },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
    "sentence": "Wallace revint en Angleterre en 1862 et emménagea chez sa sœur Fanny Sims et son mari Thomas.",
    "section": "Biographie"
   },
-  "f29": {
+  "f23": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
-   "sentence": "Durant les années 1860, Wallace écrivit des articles et donna des conférences sur la sélection naturelle ; il correspondit également avec Darwin sur nombre de sujets dont la sélection sexuelle, la coloration d'avertissement et l'effet possible de la sélection naturelle sur l'hybridation et la divergence des espèces.",
+   "sentence": "Durant les années 1860, Wallace écrivit des articles et donna des conférences sur la sélection naturelle; il correspondit également avec Darwin sur nombre de sujets dont la sélection sexuelle, la coloration d'avertissement et l'effet possible de la sélection naturelle sur l'hybridation et la divergence des espèces.",
    "section": "Biographie"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "1865",
    "surface": "1865",
    "sentence": "Il commença par ailleurs à s'intéresser au spiritisme en 1865.",
    "section": "Biographie"
   },
-  "f31": {
+  "f25": {
    "kind": "date",
    "value": "1864",
    "surface": "1864",
    "sentence": "Wallace se fiança en 1864 avec une jeune femme, identifiée dans son autobiographie sous le nom de Miss L., mais elle rompit les fiançailles.",
    "section": "Biographie"
   },
-  "f32": {
+  "f26": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "Il épousa Annie Mitten en 1866.",
    "section": "Biographie"
   },
-  "f33": {
+  "f27": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "Le couple fit construire une maison sur le terrain que Wallace louait à Grays dans l'Essex et y vécut jusqu'en 1876.",
    "section": "Biographie"
   },
-  "f34": {
-   "kind": "date",
-   "value": "1867",
-   "surface": "1867",
-   "sentence": "Ils eurent trois enfants : Herbert (1867-1874), Violet (1869-1945) et William (1871-1951).",
-   "section": "Biographie"
-  },
-  "f35": {
-   "kind": "date",
-   "value": "1869",
-   "surface": "1869",
-   "sentence": "Ils eurent trois enfants : Herbert (1867-1874), Violet (1869-1945) et William (1871-1951).",
-   "section": "Biographie"
-  },
-  "f36": {
-   "kind": "date",
-   "value": "1871",
-   "surface": "1871",
-   "sentence": "Ils eurent trois enfants : Herbert (1867-1874), Violet (1869-1945) et William (1871-1951).",
-   "section": "Biographie"
-  },
-  "f37": {
+  "f28": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "Vers la fin des années 1860 et dans les années 1870, Wallace s'inquiétait de la sécurité financière de sa famille.",
    "section": "Biographie"
   },
-  "f38": {
+  "f29": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "Vers la fin des années 1860 et dans les années 1870, Wallace s'inquiétait de la sécurité financière de sa famille.",
    "section": "Biographie"
   },
-  "f39": {
+  "f30": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Afin de rester solvable, Wallace nota les examens gouvernementaux, écrivit 25 articles entre 1872 et 1876 pour des sommes modiques et fut engagé par Lyell et Darwin pour les aider à corriger certains de leurs travaux.",
    "section": "Biographie"
   },
-  "f40": {
+  "f31": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "Afin de rester solvable, Wallace nota les examens gouvernementaux, écrivit 25 articles entre 1872 et 1876 pour des sommes modiques et fut engagé par Lyell et Darwin pour les aider à corriger certains de leurs travaux.",
    "section": "Biographie"
   },
-  "f41": {
+  "f32": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "Afin de rester solvable, Wallace nota les examens gouvernementaux, écrivit 25 articles entre 1872 et 1876 pour des sommes modiques et fut engagé par Lyell et Darwin pour les aider à corriger certains de leurs travaux.",
    "section": "Biographie"
   },
-  "f42": {
+  "f33": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "En 1876, Wallace eut besoin d'une avance de £ 500 de la part de l'éditeur de The Geographical Distribution of Animals afin d'éviter de vendre ses biens personnels.",
    "section": "Biographie"
   },
-  "f43": {
+  "f34": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "En 1876, Wallace eut besoin d'une avance de £ 500 de la part de l'éditeur de The Geographical Distribution of Animals afin d'éviter de vendre ses biens personnels.",
    "section": "Biographie"
   },
-  "f44": {
+  "f35": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "La pension annuelle de 200 £ accordée en 1881, ainsi que les revenus tirés de ses livres, permirent à Wallace de stabiliser ses finances.",
    "section": "Biographie"
   },
-  "f45": {
+  "f36": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
    "sentence": "La pension annuelle de 200 £ accordée en 1881, ainsi que les revenus tirés de ses livres, permirent à Wallace de stabiliser ses finances.",
    "section": "Biographie"
   },
-  "f46": {
+  "f37": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "Il n'écrivit que peu d’articles sur les questions sociales et politiques avant que cette association ne soit dissoute après la mort de Mill en 1873, mais en 1879, il participa sérieusement au débat sur la politique commerciale et la réforme agraire.",
    "section": "Biographie"
   },
-  "f47": {
+  "f38": {
    "kind": "date",
    "value": "1879",
    "surface": "1879",
    "sentence": "Il n'écrivit que peu d’articles sur les questions sociales et politiques avant que cette association ne soit dissoute après la mort de Mill en 1873, mais en 1879, il participa sérieusement au débat sur la politique commerciale et la réforme agraire.",
    "section": "Biographie"
   },
-  "f48": {
+  "f39": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
-   "sentence": "Il devint en 1881 le premier président de l'association nouvellement formée Land Nationalisation Society (Société de nationalisation de la terre).",
+   "sentence": "Il devint en 1881 le premier président de l'association nouvellement formée Land Nationalisation Society.",
    "section": "Biographie"
   },
-  "f49": {
+  "f40": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "Après avoir lu Looking Backward de Edward Bellamy en 1889, Wallace se déclara socialiste.",
    "section": "Biographie"
   },
-  "f50": {
+  "f41": {
    "kind": "date",
    "value": "1898",
    "surface": "1898",
    "sentence": "En 1898, Wallace écrivit un article défendant l'idée d’un système monétaire purement papier qui impressionna tellement l'économiste Irving Fisher que celui-ci lui dédicaça son livre, Stabilizing the Dollar, en 1920.",
    "section": "Biographie"
   },
-  "f51": {
+  "f42": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "En 1898, Wallace écrivit un article défendant l'idée d’un système monétaire purement papier qui impressionna tellement l'économiste Irving Fisher que celui-ci lui dédicaça son livre, Stabilizing the Dollar, en 1920.",
    "section": "Biographie"
   },
-  "f52": {
+  "f43": {
    "kind": "date",
    "value": "1880",
    "surface": "1880",
-   "sentence": "Il publia la suite de The Geographic Distribution of Animals en 1880 : Island Life.",
+   "sentence": "Il publia la suite de The Geographic Distribution of Animals en 1880: Island Life.",
    "section": "Biographie"
   },
-  "f53": {
+  "f44": {
    "kind": "date",
    "value": "1886",
    "surface": "1886",
    "sentence": "En novembre 1886, il entama un voyage de dix mois aux États-Unis et y donna une série de conférences.",
    "section": "Biographie"
   },
-  "f54": {
+  "f45": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
-   "sentence": "Il passa aussi une semaine au Colorado, avec pour guide la botaniste Alice Eastwood, à explorer la flore des Montagnes Rocheuses et à récolter les preuves qui le conduiraient à formuler une théorie selon laquelle la glaciation pourrait expliquer certains points communs entre la flore des montagnes européennes, asiatiques et nord-américaines, théorie qui fut publiée en 1891 dans l'article « English et American Flowers ».",
+   "sentence": "Il passa aussi une semaine au Colorado, avec pour guide la botaniste Alice Eastwood, à explorer la flore des Montagnes Rocheuses et à récolter les preuves qui le conduiraient à formuler une théorie selon laquelle la glaciation pourrait expliquer certains points communs entre la flore des montagnes européennes, asiatiques et nord-américaines, théorie qui fut publiée en 1891 dans l'article «English et American Flowers».",
    "section": "Biographie"
   },
-  "f55": {
+  "f46": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "Son livre Darwinism, publié en 1889, utilise les informations qu'il a recueillies durant son voyage aux États-Unis ainsi que celles qu’il avait rassemblées pour ses conférences.",
    "section": "Biographie"
   },
-  "f56": {
+  "f47": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Wallace mourut le 7 novembre 1913 à Old Orchard, la maison de campagne qu'il avait fait construire une dizaine d'années auparavant.",
    "section": "Biographie"
   },
-  "f57": {
+  "f48": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
    "sentence": "Wallace mourut le 7 novembre 1913 à Old Orchard, la maison de campagne qu'il avait fait construire une dizaine d'années auparavant.",
    "section": "Biographie"
   },
-  "f58": {
+  "f49": {
    "kind": "measure",
    "value": 90,
    "unit": "ans",
@@ -451,245 +392,245 @@
    "sentence": "Il avait 90 ans.",
    "section": "Biographie"
   },
-  "f59": {
+  "f50": {
    "kind": "date",
    "value": "1915",
    "surface": "1915",
    "sentence": "L'inauguration du médaillon eut lieu le 1er novembre 1915.",
    "section": "Biographie"
   },
-  "f60": {
+  "f51": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
    "sentence": "Il fut aussi profondément influencé par les travaux de Robert Chambers dans Vestiges of the Natural History of Creation, un ouvrage de vulgarisation très controversé publié anonymement en 1844 dans lequel l'auteur défendait l'idée d'une origine évolutionniste pour le système solaire, la terre et les êtres vivants.",
    "section": "Théorie de l'évolution"
   },
-  "f61": {
+  "f52": {
    "kind": "date",
    "value": "1845",
    "surface": "1845",
-   "sentence": "En 1845, Wallace écrivit à Henry Bates :\n« J'ai une meilleure opinion des Vestiges que vous ne semblez en avoir.",
+   "sentence": "En 1845, Wallace écrivit à Henry Bates:\n«J'ai une meilleure opinion des Vestiges que vous ne semblez en avoir.",
    "section": "Théorie de l'évolution"
   },
-  "f62": {
+  "f53": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
-   "sentence": "Pendant qu'il travaillait dans le bassin amazonien, il se rendit compte que les barrières géographiques – telles que l'Amazone et ses principaux affluents – séparaient souvent des variétés d'espèces très proches les unes des autres, et inclut ces observations dans son article « On the Monkeys of the Amazon » en 1853.",
+   "sentence": "Pendant qu'il travaillait dans le bassin amazonien, il se rendit compte que les barrières géographiques – telles que l'Amazone et ses principaux affluents – séparaient souvent des variétés d'espèces très proches les unes des autres, et inclut ces observations dans son article «On the Monkeys of the Amazon» en 1853.",
    "section": "Théorie de l'évolution"
   },
-  "f63": {
+  "f54": {
    "kind": "date",
    "value": "1855",
    "surface": "1855",
-   "sentence": "Vers la fin de l'article, il pose la question suivante : « Les espèces étroitement liées ont-elles jamais été séparées par un large intervalle de terre ? »\nEn février 1855, alors qu'il travaillait dans le Sarawak sur l'île de Bornéo, Wallace écrivit « Sur la loi qui a régulé l'introduction des espèces », un article qui fut publié dans Annals and Magazine of Natural History en septembre de la même année.",
+   "sentence": "En février 1855, alors qu'il travaillait dans le Sarawak sur l'île de Bornéo, Wallace écrivit «Sur la loi qui a régulé l'introduction des espèces», un article qui fut publié dans Annals and Magazine of Natural History en septembre de la même année.",
    "section": "Théorie de l'évolution"
   },
-  "f64": {
+  "f55": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "Bien que son ami Charles Darwin lui ait écrit en 1842 en exprimant son soutien à la théorie de la transmutation, Lyell avait continué à s'opposer fermement à cette idée.",
    "section": "Théorie de l'évolution"
   },
-  "f65": {
+  "f56": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "Début 1856, il parla de l'article de Wallace à Darwin, comme le fit Edward Blyth.",
    "section": "Théorie de l'évolution"
   },
-  "f66": {
+  "f57": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "Darwin s'y opposa dans un premier temps, puis entama l'écriture d'une ébauche sur son travail sur les espèces en mai 1856.",
    "section": "Théorie de l'évolution"
   },
-  "f67": {
+  "f58": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Wallace avait été convaincu, dès février 1858, par ses recherches biogéographiques dans l'archipel Malais de la réalité de l’évolution.",
    "section": "Théorie de l'évolution"
   },
-  "f68": {
+  "f59": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
-   "sentence": "Dans la première, datée du 1er mai 1857, Darwin nota que la lettre de Wallace du 10 octobre qu'il venait de recevoir ainsi que son article de 1855 « On the Law that has regulated the Introduction of New Species » montraient qu'ils pensaient tous deux de la même façon et arrivaient dans une certaine mesure à des conclusions similaires, ajoutant qu'il se préparait à publier ses travaux d'ici environ deux ans.",
+   "sentence": "Dans la première, datée du 1er mai 1857, Darwin nota que la lettre de Wallace du 10 octobre qu'il venait de recevoir ainsi que son article de 1855 «On the Law that has regulated the Introduction of New Species» montraient qu'ils pensaient tous deux de la même façon et arrivaient dans une certaine mesure à des conclusions similaires, ajoutant qu'il se préparait à publier ses travaux d'ici environ deux ans.",
    "section": "Théorie de l'évolution"
   },
-  "f69": {
+  "f60": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Dans la première, datée du 1er mai 1857, Darwin nota que la lettre de Wallace du 10 octobre qu'il venait de recevoir ainsi que son article de 1855 « On the Law that has regulated the Introduction of New Species » montraient qu'ils pensaient tous deux de la même façon et arrivaient dans une certaine mesure à des conclusions similaires, ajoutant qu'il se préparait à publier ses travaux d'ici environ deux ans.",
+   "sentence": "Dans la première, datée du 1er mai 1857, Darwin nota que la lettre de Wallace du 10 octobre qu'il venait de recevoir ainsi que son article de 1855 «On the Law that has regulated the Introduction of New Species» montraient qu'ils pensaient tous deux de la même façon et arrivaient dans une certaine mesure à des conclusions similaires, ajoutant qu'il se préparait à publier ses travaux d'ici environ deux ans.",
    "section": "Théorie de l'évolution"
   },
-  "f70": {
+  "f61": {
    "kind": "date",
    "value": "1855",
    "surface": "1855",
-   "sentence": "Dans la première, datée du 1er mai 1857, Darwin nota que la lettre de Wallace du 10 octobre qu'il venait de recevoir ainsi que son article de 1855 « On the Law that has regulated the Introduction of New Species » montraient qu'ils pensaient tous deux de la même façon et arrivaient dans une certaine mesure à des conclusions similaires, ajoutant qu'il se préparait à publier ses travaux d'ici environ deux ans.",
+   "sentence": "Dans la première, datée du 1er mai 1857, Darwin nota que la lettre de Wallace du 10 octobre qu'il venait de recevoir ainsi que son article de 1855 «On the Law that has regulated the Introduction of New Species» montraient qu'ils pensaient tous deux de la même façon et arrivaient dans une certaine mesure à des conclusions similaires, ajoutant qu'il se préparait à publier ses travaux d'ici environ deux ans.",
    "section": "Théorie de l'évolution"
   },
-  "f71": {
+  "f62": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "Dans la seconde lettre, datée du 22 décembre 1857, il se montre heureux que Wallace théorise sur la distribution, ajoutant que « sans spéculation il n’y a pas d'observation bonne et originale » tout en commentant « je crois que je vais beaucoup plus loin que vous ».",
+   "sentence": "Dans la seconde lettre, datée du 22 décembre 1857, il se montre heureux que Wallace théorise sur la distribution, ajoutant que «sans spéculation il n’y a pas d'observation bonne et originale» tout en commentant «je crois que je vais beaucoup plus loin que vous».",
    "section": "Théorie de l'évolution"
   },
-  "f72": {
+  "f63": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
-   "sentence": "Dans la seconde lettre, datée du 22 décembre 1857, il se montre heureux que Wallace théorise sur la distribution, ajoutant que « sans spéculation il n’y a pas d'observation bonne et originale » tout en commentant « je crois que je vais beaucoup plus loin que vous ».",
+   "sentence": "Dans la seconde lettre, datée du 22 décembre 1857, il se montre heureux que Wallace théorise sur la distribution, ajoutant que «sans spéculation il n’y a pas d'observation bonne et originale» tout en commentant «je crois que je vais beaucoup plus loin que vous».",
    "section": "Théorie de l'évolution"
   },
-  "f73": {
+  "f64": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
-   "sentence": "Wallace fit confiance à Darwin sur ce point et lui fit parvenir son essai de février 1858 « On the Tendency of Species to form Varieties » en lui demandant de le lire et de le transmettre à Lyell s'il pensait que cela avait de la valeur.",
+   "sentence": "Wallace fit confiance à Darwin sur ce point et lui fit parvenir son essai de février 1858 «On the Tendency of Species to form Varieties» en lui demandant de le lire et de le transmettre à Lyell s'il pensait que cela avait de la valeur.",
    "section": "Théorie de l'évolution"
   },
-  "f74": {
+  "f65": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Darwin reçut le manuscrit le 18 juin 1858.",
    "section": "Théorie de l'évolution"
   },
-  "f75": {
+  "f66": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Darwin reçut le manuscrit le 18 juin 1858.",
    "section": "Théorie de l'évolution"
   },
-  "f76": {
+  "f67": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "L'essai de Wallace fut présenté à la Société linnéenne de Londres le 1er juillet 1858, en même temps que des extraits d'un essai que Darwin avait montré en privé à Hooker en 1847 et une lettre qu'il avait écrite à Asa Gray en 1857.",
    "section": "Théorie de l'évolution"
   },
-  "f77": {
+  "f68": {
    "kind": "date",
    "value": "1847",
    "surface": "1847",
    "sentence": "L'essai de Wallace fut présenté à la Société linnéenne de Londres le 1er juillet 1858, en même temps que des extraits d'un essai que Darwin avait montré en privé à Hooker en 1847 et une lettre qu'il avait écrite à Asa Gray en 1857.",
    "section": "Théorie de l'évolution"
   },
-  "f78": {
+  "f69": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "L'essai de Wallace fut présenté à la Société linnéenne de Londres le 1er juillet 1858, en même temps que des extraits d'un essai que Darwin avait montré en privé à Hooker en 1847 et une lettre qu'il avait écrite à Asa Gray en 1857.",
    "section": "Théorie de l'évolution"
   },
-  "f79": {
+  "f70": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "La réaction à la lecture fut modérée, le président de la Société linnéenne disant en mai 1859 que cette année-ci n'avait pas été marquée par d'impressionnantes découvertes, mais grâce à la publication de L'Origine des espèces de Darwin plus tard en 1859, son importance devint évidente.",
    "section": "Théorie de l'évolution"
   },
-  "f80": {
+  "f71": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "La réaction à la lecture fut modérée, le président de la Société linnéenne disant en mai 1859 que cette année-ci n'avait pas été marquée par d'impressionnantes découvertes, mais grâce à la publication de L'Origine des espèces de Darwin plus tard en 1859, son importance devint évidente.",
    "section": "Théorie de l'évolution"
   },
-  "f81": {
+  "f72": {
    "kind": "date",
    "value": "1863",
    "surface": "1863",
-   "sentence": "Lors d'un incident en 1863 qui fit particulièrement plaisir à Darwin, Wallace publia un court article intitulé « Remarques sur l'article du Rév.",
+   "sentence": "Lors d'un incident en 1863 qui fit particulièrement plaisir à Darwin, Wallace publia un court article intitulé «Remarques sur l'article du Rév.",
    "section": "Théorie de l'évolution"
   },
-  "f82": {
+  "f73": {
    "kind": "date",
    "value": "1867",
    "surface": "1867",
-   "sentence": "Autre notable défense de L’Origine : « La création par la loi », publié en 1867 dans le Quaterly Journal of Science, où Wallace critique The Reign of Law, un livre écrit par le George Campbell, 8e duc d'Argyll, dans lequel il réfutait la théorie de la sélection naturelle.",
+   "sentence": "Autre notable défense de L’Origine: «La création par la loi», publié en 1867 dans le Quaterly Journal of Science, où Wallace critique The Reign of Law, un livre écrit par le George Campbell, 8e duc d'Argyll, dans lequel il réfutait la théorie de la sélection naturelle.",
    "section": "Théorie de l'évolution"
   },
-  "f83": {
+  "f74": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
-   "sentence": "Après une réunion de la British Association en 1870, Wallace écrivit à Darwin se plaignant qu'il n'y avait « plus aucun adversaire qui sache quoi que ce soit sur l'histoire naturelle, de sorte qu'il n'y a aucune bonne discussion comme nous avions l'habitude d'en avoir. »\nLes historiens de la science ont noté que bien que Darwin considérât que les idées que contenait l'article de Wallace étaient essentiellement les mêmes que les siennes, il y avait pourtant des différences notables.",
+   "sentence": "Après une réunion de la British Association en 1870, Wallace écrivit à Darwin se plaignant qu'il n'y avait «plus aucun adversaire qui sache quoi que ce soit sur l'histoire naturelle, de sorte qu'il n'y a aucune bonne discussion comme nous avions l'habitude d'en avoir.»",
    "section": "Théorie de l'évolution"
   },
-  "f84": {
+  "f75": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
-   "sentence": "Ils indiquent un passage en grande partie oublié du célèbre article de Wallace :\n« L'action de ce principe est exactement comme celle du régulateur centrifuge d'un moteur à vapeur, qui vérifie et corrige toutes les irrégularités presque avant qu'elles ne soient visibles ; et de manière semblable aucune insuffisance déséquilibrée dans le règne animal ne peut jamais atteindre d'ampleur manifeste, car elle se ferait sentir à la toute première étape, en rendant l'existence difficile et l'extinction à venir presque sûre. »\nLe cybernéticien et anthropologue Gregory Bateson observa dans les années 1970 que même en considérant ceci comme une métaphore, Wallace avait « probablement dit la chose la plus puissante du XIXe siècle. » Bateson, en 1979, a réétudié le sujet dans son livre La nature et la pensée, et d'autres spécialistes ont continué à explorer le lien entre la sélection naturelle et la théorie des systèmes.",
+   "sentence": "Le cybernéticien et anthropologue Gregory Bateson observa dans les années 1970 que même en considérant ceci comme une métaphore, Wallace avait «probablement dit la chose la plus puissante du XIXe siècle.»",
    "section": "Théorie de l'évolution"
   },
-  "f85": {
+  "f76": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
-   "sentence": "Ils indiquent un passage en grande partie oublié du célèbre article de Wallace :\n« L'action de ce principe est exactement comme celle du régulateur centrifuge d'un moteur à vapeur, qui vérifie et corrige toutes les irrégularités presque avant qu'elles ne soient visibles ; et de manière semblable aucune insuffisance déséquilibrée dans le règne animal ne peut jamais atteindre d'ampleur manifeste, car elle se ferait sentir à la toute première étape, en rendant l'existence difficile et l'extinction à venir presque sûre. »\nLe cybernéticien et anthropologue Gregory Bateson observa dans les années 1970 que même en considérant ceci comme une métaphore, Wallace avait « probablement dit la chose la plus puissante du XIXe siècle. » Bateson, en 1979, a réétudié le sujet dans son livre La nature et la pensée, et d'autres spécialistes ont continué à explorer le lien entre la sélection naturelle et la théorie des systèmes.",
+   "sentence": "Bateson, en 1979, a réétudié le sujet dans son livre La nature et la pensée, et d'autres spécialistes ont continué à explorer le lien entre la sélection naturelle et la théorie des systèmes.",
    "section": "Théorie de l'évolution"
   },
-  "f86": {
+  "f77": {
    "kind": "date",
    "value": "1867",
    "surface": "1867",
    "sentence": "En 1867, Darwin écrivit à Wallace à propos d’un problème qu'il avait pour comprendre comment certaines chenilles pouvaient avoir développé des combinaisons de couleurs ostensibles.",
    "section": "Théorie de l'évolution"
   },
-  "f87": {
+  "f78": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "En 1869, Weir publia des données, tirées d'expériences et d'observations impliquant des chenilles aux couleurs vives, qui allaient dans le sens de la théorie de Wallace.",
    "section": "Théorie de l'évolution"
   },
-  "f88": {
+  "f79": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
    "sentence": "Dans son livre publié en 1878, Tropical Nature and Other Essays, il développe le thème de la coloration chez les animaux et les plantes et propose des explications alternatives à un nombre de cas que Darwin attribuait à la sélection sexuelle.",
    "section": "Théorie de l'évolution"
   },
-  "f89": {
+  "f80": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "Il développera à nouveau longuement le thème en 1889 dans son livre Darwinism.",
    "section": "Théorie de l'évolution"
   },
-  "f90": {
+  "f81": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
    "sentence": "Wallace, dans une lettre, avait suggéré à Darwin dès 1868 que la sélection naturelle pouvait avoir un rôle dans la prévention à l'hybridation mais sans plus de précisions.",
    "section": "Théorie de l'évolution"
   },
-  "f91": {
+  "f82": {
    "kind": "date",
    "value": "1864",
    "surface": "1864",
-   "sentence": "Wallace publia en 1864 un article intitulé « The Origin of Human Races and the Antiquity of Man Deduced from the Theory of Natural Selection » dans lequel il appliquait la théorie au genre humain.",
+   "sentence": "Wallace publia en 1864 un article intitulé «The Origin of Human Races and the Antiquity of Man Deduced from the Theory of Natural Selection» dans lequel il appliquait la théorie au genre humain.",
    "section": "Théorie de l'évolution"
   },
-  "f92": {
+  "f83": {
    "kind": "date",
    "value": "1880",
    "surface": "1880",
    "sentence": "Dans les années 1880, l'évolution était une idée largement acceptée dans les cercles scientifiques, mais Wallace et August Weismann étaient quasiment les seuls parmi les biologistes d'importance à croire que la sélection naturelle en était l'élément moteur majeur.",
    "section": "Théorie de l'évolution"
   },
-  "f93": {
+  "f84": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",

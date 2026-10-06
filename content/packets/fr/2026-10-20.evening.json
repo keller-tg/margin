@@ -65,7 +65,7 @@
    "value": 5271,
    "unit": "km2",
    "surface": "5 271 km2",
-   "sentence": "Le Mauna Loa est le plus haut volcan du monde : il s'élève à dix-sept kilomètres au-dessus de sa base, qui s'enfonce dans le plancher océanique, et la superficie de sa partie émergée, 5 271 km2, représente plus de la moitié de la surface de l'île."
+   "sentence": "Le Mauna Loa est le plus haut volcan du monde: il s'élève à dix-sept kilomètres au-dessus de sa base, qui s'enfonce dans le plancher océanique, et la superficie de sa partie émergée, 5 271 km2, représente plus de la moitié de la surface de l'île."
   },
   "f3": {
    "kind": "date",
@@ -107,38 +107,17 @@
    "kind": "number",
    "value": 74,
    "surface": "74,0",
-   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu ((148 ± 29) × 103 km3).",
+   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu.",
    "section": "Géographie"
   },
   "f9": {
    "kind": "number",
    "value": 103,
    "surface": "103",
-   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu ((148 ± 29) × 103 km3).",
+   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu.",
    "section": "Géographie"
   },
   "f10": {
-   "kind": "number",
-   "value": 148,
-   "surface": "148",
-   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu ((148 ± 29) × 103 km3).",
-   "section": "Géographie"
-  },
-  "f11": {
-   "kind": "number",
-   "value": 29,
-   "surface": "29",
-   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu ((148 ± 29) × 103 km3).",
-   "section": "Géographie"
-  },
-  "f12": {
-   "kind": "number",
-   "value": 103,
-   "surface": "103",
-   "sentence": "Avec un volume de 74,0 × 103 km3, le Mauna Loa est le deuxième plus gros volcan du monde après le Pūhāhonu ((148 ± 29) × 103 km3).",
-   "section": "Géographie"
-  },
-  "f13": {
    "kind": "measure",
    "value": 1200,
    "unit": "°c",
@@ -146,39 +125,39 @@
    "sentence": "Formant des fontaines et des lacs de lave au moment de leur sortie au cours d'éruptions majoritairement fissurales, ces laves donnent ensuite naissance à de grandes coulées de lave progressant parfois jusqu'à la mer en empruntant des tunnels de lave, ce qui lui permet de conserver sa température très élevée qui atteint 1 200 °C.",
    "section": "Géographie"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 38,
    "unit": "%",
    "surface": "38 %",
-   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest ; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
+   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
    "section": "Géographie"
   },
-  "f15": {
+  "f12": {
    "kind": "measure",
    "value": 31,
    "unit": "%",
    "surface": "31 %",
-   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest ; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
+   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
    "section": "Géographie"
   },
-  "f16": {
+  "f13": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %",
-   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest ; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
+   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
    "section": "Géographie"
   },
-  "f17": {
+  "f14": {
    "kind": "measure",
    "value": 6,
    "unit": "%",
    "surface": "6 %",
-   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest ; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
+   "sentence": "Au cours des deux cents dernières années, environ 38 % des éruptions ont eu lieu au sommet, 31 % dans la zone du rift est-nord-est et 25 % dans la zone du rift Sud-Ouest; les 6 % restants correspondent à des émissions au niveau de cratères secondaires sur le versant nord-ouest.",
    "section": "Géographie"
   },
-  "f18": {
+  "f15": {
    "kind": "measure",
    "value": 600000,
    "unit": "ans",
@@ -186,7 +165,7 @@
    "sentence": "Le Mauna Loa est relativement jeune, ses premières éruptions remontant à une date comprise entre un million d'années et 600 000 ans.",
    "section": "Géographie"
   },
-  "f19": {
+  "f16": {
    "kind": "measure",
    "value": 105000,
    "unit": "ans",
@@ -194,7 +173,7 @@
    "sentence": "La montagne a connu deux effondrements majeurs, dont le dernier s'est produit il y a 105 000 ans, coïncidant avec un changement de type éruptif il y a 100 000 ans environ et la fin prévisible de la phase de croissance de type volcan bouclier avec présence de tholéite.",
    "section": "Géographie"
   },
-  "f20": {
+  "f17": {
    "kind": "measure",
    "value": 100000,
    "unit": "ans",
@@ -202,14 +181,14 @@
    "sentence": "La montagne a connu deux effondrements majeurs, dont le dernier s'est produit il y a 105 000 ans, coïncidant avec un changement de type éruptif il y a 100 000 ans environ et la fin prévisible de la phase de croissance de type volcan bouclier avec présence de tholéite.",
    "section": "Géographie"
   },
-  "f21": {
+  "f18": {
    "kind": "date",
    "value": "1750",
    "surface": "1750",
    "sentence": "Le Mauna Loa fait partie des volcans les plus actifs sur Terre, comme en témoigne la fréquence de ses éruptions, trente-neuf depuis la première observée en 1750, ainsi que la jeunesse des roches de ses pentes dont 90 % ont moins de 4 000 ans et 98 % ont moins de 10 000 ans.",
    "section": "Géographie"
   },
-  "f22": {
+  "f19": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -217,7 +196,7 @@
    "sentence": "Le Mauna Loa fait partie des volcans les plus actifs sur Terre, comme en témoigne la fréquence de ses éruptions, trente-neuf depuis la première observée en 1750, ainsi que la jeunesse des roches de ses pentes dont 90 % ont moins de 4 000 ans et 98 % ont moins de 10 000 ans.",
    "section": "Géographie"
   },
-  "f23": {
+  "f20": {
    "kind": "measure",
    "value": 4000,
    "unit": "ans",
@@ -225,7 +204,7 @@
    "sentence": "Le Mauna Loa fait partie des volcans les plus actifs sur Terre, comme en témoigne la fréquence de ses éruptions, trente-neuf depuis la première observée en 1750, ainsi que la jeunesse des roches de ses pentes dont 90 % ont moins de 4 000 ans et 98 % ont moins de 10 000 ans.",
    "section": "Géographie"
   },
-  "f24": {
+  "f21": {
    "kind": "measure",
    "value": 98,
    "unit": "%",
@@ -233,7 +212,7 @@
    "sentence": "Le Mauna Loa fait partie des volcans les plus actifs sur Terre, comme en témoigne la fréquence de ses éruptions, trente-neuf depuis la première observée en 1750, ainsi que la jeunesse des roches de ses pentes dont 90 % ont moins de 4 000 ans et 98 % ont moins de 10 000 ans.",
    "section": "Géographie"
   },
-  "f25": {
+  "f22": {
    "kind": "measure",
    "value": 10000,
    "unit": "ans",
@@ -241,21 +220,21 @@
    "sentence": "Le Mauna Loa fait partie des volcans les plus actifs sur Terre, comme en témoigne la fréquence de ses éruptions, trente-neuf depuis la première observée en 1750, ainsi que la jeunesse des roches de ses pentes dont 90 % ont moins de 4 000 ans et 98 % ont moins de 10 000 ans.",
    "section": "Géographie"
   },
-  "f26": {
+  "f23": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Son histoire géologique récente a été largement étudiée par la méthode de la datation au carbone 14 des échantillons de charbon de bois retrouvés dans les coulées.",
    "section": "Géographie"
   },
-  "f27": {
+  "f24": {
    "kind": "number",
    "value": 8000,
    "surface": "8 000",
    "sentence": "Ces analyses mettent en évidence des cycles dans l'activité du Mauna Loa inédits chez les volcans boucliers hawaïens, et montrent qu'il y a 8 000 à 11 000 ans, les éruptions sont plus intenses qu'aujourd'hui, alors qu'il y a 6 000 à 7 000 ans, le volcan devient sensiblement inactif.",
    "section": "Géographie"
   },
-  "f28": {
+  "f25": {
    "kind": "measure",
    "value": 11000,
    "unit": "ans",
@@ -263,14 +242,14 @@
    "sentence": "Ces analyses mettent en évidence des cycles dans l'activité du Mauna Loa inédits chez les volcans boucliers hawaïens, et montrent qu'il y a 8 000 à 11 000 ans, les éruptions sont plus intenses qu'aujourd'hui, alors qu'il y a 6 000 à 7 000 ans, le volcan devient sensiblement inactif.",
    "section": "Géographie"
   },
-  "f29": {
+  "f26": {
    "kind": "number",
    "value": 6000,
    "surface": "6 000",
    "sentence": "Ces analyses mettent en évidence des cycles dans l'activité du Mauna Loa inédits chez les volcans boucliers hawaïens, et montrent qu'il y a 8 000 à 11 000 ans, les éruptions sont plus intenses qu'aujourd'hui, alors qu'il y a 6 000 à 7 000 ans, le volcan devient sensiblement inactif.",
    "section": "Géographie"
   },
-  "f30": {
+  "f27": {
    "kind": "measure",
    "value": 7000,
    "unit": "ans",
@@ -278,7 +257,7 @@
    "sentence": "Ces analyses mettent en évidence des cycles dans l'activité du Mauna Loa inédits chez les volcans boucliers hawaïens, et montrent qu'il y a 8 000 à 11 000 ans, les éruptions sont plus intenses qu'aujourd'hui, alors qu'il y a 6 000 à 7 000 ans, le volcan devient sensiblement inactif.",
    "section": "Géographie"
   },
-  "f31": {
+  "f28": {
    "kind": "measure",
    "value": 1500,
    "unit": "ans",
@@ -286,14 +265,14 @@
    "sentence": "Il y a 1 500 ans débute une nouvelle période d'intense activité volcanique, avec la mise en place d'un lac de lave couvrant un quart de la surface du volcan ainsi que de grands épanchements de lave.",
    "section": "Géographie"
   },
-  "f32": {
+  "f29": {
    "kind": "date",
    "value": "750",
    "surface": "750",
    "sentence": "Cette activité diminue il y a 750 à 1 000 ans, ce qui permet la formation de la caldeira Mokuʻāweoweo mesurant de trois à cinq kilomètres de diamètre, et la mise en place des deux rifts l'encadrant au sud-ouest et à l'est-nord-est et par lesquels s'échappent des coulées de lave couvrant au total un quart de la montagne.",
    "section": "Géographie"
   },
-  "f33": {
+  "f30": {
    "kind": "measure",
    "value": 1000,
    "unit": "ans",
@@ -301,56 +280,56 @@
    "sentence": "Cette activité diminue il y a 750 à 1 000 ans, ce qui permet la formation de la caldeira Mokuʻāweoweo mesurant de trois à cinq kilomètres de diamètre, et la mise en place des deux rifts l'encadrant au sud-ouest et à l'est-nord-est et par lesquels s'échappent des coulées de lave couvrant au total un quart de la montagne.",
    "section": "Géographie"
   },
-  "f34": {
+  "f31": {
    "kind": "date",
    "value": "1934",
    "surface": "1934",
    "sentence": "Par exemple, entre 1934 et 1952, le Kīlauea est en sommeil alors que le Mauna Loa est actif, tandis qu'entre 1952 et 1974, seul le Kīlauea est actif.",
    "section": "Géographie"
   },
-  "f35": {
+  "f32": {
    "kind": "date",
    "value": "1952",
    "surface": "1952",
    "sentence": "Par exemple, entre 1934 et 1952, le Kīlauea est en sommeil alors que le Mauna Loa est actif, tandis qu'entre 1952 et 1974, seul le Kīlauea est actif.",
    "section": "Géographie"
   },
-  "f36": {
+  "f33": {
    "kind": "date",
    "value": "1952",
    "surface": "1952",
    "sentence": "Par exemple, entre 1934 et 1952, le Kīlauea est en sommeil alors que le Mauna Loa est actif, tandis qu'entre 1952 et 1974, seul le Kīlauea est actif.",
    "section": "Géographie"
   },
-  "f37": {
+  "f34": {
    "kind": "date",
    "value": "1974",
    "surface": "1974",
    "sentence": "Par exemple, entre 1934 et 1952, le Kīlauea est en sommeil alors que le Mauna Loa est actif, tandis qu'entre 1952 et 1974, seul le Kīlauea est actif.",
    "section": "Géographie"
   },
-  "f38": {
+  "f35": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "Pourtant, l'éruption du Mauna Loa en 1984 commence pendant une éruption du Kīlauea, sans toutefois qu'elle n'ait d'effet sur celle-ci.",
    "section": "Géographie"
   },
-  "f39": {
+  "f36": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
    "sentence": "L'inflation du sommet du Mauna Loa constatée en 2002 a commencé le 12 mai, à savoir le même jour que l'apparition d'une nouvelle large coulée de lave dans le cratère Puʻu ʻŌʻō du Kīlauea.",
    "section": "Géographie"
   },
-  "f40": {
+  "f37": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "L'inflation du sommet du Mauna Loa constatée en 2002 a commencé le 12 mai, à savoir le même jour que l'apparition d'une nouvelle large coulée de lave dans le cratère Puʻu ʻŌʻō du Kīlauea.",
    "section": "Géographie"
   },
-  "f41": {
+  "f38": {
    "kind": "measure",
    "value": 3000,
    "unit": "mètres",
@@ -358,7 +337,7 @@
    "sentence": "Au-dessus de 3 000 mètres d'altitude, les températures, plus basses, entraînent des chutes de neige, à tel point que le sommet du Mauna Loa est considéré comme une région périglaciaire, où les cycles de gel et de dégel jouent un rôle majeur dans la transformation du paysage.",
    "section": "Géographie"
   },
-  "f42": {
+  "f39": {
    "kind": "measure",
    "value": 1000,
    "unit": "mètres",
@@ -366,7 +345,7 @@
    "sentence": "Alors qu'à 1 000 mètres d'altitude, la température moyenne annuelle est de 16 °C et la quantité d'eau est de 2 500 mm, à 3 700 mètres d'altitude, elles ne sont respectivement plus que de 6 °C et 500 mm.\nLes modèles climatiques de l'archipel sont régulièrement affectés par le phénomène El Niño, qui se traduit au Mauna Loa par une sécheresse anormale, particulièrement durant la saison hivernale.",
    "section": "Géographie"
   },
-  "f43": {
+  "f40": {
    "kind": "measure",
    "value": 16,
    "unit": "°c",
@@ -374,7 +353,7 @@
    "sentence": "Alors qu'à 1 000 mètres d'altitude, la température moyenne annuelle est de 16 °C et la quantité d'eau est de 2 500 mm, à 3 700 mètres d'altitude, elles ne sont respectivement plus que de 6 °C et 500 mm.\nLes modèles climatiques de l'archipel sont régulièrement affectés par le phénomène El Niño, qui se traduit au Mauna Loa par une sécheresse anormale, particulièrement durant la saison hivernale.",
    "section": "Géographie"
   },
-  "f44": {
+  "f41": {
    "kind": "measure",
    "value": 2500,
    "unit": "mm",
@@ -382,7 +361,7 @@
    "sentence": "Alors qu'à 1 000 mètres d'altitude, la température moyenne annuelle est de 16 °C et la quantité d'eau est de 2 500 mm, à 3 700 mètres d'altitude, elles ne sont respectivement plus que de 6 °C et 500 mm.\nLes modèles climatiques de l'archipel sont régulièrement affectés par le phénomène El Niño, qui se traduit au Mauna Loa par une sécheresse anormale, particulièrement durant la saison hivernale.",
    "section": "Géographie"
   },
-  "f45": {
+  "f42": {
    "kind": "measure",
    "value": 3700,
    "unit": "mètres",
@@ -390,7 +369,7 @@
    "sentence": "Alors qu'à 1 000 mètres d'altitude, la température moyenne annuelle est de 16 °C et la quantité d'eau est de 2 500 mm, à 3 700 mètres d'altitude, elles ne sont respectivement plus que de 6 °C et 500 mm.\nLes modèles climatiques de l'archipel sont régulièrement affectés par le phénomène El Niño, qui se traduit au Mauna Loa par une sécheresse anormale, particulièrement durant la saison hivernale.",
    "section": "Géographie"
   },
-  "f46": {
+  "f43": {
    "kind": "measure",
    "value": 6,
    "unit": "°c",
@@ -398,7 +377,7 @@
    "sentence": "Alors qu'à 1 000 mètres d'altitude, la température moyenne annuelle est de 16 °C et la quantité d'eau est de 2 500 mm, à 3 700 mètres d'altitude, elles ne sont respectivement plus que de 6 °C et 500 mm.\nLes modèles climatiques de l'archipel sont régulièrement affectés par le phénomène El Niño, qui se traduit au Mauna Loa par une sécheresse anormale, particulièrement durant la saison hivernale.",
    "section": "Géographie"
   },
-  "f47": {
+  "f44": {
    "kind": "measure",
    "value": 500,
    "unit": "mm",
@@ -406,21 +385,21 @@
    "sentence": "Alors qu'à 1 000 mètres d'altitude, la température moyenne annuelle est de 16 °C et la quantité d'eau est de 2 500 mm, à 3 700 mètres d'altitude, elles ne sont respectivement plus que de 6 °C et 500 mm.\nLes modèles climatiques de l'archipel sont régulièrement affectés par le phénomène El Niño, qui se traduit au Mauna Loa par une sécheresse anormale, particulièrement durant la saison hivernale.",
    "section": "Géographie"
   },
-  "f48": {
+  "f45": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "Ainsi, au début de l'année 1998, le versant oriental exposé au vent a connu la plus importante sécheresse enregistrée sur l'île, et les six premiers mois ont tous été les plus secs des douze années précédentes.",
    "section": "Géographie"
   },
-  "f49": {
+  "f46": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "Durant l'hiver suivant, la tendance s'est reproduite dans une plus faible mesure, mais l'été 1999 a été plus sec encore que le précédent.",
    "section": "Géographie"
   },
-  "f50": {
+  "f47": {
    "kind": "measure",
    "value": 300,
    "unit": "mètres",
@@ -428,7 +407,7 @@
    "sentence": "La zone du kiawe et des buissons de plaine se situe en dessous de 300 mètres d'altitude et abrite Prosopis pallida, localement appelé kiawe, Leucaena leucocephala ou koa haole, des Digitaria spp. et Heteropogon contortus ou pili.",
    "section": "Géographie"
   },
-  "f51": {
+  "f48": {
    "kind": "measure",
    "value": 500,
    "unit": "mètres",
@@ -436,30 +415,30 @@
    "sentence": "En dessous de 500 mètres d'altitude, la forêt dense des goyaviers et des buissons abrite des goyaviers, Nephrolepis exaltata, des herbes et des fougères, Aleurites moluccanus ou kukui et Pandanus tectorius ou hala.",
    "section": "Géographie"
   },
-  "f52": {
+  "f49": {
    "kind": "measure",
    "value": 750,
    "unit": "mètres",
    "surface": "750 mètres",
-   "sentence": "En dessous de 750 mètres d'altitude, la forêt ténue des goyaviers (Psidium guajava) et des buissons abrite, outre cette espèce d'arbre, Leucaena leucocephala, Lantana camara, Desmodium incanum et Cynodon dactylon.",
+   "sentence": "En dessous de 750 mètres d'altitude, la forêt ténue des goyaviers et des buissons abrite, outre cette espèce d'arbre, Leucaena leucocephala, Lantana camara, Desmodium incanum et Cynodon dactylon.",
    "section": "Géographie"
   },
-  "f53": {
+  "f50": {
    "kind": "measure",
    "value": 1000,
    "unit": "mètres",
    "surface": "1 000 mètres",
-   "sentence": "Jusqu'à 1 000 mètres d'altitude, on trouve la zone lantana-koa haole avec Lantana camara, Leucaena leucocephala, Dianella sandwicensis ou ukiuki, le figuier de Barbarie (Opuntia ficus-indica) ou panini, Sida fallax ou ilima et des herbes rouges locales.",
+   "sentence": "Jusqu'à 1 000 mètres d'altitude, on trouve la zone lantana-koa haole avec Lantana camara, Leucaena leucocephala, Dianella sandwicensis ou ukiuki, le figuier de Barbarie ou panini, Sida fallax ou ilima et des herbes rouges locales.",
    "section": "Géographie"
   },
-  "f54": {
+  "f51": {
    "kind": "date",
    "value": "750",
    "surface": "750",
    "sentence": "Entre 750 et 1 200 mètres d'altitude, une forêt ténue mixte mélange Metrosideros polymorpha ou Ohia lehua, Acacia koa, Desmodium incanum et Cynodon dactylon.",
    "section": "Géographie"
   },
-  "f55": {
+  "f52": {
    "kind": "measure",
    "value": 1200,
    "unit": "mètres",
@@ -467,14 +446,14 @@
    "sentence": "Entre 750 et 1 200 mètres d'altitude, une forêt ténue mixte mélange Metrosideros polymorpha ou Ohia lehua, Acacia koa, Desmodium incanum et Cynodon dactylon.",
    "section": "Géographie"
   },
-  "f56": {
+  "f53": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "La forêt humide dense de ohia lehua, entre 500 et 2 100 mètres d'altitude, est composée de Metrosideros polymorpha et de Cheirodendron trigynum ou olapa.",
    "section": "Géographie"
   },
-  "f57": {
+  "f54": {
    "kind": "measure",
    "value": 2100,
    "unit": "mètres",
@@ -482,14 +461,14 @@
    "sentence": "La forêt humide dense de ohia lehua, entre 500 et 2 100 mètres d'altitude, est composée de Metrosideros polymorpha et de Cheirodendron trigynum ou olapa.",
    "section": "Géographie"
   },
-  "f58": {
+  "f55": {
    "kind": "number",
    "value": 1200,
    "surface": "1 200",
    "sentence": "La forêt ténue d'Acacia koa se situe entre 1 200 et 2 100 mètres d'altitude et abrite aussi Metrosideros polymorpha, différentes herbes dont Agrostis avenacea ou heupueo, ainsi que Styphelia tameiameiae ou pukiawe, Dodonaea viscosa ou aalii et Sophora chrysophylla ou mamane.",
    "section": "Géographie"
   },
-  "f59": {
+  "f56": {
    "kind": "measure",
    "value": 2100,
    "unit": "mètres",
@@ -497,14 +476,14 @@
    "sentence": "La forêt ténue d'Acacia koa se situe entre 1 200 et 2 100 mètres d'altitude et abrite aussi Metrosideros polymorpha, différentes herbes dont Agrostis avenacea ou heupueo, ainsi que Styphelia tameiameiae ou pukiawe, Dodonaea viscosa ou aalii et Sophora chrysophylla ou mamane.",
    "section": "Géographie"
   },
-  "f60": {
+  "f57": {
    "kind": "number",
    "value": 2100,
    "surface": "2 100",
    "sentence": "En s'élevant en altitude, on trouve entre 2 100 et 3 000 mètres la forêt ténue de mamane-nalo et des buissons subalpins avec Sophora chrysophylla, Styphelia tameiameiae, Dodonaea viscosa et Vaccinium reticulatum ou ohelo.",
    "section": "Géographie"
   },
-  "f61": {
+  "f58": {
    "kind": "measure",
    "value": 3000,
    "unit": "mètres",
@@ -512,7 +491,7 @@
    "sentence": "En s'élevant en altitude, on trouve entre 2 100 et 3 000 mètres la forêt ténue de mamane-nalo et des buissons subalpins avec Sophora chrysophylla, Styphelia tameiameiae, Dodonaea viscosa et Vaccinium reticulatum ou ohelo.",
    "section": "Géographie"
   },
-  "f62": {
+  "f59": {
    "kind": "measure",
    "value": 3000,
    "unit": "mètres",
@@ -520,7 +499,7 @@
    "sentence": "Au-delà de 3 000 mètres d'altitude, la végétation disparaît et laisse place à un désert rocailleux alpin où seules subsistent des mousses, une espèce locale du genre Agrostis et Argyroxiphium kauense, une plante totalement endémique au Mauna Loa.",
    "section": "Géographie"
   },
-  "f63": {
+  "f60": {
    "kind": "measure",
    "value": 4000,
    "unit": "kilomètres",
@@ -528,7 +507,7 @@
    "sentence": "Ces espèces, comme toutes les autres espèces d'origine de l'archipel, se sont implantées il y a quelques millions d'années et ont évolué pour devenir endémiques en raison d'un isolement de 4 000 kilomètres de toute autre terre.",
    "section": "Géographie"
   },
-  "f64": {
+  "f61": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -536,7 +515,7 @@
    "sentence": "75 % des 175 espèces autochtones rescapées sont fragilisées par leur fragmentation et leur raréfaction, phénomènes accentués par la prolifération des mammifères ongulés et des espèces végétales implantées par l'homme, et sont en danger de disparition.",
    "section": "Géographie"
   },
-  "f65": {
+  "f62": {
    "kind": "measure",
    "value": 175,
    "unit": "espèces",
@@ -544,7 +523,7 @@
    "sentence": "75 % des 175 espèces autochtones rescapées sont fragilisées par leur fragmentation et leur raréfaction, phénomènes accentués par la prolifération des mammifères ongulés et des espèces végétales implantées par l'homme, et sont en danger de disparition.",
    "section": "Géographie"
   },
-  "f66": {
+  "f63": {
    "kind": "measure",
    "value": 1500,
    "unit": "ans",
@@ -552,36 +531,36 @@
    "sentence": "Les mammifères herbivores les plus présents et qui menacent la végétation des zones montagnardes et subalpines sont les porcs d'origine asiatique introduits par les Polynésiens il y a 1 500 ans, les sangliers, les chèvres et des bovins introduits par les Européens à la fin du XVIIIe siècle, et les mouflons importés en 1963 dans un ranch au sud de la montagne et qui ont colonisé la zone le long du rift Sud.",
    "section": "Géographie"
   },
-  "f67": {
+  "f64": {
    "kind": "date",
    "value": "1963",
    "surface": "1963",
    "sentence": "Les mammifères herbivores les plus présents et qui menacent la végétation des zones montagnardes et subalpines sont les porcs d'origine asiatique introduits par les Polynésiens il y a 1 500 ans, les sangliers, les chèvres et des bovins introduits par les Européens à la fin du XVIIIe siècle, et les mouflons importés en 1963 dans un ranch au sud de la montagne et qui ont colonisé la zone le long du rift Sud.",
    "section": "Géographie"
   },
-  "f68": {
+  "f65": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "Lors d'une étude datant de 1981, vingt-deux espèces d'oiseaux ont été recensées au Mauna Loa, dont huit espèces endémiques.",
    "section": "Géographie"
   },
-  "f69": {
+  "f66": {
    "kind": "date",
    "value": "500",
    "surface": "500",
-   "sentence": "500 individus sur Big Island répartis sur le Mauna Loa, le Mauna Kea et Hualālai, grâce à un programme de réimplantation par l'élevage.",
+   "sentence": "Un temps au bord de l'extinction, la Bernache néné ou nēnē compte aujourd'hui 500 individus sur Big Island répartis sur le Mauna Loa, le Mauna Kea et Hualālai, grâce à un programme de réimplantation par l'élevage.",
    "section": "Géographie"
   },
-  "f70": {
+  "f67": {
    "kind": "measure",
    "value": 3000,
    "unit": "mètres",
    "surface": "3 000 mètres",
-   "sentence": "La Buse d'Hawaï (Buteo solitarius) ou io est une espèce endémique menacée qui niche sur les flancs du Mauna Loa et du Mauna Kea en dessous de 3 000 mètres d'altitude.",
+   "sentence": "La Buse d'Hawaï ou io est une espèce endémique menacée qui niche sur les flancs du Mauna Loa et du Mauna Kea en dessous de 3 000 mètres d'altitude.",
    "section": "Géographie"
   },
-  "f71": {
+  "f68": {
    "kind": "measure",
    "value": 3000,
    "unit": "mètres",
@@ -589,15 +568,15 @@
    "sentence": "Avant cela, les individus étaient dispersés au-dessus de 3 000 mètres d'altitude sur les pentes du Mauna Loa et du Hualālai.",
    "section": "Géographie"
   },
-  "f72": {
+  "f69": {
    "kind": "measure",
    "value": 3900,
    "unit": "mètres",
    "surface": "3 900 mètres",
-   "sentence": "En effet, les nombreux tunnels de lave, mais aussi les troncs d'arbres morts, constituent un milieu très propice pour beaucoup d'espèces d'insectes (Cixiidae, Caelifera, etc.) ainsi que quelques-uns de leurs prédateurs, dont Lasiurus cinereus semotus, la chauve-souris d'Hawaï, présente depuis le niveau de la mer jusqu'à 3 900 mètres d'altitude.",
+   "sentence": "En effet, les nombreux tunnels de lave, mais aussi les troncs d'arbres morts, constituent un milieu très propice pour beaucoup d'espèces d'insectes ainsi que quelques-uns de leurs prédateurs, dont Lasiurus cinereus semotus, la chauve-souris d'Hawaï, présente depuis le niveau de la mer jusqu'à 3 900 mètres d'altitude.",
    "section": "Géographie"
   },
-  "f73": {
+  "f70": {
    "kind": "measure",
    "value": 250,
    "unit": "espèces",
@@ -605,7 +584,7 @@
    "sentence": "Pourtant, et malgré de nombreuses niches écologiques non occupées notamment chez les arthropodes, seulement 250 espèces d'insectes ont été introduites durablement sur les 5 000 espèces d'origine sur l'archipel.",
    "section": "Géographie"
   },
-  "f74": {
+  "f71": {
    "kind": "measure",
    "value": 5000,
    "unit": "espèces",
@@ -613,191 +592,183 @@
    "sentence": "Pourtant, et malgré de nombreuses niches écologiques non occupées notamment chez les arthropodes, seulement 250 espèces d'insectes ont été introduites durablement sur les 5 000 espèces d'origine sur l'archipel.",
    "section": "Géographie"
   },
-  "f75": {
+  "f72": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "La quasi-totalité des éruptions du Mauna Loa sont d'indice d'explosivité volcanique de 0 ou 1 et émettent des coulées de lave fluide depuis les deux rifts ou la caldeira Mokuʻāweoweo.",
    "section": "Histoire"
   },
-  "f76": {
+  "f73": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "La quasi-totalité des éruptions du Mauna Loa sont d'indice d'explosivité volcanique de 0 ou 1 et émettent des coulées de lave fluide depuis les deux rifts ou la caldeira Mokuʻāweoweo.",
    "section": "Histoire"
   },
-  "f77": {
+  "f74": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f78": {
+  "f75": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f79": {
+  "f76": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f80": {
+  "f77": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f81": {
+  "f78": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f82": {
+  "f79": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f83": {
+  "f80": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f84": {
+  "f81": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Seules quelques éruptions dérogent à ce cas général, comme entre le 17 février et le 11 mars 1852 lorsqu'une éruption d'indice d'explosivité volcanique de 2 émet d'importants volumes de lave accompagnés d'explosions, ou encore du 27 mars au 22 avril 1868 lorsque de grandes coulées de lave et des explosions d'indice d'explosivité volcanique de 2 engendrant des tsunamis provoquent des dégâts matériels et des morts.",
    "section": "Histoire"
   },
-  "f85": {
+  "f82": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "Au total, trente-trois éruptions sont connues et documentées depuis 1843.",
    "section": "Histoire"
   },
-  "f86": {
+  "f83": {
    "kind": "date",
    "value": "1935",
    "surface": "1935",
-   "sentence": "En 1935, une éruption menace Hilo, obligeant le 27 décembre dix bombardiers — des Keystone B-3, des Keystone B-4 et cinq ou six bombardiers Keystone LB-5 des 23e et 72e escadrons de bombardiers de l'United States Army Air Corps — basés à Pearl Harbor à décoller et à larguer vingt bombes d'environ 300 kilogrammes afin de dévier les coulées de lave ; ce qui est déclaré comme un succès à l'époque est désormais mis sur le compte du hasard.",
+   "sentence": "En 1935, une éruption menace Hilo, obligeant le 27 décembre dix bombardiers — des Keystone B-3, des Keystone B-4 et cinq ou six bombardiers Keystone LB-5 des 23e et 72e escadrons de bombardiers de l'United States Army Air Corps — basés à Pearl Harbor à décoller et à larguer vingt bombes d'environ 300 kilogrammes afin de dévier les coulées de lave; ce qui est déclaré comme un succès à l'époque est désormais mis sur le compte du hasard.",
    "section": "Histoire"
   },
-  "f87": {
+  "f84": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "En 1935, une éruption menace Hilo, obligeant le 27 décembre dix bombardiers — des Keystone B-3, des Keystone B-4 et cinq ou six bombardiers Keystone LB-5 des 23e et 72e escadrons de bombardiers de l'United States Army Air Corps — basés à Pearl Harbor à décoller et à larguer vingt bombes d'environ 300 kilogrammes afin de dévier les coulées de lave ; ce qui est déclaré comme un succès à l'époque est désormais mis sur le compte du hasard.",
+   "sentence": "En 1935, une éruption menace Hilo, obligeant le 27 décembre dix bombardiers — des Keystone B-3, des Keystone B-4 et cinq ou six bombardiers Keystone LB-5 des 23e et 72e escadrons de bombardiers de l'United States Army Air Corps — basés à Pearl Harbor à décoller et à larguer vingt bombes d'environ 300 kilogrammes afin de dévier les coulées de lave; ce qui est déclaré comme un succès à l'époque est désormais mis sur le compte du hasard.",
    "section": "Histoire"
   },
-  "f88": {
+  "f85": {
    "kind": "measure",
    "value": 300,
    "unit": "kilogrammes",
    "surface": "300 kilogrammes",
-   "sentence": "En 1935, une éruption menace Hilo, obligeant le 27 décembre dix bombardiers — des Keystone B-3, des Keystone B-4 et cinq ou six bombardiers Keystone LB-5 des 23e et 72e escadrons de bombardiers de l'United States Army Air Corps — basés à Pearl Harbor à décoller et à larguer vingt bombes d'environ 300 kilogrammes afin de dévier les coulées de lave ; ce qui est déclaré comme un succès à l'époque est désormais mis sur le compte du hasard.",
+   "sentence": "En 1935, une éruption menace Hilo, obligeant le 27 décembre dix bombardiers — des Keystone B-3, des Keystone B-4 et cinq ou six bombardiers Keystone LB-5 des 23e et 72e escadrons de bombardiers de l'United States Army Air Corps — basés à Pearl Harbor à décoller et à larguer vingt bombes d'environ 300 kilogrammes afin de dévier les coulées de lave; ce qui est déclaré comme un succès à l'époque est désormais mis sur le compte du hasard.",
    "section": "Histoire"
   },
-  "f89": {
+  "f86": {
    "kind": "date",
    "value": "1942",
    "surface": "1942",
    "sentence": "Un autre bombardement a lieu en avril 1942.",
    "section": "Histoire"
   },
-  "f90": {
+  "f87": {
    "kind": "number",
    "value": 36,
    "surface": "36",
-   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes (jusqu'à 900 kilogrammes) sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
+   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
    "section": "Histoire"
   },
-  "f91": {
-   "kind": "measure",
-   "value": 900,
-   "unit": "kilogrammes",
-   "surface": "900 kilogrammes",
-   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes (jusqu'à 900 kilogrammes) sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
-   "section": "Histoire"
-  },
-  "f92": {
+  "f88": {
    "kind": "date",
    "value": "1975",
    "surface": "1975",
-   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes (jusqu'à 900 kilogrammes) sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
+   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
    "section": "Histoire"
   },
-  "f93": {
+  "f89": {
    "kind": "date",
    "value": "1976",
    "surface": "1976",
-   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes (jusqu'à 900 kilogrammes) sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
+   "sentence": "L'US Air Force mène des tests approfondis avec 36 grosses bombes aériennes sur les laves préhistoriques du Mauna Loa en 1975 et 1976.",
    "section": "Histoire"
   },
-  "f94": {
+  "f90": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "L'éruption de 1950 est la plus intense des éruptions documentées sur le plan du débit.",
    "section": "Histoire"
   },
-  "f95": {
+  "f91": {
    "kind": "number",
    "value": 376000000,
    "surface": "376 millions",
    "sentence": "En effet, elle s'épanche sur vingt kilomètres le long du rift au sud-ouest de la caldeira Mokuʻāweoweo et émet 376 millions de mètres cubes de roche en vingt-trois jours seulement, soit autant que l'éruption de 1859 en dix fois moins de temps ou moitié moins que l'éruption de 1876 mais en cinquante fois moins de temps.",
    "section": "Histoire"
   },
-  "f96": {
+  "f92": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "En effet, elle s'épanche sur vingt kilomètres le long du rift au sud-ouest de la caldeira Mokuʻāweoweo et émet 376 millions de mètres cubes de roche en vingt-trois jours seulement, soit autant que l'éruption de 1859 en dix fois moins de temps ou moitié moins que l'éruption de 1876 mais en cinquante fois moins de temps.",
    "section": "Histoire"
   },
-  "f97": {
+  "f93": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "En effet, elle s'épanche sur vingt kilomètres le long du rift au sud-ouest de la caldeira Mokuʻāweoweo et émet 376 millions de mètres cubes de roche en vingt-trois jours seulement, soit autant que l'éruption de 1859 en dix fois moins de temps ou moitié moins que l'éruption de 1876 mais en cinquante fois moins de temps.",
    "section": "Histoire"
   },
-  "f98": {
+  "f94": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Peu après 21 h, le 1er juin 1950, les sismographes s'affolent et vingt minutes plus tard, les premières laves apparaissent.",
    "section": "Histoire"
   },
-  "f99": {
+  "f95": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "Peu après 21 h, le 1er juin 1950, les sismographes s'affolent et vingt minutes plus tard, les premières laves apparaissent.",
    "section": "Histoire"
   },
-  "f100": {
+  "f96": {
    "kind": "number",
    "value": 45,
    "surface": "45",
    "sentence": "Des fontaines propulsent de la matière en fusion à 45 ou 60 mètres de hauteur, parfois 90 mètres.",
    "section": "Histoire"
   },
-  "f101": {
+  "f97": {
    "kind": "measure",
    "value": 60,
    "unit": "mètres",
@@ -805,7 +776,7 @@
    "sentence": "Des fontaines propulsent de la matière en fusion à 45 ou 60 mètres de hauteur, parfois 90 mètres.",
    "section": "Histoire"
   },
-  "f102": {
+  "f98": {
    "kind": "measure",
    "value": 90,
    "unit": "mètres",
@@ -813,28 +784,28 @@
    "sentence": "Des fontaines propulsent de la matière en fusion à 45 ou 60 mètres de hauteur, parfois 90 mètres.",
    "section": "Histoire"
   },
-  "f103": {
+  "f99": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "La Hawaii Route 11, une station d'essence, le bureau de poste et plusieurs habitations sont détruites dès la mi-journée du 2 juin.",
    "section": "Histoire"
   },
-  "f104": {
+  "f100": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "La Hawaii Route 11, une station d'essence, le bureau de poste et plusieurs habitations sont détruites dès la mi-journée du 2 juin.",
    "section": "Histoire"
   },
-  "f105": {
+  "f101": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Les scientifiques de l'observatoire volcanologique d'Hawaï estiment la vitesse de progression de la coulée Kaʻapuna dans les tunnels de lave entre 16 et 48 km/h.",
    "section": "Histoire"
   },
-  "f106": {
+  "f102": {
    "kind": "measure",
    "value": 48,
    "unit": "km/h",
@@ -842,28 +813,28 @@
    "sentence": "Les scientifiques de l'observatoire volcanologique d'Hawaï estiment la vitesse de progression de la coulée Kaʻapuna dans les tunnels de lave entre 16 et 48 km/h.",
    "section": "Histoire"
   },
-  "f107": {
+  "f103": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Elle atteint à son tour la mer le 2 juin à 15 h 30 et y progresse sur une longueur de 800 mètres, comme en témoigne la vapeur d'eau qui s'échappe des flots.",
    "section": "Histoire"
   },
-  "f108": {
+  "f104": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Elle atteint à son tour la mer le 2 juin à 15 h 30 et y progresse sur une longueur de 800 mètres, comme en témoigne la vapeur d'eau qui s'échappe des flots.",
    "section": "Histoire"
   },
-  "f109": {
+  "f105": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Elle atteint à son tour la mer le 2 juin à 15 h 30 et y progresse sur une longueur de 800 mètres, comme en témoigne la vapeur d'eau qui s'échappe des flots.",
    "section": "Histoire"
   },
-  "f110": {
+  "f106": {
    "kind": "measure",
    "value": 800,
    "unit": "mètres",
@@ -871,175 +842,175 @@
    "sentence": "Elle atteint à son tour la mer le 2 juin à 15 h 30 et y progresse sur une longueur de 800 mètres, comme en témoigne la vapeur d'eau qui s'échappe des flots.",
    "section": "Histoire"
   },
-  "f111": {
+  "f107": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "La dernière coulée arrête sa progression le 8 juin, et l'activité volcanique au niveau des fissures du rift disparaît vingt-trois jours après le début de l'éruption.",
    "section": "Histoire"
   },
-  "f112": {
+  "f108": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "L'éruption du 25 mars au 15 avril 1984 met fin à neuf ans de repos — si ce n'est une augmentation progressive de l'activité sismique durant les trois années qui précédent l'éruption, jusqu'à un paroxysme le 16 novembre 1983 avec une secousse de 6,6 sur l'échelle de Richter au niveau de la faille de Kaʻoiki.",
    "section": "Histoire"
   },
-  "f113": {
+  "f109": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "L'éruption du 25 mars au 15 avril 1984 met fin à neuf ans de repos — si ce n'est une augmentation progressive de l'activité sismique durant les trois années qui précédent l'éruption, jusqu'à un paroxysme le 16 novembre 1983 avec une secousse de 6,6 sur l'échelle de Richter au niveau de la faille de Kaʻoiki.",
    "section": "Histoire"
   },
-  "f114": {
+  "f110": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "L'éruption du 25 mars au 15 avril 1984 met fin à neuf ans de repos — si ce n'est une augmentation progressive de l'activité sismique durant les trois années qui précédent l'éruption, jusqu'à un paroxysme le 16 novembre 1983 avec une secousse de 6,6 sur l'échelle de Richter au niveau de la faille de Kaʻoiki.",
    "section": "Histoire"
   },
-  "f115": {
+  "f111": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "L'éruption du 25 mars au 15 avril 1984 met fin à neuf ans de repos — si ce n'est une augmentation progressive de l'activité sismique durant les trois années qui précédent l'éruption, jusqu'à un paroxysme le 16 novembre 1983 avec une secousse de 6,6 sur l'échelle de Richter au niveau de la faille de Kaʻoiki.",
    "section": "Histoire"
   },
-  "f116": {
+  "f112": {
    "kind": "date",
    "value": "1983",
    "surface": "1983",
    "sentence": "L'éruption du 25 mars au 15 avril 1984 met fin à neuf ans de repos — si ce n'est une augmentation progressive de l'activité sismique durant les trois années qui précédent l'éruption, jusqu'à un paroxysme le 16 novembre 1983 avec une secousse de 6,6 sur l'échelle de Richter au niveau de la faille de Kaʻoiki.",
    "section": "Histoire"
   },
-  "f117": {
+  "f113": {
    "kind": "number",
    "value": 6.6,
    "surface": "6,6",
    "sentence": "L'éruption du 25 mars au 15 avril 1984 met fin à neuf ans de repos — si ce n'est une augmentation progressive de l'activité sismique durant les trois années qui précédent l'éruption, jusqu'à un paroxysme le 16 novembre 1983 avec une secousse de 6,6 sur l'échelle de Richter au niveau de la faille de Kaʻoiki.",
    "section": "Histoire"
   },
-  "f118": {
+  "f114": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Le 24 mars 1984 vers 23 h, le rythme des secousses atteint une fréquence de deux ou trois par minute avant que, finalement, un jet de matière en fusion ne soit expulsé de la caldeira Mokuʻāweoweo le 25 mars à 1 h 30.",
    "section": "Histoire"
   },
-  "f119": {
+  "f115": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "Le 24 mars 1984 vers 23 h, le rythme des secousses atteint une fréquence de deux ou trois par minute avant que, finalement, un jet de matière en fusion ne soit expulsé de la caldeira Mokuʻāweoweo le 25 mars à 1 h 30.",
    "section": "Histoire"
   },
-  "f120": {
+  "f116": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Le 24 mars 1984 vers 23 h, le rythme des secousses atteint une fréquence de deux ou trois par minute avant que, finalement, un jet de matière en fusion ne soit expulsé de la caldeira Mokuʻāweoweo le 25 mars à 1 h 30.",
    "section": "Histoire"
   },
-  "f121": {
+  "f117": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Le 24 mars 1984 vers 23 h, le rythme des secousses atteint une fréquence de deux ou trois par minute avant que, finalement, un jet de matière en fusion ne soit expulsé de la caldeira Mokuʻāweoweo le 25 mars à 1 h 30.",
    "section": "Histoire"
   },
-  "f122": {
+  "f118": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Le 24 mars 1984 vers 23 h, le rythme des secousses atteint une fréquence de deux ou trois par minute avant que, finalement, un jet de matière en fusion ne soit expulsé de la caldeira Mokuʻāweoweo le 25 mars à 1 h 30.",
    "section": "Histoire"
   },
-  "f123": {
+  "f119": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Le 24 mars 1984 vers 23 h, le rythme des secousses atteint une fréquence de deux ou trois par minute avant que, finalement, un jet de matière en fusion ne soit expulsé de la caldeira Mokuʻāweoweo le 25 mars à 1 h 30.",
    "section": "Histoire"
   },
-  "f124": {
+  "f120": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "Au cours de cette éruption effusive fissurale d'indice d'explosivité volcanique de 0, un volume de lave de 220 millions de mètres cubes est émis sous la forme de coulées, parties de la caldeira Mokuʻāweoweo et des deux rifts qui l'encadrent, en direction du sud-ouest et de l'est-nord-est.",
    "section": "Histoire"
   },
-  "f125": {
+  "f121": {
    "kind": "number",
    "value": 220000000,
    "surface": "220 millions",
    "sentence": "Au cours de cette éruption effusive fissurale d'indice d'explosivité volcanique de 0, un volume de lave de 220 millions de mètres cubes est émis sous la forme de coulées, parties de la caldeira Mokuʻāweoweo et des deux rifts qui l'encadrent, en direction du sud-ouest et de l'est-nord-est.",
    "section": "Histoire"
   },
-  "f126": {
+  "f122": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Ainsi, entre le 26 mars et le 29 mars, les coulées menacent une nouvelle fois rapidement la ville de Hilo mais s'arrêtent finalement à quatre kilomètres de la banlieue et à trois kilomètres de la prison de Kulani.",
    "section": "Histoire"
   },
-  "f127": {
+  "f123": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Ainsi, entre le 26 mars et le 29 mars, les coulées menacent une nouvelle fois rapidement la ville de Hilo mais s'arrêtent finalement à quatre kilomètres de la banlieue et à trois kilomètres de la prison de Kulani.",
    "section": "Histoire"
   },
-  "f128": {
+  "f124": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
    "sentence": "L'activité sismique reste faible jusqu'en 2002, année au cours de laquelle une inflation soudaine du volcan est détectée avec un écartement des parois de la caldeira mesuré à un rythme de cinq centimètres par an, indiquant une remontée de magma dans la chambre située cinq kilomètres sous le sommet.",
    "section": "Histoire"
   },
-  "f129": {
+  "f125": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Une série de profonds séismes se déroule durant la seconde moitié de 2004 avec une fréquence passant d'une secousse par jour en juillet à quinze à la fin de l'année, avant de revenir à un rythme plus modéré.",
    "section": "Histoire"
   },
-  "f130": {
+  "f126": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale (Hawaii Standard Time) à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave ; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
+   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
    "section": "Histoire"
   },
-  "f131": {
+  "f127": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale (Hawaii Standard Time) à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave ; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
+   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
    "section": "Histoire"
   },
-  "f132": {
+  "f128": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale (Hawaii Standard Time) à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave ; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
+   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
    "section": "Histoire"
   },
-  "f133": {
+  "f129": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale (Hawaii Standard Time) à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave ; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
+   "sentence": "Celle-ci débute le 27 novembre 2022 vers 23 h 30 heure locale à l'intérieur de la caldeira sommitale avec l'ouverture de fissures qui laissent s'échapper des coulées de lave; ces dernières recouvrent le fond de la caldeira et débordent sur les flancs du volcan par le sud-ouest et le nord-est.",
    "section": "Histoire"
   },
-  "f134": {
+  "f130": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Après quelques jours de baisse d'intensité de l'activité volcanique, l'éruption se termine le 10 décembre.",
    "section": "Histoire"
   },
-  "f135": {
+  "f131": {
    "kind": "measure",
    "value": 600,
    "unit": "mètres",
@@ -1047,35 +1018,35 @@
    "sentence": "Ils ont tracé un sentier d'une longueur de quarante-huit kilomètres sur un versant raide du volcan, depuis l'ancien village de Kapapala à 600 mètres d'altitude jusqu'au bord sud-est de la caldeira Mokuʻāweoweo.",
    "section": "Histoire"
   },
-  "f136": {
+  "f132": {
    "kind": "date",
    "value": "1779",
    "surface": "1779",
-   "sentence": "Le premier étranger à tenter d'atteindre le sommet est John Ledyard, de l'expédition du capitaine James Cook en 1779, depuis l'ouest ; il doit cependant rebrousser chemin.",
+   "sentence": "Le premier étranger à tenter d'atteindre le sommet est John Ledyard, de l'expédition du capitaine James Cook en 1779, depuis l'ouest; il doit cependant rebrousser chemin.",
    "section": "Histoire"
   },
-  "f137": {
+  "f133": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "La première ascension officielle du Mauna Loa est réussie le 16 février 1794 par le biologiste Archibald Menzies, le lieutenant Joseph Baker, l'aspirant George McKenzie et un homme dont le nom n'est pas mentionné, alors que le HMS Discovery passe l'hiver à l'abri dans les eaux tropicales.",
    "section": "Histoire"
   },
-  "f138": {
+  "f134": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "La première ascension officielle du Mauna Loa est réussie le 16 février 1794 par le biologiste Archibald Menzies, le lieutenant Joseph Baker, l'aspirant George McKenzie et un homme dont le nom n'est pas mentionné, alors que le HMS Discovery passe l'hiver à l'abri dans les eaux tropicales.",
    "section": "Histoire"
   },
-  "f139": {
+  "f135": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "En 1840, une expédition américaine de trois cents hommes dirigée par Charles Wilkes gravit le Mauna Loa.",
    "section": "Histoire"
   },
-  "f140": {
+  "f136": {
    "kind": "measure",
    "value": 800,
    "unit": "mètres",
@@ -1083,28 +1054,28 @@
    "sentence": "Un groupe de cinquante membres campe durant vingt-huit jours au Pendulum Peak, à 800 mètres au nord de l'extrémité de l'ʻainapo, pour cartographier l'ensemble des cratères du volcan.",
    "section": "Histoire"
   },
-  "f141": {
+  "f137": {
    "kind": "date",
    "value": "1915",
    "surface": "1915",
-   "sentence": "En 1915, une compagnie de soldats noirs-Américains reçoit l'ordre de construire le Mauna Loa Trail depuis l'emplacement d'origine du Hawaiian Volcano Observatory, actuellement transformé en maison du volcan (Volcano House), jusqu'à la caldeira Mokuʻāweoweo, le long du rift est-nord-est, sur une longueur totale de quarante-deux kilomètres, afin de faciliter l'observation des éruptions, comme l'a suggéré trois ans auparavant Thomas Jaggar, volcanologue et fondateur de l'observatoire.",
+   "sentence": "En 1915, une compagnie de soldats noirs-Américains reçoit l'ordre de construire le Mauna Loa Trail depuis l'emplacement d'origine du Hawaiian Volcano Observatory, actuellement transformé en maison du volcan, jusqu'à la caldeira Mokuʻāweoweo, le long du rift est-nord-est, sur une longueur totale de quarante-deux kilomètres, afin de faciliter l'observation des éruptions, comme l'a suggéré trois ans auparavant Thomas Jaggar, volcanologue et fondateur de l'observatoire.",
    "section": "Histoire"
   },
-  "f142": {
+  "f138": {
    "kind": "date",
    "value": "1915",
    "surface": "1915",
    "sentence": "Toujours en 1915, l'armée construit le Red Hill Rest House à proximité du cône de Puʻu ʻUlaʻula, puis en 1934 un autre refuge est bâti au North Pit à 3 960 mètres d'altitude, déplacé à un endroit plus protégé en 1940.",
    "section": "Histoire"
   },
-  "f143": {
+  "f139": {
    "kind": "date",
    "value": "1934",
    "surface": "1934",
    "sentence": "Toujours en 1915, l'armée construit le Red Hill Rest House à proximité du cône de Puʻu ʻUlaʻula, puis en 1934 un autre refuge est bâti au North Pit à 3 960 mètres d'altitude, déplacé à un endroit plus protégé en 1940.",
    "section": "Histoire"
   },
-  "f144": {
+  "f140": {
    "kind": "measure",
    "value": 3960,
    "unit": "mètres",
@@ -1112,7 +1083,7 @@
    "sentence": "Toujours en 1915, l'armée construit le Red Hill Rest House à proximité du cône de Puʻu ʻUlaʻula, puis en 1934 un autre refuge est bâti au North Pit à 3 960 mètres d'altitude, déplacé à un endroit plus protégé en 1940.",
    "section": "Histoire"
   },
-  "f145": {
+  "f141": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
