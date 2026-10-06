@@ -154,5 +154,123 @@
    "pickedAt": "2026-10-06T08:55:02.201Z",
    "attempt": 0
   }
+ },
+ "2026-10-12": {
+  "morning": {
+   "title": "Mars (Planet)",
+   "qid": "Q111",
+   "pageid": 3992421,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:56:00.824Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Gemeiner Steinpilz",
+   "qid": "Q19740",
+   "pageid": 48362,
+   "domain": "plants",
+   "image": {
+    "file": "File:Boletus edulis LC0371.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:56:01.582Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-13": {
+  "morning": {
+   "title": "Caesium",
+   "qid": "Q1108",
+   "pageid": 809,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Cesium.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:56:02.739Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Mauna Loa",
+   "qid": "Q159762",
+   "pageid": 3367,
+   "domain": "landscapes",
+   "image": {
+    "file": "File:Mauna Loa.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T08:56:03.692Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-14": {
+  "morning": {
+   "title": "Charles Darwin",
+   "qid": "Q1035",
+   "pageid": 884,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Charles Darwin seated crop.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:56:05.020Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Schildkröten",
+   "qid": "Q223044",
+   "pageid": 33397,
+   "domain": "animals",
+   "image": {
+    "file": "File:Emys orbicularis 1.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:57:01.507Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-15": {
+  "morning": {
+   "title": "Japan",
+   "qid": "Q17",
+   "pageid": 2556,
+   "domain": "places",
+   "image": {
+    "file": "File:Satellite image of Japan in May 2003.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:57:02.287Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Sauerstoff",
+   "qid": "Q629",
+   "pageid": 4543,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Liquid oxygen in a beaker (cropped and retouched).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:57:04.621Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-16": {
+  "morning": {
+   "title": "Caspar David Friedrich",
+   "qid": "Q104884",
+   "pageid": 11256,
+   "domain": "people-arts",
+   "image": {
+    "file": "File:Carl Johann Baehr - Bildnis des Malers Caspar David Friedrich.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:57:04.939Z",
+   "attempt": 0
+  }
  }
 }
