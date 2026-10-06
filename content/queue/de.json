@@ -518,5 +518,71 @@
    "pickedAt": "2026-10-06T09:01:07.947Z",
    "attempt": 0
   }
+ },
+ "2026-10-26": {
+  "morning": {
+   "title": "Velociraptor",
+   "qid": "Q14403",
+   "pageid": 126531,
+   "domain": "animals",
+   "image": {
+    "file": "File:Velociraptor mount.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:02:00.501Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Beteigeuze",
+   "qid": "Q12124",
+   "pageid": 699,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Location of the binary system of Betelgeuse in constellation Orion.png",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T09:02:01.264Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-27": {
+  "morning": {
+   "title": "Robert Falcon Scott",
+   "qid": "Q102527",
+   "pageid": 131547,
+   "domain": "people-other",
+   "image": {
+    "file": "File:Scott of the Antarctic (bw) (cropped).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:02:02.418Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Diplodocus",
+   "qid": "Q14330",
+   "pageid": 128589,
+   "domain": "animals",
+   "image": {
+    "file": "File:CM Diplodocus.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:03:01.767Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-28": {
+  "morning": {
+   "title": "Hyderabad (Indien)",
+   "qid": "Q1361",
+   "pageid": 196826,
+   "domain": "cities",
+   "image": {
+    "file": "File:Hyderabad montage-2.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:03:01.936Z",
+   "attempt": 0
+  }
  }
 }
