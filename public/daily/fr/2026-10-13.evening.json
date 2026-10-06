@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-13-evening",
+ "date": "2026-10-13",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Cygnus X-1",
+  "qid": "Q332674",
+  "pageid": 43241,
+  "revid": 239944831,
+  "domain": "astronomy",
+  "teaser": "Binaire X à forte masse de la constellation du Cygne"
+ },
+ "sources": [
+  {
+   "title": "Cygnus X-1",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Cygnus_X-1&oldid=239944831",
+   "revid": 239944831,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Chandra image of Cygnus X-1.jpg",
+   "w": 2400,
+   "h": 2400,
+   "alt": "Cygnus X-1",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chandra_image_of_Cygnus_X-1.jpg/960px-Chandra_image_of_Cygnus_X-1.jpg",
+   "sha1": "fabdeafa80f07828d82bede393ab2c34e841d4da",
+   "credit": {
+    "author": "NASA's Chandra X-ray Observatory; Credits: NASA/CXC",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Chandra_image_of_Cygnus_X-1.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Cygnus X-1",
+    "line": "Binaire X à forte masse de la constellation du Cygne",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Ainsi la nature de Cygnus X-1 fut longtemps débattu."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Cygnus X-1",
+    "line": "Binaire X à forte masse de la constellation du Cygne",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cygnus X-1 est une source de rayon X dans la constellation du Cygne, plus précisément une binaire X à forte masse."
+   },
+   {
+    "type": "closing",
+    "text": "Le système est composé d’une étoile variable supergéante bleu et d’un trou noir."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Cygnus X-1",
+    "line": "Binaire X à forte masse de la constellation du Cygne",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cygnus X-1 est une source de rayon X dans la constellation du Cygne, plus précisément une binaire X à forte masse."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Cygnus X-1"
+   },
+   {
+    "type": "closing",
+    "text": "Le système est composé d’une étoile variable supergéante bleu et d’un trou noir."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1d3124a4f93546.168305c81c5e38"
+ }
+}

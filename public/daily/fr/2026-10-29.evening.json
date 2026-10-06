@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-29-evening",
+ "date": "2026-10-29",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Ceinture de Kuiper",
+  "qid": "Q427",
+  "pageid": 25051,
+  "revid": 237473772,
+  "domain": "astronomy",
+  "teaser": "Zone du Système solaire s’étendant au-delà de l’orbite de Neptune"
+ },
+ "sources": [
+  {
+   "title": "Ceinture de Kuiper",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Ceinture_de_Kuiper&oldid=237473772",
+   "revid": 237473772,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Outersolarsystem objectpositions labels comp-fr.png",
+   "w": 2708,
+   "h": 2656,
+   "alt": "Ceinture de Kuiper",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Outersolarsystem_objectpositions_labels_comp-fr.png/960px-Outersolarsystem_objectpositions_labels_comp-fr.png",
+   "sha1": "51c87ac019cbc6f25e912f97f3fa1719d0992942",
+   "credit": {
+    "author": "WilyD",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Outersolarsystem_objectpositions_labels_comp-fr.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Ceinture de Kuiper",
+    "line": "Zone du Système solaire s’étendant au-delà de l’orbite de Neptune",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Les centaures et les objets épars, tels qu’Éris, en seraient issus."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Ceinture de Kuiper",
+    "line": "Zone du Système solaire s’étendant au-delà de l’orbite de Neptune",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La ceinture de Kuiper est une zone du Système solaire s’étendant au-delà de l’orbite de Neptune, entre 30 et 55 unités astronomiques."
+   },
+   {
+    "type": "closing",
+    "text": "La ceinture de Kuiper ne doit pas être confondue avec le nuage d’Oort, zone encore théorique et supposée être mille fois plus éloignée."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Ceinture de Kuiper",
+    "line": "Zone du Système solaire s’étendant au-delà de l’orbite de Neptune",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La ceinture de Kuiper est une zone du Système solaire s’étendant au-delà de l’orbite de Neptune, entre 30 et 55 unités astronomiques."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ceinture de Kuiper"
+   },
+   {
+    "type": "closing",
+    "text": "Les objets de la ceinture de Kuiper, ainsi que les objets épars et tout membre potentiel des nuages de Hills et de Oort, sont collectivement nommés objets transneptuniens."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "098df2e3448d50.19cebfc11a02f1"
+ }
+}

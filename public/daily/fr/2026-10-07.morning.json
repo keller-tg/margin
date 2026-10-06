@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-07-morning",
+ "date": "2026-10-07",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Manchester",
+  "qid": "Q18125",
+  "pageid": 58685,
+  "revid": 238893714,
+  "domain": "cities",
+  "teaser": "Ville en Angleterre, Royaume-Uni"
+ },
+ "sources": [
+  {
+   "title": "Manchester",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Manchester&oldid=238893714",
+   "revid": 238893714,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Manchester montage 2012.jpg",
+   "w": 1727,
+   "h": 2280,
+   "alt": "Manchester",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Manchester_montage_2012.jpg/960px-Manchester_montage_2012.jpg",
+   "sha1": "f6e8cf87a303c23dbde135cb94375d76246d3069",
+   "credit": {
+    "author": "File:Manchester In Colour!.jpg → Pete Birkinshaw from Manchester, UK",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Manchester_montage_2012.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 260,
+   "unit": "km",
+   "surface": "260 km"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "2002",
+   "surface": "2002"
+  },
+  "f12": {
+   "kind": "measure",
+   "value": 260,
+   "unit": "hectares",
+   "surface": "260 hectares"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1776",
+   "surface": "1776"
+  },
+  "f27": {
+   "kind": "date",
+   "value": "1729",
+   "surface": "1729"
+  },
+  "f74": {
+   "kind": "date",
+   "value": "1982",
+   "surface": "1982"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Manchester",
+    "line": "Ville en Angleterre, Royaume-Uni",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester est une ville du Royaume-Uni située dans le comté métropolitain du Grand Manchester."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f12",
+    "display": "260 hectares",
+    "caption": "L’espace vert le plus important de la ville est Heaton Park et ses 260 hectares."
+   },
+   {
+    "type": "closing",
+    "text": "La ville accueillit en 2002 les jeux du Commonwealth."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Manchester",
+    "line": "Ville en Angleterre, Royaume-Uni",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester est une ville du Royaume-Uni située dans le comté métropolitain du Grand Manchester."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Manchester"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "260 km",
+    "caption": "Manchester est située à 260 km au nord-ouest de Londres, sur la rive est de la rivière Irwell."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f27",
+      "label": "Une bourse de commerce est ouverte en 1729."
+     },
+     {
+      "fact": "f26",
+      "label": "Le canal est prolongé vers la Mersey en 1776."
+     },
+     {
+      "fact": "f74",
+      "label": "Le trafic décline donc progressivement, et le port finit par fermer en 1982."
+     },
+     {
+      "fact": "f8",
+      "label": "La ville accueillit en 2002 les jeux du Commonwealth."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester est catégorisée comme une ville « bêta » par le GaWC."
+   },
+   {
+    "type": "closing",
+    "text": "Manchester est également une importante ville étudiante avec ses deux universités, l’université de Manchester et l’université métropolitaine de Manchester qui."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Manchester",
+    "line": "Ville en Angleterre, Royaume-Uni",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester est une ville du Royaume-Uni située dans le comté métropolitain du Grand Manchester."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Manchester"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "260 km",
+    "caption": "Manchester est située à 260 km au nord-ouest de Londres, sur la rive est de la rivière Irwell."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f27",
+      "label": "Une bourse de commerce est ouverte en 1729."
+     },
+     {
+      "fact": "f26",
+      "label": "Le canal est prolongé vers la Mersey en 1776."
+     },
+     {
+      "fact": "f74",
+      "label": "Le trafic décline donc progressivement, et le port finit par fermer en 1982."
+     },
+     {
+      "fact": "f8",
+      "label": "La ville accueillit en 2002 les jeux du Commonwealth."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester est située à 260 km au nord-ouest de Londres, dans une « cuvette » bordée au nord et à l’est par les Pennines, une chaîne montagneuse du nord de l’Angleterre."
+   },
+   {
+    "type": "sentence",
+    "text": "Le centre-ville de Manchester se situe sur la rive est de l’Irwell, non loin de l’endroit où celle-ci rencontre ses confluents que sont la Medlock et l’Irk."
+   },
+   {
+    "type": "sentence",
+    "text": "La plus grande partie de la ville est parfaitement plate, notamment au sud, et certains immeubles offrent des vues imprenables sur les contreforts et les landes des Pennines, souvent recouverts de neige en hiver."
+   },
+   {
+    "type": "sentence",
+    "text": "L’espace vert le plus important de la ville est Heaton Park et ses 260 hectares."
+   },
+   {
+    "type": "sentence",
+    "text": "Pour l’Office national des statistiques, Manchester constitue la ville la plus peuplée au sein de l’aire urbaine du Grand Manchester, et la troisième conurbation du Royaume-Uni en nombre d’habitants."
+   },
+   {
+    "type": "sentence",
+    "text": "Le nom « Manchester » est issu du nom romain Mamucium donné au fort et au village romain implanté en ce lieu."
+   },
+   {
+    "type": "closing",
+    "text": "Manchester est également une importante ville étudiante avec ses deux universités, l’université de Manchester et l’université métropolitaine de Manchester qui, avec entre-autres le Royal Northern College of Music, regroupent plus de 70 000 étudiants."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1752ee5dccc919.1036ee784c259c"
+ }
+}

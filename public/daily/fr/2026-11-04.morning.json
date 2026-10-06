@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-04-morning",
+ "date": "2026-11-04",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Snooker",
+  "qid": "Q11015",
+  "pageid": 72632,
+  "revid": 239701267,
+  "domain": "sport",
+  "teaser": "Variante du billard"
+ },
+ "sources": [
+  {
+   "title": "Snooker",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Snooker&oldid=239701267",
+   "revid": 239701267,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Snooker table selby.JPG",
+   "w": 2500,
+   "h": 1611,
+   "alt": "Snooker",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Snooker_table_selby.JPG/960px-Snooker_table_selby.JPG",
+   "sha1": "bedea018ce7030ac6e19d7c9dd53899a66356e1e",
+   "credit": {
+    "author": "DmitryYakunin",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Snooker_table_selby.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f8": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1875",
+   "surface": "1875"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1916",
+   "surface": "1916"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1927",
+   "surface": "1927"
+  },
+  "f78": {
+   "kind": "measure",
+   "value": 1200,
+   "unit": "kg",
+   "surface": "1 200 kg"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Snooker",
+    "line": "Variante du billard",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le snooker est une des variantes du billard."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "1 200 kg",
+    "caption": "Une table de snooker pèse environ 1 200 kg."
+   },
+   {
+    "type": "closing",
+    "text": "Chez les dames, c’est la chinoise Bai Yulu qui est sacrée championne du monde."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Snooker",
+    "line": "Variante du billard",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le snooker est une des variantes du billard."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Snooker"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "1 200 kg",
+    "caption": "Une table de snooker pèse environ 1 200 kg."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f9",
+      "label": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain."
+     },
+     {
+      "fact": "f13",
+      "label": "En 1916, le tout premier tournoi de snooker a été mis en place."
+     },
+     {
+      "fact": "f14",
+      "label": "En 1927, la légende du snooker, Joe Davis introduit un championnat du monde professionnel."
+     },
+     {
+      "fact": "f8",
+      "label": "En 2025, le titre masculin est remporté par le joueur chinois Zhao Xintong."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Seule la bille blanche peut être directement frappée par le joueur à l’aide d’une queue de billard."
+   },
+   {
+    "type": "closing",
+    "text": "Chez les dames, c’est la chinoise Bai Yulu qui est sacrée championne du monde."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Snooker",
+    "line": "Variante du billard",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le snooker est une des variantes du billard."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Snooker"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "1 200 kg",
+    "caption": "Une table de snooker pèse environ 1 200 kg."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f9",
+      "label": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain."
+     },
+     {
+      "fact": "f13",
+      "label": "En 1916, le tout premier tournoi de snooker a été mis en place."
+     },
+     {
+      "fact": "f14",
+      "label": "En 1927, la légende du snooker, Joe Davis introduit un championnat du monde professionnel."
+     },
+     {
+      "fact": "f8",
+      "label": "En 2025, le titre masculin est remporté par le joueur chinois Zhao Xintong."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Vers la fin du XIXe siècle, le billard qui remonte au XVe siècle, était populaire parmi les officiers britanniques stationnés en Inde."
+   },
+   {
+    "type": "sentence",
+    "text": "Dans un premier temps furent rajoutées la bille jaune, verte et rose ; les billes marron et bleue apparurent vers 1880."
+   },
+   {
+    "type": "sentence",
+    "text": "Dix ans plus tard, en 1885, à l’occasion d’un voyage en Inde du champion britannique de billard John Roberts, Chamberlain lui présenta ses innovations et introduisit par son biais la pratique du snooker en Angleterre."
+   },
+   {
+    "type": "sentence",
+    "text": "Un drap est tendu dessus."
+   },
+   {
+    "type": "sentence",
+    "text": "Une table de snooker coûte très cher mais il est toujours possible de jouer au snooker sur une table de billard de dimensions standard de 2,10 m."
+   },
+   {
+    "type": "sentence",
+    "text": "La planéité de la table est due à sa structure : huit pieds soutiennent des plaques d’ardoise placées côte-à-côte et serrées les unes contre les autres."
+   },
+   {
+    "type": "closing",
+    "text": "Chez les dames, c’est la chinoise Bai Yulu qui est sacrée championne du monde."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "004e81cc8f1645.1de5f2f5aa8897"
+ }
+}

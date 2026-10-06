@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-20-evening",
+ "date": "2026-10-20",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Mauna Loa",
+  "qid": "Q159762",
+  "pageid": 221546,
+  "revid": 235479204,
+  "domain": "landscapes",
+  "teaser": "Volcan d’Hawaï"
+ },
+ "sources": [
+  {
+   "title": "Mauna Loa",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Mauna_Loa&oldid=235479204",
+   "revid": 235479204,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mauna Loa.jpg",
+   "w": 1280,
+   "h": 960,
+   "alt": "Mauna Loa",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mauna_Loa.jpg/960px-Mauna_Loa.jpg",
+   "sha1": "7a8a91eac47a1aa836e6e5baadac12f6d3dc7ffe",
+   "credit": {
+    "author": "Gordon Joly",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mauna_Loa.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Mauna Loa",
+    "line": "Volcan d’Hawaï",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Depuis le XIXe siècle, ces éruptions se sont produites en moyenne tous les cinq ans."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Mauna Loa",
+    "line": "Volcan d’Hawaï",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Mauna Loa est un volcan actif des États-Unis situé sur l’île d’Hawaï, dans l’État du même nom."
+   },
+   {
+    "type": "closing",
+    "text": "Depuis, plusieurs itinéraires et quelques refuges ont été aménagés."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Mauna Loa",
+    "line": "Volcan d’Hawaï",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Mauna Loa est un volcan actif des États-Unis situé sur l’île d’Hawaï, dans l’État du même nom."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mauna Loa"
+   },
+   {
+    "type": "closing",
+    "text": "D’abord utilisés uniquement pour les recherches scientifiques, ceux-ci sont de nos jours fréquentés par les randonneurs qui, après une ascension longue et difficile jusqu’au sommet, peuvent contempler la grande caldeira."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "06a78cc642e6a7.18e6bd1965f395"
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-16-morning",
+ "date": "2026-10-16",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Sesame Street",
+  "qid": "Q155629",
+  "pageid": 63269,
+  "revid": 239438530,
+  "domain": "film",
+  "teaser": "Émission télévisée éducative américaine"
+ },
+ "sources": [
+  {
+   "title": "Sesame Street",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sesame_Street&oldid=239438530",
+   "revid": 239438530,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:BlogHer 08 - Sesame Street Suite (2682321763).jpg",
+   "w": 798,
+   "h": 1200,
+   "alt": "Sesame Street",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/41/BlogHer_08_-_Sesame_Street_Suite_%282682321763%29.jpg",
+   "sha1": "5ed7c892f1a1844909c837daac60237f208de2d9",
+   "credit": {
+    "author": "Josh Hallett from Winter Haven, FL, USA",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:BlogHer_08_-_Sesame_Street_Suite_(2682321763).jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f18": {
+   "kind": "date",
+   "value": "2021",
+   "surface": "2021"
+  },
+  "f20": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90%"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1966",
+   "surface": "1966"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1969",
+   "surface": "1969"
+  },
+  "f57": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "%",
+   "surface": "15%"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sesame Street",
+    "line": "Émission télévisée éducative américaine",
+    "image": "img1"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f57",
+    "display": "15%",
+    "caption": "Parmi les courriers que le CTW a reçus, 15% d’avis étaient les protestations."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sesame Street"
+   },
+   {
+    "type": "closing",
+    "text": "Critique inattendue, c’était l’opposition contre la caractéristique de Roosevelt Franklin, professeur noir d’une école fondamentale."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sesame Street",
+    "line": "Émission télévisée éducative américaine",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "En France, l’émission doublée en français fait son apparition dès 1974 sous la forme d’une séquence intitulée « Bonjour Sésame »."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sesame Street"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f20",
+    "display": "90%",
+    "caption": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f22",
+      "label": "En février 1966, cette idée parvient à Lloyd Morriset."
+     },
+     {
+      "fact": "f29",
+      "label": "L’émission commença ainsi le 10 novembre 1969."
+     },
+     {
+      "fact": "f18",
+      "label": "Ji-Young, personnage créé en 2021."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Puis, l’adaptation française nommée 1, rue Sésame est produite et diffusée de 1978 à 1982 sur TF1."
+   },
+   {
+    "type": "closing",
+    "text": "La communauté des noirs, de la classe moyenne, a protesté, en considérant que ce personnage représentait un stéréotype des noirs, négatif."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sesame Street",
+    "line": "Émission télévisée éducative américaine",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Sesame Street est une série télévisée éducative américaine pour enfants créée par Joan Ganz Cooney et Lloyd Morrisett, produite par Children’s Television Workshop et diffusée depuis le 10 novembre 1969 sur le réseau PBS."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sesame Street"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f20",
+    "display": "90%",
+    "caption": "Même des foyers américains dont le revenu est inférieur à 5 000 dollars, 90% possèdent déjà le téléviseur."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f22",
+      "label": "En février 1966, cette idée parvient à Lloyd Morriset."
+     },
+     {
+      "fact": "f29",
+      "label": "L’émission commença ainsi le 10 novembre 1969."
+     },
+     {
+      "fact": "f18",
+      "label": "Ji-Young, personnage créé en 2021."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Au XXe siècle aux États-Unis, l’échec scolaire des jeunes enfants devient un gros problème."
+   },
+   {
+    "type": "sentence",
+    "text": "Éminent professeur de l’université Harvard, Lesser a été dissuadé par ses collègues, de s’engager dans un sujet non académique tel que la télévision."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1970, chaque épisode de Sesame Street coûte 28 000 dollars tandis qu’une publicité des chaînes américaines reste, le week-end au matin, à 7 500 dollars environ."
+   },
+   {
+    "type": "sentence",
+    "text": "De nombreux journalistes s’intéressaient au programme de Sesame Street."
+   },
+   {
+    "type": "sentence",
+    "text": "En effet, le tournage est si strictement contrôlé par les spécialistes que l’émission en devient vraiment coûteuse."
+   },
+   {
+    "type": "sentence",
+    "text": "En outre, entre octobre et décembre 1969, plus de cent articles et éditoriaux sur l’émission sont apparus dans les journaux américains, dans toutes les régions."
+   },
+   {
+    "type": "closing",
+    "text": "Au Québec, un doublage québécois est diffusé sous le titre Sésame entre le 31 août 1975 et le 28 août 1978 sur la Télévision de Radio-Canada."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "07a49e8092dc06.09f11cc6f7f8d8"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-10-evening",
+ "date": "2026-10-10",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Yucca",
+  "qid": "Q156317",
+  "pageid": 27548,
+  "revid": 234369460,
+  "domain": "plants",
+  "teaser": "Genre de plantes à fleurs"
+ },
+ "sources": [
+  {
+   "title": "Yucca",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Yucca&oldid=234369460",
+   "revid": 234369460,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Yucca aloifolia 1.jpg",
+   "w": 1200,
+   "h": 2000,
+   "alt": "Yucca",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Yucca_aloifolia_1.jpg/960px-Yucca_aloifolia_1.jpg",
+   "sha1": "3303cf5b93aa3b34a25f861db9367d7505c993b4",
+   "credit": {
+    "author": "Stan Shebs",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Yucca_aloifolia_1.jpg",
+    "attribution": "Stan Shebs",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Yucca",
+    "line": "Genre de plantes à fleurs",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Série Baccatae McKelvey ex Hochstätter Yucca baccata Torr."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Yucca",
+    "line": "Genre de plantes à fleurs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Yucca est un genre de 40-50 espèces de plantes vivaces arbustives remarquables par leurs rosettes de feuilles dures, en forme d’épée."
+   },
+   {
+    "type": "closing",
+    "text": "Yucca brevifolia est aussi appelé Joshua Tree."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Yucca",
+    "line": "Genre de plantes à fleurs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Yucca est un genre de 40-50 espèces de plantes vivaces arbustives remarquables par leurs rosettes de feuilles dures, en forme d’épée, et par les grappes de fleurs blanches ou tirant sur le blanc."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Yucca"
+   },
+   {
+    "type": "closing",
+    "text": "Yucca brevifolia est aussi appelé Joshua Tree."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "181921d611724b.147905df06b661"
+ }
+}

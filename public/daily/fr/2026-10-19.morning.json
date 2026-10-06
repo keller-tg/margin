@@ -1,0 +1,169 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-19-morning",
+ "date": "2026-10-19",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Empire parthe",
+  "qid": "Q1986139",
+  "pageid": 28965,
+  "revid": 237757791,
+  "domain": "history",
+  "teaser": "État iranien antique, de 247 av. J.-C. à 224 apr. J.-C"
+ },
+ "sources": [
+  {
+   "title": "Empire parthe",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Empire_parthe&oldid=237757791",
+   "revid": 237757791,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Map Parthian Empire-fr.png",
+   "w": 1766,
+   "h": 914,
+   "alt": "Empire parthe",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Map_Parthian_Empire-fr.png/960px-Map_Parthian_Empire-fr.png",
+   "sha1": "8b84689a917e9e7fe2db13c0aa1cfd212d15c560",
+   "credit": {
+    "author": "Fabienkhan",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Map_Parthian_Empire-fr.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f7": {
+   "kind": "number",
+   "value": 428,
+   "surface": "428"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Empire parthe",
+    "line": "État iranien antique, de 247 av. J.-C. à 224 apr. J.-C",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La cour parthe maintient des documents historiques."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "428",
+    "caption": "La dynastie arsacide parvient à se maintenir en Arménie jusqu’en 428."
+   },
+   {
+    "type": "closing",
+    "text": "Celles-ci sont principalement grecques et romaines."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Empire parthe",
+    "line": "État iranien antique, de 247 av. J.-C. à 224 apr. J.-C",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’Empire parthe, également appelé Empire arsacide, est une importante puissance politique et culturelle iranienne dans la Perse antique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire parthe"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "428",
+    "caption": "La dynastie arsacide parvient à se maintenir en Arménie jusqu’en 428."
+   },
+   {
+    "type": "sentence",
+    "text": "La cour nomme quelques satrapes, la plupart hors d’Iran, mais ces satrapies sont plus petites et moins puissantes que les potentats achéménides."
+   },
+   {
+    "type": "sentence",
+    "text": "La cour parthe maintient des documents historiques, mais les Parthes n’ont aucune étude formelle de l’histoire."
+   },
+   {
+    "type": "closing",
+    "text": "Celles-ci sont principalement grecques et romaines, mais également chinoises, du fait des échanges commerciaux entre les deux régions du monde."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Empire parthe",
+    "line": "État iranien antique, de 247 av. J.-C. à 224 apr. J.-C",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’Empire parthe, également appelé Empire arsacide, est une importante puissance politique et culturelle iranienne dans la Perse antique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire parthe"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "428",
+    "caption": "La dynastie arsacide parvient à se maintenir en Arménie jusqu’en 428."
+   },
+   {
+    "type": "sentence",
+    "text": "Arsace Ier, chef des Parni, une tribu scythe d’Asie centrale, fonde l’Empire parthe au milieu du IIIe siècle av. J.-C., lorsqu’il conquiert la Parthie dans le nord-est de l’Iran, une satrapie alors en rébellion contre l’Empire séleucide."
+   },
+   {
+    "type": "sentence",
+    "text": "Des documents écrits locaux et étrangers, de même que des œuvres d’art, ont été utilisés pour reconstruire l’histoire parthe."
+   },
+   {
+    "type": "sentence",
+    "text": "La cour parthe maintient des documents historiques, mais les Parthes n’ont aucune étude formelle de l’histoire ; le plus ancien ouvrage sur l’histoire de l’Iran, le Khwaday-Namag, n’est pas compilé avant le règne du dernier roi sassanide Yazdgard III."
+   },
+   {
+    "type": "sentence",
+    "text": "Les sources locales sur l’histoire parthe sont assez rares et il s’agit de la période de l’histoire iranienne avec le moins d’informations disponibles."
+   },
+   {
+    "type": "sentence",
+    "text": "La plupart des documents écrits contemporains sur la Parthie sont écrits en grec, en parthe et en araméen."
+   },
+   {
+    "type": "sentence",
+    "text": "La langue parthe est rédigée dans une écriture distincte dérivée de l’alphabet araméen des Achéménides, puis en écriture pehlevi."
+   },
+   {
+    "type": "sentence",
+    "text": "Les sources locales les plus utiles pour reconstituer une chronologie précise des rois arsacides sont les pièces métalliques frappées par chaque dirigeant."
+   },
+   {
+    "type": "closing",
+    "text": "Celles-ci sont principalement grecques et romaines, mais également chinoises, du fait des échanges commerciaux entre les deux régions du monde."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0c912d9214ed16.01192eb3b27cef"
+ }
+}

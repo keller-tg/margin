@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-17-evening",
+ "date": "2026-10-17",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Hydrogène",
+  "qid": "Q556",
+  "pageid": 3823265,
+  "revid": 240005027,
+  "domain": "chemistry",
+  "teaser": "Hydrogène"
+ },
+ "sources": [
+  {
+   "title": "Hydrogène",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Hydrog%C3%A8ne&oldid=240005027",
+   "revid": 240005027,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Liquid hydrogen bubblechamber.jpg",
+   "w": 640,
+   "h": 852,
+   "alt": "Hydrogène",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/76/Liquid_hydrogen_bubblechamber.jpg",
+   "sha1": "ac30ccc3dbfc0e860355afa09ebd63e08d8a2996",
+   "credit": {
+    "author": "Uncredited/DOE",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Liquid_hydrogen_bubblechamber.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Hydrogène",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "L’hydrogène peut avoir les nombres d’oxydation 0, +I et –I."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Hydrogène",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Un troisième isotope, le tritium 3H, instable, est produit dans les réactions de fission nucléaire."
+   },
+   {
+    "type": "closing",
+    "text": "C’est un composant majeur des planètes géantes, sous forme métallique au cœur de Jupiter et de Saturne."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Hydrogène",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’hydrogène est l’élément chimique de numéro atomique 1, de symbole H. L’hydrogène présent sur Terre est presque entièrement constitué de l’isotope 1H et d’environ 0,01 % de deutérium 2H."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hydrogène"
+   },
+   {
+    "type": "closing",
+    "text": "C’est un composant majeur des planètes géantes, sous forme métallique au cœur de Jupiter et de Saturne, et sous la forme de dihydrogène solide, liquide ou gazeux dans leurs couches plus externes et dans les autres planètes géantes."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.8,
+ "verified": {
+  "version": 1,
+  "hash": "00c5d21c461937.116a3b02a5dbde"
+ }
+}

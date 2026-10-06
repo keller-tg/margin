@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-07-evening",
+ "date": "2026-10-07",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Boletus edulis",
+  "qid": "Q19740",
+  "pageid": 181665,
+  "revid": 238005858,
+  "domain": "plants",
+  "teaser": "Espèce de champignons"
+ },
+ "sources": [
+  {
+   "title": "Boletus edulis",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Boletus_edulis&oldid=238005858",
+   "revid": 238005858,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Boletus edulis 0.jpg",
+   "w": 1167,
+   "h": 1186,
+   "alt": "Boletus edulis",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Boletus_edulis_0.jpg/960px-Boletus_edulis_0.jpg",
+   "sha1": "b206973527eafad6e1baa29f6daea352c8cbc12c",
+   "credit": {
+    "author": "Matthieu Brochon",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Boletus_edulis_0.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Boletus edulis",
+    "line": "Espèce de champignons",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Le Cèpe de Bordeaux est une espèce de bolet du nom scientifique de Boletus edulis."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Boletus edulis",
+    "line": "Espèce de champignons",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Boletus edulis, le Cèpe de Bordeaux, est une espèce de champignons basidiomycètes de la famille des Boletaceae que l’on rencontre dans l’hémisphère nord."
+   },
+   {
+    "type": "closing",
+    "text": "Cet excellent champignon comestible très recherché, est commercialisé et cuisiné mondialement sous diverses formes."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Boletus edulis",
+    "line": "Espèce de champignons",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Boletus edulis, le Cèpe de Bordeaux, est une espèce de champignons basidiomycètes de la famille des Boletaceae que l’on rencontre dans l’hémisphère nord."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Boletus edulis"
+   },
+   {
+    "type": "closing",
+    "text": "Cet excellent champignon comestible très recherché, est commercialisé et cuisiné mondialement sous diverses formes."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1c02d3590aceb9.15eb8af12f6b9a"
+ }
+}

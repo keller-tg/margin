@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-18-morning",
+ "date": "2026-10-18",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Îles Malouines",
+  "qid": "Q9648",
+  "pageid": 71736,
+  "revid": 239951398,
+  "domain": "islands",
+  "teaser": "Archipel de l’Atlantique Sud formant un territoire britannique d’outre-mer"
+ },
+ "sources": [
+  {
+   "title": "Îles Malouines",
+   "url": "https://fr.wikipedia.org/w/index.php?title=%C3%8Eles_Malouines&oldid=239951398",
+   "revid": 239951398,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+   "w": 1400,
+   "h": 1000,
+   "alt": "Îles Malouines",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Falkland-Islands-Terra-2011-01-23-250m.jpg/960px-Falkland-Islands-Terra-2011-01-23-250m.jpg",
+   "sha1": "b659f73ac4e0bea8846826212e30146d4fbb63c3",
+   "credit": {
+    "author": "NASA",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f6": {
+   "kind": "measure",
+   "value": 12173,
+   "unit": "km2",
+   "surface": "12 173 km2"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1690",
+   "surface": "1690"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1833",
+   "surface": "1833"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1911",
+   "surface": "1911"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009"
+  },
+  "f35": {
+   "kind": "measure",
+   "value": 12173,
+   "unit": "km2",
+   "surface": "12 173 km2"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Îles Malouines",
+    "line": "Archipel de l’Atlantique Sud formant un territoire britannique d’outre-mer",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f35",
+    "display": "12 173 km2",
+    "caption": "L’ensemble représente une surface de 12 173 km2."
+   },
+   {
+    "type": "closing",
+    "text": "L’église principale anglicane est la cathédrale du Christ-Roi de Stanley."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Îles Malouines",
+    "line": "Archipel de l’Atlantique Sud formant un territoire britannique d’outre-mer",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La superficie de l’archipel est de 12 173 km2, soit la plus importante des îles sub-antarctiques, équivalente à celle de l’Irlande du Nord."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Îles Malouines"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f35",
+    "display": "12 173 km2",
+    "caption": "L’ensemble représente une surface de 12 173 km2."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f13",
+      "label": "Lors d’une nouvelle exploration en 1690, John Strong."
+     },
+     {
+      "fact": "f21",
+      "label": "Le Royaume-Uni contrôle cependant l’archipel à partir de 1833."
+     },
+     {
+      "fact": "f22",
+      "label": "En 1911, les îles Malouines avaient 3275 habitants."
+     },
+     {
+      "fact": "f29",
+      "label": "Selon la Constitution de 2009, l’archipel dispose d’une autonomie interne complète."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet."
+   },
+   {
+    "type": "closing",
+    "text": "La langue officielle des Îles Malouines est l’anglais, parlé par 89 % de la population selon le recensement de 2006."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Îles Malouines",
+    "line": "Archipel de l’Atlantique Sud formant un territoire britannique d’outre-mer",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’archipel est composé de deux îles principales, la Grande Malouine et la Malouine orientale, séparées par un large chenal, le détroit des Malouines, ainsi que de plus de 750 îles et îlots."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Îles Malouines"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f6",
+    "display": "12 173 km2",
+    "caption": "La superficie de l’archipel est de 12 173 km2, soit la plus importante des îles sub-antarctiques, équivalente à celle de l’Irlande du Nord."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f13",
+      "label": "Lors d’une nouvelle exploration en 1690, John Strong."
+     },
+     {
+      "fact": "f21",
+      "label": "Le Royaume-Uni contrôle cependant l’archipel à partir de 1833."
+     },
+     {
+      "fact": "f22",
+      "label": "En 1911, les îles Malouines avaient 3275 habitants."
+     },
+     {
+      "fact": "f29",
+      "label": "Selon la Constitution de 2009, l’archipel dispose d’une autonomie interne complète."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet."
+   },
+   {
+    "type": "sentence",
+    "text": "La pêche représente 40 % du PIB et 60 % des recettes fiscales de l’archipel."
+   },
+   {
+    "type": "sentence",
+    "text": "Des réserves substantielles mais encore inexploitées de matières premières se trouveraient dans les fonds marins de leur territoire."
+   },
+   {
+    "type": "sentence",
+    "text": "Durant l’occupation argentine d’avril 1982 au 14 juin 1982, les timbres d’Argentine furent utilisés sans surcharge."
+   },
+   {
+    "type": "sentence",
+    "text": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents et continua à émettre ses propres timbres dès juillet 1982."
+   },
+   {
+    "type": "sentence",
+    "text": "L’ensemble représente une surface de 12 173 km2."
+   },
+   {
+    "type": "closing",
+    "text": "La langue officielle des Îles Malouines est l’anglais, parlé par 89 % de la population selon le recensement de 2006."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0bd13f82a33fc8.16cd3a14cc1fd8"
+ }
+}

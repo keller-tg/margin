@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-08-morning",
+ "date": "2026-10-08",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Ulrich Zwingli",
+  "qid": "Q123034",
+  "pageid": 63708,
+  "revid": 239976431,
+  "domain": "people-other",
+  "teaser": "Réformateur protestant suisse"
+ },
+ "sources": [
+  {
+   "title": "Ulrich Zwingli",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Ulrich_Zwingli&oldid=239976431",
+   "revid": 239976431,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Ulrich-Zwingli-1.jpg",
+   "w": 712,
+   "h": 1000,
+   "alt": "Ulrich Zwingli",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulrich-Zwingli-1.jpg",
+   "sha1": "c9e8f490fb30c8770e08209ccc179ddce04dde60",
+   "credit": {
+    "author": "Hans Asper",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ulrich-Zwingli-1.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f10": {
+   "kind": "date",
+   "value": "1506",
+   "surface": "1506"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1516",
+   "surface": "1516"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1513",
+   "surface": "1513"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1518",
+   "surface": "1518"
+  },
+  "f73": {
+   "kind": "measure",
+   "value": 47,
+   "unit": "ans",
+   "surface": "47 ans"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Ulrich Zwingli",
+    "line": "Réformateur protestant suisse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "1506-1516 : curé de la ville de Glaris."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f73",
+    "display": "47 ans",
+    "caption": "Zwingli avait 47 ans au moment de sa mort."
+   },
+   {
+    "type": "closing",
+    "text": "Le lien avec Zwingli n’est pas établi."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Ulrich Zwingli",
+    "line": "Réformateur protestant suisse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "1502 : s’inscrit à l’université de Bâle, où il obtient les grades de bachelier et de maître ès arts."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ulrich Zwingli"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f73",
+    "display": "47 ans",
+    "caption": "Zwingli avait 47 ans au moment de sa mort."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "1506-1516 : curé de la ville de Glaris."
+     },
+     {
+      "fact": "f14",
+      "label": "1513 : apprend le grec ancien."
+     },
+     {
+      "fact": "f11",
+      "label": "1516-1518 : chapelain de l’abbaye territoriale d’Einsiedeln."
+     },
+     {
+      "fact": "f18",
+      "label": "Fin 1518 : appelé comme prédicateur de la collégiale de Zurich."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "1512 : comme aumônier militaire des Suisses à la solde du pape, il participe à la bataille de Novare."
+   },
+   {
+    "type": "closing",
+    "text": "Des recherches plus étendues dans les collections d’armes européennes s’avèrent encore nécessaires pour identifier les marques de fabrication, ainsi qu’un écu gravé sur la lame."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Ulrich Zwingli",
+    "line": "Réformateur protestant suisse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Ulrich Zwingli est un réformateur protestant suisse, né à Wildhaus le 1er janvier 1484 et mort le 11 octobre 1531 à Kappel am Albis, principal artisan de la Réforme protestante à Zurich et, par la suite, en Suisse alémanique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ulrich Zwingli"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f73",
+    "display": "47 ans",
+    "caption": "Zwingli avait 47 ans au moment de sa mort."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "1506-1516 : curé de la ville de Glaris."
+     },
+     {
+      "fact": "f14",
+      "label": "1513 : apprend le grec ancien."
+     },
+     {
+      "fact": "f11",
+      "label": "1516-1518 : chapelain de l’abbaye territoriale d’Einsiedeln."
+     },
+     {
+      "fact": "f18",
+      "label": "Fin 1518 : appelé comme prédicateur de la collégiale de Zurich."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "1502 : s’inscrit à l’université de Bâle, où il obtient les grades de bachelier et de maître ès arts."
+   },
+   {
+    "type": "sentence",
+    "text": "1512 : comme aumônier militaire des Suisses à la solde du pape, il participe à la bataille de Novare."
+   },
+   {
+    "type": "sentence",
+    "text": "1516 : rencontre Érasme et l’imprimeur Johann Froben à Bâle."
+   },
+   {
+    "type": "sentence",
+    "text": "1er janvier 1519 : Zwingli prêche pour la première fois à la Grossmünster de Zurich."
+   },
+   {
+    "type": "sentence",
+    "text": "Marqué par l’épidémie de peste qui décime plus du tiers des habitants de la ville cette année-là, il approfondit sa foi et devient peu à peu un authentique réformateur."
+   },
+   {
+    "type": "sentence",
+    "text": "1519 : devient curé de Zurich."
+   },
+   {
+    "type": "closing",
+    "text": "Après l’échec de trois conférences destinées à convaincre les prélats catholiques de réformer l’ensemble de l’Église, toutes les images furent retirées des églises de Zurich par décision du magistrat de Zurich."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1a35b93436fac9.1e0aa42edb6f33"
+ }
+}

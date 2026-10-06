@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-03-evening",
+ "date": "2026-11-03",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Faucon pèlerin",
+  "qid": "Q30535",
+  "pageid": 171294,
+  "revid": 239957266,
+  "domain": "animals",
+  "teaser": "Espèce d’oiseaux falconiformes de la famille des falconidae"
+ },
+ "sources": [
+  {
+   "title": "Faucon pèlerin",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Faucon_p%C3%A8lerin&oldid=239957266",
+   "revid": 239957266,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Faucon pelerin 7 mai.jpg",
+   "w": 1027,
+   "h": 720,
+   "alt": "Faucon pèlerin",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Faucon_pelerin_7_mai.jpg/960px-Faucon_pelerin_7_mai.jpg",
+   "sha1": "e39ee4027c8356e9102d9c580e8c75b8cc4b0688",
+   "credit": {
+    "author": "Georges Lignier (georges.lignier@wanadoo.fr)",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Faucon_pelerin_7_mai.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Faucon pèlerin",
+    "line": "Espèce d’oiseaux falconiformes de la famille des falconidae",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Le terme « pèlerin » a la même origine."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Faucon pèlerin",
+    "line": "Espèce d’oiseaux falconiformes de la famille des falconidae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Faucon pèlerin est une espèce robuste de rapaces, de taille moyenne, réputée pour être la plus rapide du monde en piqué."
+   },
+   {
+    "type": "closing",
+    "text": "L’aire de répartition de l’espèce s’étend sur 10 000 000 km2."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Faucon pèlerin",
+    "line": "Espèce d’oiseaux falconiformes de la famille des falconidae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Faucon pèlerin est une espèce robuste de rapaces, de taille moyenne, réputée pour être la plus rapide du monde en piqué."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Faucon pèlerin"
+   },
+   {
+    "type": "closing",
+    "text": "L’aire de répartition de l’espèce s’étend sur 10 000 000 km2."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0a8400154d6e06.1bea99c744c2d2"
+ }
+}

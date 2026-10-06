@@ -1,0 +1,228 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-24-morning",
+ "date": "2026-10-24",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Empire du Brésil",
+  "qid": "Q217230",
+  "pageid": 3554983,
+  "revid": 236031964,
+  "domain": "history",
+  "teaser": "Ancien pays"
+ },
+ "sources": [
+  {
+   "title": "Empire du Brésil",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Empire_du_Br%C3%A9sil&oldid=236031964",
+   "revid": 236031964,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Paço imperial 1840.png",
+   "w": 1753,
+   "h": 1455,
+   "alt": "Empire du Brésil",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Pa%C3%A7o_imperial_1840.png/960px-Pa%C3%A7o_imperial_1840.png",
+   "sha1": "5cde58038f6ba9717bb430d07f24a085c3250f5d",
+   "credit": {
+    "author": "Paço_imperial_1850.jpg: Attributed to Louis Compte",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_imperial_1840.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "date",
+   "value": "1821",
+   "surface": "1821"
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 58,
+   "unit": "ans",
+   "surface": "58 ans"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1826",
+   "surface": "1826"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "1840",
+   "surface": "1840"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1846",
+   "surface": "1846"
+  },
+  "f79": {
+   "kind": "number",
+   "value": 50000,
+   "surface": "50 000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Empire du Brésil",
+    "line": "Ancien pays",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Quelques années après la libération du Portugal, Jean VI retourne en Europe en 1821."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire du Brésil"
+   },
+   {
+    "type": "closing",
+    "text": "Le nouveau pays est immense, mais peu peuplé et ethniquement divers."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Empire du Brésil",
+    "line": "Ancien pays",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’empire du Brésil ou, abusivement, l’Empire brésilien est une entité politique qui occupe, au XIXe siècle, sensiblement les territoires qui constituent le Brésil actuel."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire du Brésil"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f79",
+    "display": "50 000",
+    "caption": "Plus de 50 000 soldats brésiliens sont morts et la guerre a coûté au Brésil l’équivalent de onze fois son budget annuel."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f2",
+      "label": "Quelques années après la libération du Portugal, Jean VI retourne en Europe en 1821."
+     },
+     {
+      "fact": "f33",
+      "label": "D’autres difficultés surviennent lorsque le parlement impérial, l’Assemblée générale, est réuni en 1826."
+     },
+     {
+      "fact": "f44",
+      "label": "L’empereur est ainsi déclaré apte à gouverner en juillet 1840."
+     },
+     {
+      "fact": "f45",
+      "label": "Cependant, en 1846, Pierre II a suffisamment mûri physiquement et mentalement."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "D’abord colonie du royaume de Portugal, le Brésil devient le siège de l’empire colonial portugais en 1808, lorsque le futur roi Jean VI."
+   },
+   {
+    "type": "closing",
+    "text": "Comme Pierre II n’a pas d’héritier mâle, de plus en plus d’hommes politiques estiment qu’il n’y a aucune raison de conserver la monarchie."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Empire du Brésil",
+    "line": "Ancien pays",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’empire du Brésil ou, abusivement, l’Empire brésilien est une entité politique qui occupe, au XIXe siècle, sensiblement les territoires qui constituent le Brésil actuel."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire du Brésil"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f13",
+    "display": "58 ans",
+    "caption": "L’empereur est renversé, le 15 novembre 1889, après 58 ans de règne, par un coup d’État qui n’a pour soutien qu’un groupe de militaires désireux d’instaurer une république dictatoriale."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f2",
+      "label": "Quelques années après la libération du Portugal, Jean VI retourne en Europe en 1821."
+     },
+     {
+      "fact": "f33",
+      "label": "D’autres difficultés surviennent lorsque le parlement impérial, l’Assemblée générale, est réuni en 1826."
+     },
+     {
+      "fact": "f44",
+      "label": "L’empereur est ainsi déclaré apte à gouverner en juillet 1840."
+     },
+     {
+      "fact": "f45",
+      "label": "Cependant, en 1846, Pierre II a suffisamment mûri physiquement et mentalement."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le territoire qui devient par la suite le Brésil est revendiqué par le Portugal le 22 avril 1500, avec l’arrivée du navigateur Pedro Álvares Cabral sur ses côtes."
+   },
+   {
+    "type": "sentence",
+    "text": "Un peuplement permanent se met en place à partir de 1532 et, pendant les 300 années qui suivent, le pays s’étend lentement vers l’ouest jusqu’à atteindre la quasi-totalité des frontières du Brésil moderne."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1808, l’armée de l’empereur des Français Napoléon Ier envahit le Portugal, obligeant la famille royale dirigée par le prince régent Jean à partir en exil."
+   },
+   {
+    "type": "sentence",
+    "text": "Les Bragance s’installent alors dans la ville brésilienne de Rio de Janeiro, qui devient implicitement le siège de l’empire portugais."
+   },
+   {
+    "type": "sentence",
+    "text": "Le 16 décembre 1815, le prince Jean, en sa qualité de régent, crée le Royaume-Uni de Portugal, du Brésil et de l’Algarve, qui fait passer le Brésil du statut de colonie à celui de royaume."
+   },
+   {
+    "type": "sentence",
+    "text": "Jean VI monte sur le trône portugais l’année suivante, après la mort de sa mère, la reine Marie Ire."
+   },
+   {
+    "type": "closing",
+    "text": "Comme Pierre II n’a pas d’héritier mâle, de plus en plus d’hommes politiques estiment qu’il n’y a aucune raison de conserver la monarchie."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "06a7ee2cd6c189.03e0103a7314f7"
+ }
+}

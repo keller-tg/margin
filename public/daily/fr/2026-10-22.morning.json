@@ -1,0 +1,209 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-22-morning",
+ "date": "2026-10-22",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Allosaurus",
+  "qid": "Q14400",
+  "pageid": 126797,
+  "revid": 240048616,
+  "domain": "animals",
+  "teaser": "Genre de dinosaures théropodes"
+ },
+ "sources": [
+  {
+   "title": "Allosaurus",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Allosaurus&oldid=240048616",
+   "revid": 240048616,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:WLA hmns Allosaurus White Background.jpg",
+   "w": 2818,
+   "h": 2277,
+   "alt": "Allosaurus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/WLA_hmns_Allosaurus_White_Background.jpg/960px-WLA_hmns_Allosaurus_White_Background.jpg",
+   "sha1": "3dcb6ad13d9e3d0bf9dd3512c86f930b444d5158",
+   "credit": {
+    "author": "The_Wookies",
+    "authorSource": "artist",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:WLA_hmns_Allosaurus_White_Background.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 8.5,
+   "unit": "m",
+   "surface": "8,5 m"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1996",
+   "surface": "1996"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Allosaurus",
+    "line": "Genre de dinosaures théropodes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le genre a une taxonomie très complexe et comprend au moins trois espèces valides."
+   },
+   {
+    "type": "sentence",
+    "text": "Pendant plus de la moitié du XXe siècle, l’animal était connu sous le nom d’Antrodemus."
+   },
+   {
+    "type": "closing",
+    "text": "Certains paléontologues interprètent Allosaurus comme ayant eu un comportement social coopératif et chassant en meute."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Allosaurus",
+    "line": "Genre de dinosaures théropodes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le nom générique du taxon signifie littéralement « lézard différent », faisant allusion à ses vertèbres concaves uniques observées au moment de sa découverte."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Allosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "8,5 m",
+    "caption": "L’animal mesure en moyenne 8,5 m de long chez A. fragilis, les plus gros spécimens étant estimés à 9,7 m de long."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f8",
+      "label": "Othniel Charles Marsh donna à ces restes le nom officiel d’Allosaurus fragilis en 1877."
+     },
+     {
+      "fact": "f30",
+      "label": "La même équipe dégagea plus tard en 1996 un second Allosaurus, « Big Al II »."
+     },
+     {
+      "fact": "f31",
+      "label": "En 2020, ces deux spécimens sont vues comme faisant partie de l’espèce A. jimmadseni."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Les premiers restes fossiles pouvant être définitivement attribués à ce genre sont décrits en 1877 par le paléontologue américain Othniel Charles Marsh."
+   },
+   {
+    "type": "closing",
+    "text": "Certains paléontologues interprètent Allosaurus comme ayant eu un comportement social coopératif et chassant en meute."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Allosaurus",
+    "line": "Genre de dinosaures théropodes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le nom générique du taxon signifie littéralement « lézard différent », faisant allusion à ses vertèbres concaves uniques observées au moment de sa découverte."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Allosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "8,5 m",
+    "caption": "L’animal mesure en moyenne 8,5 m de long chez A. fragilis, les plus gros spécimens étant estimés à 9,7 m de long."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f8",
+      "label": "Othniel Charles Marsh donna à ces restes le nom officiel d’Allosaurus fragilis en 1877."
+     },
+     {
+      "fact": "f30",
+      "label": "La même équipe dégagea plus tard en 1996 un second Allosaurus, « Big Al II »."
+     },
+     {
+      "fact": "f31",
+      "label": "En 2020, ces deux spécimens sont vues comme faisant partie de l’espèce A. jimmadseni."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "L’histoire de la découverte et des premières études sur l’allosaure a été rendue compliquée par la multiplicité de noms inventés au cours de la « Guerre des os » lors de la fin du XIXe siècle."
+   },
+   {
+    "type": "sentence",
+    "text": "Le premier fossile décrit à ce sujet était un os obtenu de seconde main par Ferdinand Vandeveer Hayden en 1869."
+   },
+   {
+    "type": "sentence",
+    "text": "Les habitants considéraient ces os comme des « sabots pétrifiés de chevaux »."
+   },
+   {
+    "type": "sentence",
+    "text": "Hayden envoya l’os à Joseph Leidy, qui l’identifia comme étant la moitié d’une vertèbre caudale et il l’attribua provisoirement à un genre de dinosaures européens Poekilopleuron, créant ainsi Poicilopleuron valens."
+   },
+   {
+    "type": "sentence",
+    "text": "Allosaurus vient du grec ancien αλλος / allos, qui signifie « étrange » ou « différent » et σαῦρος / saûros, qui signifie « lézard » ou « reptile »."
+   },
+   {
+    "type": "sentence",
+    "text": "La dénomination spécifique fragilis est le mot latin pour « fragile », se référant aux caractéristiques de légèreté des vertèbres."
+   },
+   {
+    "type": "closing",
+    "text": "Certains paléontologues interprètent Allosaurus comme ayant eu un comportement social coopératif et chassant en meute."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "1b59edca0d7279.139397ec7dfad2"
+ }
+}

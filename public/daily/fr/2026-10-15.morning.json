@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-15-morning",
+ "date": "2026-10-15",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Pedro Álvares Cabral",
+  "qid": "Q174432",
+  "pageid": 127642,
+  "revid": 238624873,
+  "domain": "people-other",
+  "teaser": "Explorateur portugais"
+ },
+ "sources": [
+  {
+   "title": "Pedro Álvares Cabral",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Pedro_%C3%81lvares_Cabral&oldid=238624873",
+   "revid": 238624873,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Pedro Álvares Cabral - steel engraving by American Bank Note Company.jpg",
+   "w": 827,
+   "h": 1024,
+   "alt": "Pedro Álvares Cabral",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pedro_%C3%81lvares_Cabral_-_steel_engraving_by_American_Bank_Note_Company.jpg",
+   "sha1": "b439175e7b1d461306cf164e970374d487e3b931",
+   "credit": {
+    "author": "Unknown authorUnknown author",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Pedro_%C3%81lvares_Cabral_-_steel_engraving_by_American_Bank_Note_Company.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f16": {
+   "kind": "measure",
+   "value": 12,
+   "unit": "ans",
+   "surface": "12 ans"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "1492",
+   "surface": "1492"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1499",
+   "surface": "1499"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "1500",
+   "surface": "1500"
+  },
+  "f46": {
+   "kind": "date",
+   "value": "1495",
+   "surface": "1495"
+  },
+  "f88": {
+   "kind": "measure",
+   "value": 800,
+   "unit": "%",
+   "surface": "800 %"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Pedro Álvares Cabral",
+    "line": "Explorateur portugais",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f88",
+    "display": "800 %",
+    "caption": "Les marchandises transportées rapportent 800 % de profit à la Couronne portugaise."
+   },
+   {
+    "type": "closing",
+    "text": "Au total, deux navires rentrent vides, cinq pleins et six perdus."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Pedro Álvares Cabral",
+    "line": "Explorateur portugais",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Pedro Álvares Cabral"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "12 ans",
+    "caption": "Éduqué selon les usages de la petite noblesse, Cabral est envoyé en 1479 à la cour du roi Alphonse V, vers l’âge de 12 ans."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f31",
+      "label": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne."
+     },
+     {
+      "fact": "f46",
+      "label": "Le prix du poivre notamment avait pratiquement doublé depuis 1495 à Venise."
+     },
+     {
+      "fact": "f36",
+      "label": "Vasco de Gama rentre au Portugal en 1499."
+     },
+     {
+      "fact": "f39",
+      "label": "Cabral est nommé commandant en chef de cette flotte le 15 février 1500."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La flotte reprend la mer soit le 2 soit le 3 mai 1500 et navigue le long des côtes est de l’Amérique du Sud."
+   },
+   {
+    "type": "closing",
+    "text": "Une fois la cargaison vendue, les capitaux reçus firent plus que couvrir les coûts d’équipement de la flotte et le coût des vaisseaux perdus."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Pedro Álvares Cabral",
+    "line": "Explorateur portugais",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Chargé par le roi de Portugal Manuel Ier d’aller aux Indes afin de prolonger l’œuvre de Vasco de Gama, il accoste par hasard sur la côte de l’Amérique du Sud le 22 avril 1500 et prend possession de ce territoire."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Pedro Álvares Cabral"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "12 ans",
+    "caption": "Éduqué selon les usages de la petite noblesse, Cabral est envoyé en 1479 à la cour du roi Alphonse V, vers l’âge de 12 ans."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f31",
+      "label": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne."
+     },
+     {
+      "fact": "f46",
+      "label": "Le prix du poivre notamment avait pratiquement doublé depuis 1495 à Venise."
+     },
+     {
+      "fact": "f36",
+      "label": "Vasco de Gama rentre au Portugal en 1499."
+     },
+     {
+      "fact": "f39",
+      "label": "Cabral est nommé commandant en chef de cette flotte le 15 février 1500."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Les Portugais, qui explorent les côtes d’Afrique depuis les années 1410, d’abord sous la direction de l’infant Henri le Navigateur, découvrent le cap de Bonne-Espérance en 1488."
+   },
+   {
+    "type": "sentence",
+    "text": "La découverte de Colomb pose un problème : En vertu du traité d’Alcáçovas, elles devraient revenir au Portugal, puisqu’elles se trouvent au sud de la latitude des îles Canaries, possession de la Castille."
+   },
+   {
+    "type": "sentence",
+    "text": "Mais le traité d’Alcáçovas n’envisageait pas des terres aussi éloignées en longitude de l’Europe."
+   },
+   {
+    "type": "sentence",
+    "text": "La flotte reprend la mer soit le 2 soit le 3 mai 1500 et navigue le long des côtes est de l’Amérique du Sud."
+   },
+   {
+    "type": "sentence",
+    "text": "Dès 1500, devant les promesses du voyage de Vasco de Gama et malgré les difficultés, le roi du Portugal organise un deuxième convoi vers les Indes et place à sa tête Pedro Cabral."
+   },
+   {
+    "type": "sentence",
+    "text": "Le violet représente la fidélité, et les chèvres évoquent le nom de la famille."
+   },
+   {
+    "type": "closing",
+    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1aaf22c819994c.0664e6709f8183"
+ }
+}

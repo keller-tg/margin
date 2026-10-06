@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-12-morning",
+ "date": "2026-10-12",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Nil",
+  "qid": "Q3392",
+  "pageid": 2192,
+  "revid": 239691738,
+  "domain": "water",
+  "teaser": "Plus long fleuve d’Afrique"
+ },
+ "sources": [
+  {
+   "title": "Nil",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Nil&oldid=239691738",
+   "revid": 239691738,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Agilkia.jpg",
+   "w": 923,
+   "h": 676,
+   "alt": "Nil",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Agilkia.jpg",
+   "sha1": "3babdc5c6bb36157a8f63602da384b442e524b89",
+   "credit": {
+    "author": "Heinz Albers, www.heinzalbers.org",
+    "authorSource": "artist",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Agilkia.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 6700,
+   "unit": "km",
+   "surface": "6 700 km"
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90 %"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Nil",
+    "line": "Plus long fleuve d’Afrique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Nil est un fleuve d’Afrique."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f10",
+    "display": "90 %",
+    "caption": "90 % de l’eau et 96 % des sédiments transportés par le Nil proviennent de l’Éthiopie."
+   },
+   {
+    "type": "closing",
+    "text": "C’est de ce limon noir que vient le nom antique de l’Égypte, Kemet."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Nil",
+    "line": "Plus long fleuve d’Afrique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Nil est un fleuve d’Afrique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nil"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "6 700 km",
+    "caption": "Avec un cours de plus de 6 700 km, il est avec le fleuve Amazone, le plus long fleuve du monde."
+   },
+   {
+    "type": "sentence",
+    "text": "Le Nil Blanc prend sa source au lac Victoria ; le Nil Bleu est issu du lac Tana."
+   },
+   {
+    "type": "sentence",
+    "text": "Le Nil est la voie qu’empruntaient les Égyptiens pour se déplacer."
+   },
+   {
+    "type": "closing",
+    "text": "La construction de celui des années 1970 a nécessité le déplacement de plusieurs temples et de forteresses qui auraient été noyés dans le lac Nasser."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Nil",
+    "line": "Plus long fleuve d’Afrique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Nil est un fleuve d’Afrique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nil"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "6 700 km",
+    "caption": "Avec un cours de plus de 6 700 km, il est avec le fleuve Amazone, le plus long fleuve du monde."
+   },
+   {
+    "type": "sentence",
+    "text": "Le Nil Blanc prend sa source au lac Victoria ; le Nil Bleu est issu du lac Tana."
+   },
+   {
+    "type": "sentence",
+    "text": "Le bassin hydrographique du Nil couvre 3 254 555 km2, à peu près 10 % de la superficie de l’Afrique."
+   },
+   {
+    "type": "sentence",
+    "text": "Le débit du Nil Albert à Mongalla est presque constant pendant toute l’année, d’une moyenne de 1 048 m3/s."
+   },
+   {
+    "type": "sentence",
+    "text": "Hâpy était la personnification divine du Nil."
+   },
+   {
+    "type": "sentence",
+    "text": "Les deux grands affluents du Nil sont le Nil Blanc dont la source se trouve au Burundi sur l’équateur, et le Nil Bleu dont la source se trouve en Éthiopie."
+   },
+   {
+    "type": "sentence",
+    "text": "Après Mongalla, le Nil entre dans d’immenses marais au Sud du Soudan."
+   },
+   {
+    "type": "sentence",
+    "text": "Le débit moyen du Nahr Al Jebel, de Nahr à la fin des marais, est d’environ 510 m3/s."
+   },
+   {
+    "type": "closing",
+    "text": "La construction de celui des années 1970 a nécessité le déplacement de plusieurs temples et de forteresses qui auraient été noyés dans le lac Nasser."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "031938b02c161f.023b61945581f9"
+ }
+}

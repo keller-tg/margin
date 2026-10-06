@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-09-evening",
+ "date": "2026-10-09",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Grand requin blanc",
+  "qid": "Q129026",
+  "pageid": 12602,
+  "revid": 239832650,
+  "domain": "animals",
+  "teaser": "Espèce de grands requins"
+ },
+ "sources": [
+  {
+   "title": "Grand requin blanc",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Grand_requin_blanc&oldid=239832650",
+   "revid": 239832650,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Great White Shark (14730820387).jpg",
+   "w": 3262,
+   "h": 2446,
+   "alt": "Grand requin blanc",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Great_White_Shark_%2814730820387%29.jpg/960px-Great_White_Shark_%2814730820387%29.jpg",
+   "sha1": "a219badb8d670cba876c2e52ab1d1d8c9315c3ee",
+   "credit": {
+    "author": "Elias Levy",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Great_White_Shark_(14730820387).jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Grand requin blanc",
+    "line": "Espèce de grands requins",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Aucun grand requin blanc atteignant les 7 mètres n’a jamais été capturé."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Grand requin blanc",
+    "line": "Espèce de grands requins",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Grand requin blanc est une espèce de requins de la famille des Lamnidae et de l’ordre des Lamniformes."
+   },
+   {
+    "type": "closing",
+    "text": "La population des Grands requins blancs a diminué de 75 % dans l’Atlantique Nord-Ouest entre 2008 et 2018."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Grand requin blanc",
+    "line": "Espèce de grands requins",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le Grand requin blanc est une espèce de requins de la famille des Lamnidae et de l’ordre des Lamniformes."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Grand requin blanc"
+   },
+   {
+    "type": "closing",
+    "text": "La population des Grands requins blancs a diminué de 75 % dans l’Atlantique Nord-Ouest entre 2008 et 2018."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0e4a98d816300d.11e4c5839646d3"
+ }
+}

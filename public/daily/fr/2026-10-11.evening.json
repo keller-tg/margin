@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-11-evening",
+ "date": "2026-10-11",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Acide acétique",
+  "qid": "Q47512",
+  "pageid": 25924,
+  "revid": 239358040,
+  "domain": "chemistry",
+  "teaser": "Composé chimique"
+ },
+ "sources": [
+  {
+   "title": "Acide acétique",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Acide_ac%C3%A9tique&oldid=239358040",
+   "revid": 239358040,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Acetic-acid-3D-balls.png",
+   "w": 1100,
+   "h": 817,
+   "alt": "Acide acétique",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Acetic-acid-3D-balls.png/960px-Acetic-acid-3D-balls.png",
+   "sha1": "74cbd6f3424bd6f399078a1cef97295e21916244",
+   "credit": {
+    "author": "Benjah-bmm27",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Acetic-acid-3D-balls.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Acide acétique",
+    "line": "Composé chimique",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "C’est le premier acide industriel connu."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Acide acétique",
+    "line": "Composé chimique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’adjectif du nom courant provient du latin acetum, signifiant vinaigre."
+   },
+   {
+    "type": "closing",
+    "text": "Ceci a été démontré expérimentalement chez le rat."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Acide acétique",
+    "line": "Composé chimique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’acide éthanoïque ou acide acétique est un acide carboxylique avec une chaîne carbonée théorique en C2, analogue à l’éthane, de formule semi-développée CH3-CO-OH ou courte AcOH, où Ac signifie « CH3CO », du groupe acétyle."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Acide acétique"
+   },
+   {
+    "type": "closing",
+    "text": "Dans le corps humain, l’acide acétique est normalement produit après la consommation d’alcool : l’éthanol est converti en acétaldéhyde qui est alors converti en acide acétique sous l’influence de l’enzyme acétaldéhyde déshydrogénase et ensuite en acétyl-coA par la ligase acétate-CoA."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "14179ee79beda9.035b5f7cdf6bbe"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-04-evening",
+ "date": "2026-11-04",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Ghats occidentaux",
+  "qid": "Q4527",
+  "pageid": 116077,
+  "revid": 235286529,
+  "domain": "landscapes",
+  "teaser": "Chaîne de montagne en Inde"
+ },
+ "sources": [
+  {
+   "title": "Ghats occidentaux",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Ghats_occidentaux&oldid=235286529",
+   "revid": 235286529,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:AnaimudiPeak DSC 4834.jpg",
+   "w": 2048,
+   "h": 1367,
+   "alt": "Ghats occidentaux",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/AnaimudiPeak_DSC_4834.jpg/960px-AnaimudiPeak_DSC_4834.jpg",
+   "sha1": "3c858df78f15b3d79d532fa4355c610779ba0fb7",
+   "credit": {
+    "author": "Mdmadhu",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:AnaimudiPeak_DSC_4834.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Ghats occidentaux",
+    "line": "Chaîne de montagne en Inde",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "La superficie globale de l’espace est de 160 000 km2."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Ghats occidentaux",
+    "line": "Chaîne de montagne en Inde",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les Ghats occidentaux ou Sahyadrī sont une chaîne de montagnes ; ils bordent le plateau du Deccan dans l’Ouest de l’Inde."
+   },
+   {
+    "type": "closing",
+    "text": "La pratique de sports à sensation tels que le rafting et la parapente, mais également le trekking et l’escalade fleurit dans ces montagnes."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Ghats occidentaux",
+    "line": "Chaîne de montagne en Inde",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les Ghats occidentaux ou Sahyadrī sont une chaîne de montagnes ; ils bordent le plateau du Deccan dans l’Ouest de l’Inde, et le séparent de l’étroite plaine côtière des mers d’Arabie et des Laquedives."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ghats occidentaux"
+   },
+   {
+    "type": "closing",
+    "text": "La pratique de sports à sensation tels que le rafting et la parapente, mais également le trekking et l’escalade fleurit dans ces montagnes."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "16447d624e28dc.0e33a1060ffa6c"
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-17-morning",
+ "date": "2026-10-17",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Caspar David Friedrich",
+  "qid": "Q104884",
+  "pageid": 174810,
+  "revid": 239186096,
+  "domain": "people-arts",
+  "teaser": "Peintre, dessinateur et graveur allemand"
+ },
+ "sources": [
+  {
+   "title": "Caspar David Friedrich",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Caspar_David_Friedrich&oldid=239186096",
+   "revid": 239186096,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Gerhard von Kügelgen portrait of Friedrich.jpg",
+   "w": 1443,
+   "h": 1871,
+   "alt": "Caspar David Friedrich",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/960px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg",
+   "sha1": "cff87128aee54dcb2f375c8ec6a38ff51a412925",
+   "credit": {
+    "author": "Gerhard von Kügelgen",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f16": {
+   "kind": "date",
+   "value": "1809",
+   "surface": "1809"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1810",
+   "surface": "1810"
+  },
+  "f19": {
+   "kind": "date",
+   "value": "1818",
+   "surface": "1818"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1824",
+   "surface": "1824"
+  },
+  "f35": {
+   "kind": "measure",
+   "value": 39,
+   "unit": "ans",
+   "surface": "39 ans"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "Peintre, dessinateur et graveur allemand",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "En 1809, Runge rédige La Sphère des couleurs."
+   },
+   {
+    "type": "sentence",
+    "text": "Après quelques portraits, Friedrich s’oriente vers la carrière de paysagiste."
+   },
+   {
+    "type": "closing",
+    "text": "La palette s’éclaircit également."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "Peintre, dessinateur et graveur allemand",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les théories de Schelling sur la peinture, datées de 1802-1805, marquent profondément les peintres de cette époque."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f35",
+    "display": "39 ans",
+    "caption": "1813 est une année charnière pour Friedrich qui, à 39 ans, reçoit la visite du « Maître de Weimar », Goethe."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f16",
+      "label": "En 1809, Runge rédige La Sphère des couleurs."
+     },
+     {
+      "fact": "f18",
+      "label": "En 1810, Friedrich est nommé membre de l’Académie de Berlin."
+     },
+     {
+      "fact": "f19",
+      "label": "En 1818, Friedrich épouse Caroline Boomer, Il aura avec elle trois enfants."
+     },
+     {
+      "fact": "f20",
+      "label": "Friedrich tombe malade en 1824."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "En 1798, Friedrich s’établit à Dresde, capitale de l’électorat de Saxe, que ses beautés font surnommer « la Florence de l’Elbe »."
+   },
+   {
+    "type": "closing",
+    "text": "Après une crise d’apoplexie en 1838, il abandonne la peinture à l’huile, puis progressivement le dessin, qu’il arrête en 1839."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "Peintre, dessinateur et graveur allemand",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’enfance de Caspar David Friedrich est marquée par la mort de ses proches qui, entre 1781 et 1791, décèdent les uns après les autres : à sept ans, en 1781, il perd sa mère et sa sœur Elisabeth."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f35",
+    "display": "39 ans",
+    "caption": "1813 est une année charnière pour Friedrich qui, à 39 ans, reçoit la visite du « Maître de Weimar », Goethe."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f16",
+      "label": "En 1809, Runge rédige La Sphère des couleurs."
+     },
+     {
+      "fact": "f18",
+      "label": "En 1810, Friedrich est nommé membre de l’Académie de Berlin."
+     },
+     {
+      "fact": "f19",
+      "label": "En 1818, Friedrich épouse Caroline Boomer, Il aura avec elle trois enfants."
+     },
+     {
+      "fact": "f20",
+      "label": "Friedrich tombe malade en 1824."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Peintre de paysages prestigieux, connu pour ses paysages ossianiques, Abildgaard semble avoir particulièrement influencé Friedrich par son goût pour la mythologie nordique et le refus des modèles antiques."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1798, Friedrich s’établit à Dresde, capitale de l’électorat de Saxe, que ses beautés font surnommer « la Florence de l’Elbe »."
+   },
+   {
+    "type": "sentence",
+    "text": "Tieck y habite, Goethe, les frères August Wilhelm et Friedrich Schlegel, Fichte, Schelling, ou Novalis y ont séjourné."
+   },
+   {
+    "type": "sentence",
+    "text": "Les théories de Schelling sur la peinture, datées de 1802-1805, marquent profondément les peintres de cette époque."
+   },
+   {
+    "type": "sentence",
+    "text": "À cette époque, Friedrich se rapproche de la pensée de Schleiermacher, qui voyait l’approche du sentiment religieux dans la contemplation de la nature."
+   },
+   {
+    "type": "sentence",
+    "text": "Après quelques portraits, Friedrich s’oriente vers la carrière de paysagiste, et travaille sur des paysages de la Baltique, notamment l’île de Rügen."
+   },
+   {
+    "type": "closing",
+    "text": "Le tableau de Caspar David Friedrich Deux hommes contemplant la Lune a inspiré Samuel Beckett lors de son voyage de six mois en Allemagne en 1936-1937 pour sa pièce En attendant Godot, écrite en 1948."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0f4e14b684782e.06d2bb78e16d2d"
+ }
+}

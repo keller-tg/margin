@@ -1,0 +1,235 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-25-morning",
+ "date": "2026-10-25",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Statue de la Liberté",
+  "qid": "Q9202",
+  "pageid": 29258,
+  "revid": 240104156,
+  "domain": "art",
+  "teaser": "Monument de la ville de New York"
+ },
+ "sources": [
+  {
+   "title": "Statue de la Liberté",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Statue_de_la_Libert%C3%A9&oldid=240104156",
+   "revid": 240104156,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Statue of Liberty, statue, Liberty Island, New York.jpg",
+   "w": 4872,
+   "h": 7308,
+   "alt": "Statue de la Liberté",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Statue_of_Liberty%2C_statue%2C_Liberty_Island%2C_New_York.jpg/960px-Statue_of_Liberty%2C_statue%2C_Liberty_Island%2C_New_York.jpg",
+   "sha1": "64dde5bd4d570a2af6a64858e9e2f61de6d4fb69",
+   "credit": {
+    "author": "Christian David",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_statue,_Liberty_Island,_New_York.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 1871,
+   "unit": "au",
+   "surface": "1871 au"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1875",
+   "surface": "1875"
+  },
+  "f50": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "mètres",
+   "surface": "30 mètres"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 100000,
+   "surface": "100 000"
+  },
+  "f81": {
+   "kind": "date",
+   "value": "1879",
+   "surface": "1879"
+  },
+  "f91": {
+   "kind": "date",
+   "value": "1883",
+   "surface": "1883"
+  },
+  "f124": {
+   "kind": "date",
+   "value": "1886",
+   "surface": "1886"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Statue de la Liberté",
+    "line": "Monument de la ville de New York",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "C’est l’un des monuments les plus célèbres des États-Unis."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f60",
+    "display": "100 000",
+    "caption": "Le nombre de 100 000 souscripteurs est annoncé."
+   },
+   {
+    "type": "closing",
+    "text": "Les accès à l’île et à la statue ont été rouverts le 4 juillet 2013."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Statue de la Liberté",
+    "line": "Monument de la ville de New York",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "C’est l’un des monuments les plus célèbres des États-Unis."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Statue de la Liberté"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f50",
+    "display": "30 mètres",
+    "caption": "Construit à effigie du dieu grec du soleil, Hélios, le colosse aurait eu une taille de l’ordre de 30 mètres."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f42",
+      "label": "Mais Bartholdi ne l’a connue qu’en 1875, alors que le visage existait déjà."
+     },
+     {
+      "fact": "f81",
+      "label": "Le 18 février 1879, Bartholdi obtient un brevet pour sa statue, le brevet D11,023."
+     },
+     {
+      "fact": "f91",
+      "label": "L’édification eut lieu entre le 9 octobre 1883 et le 22 août 1886."
+     },
+     {
+      "fact": "f124",
+      "label": "La statue fonctionna comme phare entre la date de son montage, en 1886."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "L’inauguration a lieu le 28 octobre 1886 en présence du président des États-Unis, Grover Cleveland, pour commémorer."
+   },
+   {
+    "type": "closing",
+    "text": "L’accès du public au balcon entourant la torche est toujours interdit, pour des raisons de sécurité, depuis 1916."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Statue de la Liberté",
+    "line": "Monument de la ville de New York",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La statue de la Liberté, ou La Liberté éclairant le monde, est une statue monumentale située à New York, sur Liberty Island, au sud de Manhattan, à l’embouchure du fleuve Hudson et à proximité d’Ellis Island."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Statue de la Liberté"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "1871 au",
+    "caption": "La réalisation et la maîtrise d’œuvre furent confiées en 1871 au Français Auguste Bartholdi qui prit Viollet-le-Duc comme architecte, remplacé après sa mort en 1879 par Gustave Eiffel."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f42",
+      "label": "Mais Bartholdi ne l’a connue qu’en 1875, alors que le visage existait déjà."
+     },
+     {
+      "fact": "f81",
+      "label": "Le 18 février 1879, Bartholdi obtient un brevet pour sa statue, le brevet D11,023."
+     },
+     {
+      "fact": "f91",
+      "label": "L’édification eut lieu entre le 9 octobre 1883 et le 22 août 1886."
+     },
+     {
+      "fact": "f124",
+      "label": "La statue fonctionna comme phare entre la date de son montage, en 1886."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Bartholdi a certainement mélangé la campagne pour la médaille et le dîner d’américanophiles pour inventer dans son journal, vingt ans après les faits, un pamphlet donné lors de ce dîner pour lever des fonds."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1870, Bartholdi sculpte une première ébauche en terre cuite et en modèle réduit aujourd’hui exposée au musée Bartholdi à Colmar."
+   },
+   {
+    "type": "sentence",
+    "text": "La même année, la France entre en guerre contre la Prusse et doit capituler."
+   },
+   {
+    "type": "sentence",
+    "text": "L’opinion publique et le gouvernement français sont déçus de la sympathie des États-Unis pour les Allemands, dont le nombre était important sur le sol américain."
+   },
+   {
+    "type": "sentence",
+    "text": "Le projet commémoratif est temporairement écarté en raison des troubles politiques que connaît le début de la Troisième République."
+   },
+   {
+    "type": "sentence",
+    "text": "Des sources diverses mettent en avant différents modèles qui auraient servi à déterminer le visage de la statue."
+   },
+   {
+    "type": "closing",
+    "text": "L’accès du public au balcon entourant la torche est toujours interdit, pour des raisons de sécurité, depuis 1916."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "03859512302c7c.1f53f5ceb2c228"
+ }
+}

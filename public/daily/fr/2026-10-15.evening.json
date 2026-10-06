@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-15-evening",
+ "date": "2026-10-15",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Fregatidae",
+  "qid": "Q203472",
+  "pageid": 122501,
+  "revid": 235354149,
+  "domain": "animals",
+  "teaser": "Famille d’oiseaux de mer suliformes"
+ },
+ "sources": [
+  {
+   "title": "Fregatidae",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Fregatidae&oldid=235354149",
+   "revid": 235354149,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Great Frigatebird at Genovesa.JPG",
+   "w": 2816,
+   "h": 1872,
+   "alt": "Fregatidae",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Great_Frigatebird_at_Genovesa.JPG/960px-Great_Frigatebird_at_Genovesa.JPG",
+   "sha1": "0b084f8661237f07af3309ba084402c0d1057c3c",
+   "credit": {
+    "author": "Jason Corriveau",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Great_Frigatebird_at_Genovesa.JPG",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Fregatidae",
+    "line": "Famille d’oiseaux de mer suliformes",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "La femelle a généralement le cou blanc."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Fregatidae",
+    "line": "Famille d’oiseaux de mer suliformes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les Fregatidae sont une famille d’oiseaux de mer légers, de taille moyenne à grande, appelés frégates."
+   },
+   {
+    "type": "closing",
+    "text": "Une Frégate superbe est représentée sur le drapeau des Kiribati."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Fregatidae",
+    "line": "Famille d’oiseaux de mer suliformes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les Fregatidae sont une famille d’oiseaux de mer légers, de taille moyenne à grande, appelés frégates."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Fregatidae"
+   },
+   {
+    "type": "closing",
+    "text": "Une Frégate superbe est représentée sur le drapeau des Kiribati."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1712dcac9cbdb9.1719bb286417c8"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-16-evening",
+ "date": "2026-10-16",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Bételgeuse",
+  "qid": "Q12124",
+  "pageid": 24937,
+  "revid": 239479821,
+  "domain": "astronomy",
+  "teaser": "Étoile supergéante rouge de la constellation d’Orion"
+ },
+ "sources": [
+  {
+   "title": "Bételgeuse",
+   "url": "https://fr.wikipedia.org/w/index.php?title=B%C3%A9telgeuse&oldid=239479821",
+   "revid": 239479821,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Location of the binary system of Betelgeuse in constellation Orion.png",
+   "w": 2002,
+   "h": 2166,
+   "alt": "Bételgeuse",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Location_of_the_binary_system_of_Betelgeuse_in_constellation_Orion.png/960px-Location_of_the_binary_system_of_Betelgeuse_in_constellation_Orion.png",
+   "sha1": "ceb44a0f8f69e7fd3938b99ff6e876d869b76f95",
+   "credit": {
+    "author": "Aaron McKinnon, E. Slawik/NOIRLab/NSF/AURA/M. Zamani",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Location_of_the_binary_system_of_Betelgeuse_in_constellation_Orion.png",
+    "attribution": "NOIRLab",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Bételgeuse",
+    "line": "Étoile supergéante rouge de la constellation d’Orion",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "L’étoile se situe sur l’épaule gauche d’Orion."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Bételgeuse",
+    "line": "Étoile supergéante rouge de la constellation d’Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alpha Orionis est un système stellaire binaire de la constellation d’Orion constitué de Bételgeuse, une étoile variable semi-régulière de type supergéante rouge."
+   },
+   {
+    "type": "closing",
+    "text": "La cause de ce phénomène fut identifiée comme la formation de poussière devant l’étoile à la suite de l’éjection d’une grande quantité de gaz."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Bételgeuse",
+    "line": "Étoile supergéante rouge de la constellation d’Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alpha Orionis est un système stellaire binaire de la constellation d’Orion constitué de Bételgeuse, une étoile variable semi-régulière de type supergéante rouge, et de sa compagne Siwarha."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bételgeuse"
+   },
+   {
+    "type": "closing",
+    "text": "La cause de ce phénomène fut identifiée comme la formation de poussière devant l’étoile à la suite de l’éjection d’une grande quantité de gaz."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1d813aa4f7f450.0a95240db04330"
+ }
+}

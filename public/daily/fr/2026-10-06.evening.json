@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-06-evening",
+ "date": "2026-10-06",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Ornithorynque",
+  "qid": "Q15343",
+  "pageid": 30674,
+  "revid": 239922555,
+  "domain": "animals",
+  "teaser": "Mammifère ovipare semi-aquatique endémique à l’Australie"
+ },
+ "sources": [
+  {
+   "title": "Ornithorynque",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Ornithorynque&oldid=239922555",
+   "revid": 239922555,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Ornithorhynchus.jpg",
+   "w": 1781,
+   "h": 1860,
+   "alt": "Ornithorynque",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ornithorhynchus.jpg/960px-Ornithorhynchus.jpg",
+   "sha1": "6048c2073c9cfb98377d36e434cb5ea33b92832d",
+   "credit": {
+    "author": "Dr. Philip Bethge",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ornithorhynchus.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Ornithorynque",
+    "line": "Mammifère ovipare semi-aquatique endémique à l’Australie",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Les scientifiques britanniques furent en premier lieu persuadés qu’il s’agissait d’un canular."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Ornithorynque",
+    "line": "Mammifère ovipare semi-aquatique endémique à l’Australie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’ornithorynque est un animal semi-aquatique endémique de l’est de l’Australie et de la Tasmanie."
+   },
+   {
+    "type": "closing",
+    "text": "Jusqu’au début du XXe siècle, il a été chassé pour sa fourrure mais il est à l’heure actuelle protégé."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Ornithorynque",
+    "line": "Mammifère ovipare semi-aquatique endémique à l’Australie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’ornithorynque est un animal semi-aquatique endémique de l’est de l’Australie et de la Tasmanie."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ornithorynque"
+   },
+   {
+    "type": "closing",
+    "text": "Bien que les programmes de reproduction en captivité aient eu un succès très limité et qu’il soit sensible aux effets de la pollution, l’espèce n’était pas considérée comme en danger jusque récemment ; depuis 2019, elle est décrite comme « quasi-menacée »."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "03e26190b7f91a.03c1a117984a5f"
+ }
+}

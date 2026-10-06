@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-26-evening",
+ "date": "2026-10-26",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Avoine cultivée",
+  "qid": "Q12104",
+  "pageid": 100377,
+  "revid": 239595060,
+  "domain": "plants",
+  "teaser": "Espèce de graminées"
+ },
+ "sources": [
+  {
+   "title": "Avoine cultivée",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Avoine_cultiv%C3%A9e&oldid=239595060",
+   "revid": 239595060,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Avena-sativa-Ruedershausen.jpg",
+   "w": 3216,
+   "h": 2136,
+   "alt": "Avoine cultivée",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Avena-sativa-Ruedershausen.jpg/960px-Avena-sativa-Ruedershausen.jpg",
+   "sha1": "774c477d2a291293c1406f8bf261a29ba0520824",
+   "credit": {
+    "author": "FranciscoWelterSchultes",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Avena-sativa-Ruedershausen.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Avoine cultivée",
+    "line": "Espèce de graminées",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "La plante est facilement identifiable."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Avoine cultivée",
+    "line": "Espèce de graminées",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’Avoine cultivée, parfois appelée « avoine commune », « avoine byzantine » ou simplement « avoine », est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae."
+   },
+   {
+    "type": "closing",
+    "text": "Comme fourrage récolté en vert, l’avoine présente l’avantage de n’occuper le sol que pendant un temps relativement court."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Avoine cultivée",
+    "line": "Espèce de graminées",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’Avoine cultivée, parfois appelée « avoine commune », « avoine byzantine » ou simplement « avoine », est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Avoine cultivée"
+   },
+   {
+    "type": "closing",
+    "text": "Comme fourrage récolté en vert, l’avoine présente l’avantage de n’occuper le sol que pendant un temps relativement court."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0de2ee0e12f710.07861c2159261c"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-25-evening",
+ "date": "2026-10-25",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Véga",
+  "qid": "Q3427",
+  "pageid": 40047,
+  "revid": 239370316,
+  "domain": "astronomy",
+  "teaser": "Étoile de la constellation de la Lyre, la cinquième la plus brillante du ciel nocturne"
+ },
+ "sources": [
+  {
+   "title": "Véga",
+   "url": "https://fr.wikipedia.org/w/index.php?title=V%C3%A9ga&oldid=239370316",
+   "revid": 239370316,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Vega by Stephen Rahn.jpg",
+   "w": 2971,
+   "h": 2971,
+   "alt": "Véga",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Vega_by_Stephen_Rahn.jpg/960px-Vega_by_Stephen_Rahn.jpg",
+   "sha1": "b67775d52388abf9d15abcfcef227e340148a42e",
+   "credit": {
+    "author": "Stephen Rahn",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Vega_by_Stephen_Rahn.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Véga",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Véga a environ 455 millions d’années, soit un dixième de l’âge du Soleil."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Véga",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Véga, également appelée Alpha Lyrae selon la désignation de Bayer, est l’étoile la plus brillante de la constellation de la Lyre."
+   },
+   {
+    "type": "closing",
+    "text": "Des modèles ont suggéré la présence d’une ou plusieurs exoplanètes, mais aucune n’a été confirmée à ce jour."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Véga",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Véga, également appelée Alpha Lyrae selon la désignation de Bayer, est l’étoile la plus brillante de la constellation de la Lyre."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Véga"
+   },
+   {
+    "type": "closing",
+    "text": "Des modèles ont suggéré la présence d’une ou plusieurs exoplanètes, mais aucune n’a été confirmée à ce jour."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "076ee4b77ce063.1d64582dc30ae0"
+ }
+}

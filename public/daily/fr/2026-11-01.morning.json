@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-01-morning",
+ "date": "2026-11-01",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Hyderabad",
+  "qid": "Q1361",
+  "pageid": 1605687,
+  "revid": 240092167,
+  "domain": "cities",
+  "teaser": "Ville en Inde"
+ },
+ "sources": [
+  {
+   "title": "Hyderabad",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Hyderabad&oldid=240092167",
+   "revid": 240092167,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Charminar close up.jpg",
+   "w": 5164,
+   "h": 3443,
+   "alt": "Hyderabad",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Charminar_close_up.jpg/960px-Charminar_close_up.jpg",
+   "sha1": "e104f87e2c7f7d9936098c8769cd8617d152b86c",
+   "credit": {
+    "author": "Karthik Easvur",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Charminar_close_up.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f6": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020"
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "%",
+   "surface": "30 %"
+  },
+  "f12": {
+   "kind": "date",
+   "value": "1763",
+   "surface": "1763"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 80,
+   "unit": "ans",
+   "surface": "80 ans"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Hyderabad",
+    "line": "Ville en Inde",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Selon les estimations du gouvernement, Hyderabad devrait commencer à manquer d’eau souterraine dès 2020."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f44",
+    "display": "80 ans",
+    "caption": "Pendant près de 80 ans, Golkonda fut la capitale de l’État indépendant de Telangana."
+   },
+   {
+    "type": "closing",
+    "text": "Le football et le cricket sont les deux sports les plus pratiqués à Hyderabad."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Hyderabad",
+    "line": "Ville en Inde",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad est la capitale et la plus grande ville de l’État indien du Telangana, créé le 2 juin 2014 à partir de l’Andhra Pradesh."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hyderabad"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f8",
+    "display": "30 %",
+    "caption": "Près de 30 % des médicaments génériques et 40 % des vaccins consommés dans le monde sont produits dans ce complexe."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f12",
+      "label": "À partir de 1763 Hyderabad est la capitale de l’État d’Hyderabad."
+     },
+     {
+      "fact": "f13",
+      "label": "Après l’indépendance de l’Inde en 1947, la région."
+     },
+     {
+      "fact": "f24",
+      "label": "Hyderabad a une population recensée de 6,8 millions d’habitants en 2011."
+     },
+     {
+      "fact": "f6",
+      "label": "Selon les estimations du gouvernement, Hyderabad devrait commencer à manquer d’eau souterraine dès 2020."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le marché indien est considérable avec une prévision de plus de 800 millions de clients potentiels par téléphone portable en 2022."
+   },
+   {
+    "type": "closing",
+    "text": "L’Hyderabad FC, franchise de football fondée en 2019, évolue en Indian Super League, la première division du pays."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Hyderabad",
+    "line": "Ville en Inde",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad est la capitale et la plus grande ville de l’État indien du Telangana, créé le 2 juin 2014 à partir de l’Andhra Pradesh."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hyderabad"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f8",
+    "display": "30 %",
+    "caption": "Près de 30 % des médicaments génériques et 40 % des vaccins consommés dans le monde sont produits dans ce complexe."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f12",
+      "label": "À partir de 1763 Hyderabad est la capitale de l’État d’Hyderabad."
+     },
+     {
+      "fact": "f13",
+      "label": "Après l’indépendance de l’Inde en 1947, la région."
+     },
+     {
+      "fact": "f24",
+      "label": "Hyderabad a une population recensée de 6,8 millions d’habitants en 2011."
+     },
+     {
+      "fact": "f6",
+      "label": "Selon les estimations du gouvernement, Hyderabad devrait commencer à manquer d’eau souterraine dès 2020."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad et Secunderabad sont deux villes jumelles, séparées par le Hussein Sagar, un lac artificiel creusé sous le règne d’Ibrahim Qutb Shah en 1562."
+   },
+   {
+    "type": "sentence",
+    "text": "Le complexe pharmaceutique Hyderabad Pharma City, construit près de cette mégalopole de 8 millions d’habitants, engendre une pollution importante de la Musi."
+   },
+   {
+    "type": "sentence",
+    "text": "Charminar, symbole de la ville, est un arc de triomphe à quatre minarets contenant une mosquée construite au centre d’Hyderabad par Muhammad Quli Qutb Shah en 1591, après la fin d’une épidémie de peste bubonique qui sévissait dans la région."
+   },
+   {
+    "type": "sentence",
+    "text": "Sur une superficie de plus de 3 hectares dans le quartier financier se trouve le plus grand bâtiment d’Amazon au monde et le seul campus d’Amazon en dehors des États-Unis."
+   },
+   {
+    "type": "sentence",
+    "text": "Le complexe est assez grand pour faire travailler 15 000 employés."
+   },
+   {
+    "type": "sentence",
+    "text": "L’année 2007 est marquée par plusieurs attentats à la bombe : 18 mai, une puissante bombe tue 11 personnes et en blesse une cinquantaine à la Mecca Masjid, proche de Charminar, alors que des centaines de musulmans étaient à la prière."
+   },
+   {
+    "type": "closing",
+    "text": "Hyderabad est connue pour son histoire, sa culture et son architecture largement influencées par le caractère cosmopolite de ses souverains, les sultans de Golconde et les nizams."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1a30bb50cf185a.067f5881ad86a3"
+ }
+}

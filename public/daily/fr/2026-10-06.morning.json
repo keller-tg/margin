@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-06-morning",
+ "date": "2026-10-06",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Nauru",
+  "qid": "Q697",
+  "pageid": 9407,
+  "revid": 239503321,
+  "domain": "places",
+  "teaser": "État insulaire de Micronésie, Océanie indépendant depuis 1968"
+ },
+ "sources": [
+  {
+   "title": "Nauru",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Nauru&oldid=239503321",
+   "revid": 239503321,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Coral reef on Nauru.jpg",
+   "w": 1024,
+   "h": 768,
+   "alt": "Nauru",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Coral_reef_on_Nauru.jpg/960px-Coral_reef_on_Nauru.jpg",
+   "sha1": "c2874c6db7b9ad18295a2c84b714ae49cce97c98",
+   "credit": {
+    "author": "d-online",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Coral_reef_on_Nauru.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 42,
+   "unit": "km",
+   "surface": "42 km"
+  },
+  "f7": {
+   "kind": "measure",
+   "value": 705,
+   "unit": "kilomètres",
+   "surface": "705 kilomètres"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1920",
+   "surface": "1920"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1875",
+   "surface": "1875"
+  },
+  "f65": {
+   "kind": "date",
+   "value": "2016",
+   "surface": "2016"
+  },
+  "f66": {
+   "kind": "date",
+   "value": "2019",
+   "surface": "2019"
+  },
+  "f83": {
+   "kind": "measure",
+   "value": 1100,
+   "unit": "km",
+   "surface": "1 100 km"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Nauru",
+    "line": "État insulaire de Micronésie, Océanie indépendant depuis 1968",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La terre la plus proche est l’île de Banaba, dans les Kiribati."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f83",
+    "display": "1 100 km",
+    "caption": "Au sud-ouest, les îles Salomon sont à environ 1 100 km."
+   },
+   {
+    "type": "closing",
+    "text": "Le dollar australien est resté la monnaie du pays à son indépendance."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Nauru",
+    "line": "État insulaire de Micronésie, Océanie indépendant depuis 1968",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru, en forme longue la république de Nauru, est un État insulaire d’Océanie situé en Micronésie."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nauru"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "705 kilomètres",
+    "caption": "La terre la plus proche est l’île de Banaba, dans les Kiribati, dont la capitale, Tarawa-Sud, se situe à 705 kilomètres de Nauru."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f30",
+      "label": "Des missionnaires catholiques de Hambourg arrivent en 1875."
+     },
+     {
+      "fact": "f21",
+      "label": "Anáoero entre en 1920 dans le dictionnaire colonial allemand."
+     },
+     {
+      "fact": "f65",
+      "label": "En mai 2016, Nauru dépénalise officiellement l’homosexualité."
+     },
+     {
+      "fact": "f66",
+      "label": "En 2019, les autorités se donnent vingt ans pour restaurer un quart des terres."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "C’est l’un des plus petits États du monde et, à partir de 1968, la plus petite république du monde."
+   },
+   {
+    "type": "closing",
+    "text": "Le dollar australien est resté la monnaie du pays à son indépendance, et le sport national est le football australien."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Nauru",
+    "line": "État insulaire de Micronésie, Océanie indépendant depuis 1968",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru, en forme longue la république de Nauru, est un État insulaire d’Océanie situé en Micronésie, dont la population est estimée à 9 811 habitants en 2022."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nauru"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "42 km",
+    "caption": "Située à 42 km au sud de l’équateur, l’île a une superficie de 21,3 km2 et est formée d’un plateau central peu élevé culminant à 71 m au Command Ridge, ceinturé par une étroite plaine côtière."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f30",
+      "label": "Des missionnaires catholiques de Hambourg arrivent en 1875."
+     },
+     {
+      "fact": "f21",
+      "label": "Anáoero entre en 1920 dans le dictionnaire colonial allemand."
+     },
+     {
+      "fact": "f65",
+      "label": "En mai 2016, Nauru dépénalise officiellement l’homosexualité."
+     },
+     {
+      "fact": "f66",
+      "label": "En 2019, les autorités se donnent vingt ans pour restaurer un quart des terres."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Les événements antérieurs à la colonisation de Nauru à la fin du XIXe siècle sont peu connus faute de sources scripturales et en la quasi-absence de données archéologiques."
+   },
+   {
+    "type": "sentence",
+    "text": "Possiblement peuplée à l’origine de Mélanésiens et de Micronésiens, il existe des preuves d’une éventuelle influence polynésienne."
+   },
+   {
+    "type": "sentence",
+    "text": "L’île connaît l’arrivée d’une seconde vague de migration venant des littoraux chinois via les Philippines, aux alentours de 1200 av. J.-C.."
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru est approchée par les Européens le 8 novembre 1798 par le capitaine britannique John Fearn."
+   },
+   {
+    "type": "sentence",
+    "text": "La République de Nauru n’est constituée que d’une seule île qui se situe en Océanie, dans l’Ouest de l’océan Pacifique sud."
+   },
+   {
+    "type": "sentence",
+    "text": "C’est une île isolée qui n’appartient à aucun sous-ensemble insulaire."
+   },
+   {
+    "type": "closing",
+    "text": "Le dollar australien est resté la monnaie du pays à son indépendance, et le sport national est le football australien."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "17b23c4a288b2e.0f3799c980cf10"
+ }
+}

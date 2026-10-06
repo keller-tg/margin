@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-12-evening",
+ "date": "2026-10-12",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Iguanodon",
+  "qid": "Q130980",
+  "pageid": 120260,
+  "revid": 239366331,
+  "domain": "animals",
+  "teaser": "Genre de dinosaures"
+ },
+ "sources": [
+  {
+   "title": "Iguanodon",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Iguanodon&oldid=239366331",
+   "revid": 239366331,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Iguanodon de Bernissart IRSNB 01.JPG",
+   "w": 2302,
+   "h": 2763,
+   "alt": "Iguanodon",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Iguanodon_de_Bernissart_IRSNB_01.JPG/960px-Iguanodon_de_Bernissart_IRSNB_01.JPG",
+   "sha1": "d52aef3fb142717c4cd8fcf8aca04c24bbe97fc2",
+   "credit": {
+    "author": "Ben2",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Iguanodon_de_Bernissart_IRSNB_01.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Iguanodon",
+    "line": "Genre de dinosaures",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "L’iguanodon était très répandu au Crétacé inférieur."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Iguanodon",
+    "line": "Genre de dinosaures",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les iguanodons ont vécu au Barrémien, entre -126 et -122 Ma."
+   },
+   {
+    "type": "closing",
+    "text": "L’iguanodon est assez connu de la culture populaire car c’est le deuxième dinosaure à avoir été décrit après le Megalosaurus."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Iguanodon",
+    "line": "Genre de dinosaures",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Iguanodon est un genre fossile de dinosaures de l’ordre des ornithischiens, c’est-à-dire des dinosaures caractérisés par un bassin semblable à celui d’un oiseau, du sous-ordre des ornithopodes."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Iguanodon"
+   },
+   {
+    "type": "closing",
+    "text": "L’iguanodon est assez connu de la culture populaire car c’est le deuxième dinosaure à avoir été décrit après le Megalosaurus."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0dd191e2ac9190.04fb588c2d0b84"
+ }
+}

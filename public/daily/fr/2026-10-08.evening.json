@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-08-evening",
+ "date": "2026-10-08",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Capella (étoile)",
+  "qid": "Q12970",
+  "pageid": 413256,
+  "revid": 234546515,
+  "domain": "astronomy",
+  "teaser": "Étoile la plus brillante de la constellation du Cocher"
+ },
+ "sources": [
+  {
+   "title": "Capella (étoile)",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Capella_(%C3%A9toile)&oldid=234546515",
+   "revid": 234546515,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Capella-Sun comparison.png",
+   "w": 1900,
+   "h": 1121,
+   "alt": "Capella (étoile)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Capella-Sun_comparison.png/960px-Capella-Sun_comparison.png",
+   "sha1": "723ba8427b180fec3c8cf17bb303d6beaaa6da64",
+   "credit": {
+    "author": "Omnidoom 999",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Capella-Sun_comparison.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Capella (étoile)",
+    "line": "Étoile la plus brillante de la constellation du Cocher",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Capella est le nom approuvé pour α Aur par l’Union astronomique internationale."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Capella (étoile)",
+    "line": "Étoile la plus brillante de la constellation du Cocher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Identifiée comme une seule étoile à l’œil nu, Capella est en fait un système stellaire composé de deux paires d’étoiles."
+   },
+   {
+    "type": "closing",
+    "text": "La deuxième paire, à près de 10 000 unités astronomiques de la première, consiste en deux naines rouges."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Capella (étoile)",
+    "line": "Étoile la plus brillante de la constellation du Cocher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Capella, également connue par sa désignation de Bayer Alpha Aurigae, est un système stellaire situé à environ 42,8 années-lumière de la Terre dans la constellation du Cocher."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Capella (étoile)"
+   },
+   {
+    "type": "closing",
+    "text": "La deuxième paire, à près de 10 000 unités astronomiques de la première, consiste en deux naines rouges."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0535649d0622c6.0a1dbb5e462e32"
+ }
+}

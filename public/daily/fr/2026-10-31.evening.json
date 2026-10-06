@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-31-evening",
+ "date": "2026-10-31",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Étoile de mer",
+  "qid": "Q25349",
+  "pageid": 150917,
+  "revid": 239560188,
+  "domain": "animals",
+  "teaser": "Classe d’échinodermes"
+ },
+ "sources": [
+  {
+   "title": "Étoile de mer",
+   "url": "https://fr.wikipedia.org/w/index.php?title=%C3%89toile_de_mer&oldid=239560188",
+   "revid": 239560188,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Haeckel Asteridea.jpg",
+   "w": 4825,
+   "h": 7073,
+   "alt": "Étoile de mer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Haeckel_Asteridea.jpg/960px-Haeckel_Asteridea.jpg",
+   "sha1": "74a56ba739c13873aaaebf71d4f37aa85ae42ab9",
+   "credit": {
+    "author": "Ernst Haeckel",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Haeckel_Asteridea.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Étoile de mer",
+    "line": "Classe d’échinodermes",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "L’espèce la plus répandue en Europe et la plus étudiée est l’étoile de mer commune."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Étoile de mer",
+    "line": "Classe d’échinodermes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les étoiles de mer ont une espérance de vie d’environ quatre à cinq années, parfois plus, et sont en général carnivores, se nourrissant d’animaux lents."
+   },
+   {
+    "type": "closing",
+    "text": "L’espèce la plus répandue en Europe et la plus étudiée est l’étoile de mer commune."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Étoile de mer",
+    "line": "Classe d’échinodermes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les étoiles de mer ou Astéries forment une classe d’échinodermes, des animaux marins caractérisés par une silhouette rayonnante et un squelette calcaire formé de pièces articulées."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Étoile de mer"
+   },
+   {
+    "type": "closing",
+    "text": "L’espèce la plus répandue en Europe et la plus étudiée est l’étoile de mer commune."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0085766d830087.0e0bbb81d61678"
+ }
+}

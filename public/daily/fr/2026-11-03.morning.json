@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-03-morning",
+ "date": "2026-11-03",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Hector Berlioz",
+  "qid": "Q1151",
+  "pageid": 28416,
+  "revid": 239912601,
+  "domain": "people-arts",
+  "teaser": "Compositeur et critique musical français"
+ },
+ "sources": [
+  {
+   "title": "Hector Berlioz",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Hector_Berlioz&oldid=239912601",
+   "revid": 239912601,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Berlioz d’après Pierre Petit.png",
+   "w": 1743,
+   "h": 1896,
+   "alt": "Hector Berlioz",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlioz_d%E2%80%99apr%C3%A8s_Pierre_Petit.png/960px-Berlioz_d%E2%80%99apr%C3%A8s_Pierre_Petit.png",
+   "sha1": "7831b5989cdc8404e7cccd2a039020824e1729ee",
+   "credit": {
+    "author": "Pierre Petit",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Berlioz_d%E2%80%99apr%C3%A8s_Pierre_Petit.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f6": {
+   "kind": "date",
+   "value": "1862",
+   "surface": "1862"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1821",
+   "surface": "1821"
+  },
+  "f64": {
+   "kind": "measure",
+   "value": 25,
+   "unit": "ans",
+   "surface": "25 ans"
+  },
+  "f103": {
+   "kind": "date",
+   "value": "1830",
+   "surface": "1830"
+  },
+  "f109": {
+   "kind": "date",
+   "value": "1834",
+   "surface": "1834"
+  },
+  "f125": {
+   "kind": "date",
+   "value": "1847",
+   "surface": "1847"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Hector Berlioz",
+    "line": "Compositeur et critique musical français",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
+   },
+   {
+    "type": "sentence",
+    "text": "Berlioz invente les genres du « monodrame lyrique »."
+   },
+   {
+    "type": "closing",
+    "text": "Les Troyens sont achevés deux ans plus tard."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Hector Berlioz",
+    "line": "Compositeur et critique musical français",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hector Berlioz"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f64",
+    "display": "25 ans",
+    "caption": "De même, le thème de l’Agnus Dei est repris 25 ans plus tard dans son Te Deum."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f26",
+      "label": "Berlioz est promu bachelier ès lettres à Grenoble, le 22 mars 1821."
+     },
+     {
+      "fact": "f103",
+      "label": "Le chef d’orchestre, François-Antoine Habeneck, la crée au Conservatoire le 5 décembre 1830."
+     },
+     {
+      "fact": "f109",
+      "label": "Un fils, Louis, naît le 14 août 1834."
+     },
+     {
+      "fact": "f125",
+      "label": "La période anglaise de 1847-1848 est particulièrement fertile en aventures."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Berlioz invente les genres du « monodrame lyrique », avec Lélio ou le Retour à la vie, de la « légende dramatique », avec La Damnation de Faust."
+   },
+   {
+    "type": "closing",
+    "text": "C’est en partie pour les dissiper que Berlioz entreprend la rédaction de ses Mémoires, en 1849."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Hector Berlioz",
+    "line": "Compositeur et critique musical français",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Hector Berlioz est un compositeur, chef d’orchestre, critique musical et écrivain français, né le 11 décembre 1803 à La Côte-Saint-André et mort le 8 mars 1869 à Paris."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hector Berlioz"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f64",
+    "display": "25 ans",
+    "caption": "De même, le thème de l’Agnus Dei est repris 25 ans plus tard dans son Te Deum."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f26",
+      "label": "Berlioz est promu bachelier ès lettres à Grenoble, le 22 mars 1821."
+     },
+     {
+      "fact": "f103",
+      "label": "Le chef d’orchestre, François-Antoine Habeneck, la crée au Conservatoire le 5 décembre 1830."
+     },
+     {
+      "fact": "f109",
+      "label": "Un fils, Louis, naît le 14 août 1834."
+     },
+     {
+      "fact": "f6",
+      "label": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La vie de Berlioz a fait l’objet de nombreux commentaires sans nuances : « Quelle vie riche, fine, forte, débordante ! » s’enthousiasme Romain Rolland."
+   },
+   {
+    "type": "sentence",
+    "text": "Le père d’Hector Berlioz, Louis Berlioz est médecin."
+   },
+   {
+    "type": "sentence",
+    "text": "Pauvre père, avec quelle patience infatigable, avec quel soin minutieux et intelligent il a été mon maître de langues, de littérature, d’histoire, de géographie et même de musique !"
+   },
+   {
+    "type": "sentence",
+    "text": "En 1819, celui-ci est remplacé par Donant qui lui apprend à jouer de la guitare."
+   },
+   {
+    "type": "sentence",
+    "text": "Si le docteur Berlioz fut très opposé à la vocation artistique de son fils, à la fin de sa vie il se rapprochera de lui assez sensiblement."
+   },
+   {
+    "type": "sentence",
+    "text": "Nous avions tant de conformité d’idées sur beaucoup de questions….Il était si heureux d’avoir eu tort dans ses pronostics sur mon avenir musical !"
+   },
+   {
+    "type": "closing",
+    "text": "C’est en partie pour les dissiper que Berlioz entreprend la rédaction de ses Mémoires, en 1849, et rassemble certains de ses articles et nouvelles, dans des ouvrages aux titres volontiers humoristiques."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "1655385350f719.0154085cd5dfa8"
+ }
+}

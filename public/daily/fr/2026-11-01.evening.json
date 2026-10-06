@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-01-evening",
+ "date": "2026-11-01",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Sucre",
+  "qid": "Q11002",
+  "pageid": 5064,
+  "revid": 237586788,
+  "domain": "food",
+  "teaser": "Substance de saveur douce"
+ },
+ "sources": [
+  {
+   "title": "Sucre",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sucre&oldid=237586788",
+   "revid": 237586788,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Reunion UsineDuGol 02.JPG",
+   "w": 2126,
+   "h": 1278,
+   "alt": "Sucre",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Reunion_UsineDuGol_02.JPG/960px-Reunion_UsineDuGol_02.JPG",
+   "sha1": "a3bedcef1955947c9353dd950dd54683cdaee4bf",
+   "credit": {
+    "author": "B.navez",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Reunion_UsineDuGol_02.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sucre",
+    "line": "Substance de saveur douce",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Le terme « sucre » en français vient probablement du sanskrit « çârkara »."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sucre",
+    "line": "Substance de saveur douce",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le sucre de table, couramment appelé sucre, est un aliment appartenant à la catégorie des produits sucrés et parfois considéré comme un aliment de base."
+   },
+   {
+    "type": "closing",
+    "text": "Le terme « sucre » en français vient probablement du sanskrit « çârkara »."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sucre",
+    "line": "Substance de saveur douce",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le sucre de table, couramment appelé sucre, est un aliment appartenant à la catégorie des produits sucrés et parfois considéré comme un aliment de base."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sucre"
+   },
+   {
+    "type": "closing",
+    "text": "Le terme « sucre » en français vient probablement du sanskrit « çârkara »."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "098bfe14bc08a9.163ef7a7a06092"
+ }
+}

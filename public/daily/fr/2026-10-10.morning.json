@@ -1,0 +1,204 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-10-morning",
+ "date": "2026-10-10",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Technétium",
+  "qid": "Q1054",
+  "pageid": 11736,
+  "revid": 240020703,
+  "domain": "chemistry",
+  "teaser": "Élément chimique de numéro atomique 43 et de symbole Tc"
+ },
+ "sources": [
+  {
+   "title": "Technétium",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Techn%C3%A9tium&oldid=240020703",
+   "revid": 240020703,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Technetium-sample-cropped.jpg",
+   "w": 971,
+   "h": 526,
+   "alt": "Technétium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Technetium-sample-cropped.jpg/960px-Technetium-sample-cropped.jpg",
+   "sha1": "7d0d9b37f8cbd9f9ffbeda7f11ac692a278f0b13",
+   "credit": {
+    "author": "Marco Cardin",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Technetium-sample-cropped.jpg",
+    "attribution": "GFDL",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 99,
+   "unit": "m",
+   "surface": "99m"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925"
+  },
+  "f112": {
+   "kind": "measure",
+   "value": 27,
+   "unit": "mg",
+   "surface": "27 mg"
+  },
+  "f146": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Technétium",
+    "line": "Élément chimique de numéro atomique 43 et de symbole Tc",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le technétium est l’élément chimique de numéro atomique 43, de symbole Tc."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f112",
+    "display": "27 mg",
+    "caption": "La fission d’un gramme d’uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc."
+   },
+   {
+    "type": "closing",
+    "text": "Avant la découverte de cet élément, de nombreuses propriétés furent prédites par Dmitri Mendeleïev."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Technétium",
+    "line": "Élément chimique de numéro atomique 43 et de symbole Tc",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le technétium est l’élément chimique de numéro atomique 43, de symbole Tc."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Technétium"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "99m",
+    "caption": "Le technétium 99m, un isotope de faible demi-vie, émetteur de rayons γ, est utilisé en médecine nucléaire pour effectuer de nombreux diagnostics."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f25",
+      "label": "La question de l’authenticité de la découverte de l’élément 43 en 1925 reste débattue."
+     },
+     {
+      "fact": "f146",
+      "label": "Depuis l’an 2000, la réglementation limite les rejets à 90 TBq par an."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le technétium est l’élément le plus léger ne possédant pas d’isotope stable."
+   },
+   {
+    "type": "closing",
+    "text": "En 1937, l’isotope technétium 97 fut le premier élément à être produit artificiellement comme son nom l’indique."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Technétium",
+    "line": "Élément chimique de numéro atomique 43 et de symbole Tc",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le technétium est l’élément chimique de numéro atomique 43, de symbole Tc."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Technétium"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "99m",
+    "caption": "Le technétium 99m, un isotope de faible demi-vie, émetteur de rayons γ, est utilisé en médecine nucléaire pour effectuer de nombreux diagnostics."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f25",
+      "label": "La question de l’authenticité de la découverte de l’élément 43 en 1925 reste débattue."
+     },
+     {
+      "fact": "f146",
+      "label": "Depuis l’an 2000, la réglementation limite les rejets à 90 TBq par an."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La place dans la table périodique entre le molybdène et le ruthénium est restée longtemps vacante."
+   },
+   {
+    "type": "sentence",
+    "text": "Le technétium n’a aucun isotope stable ; il est donc exclusivement radioactif."
+   },
+   {
+    "type": "sentence",
+    "text": "De nombreux chercheurs avaient l’ambition de trouver cet élément, car sa place dans la table périodique laissait suggérer que la découverte serait plus facile que pour les autres éléments chimiques inconnus."
+   },
+   {
+    "type": "sentence",
+    "text": "C’est l’élément le plus léger présentant cette propriété."
+   },
+   {
+    "type": "sentence",
+    "text": "Parmi les 82 premiers éléments chimiques, seuls deux éléments sont exclusivement radioactifs : le technétium est le premier, l’autre est le prométhium."
+   },
+   {
+    "type": "sentence",
+    "text": "Dans la classification périodique, le technétium est situé entre les lignes du rhénium et du manganèse, et ses propriétés sont intermédiaires entre celles de ces deux éléments chimiques."
+   },
+   {
+    "type": "closing",
+    "text": "Sur Terre, le technétium existe sous forme de traces en quantité mesurable comme un produit de la fission spontanée d’un alliage d’uranium ou par la capture d’un neutron d’un alliage de molybdène."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0920fc65f49fea.1f591c0dc2187b"
+ }
+}

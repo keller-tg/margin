@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-20-morning",
+ "date": "2026-10-20",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Colorado (fleuve)",
+  "qid": "Q1265",
+  "pageid": 164214,
+  "revid": 239605226,
+  "domain": "water",
+  "teaser": "Fleuve des États-Unis"
+ },
+ "sources": [
+  {
+   "title": "Colorado (fleuve)",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Colorado_(fleuve)&oldid=239605226",
+   "revid": 239605226,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Horseshoe Bend TC 27-09-2012 15-34-14.jpg",
+   "w": 4288,
+   "h": 2848,
+   "alt": "Colorado (fleuve)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg/960px-Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg",
+   "sha1": "df1777b85e20ebd6b0ccb12289235e1639d2da32",
+   "credit": {
+    "author": "Paul Hermans",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 2334,
+   "unit": "km",
+   "surface": "2 334 km"
+  },
+  "f29": {
+   "kind": "measure",
+   "value": 120,
+   "unit": "km",
+   "surface": "120 km"
+  },
+  "f37": {
+   "kind": "date",
+   "value": "2026",
+   "surface": "2026"
+  },
+  "f46": {
+   "kind": "date",
+   "value": "1902",
+   "surface": "1902"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "1921",
+   "surface": "1921"
+  },
+  "f50": {
+   "kind": "date",
+   "value": "1922",
+   "surface": "1922"
+  },
+  "f51": {
+   "kind": "measure",
+   "value": 25,
+   "unit": "%",
+   "surface": "25 %"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Colorado (fleuve)",
+    "line": "Fleuve des États-Unis",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Plus de 40 millions d’Américains et 29 tribus indiennes sont dépendants de l’eau du fleuve."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f51",
+    "display": "25 %",
+    "caption": "La base de prélèvement est alors de 25 % supérieur au débit annuel moyen."
+   },
+   {
+    "type": "closing",
+    "text": "L’eau prélevée du fleuve est essentiellement utilisée à des fins d’irrigation pour l’agriculture."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Colorado (fleuve)",
+    "line": "Fleuve des États-Unis",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le fleuve Colorado est un des principaux fleuves du Sud-Ouest des États-Unis et du Nord-Ouest du Mexique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Colorado (fleuve)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f29",
+    "display": "120 km",
+    "caption": "Un grand estuaire se forme ici avant que le Colorado ne se jette dans le golfe à environ 120 km au sud de Yuma."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f46",
+      "label": "En 1902, Theodore Roosevelt fonde le Bureau of Reclamation."
+     },
+     {
+      "fact": "f47",
+      "label": "En 1921, la Grand River devient officiellement le fleuve Colorado."
+     },
+     {
+      "fact": "f50",
+      "label": "En 1922, le Colorado River Compact est négocié entre sept États américains."
+     },
+     {
+      "fact": "f37",
+      "label": "La sécheresse est notamment critique à l’été 2026."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le fleuve traverse le plateau du Colorado à travers plusieurs États, notamment le Colorado, l’Utah et l’Arizona."
+   },
+   {
+    "type": "closing",
+    "text": "L’eau prélevée du fleuve est essentiellement utilisée à des fins d’irrigation pour l’agriculture, mais aussi pour des usages domestiques."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Colorado (fleuve)",
+    "line": "Fleuve des États-Unis",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le fleuve Colorado est un des principaux fleuves du Sud-Ouest des États-Unis et du Nord-Ouest du Mexique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Colorado (fleuve)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "2 334 km",
+    "caption": "Le fleuve Colorado, d’une longueur totale de 2 334 km, prend sa source à 3 104 m d’altitude sur les flancs du mont Richthofen, sur la chaîne des montagnes Never Summer dans le parc national de Rocky Mountain."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f46",
+      "label": "En 1902, Theodore Roosevelt fonde le Bureau of Reclamation."
+     },
+     {
+      "fact": "f47",
+      "label": "En 1921, la Grand River devient officiellement le fleuve Colorado."
+     },
+     {
+      "fact": "f50",
+      "label": "En 1922, le Colorado River Compact est négocié entre sept États américains."
+     },
+     {
+      "fact": "f37",
+      "label": "La sécheresse est notamment critique à l’été 2026."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le fleuve peut atteindre au maximum un débit de 2 800 m3/s en été et au minimum un débit de 71 m3/s en hiver."
+   },
+   {
+    "type": "sentence",
+    "text": "Situé à l’ouest de la ligne continentale de partage des eaux d’Amérique du Nord, le fleuve s’écoule vers l’océan Pacifique."
+   },
+   {
+    "type": "sentence",
+    "text": "Le 12 février 2008, l’Institut d’océanographie Scripps de San Diego publie une étude dans laquelle est estimé à 50 % les chances d’assèchement total du Lac Mead d’ici l’année 2021, lac artificiel créé en 1935 par la construction du barrage Hoover."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1846, les pionniers mormons chassés d’Illinois arrivèrent dans le territoire de l’Utah et fondèrent Salt Lake City."
+   },
+   {
+    "type": "sentence",
+    "text": "Après une courte progression vers le sud, le cours du fleuve dérive vers l’ouest en dessous du Lac Grand, le plus grand lac de l’État du Colorado."
+   },
+   {
+    "type": "sentence",
+    "text": "Plus de 40 millions d’Américains et 29 tribus indiennes sont dépendants de l’eau du fleuve, qui est la principale source minérale du Sud-Ouest des États-Unis avec le rio Grande."
+   },
+   {
+    "type": "closing",
+    "text": "L’eau prélevée du fleuve est essentiellement utilisée à des fins d’irrigation pour l’agriculture, mais aussi pour des usages domestiques."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1cd7eec45c37cf.19a877170d4df1"
+ }
+}

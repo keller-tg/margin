@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-23-evening",
+ "date": "2026-10-23",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Diamant",
+  "qid": "Q5283",
+  "pageid": 32635,
+  "revid": 239966976,
+  "domain": "chemistry",
+  "teaser": "Forme cristalline précieuse de carbone"
+ },
+ "sources": [
+  {
+   "title": "Diamant",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Diamant&oldid=239966976",
+   "revid": 239966976,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Rough Diamond.jpg",
+   "w": 960,
+   "h": 891,
+   "alt": "Diamant",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rough_Diamond.jpg",
+   "sha1": "6f26a823628a455ac5279b4206142b2e719dda88",
+   "credit": {
+    "author": "DGPC/ADF Luísa Oliveira",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Rough_Diamond.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Diamant",
+    "line": "Forme cristalline précieuse de carbone",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Les diamants de synthèse peuvent remplacer les diamants naturels pour certaines applications."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Diamant",
+    "line": "Forme cristalline précieuse de carbone",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le diamant est un minéral, constitué d’atomes de carbone à l’état cristallin."
+   },
+   {
+    "type": "closing",
+    "text": "Le diamant reste moins stable que le graphite et la lonsdaléite, les deux autres formes de cristallisation du carbone."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Diamant",
+    "line": "Forme cristalline précieuse de carbone",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le diamant est un minéral, constitué d’atomes de carbone à l’état cristallin."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Diamant"
+   },
+   {
+    "type": "closing",
+    "text": "Les diamants sont remontés à la surface par le magma d’éruptions volcaniques profondes qui refroidit pour former des roches volcaniques contenant les diamants, les kimberlites et les lamproïtes."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1692c4bf4e7936.034087a88bc78c"
+ }
+}

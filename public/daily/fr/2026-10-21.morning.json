@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-21-morning",
+ "date": "2026-10-21",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "M87 (galaxie)",
+  "qid": "Q14041",
+  "pageid": 138025,
+  "revid": 234010600,
+  "domain": "astronomy",
+  "teaser": "M87 (galaxie)"
+ },
+ "sources": [
+  {
+   "title": "M87 (galaxie)",
+   "url": "https://fr.wikipedia.org/w/index.php?title=M87_(galaxie)&oldid=234010600",
+   "revid": 234010600,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Messier 87 Hubble WikiSky.jpg",
+   "w": 2160,
+   "h": 2160,
+   "alt": "M87 (galaxie)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/960px-Messier_87_Hubble_WikiSky.jpg",
+   "sha1": "706db7b8b62f720d37e2ceaa96f5da301c84de75",
+   "credit": {
+    "author": "en:NASA, en:STScI, en:WikiSky",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Messier_87_Hubble_WikiSky.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f7": {
+   "kind": "measure",
+   "value": 5000,
+   "unit": "années-lumière",
+   "surface": "5 000 années-lumière"
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 490000,
+   "unit": "années-lumière",
+   "surface": "490 000 années-lumière"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1056",
+   "surface": "1056"
+  },
+  "f104": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011"
+  },
+  "f108": {
+   "kind": "date",
+   "value": "2023",
+   "surface": "2023"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "M87 (galaxie)",
+    "line": "Messier 87 est une galaxie elliptique supergéante.",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Au cœur de cette galaxie se trouve un trou noir supermassif, nommé M87*."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f10",
+    "display": "490 000 années-lumière",
+    "caption": "L’enveloppe galactique s’étend sur un rayon d’environ 490 000 années-lumière."
+   },
+   {
+    "type": "closing",
+    "text": "Les étoiles dans cette galaxie constituent environ un sixième de la masse totale de M87."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "M87 (galaxie)",
+    "line": "Messier 87 est une galaxie elliptique supergéante.",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Située à 15,4 ± 0,6 Mpc de la Terre, c’est la plus grande et la plus lumineuse des galaxies de l’amas de la Vierge."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "M87 (galaxie)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "5 000 années-lumière",
+    "caption": "Un jet de plasma énergétique émerge du cœur et s’étend sur au moins 5 000 années-lumière."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f42",
+      "label": "L’énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV."
+     },
+     {
+      "fact": "f104",
+      "label": "En 2011, une étude de M87 n’a pas trouvé de déplacement statistiquement significatif."
+     },
+     {
+      "fact": "f108",
+      "label": "Puis le 26 avril 2023, l’Observatoire européen austral."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
+   },
+   {
+    "type": "closing",
+    "text": "Entre ces étoiles, on trouve un milieu interstellaire diffus de gaz enrichi en éléments chimiques produits à la suite de l’évolution stellaire."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "M87 (galaxie)",
+    "line": "Messier 87 est une galaxie elliptique supergéante.",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Située à 15,4 ± 0,6 Mpc de la Terre, c’est la plus grande et la plus lumineuse des galaxies de l’amas de la Vierge."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "M87 (galaxie)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "5 000 années-lumière",
+    "caption": "Un jet de plasma énergétique émerge du cœur et s’étend sur au moins 5 000 années-lumière."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f42",
+      "label": "L’énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV."
+     },
+     {
+      "fact": "f104",
+      "label": "En 2011, une étude de M87 n’a pas trouvé de déplacement statistiquement significatif."
+     },
+     {
+      "fact": "f108",
+      "label": "Puis le 26 avril 2023, l’Observatoire européen austral."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "L’astronome français Charles Messier redécouvre cette galaxie le 18 mars 1779 et il l’intègre à la troisième édition de son catalogue de 103 objets astronomiques ayant l’apparence de nébulosité qu’il publie en 1781."
+   },
+   {
+    "type": "sentence",
+    "text": "Durant les années 1880, cette nébulosité sera référencée dans le New General Catalogue comme NGC 4486."
+   },
+   {
+    "type": "sentence",
+    "text": "Messier 87 est située près de la limite Nord de la constellation de la Vierge, près de la constellation de la Chevelure de Bérénice."
+   },
+   {
+    "type": "sentence",
+    "text": "Visuellement, la galaxie s’étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″."
+   },
+   {
+    "type": "sentence",
+    "text": "Jusqu’en 1990, la seule observation visuelle connue du jet est attribuée à l’astronome russo-américain Otto Struve qui utilisa le télescope Hooker de 254 cm de diamètre."
+   },
+   {
+    "type": "sentence",
+    "text": "Au cœur de cette galaxie se trouve un trou noir supermassif, nommé M87*, dont la masse est estimée à 6,5 ± 0,7 milliards de masses solaires."
+   },
+   {
+    "type": "closing",
+    "text": "Étant la plus grande galaxie elliptique la plus proche de la Terre et l’une des plus brillantes radiosources du ciel, Messier 87 est une cible favorite d’observation pour les astronomes amateurs et d’étude pour les astronomes professionnels."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1d4911f75694a6.0faa791131e7cc"
+ }
+}

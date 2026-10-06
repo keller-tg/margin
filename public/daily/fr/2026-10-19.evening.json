@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-19-evening",
+ "date": "2026-10-19",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Seigle",
+  "qid": "Q12099",
+  "pageid": 100404,
+  "revid": 235974353,
+  "domain": "plants",
+  "teaser": "Plante graminée bisannuelle du genre Secale"
+ },
+ "sources": [
+  {
+   "title": "Seigle",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Seigle&oldid=235974353",
+   "revid": 235974353,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Ear of rye.jpg",
+   "w": 1296,
+   "h": 972,
+   "alt": "Seigle",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ear_of_rye.jpg/960px-Ear_of_rye.jpg",
+   "sha1": "4aa9a481f4c2ed14c5d6e450d9e73f5137e789c9",
+   "credit": {
+    "author": "LSDSL",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ear_of_rye.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Seigle",
+    "line": "Plante graminée bisannuelle du genre Secale",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Le genre Secale comprend de nombreuses espèces originaires d’Asie centrale."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Seigle",
+    "line": "Plante graminée bisannuelle du genre Secale",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le seigle est une plante annuelle du genre Secale appartenant à la famille des Poaceae et cultivée comme céréale ou comme fourrage."
+   },
+   {
+    "type": "closing",
+    "text": "Le genre Secale comprend de nombreuses espèces originaires d’Asie centrale."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Seigle",
+    "line": "Plante graminée bisannuelle du genre Secale",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le seigle est une plante annuelle du genre Secale appartenant à la famille des Poaceae et cultivée comme céréale ou comme fourrage."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Seigle"
+   },
+   {
+    "type": "closing",
+    "text": "Le genre Secale comprend de nombreuses espèces originaires d’Asie centrale."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1f68f72fe66656.0b8a38a1bf95dd"
+ }
+}

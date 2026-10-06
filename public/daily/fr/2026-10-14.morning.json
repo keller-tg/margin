@@ -1,0 +1,221 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-14-morning",
+ "date": "2026-10-14",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Archaeopteryx",
+  "qid": "Q100196",
+  "pageid": 999553,
+  "revid": 238299102,
+  "domain": "animals",
+  "teaser": "Genre de dinosaures à plumes disparus"
+ },
+ "sources": [
+  {
+   "title": "Archaeopteryx",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Archaeopteryx&oldid=238299102",
+   "revid": 238299102,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Archaeopteryx lithographica (Berlin specimen).jpg",
+   "w": 1888,
+   "h": 2552,
+   "alt": "Archaeopteryx",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg/960px-Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg",
+   "sha1": "2721791999014cad0ee5c82621f4a0cc64a0274f",
+   "credit": {
+    "author": "H. Raab (User: Vesta)",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Archaeopteryx_lithographica_(Berlin_specimen).jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f15": {
+   "kind": "date",
+   "value": "1863",
+   "surface": "1863"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1884",
+   "surface": "1884"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 6428,
+   "surface": "6428"
+  },
+  "f43": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009"
+  },
+  "f50": {
+   "kind": "date",
+   "value": "2004",
+   "surface": "2004"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Archaeopteryx",
+    "line": "Genre de dinosaures à plumes disparus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Archaeopteryx est un genre fossile de dinosaures à plumes disparus."
+   },
+   {
+    "type": "sentence",
+    "text": "L’archéoptéryx a été le tout premier fossile découvert avec des plumes bien conservées."
+   },
+   {
+    "type": "closing",
+    "text": "Enfin, la plume isolée est le spécimen le plus discordant."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Archaeopteryx",
+    "line": "Genre de dinosaures à plumes disparus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Archaeopteryx est un genre fossile de dinosaures à plumes disparus."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaeopteryx"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f27",
+    "display": "6428",
+    "caption": "Le spécimen de Haarlem, référencé TM 6428/29, également connu sous le nom de spécimen de Teyler, a été découvert en 1855 près de Riedenburg."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f15",
+      "label": "Richard Owen le décrit en 1863 et rapproche la plume de l’animal."
+     },
+     {
+      "fact": "f22",
+      "label": "Décrit en 1884 par Wilhelm Dames, c’est le spécimen le plus complet."
+     },
+     {
+      "fact": "f50",
+      "label": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004."
+     },
+     {
+      "fact": "f43",
+      "label": "L’original a été acheté par le paléontologue Raimund Albertsdörfer en 2009."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "L’archéoptéryx a été le tout premier fossile découvert avec des plumes bien conservées, et fut longtemps considéré comme le plus ancien oiseau fossile."
+   },
+   {
+    "type": "closing",
+    "text": "Une publication de 2011 par exemple, place l’archéopteryx et les autres Archaeopterygidae plus près des deinonychosaures que des oiseaux."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Archaeopteryx",
+    "line": "Genre de dinosaures à plumes disparus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Archaeopteryx est un genre fossile de dinosaures à plumes disparus."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaeopteryx"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f27",
+    "display": "6428",
+    "caption": "Le spécimen de Haarlem, référencé TM 6428/29, également connu sous le nom de spécimen de Teyler, a été découvert en 1855 près de Riedenburg."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f15",
+      "label": "Richard Owen le décrit en 1863 et rapproche la plume de l’animal."
+     },
+     {
+      "fact": "f22",
+      "label": "Décrit en 1884 par Wilhelm Dames, c’est le spécimen le plus complet."
+     },
+     {
+      "fact": "f50",
+      "label": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004."
+     },
+     {
+      "fact": "f43",
+      "label": "L’original a été acheté par le paléontologue Raimund Albertsdörfer en 2009."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le découpage asymétrique typique des plumes démontre la spécialisation et l’aptitude des archéoptéryx pour le vol battu alors que celles retrouvées chez les autres dinosaures à plumes sont symétriques."
+   },
+   {
+    "type": "sentence",
+    "text": "En 2004, on a en revanche établi que son cerveau était plus volumineux que celui de la plupart des autres dinosaures, ce qui est considéré par de nombreux scientifiques comme nécessaire pour voler correctement."
+   },
+   {
+    "type": "sentence",
+    "text": "Les paléontologues sont divisés sur la question de son envol : était-il capable de s’envoler à partir du sol en courant ou devait-il au préalable grimper sur un arbre ?"
+   },
+   {
+    "type": "sentence",
+    "text": "Le partage de ces caractéristiques par les oiseaux et par d’autres maniraptoriens témoigne de leur origine commune."
+   },
+   {
+    "type": "sentence",
+    "text": "Une fourchette ou furcula robuste, en forme de boomerang, formée par la jonction des deux clavicules et sur laquelle venaient s’insérer les muscles de vol."
+   },
+   {
+    "type": "sentence",
+    "text": "Les spécimens et la plume fossiles trouvés sont considérés comme appartenant à une même espèce par certains auteurs ; ce fait est discuté par d’autres."
+   },
+   {
+    "type": "closing",
+    "text": "Les découvertes des différents spécimens d’archéoptéryx ont largement contribué à la construction de la théorie la plus courante de l’histoire évolutive des oiseaux, à savoir que les oiseaux sont des dinosaures de l’ordre des théropodes."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0c1bb509942e83.0cb71bf85b9e89"
+ }
+}

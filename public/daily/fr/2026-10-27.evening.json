@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-27-evening",
+ "date": "2026-10-27",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Céréale",
+  "qid": "Q12117",
+  "pageid": 33071,
+  "revid": 239940739,
+  "domain": "food",
+  "teaser": "Plante cultivée principalement pour ses grains"
+ },
+ "sources": [
+  {
+   "title": "Céréale",
+   "url": "https://fr.wikipedia.org/w/index.php?title=C%C3%A9r%C3%A9ale&oldid=239940739",
+   "revid": 239940739,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Wheat products.jpg",
+   "w": 640,
+   "h": 891,
+   "alt": "Céréale",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/26/Wheat_products.jpg",
+   "sha1": "9a239347c27bc007882533172ce43aee41d213c5",
+   "credit": {
+    "author": "Knutux",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Wheat_products.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Céréale",
+    "line": "Plante cultivée principalement pour ses grains",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Outre l’alimentation humaine, les céréales ont d’autres usages, dans l’alimentation animale, dans l’industrie."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Céréale",
+    "line": "Plante cultivée principalement pour ses grains",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les céréales sont des plantes monocotylédones de la famille des poacées, sauvages ou cultivées."
+   },
+   {
+    "type": "closing",
+    "text": "Au début du XXIe siècle, les céréales fournissent une grande partie des calories alimentaires de l’humanité."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Céréale",
+    "line": "Plante cultivée principalement pour ses grains",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les céréales sont des plantes monocotylédones de la famille des poacées, sauvages ou cultivées, qui produisent des grains comestibles, utilisés principalement pour l’alimentation humaine, souvent moulus sous forme de farine raffinée ou plus ou moins complète."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Céréale"
+   },
+   {
+    "type": "closing",
+    "text": "Au début du XXIe siècle, les céréales fournissent une grande partie des calories alimentaires de l’humanité."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0a95a215aea454.0fa64b6406696e"
+ }
+}

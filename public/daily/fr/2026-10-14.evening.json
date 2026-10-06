@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-14-evening",
+ "date": "2026-10-14",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Sel alimentaire",
+  "qid": "Q11254",
+  "pageid": 220670,
+  "revid": 237101704,
+  "domain": "food",
+  "teaser": "Minéral cristallin utilisé comme condiment ou comme conservateur alimentaire, principalement composé de chlorure de sodium"
+ },
+ "sources": [
+  {
+   "title": "Sel alimentaire",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sel_alimentaire&oldid=237101704",
+   "revid": 237101704,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Table salt with salt shaker V1.jpg",
+   "w": 3986,
+   "h": 3303,
+   "alt": "Sel alimentaire",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Table_salt_with_salt_shaker_V1.jpg/960px-Table_salt_with_salt_shaker_V1.jpg",
+   "sha1": "76b6560d4a40969a7599a317cad050aeac782f36",
+   "credit": {
+    "author": "Poyraz 72",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Table_salt_with_salt_shaker_V1.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sel alimentaire",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Sans ces salaisons, les armées n’auraient pu avoir recours qu’au pillage des territoires conquis."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sel alimentaire",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le sel de table, sel alimentaire ou sel de cuisine, est composé essentiellement de chlorure de sodium."
+   },
+   {
+    "type": "closing",
+    "text": "Les composés chimiques non volatils sont dissous par la salive et détectés par plusieurs parties de la langue, du palais ou de la gorge. »."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sel alimentaire",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le sel de table, sel alimentaire ou sel de cuisine, est composé essentiellement de chlorure de sodium."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sel alimentaire"
+   },
+   {
+    "type": "closing",
+    "text": "Le goût salé serait « principalement dû à l’ion sodium » et si d’autres composés comme CaCl2, LiCl2, NH4Cl, KCl ou KNO3 ont aussi une saveur salée, seul l’ion sodium procurerait « une saveur salée agréable »."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "0d729f5e802f55.0036f5c515f4ea"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-24-evening",
+ "date": "2026-10-24",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Pteropodidae",
+  "qid": "Q185230",
+  "pageid": 227862,
+  "revid": 239600599,
+  "domain": "animals",
+  "teaser": "Famille de chauves-souris"
+ },
+ "sources": [
+  {
+   "title": "Pteropodidae",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Pteropodidae&oldid=239600599",
+   "revid": 239600599,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Kalong-drawing.jpg",
+   "w": 1566,
+   "h": 1522,
+   "alt": "Pteropodidae",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Kalong-drawing.jpg/960px-Kalong-drawing.jpg",
+   "sha1": "ad41436f9db23729ae5361a1183befea41789e12",
+   "credit": {
+    "author": "Gustav Mützel",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Kalong-drawing.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Pteropodidae",
+    "line": "Famille de chauves-souris",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "En général, ces animaux nocturnes sont de couleur sombre, du brun au gris."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Pteropodidae",
+    "line": "Famille de chauves-souris",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La famille des Pteropodidae regroupe des chauves-souris dont le nom vernaculaire utilise le terme de roussette, mais pas uniquement."
+   },
+   {
+    "type": "closing",
+    "text": "Cependant, des études moléculaires ont bouleversé la classification des Chiroptères et les Pteropodidae sont désormais regroupés avec quelques familles de Microchiroptera au sein des Yinpterochiroptera."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Pteropodidae",
+    "line": "Famille de chauves-souris",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La famille des Pteropodidae regroupe des chauves-souris dont le nom vernaculaire utilise le terme de roussette, mais pas uniquement."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Pteropodidae"
+   },
+   {
+    "type": "closing",
+    "text": "Cependant, des études moléculaires ont bouleversé la classification des Chiroptères et les Pteropodidae sont désormais regroupés avec quelques familles de Microchiroptera au sein des Yinpterochiroptera."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "12c4f91ec3ee4e.1c194f6a81c738"
+ }
+}

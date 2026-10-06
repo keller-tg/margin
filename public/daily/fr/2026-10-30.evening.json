@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-30-evening",
+ "date": "2026-10-30",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Antimoine",
+  "qid": "Q1099",
+  "pageid": 6134,
+  "revid": 239474428,
+  "domain": "chemistry",
+  "teaser": "Élément chimique de numéro atomique 51 et de symbole Sb"
+ },
+ "sources": [
+  {
+   "title": "Antimoine",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Antimoine&oldid=239474428",
+   "revid": 239474428,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Antimony-2.jpg",
+   "w": 1228,
+   "h": 1228,
+   "alt": "Antimoine",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Antimony-2.jpg/960px-Antimony-2.jpg",
+   "sha1": "ad74eef169401f0140e9b676cab5413d8c9b080e",
+   "credit": {
+    "author": "Jurii",
+    "authorSource": "artist",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Antimony-2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Antimoine",
+    "line": "Élément chimique de numéro atomique 51 et de symbole Sb",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "L’adjectif « antimonié » qualifie un corps ou une matière qui contient de l’antimoine."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Antimoine",
+    "line": "Élément chimique de numéro atomique 51 et de symbole Sb",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’antimoine est l’élément chimique de numéro atomique 51, de symbole Sb."
+   },
+   {
+    "type": "closing",
+    "text": "Selon l’IRSN, « les potentialités de transfert trophique n’ont jamais été étudiées »."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Antimoine",
+    "line": "Élément chimique de numéro atomique 51 et de symbole Sb",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "L’antimoine est l’élément chimique de numéro atomique 51, de symbole Sb."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Antimoine"
+   },
+   {
+    "type": "closing",
+    "text": "Selon l’IRSN, « les potentialités de transfert trophique n’ont jamais été étudiées »."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "13ad74afcecf55.0b266eabf418a7"
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-30-morning",
+ "date": "2026-10-30",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Miriam Makeba",
+  "qid": "Q146256",
+  "pageid": 897495,
+  "revid": 236239874,
+  "domain": "people-arts",
+  "teaser": "Chanteuse de jazz et militante politique sud-africaine"
+ },
+ "sources": [
+  {
+   "title": "Miriam Makeba",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Miriam_Makeba&oldid=236239874",
+   "revid": 236239874,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Miriam Makeba (1969).jpg",
+   "w": 2174,
+   "h": 2174,
+   "alt": "Miriam Makeba",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Miriam_Makeba_%281969%29.jpg/960px-Miriam_Makeba_%281969%29.jpg",
+   "sha1": "12f9cd7da0f8312446da95e334a567927966dbaa",
+   "credit": {
+    "author": "Rob Mieremet",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Miriam_Makeba_(1969).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f11": {
+   "kind": "date",
+   "value": "1950",
+   "surface": "1950"
+  },
+  "f14": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "ans",
+   "surface": "20 ans"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1978",
+   "surface": "1978"
+  },
+  "f43": {
+   "kind": "date",
+   "value": "2008",
+   "surface": "2008"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 76,
+   "unit": "ans",
+   "surface": "76 ans"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "1990",
+   "surface": "1990"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Miriam Makeba",
+    "line": "Chanteuse de jazz et militante politique sud-africaine",
+    "image": "img1"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f44",
+    "display": "76 ans",
+    "caption": "Le 9 novembre 2008, à 76 ans."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Miriam Makeba"
+   },
+   {
+    "type": "closing",
+    "text": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Miriam Makeba",
+    "line": "Chanteuse de jazz et militante politique sud-africaine",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Contrainte à l’exil pendant une trentaine d’années, elle parcourt le monde et multiplie les succès musicaux."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Miriam Makeba"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f14",
+    "display": "20 ans",
+    "caption": "À 20 ans, Zenzi Makeba, bonne d’enfants puis laveuse de taxis, vit seule avec sa fille Bongi et sa mère."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Makeba épouse James Kubay en 1950."
+     },
+     {
+      "fact": "f36",
+      "label": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
+     },
+     {
+      "fact": "f47",
+      "label": "En 1990, Nelson Mandela la persuade de rentrer en Afrique du Sud."
+     },
+     {
+      "fact": "f43",
+      "label": "Le 9 novembre 2008, à 76 ans."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Zenzile Makeba Qgwashu Nguvama, dite Miriam Makeba, naît le 4 mars 1932, dans un township de Johannesbourg."
+   },
+   {
+    "type": "closing",
+    "text": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Miriam Makeba",
+    "line": "Chanteuse de jazz et militante politique sud-africaine",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Miriam Makeba, née le 4 mars 1932 à Johannesbourg et morte le 9 novembre 2008 à Castel Volturno, est une chanteuse d’ethno-jazz et une militante politique sud-africaine, naturalisée guinéenne dans les années 1960, puis algérienne en 1972."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Miriam Makeba"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f14",
+    "display": "20 ans",
+    "caption": "À 20 ans, Zenzi Makeba, bonne d’enfants puis laveuse de taxis, vit seule avec sa fille Bongi et sa mère."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Makeba épouse James Kubay en 1950."
+     },
+     {
+      "fact": "f36",
+      "label": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
+     },
+     {
+      "fact": "f47",
+      "label": "En 1990, Nelson Mandela la persuade de rentrer en Afrique du Sud."
+     },
+     {
+      "fact": "f43",
+      "label": "Le 9 novembre 2008, à 76 ans."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Zenzile Makeba Qgwashu Nguvama, dite Miriam Makeba, naît le 4 mars 1932, dans un township de Johannesbourg."
+   },
+   {
+    "type": "sentence",
+    "text": "Le collège Miriam-Makeba de Lille-Moulins à Lille fut inauguré en septembre 2018, le collège Miriam-Makeba à Aubervilliers en Seine-Saint-Denis et le groupe scolaire Miriam-Makeba à Châlette-sur-Loing dans le Loiret en septembre 2019."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1948, les nationalistes afrikaners gagnent les élections et mettent en place le régime de l’apartheid."
+   },
+   {
+    "type": "sentence",
+    "text": "Depuis la rentrée 2024, l’école maternelle et élémentaire Miriam Makeba accueille les enfants du quartier de la plaine de Baud à Rennes."
+   },
+   {
+    "type": "sentence",
+    "text": "Le navire océanographique sud-africain S.A. Agulhas II porte une dédicace à la chanteuse sur sa timonerie."
+   },
+   {
+    "type": "sentence",
+    "text": "Prénommée « Zenzi », diminutif d’Uzenzile, qui signifie « tu ne peux t’en prendre qu’à toi-même », elle n’a que quelques jours lorsque sa mère est emprisonnée."
+   },
+   {
+    "type": "closing",
+    "text": "Contrainte à l’exil pendant une trentaine d’années, elle parcourt le monde et multiplie les succès musicaux."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "16b21f1ce46c86.1e18a14e9902d9"
+ }
+}

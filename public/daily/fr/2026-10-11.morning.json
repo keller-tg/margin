@@ -1,0 +1,223 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-11-morning",
+ "date": "2026-10-11",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Minneapolis",
+  "qid": "Q36091",
+  "pageid": 140849,
+  "revid": 239663690,
+  "domain": "cities",
+  "teaser": "Ville du Minnesota"
+ },
+ "sources": [
+  {
+   "title": "Minneapolis",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Minneapolis&oldid=239663690",
+   "revid": 239663690,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Minneapolis Skyline looking south.jpg",
+   "w": 4828,
+   "h": 2672,
+   "alt": "Minneapolis",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Minneapolis_Skyline_looking_south.jpg/960px-Minneapolis_Skyline_looking_south.jpg",
+   "sha1": "67ba082a0ff2af542320ed32cac173e3c6a05e7e",
+   "credit": {
+    "author": "BpA9543",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Minneapolis_Skyline_looking_south.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f5": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "km",
+   "surface": "400 km"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1805",
+   "surface": "1805"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1856",
+   "surface": "1856"
+  },
+  "f49": {
+   "kind": "date",
+   "value": "1867",
+   "surface": "1867"
+  },
+  "f52": {
+   "kind": "date",
+   "value": "1916",
+   "surface": "1916"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Minneapolis",
+    "line": "Ville du Minnesota",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le pays étranger le plus proche est le Canada."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Minneapolis"
+   },
+   {
+    "type": "closing",
+    "text": "Le 30 janvier 2026, Donald Trump qualifie Alex Pretti, d'« agitateur et, peut-être, insurgé »."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Minneapolis",
+    "line": "Ville du Minnesota",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La ville de Minneapolis est le siège du comté de Hennepin dans l’État du Minnesota, aux États-Unis."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Minneapolis"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f5",
+    "display": "400 km",
+    "caption": "Le pays étranger le plus proche est le Canada, dont elle est distante d’environ 400 km."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f42",
+      "label": "L’armée américaine bâtit le Fort Snelling sur un territoire acheté aux Sioux en 1805."
+     },
+     {
+      "fact": "f48",
+      "label": "Minneapolis fut considérée comme une ville dès 1856 par la législation territoriale du Minnesota."
+     },
+     {
+      "fact": "f49",
+      "label": "En 1867, Dorilus Morrison fut élu en tant que premier maire de la ville."
+     },
+     {
+      "fact": "f52",
+      "label": "La ville élit en 1916 Thomas Van Lear comme maire."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l’agglomération de Minneapolis-Saint Paul."
+   },
+   {
+    "type": "closing",
+    "text": "Le 30 janvier 2026, Donald Trump qualifie Alex Pretti, d'« agitateur et, peut-être, insurgé »."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Minneapolis",
+    "line": "Ville du Minnesota",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La ville de Minneapolis est le siège du comté de Hennepin dans l’État du Minnesota, aux États-Unis."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Minneapolis"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f5",
+    "display": "400 km",
+    "caption": "Le pays étranger le plus proche est le Canada, dont elle est distante d’environ 400 km."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f42",
+      "label": "L’armée américaine bâtit le Fort Snelling sur un territoire acheté aux Sioux en 1805."
+     },
+     {
+      "fact": "f48",
+      "label": "Minneapolis fut considérée comme une ville dès 1856 par la législation territoriale du Minnesota."
+     },
+     {
+      "fact": "f49",
+      "label": "En 1867, Dorilus Morrison fut élu en tant que premier maire de la ville."
+     },
+     {
+      "fact": "f52",
+      "label": "La ville élit en 1916 Thomas Van Lear comme maire."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Comme toute ville américaine, Minneapolis possède son propre drapeau et ses armoiries."
+   },
+   {
+    "type": "sentence",
+    "text": "Minneapolis se situe dans le nord-ouest du Midwest, région du centre nord des États-Unis."
+   },
+   {
+    "type": "sentence",
+    "text": "Pas moins de 16 lacs sont situés à l’intérieur des limites de la ville, la plupart d’entre eux étant néanmoins réduits et peu profonds, mais couverts par la glace en hiver."
+   },
+   {
+    "type": "sentence",
+    "text": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2."
+   },
+   {
+    "type": "sentence",
+    "text": "Depuis cette époque, la région de Minneapolis appartint successivement à plusieurs pays européens avant d’intégrer plus tard le territoire américain."
+   },
+   {
+    "type": "sentence",
+    "text": "La mainmise de la France sur ce territoire commença dès 1680 après l’expédition de Louis Hennepin."
+   },
+   {
+    "type": "closing",
+    "text": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l’agglomération de Minneapolis-Saint Paul."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "004e6018b5fd83.12968453c106ef"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-21-evening",
+ "date": "2026-10-21",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Wapiti",
+  "qid": "Q180404",
+  "pageid": 1315355,
+  "revid": 240087133,
+  "domain": "animals",
+  "teaser": "Espèce de mammifères herbivores de la famille des cervidés"
+ },
+ "sources": [
+  {
+   "title": "Wapiti",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Wapiti&oldid=240087133",
+   "revid": 240087133,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Cervus canadensis2006.jpg",
+   "w": 1995,
+   "h": 1840,
+   "alt": "Wapiti",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cervus_canadensis2006.jpg/960px-Cervus_canadensis2006.jpg",
+   "sha1": "ad648c80dfe64b28071537f11a7c6dfbe44f76ca",
+   "credit": {
+    "author": "MONGO",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Cervus_canadensis2006.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Wapiti",
+    "line": "Espèce de mammifères herbivores de la famille des cervidés",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Les mâles ont des bois, qui se renouvellent chaque année."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Wapiti",
+    "line": "Espèce de mammifères herbivores de la famille des cervidés",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le wapiti est une espèce de mammifères herbivores de la famille des cervidés."
+   },
+   {
+    "type": "closing",
+    "text": "Certaines cultures voient dans le wapiti une force spirituelle importante."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Wapiti",
+    "line": "Espèce de mammifères herbivores de la famille des cervidés",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le wapiti est une espèce de mammifères herbivores de la famille des cervidés."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Wapiti"
+   },
+   {
+    "type": "closing",
+    "text": "Certaines cultures voient dans le wapiti une force spirituelle importante."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "16025bc0440c6e.003a89753dbc41"
+ }
+}

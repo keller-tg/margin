@@ -1,0 +1,170 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-26-morning",
+ "date": "2026-10-26",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Césium",
+  "qid": "Q1108",
+  "pageid": 19507,
+  "revid": 239847179,
+  "domain": "chemistry",
+  "teaser": "Élément chimique de numéro atomique 55 et de symbole Cs"
+ },
+ "sources": [
+  {
+   "title": "Césium",
+   "url": "https://fr.wikipedia.org/w/index.php?title=C%C3%A9sium&oldid=239847179",
+   "revid": 239847179,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:CsCrystals.JPG",
+   "w": 4000,
+   "h": 3000,
+   "alt": "Césium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/CsCrystals.JPG/960px-CsCrystals.JPG",
+   "sha1": "e03f63901e6507d1bf5e8662e4d3a77f41239ee9",
+   "credit": {
+    "author": "Dnn87",
+    "authorSource": "artist",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:CsCrystals.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f33": {
+   "kind": "measure",
+   "value": 95,
+   "unit": "%",
+   "surface": "95 %"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Césium",
+    "line": "Élément chimique de numéro atomique 55 et de symbole Cs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium est l’élément chimique de numéro atomique 55, de symbole Cs."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f33",
+    "display": "95 %",
+    "caption": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine."
+   },
+   {
+    "type": "closing",
+    "text": "Le césium est le plus alcalin des métaux alcalins."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Césium",
+    "line": "Élément chimique de numéro atomique 55 et de symbole Cs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium est l’élément chimique de numéro atomique 55, de symbole Cs."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Césium"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f33",
+    "display": "95 %",
+    "caption": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine."
+   },
+   {
+    "type": "sentence",
+    "text": "Dans les conditions standard, le corps simple césium est un métal mou et ductile, blanc ou argenté à doré."
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium est le plus alcalin des métaux alcalins."
+   },
+   {
+    "type": "closing",
+    "text": "Les valeurs de tag pour les sangliers de la région de Ravensburg ont varié de 0,008 à 0,062 m2/kg pour la période 2000-2008."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Césium",
+    "line": "Élément chimique de numéro atomique 55 et de symbole Cs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium est l’élément chimique de numéro atomique 55, de symbole Cs."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Césium"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f33",
+    "display": "95 %",
+    "caption": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine."
+   },
+   {
+    "type": "sentence",
+    "text": "Dans les conditions standard, le corps simple césium est un métal mou et ductile, blanc ou argenté à doré."
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium a été décelé pour la première fois en 1860 par Robert Wilhelm Bunsen et Gustav Robert Kirchhoff, lors d’une spectroscopie de l’eau minérale de Dürkheim, faite grâce au spectroscope qu’ils avaient inventé en 1859."
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium est le moins électronégatif des métaux, ce qui le rend intéressant pour l’effet photoélectrique."
+   },
+   {
+    "type": "sentence",
+    "text": "Le césium stable est considéré comme chimiquement peu toxique."
+   },
+   {
+    "type": "sentence",
+    "text": "Le nom a été formé sur le latin caesius, en raison de la couleur bleu clair des deux lignes caractéristiques de son spectre d’émission."
+   },
+   {
+    "type": "sentence",
+    "text": "Néanmoins, au-delà d’une certaine dose et par exemple sous forme de chlorure de césium absorbé par voie orale, il provoque une perte d’appétit, des nausées ou des vomissements, des diarrhées, voire une arythmie cardiaque."
+   },
+   {
+    "type": "sentence",
+    "text": "Forage : le formiate de césium saturé dans l’eau est thermiquement stable, stable à la pression, et assez dense pour que certains sédiments y flottent."
+   },
+   {
+    "type": "closing",
+    "text": "Le césium est le plus alcalin des métaux alcalins."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1b181ff52f3258.1f7743fa0eb979"
+ }
+}

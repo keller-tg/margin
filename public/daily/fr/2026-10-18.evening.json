@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-18-evening",
+ "date": "2026-10-18",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Diplodocus",
+  "qid": "Q14330",
+  "pageid": 91407,
+  "revid": 237699730,
+  "domain": "animals",
+  "teaser": "Dinosaure herbivore sauropode de la famille des diplocidés"
+ },
+ "sources": [
+  {
+   "title": "Diplodocus",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Diplodocus&oldid=237699730",
+   "revid": 237699730,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:CM Diplodocus.jpg",
+   "w": 4928,
+   "h": 3264,
+   "alt": "Diplodocus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/CM_Diplodocus.jpg/960px-CM_Diplodocus.jpg",
+   "sha1": "e760112a2cd606409ed47a5baf039502f4b226b6",
+   "credit": {
+    "author": "ScottRobertAnselmo",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:CM_Diplodocus.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Diplodocus",
+    "line": "Dinosaure herbivore sauropode de la famille des diplocidés",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Diplodocus figure parmi les dinosaures les plus facilement identifiables ; c’est le plus connu des sauropodes."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Diplodocus",
+    "line": "Dinosaure herbivore sauropode de la famille des diplocidés",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les premiers fossiles ont été découverts en 1877 par Samuel Wendell Williston dans les sédiments alluviaux ou marins peu profonds de la formation de Morrison."
+   },
+   {
+    "type": "closing",
+    "text": "Diplodocus figure parmi les dinosaures les plus facilement identifiables ; c’est le plus connu des sauropodes."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Diplodocus",
+    "line": "Dinosaure herbivore sauropode de la famille des diplocidés",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les premiers fossiles ont été découverts en 1877 par Samuel Wendell Williston dans les sédiments alluviaux ou marins peu profonds de la formation de Morrison."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Diplodocus"
+   },
+   {
+    "type": "closing",
+    "text": "Diplodocus figure parmi les dinosaures les plus facilement identifiables ; c’est le plus connu des sauropodes, avec son long cou et sa longue queue en forme de fouet, ses quatre pattes robustes et sa tête plate."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "18d8b0016a8ae5.01a9df9912195d"
+ }
+}

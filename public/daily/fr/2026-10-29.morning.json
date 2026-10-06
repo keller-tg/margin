@@ -1,0 +1,234 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-29-morning",
+ "date": "2026-10-29",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Palmyre",
+  "qid": "Q5747",
+  "pageid": 71299,
+  "revid": 238813001,
+  "domain": "cities",
+  "teaser": "Ville antique"
+ },
+ "sources": [
+  {
+   "title": "Palmyre",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Palmyre&oldid=238813001",
+   "revid": 238813001,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Palmyra, Syria - 2.jpg",
+   "w": 3000,
+   "h": 2008,
+   "alt": "Palmyre",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Palmyra%2C_Syria_-_2.jpg/960px-Palmyra%2C_Syria_-_2.jpg",
+   "sha1": "35047664a2251989fbe3ae91a0a158f3b7b0131b",
+   "credit": {
+    "author": "James Gordon from Los Angeles, California, USA",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Palmyra,_Syria_-_2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "date",
+   "value": "1980",
+   "surface": "1980"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1935",
+   "surface": "1935"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1965",
+   "surface": "1965"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 129,
+   "surface": "129"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1401",
+   "surface": "1401"
+  },
+  "f78": {
+   "kind": "measure",
+   "value": 80,
+   "unit": "%",
+   "surface": "80 %"
+  },
+  "f84": {
+   "kind": "date",
+   "value": "2016",
+   "surface": "2016"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Palmyre",
+    "line": "Ville antique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le site est classé patrimoine mondial de l’UNESCO depuis 1980."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f28",
+    "display": "129",
+    "caption": "Palmyre atteignit ensuite son apogée sous Hadrien, qui la visita en 129."
+   },
+   {
+    "type": "closing",
+    "text": "Le site est repris par les loyalistes début mars 2017."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Palmyre",
+    "line": "Ville antique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le site est classé patrimoine mondial de l’UNESCO depuis 1980."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Palmyre"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "80 %",
+    "caption": "Selon le directeur des antiquités et musées de Syrie Maamoun Abdelkarim, 80 % des sites archéologiques auraient été épargnés par les djihadistes."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f48",
+      "label": "La ville fut pillée par Tamerlan en 1401, mais semble s’en être relevée."
+     },
+     {
+      "fact": "f14",
+      "label": "Robert Amy, architecte DPLG, s’acquitte de cette tâche de 1935 à 1945."
+     },
+     {
+      "fact": "f18",
+      "label": "En 1965 et 1967, Robert du Mesnil du Buisson dirige deux campagnes."
+     },
+     {
+      "fact": "f84",
+      "label": "Mais en décembre 2016, l’État islamique mène une nouvelle offensive."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Au début du XVIIe siècle, la Mésopotamie commence à attirer les voyageurs européens, comme Pietro Della Valle."
+   },
+   {
+    "type": "closing",
+    "text": "Le peintre ayant perçu dans un éclair visionnaire – trois ans avant le saccage du site archéologique de Palmyre – un désastre à venir."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Palmyre",
+    "line": "Ville antique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Palmyre ou Tadmor est une ville antique de Syrie, située à proximité d’une oasis du désert de Syrie, à 210 km au nord-est de Damas et dont les ruines sont adjacentes à la ville moderne de Tadmor."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Palmyre"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "80 %",
+    "caption": "Selon le directeur des antiquités et musées de Syrie Maamoun Abdelkarim, 80 % des sites archéologiques auraient été épargnés par les djihadistes."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f48",
+      "label": "La ville fut pillée par Tamerlan en 1401, mais semble s’en être relevée."
+     },
+     {
+      "fact": "f14",
+      "label": "Robert Amy, architecte DPLG, s’acquitte de cette tâche de 1935 à 1945."
+     },
+     {
+      "fact": "f18",
+      "label": "En 1965 et 1967, Robert du Mesnil du Buisson dirige deux campagnes."
+     },
+     {
+      "fact": "f2",
+      "label": "Le site est classé patrimoine mondial de l’UNESCO depuis 1980."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Au début du XVIIe siècle, la Mésopotamie commence à attirer les voyageurs européens, comme Pietro Della Valle, qui évitent les environs de Palmyre, alors occupés par des tribus bédouines hostiles."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1678, une première expédition de seize marchands anglais accompagnés de vingt-quatre serviteurs, organisée notamment par l’orientaliste et aumônier de la Levant Company Robert Huntington, tourne mal."
+   },
+   {
+    "type": "sentence",
+    "text": "L’émir local craint que les curieux ne révèlent leurs positions aux Turcs, et les contraint à partir après le paiement d’une rançon."
+   },
+   {
+    "type": "sentence",
+    "text": "En 1691, une seconde tentative réussit et le pasteur Wiliam Hallifax témoigne de ses observations dans les Philosophical Transactions en 1695."
+   },
+   {
+    "type": "sentence",
+    "text": "Après un voyage de deux ans en 1751-1752, accompagné des antiquaires John Bouverie et James Dawkins, Robert Wood publie en 1753 The ruins of Palmyra ; otherwise Tedmor in the desert."
+   },
+   {
+    "type": "sentence",
+    "text": "L’étude scientifique du site commence véritablement au début du XXe siècle, avec les campagnes allemandes d’Otto Puchstein en 1902, de Theodor Wiegand en 1917 et de Daniel Krencker en 1928."
+   },
+   {
+    "type": "closing",
+    "text": "Le peintre ayant perçu dans un éclair visionnaire – trois ans avant le saccage du site archéologique de Palmyre – un désastre à venir."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0b2ab5d1a672de.0cfa5ff238b3b4"
+ }
+}

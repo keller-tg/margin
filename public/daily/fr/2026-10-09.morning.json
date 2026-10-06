@@ -1,0 +1,183 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-09-morning",
+ "date": "2026-10-09",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Archaea",
+  "qid": "Q10872",
+  "pageid": 323,
+  "revid": 239921448,
+  "domain": "biology",
+  "teaser": "Domaine du vivant de microorganismes unicellulaires"
+ },
+ "sources": [
+  {
+   "title": "Archaea",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Archaea&oldid=239921448",
+   "revid": 239921448,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Archaea.png",
+   "w": 586,
+   "h": 804,
+   "alt": "Archaea",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Archaea.png",
+   "sha1": "255444d1e25c89f35819c9d716ac74b6db20ff37",
+   "credit": {
+    "author": "Maulucioni",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Archaea.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f38": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "°c",
+   "surface": "100 °C"
+  },
+  "f40": {
+   "kind": "measure",
+   "value": 45,
+   "unit": "°c",
+   "surface": "45 °C"
+  },
+  "f42": {
+   "kind": "measure",
+   "value": 113,
+   "unit": "°c",
+   "surface": "113 °C"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Archaea",
+    "line": "Domaine du vivant de microorganismes unicellulaires",
+    "image": "img1"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f42",
+    "display": "113 °C",
+    "caption": "Pyrolobus fumarii est capable de se multiplier jusqu’à 113 °C."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaea"
+   },
+   {
+    "type": "closing",
+    "text": "Les Archées méthanogènes de l’intestin humain et des ruminants participent ainsi favorablement à la digestion."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Archaea",
+    "line": "Domaine du vivant de microorganismes unicellulaires",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cependant les analyses moléculaires montrent que les eucaryotes prennent leur origine parmi les Archées et plus précisément les Archées d’Asgård."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaea"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f40",
+    "display": "45 °C",
+    "caption": "Les thermophiles se développent mieux à des températures supérieures à 45 °C, dans des lieux tels que les sources d’eau chaude."
+   },
+   {
+    "type": "sentence",
+    "text": "De ce fait, ces Archées procaryotes forment un clade avec les eucaryotes mais ne constituent qu’un groupe paraphylétique situé à la base de ces derniers."
+   },
+   {
+    "type": "sentence",
+    "text": "Comme les poissons ou les reptiles, ils forment une entité pratique à utiliser car morphologiquement identifiable."
+   },
+   {
+    "type": "closing",
+    "text": "Les Archées méthanogènes de l’intestin humain et des ruminants participent ainsi favorablement à la digestion."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Archaea",
+    "line": "Domaine du vivant de microorganismes unicellulaires",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les Archaea ou Archées, du grec ancien ἀρχαῖος / arkhaîos, anciennement archéobactéries, sont des micro-organismes unicellulaires procaryotes, c’est-à-dire des organismes constitués, comme les bactéries, d’une cellule unique qui ne comprend ni noyau ni organites, à la différence des eucaryotes."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaea"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f38",
+    "display": "100 °C",
+    "caption": "En effet, certaines Archées vivent à des températures élevées, souvent supérieures à 100 °C, que l’on rencontre dans les geysers, les fumeurs noirs et des puits de pétrole."
+   },
+   {
+    "type": "sentence",
+    "text": "Les Archées sont classiquement présentées comme formant un domaine d’organismes procaryotes phylogénétiquement distincts des bactéries et morphologiquement distincts des eucaryotes, dans un système à trois domaines."
+   },
+   {
+    "type": "sentence",
+    "text": "La taille et la forme des Archées sont généralement semblables à celles des bactéries, bien que certaines espèces d’Archées présentent une forme inhabituelle, comme Haloquadratum walsbyi dont la cellule est plate et carrée."
+   },
+   {
+    "type": "sentence",
+    "text": "Au début du XXe siècle, les procaryotes étaient considérés comme un seul groupe d’organismes et classés en fonction de leur biochimie, de leur morphologie et du métabolisme."
+   },
+   {
+    "type": "sentence",
+    "text": "Cependant, une nouvelle approche a été proposée en 1965 qui permet d’étudier les liens de parenté entre les procaryotes en utilisant les séquences des gènes de ces organismes."
+   },
+   {
+    "type": "sentence",
+    "text": "Certaines publications ont suggéré que des lipides fossiles provenant de procaryotes ou d’eucaryotes étaient présents dans les schistes datant de 2,7 milliards d’années."
+   },
+   {
+    "type": "sentence",
+    "text": "Les Archées ont généralement un seul chromosome circulaire."
+   },
+   {
+    "type": "sentence",
+    "text": "En dépit de ces similitudes visuelles avec les bactéries, les Archées s’en distinguent par certains caractères biochimiques, comme la constitution de la membrane cellulaire."
+   },
+   {
+    "type": "closing",
+    "text": "Les Archées méthanogènes de l’intestin humain et des ruminants participent ainsi favorablement à la digestion."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1313a7c2c737a7.03ef85d4edffc1"
+ }
+}

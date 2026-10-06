@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-13-morning",
+ "date": "2026-10-13",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Allemagne",
+  "qid": "Q183",
+  "pageid": 1590005,
+  "revid": 239832103,
+  "domain": "places",
+  "teaser": "Pays d’Europe centrale"
+ },
+ "sources": [
+  {
+   "title": "Allemagne",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Allemagne&oldid=239832103",
+   "revid": 239832103,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Aerial view of Berlin (32881394137).jpg",
+   "w": 4026,
+   "h": 2679,
+   "alt": "Allemagne",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg/960px-Aerial_view_of_Berlin_%2832881394137%29.jpg",
+   "sha1": "76775ec67fb4cec83503f6250faf2d8d994713a4",
+   "credit": {
+    "author": "dronepicr",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Berlin_(32881394137).jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f26": {
+   "kind": "measure",
+   "value": 1918,
+   "unit": "l",
+   "surface": "1918 l"
+  },
+  "f51": {
+   "kind": "date",
+   "value": "1848",
+   "surface": "1848"
+  },
+  "f53": {
+   "kind": "date",
+   "value": "1815",
+   "surface": "1815"
+  },
+  "f54": {
+   "kind": "date",
+   "value": "1862",
+   "surface": "1862"
+  },
+  "f55": {
+   "kind": "date",
+   "value": "1866",
+   "surface": "1866"
+  },
+  "f79": {
+   "kind": "measure",
+   "value": 88000,
+   "unit": "km2",
+   "surface": "88 000 km2"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Allemagne",
+    "line": "Pays d’Europe centrale",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La langue officielle du pays est principalement l’allemand, à côté d’autres langues régionales ou minoritaires."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f79",
+    "display": "88 000 km2",
+    "caption": "L’Allemagne perd 88 000 km2 et huit millions d’habitants."
+   },
+   {
+    "type": "closing",
+    "text": "Depuis la réunification en octobre 1990, l’Allemagne se divise en seize régions semi-autonomes appelées lands."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Allemagne",
+    "line": "Pays d’Europe centrale",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Décentralisée et fédérale, l’Allemagne compte quatre villes de plus d’un million d’habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Allemagne"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f26",
+    "display": "1918 l",
+    "caption": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l’avènement de la République, puis en 1933 celui du Troisième Reich."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f53",
+      "label": "L’Allemagne se retrouve dans la même situation politique qu’en 1815."
+     },
+     {
+      "fact": "f51",
+      "label": "Les révolutions de l’année 1848 touchent la plupart des États allemands."
+     },
+     {
+      "fact": "f54",
+      "label": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier."
+     },
+     {
+      "fact": "f55",
+      "label": "En 1866, l’armée prussienne écrase l’armée autrichienne à Sadowa."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Le siège du Gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn, ancienne capitale de la République fédérale d’Allemagne."
+   },
+   {
+    "type": "closing",
+    "text": "Depuis la réunification en octobre 1990, l’Allemagne se divise en seize régions semi-autonomes appelées lands."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Allemagne",
+    "line": "Pays d’Europe centrale",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Décentralisée et fédérale, l’Allemagne compte quatre villes de plus d’un million d’habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr, Francfort-sur-le-Main, Berlin et Stuttgart."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Allemagne"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f26",
+    "display": "1918 l",
+    "caption": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l’avènement de la République, puis en 1933 celui du Troisième Reich, lequel s’effondra en 1945 dans la défaite qu’entraîna la Seconde Guerre mondiale."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f53",
+      "label": "L’Allemagne se retrouve dans la même situation politique qu’en 1815."
+     },
+     {
+      "fact": "f51",
+      "label": "Les révolutions de l’année 1848 touchent la plupart des États allemands."
+     },
+     {
+      "fact": "f54",
+      "label": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier."
+     },
+     {
+      "fact": "f55",
+      "label": "En 1866, l’armée prussienne écrase l’armée autrichienne à Sadowa."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Thiudisk est transformé en Theodischus par les Romains, puis en Teudischus."
+   },
+   {
+    "type": "sentence",
+    "text": "L’Allemagne se dit en allemand : Deutschland /ˈdɔʏtʃlant/, en forme longue la République fédérale d’Allemagne, abrégée en RFA en allemand : Bundesrepublik Deutschland /ˈbʊn.dəs.ʁe.puˌblik ˈdɔʏtʃ.lant/, abrégée en BRD."
+   },
+   {
+    "type": "sentence",
+    "text": "Thiudisk devient Diutisca en vieux haut allemand pour aboutir à Deutsch en allemand moderne ou Tysk dans les langues scandinaves."
+   },
+   {
+    "type": "sentence",
+    "text": "En ancien français, le latin Theodiscus donne Thodesche, puis Thiois et Tudesque."
+   },
+   {
+    "type": "sentence",
+    "text": "De 962 à 1806, les territoires germanophones constituent le principal espace politique et territorial du Saint-Empire romain germanique."
+   },
+   {
+    "type": "sentence",
+    "text": "Le mot gotique Thiuda signifiant « peuple » a comme adjectif Thiudisk."
+   },
+   {
+    "type": "closing",
+    "text": "Depuis la réunification en octobre 1990, l’Allemagne se divise en seize régions semi-autonomes appelées lands."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1fcbb553618919.07a627835ff1e6"
+ }
+}

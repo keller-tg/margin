@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-02-evening",
+ "date": "2026-11-02",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Fluor",
+  "qid": "Q650",
+  "pageid": 11706,
+  "revid": 238246202,
+  "domain": "chemistry",
+  "teaser": "Élément chimique de numéro atomique 9 et de symbole F"
+ },
+ "sources": [
+  {
+   "title": "Fluor",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Fluor&oldid=238246202",
+   "revid": 238246202,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Fluoro liquido a -196°C 1.jpg",
+   "w": 1177,
+   "h": 883,
+   "alt": "Fluor",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Fluoro_liquido_a_-196%C2%B0C_1.jpg/960px-Fluoro_liquido_a_-196%C2%B0C_1.jpg",
+   "sha1": "f1e429dd195f64e404f602cebfadbb3d344275a8",
+   "credit": {
+    "author": "Fulvio314",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Fluoro_liquido_a_-196%C2%B0C_1.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Fluor",
+    "line": "Élément chimique de numéro atomique 9 et de symbole F",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Le seul isotope stable est 19F."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Fluor",
+    "line": "Élément chimique de numéro atomique 9 et de symbole F",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le fluor est l’élément chimique de numéro atomique 9, de symbole F. C’est le premier élément du groupe des halogènes."
+   },
+   {
+    "type": "closing",
+    "text": "Georgius Agricola décrivait déjà l’existence du fluor en 1530 mais cet élément n’a été isolé qu’en 1886, par Henri Moissan."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Fluor",
+    "line": "Élément chimique de numéro atomique 9 et de symbole F",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Le fluor est l’élément chimique de numéro atomique 9, de symbole F. C’est le premier élément du groupe des halogènes."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Fluor"
+   },
+   {
+    "type": "closing",
+    "text": "Georgius Agricola décrivait déjà l’existence du fluor en 1530 mais cet élément n’a été isolé qu’en 1886, par Henri Moissan."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "00a300d2e88400.0f50becd8dd921"
+ }
+}

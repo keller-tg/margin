@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-27-morning",
+ "date": "2026-10-27",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Rodentia",
+  "qid": "Q10850",
+  "pageid": 3822463,
+  "revid": 236255562,
+  "domain": "animals",
+  "teaser": "Ordre de la classe des mammifères"
+ },
+ "sources": [
+  {
+   "title": "Rodentia",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Rodentia&oldid=236255562",
+   "revid": 236255562,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Rodent collage.jpg",
+   "w": 1024,
+   "h": 768,
+   "alt": "Rodentia",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rodent_collage.jpg/960px-Rodent_collage.jpg",
+   "sha1": "b0136d734237a07b146c5a3f63f94280f800bedf",
+   "credit": {
+    "author": "Bobisbob",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Rodent_collage.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f3": {
+   "kind": "measure",
+   "value": 4.4,
+   "unit": "cm",
+   "surface": "4,4 cm"
+  },
+  "f5": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "g",
+   "surface": "100 g"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Rodentia",
+    "line": "Ordre de la classe des mammifères",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les rongeurs ou Rodentiens sont un ordre de mammifères placentaires."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f5",
+    "display": "100 g",
+    "caption": "La plupart des espèces de rongeurs pèsent moins de 100 g."
+   },
+   {
+    "type": "closing",
+    "text": "Les espèces de rongeurs introduites par accident deviennent souvent envahissantes, menaçant la survie d’espèces indigènes."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Rodentia",
+    "line": "Ordre de la classe des mammifères",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les rongeurs ou Rodentiens sont un ordre de mammifères placentaires."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rodentia"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "4,4 cm",
+    "caption": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur."
+   },
+   {
+    "type": "sentence",
+    "text": "La plupart des rongeurs se nourrissent de graines ou d’autres matières végétales, mais d’autres ont des régimes alimentaires plus variés."
+   },
+   {
+    "type": "sentence",
+    "text": "Le mode de reproduction peut être monogame, polygyne ou avec promiscuité sexuelle."
+   },
+   {
+    "type": "closing",
+    "text": "C’est notamment le cas de nombreux oiseaux insulaires, auparavant privés de prédateurs et dont les couvées peuvent être prédatées."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Rodentia",
+    "line": "Ordre de la classe des mammifères",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Les rongeurs ou Rodentiens sont un ordre de mammifères placentaires."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rodentia"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "4,4 cm",
+    "caption": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur, avec des femelles adultes ne pesant que 3,75 g."
+   },
+   {
+    "type": "sentence",
+    "text": "La plupart des rongeurs se nourrissent de graines ou d’autres matières végétales, mais d’autres ont des régimes alimentaires plus variés."
+   },
+   {
+    "type": "sentence",
+    "text": "Les rongeurs se caractérisent par l’existence d’une unique paire d’incisives, acérées et à croissance continue, sur chacune de leurs mâchoires."
+   },
+   {
+    "type": "sentence",
+    "text": "Comme les incisives s’aiguisent les unes contre les autres, la dentine à l’arrière des dents s’use, ne laissant que l’émail, solide, taillé comme un ciseau."
+   },
+   {
+    "type": "sentence",
+    "text": "La plupart des espèces ont jusqu’à 22 dents, sans canines ni prémolaires antérieures."
+   },
+   {
+    "type": "sentence",
+    "text": "Les chinchillas et les cobayes ont une alimentation riche en fibres, et leurs molaires n’ont pas de racines mais ont une croissance continue comme les incisives."
+   },
+   {
+    "type": "sentence",
+    "text": "Chez beaucoup de rongeurs les molaires sont relativement grosses, très structurées et avec des cuspides ou des sillons très marqués, bien que chez d’autres, comme les espèces du genre Pseudohydromys, elles sont plus petites et plus simples."
+   },
+   {
+    "type": "sentence",
+    "text": "La plupart des rongeurs sont herbivores, se nourrissant exclusivement de graines, de tiges, de feuilles, de fleurs ou de racines."
+   },
+   {
+    "type": "closing",
+    "text": "C’est notamment le cas de nombreux oiseaux insulaires, auparavant privés de prédateurs et dont les couvées peuvent être prédatées."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "16dc7d55ed8b7c.0f038e33dd33f3"
+ }
+}

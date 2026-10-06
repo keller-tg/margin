@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-22-evening",
+ "date": "2026-10-22",
+ "lang": "fr",
+ "slot": "evening",
+ "topic": {
+  "title": "Ceinture d'astéroïdes",
+  "qid": "Q2179",
+  "pageid": 33187,
+  "revid": 239316482,
+  "domain": "astronomy",
+  "teaser": "Région du Système solaire située entre les orbites de Mars et Jupiter"
+ },
+ "sources": [
+  {
+   "title": "Ceinture d'astéroïdes",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Ceinture_d'ast%C3%A9ro%C3%AFdes&oldid=239316482",
+   "revid": 239316482,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Asteroid belt positions-en.png",
+   "w": 10500,
+   "h": 15285,
+   "alt": "Ceinture d'astéroïdes",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/960px-Asteroid_belt_positions-en.png",
+   "sha1": "9deef0f4312c2c1c6898e3ae36fdc494b603f771",
+   "credit": {
+    "author": "Thunkii",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Asteroid_belt_positions-en.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Ceinture d’astéroïdes",
+    "line": "Région du Système solaire située entre les orbites de Mars et Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "La ceinture d’astéroïdes contient plusieurs centaines de milliers d’astéroïdes connus."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Ceinture d’astéroïdes",
+    "line": "Région du Système solaire située entre les orbites de Mars et Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La ceinture principale d’astéroïdes est une formation du système solaire située entre les orbites de Mars et de Jupiter."
+   },
+   {
+    "type": "closing",
+    "text": "Le plus gros d’entre-eux, Cérès, est catégorisé comme planète naine depuis 2006."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Ceinture d’astéroïdes",
+    "line": "Région du Système solaire située entre les orbites de Mars et Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La ceinture principale d’astéroïdes est une formation du système solaire située entre les orbites de Mars et de Jupiter."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ceinture d’astéroïdes"
+   },
+   {
+    "type": "closing",
+    "text": "Le plus gros d’entre-eux, Cérès, est catégorisé comme planète naine depuis 2006."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "02c7cdac8c62ee.0917d36823cc00"
+ }
+}

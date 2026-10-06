@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "fr-2026-11-02-morning",
+ "date": "2026-11-02",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Bulgarie",
+  "qid": "Q219",
+  "pageid": 406,
+  "revid": 239786678,
+  "domain": "places",
+  "teaser": "Pays d’Europe du Sud-Est situé dans les Balkans"
+ },
+ "sources": [
+  {
+   "title": "Bulgarie",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Bulgarie&oldid=239786678",
+   "revid": 239786678,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Rila Monastery, August 2013.jpg",
+   "w": 3690,
+   "h": 2460,
+   "alt": "Bulgarie",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rila_Monastery%2C_August_2013.jpg/960px-Rila_Monastery%2C_August_2013.jpg",
+   "sha1": "3a198b915b5c8688dd294f8931d48297dfe03265",
+   "credit": {
+    "author": "Raggatt2000",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Rila_Monastery,_August_2013.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "date",
+   "value": "1018",
+   "surface": "1018"
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1371",
+   "surface": "1371"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 1808,
+   "unit": "km",
+   "surface": "1 808 km"
+  },
+  "f39": {
+   "kind": "measure",
+   "value": 470,
+   "unit": "mètres",
+   "surface": "470 mètres"
+  },
+  "f43": {
+   "kind": "date",
+   "value": "540",
+   "surface": "540"
+  },
+  "f67": {
+   "kind": "date",
+   "value": "1999",
+   "surface": "1999"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Bulgarie",
+    "line": "Pays d’Europe du Sud-Est situé dans les Balkans",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La Bulgarie couvre approximativement la Thrace antique."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f39",
+    "display": "470 mètres",
+    "caption": "L’altitude moyenne de la Bulgarie est de 470 mètres."
+   },
+   {
+    "type": "closing",
+    "text": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Bulgarie",
+    "line": "Pays d’Europe du Sud-Est situé dans les Balkans",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La Bulgarie, en forme longue la république de Bulgarie, est un pays d’Europe du Sud-Est situé dans les Balkans."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bulgarie"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "1 808 km",
+    "caption": "La Bulgarie se trouve dans le Sud-Est de l’Europe, avec 1 808 km de frontières terrestres."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f43",
+      "label": "La Bulgarie a un réseau de 540 rivières, dont la plupart sont plutôt courtes."
+     },
+     {
+      "fact": "f4",
+      "label": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
+     },
+     {
+      "fact": "f6",
+      "label": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
+     },
+     {
+      "fact": "f67",
+      "label": "Depuis 1999, la Bulgarie est subdivisée en 28 oblasti."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La Bulgarie couvre approximativement la Thrace antique."
+   },
+   {
+    "type": "closing",
+    "text": "La Bulgarie est une république laïque parlementaire et démocratique affichant un haut indice de développement humain."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Bulgarie",
+    "line": "Pays d’Europe du Sud-Est situé dans les Balkans",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "La Bulgarie, en forme longue la république de Bulgarie, est un pays d’Europe du Sud-Est situé dans les Balkans."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bulgarie"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "1 808 km",
+    "caption": "La Bulgarie se trouve dans le Sud-Est de l’Europe, avec 1 808 km de frontières terrestres."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f43",
+      "label": "La Bulgarie a un réseau de 540 rivières, dont la plupart sont plutôt courtes."
+     },
+     {
+      "fact": "f4",
+      "label": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
+     },
+     {
+      "fact": "f6",
+      "label": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
+     },
+     {
+      "fact": "f67",
+      "label": "Depuis 1999, la Bulgarie est subdivisée en 28 oblasti."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "La longueur du littoral est de 354 km et l’altitude s’élève de 0 m à 2 925 m."
+   },
+   {
+    "type": "sentence",
+    "text": "Les plaines représentent 31 % de la surface du pays, les plateaux 41 % de la surface, les montagnes de faible élévation 10 %, les montagnes moyennes 10 % et les montagnes élevées 3 %."
+   },
+   {
+    "type": "sentence",
+    "text": "La langue turque actuelle la plus proche du proto-bulgare est le tchouvache."
+   },
+   {
+    "type": "sentence",
+    "text": "Le climat de la Bulgarie est de type continental et méditerranéen."
+   },
+   {
+    "type": "sentence",
+    "text": "Le nom bŭlgar désignait les Proto-Bulgares, peuple cavalier venu de la steppe pontique et dont les origines sont, semble-t-il, multiples, en partie iraniennes avec des composantes alanes, mais surtout turques avec des composantes koutrigoures, outigoures, saragoures, khazares, petchénègues et coumanes."
+   },
+   {
+    "type": "sentence",
+    "text": "La principale caractéristique du pays est sa division en bandes de montagnes et de plaines orientées est-ouest."
+   },
+   {
+    "type": "closing",
+    "text": "La Bulgarie est une république laïque parlementaire et démocratique affichant un haut indice de développement humain."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "010e597fc2e455.15a55c1c68f0db"
+ }
+}

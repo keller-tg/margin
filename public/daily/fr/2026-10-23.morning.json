@@ -1,0 +1,223 @@
+{
+ "schema": 1,
+ "id": "fr-2026-10-23-morning",
+ "date": "2026-10-23",
+ "lang": "fr",
+ "slot": "morning",
+ "topic": {
+  "title": "Alfred Russel Wallace",
+  "qid": "Q160627",
+  "pageid": 163778,
+  "revid": 239404281,
+  "domain": "people-science",
+  "teaser": "Naturaliste, géographe et anthropologue britannique"
+ },
+ "sources": [
+  {
+   "title": "Alfred Russel Wallace",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Alfred_Russel_Wallace&oldid=239404281",
+   "revid": 239404281,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Alfred-Russel-Wallace-c1895.jpg",
+   "w": 2293,
+   "h": 3355,
+   "alt": "Alfred Russel Wallace",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Alfred-Russel-Wallace-c1895.jpg/960px-Alfred-Russel-Wallace-c1895.jpg",
+   "sha1": "f40a4cd2b16e2856c3276c0720705527b6bc731b",
+   "credit": {
+    "author": "London Stereoscopic and Photographic Company (active 1855-1922)",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Alfred-Russel-Wallace-c1895.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f25": {
+   "kind": "number",
+   "value": 125000,
+   "surface": "125 000"
+  },
+  "f49": {
+   "kind": "date",
+   "value": "1889",
+   "surface": "1889"
+  },
+  "f59": {
+   "kind": "date",
+   "value": "1915",
+   "surface": "1915"
+  },
+  "f75": {
+   "kind": "date",
+   "value": "1858",
+   "surface": "1858"
+  },
+  "f92": {
+   "kind": "date",
+   "value": "1880",
+   "surface": "1880"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Alfred Russel Wallace",
+    "line": "Naturaliste, géographe et anthropologue britannique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alfred Russel Wallace est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "125 000",
+    "caption": "Wallace collecta plus de 125 000 spécimens dans l’archipel Malais."
+   },
+   {
+    "type": "closing",
+    "text": "Wallace fut fortement attiré par les idées radicales."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Alfred Russel Wallace",
+    "line": "Naturaliste, géographe et anthropologue britannique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alfred Russel Wallace est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Alfred Russel Wallace"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "125 000",
+    "caption": "Wallace collecta plus de 125 000 spécimens dans l’archipel Malais ; plus d’un millier étaient des espèces inconnues jusqu’alors."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f75",
+      "label": "Darwin reçut le manuscrit le 18 juin 1858."
+     },
+     {
+      "fact": "f92",
+      "label": "Dans les années 1880, l’évolution était une idée largement acceptée dans les cercles scientifiques."
+     },
+     {
+      "fact": "f49",
+      "label": "Après avoir lu Looking Backward de Edward Bellamy en 1889, Wallace se déclara socialiste."
+     },
+     {
+      "fact": "f59",
+      "label": "L’inauguration du médaillon eut lieu le 1er novembre 1915."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace fut fortement attiré par les idées radicales."
+   },
+   {
+    "type": "closing",
+    "text": "En 1889, Wallace publia Darwinism, dans lequel il répondit aux critiques scientifiques sur la sélection naturelle."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Alfred Russel Wallace",
+    "line": "Naturaliste, géographe et anthropologue britannique",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alfred Russel Wallace est un naturaliste, géographe, explorateur, anthropologue et biologiste britannique."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Alfred Russel Wallace"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "125 000",
+    "caption": "Wallace collecta plus de 125 000 spécimens dans l’archipel Malais ; plus d’un millier étaient des espèces inconnues jusqu’alors."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f75",
+      "label": "Darwin reçut le manuscrit le 18 juin 1858."
+     },
+     {
+      "fact": "f92",
+      "label": "Dans les années 1880, l’évolution était une idée largement acceptée dans les cercles scientifiques."
+     },
+     {
+      "fact": "f49",
+      "label": "Après avoir lu Looking Backward de Edward Bellamy en 1889, Wallace se déclara socialiste."
+     },
+     {
+      "fact": "f59",
+      "label": "L’inauguration du médaillon eut lieu le 1er novembre 1915."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace naquit dans le village de Llanbadoc, près d’Usk, dans le Pays de Galles."
+   },
+   {
+    "type": "sentence",
+    "text": "À l’âge de cinq ans, Wallace déménagea avec sa famille à Hertford, au nord de Londres."
+   },
+   {
+    "type": "sentence",
+    "text": "C’était une solution provisoire en attendant que William, son frère aîné, soit prêt à le prendre comme apprenti géomètre."
+   },
+   {
+    "type": "sentence",
+    "text": "C’est à cette époque qu’il se rendit à des conférences ou lut des ouvrages à la London Mechanics Institute, et qu’il prit connaissance des idées politiques radicales de réformateurs sociaux tels que Robert Owen et Thomas Paine."
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace exécuta des travaux d’arpentage dans l’ouest de l’Angleterre et au Pays de Galles de 1840 à 1843."
+   },
+   {
+    "type": "sentence",
+    "text": "Mais vers la fin de cette année-là, l’activité de l’entreprise de William déclina à la suite de conditions économiques difficiles et Wallace partit en janvier."
+   },
+   {
+    "type": "closing",
+    "text": "Wallace fut fortement attiré par les idées radicales."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1d6ecdd72c4975.1baca7d1c7999d"
+ }
+}
