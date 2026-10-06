@@ -60,7 +60,7 @@ export function Landing() {
           <InkLink to="/pace" seed={11} width={60}>
             {t('landing.pace')}
           </InkLink>
-          <span className="pace-current"> {t('pace.medium')}</span>
+          <span className="pace-current"> {t(`pace.${prefs.pace}`)}</span>
         </p>
         <nav className="ui-line lang-toggle" aria-label={t('landing.languages')}>
           {LANGS.map((l, i) => (

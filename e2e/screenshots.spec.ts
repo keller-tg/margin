@@ -10,7 +10,7 @@ const SCHEMES = ['light', 'dark'] as const;
 const PAGES = [
   { name: 'landing', path: '/' },
   { name: 'specimen', path: '/specimen' },
-  { name: 'not-yet', path: '/begin' },
+  { name: 'not-found', path: '/no-such-page' },
 ] as const;
 
 for (const vp of VIEWPORTS) {

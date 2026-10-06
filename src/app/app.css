@@ -93,3 +93,41 @@
 }
 .specimen-choice { margin-right: 1.2em; }
 .specimen-choice .lang-btn { margin-right: 0.6em; }
+
+/* ---------- pace calibration ---------- */
+.pace-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.pace-name {
+  font-weight: var(--wght-title);
+}
+.pace-choose {
+  font-family: var(--hand);
+  font-size: calc(var(--fs-body) * 1.2);
+  font-weight: var(--wght-title);
+  text-decoration: underline;
+  text-decoration-color: var(--margin-color);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 6px;
+}
+.pace-mine {
+  font-size: calc(var(--fs-body) * 0.78);
+}
+.pace-sample {
+  margin: 0;
+  padding: 0 0 0 14px;
+  border-left: 1.5px solid var(--rule-color);
+}
+.pace-sample-label,
+.pace-desc {
+  color: var(--ink-soft);
+}
+.pace-pages {
+  margin-left: 6px;
+  letter-spacing: 3px;
+  color: var(--margin-color);
+  font-family: var(--hand);
+  font-size: 16px;
+}

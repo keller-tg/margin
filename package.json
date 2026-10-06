@@ -19,7 +19,8 @@
     "content:bake": "NODE_NO_WARNINGS=1 tsx scripts/content/bake.ts",
     "content:verify": "NODE_NO_WARNINGS=1 tsx scripts/content/verify.ts",
     "content:preview": "NODE_NO_WARNINGS=1 tsx scripts/content/preview.ts",
-    "content:quality": "NODE_NO_WARNINGS=1 tsx scripts/content/quality.ts"
+    "content:quality": "NODE_NO_WARNINGS=1 tsx scripts/content/quality.ts",
+    "images:build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/images/build-images.ts"
   },
   "dependencies": {
     "react": "^19.3.0",
@@ -36,6 +37,7 @@
     "@vitejs/plugin-react": "^6.1.2",
     "jsdom": "^29.1.1",
     "opentype.js": "^2.0.0",
+    "sharp": "^0.35.5",
     "subset-font": "^2.9.0",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.23.15",

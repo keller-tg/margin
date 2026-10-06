@@ -7,6 +7,7 @@ export type Ink = 'graphite' | 'blueblack' | 'sepia';
 export type PaperType = 'lined' | 'dotted' | 'grid' | 'blank';
 export type Hand = 'caveat' | 'playpen';
 export type MotionPref = 'system' | 'on' | 'off';
+export type PacePref = 'easy' | 'medium' | 'deep';
 
 export type Prefs = {
   lang: Lang;
@@ -15,6 +16,9 @@ export type Prefs = {
   paper: PaperType;
   hand: Hand;
   motion: MotionPref;
+  pace: PacePref;
+  /** Set once the reader has chosen a pace on the calibration page. */
+  paceChosen: boolean;
 };
 
 export const PREFS_KEY = 'margin.prefs.v1';
@@ -25,10 +29,11 @@ const ONE_OF = {
   paper: ['lined', 'dotted', 'grid', 'blank'],
   hand: ['caveat', 'playpen'],
   motion: ['system', 'on', 'off'],
+  pace: ['easy', 'medium', 'deep'],
 } as const;
 
 export function defaultPrefs(browserLangs: readonly string[] = []): Prefs {
-  return { lang: detectLang(browserLangs), theme: 'system', ink: 'graphite', paper: 'lined', hand: 'caveat', motion: 'system' };
+  return { lang: detectLang(browserLangs), theme: 'system', ink: 'graphite', paper: 'lined', hand: 'caveat', motion: 'system', pace: 'medium', paceChosen: false };
 }
 
 /** Parse stored prefs, dropping anything unknown (old versions, hand edits) back to defaults. */
@@ -49,6 +54,8 @@ export function parsePrefs(raw: string | null, fallback: Prefs): Prefs {
     paper: pick('paper'),
     hand: pick('hand'),
     motion: pick('motion'),
+    pace: pick('pace'),
+    paceChosen: data.paceChosen === true,
   };
 }
 

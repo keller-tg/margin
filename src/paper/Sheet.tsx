@@ -5,7 +5,7 @@ import type { PaperType } from '../theme/prefs';
  * One sheet of notebook paper: grain, rules (aligned to the handwriting baseline), the margin line,
  * and a writing column right of the margin. Everything in Margin is written on one of these.
  */
-export function Sheet({ paper, margin, fill = false, children }: { paper: PaperType; margin?: ReactNode; fill?: boolean; children: ReactNode }) {
+export function Sheet({ paper, margin, fill = false, as = 'main', children }: { paper: PaperType; margin?: ReactNode; fill?: boolean; as?: 'main' | 'div'; children: ReactNode }) {
   const sheet = useRef<HTMLDivElement>(null);
   const line = useRef<HTMLDivElement>(null);
 
@@ -25,7 +25,11 @@ export function Sheet({ paper, margin, fill = false, children }: { paper: PaperT
     <div ref={sheet} className="sheet" data-paper={paper}>
       <div ref={line} className="margin-line" aria-hidden="true" />
       {margin ? <aside className="margin-notes">{margin}</aside> : null}
-      <main className={fill ? 'column column--fill' : 'column'}>{children}</main>
+      {as === 'main' ? (
+        <main className={fill ? 'column column--fill' : 'column'}>{children}</main>
+      ) : (
+        <div className={fill ? 'column column--fill' : 'column'}>{children}</div>
+      )}
     </div>
   );
 }

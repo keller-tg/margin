@@ -25,6 +25,10 @@ const ALLOWED_HOSTS = new Set([
   'query.wikidata.org',
 ]);
 
+// Image bytes: Commons thumbnails at standard widths. thumb.wikimedia.org (where the API points) is not
+// reachable from the build environment; upload.wikimedia.org serves the same thumbnails under /thumb/.
+const BINARY_HOSTS = new Set(['upload.wikimedia.org']);
+
 export type WikiLang = 'en' | 'de' | 'fr';
 type Params = Record<string, string | number | boolean | undefined>;
 
@@ -67,9 +71,10 @@ function writeCache(url: URL, body: unknown): void {
 
 const onVitest = () => Boolean(process.env.VITEST);
 
-async function liveFetch(url: URL, init: RequestInit): Promise<unknown> {
+async function liveFetch(url: URL, init: RequestInit, as: 'json' | 'binary' = 'json'): Promise<unknown> {
   if (onVitest()) throw new Error(`live network call attempted under tests: ${url}`);
-  if (!ALLOWED_HOSTS.has(url.host)) throw new Error(`host not allowed for the pipeline: ${url.host}`);
+  const allowed = as === 'binary' ? BINARY_HOSTS.has(url.host) : ALLOWED_HOSTS.has(url.host);
+  if (!allowed) throw new Error(`host not allowed for the pipeline: ${url.host}`);
 
   for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
     const gap = lastRequestAt + MIN_GAP_MS - Date.now();
@@ -95,6 +100,11 @@ async function liveFetch(url: URL, init: RequestInit): Promise<unknown> {
       continue;
     }
     if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}: ${(await res.text()).slice(0, 300)}`);
+    if (as === 'binary') {
+      const type = res.headers.get('content-type') ?? '';
+      if (!type.startsWith('image/')) throw new Error(`expected an image from ${url}, got ${type}`);
+      return Buffer.from(await res.arrayBuffer());
+    }
 
     const body = (await res.json()) as { error?: { code?: string; lag?: number } };
     if (body.error?.code === 'maxlag') {
@@ -211,4 +221,12 @@ export function batches<T>(xs: readonly T[], n = 50): T[][] {
   const out: T[][] = [];
   for (let i = 0; i < xs.length; i += n) out.push(xs.slice(i, i + n));
   return out;
+}
+
+/**
+ * Downloads one image (not cached here: the image build keeps its own byte cache). Same queue,
+ * gap, User-Agent and Retry-After handling as the API calls.
+ */
+export function fetchImageBytes(url: string): Promise<Buffer> {
+  return enqueue(() => liveFetch(new URL(url), {}, 'binary') as Promise<Buffer>);
 }
