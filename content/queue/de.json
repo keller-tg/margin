@@ -401,6 +401,122 @@
    },
    "pickedAt": "2026-10-06T08:59:04.724Z",
    "attempt": 0
+  },
+  "evening": {
+   "title": "Schwertwal",
+   "qid": "Q26843",
+   "pageid": 90507,
+   "domain": "animals",
+   "image": {
+    "file": "File:Killerwhales jumping.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:00:01.222Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-22": {
+  "morning": {
+   "title": "Bakterien",
+   "qid": "Q10876",
+   "pageid": 8207,
+   "domain": "biology",
+   "image": {
+    "file": "File:E. coli Bacteria (7316101966).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:00:02.498Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Enceladus (Mond)",
+   "qid": "Q3303",
+   "pageid": 306875,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:PIA17202 - Approaching Enceladus.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:00.747Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-23": {
+  "morning": {
+   "title": "Stegosaurus",
+   "qid": "Q14388",
+   "pageid": 204338,
+   "domain": "animals",
+   "image": {
+    "file": "File:Stegosaurus Senckenberg.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:01.369Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Kartoffel",
+   "qid": "Q10998",
+   "pageid": 8239,
+   "domain": "plants",
+   "image": {
+    "file": "File:234 Solanum tuberosum L.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:02.515Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-24": {
+  "morning": {
+   "title": "Banff-Nationalpark",
+   "qid": "Q41858",
+   "pageid": 390605,
+   "domain": "landscapes",
+   "image": {
+    "file": "File:Canada 35 bg 061904.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:03.585Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Bremsen",
+   "qid": "Q228241",
+   "pageid": 687,
+   "domain": "animals",
+   "image": {
+    "file": "File:Tabanida.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:04.724Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-25": {
+  "morning": {
+   "title": "Alfred Russel Wallace",
+   "qid": "Q160627",
+   "pageid": 202393,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Alfred-Russel-Wallace-c1895.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:07.703Z",
+   "attempt": 1
+  },
+  "evening": {
+   "title": "Adriatisches Meer",
+   "qid": "Q13924",
+   "pageid": 14034,
+   "domain": "water",
+   "image": {
+    "file": "File:Adriatic Sea 2003.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:01:07.947Z",
+   "attempt": 0
   }
  }
 }
