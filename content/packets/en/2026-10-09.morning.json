@@ -1,0 +1,346 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-09",
+ "slot": "morning",
+ "lang": "en",
+ "topic": {
+  "title": "Bacteria",
+  "qid": "Q10876",
+  "pageid": 9028799,
+  "revid": 1376800995,
+  "domain": "biology",
+  "url": "https://en.wikipedia.org/w/index.php?title=Bacteria&oldid=1376800995"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "Domain of microorganisms",
+  "lead": "Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell. They constitute a large domain of prokaryotic microorganisms. Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats. Bacteria inhabit the air, soil, water, acidic hot springs, radioactive waste, and the deep biosphere of Earth's crust. Bacteria play a vital role in many stages of the nutrient cycle by recycling nutrients and the fixation of nitrogen from the atmosphere. The nutrient cycle includes the decomposition of dead bodies; bacteria are responsible for the putrefaction stage in this process. In the biological communities surrounding hydrothermal vents and cold seeps, extremophile bacteria provide the nutrients needed to sustain life by converting dissolved compounds, such as hydrogen sulphide and methane, to energy. Bacteria also live in mutualistic, commensal and parasitic relationships with plants and animals. Most bacteria have not been characterised and there are many species that cannot be grown in the laboratory. The study of bacteria is known as bacteriology, a branch of microbiology.\nLike all animals, humans carry vast numbers (approximately 1013 to 1014) of bacteria. Most are in the gut, though there are many on the skin. Most of the bacteria in and on the body are harmless or rendered so by the protective effects of the immune system, and many are beneficial, particularly the ones in the gut. However, several species of bacteria are pathogenic and cause infectious diseases, including cholera, syphilis, anthrax, leprosy, tuberculosis, tetanus and bubonic plague. The most common fatal bacterial diseases are respiratory infections. Antibiotics are used to treat bacterial infections and are also used in farming, making antibiotic resistance a growing problem. Bacteria are important in sewage treatment and the breakdown of oil spills, the production of cheese and yogurt through fermentation, the recovery of gold, palladium, copper and other metals in the mining sector (biomining, bioleaching), as well as in biotechnology, and the manufacture of antibiotics and other chemicals.\nOnce regarded as plants constituting the class Schizomycetes (\"fission fungi\"), bacteria are now classified as prokaryotes. Unlike cells of animals and other eukaryotes, bacterial cells contain circular chromosomes, do not contain a nucleus and rarely harbour membrane-bound organelles. Although the term bacteria traditionally included all prokaryotes, the scientific classification changed after the discovery in the 1990s that prokaryotes consist of two very different groups of organisms that evolved from an ancient common ancestor. These evolutionary domains are called Bacteria and Archaea. Unlike Archaea, bacteria contain ester-linked lipids in the cell membrane, possess elongation factors that are resistant to ADP-ribosylation by diphtheria toxin, use formylmethionine in protein synthesis initiation, and have numerous genetic differences, including a different 16S rRNA.",
+  "sections": [
+   {
+    "heading": "Etymology",
+    "text": "The word bacteria ( ; sing.: bacterium) is the plural of the Neo-Latin bacterium, which is the romanisation of the Ancient Greek βακτήριον (baktḗrion), the diminutive of βακτηρία (baktēría), meaning 'staff' or 'cane', because the first ones to be discovered were rod-shaped. The word was first used to refer to bacteria in 1828."
+   },
+   {
+    "heading": "Knowledge of bacteria",
+    "text": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied. In fact, just 10 bacterial species account for half of all publications, whereas nearly 75% of all named bacteria have no academic research devoted to them. The best-studied species, Escherichia coli, has more than 300,000 studies published on it, but many of these papers likely use it only as a cloning vehicle to study other species, without providing any insight into its own biology. 90% of scientific studies on bacteria focus on less than 1% of species, mostly pathogenic bacteria relevant to human health.\nWhile E. coli is probably the best-studied bacterium, a quarter of its 4000 genes are poorly studied or remain uncharacterized. Some bacteria with minimal genomes ( 600 genes, e.g. Mycoplasma) usually have a large fraction of their genes functionally characterized, given that most of them are essential and conserved in many other species."
+   },
+   {
+    "heading": "Origin and early evolution",
+    "text": "The ancestors of bacteria were unicellular microorganisms that were the first forms of life to appear on Earth, about 4 billion years ago. For about 3 billion years, most organisms were microscopic, and bacteria and archaea were the dominant forms of life. Although bacterial fossils exist, such as stromatolites, their lack of distinctive morphology prevents them from being used to examine the history of bacterial evolution, or to date the time of origin of a particular bacterial species. However, gene sequences can be used to reconstruct the bacterial phylogeny, and these studies indicate that bacteria diverged first from the archaeal/eukaryotic lineage. The most recent common ancestor (MRCA) of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago. The earliest life on land may have been bacteria some 3.22 billion years ago.\nBacteria were also involved in the second great evolutionary divergence, that of the archaea and eukaryotes. Here, eukaryotes resulted from the entering of ancient bacteria into endosymbiotic associations with the ancestors of eukaryotic cells, which were themselves possibly related to the Archaea. This involved the engulfment by proto-eukaryotic cells of alphaproteobacterial symbionts to form either mitochondria or hydrogenosomes, which are still found in all known Eukarya (sometimes in highly reduced form, e.g. in species of amitochondrial protozoa). Later, some eukaryotes that already contained mitochondria also engulfed cyanobacteria-like organisms, leading to the formation of chloroplasts in algae and plants. This is known as primary endosymbiosis."
+   },
+   {
+    "heading": "Habitat",
+    "text": "Bacteria are ubiquitous, living in every possible habitat on the planet including soil, underwater, deep in Earth's crust and even such extreme environments as acidic hot springs and radioactive waste. There are thought to be approximately 2×1030 bacteria on Earth, forming a biomass that is only exceeded by plants. They are abundant in lakes and oceans, in arctic ice, and geothermal springs where they provide the nutrients needed to sustain life by converting dissolved compounds, such as hydrogen sulphide and methane, to energy. They live on and in plants and animals. Most do not cause diseases, are beneficial to their environments, and are essential for life. The soil is a rich source of bacteria and a few grams contain around a thousand million of them. They are all essential to soil ecology, breaking down toxic waste and recycling nutrients. They are even found in the atmosphere and one cubic metre of air holds around one hundred million bacterial cells. The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe. Only around 2% of bacterial species have been fully studied."
+   },
+   {
+    "heading": "Morphology",
+    "text": "Bacteria display a wide diversity of shapes and sizes. Bacterial cells are about one-tenth the size of eukaryotic cells and are typically 0.5–5.0 micrometres in length. However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria. Among the smallest bacteria are members of the genus Mycoplasma, which measure only 0.3 micrometres, as small as the largest viruses. Some bacteria may be even smaller, but these ultramicrobacteria are not well-studied.\nMost bacterial species are either spherical, called cocci (singular coccus, from Greek kókkos, grain, seed), or rod-shaped, called bacilli (sing. bacillus, from Latin baculus, stick). Some bacteria, called vibrio, are shaped like slightly curved rods or comma-shaped; others can be spiral-shaped, called spirilla, or tightly coiled, called spirochaetes. A small number of other unusual shapes have been described, such as star-shaped bacteria. This wide variety of shapes is determined by the bacterial cell wall and cytoskeleton and is important because it can influence the ability of bacteria to acquire nutrients, attach to surfaces, swim through liquids and escape predators.\nMost bacterial species exist as single cells; others associate in characteristic patterns: Neisseria forms diploids (pairs), streptococci form chains, and staphylococci group together in \"bunch of grapes\" clusters. Bacteria can also group to form larger multicellular structures, such as the elongated filaments of Actinomycetota species, the aggregates of Myxobacteria species, and the complex hyphae of Streptomyces species. These multicellular structures are often only seen in certain conditions. For example, when starved of amino acids, myxobacteria detect surrounding cells in a process known as quorum sensing, migrate towards each other, and aggregate to form fruiting bodies up to 500 micrometres long and containing approximately 100,000 bacterial cells. In these fruiting bodies, the bacteria perform separate tasks; for example, about one in ten cells migrate to the top of a fruiting body and differentiate into a specialised dormant state called a myxospore, which is more resistant to drying and other adverse environmental conditions.\nBacteria often attach to surfaces and form dense aggregations called biofilms and larger formations known as microbial mats. These biofilms and mats can range from a few micrometres in thickness to up to half a metre in depth, and may contain multiple species of bacteria, protists and archaea. Bacteria living in biofilms display a complex arrangement of cells and extracellular components, forming secondary structures, such as microcolonies, through which there are networks of channels to enable better diffusion of nutrients. In natural environments, such as soil or the surfaces of plants, the majority of bacteria are bound to surfaces in biofilms. Biofilms are also important in medicine, as these structures are often present during chronic bacterial infections or in infections of implanted medical devices, and bacteria protected within biofilms are much harder to kill than individual isolated bacteria."
+   },
+   {
+    "heading": "Cellular structure",
+    "text": "The bacterial cell is surrounded by a cell membrane, which is made primarily of phospholipids. This membrane encloses the contents of the cell and acts as a barrier to hold nutrients, proteins and other essential components within the cell. Unlike eukaryotic cells, bacteria usually lack large membrane-bound structures in their cytoplasm such as a nucleus, mitochondria, chloroplasts and the other organelles present in eukaryotic cells. However, some bacteria have protein-bound organelles in the cytoplasm which compartmentalise aspects of bacterial metabolism, such as the carboxysome. Additionally, bacteria have a multi-component cytoskeleton to control the localisation of proteins and nucleic acids within the cell, and to manage the process of cell division.\nMany important biochemical reactions, such as energy generation, occur due to differences in concentration of molecules across membranes, creating a electrochemical potential analogous to a battery. The general lack of internal membranes in bacteria means these reactions, such as electron transport, occur across the cell membrane between the cytoplasm and the outside of the cell or periplasm. However, in many photosynthetic bacteria, the plasma membrane is highly folded and fills most of the cell with layers of light-gathering membrane. These light-gathering complexes may even form lipid-enclosed structures called chlorosomes in green sulfur bacteria.\nBacteria do not have a membrane-bound nucleus, and their genetic material is typically a single circular bacterial chromosome of DNA located in the cytoplasm in an irregularly shaped body called the nucleoid. The nucleoid contains the chromosome with its associated proteins and RNA. Like all other organisms, bacteria contain ribosomes for the production of proteins, but the structure of the bacterial ribosome is different from that of eukaryotes and archaea. Its translation process is also different.\nSome bacteria produce intracellular nutrient storage granules, such as glycogen, polyphosphate, sulfur or polyhydroxyalkanoates. Bacteria such as the photosynthetic cyanobacteria, produce internal gas vacuoles, which they use to regulate their buoyancy, allowing them to move up or down into water layers with different light intensities and nutrient levels.\nAround the outside of the cell membrane is the cell wall. Bacterial cell walls are made of peptidoglycan (also called murein), which is made from polysaccharide chains cross-linked by peptides containing D-amino acids. Bacterial cell walls are different from the cell walls of plants and fungi, which are made of cellulose and chitin, respectively. The cell wall of bacteria is also distinct from that of archaea, which do not contain peptidoglycan. The cell wall is essential to the survival of many bacteria, and the antibiotic penicillin (produced by a fungus called Penicillium) is able to kill bacteria by inhibiting a step in the synthesis of peptidoglycan.\nThere are broadly speaking two different types of cell wall in bacteria, that classify bacteria into Gram-positive bacteria and Gram-negative bacteria. The names originate from the reaction of cells to the Gram stain, a long-standing test for the classification of bacterial species.\nGram-positive bacteria possess a thick cell wall containing many layers of peptidoglycan and teichoic acids. In contrast, Gram-negative bacteria have a relatively thin cell wall consisting of a few layers of peptidoglycan surrounded by a second lipid membrane containing lipopolysaccharides and lipoproteins. Most bacteria have the Gram-negative cell wall, and only members of the Bacillota group and actinomycetota (previously known as the low G+C and high G+C Gram-positive bacteria, respectively) have the alternative Gram-positive arrangement. These differences in structure can produce differences in antibiotic susceptibility; for instance, vancomycin can kill only Gram-positive bacteria and is ineffective against Gram-negative pathogens, such as Haemophilus influenzae or Pseudomonas aeruginosa. Some bacteria have cell wall structures that are neither classically Gram-positive or Gram-negative. This includes clinically important bacteria such as mycobacteria which have a thick peptidoglycan cell wall like a Gram-positive bacterium, but also a second outer layer of lipids.\nIn many bacteria, an S-layer of rigidly arrayed protein molecules covers the outside of the cell. This layer provides chemical and physical protection for the cell surface and can act as a macromolecular diffusion barrier. S-layers have diverse functions and are known to act as virulence factors in Campylobacter species and contain surface enzymes in Bacillus stearothermophilus.\nFlagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility. Flagella are driven by the energy released by the transfer of ions down an electrochemical gradient across the cell membrane.\nFimbriae (sometimes called \"attachment pili\") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length. They are distributed over the surface of the cell, and resemble fine hairs when seen under the electron microscope. Fimbriae are believed to be involved in attachment to solid surfaces or to other cells, and are essential for the virulence of some bacterial pathogens. Pili (sing. pilus) are cellular appendages, slightly larger than fimbriae, that can transfer genetic material between bacterial cells in a process called conjugation where they are called conjugation pili or sex pili (see bacterial genetics, below). They can also generate movement where they are called type IV pili.\nGlycocalyx is produced by many bacteria to surround their cells, and varies in structural complexity: ranging from a disorganised slime layer of extracellular polymeric substances to a highly structured capsule. These structures can protect cells from engulfment by eukaryotic cells such as macrophages (part of the human immune system). They can also act as antigens and be involved in cell recognition, as well as aiding attachment to surfaces and the formation of biofilms.\nThe assembly of these extracellular structures is dependent on bacterial secretion systems. These transfer proteins from the cytoplasm into the periplasm or into the environment around the cell. Many types of secretion systems are known and these structures are often essential for the virulence of pathogens, so are intensively studied.\nSome genera of Gram-positive bacteria, such as Bacillus, Clostridium, Sporohalobacter, Anaerobacter, and Heliobacterium, can form highly resistant, dormant structures called endospores. Endospores develop within the cytoplasm of the cell; generally, a single endospore develops in each cell. Each endospore contains a core of DNA and ribosomes surrounded by a cortex layer and protected by a multilayer rigid coat composed of peptidoglycan and a variety of proteins.\nEndospores show no detectable metabolism and can survive extreme physical and chemical stresses, such as high levels of UV light, gamma radiation, detergents, disinfectants, heat, freezing, pressure, and desiccation. In this dormant state, these organisms may remain viable for millions of years. Endospores even allow bacteria to survive exposure to the vacuum and radiation of outer space, leading to the possibility that bacteria could be distributed throughout the universe by space dust, meteoroids, asteroids, comets, planetoids, or directed panspermia.\nEndospore-forming bacteria can cause disease; for example, anthrax can be contracted by the inhalation of Bacillus anthracis endospores, and contamination of deep puncture wounds with Clostridium tetani endospores causes tetanus, which, like botulism, is caused by a toxin released by the bacteria that grow from the spores. Clostridioides difficile infection, a common problem in healthcare settings, is caused by spore-forming bacteria."
+   },
+   {
+    "heading": "Metabolism",
+    "text": "Bacteria exhibit an extremely wide variety of metabolic types. The distribution of metabolic traits within a group of bacteria has traditionally been used to define their taxonomy, but these traits often do not correspond with modern genetic classifications. Bacterial metabolism is classified into nutritional groups on the basis of three major criteria: the source of energy, the electron donors used, and the source of carbon used for growth.\nPhototrophic bacteria derive energy from light using photosynthesis, while chemotrophic bacteria breaking down chemical compounds through oxidation. In both cases, metabolism can be driven by electron-transfer reactions in which electrons move from an electron donor to an electron acceptor. Chemotrophs are further divided by the types of compounds they use to transfer electrons. Bacteria that derive electrons from inorganic compounds such as hydrogen, carbon monoxide, or ammonia are called lithotrophs, while those that use organic compounds are called organotrophs. Still, more specifically, aerobic organisms use oxygen as the terminal electron acceptor, while anaerobic organisms use other compounds such as nitrate, sulfate, or carbon dioxide.\nMany bacteria, called heterotrophs, derive their carbon from other organic carbon. Others, such as cyanobacteria and some purple bacteria, are autotrophic, meaning they obtain cellular carbon by fixing carbon dioxide. In unusual circumstances, the gas methane can be used by methanotrophic bacteria as both a source of electrons and a substrate for carbon anabolism.\nBacterial metabolic traits play important roles in maintaining ecological processes and supporting human activities. For example, diazotrophs have the ability to fix nitrogen gas using the enzyme nitrogenase. This trait, which can be found in bacteria of most metabolic types listed above, leads to the ecologically important processes of denitrification, sulfate reduction, and acetogenesis, respectively. Bacterial metabolic processes are important drivers in biological responses to pollution; for example, sulfate-reducing bacteria are largely responsible for the production of the highly toxic forms of mercury (methyl- and dimethylmercury) in the environment. Nonrespiratory anaerobes use fermentation to generate energy and reducing power, secreting metabolic by-products (such as ethanol in brewing) as waste. Facultative anaerobes can switch between fermentation and different terminal electron acceptors depending on the environmental conditions in which they find themselves."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "date",
+   "value": "1013",
+   "surface": "1013",
+   "sentence": "Like all animals, humans carry vast numbers (approximately 1013 to 1014) of bacteria."
+  },
+  "f2": {
+   "kind": "date",
+   "value": "1014",
+   "surface": "1014",
+   "sentence": "Like all animals, humans carry vast numbers (approximately 1013 to 1014) of bacteria."
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1828",
+   "surface": "1828",
+   "sentence": "The word was first used to refer to bacteria in 1828.",
+   "section": "Etymology"
+  },
+  "f4": {
+   "kind": "measure",
+   "value": 43000,
+   "unit": "species",
+   "surface": "43,000 species",
+   "sentence": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied.",
+   "section": "Knowledge of bacteria"
+  },
+  "f5": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "In fact, just 10 bacterial species account for half of all publications, whereas nearly 75% of all named bacteria have no academic research devoted to them.",
+   "section": "Knowledge of bacteria"
+  },
+  "f6": {
+   "kind": "measure",
+   "value": 75,
+   "unit": "%",
+   "surface": "75%",
+   "sentence": "In fact, just 10 bacterial species account for half of all publications, whereas nearly 75% of all named bacteria have no academic research devoted to them.",
+   "section": "Knowledge of bacteria"
+  },
+  "f7": {
+   "kind": "number",
+   "value": 300000,
+   "surface": "300,000",
+   "sentence": "The best-studied species, Escherichia coli, has more than 300,000 studies published on it, but many of these papers likely use it only as a cloning vehicle to study other species, without providing any insight into its own biology.",
+   "section": "Knowledge of bacteria"
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90%",
+   "sentence": "90% of scientific studies on bacteria focus on less than 1% of species, mostly pathogenic bacteria relevant to human health.",
+   "section": "Knowledge of bacteria"
+  },
+  "f9": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%",
+   "sentence": "90% of scientific studies on bacteria focus on less than 1% of species, mostly pathogenic bacteria relevant to human health.",
+   "section": "Knowledge of bacteria"
+  },
+  "f10": {
+   "kind": "number",
+   "value": 4000,
+   "surface": "4000",
+   "sentence": "While E. coli is probably the best-studied bacterium, a quarter of its 4000 genes are poorly studied or remain uncharacterized.",
+   "section": "Knowledge of bacteria"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "600",
+   "surface": "600",
+   "sentence": "Some bacteria with minimal genomes ( 600 genes, e.g. Mycoplasma) usually have a large fraction of their genes functionally characterized, given that most of them are essential and conserved in many other species.",
+   "section": "Knowledge of bacteria"
+  },
+  "f12": {
+   "kind": "measure",
+   "value": 4000000000,
+   "unit": "years",
+   "surface": "4 billion years",
+   "sentence": "The ancestors of bacteria were unicellular microorganisms that were the first forms of life to appear on Earth, about 4 billion years ago.",
+   "section": "Origin and early evolution"
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 3000000000,
+   "unit": "years",
+   "surface": "3 billion years",
+   "sentence": "For about 3 billion years, most organisms were microscopic, and bacteria and archaea were the dominant forms of life.",
+   "section": "Origin and early evolution"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 2500000000,
+   "surface": "2.5 billion",
+   "sentence": "The most recent common ancestor (MRCA) of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago.",
+   "section": "Origin and early evolution"
+  },
+  "f15": {
+   "kind": "measure",
+   "value": 3200000000,
+   "unit": "years",
+   "surface": "3.2 billion years",
+   "sentence": "The most recent common ancestor (MRCA) of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago.",
+   "section": "Origin and early evolution"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 3220000000,
+   "unit": "years",
+   "surface": "3.22 billion years",
+   "sentence": "The earliest life on land may have been bacteria some 3.22 billion years ago.",
+   "section": "Origin and early evolution"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "There are thought to be approximately 2×1030 bacteria on Earth, forming a biomass that is only exceeded by plants.",
+   "section": "Habitat"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1030",
+   "surface": "1030",
+   "sentence": "There are thought to be approximately 2×1030 bacteria on Earth, forming a biomass that is only exceeded by plants.",
+   "section": "Habitat"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe.",
+   "section": "Habitat"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1026",
+   "surface": "1026",
+   "sentence": "The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe.",
+   "section": "Habitat"
+  },
+  "f21": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "%",
+   "surface": "50%",
+   "sentence": "The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe.",
+   "section": "Habitat"
+  },
+  "f22": {
+   "kind": "measure",
+   "value": 2,
+   "unit": "%",
+   "surface": "2%",
+   "sentence": "Only around 2% of bacterial species have been fully studied.",
+   "section": "Habitat"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 0.5,
+   "surface": "0.5",
+   "sentence": "Bacterial cells are about one-tenth the size of eukaryotic cells and are typically 0.5–5.0 micrometres in length.",
+   "section": "Morphology"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5.0",
+   "sentence": "Bacterial cells are about one-tenth the size of eukaryotic cells and are typically 0.5–5.0 micrometres in length.",
+   "section": "Morphology"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 0.7,
+   "unit": "mm",
+   "surface": "0.7 mm",
+   "sentence": "However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria.",
+   "section": "Morphology"
+  },
+  "f26": {
+   "kind": "measure",
+   "value": 2,
+   "unit": "cm",
+   "surface": "2 cm",
+   "sentence": "However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria.",
+   "section": "Morphology"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria.",
+   "section": "Morphology"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 0.3,
+   "surface": "0.3",
+   "sentence": "Among the smallest bacteria are members of the genus Mycoplasma, which measure only 0.3 micrometres, as small as the largest viruses.",
+   "section": "Morphology"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "500",
+   "surface": "500",
+   "sentence": "For example, when starved of amino acids, myxobacteria detect surrounding cells in a process known as quorum sensing, migrate towards each other, and aggregate to form fruiting bodies up to 500 micrometres long and containing approximately 100,000 bacterial cells.",
+   "section": "Morphology"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 100000,
+   "surface": "100,000",
+   "sentence": "For example, when starved of amino acids, myxobacteria detect surrounding cells in a process known as quorum sensing, migrate towards each other, and aggregate to form fruiting bodies up to 500 micrometres long and containing approximately 100,000 bacterial cells.",
+   "section": "Morphology"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility.",
+   "section": "Cellular structure"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility.",
+   "section": "Cellular structure"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Fimbriae (sometimes called \"attachment pili\") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length.",
+   "section": "Cellular structure"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Fimbriae (sometimes called \"attachment pili\") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length.",
+   "section": "Cellular structure"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:E. coli Bacteria (7316101966).jpg",
+   "w": 2100,
+   "h": 1766,
+   "alt": "Bacteria",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/E._coli_Bacteria_%287316101966%29.jpg/960px-E._coli_Bacteria_%287316101966%29.jpg",
+   "sha1": "56456ea738d0e0a8788b609672fc2b7cd5699456",
+   "credit": {
+    "author": "NIAID",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_(7316101966).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "Bacteria",
+  "Bacteriology",
+  "Biology terminology",
+  "Domains (biology)"
+ ]
+}

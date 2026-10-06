@@ -1,0 +1,636 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-26",
+ "slot": "morning",
+ "lang": "en",
+ "topic": {
+  "title": "Rotavirus",
+  "qid": "Q164778",
+  "pageid": 140968,
+  "revid": 1378622070,
+  "domain": "medicine",
+  "url": "https://en.wikipedia.org/w/index.php?title=Rotavirus&oldid=1378622070"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "Specific genus of RNA viruses",
+  "lead": "Rotaviruses are the most common cause of diarrhoeal disease among infants and young children. Nearly every child in the world is infected with a rotavirus at least once by the age of five. Immunity develops with each infection, so subsequent infections are less severe. Adults are rarely affected.\nThe virus is transmitted by the faecal–oral route. It infects and damages the cells that line the small intestine and causes gastroenteritis. Although rotavirus was discovered in 1973 by Ruth Bishop and her colleagues by electron micrograph images and accounts for about one-third of hospitalisations for severe diarrhoea in infants and children, its importance has historically been underestimated within the public health community, particularly in developing countries. In addition to its impact on human health, rotavirus also infects other animals, and is a pathogen of livestock.\nRotaviral enteritis is usually an easily managed disease of childhood, but among children under 5 years of age, rotavirus caused an estimated 151,714 deaths worldwide from diarrhoea in 2019. In the United States, before initiation of the rotavirus vaccination programme in the 2000s, rotavirus caused about 2.7 million cases of severe gastroenteritis in children, almost 60,000 hospitalisations, and around 37 deaths each year. Following rotavirus vaccine introduction in the United States, hospitalisation rates have fallen significantly. Public health campaigns to combat rotavirus focus on providing oral rehydration therapy for infected children and vaccination to prevent the disease. The incidence and severity of rotavirus infections has declined significantly in countries that have added rotavirus vaccine to their routine childhood immunisation policies.\nRotavirus is a genus of double-stranded RNA viruses in the family Reoviridae. Eleven species are placed in the genus, usually referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL. The most common is RVA, and these rotaviruses cause more than 90% of rotavirus infections in humans.",
+  "sections": [
+   {
+    "heading": "Virology",
+    "text": "The 11 species of rotaviruses (sometimes informally called groups) are referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL. Humans are primarily infected by rotaviruses in the species RVA. This one and the other species cause disease in other animals, for example, species RVH in pigs, RVD, RVF and RVG in birds, RVI in cats and RVJ in bats.\nGroup A rotaviruses contain different strains, called serotypes. As with influenza viruses, a dual classification system is used based on two proteins on the surface of the virus. The glycoprotein VP7 defines the G serotypes and the protease-sensitive protein VP4 defines P serotypes. Because the two genes that determine G-types and P-types can be passed on separately to progeny viruses, different combinations are found. A whole genome genotyping system has been established for group A rotaviruses, which has been used to determine the origin of atypical strains. The prevalence of the individual G-types and P-types varies between and within countries and years. At least 36 G types and 51 P types are known, but in infections of humans, only a few combinations of G and P types predominate. They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].\nThe genome of rotaviruses consists of 11 unique double-helix molecules of RNA (dsRNA), which are 18,555 nucleotides in total. Each helix, or segment, is a gene, numbered 1 to 11 by decreasing size. Each gene codes for one protein, except gene 11, which codes for two. The RNA is surrounded by a three-layered icosahedral protein capsid. Viral particles are up to 76.5 nm in diameter and are not enveloped.\nThere are six viral proteins (VPs) that form the virus particle (virion). These structural proteins are called VP1, VP2, VP3, VP4, VP6, and VP7. In addition to the VPs, six nonstructural proteins (NSPs) are only produced in cells infected by rotaviruses. These are called NSP1, NSP2, NSP3, NSP4, NSP5, and NSP6.\nAt least six of the twelve proteins encoded by the rotavirus genome bind RNA. The role of these proteins in rotavirus replication is not entirely understood; their functions are thought to be related to RNA synthesis and packaging in the virion, mRNA transport to the site of genome replication, and mRNA translation and regulation of gene expression.\nVP1 is located in the core of the virus particle and is an RNA-dependent RNA polymerase enzyme. In an infected cell, this enzyme produces mRNA transcripts for the synthesis of viral proteins and produces copies of the rotavirus genome RNA segments for newly produced virus particles.\nVP2 forms the core layer of the virion and binds the RNA genome.\nVP3 is part of the inner core of the virion and is an enzyme called guanylyl transferase. This is a capping enzyme that catalyses the formation of the 5' cap in the post-transcriptional modification of mRNA. The cap stabilises viral mRNA by protecting it from nucleic acid-degrading enzymes called nucleases.\nVP4 is on the surface of the virion that protrudes as a spike. It binds to molecules on the surface of cells called receptors and drives the entry of the virus into the cell. VP4 has to be modified by the protease enzyme trypsin, which is found in the gut, into VP5* and VP8* before the virus is infectious. VP4 determines how virulent the virus is and it determines the P-type of the virus. In humans, an association exists between the blood group (Lewis antigen system, ABO blood group system, and secretor status) and susceptibility to infection. Nonsecretors seem resistant to infection by types P[4] and P[8], indicating that blood-group antigens are the receptors for these genotypes. This resistance is dependent on the rotavirus genotype.\nVP6 forms the bulk of the capsid. It is highly antigenic and can be used to identify rotavirus species. This protein is used in laboratory tests for rotavirus infections.\nVP7 is a glycoprotein that forms the outer surface of the virion. Apart from its structural functions, it determines the G-type of the strain, and along with VP4, is involved in immunity to infection.\nNSP1, the product of gene 5, is a nonstructural RNA-binding protein. NSP1 also blocks the interferon response, the part of the innate immune system that protects cells from viral infection. NSP1 causes the proteosome to degrade key signaling components required to stimulate production of interferon in an infected cell and to respond to interferon secreted by adjacent cells.\nTargets for degradation include several IRF transcription factors required for interferon gene transcription.\nNSP2 is an RNA-binding protein that accumulates in cytoplasmic inclusions (viroplasms) and is required for genome replication.\nNSP3 is bound to viral mRNAs in infected cells, and it is responsible for the shutdown of cellular protein synthesis. NSP3 inactivates two translation initiation factors essential for synthesis of proteins from host mRNA.\nFirst, NSP3 ejects poly(A)-binding protein (PABP) from the translation initiation factor eIF4F. PABP is required for efficient translation of transcripts with a 3' poly(A) tail, which is found on most host-cell transcripts. Second, NSP3 inactivates eIF2 by stimulating its phosphorylation. Efficient translation of rotavirus mRNA, which lacks the 3' poly(A) tail, does not require either of these factors.\nNSP4 is a viral enterotoxin that induces diarrhoea and was the first viral enterotoxin discovered. It is a viroporin that elevates cytosolic Ca2+ in mammalian cells.\nNSP5 is encoded by genome segment 11 of rotavirus A. In virus-infected cells, NSP5 accumulates in the viroplasm.\nNSP6 is a nucleic acid-binding protein and is encoded by gene 11 from an out-of-phase open reading frame.\nThis table is based on the simian rotavirus strain SA11. RNA-protein coding assignments differ in some strains.\nThe attachment of the virus to the host cell is initiated by VP4, which attaches to molecules, called glycans, on the surface of the cell. The virus enters cells by receptor-mediated endocytosis and forms a vesicle known as an endosome. Proteins in the third layer (VP7 and the VP4 spike) disrupt the membrane of the endosome, creating a difference in the calcium concentration. The fall in calcium levels causes the breakdown of VP7 trimers into single protein subunits, leaving the VP2 and VP6 protein coats around the viral dsRNA, forming a double-layered particle (DLP).\nThe 11 dsRNA strands remain within the protection of the two protein shells and the viral RNA-dependent RNA polymerase creates mRNA transcripts of the double-stranded viral genome. By remaining in the core, the viral RNA evades innate host immune responses, including RNA interference, that are triggered by the presence of double-stranded RNA.\nDuring the infection, rotaviruses produce mRNA for both protein biosynthesis and gene replication. Most of the rotavirus proteins accumulate in viroplasm, where the RNA is replicated and the DLPs are assembled. In the viroplasm, the positive-sense viral RNAs that are used as templates for the synthesis of viral genomic dsRNA are protected from siRNA-induced RNase degradation. Viroplasm is formed around the cell nucleus as early as two hours after virus infection, and consists of viral factories thought to be made by two viral nonstructural proteins: NSP5 and NSP2. Inhibition of NSP5 by RNA interference in vitro results in a sharp decrease in rotavirus replication. The DLPs migrate to the endoplasmic reticulum, where they obtain their third, outer layer (formed by VP7 and VP4). The progeny viruses are released from the cell by lysis."
+   },
+   {
+    "heading": "Transmission",
+    "text": "Rotaviruses are transmitted by the faecal–oral route, via contact with contaminated hands, surfaces and objects, and possibly by the respiratory route. Viral diarrhoea is highly contagious. The faeces of an infected person can contain more than 10 trillion infectious particles per gram; fewer than 100 of these are required to transmit infection to another person.\nRotaviruses are stable in the environment and have been found in estuary samples at levels up to 1–5 infectious particles per US gallon. The viruses survive between 9 and 19 days. Sanitary measures adequate for eliminating bacteria and parasites seem to be ineffective in control of rotaviruses, as the incidence of rotavirus infection in countries with high and low health standards is similar."
+   },
+   {
+    "heading": "Signs and symptoms",
+    "text": "Rotaviral enteritis is a mild to severe disease characterised by nausea, vomiting, watery diarrhoea, and low-grade fever. Once a child is infected by the virus, an incubation period of about two days passes before symptoms appear. The period of illness is acute. Symptoms often start with vomiting followed by four to eight days of profuse diarrhoea. Dehydration is more common in rotavirus infection than in most of those caused by bacterial pathogens, and is the most common cause of death related to rotavirus infection.\nRotavirus infections can occur throughout life; the first usually produces symptoms, but subsequent infections are typically mild or asymptomatic, as the immune system provides some protection. Consequently, symptomatic infection rates are highest in children under two years of age and decrease progressively towards 45 years of age. The most severe symptoms tend to occur in children six months to two years of age, the elderly, and those with immunodeficiency. Due to immunity acquired in childhood, most adults are not susceptible to rotavirus; gastroenteritis in adults usually has a cause other than rotavirus, but asymptomatic infections in adults may maintain the transmission of infection in the community. Some evidence suggests blood group can impact the susceptibility to infection by rotaviruses."
+   },
+   {
+    "heading": "Disease mechanisms",
+    "text": "Rotaviruses replicate mainly in the gut, and infect enterocytes of the villi of the small intestine, leading to structural and functional changes of the epithelium. Evidence exists in humans, and particularly in animal models, of extraintestinal dissemination of infectious viruses to other organs and macrophages.\nThe diarrhoea is caused by multiple activities of the virus. Malabsorption occurs because of the destruction of gut cells called enterocytes. The toxic rotavirus protein NSP4 induces age- and calcium ion-dependent chloride secretion, disrupts SGLT1 (sodium/glucose cotransporter 2) transporter-mediated reabsorption of water, apparently reduces activity of brush-border membrane disaccharidases, and activates the calcium ion-dependent secretory reflexes of the enteric nervous system. The elevated concentrations of calcium ions in the cytosol (which are required for the assembly of the progeny viruses) is achieved by NSP4 acting as a viroporin. This increase in calcium ions leads to autophagy (self-destruction) of the infected enterocytes.\nNSP4 is also secreted as an extracellular form, which is modified by protease enzymes in the gut, is an enterotoxin, which acts on uninfected cells via integrin receptors, which in turn cause and increase in intracellular calcium ion concentrations, secretory diarrhoea, and autophagy.\nThe vomiting, which is a characteristic of rotaviral enteritis, is caused by the virus infecting the enterochromaffin cells on the lining of the digestive tract. The infection stimulates the production of 5' hydroxytryptamine (serotonin). This activates vagal afferent nerves, which in turn activate the cells of the brain stem that control the vomiting reflex.\nHealthy enterocytes secrete lactase into the small intestine; milk intolerance due to lactase deficiency is a symptom of rotavirus infection, which can persist for weeks. A recurrence of mild diarrhoea often follows the reintroduction of milk into the child's diet, due to bacterial fermentation of the disaccharide lactose in the gut."
+   },
+   {
+    "heading": "Immune responses",
+    "text": "Rotaviruses elicit both B- and T-cell immune responses. Antibodies to the rotavirus VP4 and VP7 proteins neutralise viral infectivity in vitro and in vivo. Specific antibodies of the classes IgM, IgA, and IgG are produced, which have been shown to protect against rotavirus infection by the passive transfer of the antibodies in other animals. Maternal trans-placental IgG might play a role in the protection neonates from rotavirus infections, but on the other hand might reduce vaccine efficacy.\nFollowing infection by rotaviruses, a rapid innate immune response occurs involving types I and III interferons and other cytokines (particularly Th1 and Th2) which inhibit the replication of the virus and recruit macrophages and natural killer cells to the rotavirus infected cells. The rotavirus dsRNA activates pattern recognition receptors such toll-like receptors that stimulate the production of interferons. The rotavirus protein NSP1 counteracts the effects of type-1 interferons by suppressing the activity of the interferon regulatory proteins IRF3, IRF5, and IRF7.\nThe levels of IgG and IgA in the blood and IgA in the gut correlate with protection from infection. Rotavirus-specific serum IgG and IgA at high titres (e.g. 1:200) have been claimed to be protective and a significant correlation is seen between IgA titres and rotavirus vaccine efficacy."
+   },
+   {
+    "heading": "Diagnosis and detection",
+    "text": "Diagnosis of infection with a rotavirus normally follows diagnosis of gastroenteritis as the cause of severe diarrhoea. Most children admitted to hospital with gastroenteritis are tested for rotavirus.\nSpecific diagnosis of infection with rotavirus is made by finding the virus in the child's stool by enzyme immunoassay. Several licensed test kits on the market are sensitive, specific, and detect all serotypes of rotavirus. Other methods, such as electron microscopy and polymerase chain reaction (PCR), are used in research laboratories. Reverse transcription-polymerase chain reaction (RT-PCR) can detect and identify all species and serotypes of human rotaviruses."
+   },
+   {
+    "heading": "Treatment and prognosis",
+    "text": "Treatment of acute rotavirus infection is nonspecific and involves management of symptoms, and most importantly, management of dehydration. If untreated, children can die from the resulting severe dehydration. Depending on the severity of diarrhoea, treatment consists of oral rehydration therapy, during which the child is given extra water to drink that contains specific amounts of salt and sugar. In 2004, the World Health Organisation (WHO) and UNICEF recommended the use of low-osmolarity oral rehydration solution and zinc supplementation as a two-pronged treatment of acute diarrhoea. Some infections are serious enough to warrant hospitalisation where fluids are given by intravenous therapy or nasogastric intubation, and the child's electrolytes and blood sugar are monitored. Rotavirus infections rarely cause other complications and for a well-managed child the prognosis is excellent. Probiotics have been shown to reduce the duration of rotaviral diarrhoea, and according to the European Society for Pediatric Gastroenterology \"effective interventions include administration of specific probiotics such as Lactobacillus rhamnosus or Saccharomyces boulardii, diosmectite, or racecadotril.\""
+   },
+   {
+    "heading": "Prevention",
+    "text": "Rotaviruses are highly contagious and cannot be treated with antibiotics or other drugs. Because improved sanitation does not decrease the prevalence of rotaviral disease, and the rate of hospitalisations remains high despite the use of oral rehydrating medicines, the primary public health intervention is vaccination. In 1998, a rotavirus vaccine was licensed for use in the United States. Clinical trials in the United States, Finland, and Venezuela had found it to be 80–100% effective at preventing severe diarrhoea caused by rotavirus A, and researchers had detected no statistically significant serious adverse effects. The manufacturer, however, withdrew it from the market in 1999, after the vaccine was discovered possibly to have contributed to an increased risk for intussusception, a type of bowel obstruction, in one of every 12,000 vaccinated infants. The experience provoked intense debate about the relative risks and benefits of a rotavirus vaccine.\nIn 2006, two new vaccines against rotavirus A infection were shown to be safe and effective in children, and in 2009, the WHO recommended that rotavirus vaccine be included in all national immunisation programmes.\nThe incidence and severity of rotavirus infections has declined significantly in countries that have acted on this recommendation. A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%. In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under. In Nicaragua, which in 2006 became the first developing country to introduce a rotavirus vaccine, severe rotavirus infections were reduced by 40% and emergency room visits by a half. In the United States, rotavirus vaccination since 2006 has led to drops in rotavirus-related hospitalisations by as much as 86%. The vaccines may also have prevented illness in non-vaccinated children by limiting the number of circulating infections. In developing countries in Africa and Asia, where the majority of rotavirus deaths occur, a large number of safety and efficacy trials, as well as recent postintroduction impact and effectiveness studies of Rotarix and RotaTeq have found that vaccines dramatically reduced severe disease among infants. In September 2013, the vaccine was offered to all children in the UK, aged between two and three months. A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%. In all age groups, the number of laboratory-confirmed rotavirus infections was reduced by 69–83%. In Europe, hospitalisation rates following infection by rotaviruses have decreased by 65% to 84% following the introduction of the vaccine. Globally, vaccination has reduced hospital admissions and emergency department visits by a median of 67%.\nRotavirus vaccines are licensed in over 100 countries, and more than 80 countries have introduced routine rotavirus vaccination, almost half with the support of the GAVI vaccine alliance. To make rotavirus vaccines available, accessible, and affordable in all countries—particularly low- and middle-income countries in Africa and Asia, where the majority of rotavirus deaths occur, PATH (formerly Program for Appropriate Technology in Health), the WHO, the U.S. Centers for Disease Control and Prevention, and GAVI have partnered with research institutions and governments to generate and disseminate evidence, lower prices, and accelerate introduction.\nThe vaccine may prevent type 1 diabetes."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "date",
+   "value": "1973",
+   "surface": "1973",
+   "sentence": "Although rotavirus was discovered in 1973 by Ruth Bishop and her colleagues by electron micrograph images and accounts for about one-third of hospitalisations for severe diarrhoea in infants and children, its importance has historically been underestimated within the public health community, particularly in developing countries."
+  },
+  "f2": {
+   "kind": "measure",
+   "value": 5,
+   "unit": "years",
+   "surface": "5 years",
+   "sentence": "Rotaviral enteritis is usually an easily managed disease of childhood, but among children under 5 years of age, rotavirus caused an estimated 151,714 deaths worldwide from diarrhoea in 2019."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 151714,
+   "surface": "151,714",
+   "sentence": "Rotaviral enteritis is usually an easily managed disease of childhood, but among children under 5 years of age, rotavirus caused an estimated 151,714 deaths worldwide from diarrhoea in 2019."
+  },
+  "f4": {
+   "kind": "date",
+   "value": "2019",
+   "surface": "2019",
+   "sentence": "Rotaviral enteritis is usually an easily managed disease of childhood, but among children under 5 years of age, rotavirus caused an estimated 151,714 deaths worldwide from diarrhoea in 2019."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 2700000,
+   "surface": "2.7 million",
+   "sentence": "In the United States, before initiation of the rotavirus vaccination programme in the 2000s, rotavirus caused about 2.7 million cases of severe gastroenteritis in children, almost 60,000 hospitalisations, and around 37 deaths each year."
+  },
+  "f6": {
+   "kind": "number",
+   "value": 60000,
+   "surface": "60,000",
+   "sentence": "In the United States, before initiation of the rotavirus vaccination programme in the 2000s, rotavirus caused about 2.7 million cases of severe gastroenteritis in children, almost 60,000 hospitalisations, and around 37 deaths each year."
+  },
+  "f7": {
+   "kind": "number",
+   "value": 37,
+   "surface": "37",
+   "sentence": "In the United States, before initiation of the rotavirus vaccination programme in the 2000s, rotavirus caused about 2.7 million cases of severe gastroenteritis in children, almost 60,000 hospitalisations, and around 37 deaths each year."
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90%",
+   "sentence": "The most common is RVA, and these rotaviruses cause more than 90% of rotavirus infections in humans."
+  },
+  "f9": {
+   "kind": "measure",
+   "value": 11,
+   "unit": "species",
+   "surface": "11 species",
+   "sentence": "The 11 species of rotaviruses (sometimes informally called groups) are referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL.",
+   "section": "Virology"
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 36,
+   "unit": "g",
+   "surface": "36 G",
+   "sentence": "At least 36 G types and 51 P types are known, but in infections of humans, only a few combinations of G and P types predominate.",
+   "section": "Virology"
+  },
+  "f11": {
+   "kind": "number",
+   "value": 51,
+   "surface": "51",
+   "sentence": "At least 36 G types and 51 P types are known, but in infections of humans, only a few combinations of G and P types predominate.",
+   "section": "Virology"
+  },
+  "f12": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "section": "Virology"
+  },
+  "f13": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "section": "Virology"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "section": "Virology"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "section": "Virology"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "section": "Virology"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "section": "Virology"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "The genome of rotaviruses consists of 11 unique double-helix molecules of RNA (dsRNA), which are 18,555 nucleotides in total.",
+   "section": "Virology"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 18555,
+   "surface": "18,555",
+   "sentence": "The genome of rotaviruses consists of 11 unique double-helix molecules of RNA (dsRNA), which are 18,555 nucleotides in total.",
+   "section": "Virology"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Each helix, or segment, is a gene, numbered 1 to 11 by decreasing size.",
+   "section": "Virology"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "Each helix, or segment, is a gene, numbered 1 to 11 by decreasing size.",
+   "section": "Virology"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "Each gene codes for one protein, except gene 11, which codes for two.",
+   "section": "Virology"
+  },
+  "f23": {
+   "kind": "measure",
+   "value": 76.5,
+   "unit": "nm",
+   "surface": "76.5 nm",
+   "sentence": "Viral particles are up to 76.5 nm in diameter and are not enveloped.",
+   "section": "Virology"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "This is a capping enzyme that catalyses the formation of the 5' cap in the post-transcriptional modification of mRNA.",
+   "section": "Virology"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Nonsecretors seem resistant to infection by types P[4] and P[8], indicating that blood-group antigens are the receptors for these genotypes.",
+   "section": "Virology"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "Nonsecretors seem resistant to infection by types P[4] and P[8], indicating that blood-group antigens are the receptors for these genotypes.",
+   "section": "Virology"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "NSP1, the product of gene 5, is a nonstructural RNA-binding protein.",
+   "section": "Virology"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "PABP is required for efficient translation of transcripts with a 3' poly(A) tail, which is found on most host-cell transcripts.",
+   "section": "Virology"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Efficient translation of rotavirus mRNA, which lacks the 3' poly(A) tail, does not require either of these factors.",
+   "section": "Virology"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "NSP5 is encoded by genome segment 11 of rotavirus A. In virus-infected cells, NSP5 accumulates in the viroplasm.",
+   "section": "Virology"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "NSP6 is a nucleic acid-binding protein and is encoded by gene 11 from an out-of-phase open reading frame.",
+   "section": "Virology"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "The 11 dsRNA strands remain within the protection of the two protein shells and the viral RNA-dependent RNA polymerase creates mRNA transcripts of the double-stranded viral genome.",
+   "section": "Virology"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 10000000000000,
+   "surface": "10 trillion",
+   "sentence": "The faeces of an infected person can contain more than 10 trillion infectious particles per gram; fewer than 100 of these are required to transmit infection to another person.",
+   "section": "Transmission"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "The faeces of an infected person can contain more than 10 trillion infectious particles per gram; fewer than 100 of these are required to transmit infection to another person.",
+   "section": "Transmission"
+  },
+  "f35": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Rotaviruses are stable in the environment and have been found in estuary samples at levels up to 1–5 infectious particles per US gallon.",
+   "section": "Transmission"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Rotaviruses are stable in the environment and have been found in estuary samples at levels up to 1–5 infectious particles per US gallon.",
+   "section": "Transmission"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "The viruses survive between 9 and 19 days.",
+   "section": "Transmission"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 19,
+   "surface": "19",
+   "sentence": "The viruses survive between 9 and 19 days.",
+   "section": "Transmission"
+  },
+  "f39": {
+   "kind": "measure",
+   "value": 45,
+   "unit": "years",
+   "surface": "45 years",
+   "sentence": "Consequently, symptomatic infection rates are highest in children under two years of age and decrease progressively towards 45 years of age.",
+   "section": "Signs and symptoms"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "The toxic rotavirus protein NSP4 induces age- and calcium ion-dependent chloride secretion, disrupts SGLT1 (sodium/glucose cotransporter 2) transporter-mediated reabsorption of water, apparently reduces activity of brush-border membrane disaccharidases, and activates the calcium ion-dependent secretory reflexes of the enteric nervous system.",
+   "section": "Disease mechanisms"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "The infection stimulates the production of 5' hydroxytryptamine (serotonin).",
+   "section": "Disease mechanisms"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Rotavirus-specific serum IgG and IgA at high titres (e.g. 1:200) have been claimed to be protective and a significant correlation is seen between IgA titres and rotavirus vaccine efficacy.",
+   "section": "Immune responses"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "Rotavirus-specific serum IgG and IgA at high titres (e.g. 1:200) have been claimed to be protective and a significant correlation is seen between IgA titres and rotavirus vaccine efficacy.",
+   "section": "Immune responses"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "2004",
+   "surface": "2004",
+   "sentence": "In 2004, the World Health Organisation (WHO) and UNICEF recommended the use of low-osmolarity oral rehydration solution and zinc supplementation as a two-pronged treatment of acute diarrhoea.",
+   "section": "Treatment and prognosis"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1998",
+   "surface": "1998",
+   "sentence": "In 1998, a rotavirus vaccine was licensed for use in the United States.",
+   "section": "Prevention"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 80,
+   "surface": "80",
+   "sentence": "Clinical trials in the United States, Finland, and Venezuela had found it to be 80–100% effective at preventing severe diarrhoea caused by rotavirus A, and researchers had detected no statistically significant serious adverse effects.",
+   "section": "Prevention"
+  },
+  "f47": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "%",
+   "surface": "100%",
+   "sentence": "Clinical trials in the United States, Finland, and Venezuela had found it to be 80–100% effective at preventing severe diarrhoea caused by rotavirus A, and researchers had detected no statistically significant serious adverse effects.",
+   "section": "Prevention"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1999",
+   "surface": "1999",
+   "sentence": "The manufacturer, however, withdrew it from the market in 1999, after the vaccine was discovered possibly to have contributed to an increased risk for intussusception, a type of bowel obstruction, in one of every 12,000 vaccinated infants.",
+   "section": "Prevention"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 12000,
+   "surface": "12,000",
+   "sentence": "The manufacturer, however, withdrew it from the market in 1999, after the vaccine was discovered possibly to have contributed to an increased risk for intussusception, a type of bowel obstruction, in one of every 12,000 vaccinated infants.",
+   "section": "Prevention"
+  },
+  "f50": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "In 2006, two new vaccines against rotavirus A infection were shown to be safe and effective in children, and in 2009, the WHO recommended that rotavirus vaccine be included in all national immunisation programmes.",
+   "section": "Prevention"
+  },
+  "f51": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009",
+   "sentence": "In 2006, two new vaccines against rotavirus A infection were shown to be safe and effective in children, and in 2009, the WHO recommended that rotavirus vaccine be included in all national immunisation programmes.",
+   "section": "Prevention"
+  },
+  "f52": {
+   "kind": "date",
+   "value": "2014",
+   "surface": "2014",
+   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
+   "section": "Prevention"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 49,
+   "surface": "49",
+   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
+   "section": "Prevention"
+  },
+  "f54": {
+   "kind": "measure",
+   "value": 92,
+   "unit": "%",
+   "surface": "92%",
+   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
+   "section": "Prevention"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 17,
+   "surface": "17",
+   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
+   "section": "Prevention"
+  },
+  "f56": {
+   "kind": "measure",
+   "value": 55,
+   "unit": "%",
+   "surface": "55%",
+   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
+   "section": "Prevention"
+  },
+  "f57": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under.",
+   "section": "Prevention"
+  },
+  "f58": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009",
+   "sentence": "In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under.",
+   "section": "Prevention"
+  },
+  "f59": {
+   "kind": "measure",
+   "value": 65,
+   "unit": "percent",
+   "surface": "65 percent",
+   "sentence": "In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under.",
+   "section": "Prevention"
+  },
+  "f60": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "In Nicaragua, which in 2006 became the first developing country to introduce a rotavirus vaccine, severe rotavirus infections were reduced by 40% and emergency room visits by a half.",
+   "section": "Prevention"
+  },
+  "f61": {
+   "kind": "measure",
+   "value": 40,
+   "unit": "%",
+   "surface": "40%",
+   "sentence": "In Nicaragua, which in 2006 became the first developing country to introduce a rotavirus vaccine, severe rotavirus infections were reduced by 40% and emergency room visits by a half.",
+   "section": "Prevention"
+  },
+  "f62": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "In the United States, rotavirus vaccination since 2006 has led to drops in rotavirus-related hospitalisations by as much as 86%.",
+   "section": "Prevention"
+  },
+  "f63": {
+   "kind": "measure",
+   "value": 86,
+   "unit": "%",
+   "surface": "86%",
+   "sentence": "In the United States, rotavirus vaccination since 2006 has led to drops in rotavirus-related hospitalisations by as much as 86%.",
+   "section": "Prevention"
+  },
+  "f64": {
+   "kind": "date",
+   "value": "2013",
+   "surface": "2013",
+   "sentence": "In September 2013, the vaccine was offered to all children in the UK, aged between two and three months.",
+   "section": "Prevention"
+  },
+  "f65": {
+   "kind": "date",
+   "value": "2022",
+   "surface": "2022",
+   "sentence": "A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%.",
+   "section": "Prevention"
+  },
+  "f66": {
+   "kind": "number",
+   "value": 77,
+   "surface": "77",
+   "sentence": "A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%.",
+   "section": "Prevention"
+  },
+  "f67": {
+   "kind": "measure",
+   "value": 88,
+   "unit": "%",
+   "surface": "88%",
+   "sentence": "A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%.",
+   "section": "Prevention"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 69,
+   "surface": "69",
+   "sentence": "In all age groups, the number of laboratory-confirmed rotavirus infections was reduced by 69–83%.",
+   "section": "Prevention"
+  },
+  "f69": {
+   "kind": "measure",
+   "value": 83,
+   "unit": "%",
+   "surface": "83%",
+   "sentence": "In all age groups, the number of laboratory-confirmed rotavirus infections was reduced by 69–83%.",
+   "section": "Prevention"
+  },
+  "f70": {
+   "kind": "measure",
+   "value": 65,
+   "unit": "%",
+   "surface": "65%",
+   "sentence": "In Europe, hospitalisation rates following infection by rotaviruses have decreased by 65% to 84% following the introduction of the vaccine.",
+   "section": "Prevention"
+  },
+  "f71": {
+   "kind": "measure",
+   "value": 84,
+   "unit": "%",
+   "surface": "84%",
+   "sentence": "In Europe, hospitalisation rates following infection by rotaviruses have decreased by 65% to 84% following the introduction of the vaccine.",
+   "section": "Prevention"
+  },
+  "f72": {
+   "kind": "measure",
+   "value": 67,
+   "unit": "%",
+   "surface": "67%",
+   "sentence": "Globally, vaccination has reduced hospital admissions and emergency department visits by a median of 67%.",
+   "section": "Prevention"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "Rotavirus vaccines are licensed in over 100 countries, and more than 80 countries have introduced routine rotavirus vaccination, almost half with the support of the GAVI vaccine alliance.",
+   "section": "Prevention"
+  },
+  "f74": {
+   "kind": "number",
+   "value": 80,
+   "surface": "80",
+   "sentence": "Rotavirus vaccines are licensed in over 100 countries, and more than 80 countries have introduced routine rotavirus vaccination, almost half with the support of the GAVI vaccine alliance.",
+   "section": "Prevention"
+  },
+  "f75": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The vaccine may prevent type 1 diabetes.",
+   "section": "Prevention"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Rotavirus Reconstruction.jpg",
+   "w": 1986,
+   "h": 1739,
+   "alt": "Rotavirus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/960px-Rotavirus_Reconstruction.jpg",
+   "sha1": "2c0b6e797bfce25d2af7c705177bb87fb327c14e",
+   "credit": {
+    "author": "Kakoui",
+    "authorSource": "uploader",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Rotavirus_Reconstruction.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Gastroenterology",
+  "Pediatrics",
+  "Rotaviruses",
+  "Virus genera"
+ ]
+}

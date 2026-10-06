@@ -1,0 +1,1060 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-07",
+ "slot": "evening",
+ "lang": "en",
+ "topic": {
+  "title": "Cygnus X-1",
+  "qid": "Q332674",
+  "pageid": 86061,
+  "revid": 1374065663,
+  "domain": "astronomy",
+  "url": "https://en.wikipedia.org/w/index.php?title=Cygnus_X-1&oldid=1374065663"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "X-ray binary in Cygnus containing a stellar black hole",
+  "lead": "Cygnus X-1 (abbreviated Cyg X-1) is a galactic X-ray source in the constellation Cygnus and was the first such source widely accepted to be a black hole. It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky). It remains among the most studied astronomical objects in its class. The compact object is now estimated to have a mass about 21.2 times the mass of the Sun and has been shown to be too small to be any known kind of normal star or other likely object besides a black hole. If so, the radius of its event horizon has 300 km \"as upper bound to the linear dimension of the source region\" of occasional X-ray bursts lasting only for about 1 ms.\nCygnus X-1 is a high-mass X-ray binary system located about 7,000 light-years away, that includes a blue supergiant variable star. The supergiant and black hole are separated by about 0.2 AU, or 20% of the distance from Earth to the Sun. A stellar wind from the star provides material for an accretion disk around the X-ray source. Matter in the inner disk is heated to millions of degrees, generating the observed X-rays. A pair of relativistic jets, arranged perpendicularly to the disk, are carrying part of the energy of the infalling material away into interstellar space.\nThis system may belong to a stellar association called Cygnus OB3, which would mean that Cygnus X-1 is about 5 million years old and formed from a progenitor star that had more than 40 solar masses. The majority of the star's mass was shed, most likely as a stellar wind. If this star had then exploded as a supernova, the resulting force would most likely have ejected the remnant from the system. Hence the star may have instead collapsed directly into a black hole.\nCygnus X-1 was the subject of a friendly scientific wager between physicists Stephen Hawking and Kip Thorne in 1975, with Hawking—betting that it was not a black hole—hoping to lose. Hawking conceded the bet in 1990 after observational data had strengthened the case that there was indeed a black hole in the system.",
+  "sections": [
+   {
+    "heading": "Discovery and observation",
+    "text": "Observation of X-ray emissions allows astronomers to study celestial phenomena involving gas with temperatures in the millions of degrees. However, because X-ray emissions are blocked by Earth's atmosphere, observation of celestial X-ray sources is not possible without lifting instruments to altitudes where the X-rays can penetrate. Cygnus X-1 was discovered using X-ray instruments that were carried aloft by a sounding rocket launched from White Sands Missile Range in New Mexico. As part of an ongoing effort to map these sources, a survey was conducted in 1964 using two Aerobee suborbital rockets. The rockets carried Geiger counters to measure X-ray emission in wavelength range 1–15 Å across an 8.4° section of the sky. These instruments swept across the sky as the rockets rotated, producing a map of closely spaced scans.\nAs a result of these surveys, eight new sources of cosmic X-rays were discovered, including Cyg XR-1 (later Cyg X-1) in the constellation Cygnus. The celestial coordinates of this source were estimated as right ascension 19h53m and declination 34.6°. It was not associated with any especially prominent radio or optical source at that position.\nSeeing a need for longer-duration studies, in 1963 Riccardo Giacconi and Herb Gursky proposed the first orbital satellite to study X-ray sources. NASA launched their Uhuru satellite in 1970, which led to the discovery of 300 new X-ray sources. Extended Uhuru observations of Cygnus X-1 showed fluctuations in the X-ray intensity that occur several times a second. This rapid variation meant that the X-ray generation must occur over a compact region no larger than ~105 km (roughly the size of Jupiter), as the speed of light restricts communication between more distant regions.\nIn April–May 1971, Luc Braes and George K. Miley from Leiden Observatory, and independently Robert M. Hjellming and Campbell Wade at the National Radio Astronomy Observatory, detected radio emission from Cygnus X-1, and their accurate radio position pinpointed the X-ray source to the star AGK2 +35 1910 = HDE 226868. On the celestial sphere, this star lies about half a degree from the 4th-magnitude star Eta Cygni. HDE 226868 is a typical O-type supergiant; the strong X-ray emissions from Cygnus X-1 arise from gas being accreted onto Cygnus X-1 from HDE 226868, where the gas is heated to very high temperatures.\nLouise Webster and Paul Murdin, at the Royal Greenwich Observatory, and Charles Thomas Bolton, working independently at the University of Toronto's David Dunlap Observatory, announced the discovery of a massive hidden companion to HDE 226868 in 1972. Measurements of the Doppler shift of the star's spectrum demonstrated the companion's presence and allowed its mass to be estimated from the orbital parameters. Based on the high predicted mass of the object, they surmised that it may be a black hole, as the largest possible neutron star cannot exceed three times the mass of the Sun.\nWith further observations strengthening the evidence, by the end of 1973 the astronomical community generally conceded that Cygnus X-1 was most likely a black hole. More precise measurements of Cygnus X-1 demonstrated variability down to a single millisecond. This interval is consistent with turbulence in a disk of accreted matter surrounding a black hole—the accretion disk. X-ray bursts that last for about a third of a second match the expected time frame of matter falling toward a black hole.\nCygnus X-1 has since been studied extensively using observations by orbiting and ground-based instruments. The similarities between the emissions of X-ray binaries such as HDE 226868/Cygnus X-1 and active galactic nuclei suggests a common mechanism of energy generation involving a black hole, an orbiting accretion disk and associated jets. For this reason, Cygnus X-1 is identified among a class of objects called microquasars; an analog of the quasars, or quasi-stellar radio sources, now known to be distant active galactic nuclei. Scientific studies of binary systems such as HDE 226868/Cygnus X-1 may lead to further insights into the mechanics of active galaxies."
+   },
+   {
+    "heading": "Binary system",
+    "text": "The black hole and blue supergiant star form a binary system in which they orbit around their center of mass every 5.599829 days. From the perspective of Earth, the compact object never goes behind the other star; in other words, the system does not eclipse. However, the inclination of the orbital plane to the line of sight from Earth remains uncertain, with predictions ranging from 27° to 65°. A 2007 study estimated the inclination as 48.0±6.8°, which would mean that the semi-major axis is about 0.2 AU, or 20% of the distance from Earth to the Sun. The orbital eccentricity is thought to be only 0.018±0.002, meaning a nearly circular orbit. The system is expected to merge into a single black hole in five billion years, possibly generating gravitational waves during the process.\nThe HDE 226868/Cygnus X-1 system shares a common motion through space with an association of massive stars named Cygnus OB3, which is roughly 7,000 light-years distant. This implies that HDE 226868, Cygnus X-1 and this OB association may have formed at the same time and location. If so, then the age of the system is about 5±1.5 million years. The motion of HDE 226868 with respect to Cygnus OB3 is 9±3 km/s, a typical value for random motion within a stellar association. HDE 226868 is about 60 parsecs from the center of the association and could have reached that separation in about 7±2 million years—which roughly agrees with estimated age of the association. The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).\nWith a galactic latitude of 4° and galactic longitude 71°, this system lies inward along the same Orion Spur, in which the Sun is located within the Milky Way, near where the spur approaches the Sagittarius Arm. Cygnus X-1 has been described as belonging to the Sagittarius Arm, though the structure of the Milky Way is not well established.\nFrom various techniques, the mass of the compact object appears to be greater than the maximum mass for a neutron star. Stellar evolutionary models suggest a mass of 20±5 solar masses, while other techniques resulted in 10 solar masses. Measuring periodicities in the X-ray emission near the object yielded a more precise value of 14.8±1 solar masses. In all cases, the object is most likely a black hole—a region of space with a gravitational field that is strong enough to prevent the escape of electromagnetic radiation from the interior. The boundary of this region is called the event horizon and has an effective radius called the Schwarzschild radius, which is about 44 km for Cygnus X-1. Anything (including matter and photons) that passes through this boundary is unable to escape. Measurements published in 2021 yielded an estimated mass of 21.2±2.2 solar masses. A 2025 study estimate a mass of 17.5 solar masses, which may be just an upper limit, with another method yielding 13.8 M☉.\nEvidence of just such an event horizon may have been detected in 1992 using ultraviolet (UV) observations with the High Speed Photometer on the Hubble Space Telescope and announced in 2001. As self-luminous clumps of matter spiral into a black hole, their radiation is emitted in a series of pulses that are subject to gravitational redshift as the material approaches the horizon. That is, the wavelengths of the radiation steadily increase, as predicted by general relativity. Matter hitting a solid, compact object would emit a final burst of energy, whereas material passing through an event horizon would not. Two such \"dying pulse trains\" were observed, which is consistent with the existence of a black hole.\nThe spin of the compact object is not yet well determined. Past analysis of data from the space-based Chandra X-ray Observatory suggested that Cygnus X-1 was not rotating to any significant degree. However, evidence announced in 2011 suggests that it is rotating extremely rapidly, approximately 790 times per second.\nThe most massive main-sequence star in the Cygnus OB3 association has a mass approximately 40 times that of the Sun. As more massive stars evolve more rapidly, this implies that the progenitor star for Cygnus X-1 had more than 40 solar masses. Given the current estimated mass of the black hole, the progenitor star must have lost over 30 solar masses of material. Part of this mass may have been lost to HDE 226868, while the remainder was most likely expelled by a strong stellar wind. The helium enrichment of HDE 226868's outer atmosphere may be evidence for this mass transfer. Possibly the progenitor may have evolved into a Wolf–Rayet star, which ejects a substantial proportion of its atmosphere using just such a powerful stellar wind.\nIf the progenitor star had exploded as a supernova, then observations of similar objects show that the remnant would most likely have been ejected from the system at a relatively high velocity. As the object remained in orbit, this indicates that the progenitor may have collapsed directly into a black hole without exploding (or at most produced only a relatively modest explosion).\nThe compact object is thought to be orbited by a thin, flat disk of accreting matter known as an accretion disk. This disk is intensely heated by friction between ionized gas in faster-moving inner orbits and that in slower outer ones. It is divided into a hot inner region with a relatively high level of ionization—forming a plasma—and a cooler, less ionized outer region that extends to an estimated 500 times the Schwarzschild radius, or about 15,000 km.\nThough highly and erratically variable, Cygnus X-1 is typically the brightest persistent source of hard X-rays—those with energies from about 30 up to several hundred kiloelectronvolts—in the sky. The X-rays are produced as lower-energy photons in the thin inner accretion disk, then given more energy through Compton scattering with very high-temperature electrons in a geometrically thicker, but nearly transparent corona enveloping it, as well as by some further reflection from the surface of the thin disk. An alternative possibility is that the X-rays may be Compton-scattered by the base of a jet instead of a disk corona.\nThe X-ray emission from Cygnus X-1 can vary in a somewhat repetitive pattern called quasi-periodic oscillations (QPO). The mass of the compact object appears to determine the distance at which the surrounding plasma begins to emit these QPOs, with the emission radius decreasing as the mass decreases. This technique has been used to estimate the mass of Cygnus X-1, providing a cross-check with other mass derivations.\nPulsations with a stable period, similar to those resulting from the spin of a neutron star, have never been seen from Cygnus X-1. The pulsations from neutron stars are caused by the neutron star's rotating magnetic field, but the no-hair theorem guarantees that the magnetic field of a black hole is exactly aligned with its rotation axis and thus is static. For example, the X-ray binary V 0332+53 was thought to be a possible black hole until pulsations were found. Cygnus X-1 has also never displayed X-ray bursts similar to those seen from neutron stars. Cygnus X-1 unpredictably changes between two X-ray states, although the X-rays may vary continuously between those states as well. In the most common state, the X-rays are \"hard\", which means that more of the X-rays have high energy. In the less common state, the X-rays are \"soft\", with more of the X-rays having lower energy. The soft state also shows greater variability. The hard state is believed to originate in a corona surrounding the inner part of the more opaque accretion disk. The soft state occurs when the disk draws closer to the compact object (possibly as close as 150 km), accompanied by cooling or ejection of the corona. When a new corona is generated, Cygnus X-1 transitions back to the hard state.\nThe spectral transition of Cygnus X-1 can be explained using a two-component advective flow solution, as proposed by Chakrabarti and Titarchuk. A hard state is generated by the inverse Comptonisation of seed photons from the Keplarian disk and likewise synchrotron photons produced by the hot electrons in the centrifugal-pressure–supported boundary layer (CENBOL).\nThe X-ray emission from Cygnus X-1 shows orbital modulation on the 5.6-day binary period, especially in the hard state. The intensity is often reduced near superior conjunction of the black hole, when HDE 226868 lies in front of the compact X-ray source along our line of sight; this is likely due to X-rays being absorbed by material in HDE 226868's stellar wind. There is a roughly 300-day periodicity in the emission, which could be caused by the precession of the accretion disk.\nAs accreted matter falls toward the compact object, it loses gravitational potential energy. Some of this released energy can be channeled into jets of particles, launched roughly perpendicular to the accretion disk, that flow outward at relativistic velocities—that is, at a significant fraction of the speed of light. This pair of jets provide a means for an accretion disk to shed excess energy and angular momentum. They may be created by magnetic fields within the gas that surrounds the compact object.\nThe Cygnus X-1 jets are inefficient radiators and so release only a small proportion of their energy in the electromagnetic spectrum. That is, they appear \"dark\". The estimated angle of the jets to the line of sight is 30°, and they may be precessing. One of the jets is colliding with a relatively dense part of the interstellar medium (ISM), forming an energized ring that can be detected by its radio emission. This collision appears to be forming a nebula that has been observed in the optical wavelengths. To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun. There is no corresponding ring in the opposite direction because that jet is facing a lower-density region of the ISM.\nIn 2006, Cygnus X-1 became the first stellar-mass black hole found to display evidence of gamma-ray emission in the very high-energy band, above 100 GeV. The signal was observed at the same time as a flare of hard X-rays, suggesting a link between the events. The X-ray flare may have been produced at the base of the jet, while the gamma rays could have been generated where the jet interacts with the stellar wind of HDE 226868.\nHDE 226868 is a supergiant star with a spectral class of O9.7 Iab, which is on the borderline between class-O and class-B stars. It has an estimated surface temperature of 31,000 K and mass approximately 20–40 times the mass of the Sun. Based on a stellar evolutionary model, at the estimated distance of 2,000 parsecs, this star may have a radius equal to about 15–17 times the solar radius and has approximately 300,000–400,000 times the luminosity of the Sun. For comparison, the compact object is estimated to be orbiting HDE 226868 at a distance of about 40 solar radii, or twice the radius of this star.\nThe surface of HDE 226868 is being tidally distorted by the gravity of the massive companion, forming a tear-drop shape that is further distorted by rotation. This causes the optical brightness of the star to vary by 0.06 magnitudes during each 5.6-day binary orbit, with the minimum magnitude occurring when the system is aligned with the line of sight. The \"ellipsoidal\" pattern of light variation results from the limb darkening and gravity darkening of the star's surface.\nWhen the spectrum of HDE 226868 is compared to the similar star Alnilam, the former shows an overabundance of helium and an underabundance of carbon in its atmosphere. The ultraviolet and hydrogen-alpha spectral lines of HDE 226868 show profiles similar to the star P Cygni, which indicates that the star is surrounded by a gaseous envelope that is being accelerated away from the star at speeds of about 1,500 km/s.\nLike other stars of its spectral type, HDE 226868 is thought to be shedding mass in a stellar wind at an estimated rate of 2.5×10−6 solar masses per year; or one solar mass every 400,000 years. The gravitational influence of the compact object appears to be reshaping this stellar wind, producing a focused wind geometry rather than a spherically symmetrical wind. X-rays from the region surrounding the compact object heat and ionize this stellar wind. As the object moves through different regions of the stellar wind during its 5.6-day orbit, the UV lines, the radio emission, and the X-rays themselves all vary.\nThe Roche lobe of HDE 226868 defines the region of space around the star where orbiting material remains gravitationally bound. Material that passes beyond this lobe may fall toward the orbiting companion. This Roche lobe is believed to be close to the surface of HDE 226868 but not overflowing, so the material at the stellar surface is not being stripped away by its companion. However, a significant proportion of the stellar wind emitted by the star is being drawn onto the compact object's accretion disk after passing beyond this lobe.\nThe gas and dust between Earth and HDE 226868 results in a reduction in the apparent magnitude of the star, as well as a reddening of the hue—red light can more effectively penetrate the dust in the interstellar medium. The estimated value of the interstellar extinction (AV) is 3.3 magnitudes. Without the intervening matter, HDE 226868 would be a fifth-magnitude star, and thus visible to the unaided eye."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "date",
+   "value": "1964",
+   "surface": "1964",
+   "sentence": "It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky)."
+  },
+  "f2": {
+   "kind": "number",
+   "value": 2.3,
+   "surface": "2.3",
+   "sentence": "It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky)."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky)."
+  },
+  "f4": {
+   "kind": "number",
+   "value": 23,
+   "surface": "23",
+   "sentence": "It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky)."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 2.3,
+   "surface": "2.3",
+   "sentence": "It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky)."
+  },
+  "f6": {
+   "kind": "number",
+   "value": 103,
+   "surface": "103",
+   "sentence": "It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources detectable from Earth, producing a peak X-ray flux density of 2.3×10−23 W/(m2⋅Hz) (2.3×103 jansky)."
+  },
+  "f7": {
+   "kind": "number",
+   "value": 21.2,
+   "surface": "21.2",
+   "sentence": "The compact object is now estimated to have a mass about 21.2 times the mass of the Sun and has been shown to be too small to be any known kind of normal star or other likely object besides a black hole."
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 300,
+   "unit": "km",
+   "surface": "300 km",
+   "sentence": "If so, the radius of its event horizon has 300 km \"as upper bound to the linear dimension of the source region\" of occasional X-ray bursts lasting only for about 1 ms.\nCygnus X-1 is a high-mass X-ray binary system located about 7,000 light-years away, that includes a blue supergiant variable star."
+  },
+  "f9": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "If so, the radius of its event horizon has 300 km \"as upper bound to the linear dimension of the source region\" of occasional X-ray bursts lasting only for about 1 ms.\nCygnus X-1 is a high-mass X-ray binary system located about 7,000 light-years away, that includes a blue supergiant variable star."
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 7000,
+   "unit": "light-years",
+   "surface": "7,000 light-years",
+   "sentence": "If so, the radius of its event horizon has 300 km \"as upper bound to the linear dimension of the source region\" of occasional X-ray bursts lasting only for about 1 ms.\nCygnus X-1 is a high-mass X-ray binary system located about 7,000 light-years away, that includes a blue supergiant variable star."
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 0.2,
+   "unit": "au",
+   "surface": "0.2 AU",
+   "sentence": "The supergiant and black hole are separated by about 0.2 AU, or 20% of the distance from Earth to the Sun."
+  },
+  "f12": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "%",
+   "surface": "20%",
+   "sentence": "The supergiant and black hole are separated by about 0.2 AU, or 20% of the distance from Earth to the Sun."
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 5000000,
+   "unit": "years",
+   "surface": "5 million years",
+   "sentence": "This system may belong to a stellar association called Cygnus OB3, which would mean that Cygnus X-1 is about 5 million years old and formed from a progenitor star that had more than 40 solar masses."
+  },
+  "f14": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "This system may belong to a stellar association called Cygnus OB3, which would mean that Cygnus X-1 is about 5 million years old and formed from a progenitor star that had more than 40 solar masses."
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1975",
+   "surface": "1975",
+   "sentence": "Cygnus X-1 was the subject of a friendly scientific wager between physicists Stephen Hawking and Kip Thorne in 1975, with Hawking—betting that it was not a black hole—hoping to lose."
+  },
+  "f16": {
+   "kind": "date",
+   "value": "1990",
+   "surface": "1990",
+   "sentence": "Hawking conceded the bet in 1990 after observational data had strengthened the case that there was indeed a black hole in the system."
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1964",
+   "surface": "1964",
+   "sentence": "As part of an ongoing effort to map these sources, a survey was conducted in 1964 using two Aerobee suborbital rockets.",
+   "section": "Discovery and observation"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The rockets carried Geiger counters to measure X-ray emission in wavelength range 1–15 Å across an 8.4° section of the sky.",
+   "section": "Discovery and observation"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 15,
+   "surface": "15",
+   "sentence": "The rockets carried Geiger counters to measure X-ray emission in wavelength range 1–15 Å across an 8.4° section of the sky.",
+   "section": "Discovery and observation"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 8.4,
+   "surface": "8.4",
+   "sentence": "The rockets carried Geiger counters to measure X-ray emission in wavelength range 1–15 Å across an 8.4° section of the sky.",
+   "section": "Discovery and observation"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 34.6,
+   "surface": "34.6",
+   "sentence": "The celestial coordinates of this source were estimated as right ascension 19h53m and declination 34.6°.",
+   "section": "Discovery and observation"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1963",
+   "surface": "1963",
+   "sentence": "Seeing a need for longer-duration studies, in 1963 Riccardo Giacconi and Herb Gursky proposed the first orbital satellite to study X-ray sources.",
+   "section": "Discovery and observation"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1970",
+   "surface": "1970",
+   "sentence": "NASA launched their Uhuru satellite in 1970, which led to the discovery of 300 new X-ray sources.",
+   "section": "Discovery and observation"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 300,
+   "surface": "300",
+   "sentence": "NASA launched their Uhuru satellite in 1970, which led to the discovery of 300 new X-ray sources.",
+   "section": "Discovery and observation"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 105,
+   "unit": "km",
+   "surface": "105 km",
+   "sentence": "This rapid variation meant that the X-ray generation must occur over a compact region no larger than ~105 km (roughly the size of Jupiter), as the speed of light restricts communication between more distant regions.",
+   "section": "Discovery and observation"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1971",
+   "surface": "1971",
+   "sentence": "In April–May 1971, Luc Braes and George K. Miley from Leiden Observatory, and independently Robert M. Hjellming and Campbell Wade at the National Radio Astronomy Observatory, detected radio emission from Cygnus X-1, and their accurate radio position pinpointed the X-ray source to the star AGK2 +35 1910 = HDE 226868.",
+   "section": "Discovery and observation"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 35,
+   "surface": "35",
+   "sentence": "In April–May 1971, Luc Braes and George K. Miley from Leiden Observatory, and independently Robert M. Hjellming and Campbell Wade at the National Radio Astronomy Observatory, detected radio emission from Cygnus X-1, and their accurate radio position pinpointed the X-ray source to the star AGK2 +35 1910 = HDE 226868.",
+   "section": "Discovery and observation"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1910",
+   "surface": "1910",
+   "sentence": "In April–May 1971, Luc Braes and George K. Miley from Leiden Observatory, and independently Robert M. Hjellming and Campbell Wade at the National Radio Astronomy Observatory, detected radio emission from Cygnus X-1, and their accurate radio position pinpointed the X-ray source to the star AGK2 +35 1910 = HDE 226868.",
+   "section": "Discovery and observation"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "In April–May 1971, Luc Braes and George K. Miley from Leiden Observatory, and independently Robert M. Hjellming and Campbell Wade at the National Radio Astronomy Observatory, detected radio emission from Cygnus X-1, and their accurate radio position pinpointed the X-ray source to the star AGK2 +35 1910 = HDE 226868.",
+   "section": "Discovery and observation"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "HDE 226868 is a typical O-type supergiant; the strong X-ray emissions from Cygnus X-1 arise from gas being accreted onto Cygnus X-1 from HDE 226868, where the gas is heated to very high temperatures.",
+   "section": "Discovery and observation"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "HDE 226868 is a typical O-type supergiant; the strong X-ray emissions from Cygnus X-1 arise from gas being accreted onto Cygnus X-1 from HDE 226868, where the gas is heated to very high temperatures.",
+   "section": "Discovery and observation"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "Louise Webster and Paul Murdin, at the Royal Greenwich Observatory, and Charles Thomas Bolton, working independently at the University of Toronto's David Dunlap Observatory, announced the discovery of a massive hidden companion to HDE 226868 in 1972.",
+   "section": "Discovery and observation"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1972",
+   "surface": "1972",
+   "sentence": "Louise Webster and Paul Murdin, at the Royal Greenwich Observatory, and Charles Thomas Bolton, working independently at the University of Toronto's David Dunlap Observatory, announced the discovery of a massive hidden companion to HDE 226868 in 1972.",
+   "section": "Discovery and observation"
+  },
+  "f34": {
+   "kind": "date",
+   "value": "1973",
+   "surface": "1973",
+   "sentence": "With further observations strengthening the evidence, by the end of 1973 the astronomical community generally conceded that Cygnus X-1 was most likely a black hole.",
+   "section": "Discovery and observation"
+  },
+  "f35": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The similarities between the emissions of X-ray binaries such as HDE 226868/Cygnus X-1 and active galactic nuclei suggests a common mechanism of energy generation involving a black hole, an orbiting accretion disk and associated jets.",
+   "section": "Discovery and observation"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "Scientific studies of binary systems such as HDE 226868/Cygnus X-1 may lead to further insights into the mechanics of active galaxies.",
+   "section": "Discovery and observation"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 5.599829,
+   "surface": "5.599829",
+   "sentence": "The black hole and blue supergiant star form a binary system in which they orbit around their center of mass every 5.599829 days.",
+   "section": "Binary system"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 27,
+   "surface": "27",
+   "sentence": "However, the inclination of the orbital plane to the line of sight from Earth remains uncertain, with predictions ranging from 27° to 65°.",
+   "section": "Binary system"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 65,
+   "surface": "65",
+   "sentence": "However, the inclination of the orbital plane to the line of sight from Earth remains uncertain, with predictions ranging from 27° to 65°.",
+   "section": "Binary system"
+  },
+  "f40": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007",
+   "sentence": "A 2007 study estimated the inclination as 48.0±6.8°, which would mean that the semi-major axis is about 0.2 AU, or 20% of the distance from Earth to the Sun.",
+   "section": "Binary system"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 48,
+   "surface": "48.0",
+   "sentence": "A 2007 study estimated the inclination as 48.0±6.8°, which would mean that the semi-major axis is about 0.2 AU, or 20% of the distance from Earth to the Sun.",
+   "section": "Binary system"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 6.8,
+   "surface": "6.8",
+   "sentence": "A 2007 study estimated the inclination as 48.0±6.8°, which would mean that the semi-major axis is about 0.2 AU, or 20% of the distance from Earth to the Sun.",
+   "section": "Binary system"
+  },
+  "f43": {
+   "kind": "measure",
+   "value": 0.2,
+   "unit": "au",
+   "surface": "0.2 AU",
+   "sentence": "A 2007 study estimated the inclination as 48.0±6.8°, which would mean that the semi-major axis is about 0.2 AU, or 20% of the distance from Earth to the Sun.",
+   "section": "Binary system"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "%",
+   "surface": "20%",
+   "sentence": "A 2007 study estimated the inclination as 48.0±6.8°, which would mean that the semi-major axis is about 0.2 AU, or 20% of the distance from Earth to the Sun.",
+   "section": "Binary system"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 0.018,
+   "surface": "0.018",
+   "sentence": "The orbital eccentricity is thought to be only 0.018±0.002, meaning a nearly circular orbit.",
+   "section": "Binary system"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 0.002,
+   "surface": "0.002",
+   "sentence": "The orbital eccentricity is thought to be only 0.018±0.002, meaning a nearly circular orbit.",
+   "section": "Binary system"
+  },
+  "f47": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The HDE 226868/Cygnus X-1 system shares a common motion through space with an association of massive stars named Cygnus OB3, which is roughly 7,000 light-years distant.",
+   "section": "Binary system"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 7000,
+   "unit": "light-years",
+   "surface": "7,000 light-years",
+   "sentence": "The HDE 226868/Cygnus X-1 system shares a common motion through space with an association of massive stars named Cygnus OB3, which is roughly 7,000 light-years distant.",
+   "section": "Binary system"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "This implies that HDE 226868, Cygnus X-1 and this OB association may have formed at the same time and location.",
+   "section": "Binary system"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "If so, then the age of the system is about 5±1.5 million years.",
+   "section": "Binary system"
+  },
+  "f51": {
+   "kind": "measure",
+   "value": 1500000,
+   "unit": "years",
+   "surface": "1.5 million years",
+   "sentence": "If so, then the age of the system is about 5±1.5 million years.",
+   "section": "Binary system"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The motion of HDE 226868 with respect to Cygnus OB3 is 9±3 km/s, a typical value for random motion within a stellar association.",
+   "section": "Binary system"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "The motion of HDE 226868 with respect to Cygnus OB3 is 9±3 km/s, a typical value for random motion within a stellar association.",
+   "section": "Binary system"
+  },
+  "f54": {
+   "kind": "measure",
+   "value": 3,
+   "unit": "km/s",
+   "surface": "3 km/s",
+   "sentence": "The motion of HDE 226868 with respect to Cygnus OB3 is 9±3 km/s, a typical value for random motion within a stellar association.",
+   "section": "Binary system"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "HDE 226868 is about 60 parsecs from the center of the association and could have reached that separation in about 7±2 million years—which roughly agrees with estimated age of the association.",
+   "section": "Binary system"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 60,
+   "surface": "60",
+   "sentence": "HDE 226868 is about 60 parsecs from the center of the association and could have reached that separation in about 7±2 million years—which roughly agrees with estimated age of the association.",
+   "section": "Binary system"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "HDE 226868 is about 60 parsecs from the center of the association and could have reached that separation in about 7±2 million years—which roughly agrees with estimated age of the association.",
+   "section": "Binary system"
+  },
+  "f58": {
+   "kind": "measure",
+   "value": 2000000,
+   "unit": "years",
+   "surface": "2 million years",
+   "sentence": "HDE 226868 is about 60 parsecs from the center of the association and could have reached that separation in about 7±2 million years—which roughly agrees with estimated age of the association.",
+   "section": "Binary system"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 1860,
+   "surface": "1,860",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 120,
+   "surface": "120",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 6070,
+   "surface": "6,070",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f62": {
+   "kind": "measure",
+   "value": 390,
+   "unit": "light-years",
+   "surface": "390 light-years",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 2220,
+   "surface": "2,220",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 170,
+   "surface": "170",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f65": {
+   "kind": "number",
+   "value": 7240,
+   "surface": "7,240",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f66": {
+   "kind": "date",
+   "value": "550",
+   "surface": "550",
+   "sentence": "The distance to Cyg X-1 is calculated by trigonometric parallax as 1,860 ± 120 parsecs (6,070 ± 390 light-years), and by radio astrometry as 2,220 ± 170 parsecs (7,240 ± 550 ly).",
+   "section": "Binary system"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "With a galactic latitude of 4° and galactic longitude 71°, this system lies inward along the same Orion Spur, in which the Sun is located within the Milky Way, near where the spur approaches the Sagittarius Arm.",
+   "section": "Binary system"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 71,
+   "surface": "71",
+   "sentence": "With a galactic latitude of 4° and galactic longitude 71°, this system lies inward along the same Orion Spur, in which the Sun is located within the Milky Way, near where the spur approaches the Sagittarius Arm.",
+   "section": "Binary system"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Stellar evolutionary models suggest a mass of 20±5 solar masses, while other techniques resulted in 10 solar masses.",
+   "section": "Binary system"
+  },
+  "f70": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Stellar evolutionary models suggest a mass of 20±5 solar masses, while other techniques resulted in 10 solar masses.",
+   "section": "Binary system"
+  },
+  "f71": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Stellar evolutionary models suggest a mass of 20±5 solar masses, while other techniques resulted in 10 solar masses.",
+   "section": "Binary system"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 14.8,
+   "surface": "14.8",
+   "sentence": "Measuring periodicities in the X-ray emission near the object yielded a more precise value of 14.8±1 solar masses.",
+   "section": "Binary system"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Measuring periodicities in the X-ray emission near the object yielded a more precise value of 14.8±1 solar masses.",
+   "section": "Binary system"
+  },
+  "f74": {
+   "kind": "measure",
+   "value": 44,
+   "unit": "km",
+   "surface": "44 km",
+   "sentence": "The boundary of this region is called the event horizon and has an effective radius called the Schwarzschild radius, which is about 44 km for Cygnus X-1.",
+   "section": "Binary system"
+  },
+  "f75": {
+   "kind": "date",
+   "value": "2021",
+   "surface": "2021",
+   "sentence": "Measurements published in 2021 yielded an estimated mass of 21.2±2.2 solar masses.",
+   "section": "Binary system"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 21.2,
+   "surface": "21.2",
+   "sentence": "Measurements published in 2021 yielded an estimated mass of 21.2±2.2 solar masses.",
+   "section": "Binary system"
+  },
+  "f77": {
+   "kind": "number",
+   "value": 2.2,
+   "surface": "2.2",
+   "sentence": "Measurements published in 2021 yielded an estimated mass of 21.2±2.2 solar masses.",
+   "section": "Binary system"
+  },
+  "f78": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025",
+   "sentence": "A 2025 study estimate a mass of 17.5 solar masses, which may be just an upper limit, with another method yielding 13.8 M☉.",
+   "section": "Binary system"
+  },
+  "f79": {
+   "kind": "number",
+   "value": 17.5,
+   "surface": "17.5",
+   "sentence": "A 2025 study estimate a mass of 17.5 solar masses, which may be just an upper limit, with another method yielding 13.8 M☉.",
+   "section": "Binary system"
+  },
+  "f80": {
+   "kind": "measure",
+   "value": 13.8,
+   "unit": "m",
+   "surface": "13.8 M",
+   "sentence": "A 2025 study estimate a mass of 17.5 solar masses, which may be just an upper limit, with another method yielding 13.8 M☉.",
+   "section": "Binary system"
+  },
+  "f81": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "Evidence of just such an event horizon may have been detected in 1992 using ultraviolet (UV) observations with the High Speed Photometer on the Hubble Space Telescope and announced in 2001.",
+   "section": "Binary system"
+  },
+  "f82": {
+   "kind": "date",
+   "value": "2001",
+   "surface": "2001",
+   "sentence": "Evidence of just such an event horizon may have been detected in 1992 using ultraviolet (UV) observations with the High Speed Photometer on the Hubble Space Telescope and announced in 2001.",
+   "section": "Binary system"
+  },
+  "f83": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011",
+   "sentence": "However, evidence announced in 2011 suggests that it is rotating extremely rapidly, approximately 790 times per second.",
+   "section": "Binary system"
+  },
+  "f84": {
+   "kind": "date",
+   "value": "790",
+   "surface": "790",
+   "sentence": "However, evidence announced in 2011 suggests that it is rotating extremely rapidly, approximately 790 times per second.",
+   "section": "Binary system"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "The most massive main-sequence star in the Cygnus OB3 association has a mass approximately 40 times that of the Sun.",
+   "section": "Binary system"
+  },
+  "f86": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "As more massive stars evolve more rapidly, this implies that the progenitor star for Cygnus X-1 had more than 40 solar masses.",
+   "section": "Binary system"
+  },
+  "f87": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Given the current estimated mass of the black hole, the progenitor star must have lost over 30 solar masses of material.",
+   "section": "Binary system"
+  },
+  "f88": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "Part of this mass may have been lost to HDE 226868, while the remainder was most likely expelled by a strong stellar wind.",
+   "section": "Binary system"
+  },
+  "f89": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The helium enrichment of HDE 226868's outer atmosphere may be evidence for this mass transfer.",
+   "section": "Binary system"
+  },
+  "f90": {
+   "kind": "date",
+   "value": "500",
+   "surface": "500",
+   "sentence": "It is divided into a hot inner region with a relatively high level of ionization—forming a plasma—and a cooler, less ionized outer region that extends to an estimated 500 times the Schwarzschild radius, or about 15,000 km.",
+   "section": "Binary system"
+  },
+  "f91": {
+   "kind": "measure",
+   "value": 15000,
+   "unit": "km",
+   "surface": "15,000 km",
+   "sentence": "It is divided into a hot inner region with a relatively high level of ionization—forming a plasma—and a cooler, less ionized outer region that extends to an estimated 500 times the Schwarzschild radius, or about 15,000 km.",
+   "section": "Binary system"
+  },
+  "f92": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Though highly and erratically variable, Cygnus X-1 is typically the brightest persistent source of hard X-rays—those with energies from about 30 up to several hundred kiloelectronvolts—in the sky.",
+   "section": "Binary system"
+  },
+  "f93": {
+   "kind": "number",
+   "value": 332,
+   "surface": "0332",
+   "sentence": "For example, the X-ray binary V 0332+53 was thought to be a possible black hole until pulsations were found.",
+   "section": "Binary system"
+  },
+  "f94": {
+   "kind": "number",
+   "value": 53,
+   "surface": "53",
+   "sentence": "For example, the X-ray binary V 0332+53 was thought to be a possible black hole until pulsations were found.",
+   "section": "Binary system"
+  },
+  "f95": {
+   "kind": "measure",
+   "value": 150,
+   "unit": "km",
+   "surface": "150 km",
+   "sentence": "The soft state occurs when the disk draws closer to the compact object (possibly as close as 150 km), accompanied by cooling or ejection of the corona.",
+   "section": "Binary system"
+  },
+  "f96": {
+   "kind": "number",
+   "value": 5.6,
+   "surface": "5.6",
+   "sentence": "The X-ray emission from Cygnus X-1 shows orbital modulation on the 5.6-day binary period, especially in the hard state.",
+   "section": "Binary system"
+  },
+  "f97": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The intensity is often reduced near superior conjunction of the black hole, when HDE 226868 lies in front of the compact X-ray source along our line of sight; this is likely due to X-rays being absorbed by material in HDE 226868's stellar wind.",
+   "section": "Binary system"
+  },
+  "f98": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The intensity is often reduced near superior conjunction of the black hole, when HDE 226868 lies in front of the compact X-ray source along our line of sight; this is likely due to X-rays being absorbed by material in HDE 226868's stellar wind.",
+   "section": "Binary system"
+  },
+  "f99": {
+   "kind": "number",
+   "value": 300,
+   "surface": "300",
+   "sentence": "There is a roughly 300-day periodicity in the emission, which could be caused by the precession of the accretion disk.",
+   "section": "Binary system"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "The estimated angle of the jets to the line of sight is 30°, and they may be precessing.",
+   "section": "Binary system"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f102": {
+   "kind": "number",
+   "value": 14,
+   "surface": "14",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f103": {
+   "kind": "date",
+   "value": "1036",
+   "surface": "1036",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f104": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f106": {
+   "kind": "date",
+   "value": "1029",
+   "surface": "1029",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f107": {
+   "kind": "number",
+   "value": 1000,
+   "surface": "1,000",
+   "sentence": "To produce this nebula, the jet must have an estimated average power of 4–14×1036 erg/s, or (9±5)×1029 W. This is more than 1,000 times the power emitted by the Sun.",
+   "section": "Binary system"
+  },
+  "f108": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "In 2006, Cygnus X-1 became the first stellar-mass black hole found to display evidence of gamma-ray emission in the very high-energy band, above 100 GeV.",
+   "section": "Binary system"
+  },
+  "f109": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "In 2006, Cygnus X-1 became the first stellar-mass black hole found to display evidence of gamma-ray emission in the very high-energy band, above 100 GeV.",
+   "section": "Binary system"
+  },
+  "f110": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The X-ray flare may have been produced at the base of the jet, while the gamma rays could have been generated where the jet interacts with the stellar wind of HDE 226868.",
+   "section": "Binary system"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "HDE 226868 is a supergiant star with a spectral class of O9.7 Iab, which is on the borderline between class-O and class-B stars.",
+   "section": "Binary system"
+  },
+  "f112": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "HDE 226868 is a supergiant star with a spectral class of O9.7 Iab, which is on the borderline between class-O and class-B stars.",
+   "section": "Binary system"
+  },
+  "f113": {
+   "kind": "measure",
+   "value": 31000,
+   "unit": "k",
+   "surface": "31,000 K",
+   "sentence": "It has an estimated surface temperature of 31,000 K and mass approximately 20–40 times the mass of the Sun.",
+   "section": "Binary system"
+  },
+  "f114": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "It has an estimated surface temperature of 31,000 K and mass approximately 20–40 times the mass of the Sun.",
+   "section": "Binary system"
+  },
+  "f115": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "It has an estimated surface temperature of 31,000 K and mass approximately 20–40 times the mass of the Sun.",
+   "section": "Binary system"
+  },
+  "f116": {
+   "kind": "number",
+   "value": 2000,
+   "surface": "2,000",
+   "sentence": "Based on a stellar evolutionary model, at the estimated distance of 2,000 parsecs, this star may have a radius equal to about 15–17 times the solar radius and has approximately 300,000–400,000 times the luminosity of the Sun.",
+   "section": "Binary system"
+  },
+  "f117": {
+   "kind": "number",
+   "value": 15,
+   "surface": "15",
+   "sentence": "Based on a stellar evolutionary model, at the estimated distance of 2,000 parsecs, this star may have a radius equal to about 15–17 times the solar radius and has approximately 300,000–400,000 times the luminosity of the Sun.",
+   "section": "Binary system"
+  },
+  "f118": {
+   "kind": "number",
+   "value": 17,
+   "surface": "17",
+   "sentence": "Based on a stellar evolutionary model, at the estimated distance of 2,000 parsecs, this star may have a radius equal to about 15–17 times the solar radius and has approximately 300,000–400,000 times the luminosity of the Sun.",
+   "section": "Binary system"
+  },
+  "f119": {
+   "kind": "number",
+   "value": 300000,
+   "surface": "300,000",
+   "sentence": "Based on a stellar evolutionary model, at the estimated distance of 2,000 parsecs, this star may have a radius equal to about 15–17 times the solar radius and has approximately 300,000–400,000 times the luminosity of the Sun.",
+   "section": "Binary system"
+  },
+  "f120": {
+   "kind": "number",
+   "value": 400000,
+   "surface": "400,000",
+   "sentence": "Based on a stellar evolutionary model, at the estimated distance of 2,000 parsecs, this star may have a radius equal to about 15–17 times the solar radius and has approximately 300,000–400,000 times the luminosity of the Sun.",
+   "section": "Binary system"
+  },
+  "f121": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "For comparison, the compact object is estimated to be orbiting HDE 226868 at a distance of about 40 solar radii, or twice the radius of this star.",
+   "section": "Binary system"
+  },
+  "f122": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "For comparison, the compact object is estimated to be orbiting HDE 226868 at a distance of about 40 solar radii, or twice the radius of this star.",
+   "section": "Binary system"
+  },
+  "f123": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The surface of HDE 226868 is being tidally distorted by the gravity of the massive companion, forming a tear-drop shape that is further distorted by rotation.",
+   "section": "Binary system"
+  },
+  "f124": {
+   "kind": "number",
+   "value": 0.06,
+   "surface": "0.06",
+   "sentence": "This causes the optical brightness of the star to vary by 0.06 magnitudes during each 5.6-day binary orbit, with the minimum magnitude occurring when the system is aligned with the line of sight.",
+   "section": "Binary system"
+  },
+  "f125": {
+   "kind": "number",
+   "value": 5.6,
+   "surface": "5.6",
+   "sentence": "This causes the optical brightness of the star to vary by 0.06 magnitudes during each 5.6-day binary orbit, with the minimum magnitude occurring when the system is aligned with the line of sight.",
+   "section": "Binary system"
+  },
+  "f126": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "When the spectrum of HDE 226868 is compared to the similar star Alnilam, the former shows an overabundance of helium and an underabundance of carbon in its atmosphere.",
+   "section": "Binary system"
+  },
+  "f127": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The ultraviolet and hydrogen-alpha spectral lines of HDE 226868 show profiles similar to the star P Cygni, which indicates that the star is surrounded by a gaseous envelope that is being accelerated away from the star at speeds of about 1,500 km/s.",
+   "section": "Binary system"
+  },
+  "f128": {
+   "kind": "measure",
+   "value": 1500,
+   "unit": "km/s",
+   "surface": "1,500 km/s",
+   "sentence": "The ultraviolet and hydrogen-alpha spectral lines of HDE 226868 show profiles similar to the star P Cygni, which indicates that the star is surrounded by a gaseous envelope that is being accelerated away from the star at speeds of about 1,500 km/s.",
+   "section": "Binary system"
+  },
+  "f129": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "Like other stars of its spectral type, HDE 226868 is thought to be shedding mass in a stellar wind at an estimated rate of 2.5×10−6 solar masses per year; or one solar mass every 400,000 years.",
+   "section": "Binary system"
+  },
+  "f130": {
+   "kind": "number",
+   "value": 2.5,
+   "surface": "2.5",
+   "sentence": "Like other stars of its spectral type, HDE 226868 is thought to be shedding mass in a stellar wind at an estimated rate of 2.5×10−6 solar masses per year; or one solar mass every 400,000 years.",
+   "section": "Binary system"
+  },
+  "f131": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Like other stars of its spectral type, HDE 226868 is thought to be shedding mass in a stellar wind at an estimated rate of 2.5×10−6 solar masses per year; or one solar mass every 400,000 years.",
+   "section": "Binary system"
+  },
+  "f132": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "Like other stars of its spectral type, HDE 226868 is thought to be shedding mass in a stellar wind at an estimated rate of 2.5×10−6 solar masses per year; or one solar mass every 400,000 years.",
+   "section": "Binary system"
+  },
+  "f133": {
+   "kind": "measure",
+   "value": 400000,
+   "unit": "years",
+   "surface": "400,000 years",
+   "sentence": "Like other stars of its spectral type, HDE 226868 is thought to be shedding mass in a stellar wind at an estimated rate of 2.5×10−6 solar masses per year; or one solar mass every 400,000 years.",
+   "section": "Binary system"
+  },
+  "f134": {
+   "kind": "number",
+   "value": 5.6,
+   "surface": "5.6",
+   "sentence": "As the object moves through different regions of the stellar wind during its 5.6-day orbit, the UV lines, the radio emission, and the X-rays themselves all vary.",
+   "section": "Binary system"
+  },
+  "f135": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The Roche lobe of HDE 226868 defines the region of space around the star where orbiting material remains gravitationally bound.",
+   "section": "Binary system"
+  },
+  "f136": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "This Roche lobe is believed to be close to the surface of HDE 226868 but not overflowing, so the material at the stellar surface is not being stripped away by its companion.",
+   "section": "Binary system"
+  },
+  "f137": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "The gas and dust between Earth and HDE 226868 results in a reduction in the apparent magnitude of the star, as well as a reddening of the hue—red light can more effectively penetrate the dust in the interstellar medium.",
+   "section": "Binary system"
+  },
+  "f138": {
+   "kind": "number",
+   "value": 3.3,
+   "surface": "3.3",
+   "sentence": "The estimated value of the interstellar extinction (AV) is 3.3 magnitudes.",
+   "section": "Binary system"
+  },
+  "f139": {
+   "kind": "number",
+   "value": 226868,
+   "surface": "226868",
+   "sentence": "Without the intervening matter, HDE 226868 would be a fifth-magnitude star, and thus visible to the unaided eye.",
+   "section": "Binary system"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Black hole Cygnus X-1.jpg",
+   "w": 1728,
+   "h": 1224,
+   "alt": "Cygnus X-1",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Black_hole_Cygnus_X-1.jpg/960px-Black_hole_Cygnus_X-1.jpg",
+   "sha1": "a0138d059d5c5a5e9b04bb8bc7e6bada06088b16",
+   "credit": {
+    "author": "NASA/CXC/M.Weiss",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Black_hole_Cygnus_X-1.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "Black hole X-ray binaries",
+  "Cygnus (constellation)",
+  "Durchmusterung objects",
+  "Henry Draper Catalogue objects",
+  "High-mass X-ray binaries",
+  "Hipparcos objects",
+  "O-type supergiants",
+  "Objects with variable star designations",
+  "Rotating ellipsoidal variables"
+ ]
+}

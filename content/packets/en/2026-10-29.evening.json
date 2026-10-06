@@ -1,0 +1,899 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-29",
+ "slot": "evening",
+ "lang": "en",
+ "topic": {
+  "title": "Asteroid belt",
+  "qid": "Q2179",
+  "pageid": 47264,
+  "revid": 1373195997,
+  "domain": "astronomy",
+  "url": "https://en.wikipedia.org/w/index.php?title=Asteroid_belt&oldid=1373195997"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "Region between the orbits of Mars and Jupiter",
+  "lead": "The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. It contains a great many solid, irregularly shaped bodies called asteroids or minor planets. The identified objects are of many sizes, but much smaller than planets, and, on average, are about one million kilometers (or six hundred thousand miles) apart. This asteroid belt is also called the main asteroid belt or main belt to distinguish it from other asteroid populations in the Solar System.\nThe asteroid belt is the innermost and smallest circumstellar disc in the Solar System. Its total mass is estimated to be 3% that of the Moon, with about 60% contained in the four largest asteroids: Ceres, Vesta, Pallas, and Hygiea. Classes of small Solar System bodies in other regions are the near-Earth objects, the centaurs, trojans, and the trans-Neptunian objects (Kuiper belt objects, scattered disc objects, sednoids, and Oort cloud objects.)\nCeres, the only object in the asteroid belt large enough to be classified as a dwarf planet, is about 950 km in diameter, whereas Vesta, Pallas, and Hygiea have mean diameters less than 600 km. The remaining mineralogically classified bodies range in size down to a few metres. The asteroid material is so thinly distributed that numerous uncrewed spacecraft have traversed it without incident. Nonetheless, collisions between large asteroids occur and can produce an asteroid family, whose members have similar orbital characteristics and compositions. Individual asteroids within the belt are categorized by their spectra, with most falling into three basic groups: carbonaceous (C-type), silicate (S-type), and X-type, which includes metal-rich asteroids.\nThe asteroid belt formed from the primordial solar nebula as a group of planetesimals, the smaller precursors of the protoplanets. However, gravitational perturbations from Mars and Jupiter disrupted their accretion into a planet, imparting excess kinetic energy which shattered colliding planetesimals and most of the incipient protoplanets. As a result, 99.9% of the asteroid belt's original mass was lost in the first 100 million years of the Solar System's history. Some fragments eventually found their way into the inner Solar System, leading to meteorite impacts with the inner planets. Asteroid orbits continue to be appreciably perturbed whenever their period of revolution about the Sun forms an orbital resonance with Jupiter. At these orbital distances, a Kirkwood gap occurs as they are swept into other orbits.",
+  "sections": [
+   {
+    "heading": "History of observation",
+    "text": "In 1596, Johannes Kepler wrote, \"Between Mars and Jupiter, I place a planet,\" in his Mysterium Cosmographicum, stating his prediction that a planet would be found there. While analyzing Tycho Brahe's data, Kepler thought that too large a gap existed between the orbits of Mars and Jupiter to fit his own model of where planetary orbits should be found.\nIn an anonymous footnote to his 1766 translation of Charles Bonnet's Contemplation de la Nature, the astronomer Johann Daniel Titius of Wittenberg noted an apparent pattern in the layout of the planets, now known as the Titius-Bode Law. If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48). In his footnote, Titius declared, \"But should the Lord Architect have left that space empty? Not at all.\" When William Herschel discovered Uranus in 1781, the planet's orbit closely matched the law, leading some astronomers to conclude that a planet had to be between the orbits of Mars and Jupiter.\nOn January 1, 1801, Giuseppe Piazzi, chairman of astronomy at the University of Palermo, Sicily, found a tiny moving object in an orbit with exactly the radius predicted by this pattern. He dubbed it \"Ceres\", after the Roman goddess of the harvest and patron of Sicily. Piazzi initially believed it to be a comet, but its lack of a coma suggested it was a planet.\nThus, the aforementioned pattern predicted the semimajor axes of all eight planets of the time (Mercury, Venus, Earth, Mars, Ceres, Jupiter, Saturn, and Uranus). Concurrent with the discovery of Ceres, an informal group of 24 astronomers dubbed the \"Celestial police\" was formed under the invitation of Franz Xaver von Zach with the express purpose of finding additional planets; they focused their search for them in the region between Mars and Jupiter where the Titius–Bode law predicted there should be a planet.\nAbout 15 months later, Heinrich Olbers, a member of the Celestial police, discovered a second object in the same region, Pallas. Unlike the other known planets, Ceres and Pallas remained points of light even under the highest telescope magnifications instead of resolving into discs. Apart from their rapid movement, they appeared indistinguishable from stars.\nAccordingly, in 1802, William Herschel suggested they be placed into a separate category, named \"asteroids\", after the Greek asteroeides, meaning \"star-like\". Upon completing a series of observations of Ceres and Pallas, he concluded,\nNeither the appellation of planets nor that of comets can with any propriety of language be given to these two stars ... They resemble small stars so much as hardly to be distinguished from them. From this, their asteroidal appearance, if I take my name, and call them Asteroids; reserving for myself, however, the liberty of changing that name, if another, more expressive of their nature, should occur.\nBy 1807, further investigation revealed two new objects in the region: Juno and Vesta. The burning of Lilienthal in the Napoleonic Wars, where the main body of work had been done, brought this first period of discovery to a close.\nDespite Herschel's coinage, for several decades it remained common practice to refer to these objects as planets and to prefix their names with numbers representing their sequence of discovery: 1 Ceres, 2 Pallas, 3 Juno, 4 Vesta. In 1845, though, the astronomer Karl Ludwig Hencke detected a fifth object (5 Astraea) and, shortly thereafter, new objects were found at an accelerating rate. Counting them among the planets became increasingly cumbersome. Eventually, they were dropped from the planet list (as first suggested by Alexander von Humboldt in the early 1850s) and Herschel's coinage, \"asteroids\", gradually came into common use.\nThe discovery of Neptune in 1846 led to the discrediting of the Titius–Bode law in the eyes of scientists because its orbit was nowhere near the predicted position. To date, no scientific explanation for the law has been given, and astronomers' consensus regards it as a coincidence.\nThe expression \"asteroid belt\" came into use in the early 1850s, although pinpointing who coined the term is difficult. The first English use seems to be in the 1850 translation (by Elise Otté) of Alexander von Humboldt's Cosmos: \"[...] and the regular appearance, about the 13th of November and the 11th of August, of shooting stars, which probably form part of a belt of asteroids intersecting the Earth's orbit and moving with planetary velocity\". Another early appearance occurred in Robert James Mann's A Guide to the Knowledge of the Heavens: \"The orbits of the asteroids are placed in a wide belt of space, extending between the extremes of [...]\". The American astronomer Benjamin Peirce seems to have adopted that terminology and to have been one of its promoters.\nOver 100 asteroids had been located by mid-1868, and in 1891, the introduction of astrophotography by Max Wolf accelerated the rate of discovery. A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000. Modern asteroid survey systems now use automated means to locate new minor planets in ever-increasing numbers.\nOn 22 January 2014, European Space Agency (ESA) scientists reported the detection, for the first definitive time, of water vapor on Ceres, the largest object in the asteroid belt. The detection was made by using the far-infrared abilities of the Herschel Space Observatory. The finding was unexpected because comets, not asteroids, are typically considered to \"sprout jets and plumes\". According to one of the scientists, \"The lines are becoming more and more blurred between comets and asteroids\"."
+   },
+   {
+    "heading": "Origin",
+    "text": "In 1802, shortly after discovering Pallas, Olbers suggested to Herschel and Carl Gauss that Ceres and Pallas were fragments of a much larger planet that once occupied the Mars–Jupiter region, with this planet having suffered an internal explosion or a cometary impact many million years before, while Odesan astronomer K. N. Savchenko suggested that Ceres, Pallas, Juno, and Vesta were escaped moons rather than fragments of the exploded planet. The large amount of energy required to destroy a planet, combined with the belt's low combined mass, which is only about 4% of the mass of Earth's Moon, does not support these hypotheses. Further, the significant chemical differences between the asteroids become difficult to explain if they come from the same planet.\nA modern hypothesis for the asteroid belt's creation relates to the long-standing nebular hypothesis; a cloud of interstellar dust and gas collapsed under the influence of gravity to form a rotating disc of material that then conglomerated to form the Sun and planets. During the first few million years of the Solar System's history, an accretion process of sticky collisions caused the clumping of small particles, which gradually increased in size. Once the clumps reached sufficient mass, they could draw in other bodies through gravitational attraction and become planetesimals. This gravitational accretion led to the formation of the planets.\nPlanetesimals within the region that would become the asteroid belt were strongly perturbed by Jupiter's gravity. Orbital resonances occurred where the orbital period of an object in the belt formed an integer fraction of the orbital period of Jupiter, perturbing the object into a different orbit; the region lying between the orbits of Mars and Jupiter contains many such orbital resonances. As Jupiter migrated inward following its formation, these resonances would have swept across the asteroid belt, dynamically exciting the region's population and increasing their velocities relative to each other. In regions where the average velocity of the collisions was too high, the shattering of planetesimals tended to dominate over accretion, preventing the formation of a planet. Instead, they continued to orbit the Sun as before, occasionally colliding.\nDuring the early history of the Solar System, the asteroids melted to some degree, allowing elements within them to be differentiated by mass. Some of the progenitor bodies may even have undergone periods of explosive volcanism and formed magma oceans. Because of the relatively small size of the bodies, though, the period of melting was necessarily brief compared to the much larger planets, and had generally ended about 4.5 billion years ago, in the first tens of millions of years of formation. In August 2007, a study of zircon crystals in an Antarctic meteorite believed to have originated from Vesta suggested that it, and by extension the rest of the asteroid belt, had formed rather quickly, within 10 million years of the Solar System's origin.\nThe asteroids are not pristine samples of the primordial Solar System. They have undergone considerable evolution since their formation, including internal heating (in the first few tens of millions of years), surface melting from impacts, space weathering from radiation, and bombardment by micrometeorites. Although some scientists refer to the asteroids as residual planetesimals, other scientists consider them distinct.\nThe current asteroid belt is believed to contain only a small fraction of the mass of the primordial belt. Computer simulations suggest that the original asteroid belt may have contained mass equivalent to the Earth's. Primarily because of gravitational perturbations, most of the material was ejected from the belt within about 1 million years of formation, leaving behind less than 0.1% of the original mass. Since its formation, the size distribution of the asteroid belt has remained relatively stable; no significant increase or decrease in the typical dimensions of the main-belt asteroids has occurred.\nThe 4:1 orbital resonance with Jupiter, at a radius 2.06 astronomical units (AUs), can be considered the inner boundary of the asteroid belt. Perturbations by Jupiter send bodies straying there into unstable orbits. Most bodies formed within the radius of this gap were swept up by Mars (which has an aphelion at 1.67 AU) or ejected by its gravitational perturbations in the early history of the Solar System. The Hungaria asteroids lie closer to the Sun than the 4:1 resonance, but are protected from disruption by their high inclination.\nWhen the asteroid belt was first formed, the temperatures at a distance of 2.7 AU from the Sun formed a \"snow line\" below the freezing point of water. Planetesimals formed beyond this radius were able to accumulate ice.\nIn 2006, a population of comets had been discovered within the asteroid belt beyond the snow line, which may have provided a source of water for Earth's oceans. According to some models, outgassing of water during the Earth's formative period was insufficient to form the oceans, requiring an external source such as a cometary bombardment.\nThe outer asteroid belt includes a few icy objects that may have been implanted there during the last few hundred years. One of these objects is the quasi-Hilda comet 362P/(457175) 2008 GO98, which is thought to be a possible former centaur that was sent to the outer asteroid belt via a close encounter with Jupiter."
+   },
+   {
+    "heading": "Characteristics",
+    "text": "Contrary to popular imagery, the asteroid belt is mostly empty. The asteroids are spread over such a large volume that reaching an asteroid without aiming carefully would be improbable. Nonetheless, hundreds of thousands of asteroids are currently known, and the total number ranges in the millions or more, depending on the lower size cutoff. Over 200 asteroids are larger than 100 km, and a survey in the infrared wavelengths has shown that the asteroid belt has between 700,000 and 1.7 million asteroids with a diameter of 1 km or more.\nThe number of asteroids in the main belt steadily increases with decreasing size. Although the size distribution generally follows a power law, there are 'bumps' in the curve at about 5 km and 100 km, where more asteroids than expected from such a curve are found. Most asteroids larger than approximately 120 km in diameter are primordial, having survived from the accretion epoch, whereas most smaller asteroids are products of fragmentation of primordial asteroids. The primordial population of the main belt was probably 200 times what it is today.\nOn average the distance between the asteroids is about 965,600 km (600,000 miles), although this varies among asteroid families and smaller undetected asteroids might be even closer. The total mass of the asteroid belt is estimated to be 2.39×1021 kg, which is 3% of the mass of the Moon. The four largest objects, Ceres, Vesta, Pallas, and Hygiea, contain an estimated 62% of the belt's total mass, with 39% accounted for by Ceres alone. The asteroid belt can be categorized into two parts: an inner belt containing mostly silicate-rich asteroids, 2.8 AU from the Sun, and an outer belt, containing mostly asteroids rich in carbon, at 3.2 AU.\nThe present day belt consists primarily of three categories of asteroids: C-type carbonaceous asteroids, S-type silicate asteroids, and a hybrid group of X-type asteroids. The hybrid group have featureless spectra, but they can be divided into three groups based on reflectivity, yielding the M-type metallic, P-type primitive, and E-type enstatite asteroids. Additional types have been found that do not fit within these primary classes. There is a compositional trend of asteroid types by increasing distance from the Sun, in the order of S, C, P, and the spectrally-featureless D-types.\nCarbonaceous asteroids, as their name suggests, are carbon-rich. They dominate the asteroid belt's outer regions, and are rare in the inner belt. Together they comprise over 75% of the visible asteroids. They are redder in hue than the other asteroids and have a low albedo. Their surface compositions are similar to carbonaceous chondrite meteorites. Chemically, their spectra match the primordial composition of the early Solar System, with hydrogen, helium, and volatiles removed.\nS-type (silicate-rich) asteroids are more common toward the inner region of the belt, within 2.5 AU of the Sun. The spectra of their surfaces reveal the presence of silicates and some metal, but no significant carbonaceous compounds. This indicates that their materials have been significantly modified from their primordial composition, probably through melting and reformation. They have a relatively high albedo and form about 17% of the total asteroid population.\nM-type (metal-rich) asteroids are typically found in the middle of the main belt, and they make up much of the remainder of the total population. Their spectra resemble that of iron-nickel. Some are believed to have formed from the metallic cores of differentiated progenitor bodies that were disrupted through collision. However, some silicate compounds also can produce a similar appearance. For example, the large M-type asteroid 22 Kalliope does not appear to be primarily composed of metal. Within the asteroid belt, the number distribution of M-type asteroids peaks at a semimajor axis of about 2.7 AU. Whether all M-types are compositionally similar, or whether it is a label for several varieties which do not fit neatly into the main C and S classes is not yet clear.\nOne mystery is the relative rarity of V-type (Vestoid) or basaltic asteroids in the asteroid belt. Theories of asteroid formation predict that objects the size of Vesta or larger should form crusts and mantles, which would be composed mainly of basaltic rock, resulting in more than half of all asteroids being composed either of basalt or of olivine. However, observations suggest that 99% of the predicted basaltic material is missing. Until 2001, most basaltic bodies discovered in the asteroid belt were believed to originate from the asteroid Vesta (hence their name V-type), but the discovery of the asteroid 1459 Magnya revealed a slightly different chemical composition from the other basaltic asteroids discovered until then, suggesting a different origin. This hypothesis was reinforced by the further discovery in 2007 of two asteroids in the outer belt, 7472 Kumakiri and (10537) 1991 RY16, with a differing basaltic composition that could not have originated from Vesta. These two are the only V-type asteroids discovered in the outer belt to date.\nThe temperature of the asteroid belt varies with the distance from the Sun. For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU. However, due to rotation, the surface temperature of an asteroid can vary considerably as the sides are alternately exposed to solar radiation then to the stellar background.\nSeveral otherwise unremarkable bodies in the outer belt show cometary activity. Because their orbits cannot be explained through the capture of classical comets, many of the outer asteroids are thought to be icy, with the ice occasionally exposed to sublimation through small impacts. Main-belt comets may have been a major source of the Earth's oceans because the deuterium-hydrogen ratio is too low for classical comets to have been the principal source.\nMost asteroids within the asteroid belt have orbital eccentricities of less than 0.4, and an inclination of less than 30°. The orbital distribution of the asteroids reaches a maximum at an eccentricity around 0.07 and an inclination below 4°. Thus, although a typical asteroid has a relatively circular orbit and lies near the plane of the ecliptic, some asteroid orbits can be highly eccentric or travel well outside the ecliptic plane.\nSometimes, the term \"main belt\" is used to refer only to the more compact \"core\" region where the greatest concentration of bodies is found. This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°. As of 2006, this \"core\" region contained 93% of all discovered and numbered minor planets within the Solar System. The JPL Small-Body Database lists over 1 million known main-belt asteroids.\nThe semimajor axis of an asteroid is used to describe the dimensions of its orbit around the Sun, and its value determines the minor planet's orbital period. In 1866, Daniel Kirkwood announced the discovery of gaps in the distances of these bodies' orbits from the Sun. They were located in positions where their period of revolution about the Sun was an integer fraction of Jupiter's orbital period. Kirkwood proposed that the gravitational perturbations of the planet led to the removal of asteroids from these orbits.\nWhen the mean orbital period of an asteroid is an integer fraction of the orbital period of Jupiter, a mean-motion resonance with the gas giant is created that is sufficient to perturb an asteroid to new orbital elements. Primordial asteroids entered these gaps because of the migration of Jupiter's orbit. Subsequently, asteroids primarily migrate into these gap orbits due to the Yarkovsky effect, but may also enter because of perturbations or collisions. After entering, an asteroid is gradually nudged into a different, random orbit with a larger or smaller semimajor axis."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 3,
+   "unit": "%",
+   "surface": "3%",
+   "sentence": "Its total mass is estimated to be 3% that of the Moon, with about 60% contained in the four largest asteroids: Ceres, Vesta, Pallas, and Hygiea."
+  },
+  "f2": {
+   "kind": "measure",
+   "value": 60,
+   "unit": "%",
+   "surface": "60%",
+   "sentence": "Its total mass is estimated to be 3% that of the Moon, with about 60% contained in the four largest asteroids: Ceres, Vesta, Pallas, and Hygiea."
+  },
+  "f3": {
+   "kind": "measure",
+   "value": 950,
+   "unit": "km",
+   "surface": "950 km",
+   "sentence": "Ceres, the only object in the asteroid belt large enough to be classified as a dwarf planet, is about 950 km in diameter, whereas Vesta, Pallas, and Hygiea have mean diameters less than 600 km."
+  },
+  "f4": {
+   "kind": "measure",
+   "value": 600,
+   "unit": "km",
+   "surface": "600 km",
+   "sentence": "Ceres, the only object in the asteroid belt large enough to be classified as a dwarf planet, is about 950 km in diameter, whereas Vesta, Pallas, and Hygiea have mean diameters less than 600 km."
+  },
+  "f5": {
+   "kind": "measure",
+   "value": 99.9,
+   "unit": "%",
+   "surface": "99.9%",
+   "sentence": "As a result, 99.9% of the asteroid belt's original mass was lost in the first 100 million years of the Solar System's history."
+  },
+  "f6": {
+   "kind": "measure",
+   "value": 100000000,
+   "unit": "years",
+   "surface": "100 million years",
+   "sentence": "As a result, 99.9% of the asteroid belt's original mass was lost in the first 100 million years of the Solar System's history."
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1596",
+   "surface": "1596",
+   "sentence": "In 1596, Johannes Kepler wrote, \"Between Mars and Jupiter, I place a planet,\" in his Mysterium Cosmographicum, stating his prediction that a planet would be found there.",
+   "section": "History of observation"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1766",
+   "surface": "1766",
+   "sentence": "In an anonymous footnote to his 1766 translation of Charles Bonnet's Contemplation de la Nature, the astronomer Johann Daniel Titius of Wittenberg noted an apparent pattern in the layout of the planets, now known as the Titius-Bode Law.",
+   "section": "History of observation"
+  },
+  "f9": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f10": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f11": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f12": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f13": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 48,
+   "surface": "48",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 48,
+   "surface": "48",
+   "sentence": "If one began a numerical sequence at 0, then included 3, 6, 12, 24, 48, etc., doubling each time, and added four to each number and divided by 10, this produced a remarkably close approximation to the radii of the orbits of the known planets as measured in astronomical units, provided one allowed for a \"missing planet\" (equivalent to 24 in the sequence) between the orbits of Mars (12) and Jupiter (48).",
+   "section": "History of observation"
+  },
+  "f19": {
+   "kind": "date",
+   "value": "1781",
+   "surface": "1781",
+   "sentence": "When William Herschel discovered Uranus in 1781, the planet's orbit closely matched the law, leading some astronomers to conclude that a planet had to be between the orbits of Mars and Jupiter.",
+   "section": "History of observation"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "On January 1, 1801, Giuseppe Piazzi, chairman of astronomy at the University of Palermo, Sicily, found a tiny moving object in an orbit with exactly the radius predicted by this pattern.",
+   "section": "History of observation"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1801",
+   "surface": "1801",
+   "sentence": "On January 1, 1801, Giuseppe Piazzi, chairman of astronomy at the University of Palermo, Sicily, found a tiny moving object in an orbit with exactly the radius predicted by this pattern.",
+   "section": "History of observation"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "Concurrent with the discovery of Ceres, an informal group of 24 astronomers dubbed the \"Celestial police\" was formed under the invitation of Franz Xaver von Zach with the express purpose of finding additional planets; they focused their search for them in the region between Mars and Jupiter where the Titius–Bode law predicted there should be a planet.",
+   "section": "History of observation"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 15,
+   "surface": "15",
+   "sentence": "About 15 months later, Heinrich Olbers, a member of the Celestial police, discovered a second object in the same region, Pallas.",
+   "section": "History of observation"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1802",
+   "surface": "1802",
+   "sentence": "Accordingly, in 1802, William Herschel suggested they be placed into a separate category, named \"asteroids\", after the Greek asteroeides, meaning \"star-like\".",
+   "section": "History of observation"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1807",
+   "surface": "1807",
+   "sentence": "By 1807, further investigation revealed two new objects in the region: Juno and Vesta.",
+   "section": "History of observation"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Despite Herschel's coinage, for several decades it remained common practice to refer to these objects as planets and to prefix their names with numbers representing their sequence of discovery: 1 Ceres, 2 Pallas, 3 Juno, 4 Vesta.",
+   "section": "History of observation"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Despite Herschel's coinage, for several decades it remained common practice to refer to these objects as planets and to prefix their names with numbers representing their sequence of discovery: 1 Ceres, 2 Pallas, 3 Juno, 4 Vesta.",
+   "section": "History of observation"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Despite Herschel's coinage, for several decades it remained common practice to refer to these objects as planets and to prefix their names with numbers representing their sequence of discovery: 1 Ceres, 2 Pallas, 3 Juno, 4 Vesta.",
+   "section": "History of observation"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Despite Herschel's coinage, for several decades it remained common practice to refer to these objects as planets and to prefix their names with numbers representing their sequence of discovery: 1 Ceres, 2 Pallas, 3 Juno, 4 Vesta.",
+   "section": "History of observation"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1845",
+   "surface": "1845",
+   "sentence": "In 1845, though, the astronomer Karl Ludwig Hencke detected a fifth object (5 Astraea) and, shortly thereafter, new objects were found at an accelerating rate.",
+   "section": "History of observation"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "In 1845, though, the astronomer Karl Ludwig Hencke detected a fifth object (5 Astraea) and, shortly thereafter, new objects were found at an accelerating rate.",
+   "section": "History of observation"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1846",
+   "surface": "1846",
+   "sentence": "The discovery of Neptune in 1846 led to the discrediting of the Titius–Bode law in the eyes of scientists because its orbit was nowhere near the predicted position.",
+   "section": "History of observation"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1850",
+   "surface": "1850",
+   "sentence": "The first English use seems to be in the 1850 translation (by Elise Otté) of Alexander von Humboldt's Cosmos: \"[...] and the regular appearance, about the 13th of November and the 11th of August, of shooting stars, which probably form part of a belt of asteroids intersecting the Earth's orbit and moving with planetary velocity\".",
+   "section": "History of observation"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "Over 100 asteroids had been located by mid-1868, and in 1891, the introduction of astrophotography by Max Wolf accelerated the rate of discovery.",
+   "section": "History of observation"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1891",
+   "surface": "1891",
+   "sentence": "Over 100 asteroids had been located by mid-1868, and in 1891, the introduction of astrophotography by Max Wolf accelerated the rate of discovery.",
+   "section": "History of observation"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 1000,
+   "surface": "1,000",
+   "sentence": "A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000.",
+   "section": "History of observation"
+  },
+  "f37": {
+   "kind": "date",
+   "value": "1921",
+   "surface": "1921",
+   "sentence": "A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000.",
+   "section": "History of observation"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 10000,
+   "surface": "10,000",
+   "sentence": "A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000.",
+   "section": "History of observation"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "1981",
+   "surface": "1981",
+   "sentence": "A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000.",
+   "section": "History of observation"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 100000,
+   "surface": "100,000",
+   "sentence": "A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000.",
+   "section": "History of observation"
+  },
+  "f41": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000",
+   "sentence": "A total of 1,000 asteroids had been found by 1921, 10,000 by 1981, and 100,000 by 2000.",
+   "section": "History of observation"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 22,
+   "surface": "22",
+   "sentence": "On 22 January 2014, European Space Agency (ESA) scientists reported the detection, for the first definitive time, of water vapor on Ceres, the largest object in the asteroid belt.",
+   "section": "History of observation"
+  },
+  "f43": {
+   "kind": "date",
+   "value": "2014",
+   "surface": "2014",
+   "sentence": "On 22 January 2014, European Space Agency (ESA) scientists reported the detection, for the first definitive time, of water vapor on Ceres, the largest object in the asteroid belt.",
+   "section": "History of observation"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "1802",
+   "surface": "1802",
+   "sentence": "In 1802, shortly after discovering Pallas, Olbers suggested to Herschel and Carl Gauss that Ceres and Pallas were fragments of a much larger planet that once occupied the Mars–Jupiter region, with this planet having suffered an internal explosion or a cometary impact many million years before, while Odesan astronomer K. N. Savchenko suggested that Ceres, Pallas, Juno, and Vesta were escaped moons rather than fragments of the exploded planet.",
+   "section": "Origin"
+  },
+  "f45": {
+   "kind": "measure",
+   "value": 4,
+   "unit": "%",
+   "surface": "4%",
+   "sentence": "The large amount of energy required to destroy a planet, combined with the belt's low combined mass, which is only about 4% of the mass of Earth's Moon, does not support these hypotheses.",
+   "section": "Origin"
+  },
+  "f46": {
+   "kind": "measure",
+   "value": 4500000000,
+   "unit": "years",
+   "surface": "4.5 billion years",
+   "sentence": "Because of the relatively small size of the bodies, though, the period of melting was necessarily brief compared to the much larger planets, and had generally ended about 4.5 billion years ago, in the first tens of millions of years of formation.",
+   "section": "Origin"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007",
+   "sentence": "In August 2007, a study of zircon crystals in an Antarctic meteorite believed to have originated from Vesta suggested that it, and by extension the rest of the asteroid belt, had formed rather quickly, within 10 million years of the Solar System's origin.",
+   "section": "Origin"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 10000000,
+   "unit": "years",
+   "surface": "10 million years",
+   "sentence": "In August 2007, a study of zircon crystals in an Antarctic meteorite believed to have originated from Vesta suggested that it, and by extension the rest of the asteroid belt, had formed rather quickly, within 10 million years of the Solar System's origin.",
+   "section": "Origin"
+  },
+  "f49": {
+   "kind": "measure",
+   "value": 1000000,
+   "unit": "years",
+   "surface": "1 million years",
+   "sentence": "Primarily because of gravitational perturbations, most of the material was ejected from the belt within about 1 million years of formation, leaving behind less than 0.1% of the original mass.",
+   "section": "Origin"
+  },
+  "f50": {
+   "kind": "measure",
+   "value": 0.1,
+   "unit": "%",
+   "surface": "0.1%",
+   "sentence": "Primarily because of gravitational perturbations, most of the material was ejected from the belt within about 1 million years of formation, leaving behind less than 0.1% of the original mass.",
+   "section": "Origin"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "The 4:1 orbital resonance with Jupiter, at a radius 2.06 astronomical units (AUs), can be considered the inner boundary of the asteroid belt.",
+   "section": "Origin"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The 4:1 orbital resonance with Jupiter, at a radius 2.06 astronomical units (AUs), can be considered the inner boundary of the asteroid belt.",
+   "section": "Origin"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 2.06,
+   "surface": "2.06",
+   "sentence": "The 4:1 orbital resonance with Jupiter, at a radius 2.06 astronomical units (AUs), can be considered the inner boundary of the asteroid belt.",
+   "section": "Origin"
+  },
+  "f54": {
+   "kind": "measure",
+   "value": 1.67,
+   "unit": "au",
+   "surface": "1.67 AU",
+   "sentence": "Most bodies formed within the radius of this gap were swept up by Mars (which has an aphelion at 1.67 AU) or ejected by its gravitational perturbations in the early history of the Solar System.",
+   "section": "Origin"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "The Hungaria asteroids lie closer to the Sun than the 4:1 resonance, but are protected from disruption by their high inclination.",
+   "section": "Origin"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The Hungaria asteroids lie closer to the Sun than the 4:1 resonance, but are protected from disruption by their high inclination.",
+   "section": "Origin"
+  },
+  "f57": {
+   "kind": "measure",
+   "value": 2.7,
+   "unit": "au",
+   "surface": "2.7 AU",
+   "sentence": "When the asteroid belt was first formed, the temperatures at a distance of 2.7 AU from the Sun formed a \"snow line\" below the freezing point of water.",
+   "section": "Origin"
+  },
+  "f58": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "In 2006, a population of comets had been discovered within the asteroid belt beyond the snow line, which may have provided a source of water for Earth's oceans.",
+   "section": "Origin"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 457175,
+   "surface": "457175",
+   "sentence": "One of these objects is the quasi-Hilda comet 362P/(457175) 2008 GO98, which is thought to be a possible former centaur that was sent to the outer asteroid belt via a close encounter with Jupiter.",
+   "section": "Origin"
+  },
+  "f60": {
+   "kind": "date",
+   "value": "2008",
+   "surface": "2008",
+   "sentence": "One of these objects is the quasi-Hilda comet 362P/(457175) 2008 GO98, which is thought to be a possible former centaur that was sent to the outer asteroid belt via a close encounter with Jupiter.",
+   "section": "Origin"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "Over 200 asteroids are larger than 100 km, and a survey in the infrared wavelengths has shown that the asteroid belt has between 700,000 and 1.7 million asteroids with a diameter of 1 km or more.",
+   "section": "Characteristics"
+  },
+  "f62": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "km",
+   "surface": "100 km",
+   "sentence": "Over 200 asteroids are larger than 100 km, and a survey in the infrared wavelengths has shown that the asteroid belt has between 700,000 and 1.7 million asteroids with a diameter of 1 km or more.",
+   "section": "Characteristics"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 700000,
+   "surface": "700,000",
+   "sentence": "Over 200 asteroids are larger than 100 km, and a survey in the infrared wavelengths has shown that the asteroid belt has between 700,000 and 1.7 million asteroids with a diameter of 1 km or more.",
+   "section": "Characteristics"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 1700000,
+   "surface": "1.7 million",
+   "sentence": "Over 200 asteroids are larger than 100 km, and a survey in the infrared wavelengths has shown that the asteroid belt has between 700,000 and 1.7 million asteroids with a diameter of 1 km or more.",
+   "section": "Characteristics"
+  },
+  "f65": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "km",
+   "surface": "1 km",
+   "sentence": "Over 200 asteroids are larger than 100 km, and a survey in the infrared wavelengths has shown that the asteroid belt has between 700,000 and 1.7 million asteroids with a diameter of 1 km or more.",
+   "section": "Characteristics"
+  },
+  "f66": {
+   "kind": "measure",
+   "value": 5,
+   "unit": "km",
+   "surface": "5 km",
+   "sentence": "Although the size distribution generally follows a power law, there are 'bumps' in the curve at about 5 km and 100 km, where more asteroids than expected from such a curve are found.",
+   "section": "Characteristics"
+  },
+  "f67": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "km",
+   "surface": "100 km",
+   "sentence": "Although the size distribution generally follows a power law, there are 'bumps' in the curve at about 5 km and 100 km, where more asteroids than expected from such a curve are found.",
+   "section": "Characteristics"
+  },
+  "f68": {
+   "kind": "measure",
+   "value": 120,
+   "unit": "km",
+   "surface": "120 km",
+   "sentence": "Most asteroids larger than approximately 120 km in diameter are primordial, having survived from the accretion epoch, whereas most smaller asteroids are products of fragmentation of primordial asteroids.",
+   "section": "Characteristics"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "The primordial population of the main belt was probably 200 times what it is today.",
+   "section": "Characteristics"
+  },
+  "f70": {
+   "kind": "measure",
+   "value": 965600,
+   "unit": "km",
+   "surface": "965,600 km",
+   "sentence": "On average the distance between the asteroids is about 965,600 km (600,000 miles), although this varies among asteroid families and smaller undetected asteroids might be even closer.",
+   "section": "Characteristics"
+  },
+  "f71": {
+   "kind": "measure",
+   "value": 600000,
+   "unit": "miles",
+   "surface": "600,000 miles",
+   "sentence": "On average the distance between the asteroids is about 965,600 km (600,000 miles), although this varies among asteroid families and smaller undetected asteroids might be even closer.",
+   "section": "Characteristics"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 2.39,
+   "surface": "2.39",
+   "sentence": "The total mass of the asteroid belt is estimated to be 2.39×1021 kg, which is 3% of the mass of the Moon.",
+   "section": "Characteristics"
+  },
+  "f73": {
+   "kind": "measure",
+   "value": 1021,
+   "unit": "kg",
+   "surface": "1021 kg",
+   "sentence": "The total mass of the asteroid belt is estimated to be 2.39×1021 kg, which is 3% of the mass of the Moon.",
+   "section": "Characteristics"
+  },
+  "f74": {
+   "kind": "measure",
+   "value": 3,
+   "unit": "%",
+   "surface": "3%",
+   "sentence": "The total mass of the asteroid belt is estimated to be 2.39×1021 kg, which is 3% of the mass of the Moon.",
+   "section": "Characteristics"
+  },
+  "f75": {
+   "kind": "measure",
+   "value": 62,
+   "unit": "%",
+   "surface": "62%",
+   "sentence": "The four largest objects, Ceres, Vesta, Pallas, and Hygiea, contain an estimated 62% of the belt's total mass, with 39% accounted for by Ceres alone.",
+   "section": "Characteristics"
+  },
+  "f76": {
+   "kind": "measure",
+   "value": 39,
+   "unit": "%",
+   "surface": "39%",
+   "sentence": "The four largest objects, Ceres, Vesta, Pallas, and Hygiea, contain an estimated 62% of the belt's total mass, with 39% accounted for by Ceres alone.",
+   "section": "Characteristics"
+  },
+  "f77": {
+   "kind": "measure",
+   "value": 2.8,
+   "unit": "au",
+   "surface": "2.8 AU",
+   "sentence": "The asteroid belt can be categorized into two parts: an inner belt containing mostly silicate-rich asteroids, 2.8 AU from the Sun, and an outer belt, containing mostly asteroids rich in carbon, at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f78": {
+   "kind": "measure",
+   "value": 3.2,
+   "unit": "au",
+   "surface": "3.2 AU",
+   "sentence": "The asteroid belt can be categorized into two parts: an inner belt containing mostly silicate-rich asteroids, 2.8 AU from the Sun, and an outer belt, containing mostly asteroids rich in carbon, at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f79": {
+   "kind": "measure",
+   "value": 75,
+   "unit": "%",
+   "surface": "75%",
+   "sentence": "Together they comprise over 75% of the visible asteroids.",
+   "section": "Characteristics"
+  },
+  "f80": {
+   "kind": "measure",
+   "value": 2.5,
+   "unit": "au",
+   "surface": "2.5 AU",
+   "sentence": "S-type (silicate-rich) asteroids are more common toward the inner region of the belt, within 2.5 AU of the Sun.",
+   "section": "Characteristics"
+  },
+  "f81": {
+   "kind": "measure",
+   "value": 17,
+   "unit": "%",
+   "surface": "17%",
+   "sentence": "They have a relatively high albedo and form about 17% of the total asteroid population.",
+   "section": "Characteristics"
+  },
+  "f82": {
+   "kind": "number",
+   "value": 22,
+   "surface": "22",
+   "sentence": "For example, the large M-type asteroid 22 Kalliope does not appear to be primarily composed of metal.",
+   "section": "Characteristics"
+  },
+  "f83": {
+   "kind": "measure",
+   "value": 2.7,
+   "unit": "au",
+   "surface": "2.7 AU",
+   "sentence": "Within the asteroid belt, the number distribution of M-type asteroids peaks at a semimajor axis of about 2.7 AU.",
+   "section": "Characteristics"
+  },
+  "f84": {
+   "kind": "measure",
+   "value": 99,
+   "unit": "%",
+   "surface": "99%",
+   "sentence": "However, observations suggest that 99% of the predicted basaltic material is missing.",
+   "section": "Characteristics"
+  },
+  "f85": {
+   "kind": "date",
+   "value": "2001",
+   "surface": "2001",
+   "sentence": "Until 2001, most basaltic bodies discovered in the asteroid belt were believed to originate from the asteroid Vesta (hence their name V-type), but the discovery of the asteroid 1459 Magnya revealed a slightly different chemical composition from the other basaltic asteroids discovered until then, suggesting a different origin.",
+   "section": "Characteristics"
+  },
+  "f86": {
+   "kind": "date",
+   "value": "1459",
+   "surface": "1459",
+   "sentence": "Until 2001, most basaltic bodies discovered in the asteroid belt were believed to originate from the asteroid Vesta (hence their name V-type), but the discovery of the asteroid 1459 Magnya revealed a slightly different chemical composition from the other basaltic asteroids discovered until then, suggesting a different origin.",
+   "section": "Characteristics"
+  },
+  "f87": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007",
+   "sentence": "This hypothesis was reinforced by the further discovery in 2007 of two asteroids in the outer belt, 7472 Kumakiri and (10537) 1991 RY16, with a differing basaltic composition that could not have originated from Vesta.",
+   "section": "Characteristics"
+  },
+  "f88": {
+   "kind": "number",
+   "value": 7472,
+   "surface": "7472",
+   "sentence": "This hypothesis was reinforced by the further discovery in 2007 of two asteroids in the outer belt, 7472 Kumakiri and (10537) 1991 RY16, with a differing basaltic composition that could not have originated from Vesta.",
+   "section": "Characteristics"
+  },
+  "f89": {
+   "kind": "number",
+   "value": 10537,
+   "surface": "10537",
+   "sentence": "This hypothesis was reinforced by the further discovery in 2007 of two asteroids in the outer belt, 7472 Kumakiri and (10537) 1991 RY16, with a differing basaltic composition that could not have originated from Vesta.",
+   "section": "Characteristics"
+  },
+  "f90": {
+   "kind": "date",
+   "value": "1991",
+   "surface": "1991",
+   "sentence": "This hypothesis was reinforced by the further discovery in 2007 of two asteroids in the outer belt, 7472 Kumakiri and (10537) 1991 RY16, with a differing basaltic composition that could not have originated from Vesta.",
+   "section": "Characteristics"
+  },
+  "f91": {
+   "kind": "measure",
+   "value": 200,
+   "unit": "k",
+   "surface": "200 K",
+   "sentence": "For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f92": {
+   "kind": "measure",
+   "value": 73,
+   "unit": "°c",
+   "surface": "73 °C",
+   "sentence": "For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f93": {
+   "kind": "measure",
+   "value": 2.2,
+   "unit": "au",
+   "surface": "2.2 AU",
+   "sentence": "For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f94": {
+   "kind": "measure",
+   "value": 165,
+   "unit": "k",
+   "surface": "165 K",
+   "sentence": "For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f95": {
+   "kind": "measure",
+   "value": 108,
+   "unit": "°c",
+   "surface": "108 °C",
+   "sentence": "For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f96": {
+   "kind": "measure",
+   "value": 3.2,
+   "unit": "au",
+   "surface": "3.2 AU",
+   "sentence": "For dust particles within the belt, typical temperatures range from 200 K (−73 °C) at 2.2 AU down to 165 K (−108 °C) at 3.2 AU.",
+   "section": "Characteristics"
+  },
+  "f97": {
+   "kind": "number",
+   "value": 0.4,
+   "surface": "0.4",
+   "sentence": "Most asteroids within the asteroid belt have orbital eccentricities of less than 0.4, and an inclination of less than 30°.",
+   "section": "Characteristics"
+  },
+  "f98": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Most asteroids within the asteroid belt have orbital eccentricities of less than 0.4, and an inclination of less than 30°.",
+   "section": "Characteristics"
+  },
+  "f99": {
+   "kind": "number",
+   "value": 0.07,
+   "surface": "0.07",
+   "sentence": "The orbital distribution of the asteroids reaches a maximum at an eccentricity around 0.07 and an inclination below 4°.",
+   "section": "Characteristics"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "The orbital distribution of the asteroids reaches a maximum at an eccentricity around 0.07 and an inclination below 4°.",
+   "section": "Characteristics"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f102": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f103": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f104": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 2.06,
+   "surface": "2.06",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f106": {
+   "kind": "measure",
+   "value": 3.27,
+   "unit": "au",
+   "surface": "3.27 AU",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f107": {
+   "kind": "number",
+   "value": 0.33,
+   "surface": "0.33",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f108": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "This lies between the strong 4:1 and 2:1 Kirkwood gaps at 2.06 and 3.27 AU, and at orbital eccentricities less than roughly 0.33, along with orbital inclinations below about 20°.",
+   "section": "Characteristics"
+  },
+  "f109": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "As of 2006, this \"core\" region contained 93% of all discovered and numbered minor planets within the Solar System.",
+   "section": "Characteristics"
+  },
+  "f110": {
+   "kind": "measure",
+   "value": 93,
+   "unit": "%",
+   "surface": "93%",
+   "sentence": "As of 2006, this \"core\" region contained 93% of all discovered and numbered minor planets within the Solar System.",
+   "section": "Characteristics"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 1000000,
+   "surface": "1 million",
+   "sentence": "The JPL Small-Body Database lists over 1 million known main-belt asteroids.",
+   "section": "Characteristics"
+  },
+  "f112": {
+   "kind": "date",
+   "value": "1866",
+   "surface": "1866",
+   "sentence": "In 1866, Daniel Kirkwood announced the discovery of gaps in the distances of these bodies' orbits from the Sun.",
+   "section": "Characteristics"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Asteroid belt positions-en.png",
+   "w": 10500,
+   "h": 15285,
+   "alt": "Asteroid belt",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/960px-Asteroid_belt_positions-en.png",
+   "sha1": "9deef0f4312c2c1c6898e3ae36fdc494b603f771",
+   "credit": {
+    "author": "Thunkii",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Asteroid_belt_positions-en.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Asteroid groups and families",
+  "Asteroids",
+  "Main-belt asteroids",
+  "Solar System"
+ ]
+}

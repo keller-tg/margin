@@ -1,0 +1,1183 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-30",
+ "slot": "evening",
+ "lang": "en",
+ "topic": {
+  "title": "Protactinium",
+  "qid": "Q1109",
+  "pageid": 23322,
+  "revid": 1368849907,
+  "domain": "chemistry",
+  "url": "https://en.wikipedia.org/w/index.php?title=Protactinium&oldid=1368849907"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "Chemical element with atomic number 91 (Pa)",
+  "lead": "Protactinium is a chemical element; it has symbol Pa and atomic number 91. It is a dense, radioactive, silvery-gray actinide metal which readily reacts with oxygen, water vapor, and inorganic acids. It forms various chemical compounds, in which protactinium is usually present in the oxidation state +5, but it can also assume +4 and even +3 or +2 states. Concentrations of protactinium in the Earth's crust are typically a few parts per trillion, but may reach up to a few parts per million in some uraninite ore deposits. Because of its scarcity, high radioactivity, and high toxicity, there are currently no uses for protactinium outside scientific research, and for this purpose, protactinium is mostly extracted from spent nuclear fuel. It is also the only highly radioactive mononuclidic element that is not also monoisotopic, occurring almost exclusively through the decay of Uranium-235.\nThe element was first identified in 1913 by Kazimierz Fajans and Oswald Helmuth Göhring and named \"brevium\" because of the short half-life of the specific isotope studied, 234mPa. A more stable isotope of protactinium, 231Pa, was discovered in 1917/18 by Lise Meitner in collaboration with Otto Hahn, and they named the element protactinium. In 1949, the IUPAC chose the name \"protactinium\" and confirmed Hahn and Meitner as its discoverers. The new name meant \"(nuclear) precursor of actinium,\" suggesting that actinium is a product of radioactive decay of protactinium. John Arnold Cranston (working with Frederick Soddy and Ada Hitchins) is also credited with discovering the most stable isotope in 1915, but he delayed his announcement due to being called for service in the First World War.\nThe longest-lived and most abundant (nearly 100%) naturally occurring isotope of protactinium, 231Pa, has a half-life of 32,760 years and occurs in the decay chain of uranium-235. Much smaller trace amounts of the short-lived 234Pa and its nuclear isomer 234mPa occur in the decay chain of uranium-238. 233Pa occurs as a result of the decay of thorium-233 as part of the chain of events necessary to produce uranium-233 by neutron irradiation of 232Th. It is an undesired intermediate product in thorium-based nuclear reactors, and is therefore removed from the active zone of the reactor during the breeding process. Ocean science uses the element to understand the ancient ocean's geography: analysis of the relative concentrations of various uranium, thorium, and protactinium isotopes in water and minerals is used in radiometric dating of sediments up to 175,000 years old, and in modeling of various geological processes.\nProtactinium is unusual among non-primordial elements in that its natural isotopic composition is extremely uniform across typical terrestrial samples, because essentially all naturally occurring protactinium is 231Pa, produced solely along a single pathway (namely, from the decay of primordial 235U).",
+  "sections": [
+   {
+    "heading": "History",
+    "text": "In 1871, Dmitri Mendeleev predicted the existence of an element between thorium and uranium. The actinide series was unknown at the time, so Mendeleev positioned uranium below tungsten in group VI, and thorium below zirconium in group IV, leaving the space below tantalum in group V empty. Until the general acceptance of the actinide concept in the late 1940s, periodic tables were published with this structure. For a long time, chemists searched for eka-tantalum as an element with similar chemical properties to tantalum, making a discovery of protactinium nearly impossible. Tantalum's heavier analogue was later found to be the transuranic element dubnium – although dubnium is more chemically similar to protactinium, not tantalum.\nIn 1900, William Crookes isolated protactinium as an intensely radioactive material from uranium; however, he could not characterize it as a new chemical element and thus named it uranium X (UX). Crookes dissolved uranium nitrate in ether, and the residual aqueous phase contained most of the 23490Th and 23491Pa. His method was used into the 1950s to isolate 23490Th and 23491Pa from uranium compounds. Protactinium was first identified in 1913, when Kasimir Fajans and Oswald Helmuth Göhring encountered the isotope 234mPa during their studies of the decay chains of uranium-238: 23892U → 23490Th → 234m91Pa → 23492U. They named the new element \"brevium\" (from the Latin word brevis, meaning brief or short) because of the short half-life of 1.16 minutes for 234m91Pa (uranium X2). In 1917–18, two groups of scientists, Lise Meitner in collaboration with Otto Hahn of Germany and Frederick Soddy and John Cranston of Great Britain, independently discovered another isotope, 231Pa, having a much longer half-life of 32,760 years. Meitner changed the name \"brevium\" to protactinium as the new element was part of the decay chain of uranium-235 as the parent of actinium (from the Greek: πρῶτος prôtos, meaning \"first, before\"). The IUPAC confirmed this naming in 1949. The discovery of protactinium completed one of the last gaps in early versions of the periodic table, and brought fame to the involved scientists.\nAristid von Grosse produced 2 milligrams of Pa2O5 in 1927, and in 1934 first isolated elemental protactinium from 0.1 milligrams of Pa2O5. He used two different procedures: in the first, protactinium oxide was irradiated by 35 keV electrons in vacuum. In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000. For many years, this was the world's only significant supply of protactinium, which was provided to various laboratories for scientific studies. The Oak Ridge National Laboratory in the US provided protactinium at a cost of about US$280/gram."
+   },
+   {
+    "heading": "Isotopes",
+    "text": "Thirty radioisotopes of protactinium have been discovered, ranging from 210Pa to 239Pa. The most stable are 231Pa with a half-life of 32,650 years, 233Pa with a half-life of 26.975 days, and 230Pa with a half-life of 17.4 days. All other isotopes have half-lives shorter than 1.6 days, and the majority of these have half-lives less than 1.8 seconds. Protactinium also has six nuclear isomers, with the most stable being 234mPa (half-life 1.159 minutes).\nThe primary decay mode for the most stable isotope 231Pa and lighter isotopes (210Pa to 227Pa) is alpha decay, producing isotopes of actinium. The primary decay mode for 228Pa to 230Pa is electron capture or beta plus decay, producing isotopes of thorium, while the primary decay mode for the heavier isotopes (232Pa to 239Pa) is beta decay, producing isotopes of uranium.\nThe longest-lived and most abundant isotope, 231Pa, can fission from fast neutrons exceeding ~1 MeV. 233Pa, the other isotope of protactinium produced in nuclear reactors, also has a fission threshold of 1 MeV."
+   },
+   {
+    "heading": "Occurrence",
+    "text": "Protactinium is one of the rarest and most expensive naturally occurring elements. It is found in the form of two isotopes, 231Pa and 234Pa, with the isotope 234Pa occurring in two different energy states. Nearly all natural protactinium is 231Pa. It is an alpha emitter and is formed by the decay of uranium-235, whereas the beta-radiating 234Pa is produced as a result of uranium-238 decay. Nearly all uranium-238 (99.8%) decays first to the shorter-lived 234mPa isomer.\nProtactinium occurs in uraninite (pitchblende) at concentrations of about 0.3–3 parts 231Pa per million parts (ppm) of ore. Whereas the usual content is closer to 0.3 ppm (e.g. in Jáchymov, Czech Republic), some ores from the Democratic Republic of the Congo have about 3 ppm. Protactinium is homogeneously dispersed in most natural materials and in water, but at much lower concentrations on the order of one part per trillion, corresponding to a radioactivity of 0.1 picocuries (pCi)/g. There is about 500 times more protactinium in sandy soil particles than in water, even when compared to water present in the same sample of soil. Much higher ratios of 2,000 and above are measured in loam soils and clays, such as bentonite.\nTwo major protactinium isotopes, 231Pa and 233Pa, are produced from thorium in nuclear reactors; both are undesirable and are usually removed, thereby adding complexity to the reactor design and operation. In particular, 232Th, via (n, 2n) reactions, produces 231Th, which quickly decays to 231Pa (half-life 25.5 hours). The last isotope, while not a transuranic waste, has a long half-life of 32,760 years, and is a major contributor to the long-term radiotoxicity of spent nuclear fuel.\nProtactinium-233 is formed upon neutron capture by 232Th. It either further decays to 233U, or captures another neutron and converts into the non-fissile 234U. 233Pa has a relatively long half-life of 27 days and high cross section for neutron capture (the so-called \"neutron poison\"). Thus, instead of rapidly decaying to the useful 233U, a significant fraction of 233Pa converts to non-fissile isotopes and consumes neutrons, degrading reactor efficiency. To limit the loss of neutrons, 233Pa is extracted from the active zone of thorium molten salt reactors during their operation, so that it can only decay into 233U. Extraction of 233Pa is achieved using columns of molten bismuth with lithium dissolved in it. In short, lithium selectively reduces protactinium salts to protactinium metal, which is then extracted from the molten-salt cycle, while the molten bismuth is merely a carrier, selected due to its low melting point of 271 °C, low vapor pressure, good solubility for lithium and actinides, and immiscibility with molten halides."
+   },
+   {
+    "heading": "Preparation",
+    "text": "Before the advent of nuclear reactors, protactinium was separated for scientific experiments from uranium ores. Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.\nProtactinium metal has been prepared by reduction of its fluoride with calcium, lithium, or barium at a temperature of 1300–1400 °C."
+   },
+   {
+    "heading": "Properties",
+    "text": "Protactinium is an actinide positioned in the periodic table to the left of uranium and to the right of thorium, and many of its physical properties are intermediate between its neighboring actinides. Protactinium is denser and more rigid than thorium, but is lighter than uranium; its melting point is lower than that of thorium, but higher than that of uranium. The thermal expansion, electrical, and thermal conductivities of these three elements are comparable and are typical of post-transition metals. The estimated shear modulus of protactinium is similar to that of titanium. Protactinium is a metal with silvery-gray luster that is preserved for some time in air. Protactinium easily reacts with oxygen, water vapor, and acids, but not with alkalis.\nAt room temperature, protactinium crystallizes in the body-centered tetragonal structure, which can be regarded as distorted body-centered cubic lattice; this structure does not change upon compression up to 53 GPa. The structure changes to face-centered cubic (fcc) upon cooling from high temperature, at about 1200 °C. The thermal expansion coefficient of the tetragonal phase between room temperature and 700 °C is 9.9×10−6/°C.\nProtactinium is paramagnetic and no magnetic transitions are known for it at any temperature. It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids. As the electron configuration of the neutral atom is [Rn]5f26d17s2, the +5 oxidation state corresponds to the low-energy (and thus favored) 5f0 configuration. Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless. Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6."
+   },
+   {
+    "heading": "Chemical compounds",
+    "text": "Here, a, b, and c are lattice constants in picometers, No is the space group number, and Z is the number of formula units per unit cell; fcc stands for the face-centered cubic symmetry. Density was not measured directly but calculated from the lattice parameters.\nProtactinium oxides are known for the metal oxidation states +2, +4, and +5. The most stable is the white pentoxide Pa2O5, which can be produced by igniting protactinium(V) hydroxide in air at a temperature of 500 °C. Its crystal structure is cubic, and the chemical composition is often non-stoichiometric, described as PaO2.25. Another phase of this oxide with orthorhombic symmetry has also been reported. The black dioxide PaO2 is obtained from the pentoxide by reducing it at 1550 °C with hydrogen. It is not readily soluble in either dilute or concentrated nitric, hydrochloric, or sulfuric acid, but easily dissolves in hydrofluoric acid. The dioxide can be converted back to pentoxide by heating in oxygen-containing atmosphere to 1100 °C. The monoxide PaO has only been observed as a thin coating on protactinium metal, but not in an isolated bulk form.\nProtactinium forms mixed binary oxides with various metals. With alkali metals A, the crystals have a chemical formula APaO3 and perovskite structure; A3PaO4 and distorted rock-salt structure; or A7PaO6, where oxygen atoms form a hexagonal close-packed lattice. In all of these materials, the protactinium ions are octahedrally coordinated. The pentoxide Pa2O5 combines with rare-earth metal oxides R2O3 to form various nonstoichiometric mixed-oxides, also of perovskite structure.\nProtactinium oxides are basic; they easily convert to hydroxides and can form various salts, such as sulfates, phosphates, nitrates, etc. The nitrate is usually white but can be brown due to radiolytic decomposition. Heating the nitrate in air at 400 °C converts it to the white protactinium pentoxide. The polytrioxophosphate Pa(PO3)4 can be produced by reacting the difluoride sulfate PaF2SO4 with phosphoric acid (H3PO4) under an inert atmosphere. Heating the product to about 900 °C eliminates the reaction by-products, which include hydrofluoric acid, sulfur trioxide, and phosphoric anhydride. Heating it to higher temperatures in an inert atmosphere decomposes Pa(PO3)4 into the diphosphate PaP2O7, which is analogous to diphosphates of other actinides. In the diphosphate, the PO3 groups form pyramids of C2v symmetry. Heating PaP2O7 in air to 1400 °C decomposes it into the pentoxides of phosphorus and protactinium.\nProtactinium(V) fluoride is a white compound that forms tetragonal crystals, isomorphic to β-UF5. Protactinium(V) chloride forms yellow crystals where protactinium ions are arranged in pentagonal bipyramids and coordinated by 7 other ions. The coordination changes to octahedral in the brown protactinium(V) bromide, but is unknown for protactinium(V) iodide. The protactinium coordination in all its tetrahalides is 8, but the arrangement is square antiprismatic in protactinium(IV) fluoride and dodecahedral in the chloride and bromide. Brown-colored protactinium(III) iodide has been reported, where protactinium ions are 8-coordinated in a bicapped trigonal prismatic arrangement.\nProtactinium(V) chloride has a polymeric structure of monoclinic symmetry. There, within one polymeric chain, all chlorine atoms lie in one graphite-like plane and form planar pentagons around the protactinium ions. The 7-coordination of protactinium originates from the five chlorine atoms and two bonds to protactinium atoms belonging to the nearby chains. It easily hydrolyzes in water. It melts at 300 °C and sublimates at even lower temperatures.\nProtactinium(V) fluoride can be prepared by reacting protactinium oxide with either bromine pentafluoride or bromine trifluoride at about 600 °C, and protactinium(IV) fluoride is obtained from the oxide and a mixture of hydrogen and hydrogen fluoride at 600 °C; a large excess of hydrogen is required to remove atmospheric oxygen leaks into the reaction.\nProtactinium(V) chloride is prepared by reacting protactinium oxide with carbon tetrachloride at temperatures of 200–300 °C. The by-products (such as PaOCl3) are removed by fractional sublimation. Reduction of protactinium(V) chloride with hydrogen at about 800 °C yields protactinium(IV) chloride – a yellow-green solid that sublimes in vacuum at 400 °C. It can also be obtained directly from protactinium dioxide by treating it with carbon tetrachloride at 400 °C.\nProtactinium bromides are produced by the action of aluminium bromide, hydrogen bromide, carbon tetrabromide, or a mixture of hydrogen bromide and thionyl bromide on protactinium oxide. They can alternatively be produced by reacting protactinium pentachloride with hydrogen bromide or thionyl bromide. Protactinium(V) bromide has two similar monoclinic forms: one is obtained by sublimation at 400–410 °C, and another by sublimation at a slightly lower temperature of 390–400 °C.\nProtactinium iodides can be produced by reacting protactinium metal with elemental iodine at 600 °C, and by reacting Pa2O5 with AlI3 at elevated temperatures. Protactinium(III) iodide can be obtained by heating protactinium(V) iodide in vacuum. As with oxides, protactinium forms mixed halides with alkali metals. The most remarkable among these is Na3PaF8, where the protactinium ion is symmetrically surrounded by 8 F− ions, forming a nearly perfect cube.\nMore complex protactinium fluorides are also known, such as Pa2F9 and ternary fluorides of the types MPaF6 (M = Li, Na, K, Rb, Cs or NH4), M2PaF7 (M = K, Rb, Cs or NH4), and M3PaF8 (M = Li, Na, Rb, Cs), all of which are white crystalline solids. The MPaF6 formula can be represented as a combination of MF and PaF5. These compounds can be obtained by evaporating a hydrofluoric acid solution containing both complexes. For the small alkali cations like Na, the crystal structure is tetragonal, whereas it becomes orthorhombic for larger cations K+, Rb+, Cs+ or NH4+. A similar variation was observed for the M2PaF7 fluorides: namely, the crystal symmetry was dependent on the cation and differed for Cs2PaF7 and M2PaF7 (M = K, Rb or NH4).\nOxyhalides and oxysulfides of protactinium are known. PaOBr3 has a monoclinic structure composed of double-chain units where protactinium has coordination 7 and is arranged into pentagonal bipyramids. The chains are interconnected through oxygen and bromine atoms, and each oxygen atom is related to three protactinium atoms. PaOS is a light-yellow, non-volatile solid with a cubic crystal lattice isostructural to that of other actinide oxysulfides. It is obtained by reacting protactinium(V) chloride with a mixture of hydrogen sulfide and carbon disulfide at 900 °C.\nIn hydrides and nitrides, protactinium has a low oxidation state of about +3. The hydride is obtained by direct action of hydrogen on the metal at 250 °C, and the nitride is a product of ammonia and protactinium tetrachloride or pentachloride. This bright yellow solid is thermally stable to 800 °C in vacuum. Protactinium carbide (PaC) is formed by the reduction of protactinium tetrafluoride with barium in a carbon crucible at a temperature of about 1400 °C. Protactinium forms borohydrides, which include Pa(BH4)4. It has an unusual polymeric structure with helical chains, where the protactinium atom has coordination number of 14 and is surrounded by six BH4− ions.\nProtactinium(IV) forms a tetrahedral complex tetrakis(cyclopentadienyl)protactinium(IV) (or Pa(C5H5)4) with four cyclopentadienyl rings, which can be synthesized by reacting protactinium(IV) chloride with Be(C5H5)2. One ring can be substituted with a halide atom. Another organometallic complex is the golden-yellow bis(π-cyclooctatetraene) protactinium, or protactinocene (Pa(C8H8)2), which is analogous in structure to uranocene. There, the metal atom is sandwiched between two cyclooctatetraene ligands. Similar to uranocene, it can be prepared by reacting protactinium tetrachloride with dipotassium cyclooctatetraenide (K2C8H8) in tetrahydrofuran."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "number",
+   "value": 91,
+   "surface": "91",
+   "sentence": "Protactinium is a chemical element; it has symbol Pa and atomic number 91."
+  },
+  "f2": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "It forms various chemical compounds, in which protactinium is usually present in the oxidation state +5, but it can also assume +4 and even +3 or +2 states."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "It forms various chemical compounds, in which protactinium is usually present in the oxidation state +5, but it can also assume +4 and even +3 or +2 states."
+  },
+  "f4": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "It forms various chemical compounds, in which protactinium is usually present in the oxidation state +5, but it can also assume +4 and even +3 or +2 states."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "It forms various chemical compounds, in which protactinium is usually present in the oxidation state +5, but it can also assume +4 and even +3 or +2 states."
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1913",
+   "surface": "1913",
+   "sentence": "The element was first identified in 1913 by Kazimierz Fajans and Oswald Helmuth Göhring and named \"brevium\" because of the short half-life of the specific isotope studied, 234mPa."
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1917",
+   "surface": "1917",
+   "sentence": "A more stable isotope of protactinium, 231Pa, was discovered in 1917/18 by Lise Meitner in collaboration with Otto Hahn, and they named the element protactinium."
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1949",
+   "surface": "1949",
+   "sentence": "In 1949, the IUPAC chose the name \"protactinium\" and confirmed Hahn and Meitner as its discoverers."
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1915",
+   "surface": "1915",
+   "sentence": "John Arnold Cranston (working with Frederick Soddy and Ada Hitchins) is also credited with discovering the most stable isotope in 1915, but he delayed his announcement due to being called for service in the First World War."
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "%",
+   "surface": "100%",
+   "sentence": "The longest-lived and most abundant (nearly 100%) naturally occurring isotope of protactinium, 231Pa, has a half-life of 32,760 years and occurs in the decay chain of uranium-235."
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 32760,
+   "unit": "years",
+   "surface": "32,760 years",
+   "sentence": "The longest-lived and most abundant (nearly 100%) naturally occurring isotope of protactinium, 231Pa, has a half-life of 32,760 years and occurs in the decay chain of uranium-235."
+  },
+  "f12": {
+   "kind": "measure",
+   "value": 175000,
+   "unit": "years",
+   "surface": "175,000 years",
+   "sentence": "Ocean science uses the element to understand the ancient ocean's geography: analysis of the relative concentrations of various uranium, thorium, and protactinium isotopes in water and minerals is used in radiometric dating of sediments up to 175,000 years old, and in modeling of various geological processes."
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1871",
+   "surface": "1871",
+   "sentence": "In 1871, Dmitri Mendeleev predicted the existence of an element between thorium and uranium.",
+   "section": "History"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1900",
+   "surface": "1900",
+   "sentence": "In 1900, William Crookes isolated protactinium as an intensely radioactive material from uranium; however, he could not characterize it as a new chemical element and thus named it uranium X (UX).",
+   "section": "History"
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1913",
+   "surface": "1913",
+   "sentence": "Protactinium was first identified in 1913, when Kasimir Fajans and Oswald Helmuth Göhring encountered the isotope 234mPa during their studies of the decay chains of uranium-238: 23892U → 23490Th → 234m91Pa → 23492U.",
+   "section": "History"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 1.16,
+   "surface": "1.16",
+   "sentence": "They named the new element \"brevium\" (from the Latin word brevis, meaning brief or short) because of the short half-life of 1.16 minutes for 234m91Pa (uranium X2).",
+   "section": "History"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1917",
+   "surface": "1917",
+   "sentence": "In 1917–18, two groups of scientists, Lise Meitner in collaboration with Otto Hahn of Germany and Frederick Soddy and John Cranston of Great Britain, independently discovered another isotope, 231Pa, having a much longer half-life of 32,760 years.",
+   "section": "History"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "In 1917–18, two groups of scientists, Lise Meitner in collaboration with Otto Hahn of Germany and Frederick Soddy and John Cranston of Great Britain, independently discovered another isotope, 231Pa, having a much longer half-life of 32,760 years.",
+   "section": "History"
+  },
+  "f19": {
+   "kind": "measure",
+   "value": 32760,
+   "unit": "years",
+   "surface": "32,760 years",
+   "sentence": "In 1917–18, two groups of scientists, Lise Meitner in collaboration with Otto Hahn of Germany and Frederick Soddy and John Cranston of Great Britain, independently discovered another isotope, 231Pa, having a much longer half-life of 32,760 years.",
+   "section": "History"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1949",
+   "surface": "1949",
+   "sentence": "The IUPAC confirmed this naming in 1949.",
+   "section": "History"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Aristid von Grosse produced 2 milligrams of Pa2O5 in 1927, and in 1934 first isolated elemental protactinium from 0.1 milligrams of Pa2O5.",
+   "section": "History"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1927",
+   "surface": "1927",
+   "sentence": "Aristid von Grosse produced 2 milligrams of Pa2O5 in 1927, and in 1934 first isolated elemental protactinium from 0.1 milligrams of Pa2O5.",
+   "section": "History"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1934",
+   "surface": "1934",
+   "sentence": "Aristid von Grosse produced 2 milligrams of Pa2O5 in 1927, and in 1934 first isolated elemental protactinium from 0.1 milligrams of Pa2O5.",
+   "section": "History"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0.1",
+   "sentence": "Aristid von Grosse produced 2 milligrams of Pa2O5 in 1927, and in 1934 first isolated elemental protactinium from 0.1 milligrams of Pa2O5.",
+   "section": "History"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 35,
+   "surface": "35",
+   "sentence": "He used two different procedures: in the first, protactinium oxide was irradiated by 35 keV electrons in vacuum.",
+   "section": "History"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1961",
+   "surface": "1961",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f30": {
+   "kind": "measure",
+   "value": 127,
+   "unit": "grams",
+   "surface": "127 grams",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f31": {
+   "kind": "measure",
+   "value": 99.9,
+   "unit": "%",
+   "surface": "99.9%",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f32": {
+   "kind": "measure",
+   "value": 60,
+   "unit": "tonnes",
+   "surface": "60 tonnes",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 500000,
+   "surface": "500,000",
+   "sentence": "In the other, called the van Arkel–de Boer process, the oxide was chemically converted to a halide (chloride, bromide or iodide) and then reduced in a vacuum with an electrically heated metallic filament:\n2 PaI5 → 2 Pa + 5 I2\nIn 1961, the United Kingdom Atomic Energy Authority (UKAEA) produced 127 grams of 99.9% pure protactinium-231 by processing 60 tonnes of waste material in a 12-stage process, at a cost of about US$500,000.",
+   "section": "History"
+  },
+  "f35": {
+   "kind": "number",
+   "value": 280,
+   "surface": "280",
+   "sentence": "The Oak Ridge National Laboratory in the US provided protactinium at a cost of about US$280/gram.",
+   "section": "History"
+  },
+  "f36": {
+   "kind": "measure",
+   "value": 32650,
+   "unit": "years",
+   "surface": "32,650 years",
+   "sentence": "The most stable are 231Pa with a half-life of 32,650 years, 233Pa with a half-life of 26.975 days, and 230Pa with a half-life of 17.4 days.",
+   "section": "Isotopes"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 26.975,
+   "surface": "26.975",
+   "sentence": "The most stable are 231Pa with a half-life of 32,650 years, 233Pa with a half-life of 26.975 days, and 230Pa with a half-life of 17.4 days.",
+   "section": "Isotopes"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 17.4,
+   "surface": "17.4",
+   "sentence": "The most stable are 231Pa with a half-life of 32,650 years, 233Pa with a half-life of 26.975 days, and 230Pa with a half-life of 17.4 days.",
+   "section": "Isotopes"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 1.6,
+   "surface": "1.6",
+   "sentence": "All other isotopes have half-lives shorter than 1.6 days, and the majority of these have half-lives less than 1.8 seconds.",
+   "section": "Isotopes"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 1.8,
+   "surface": "1.8",
+   "sentence": "All other isotopes have half-lives shorter than 1.6 days, and the majority of these have half-lives less than 1.8 seconds.",
+   "section": "Isotopes"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 1.159,
+   "surface": "1.159",
+   "sentence": "Protactinium also has six nuclear isomers, with the most stable being 234mPa (half-life 1.159 minutes).",
+   "section": "Isotopes"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The longest-lived and most abundant isotope, 231Pa, can fission from fast neutrons exceeding ~1 MeV.",
+   "section": "Isotopes"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "233Pa, the other isotope of protactinium produced in nuclear reactors, also has a fission threshold of 1 MeV.",
+   "section": "Isotopes"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 99.8,
+   "unit": "%",
+   "surface": "99.8%",
+   "sentence": "Nearly all uranium-238 (99.8%) decays first to the shorter-lived 234mPa isomer.",
+   "section": "Occurrence"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 0.3,
+   "surface": "0.3",
+   "sentence": "Protactinium occurs in uraninite (pitchblende) at concentrations of about 0.3–3 parts 231Pa per million parts (ppm) of ore.",
+   "section": "Occurrence"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Protactinium occurs in uraninite (pitchblende) at concentrations of about 0.3–3 parts 231Pa per million parts (ppm) of ore.",
+   "section": "Occurrence"
+  },
+  "f47": {
+   "kind": "number",
+   "value": 0.3,
+   "surface": "0.3",
+   "sentence": "Whereas the usual content is closer to 0.3 ppm (e.g. in Jáchymov, Czech Republic), some ores from the Democratic Republic of the Congo have about 3 ppm.",
+   "section": "Occurrence"
+  },
+  "f48": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Whereas the usual content is closer to 0.3 ppm (e.g. in Jáchymov, Czech Republic), some ores from the Democratic Republic of the Congo have about 3 ppm.",
+   "section": "Occurrence"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0.1",
+   "sentence": "Protactinium is homogeneously dispersed in most natural materials and in water, but at much lower concentrations on the order of one part per trillion, corresponding to a radioactivity of 0.1 picocuries (pCi)/g.",
+   "section": "Occurrence"
+  },
+  "f50": {
+   "kind": "date",
+   "value": "500",
+   "surface": "500",
+   "sentence": "There is about 500 times more protactinium in sandy soil particles than in water, even when compared to water present in the same sample of soil.",
+   "section": "Occurrence"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 2000,
+   "surface": "2,000",
+   "sentence": "Much higher ratios of 2,000 and above are measured in loam soils and clays, such as bentonite.",
+   "section": "Occurrence"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 25.5,
+   "surface": "25.5",
+   "sentence": "In particular, 232Th, via (n, 2n) reactions, produces 231Th, which quickly decays to 231Pa (half-life 25.5 hours).",
+   "section": "Occurrence"
+  },
+  "f53": {
+   "kind": "measure",
+   "value": 32760,
+   "unit": "years",
+   "surface": "32,760 years",
+   "sentence": "The last isotope, while not a transuranic waste, has a long half-life of 32,760 years, and is a major contributor to the long-term radiotoxicity of spent nuclear fuel.",
+   "section": "Occurrence"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 27,
+   "surface": "27",
+   "sentence": "233Pa has a relatively long half-life of 27 days and high cross section for neutron capture (the so-called \"neutron poison\").",
+   "section": "Occurrence"
+  },
+  "f55": {
+   "kind": "measure",
+   "value": 271,
+   "unit": "°c",
+   "surface": "271 °C",
+   "sentence": "In short, lithium selectively reduces protactinium salts to protactinium metal, which is then extracted from the molten-salt cycle, while the molten bismuth is merely a carrier, selected due to its low melting point of 271 °C, low vapor pressure, good solubility for lithium and actinides, and immiscibility with molten halides.",
+   "section": "Occurrence"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 232,
+   "surface": "232",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f62": {
+   "kind": "number",
+   "value": 22.3,
+   "surface": "22.3",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 91,
+   "surface": "91",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f65": {
+   "kind": "number",
+   "value": 26.975,
+   "surface": "26.975",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f66": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f70": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f71": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 22.3,
+   "surface": "22.3",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f74": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f75": {
+   "kind": "number",
+   "value": 91,
+   "surface": "91",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 26.975,
+   "surface": "26.975",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f77": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f78": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f79": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Since reactors have become more common, it is mostly produced as an intermediate product of neutron capture on thorium, used for the production of the fissile 233U:\nTh\n90\n232\n+\nn\n0\n1\n⟶\nTh\n90\n233\n→\n22.3\nmin\nβ\n−\nPa\n91\n233\n→\n26.975\nd\nβ\n−\nU\n92\n233\n⋅\n_{90}Th + ^{1}_{0}n - ^{233}_{90}Th -[\\beta^-][22.3\\ {\\ce {min}}] ^{233}_{91}Pa -[\\beta^-][26.975\\ {\\ce {d}}] ^{233}_{92}U.}}}\nThe isotope 231Pa can be prepared by irradiating 230Th with slow neutrons, converting it to the beta-decaying 231Th; or, by irradiating 232Th with fast neutrons, generating (as one product) 231Th and 2 neutrons.",
+   "section": "Preparation"
+  },
+  "f80": {
+   "kind": "date",
+   "value": "1300",
+   "surface": "1300",
+   "sentence": "Protactinium metal has been prepared by reduction of its fluoride with calcium, lithium, or barium at a temperature of 1300–1400 °C.",
+   "section": "Preparation"
+  },
+  "f81": {
+   "kind": "measure",
+   "value": 1400,
+   "unit": "°c",
+   "surface": "1400 °C",
+   "sentence": "Protactinium metal has been prepared by reduction of its fluoride with calcium, lithium, or barium at a temperature of 1300–1400 °C.",
+   "section": "Preparation"
+  },
+  "f82": {
+   "kind": "number",
+   "value": 53,
+   "surface": "53",
+   "sentence": "At room temperature, protactinium crystallizes in the body-centered tetragonal structure, which can be regarded as distorted body-centered cubic lattice; this structure does not change upon compression up to 53 GPa.",
+   "section": "Properties"
+  },
+  "f83": {
+   "kind": "measure",
+   "value": 1200,
+   "unit": "°c",
+   "surface": "1200 °C",
+   "sentence": "The structure changes to face-centered cubic (fcc) upon cooling from high temperature, at about 1200 °C.",
+   "section": "Properties"
+  },
+  "f84": {
+   "kind": "measure",
+   "value": 700,
+   "unit": "°c",
+   "surface": "700 °C",
+   "sentence": "The thermal expansion coefficient of the tetragonal phase between room temperature and 700 °C is 9.9×10−6/°C.",
+   "section": "Properties"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 9.9,
+   "surface": "9.9",
+   "sentence": "The thermal expansion coefficient of the tetragonal phase between room temperature and 700 °C is 9.9×10−6/°C.",
+   "section": "Properties"
+  },
+  "f86": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "The thermal expansion coefficient of the tetragonal phase between room temperature and 700 °C is 9.9×10−6/°C.",
+   "section": "Properties"
+  },
+  "f87": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "The thermal expansion coefficient of the tetragonal phase between room temperature and 700 °C is 9.9×10−6/°C.",
+   "section": "Properties"
+  },
+  "f88": {
+   "kind": "measure",
+   "value": 1.4,
+   "unit": "k",
+   "surface": "1.4 K",
+   "sentence": "It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids.",
+   "section": "Properties"
+  },
+  "f89": {
+   "kind": "measure",
+   "value": 182,
+   "unit": "k",
+   "surface": "182 K",
+   "sentence": "It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids.",
+   "section": "Properties"
+  },
+  "f90": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids.",
+   "section": "Properties"
+  },
+  "f91": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids.",
+   "section": "Properties"
+  },
+  "f92": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids.",
+   "section": "Properties"
+  },
+  "f93": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "It becomes superconductive at temperatures below 1.4 K. Protactinium tetrachloride is paramagnetic at room temperature, but becomes ferromagnetic when cooled to 182 K.\nProtactinium exists in two major oxidation states: +4 and +5, both in solids and solutions; and the +3 and +2 states, which have been observed in some solids.",
+   "section": "Properties"
+  },
+  "f94": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "As the electron configuration of the neutral atom is [Rn]5f26d17s2, the +5 oxidation state corresponds to the low-energy (and thus favored) 5f0 configuration.",
+   "section": "Properties"
+  },
+  "f95": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f96": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f97": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f98": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f99": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Both +4 and +5 states easily form hydroxides in water, with the predominant ions being Pa(OH)3+, Pa(OH)2+2, Pa(OH)+3, and Pa(OH)4, all of which are colorless.",
+   "section": "Properties"
+  },
+  "f102": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f103": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f104": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f106": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f107": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f108": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f109": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f110": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "Other known protactinium ions include PaOF2+, PaOF+2, PaF−6, PaF2−7, PaF3−8, PaOSO+4, PaO(SO4)−2, PaO(SO4)3−3, PaOCl2−5, and PaCl−6.",
+   "section": "Properties"
+  },
+  "f112": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Protactinium oxides are known for the metal oxidation states +2, +4, and +5.",
+   "section": "Chemical compounds"
+  },
+  "f113": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Protactinium oxides are known for the metal oxidation states +2, +4, and +5.",
+   "section": "Chemical compounds"
+  },
+  "f114": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Protactinium oxides are known for the metal oxidation states +2, +4, and +5.",
+   "section": "Chemical compounds"
+  },
+  "f115": {
+   "kind": "measure",
+   "value": 500,
+   "unit": "°c",
+   "surface": "500 °C",
+   "sentence": "The most stable is the white pentoxide Pa2O5, which can be produced by igniting protactinium(V) hydroxide in air at a temperature of 500 °C.",
+   "section": "Chemical compounds"
+  },
+  "f116": {
+   "kind": "number",
+   "value": 25,
+   "surface": "25",
+   "sentence": "Its crystal structure is cubic, and the chemical composition is often non-stoichiometric, described as PaO2.25.",
+   "section": "Chemical compounds"
+  },
+  "f117": {
+   "kind": "measure",
+   "value": 1550,
+   "unit": "°c",
+   "surface": "1550 °C",
+   "sentence": "The black dioxide PaO2 is obtained from the pentoxide by reducing it at 1550 °C with hydrogen.",
+   "section": "Chemical compounds"
+  },
+  "f118": {
+   "kind": "measure",
+   "value": 1100,
+   "unit": "°c",
+   "surface": "1100 °C",
+   "sentence": "The dioxide can be converted back to pentoxide by heating in oxygen-containing atmosphere to 1100 °C.",
+   "section": "Chemical compounds"
+  },
+  "f119": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "°c",
+   "surface": "400 °C",
+   "sentence": "Heating the nitrate in air at 400 °C converts it to the white protactinium pentoxide.",
+   "section": "Chemical compounds"
+  },
+  "f120": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "The polytrioxophosphate Pa(PO3)4 can be produced by reacting the difluoride sulfate PaF2SO4 with phosphoric acid (H3PO4) under an inert atmosphere.",
+   "section": "Chemical compounds"
+  },
+  "f121": {
+   "kind": "measure",
+   "value": 900,
+   "unit": "°c",
+   "surface": "900 °C",
+   "sentence": "Heating the product to about 900 °C eliminates the reaction by-products, which include hydrofluoric acid, sulfur trioxide, and phosphoric anhydride.",
+   "section": "Chemical compounds"
+  },
+  "f122": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Heating it to higher temperatures in an inert atmosphere decomposes Pa(PO3)4 into the diphosphate PaP2O7, which is analogous to diphosphates of other actinides.",
+   "section": "Chemical compounds"
+  },
+  "f123": {
+   "kind": "measure",
+   "value": 1400,
+   "unit": "°c",
+   "surface": "1400 °C",
+   "sentence": "Heating PaP2O7 in air to 1400 °C decomposes it into the pentoxides of phosphorus and protactinium.",
+   "section": "Chemical compounds"
+  },
+  "f124": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "Protactinium(V) chloride forms yellow crystals where protactinium ions are arranged in pentagonal bipyramids and coordinated by 7 other ions.",
+   "section": "Chemical compounds"
+  },
+  "f125": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "The protactinium coordination in all its tetrahalides is 8, but the arrangement is square antiprismatic in protactinium(IV) fluoride and dodecahedral in the chloride and bromide.",
+   "section": "Chemical compounds"
+  },
+  "f126": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "Brown-colored protactinium(III) iodide has been reported, where protactinium ions are 8-coordinated in a bicapped trigonal prismatic arrangement.",
+   "section": "Chemical compounds"
+  },
+  "f127": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "The 7-coordination of protactinium originates from the five chlorine atoms and two bonds to protactinium atoms belonging to the nearby chains.",
+   "section": "Chemical compounds"
+  },
+  "f128": {
+   "kind": "measure",
+   "value": 300,
+   "unit": "°c",
+   "surface": "300 °C",
+   "sentence": "It melts at 300 °C and sublimates at even lower temperatures.",
+   "section": "Chemical compounds"
+  },
+  "f129": {
+   "kind": "measure",
+   "value": 600,
+   "unit": "°c",
+   "surface": "600 °C",
+   "sentence": "Protactinium(V) fluoride can be prepared by reacting protactinium oxide with either bromine pentafluoride or bromine trifluoride at about 600 °C, and protactinium(IV) fluoride is obtained from the oxide and a mixture of hydrogen and hydrogen fluoride at 600 °C; a large excess of hydrogen is required to remove atmospheric oxygen leaks into the reaction.",
+   "section": "Chemical compounds"
+  },
+  "f130": {
+   "kind": "measure",
+   "value": 600,
+   "unit": "°c",
+   "surface": "600 °C",
+   "sentence": "Protactinium(V) fluoride can be prepared by reacting protactinium oxide with either bromine pentafluoride or bromine trifluoride at about 600 °C, and protactinium(IV) fluoride is obtained from the oxide and a mixture of hydrogen and hydrogen fluoride at 600 °C; a large excess of hydrogen is required to remove atmospheric oxygen leaks into the reaction.",
+   "section": "Chemical compounds"
+  },
+  "f131": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "Protactinium(V) chloride is prepared by reacting protactinium oxide with carbon tetrachloride at temperatures of 200–300 °C.",
+   "section": "Chemical compounds"
+  },
+  "f132": {
+   "kind": "measure",
+   "value": 300,
+   "unit": "°c",
+   "surface": "300 °C",
+   "sentence": "Protactinium(V) chloride is prepared by reacting protactinium oxide with carbon tetrachloride at temperatures of 200–300 °C.",
+   "section": "Chemical compounds"
+  },
+  "f133": {
+   "kind": "measure",
+   "value": 800,
+   "unit": "°c",
+   "surface": "800 °C",
+   "sentence": "Reduction of protactinium(V) chloride with hydrogen at about 800 °C yields protactinium(IV) chloride – a yellow-green solid that sublimes in vacuum at 400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f134": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "°c",
+   "surface": "400 °C",
+   "sentence": "Reduction of protactinium(V) chloride with hydrogen at about 800 °C yields protactinium(IV) chloride – a yellow-green solid that sublimes in vacuum at 400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f135": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "°c",
+   "surface": "400 °C",
+   "sentence": "It can also be obtained directly from protactinium dioxide by treating it with carbon tetrachloride at 400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f136": {
+   "kind": "number",
+   "value": 400,
+   "surface": "400",
+   "sentence": "Protactinium(V) bromide has two similar monoclinic forms: one is obtained by sublimation at 400–410 °C, and another by sublimation at a slightly lower temperature of 390–400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f137": {
+   "kind": "measure",
+   "value": 410,
+   "unit": "°c",
+   "surface": "410 °C",
+   "sentence": "Protactinium(V) bromide has two similar monoclinic forms: one is obtained by sublimation at 400–410 °C, and another by sublimation at a slightly lower temperature of 390–400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f138": {
+   "kind": "number",
+   "value": 390,
+   "surface": "390",
+   "sentence": "Protactinium(V) bromide has two similar monoclinic forms: one is obtained by sublimation at 400–410 °C, and another by sublimation at a slightly lower temperature of 390–400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f139": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "°c",
+   "surface": "400 °C",
+   "sentence": "Protactinium(V) bromide has two similar monoclinic forms: one is obtained by sublimation at 400–410 °C, and another by sublimation at a slightly lower temperature of 390–400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f140": {
+   "kind": "measure",
+   "value": 600,
+   "unit": "°c",
+   "surface": "600 °C",
+   "sentence": "Protactinium iodides can be produced by reacting protactinium metal with elemental iodine at 600 °C, and by reacting Pa2O5 with AlI3 at elevated temperatures.",
+   "section": "Chemical compounds"
+  },
+  "f141": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "The most remarkable among these is Na3PaF8, where the protactinium ion is symmetrically surrounded by 8 F− ions, forming a nearly perfect cube.",
+   "section": "Chemical compounds"
+  },
+  "f142": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "PaOBr3 has a monoclinic structure composed of double-chain units where protactinium has coordination 7 and is arranged into pentagonal bipyramids.",
+   "section": "Chemical compounds"
+  },
+  "f143": {
+   "kind": "measure",
+   "value": 900,
+   "unit": "°c",
+   "surface": "900 °C",
+   "sentence": "It is obtained by reacting protactinium(V) chloride with a mixture of hydrogen sulfide and carbon disulfide at 900 °C.",
+   "section": "Chemical compounds"
+  },
+  "f144": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "In hydrides and nitrides, protactinium has a low oxidation state of about +3.",
+   "section": "Chemical compounds"
+  },
+  "f145": {
+   "kind": "measure",
+   "value": 250,
+   "unit": "°c",
+   "surface": "250 °C",
+   "sentence": "The hydride is obtained by direct action of hydrogen on the metal at 250 °C, and the nitride is a product of ammonia and protactinium tetrachloride or pentachloride.",
+   "section": "Chemical compounds"
+  },
+  "f146": {
+   "kind": "measure",
+   "value": 800,
+   "unit": "°c",
+   "surface": "800 °C",
+   "sentence": "This bright yellow solid is thermally stable to 800 °C in vacuum.",
+   "section": "Chemical compounds"
+  },
+  "f147": {
+   "kind": "measure",
+   "value": 1400,
+   "unit": "°c",
+   "surface": "1400 °C",
+   "sentence": "Protactinium carbide (PaC) is formed by the reduction of protactinium tetrafluoride with barium in a carbon crucible at a temperature of about 1400 °C.",
+   "section": "Chemical compounds"
+  },
+  "f148": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Protactinium forms borohydrides, which include Pa(BH4)4.",
+   "section": "Chemical compounds"
+  },
+  "f149": {
+   "kind": "number",
+   "value": 14,
+   "surface": "14",
+   "sentence": "It has an unusual polymeric structure with helical chains, where the protactinium atom has coordination number of 14 and is surrounded by six BH4− ions.",
+   "section": "Chemical compounds"
+  },
+  "f150": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Protactinium(IV) forms a tetrahedral complex tetrakis(cyclopentadienyl)protactinium(IV) (or Pa(C5H5)4) with four cyclopentadienyl rings, which can be synthesized by reacting protactinium(IV) chloride with Be(C5H5)2.",
+   "section": "Chemical compounds"
+  },
+  "f151": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Protactinium(IV) forms a tetrahedral complex tetrakis(cyclopentadienyl)protactinium(IV) (or Pa(C5H5)4) with four cyclopentadienyl rings, which can be synthesized by reacting protactinium(IV) chloride with Be(C5H5)2.",
+   "section": "Chemical compounds"
+  },
+  "f152": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Another organometallic complex is the golden-yellow bis(π-cyclooctatetraene) protactinium, or protactinocene (Pa(C8H8)2), which is analogous in structure to uranocene.",
+   "section": "Chemical compounds"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Protactinium (Element - 91) 2.jpg",
+   "w": 1562,
+   "h": 1253,
+   "alt": "Protactinium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Protactinium_%28Element_-_91%29_2.jpg/960px-Protactinium_%28Element_-_91%29_2.jpg",
+   "sha1": "e8725d6b5a45ca3984e4ae2eca9984684168104e",
+   "credit": {
+    "author": "James St. John",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Protactinium_(Element_-_91)_2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Actinides",
+  "Chemical elements",
+  "Chemical elements predicted by Dmitri Mendeleev",
+  "Chemical elements with body-centered tetragonal structure",
+  "Protactinium"
+ ]
+}

@@ -1,0 +1,741 @@
+{
+ "packetVersion": 1,
+ "date": "2026-11-04",
+ "slot": "morning",
+ "lang": "en",
+ "topic": {
+  "title": "Radiocarbon dating",
+  "qid": "Q173412",
+  "pageid": 26197,
+  "revid": 1376789713,
+  "domain": "history",
+  "url": "https://en.wikipedia.org/w/index.php?title=Radiocarbon_dating&oldid=1376789713"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "Method for determining the age of objects",
+  "lead": "Radiocarbon dating (also referred to as carbon dating or carbon-14 dating) is a method for determining the age of an object containing organic material by using the properties of radiocarbon, a radioactive isotope of carbon.\nThe method was developed in the late 1940s at the University of Chicago by Willard Libby. It is based on the fact that radiocarbon (14C) is constantly being created in the Earth's atmosphere by the interaction of cosmic rays with atmospheric nitrogen. The resulting 14C combines with atmospheric oxygen to form radioactive carbon dioxide, which is incorporated into plants by photosynthesis; animals then acquire 14C by eating the plants. When the animal or plant dies, it stops exchanging carbon with its environment, and thereafter the amount of 14C it contains begins to decrease as the 14C undergoes radioactive decay. Measuring the amount of 14C in a sample from a dead plant or animal, such as a piece of wood or a fragment of bone, provides information that can be used to calculate when the animal or plant died. The older a sample is, the less 14C there is to be detected. The half-life of 14C (the period of time after which half of a given sample will have decayed) is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible. Libby received the Nobel Prize in Chemistry for his work in 1960.\nResearch has been ongoing since the 1960s to determine the proportion of 14C in the atmosphere over the past 50,000 years. The resulting data, in the form of a calibration curve, is now used to convert a given measurement of radiocarbon in a sample into an estimate of the sample's calendar age. Other corrections must be made to account for the proportion of 14C in different types of organisms (fractionation), and the varying levels of 14C throughout the biosphere (reservoir effects). Additional complications come from the burning of fossil fuels, such as coal and oil, and from the above-ground nuclear tests done in the 1950s and 1960s. Because the time it takes to convert biological materials to fossil fuels is substantially longer than the time it takes for their 14C to decay below detectable levels, fossil fuels contain almost no 14C. As a result, beginning in the late 19th century, there was a noticeable drop in the proportion of 14C as the carbon dioxide generated from burning fossil fuels began to accumulate in the atmosphere. Conversely, nuclear testing increased the amount of 14C in the atmosphere, which reached a maximum in about 1965 of almost double the amount present in the atmosphere prior to nuclear testing.\nMeasurement of radiocarbon was originally done by beta-counting devices, which counted the amount of beta radiation emitted by decaying 14C atoms in a sample. More recently, accelerator mass spectrometry has become the method of choice; it counts all the 14C atoms in the sample and not just the few that happen to decay during the measurements; it can therefore be used with much smaller samples (as small as individual plant seeds), and gives results much more quickly. The development of radiocarbon dating has had a profound impact on archaeology. In addition to permitting more accurate dating within archaeological sites than previous methods, it allows comparison of dates of events across great distances. Histories of archaeology often refer to its impact as the \"radiocarbon revolution\". Radiocarbon dating has allowed key transitions in prehistory to be dated, such as the end of the last ice age, and the beginning of the Neolithic and Bronze Age in different regions.",
+  "sections": [
+   {
+    "heading": "History",
+    "text": "In 1939, Martin Kamen and Samuel Ruben of the Radiation Laboratory at Berkeley began experiments to determine if any of the elements common in organic matter had isotopes with half-lives long enough to be of value in biomedical research. They synthesized 14C using the laboratory's cyclotron accelerator and soon discovered that the atom's half-life was far longer than had been previously thought. This was followed by a prediction by Serge A. Korff, then employed at the Franklin Institute in Philadelphia, that the interaction of thermal neutrons with 14N in the upper atmosphere would create 14C. It had previously been thought that 14C would be more likely to be created by deuterons interacting with 13C. At some time during World War II, Willard Libby, who was then at Berkeley, learned of Korff's research and conceived the idea that it might be possible to use radiocarbon for dating.\nIn 1945, Libby moved to the University of Chicago, where he began his work on radiocarbon dating. He published a paper in 1946 in which he proposed that the carbon in living matter might include 14C as well as non-radioactive carbon. Libby and several collaborators proceeded to experiment with methane collected from sewage works in Baltimore, and after isotopically enriching their samples they were able to demonstrate that they contained 14C. By contrast, methane created from petroleum showed no radiocarbon activity because of its age. The results were summarized in a paper in Science in 1947, in which the authors commented that their results implied it would be possible to date materials containing carbon of organic origin.\nLibby and James Arnold proceeded to test the radiocarbon dating theory by analyzing samples with known ages. For example, two samples taken from the tombs of two Egyptian kings, Zoser and Sneferu, independently dated to 2625 BC ± 75 years, were dated by radiocarbon measurement to an average of 2800 BC ± 250 years. These results were published in Science in December 1949. Within 11 years of their announcement, more than 20 radiocarbon dating laboratories had been set up worldwide. In 1960, Libby was awarded the Nobel Prize in Chemistry for this work."
+   },
+   {
+    "heading": "Physical and chemical details",
+    "text": "In nature, carbon exists as three isotopes. Carbon-12 (12C), and carbon-13 (13C) are stable and not radioactive; carbon-14 (14C), also known as \"radiocarbon\", is radioactive. The half-life of 14C (the time it takes for half of a given amount of 14C to decay) is about 5,730 years, so its concentration in the atmosphere might be expected to decrease over thousands of years, but 14C is constantly being produced in the lower stratosphere and upper troposphere, primarily by galactic cosmic rays, and to a lesser degree by solar cosmic rays. These cosmic rays generate neutrons as they travel through the atmosphere which can strike nitrogen-14 (14N) atoms and turn them into 14C. The following nuclear reaction is the main pathway by which 14C is created:\nn + 147N → 146C + p\nwhere n represents a neutron and p represents a proton.\nOnce produced, the 14C quickly combines with the oxygen (O) in the atmosphere to form first carbon monoxide (CO), and ultimately carbon dioxide (CO2).\n14C + O2 → 14CO + O\n14CO + OH → 14CO2 + H\nCarbon dioxide produced in this way diffuses in the atmosphere, is dissolved in the ocean, and is taken up by plants via photosynthesis. Animals eat the plants, and ultimately the radiocarbon is distributed throughout the biosphere. The ratio of 14C to 12C is approximately 1.25 parts of 14C to 1012 parts of 12C. In addition, about 1% of the carbon atoms are of the stable isotope 13C.\nThe equation for the radioactive decay of 14C is:\n146C → 147N + e− + νe\nBy emitting a beta particle (an electron, e−) and an electron antineutrino (νe), one of the neutrons in the 14C nucleus changes to a proton and the 14C nucleus reverts to the stable (non-radioactive) isotope 14N.\nDuring its life, a plant or animal is in equilibrium with its surroundings by exchanging carbon either with the atmosphere or through its diet. It will, therefore, have the same proportion of 14C as the atmosphere, or in the case of marine animals or plants, with the ocean. Once it dies, it ceases to acquire 14C, but the 14C within its biological material at that time will continue to decay, and so the ratio of 14C to 12C in its remains will gradually decrease. Because 14C decays at a known rate, the proportion of radiocarbon can be used to determine how long it has been since a given sample stopped exchanging carbon – the older the sample, the less 14C will be left.\nThe equation governing the decay of a radioactive isotope is:\nN\n=\nN\n0\ne\n−\nλ\nt\n\\,e^{-\\lambda t}\\,}\nwhere N0 is the number of atoms of the isotope in the original sample (at time t = 0, when the organism from which the sample was taken died), and N is the number of atoms left after time t. λ is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-life – i.e. the average or expected time a given atom will survive before undergoing radioactive decay. The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample. Measurement of N, the number of 14C atoms currently in the sample, allows the calculation of t, the age of the sample, using the equation above.\nThe half-life of a radioactive isotope (usually denoted by t1/2) is a more familiar concept than the mean-life, so although the equations above are expressed in terms of the mean-life, it is more usual to quote the value of 14C's half-life than its mean-life. The currently accepted value for the half-life of 14C is 5,700 ± 30 years. This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.\nThe above calculations make several assumptions, such as that the level of 14C in the atmosphere has remained constant over time. In fact, the level of 14C in the atmosphere has varied significantly and as a result, the values provided by the equation above have to be corrected by using data from other sources. This is done by calibration curves (discussed below), which convert a measurement of 14C in a sample into an estimated calendar age. The calculations involve several steps and include an intermediate value called the \"radiocarbon age\", which is the age in \"radiocarbon years\" of the sample: an age quoted in radiocarbon years means that no calibration curve has been used − the calculations for radiocarbon years assume that the atmospheric 14C/12C ratio has not changed over time.\nCalculating radiocarbon ages also requires the value of the half-life for 14C. In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade. It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%). For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the \"Libby half-life\" of 5568 years. Radiocarbon ages are still calculated using this half-life, and are known as \"Conventional Radiocarbon Age\". Since the calibration curve (IntCal) also reports past atmospheric 14C concentration using this conventional age, any conventional ages calibrated against the IntCal curve will produce a correct calibrated age. When a date is quoted, the reader should be aware that if it is an uncalibrated date (a term used for dates given in radiocarbon years) it may differ substantially from the best estimate of the actual calendar date, both because it uses the wrong value for the half-life of 14C, and because no correction (calibration) has been applied for the historical variation of 14C in the atmosphere over time.\nCarbon is distributed throughout the atmosphere, the biosphere, and the oceans; these are referred to collectively as the carbon exchange reservoir, and each component is also referred to individually as a carbon exchange reservoir. The different elements of the carbon exchange reservoir vary in how much carbon they store, and in how long it takes for the 14C generated by cosmic rays to fully mix with them. This affects the ratio of 14C to 12C in the different reservoirs, and hence the radiocarbon ages of samples that originated in each reservoir. The atmosphere, which is where 14C is generated, contains about 1.9% of the total carbon in the reservoirs, and the 14C it contains mixes in less than seven years. The ratio of 14C to 12C in the atmosphere is taken as the baseline for the other reservoirs: if another reservoir has a lower ratio of 14C to 12C, it indicates that the carbon is older and hence that either some of the 14C has decayed, or the reservoir is receiving carbon that is not at the atmospheric baseline. The ocean surface is an example: it contains 2.4% of the carbon in the exchange reservoir, but there is only about 95% as much 14C as would be expected if the ratio were the same as in the atmosphere. The time it takes for carbon from the atmosphere to mix with the surface ocean is only a few years, but the surface waters also receive water from the deep ocean, which has more than 90% of the carbon in the reservoir. Water in the deep ocean takes about 1,000 years to circulate back through surface waters, and so the surface waters contain a combination of older water, with depleted 14C, and water recently at the surface, with 14C in equilibrium with the atmosphere.\nCreatures living at the ocean surface have the same 14C ratios as the water they live in, and as a result of the reduced 14C/12C ratio, the radiocarbon age of marine life is typically about 400 years. Organisms on land are in closer equilibrium with the atmosphere and have the same 14C/12C ratio as the atmosphere. These organisms contain about 1.3% of the carbon in the reservoir; sea organisms have a mass of less than 1% of those on land and are not shown in the diagram. Accumulated dead organic matter, of both plants and animals, exceeds the mass of the biosphere by a factor of nearly 3, and since this matter is no longer exchanging carbon with its environment, it has a 14C/12C ratio lower than that of the biosphere."
+   },
+   {
+    "heading": "Dating considerations",
+    "text": "The variation in the 14C/12C ratio in different parts of the carbon exchange reservoir means that a straightforward calculation of the age of a sample based on the amount of 14C it contains will often give an incorrect result. There are several other possible sources of error that need to be considered. The errors are of four general types:\nvariations in the 14C/12C ratio in the atmosphere, both geographically and over time;\nisotopic fractionation;\nvariations in the 14C/12C ratio in different parts of the reservoir;\ncontamination.\nIn the early years of using the technique, it was understood that it depended on the atmospheric 14C/12C ratio having remained the same over the preceding few thousand years. To verify the accuracy of the method, several artefacts that were datable by other techniques were tested; the results of the testing were in reasonable agreement with the true ages of the objects. Over time, however, discrepancies began to appear between the known chronology for the oldest Egyptian dynasties and the radiocarbon dates of Egyptian artefacts. Neither the pre-existing Egyptian chronology nor the new radiocarbon dating method could be assumed to be accurate, but a third possibility was that the 14C/12C ratio had changed over time. The question was resolved by the study of tree rings: comparison of overlapping series of tree rings allowed the construction of a continuous sequence of tree-ring data that spanned 8,000 years. (Since that time the tree-ring data series has been extended to 13,900 years.) In the 1960s, Hans Suess was able to use the tree-ring sequence to show that the dates derived from radiocarbon were consistent with the dates assigned by Egyptologists. This was possible because although annual plants, such as corn, have a 14C/12C ratio that reflects the atmospheric ratio at the time they were growing, trees only add material to their outermost tree ring in any given year, while the inner tree rings don't get their 14C replenished and instead start losing 14C through decay. Hence each ring preserves a record of the atmospheric 14C/12C ratio of the year it grew in. Carbon-dating the wood from the tree rings themselves provides the check needed on the atmospheric 14C/12C ratio: with a sample of known date, and a measurement of the value of N (the number of atoms of 14C remaining in the sample), the carbon-dating equation allows the calculation of N0 – the number of atoms of 14C in the sample at the time the tree ring was formed – and hence the 14C/12C ratio in the atmosphere at that time. Equipped with the results of carbon-dating the tree rings, it became possible to construct calibration curves designed to correct the errors caused by the variation over time in the 14C/12C ratio. These curves are described in more detail below.\nCoal and oil began to be burned in large quantities during the 19th century. Both are sufficiently old that they contain little or no detectable 14C and, as a result, the CO2 released substantially diluted the atmospheric 14C/12C ratio. Dating an object from the early 20th century hence gives an apparent date older than the true date. For the same reason, 14C concentrations in the neighbourhood of large cities are lower than the atmospheric average. This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.\nA much larger effect comes from above-ground nuclear testing, which released large numbers of neutrons into the atmosphere, resulting in the creation of 14C. From about 1950 until 1963, when atmospheric nuclear testing was banned, it is estimated that several tonnes of 14C were created. If all this extra 14C had immediately been spread across the entire carbon exchange reservoir, it would have led to an increase in the 14C/12C ratio of only a few per cent, but the immediate effect was to almost double the amount of 14C in the atmosphere, with the peak level occurring in 1964 for the northern hemisphere, and in 1966 for the southern hemisphere. The level has since dropped, as this bomb pulse or \"bomb carbon\" (as it is sometimes called) percolates into the rest of the reservoir.\nPhotosynthesis is the primary process by which carbon moves from the atmosphere into living things. In photosynthetic pathways 12C is absorbed slightly more easily than 13C, which in turn is more easily absorbed than 14C. The differential uptake of the three carbon isotopes leads to 13C/12C and 14C/12C ratios in plants that differ from the ratios in the atmosphere. This effect is known as isotopic fractionation.\nTo determine the degree of fractionation that takes place in a given plant, the amounts of both 12C and 13C isotopes are measured, and the resulting 13C/12C ratio is then compared to a standard ratio known as PDB. The 13C/12C ratio is used instead of 14C/12C because the former is much easier to measure, and the latter can be easily derived: the depletion of 13C relative to 12C is proportional to the difference in the atomic masses of the two isotopes, so the depletion for 14C is twice the depletion of 13C. The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand. Because the PDB standard contains an unusually high proportion of 13C, most measured δ13C values are negative.\nFor marine organisms, the details of the photosynthesis reactions are less well understood, and the δ13C values for marine photosynthetic organisms are dependent on temperature. At higher temperatures, CO2 has poor solubility in water, which means there is less CO2 available for the photosynthetic reactions. Under these conditions, fractionation is reduced, and at temperatures above 14 °C the δ13C values are correspondingly higher, while at lower temperatures, CO2 becomes more soluble and hence more available to marine organisms.\nThe δ13C value for animals depends on their diet. An animal that eats food with high δ13C values will have a higher δ13C than one that eats food with lower δ13C values. The animal's own biochemical processes can also impact the results: for example, both bone minerals and bone collagen typically have a higher concentration of 13C than is found in the animal's diet, though for different biochemical reasons. The enrichment of bone 13C also implies that excreted material is depleted in 13C relative to the diet.\nSince 13C makes up about 1% of the carbon in a sample, the 13C/12C ratio can be accurately measured by mass spectrometry. Typical values of δ13C have been found by experiment for many plants, as well as for different parts of animals such as bone collagen, but when dating a given sample it is better to determine the δ13C value for that sample directly than to rely on the published values.\nThe carbon exchange between atmospheric CO2 and carbonate at the ocean surface is also subject to fractionation, with 14C in the atmosphere more likely than 12C to dissolve in the ocean. The result is an overall increase in the 14C/12C ratio in the ocean of 1.5%, relative to the 14C/12C ratio in the atmosphere. This increase in 14C concentration almost exactly cancels out the decrease caused by the upwelling of water (containing old, and hence 14C-depleted, carbon) from the deep ocean, so that direct measurements of 14C radiation are similar to measurements for the rest of the biosphere. Correcting for isotopic fractionation, as is done for all radiocarbon dates to allow comparison between results from different parts of the biosphere, gives an apparent age of about 400 years for ocean surface water.\nLibby's original exchange reservoir hypothesis assumed that the 14C/12C ratio in the exchange reservoir is constant all over the world, but it has since been discovered that there are several causes of variation in the ratio across the reservoir.\nThe CO2 in the atmosphere transfers to the ocean by dissolving in the surface water as carbonate and bicarbonate ions; at the same time the carbonate ions in the water are returning to the air as CO2. This exchange process brings 14C from the atmosphere into the surface waters of the ocean, but the 14C thus introduced takes a long time to percolate through the entire volume of the ocean. The deepest parts of the ocean mix very slowly with the surface waters, and the mixing is uneven. The main mechanism that brings deep water to the surface is upwelling, which is more common in regions closer to the equator. Upwelling is also influenced by factors such as the topography of the local ocean bottom and coastlines, the climate, and wind patterns. Overall, the mixing of deep and surface waters takes far longer than the mixing of atmospheric CO2 with the surface waters, and as a result water from some deep ocean areas has an apparent radiocarbon age of several thousand years. Upwelling mixes this \"old\" water with the surface water, giving the surface water an apparent age of about several hundred years (after correcting for fractionation). This effect is not uniform – the average effect is about 400 years, but there are local deviations of several hundred years for areas that are geographically close to each other. These deviations can be accounted for in calibration, and users of software such as CALIB can provide as an input the appropriate correction for the location of their samples. The effect also applies to marine organisms such as shells, and marine mammals such as whales and seals, which have radiocarbon ages that appear to be hundreds of years old.\nThe northern and southern hemispheres have atmospheric circulation systems that are sufficiently independent of each other that there is a noticeable time lag in mixing between the two. The atmospheric 14C/12C ratio is lower in the southern hemisphere, with an apparent additional age of about 40 years for radiocarbon results from the south as compared to the north. This is because the greater surface area of ocean in the southern hemisphere means that there is more carbon exchanged between the ocean and the atmosphere than in the north. Since the surface ocean is depleted in 14C because of the marine effect, 14C is removed from the southern atmosphere more quickly than in the north. The effect is strengthened by strong upwelling around Antarctica.\nIf the carbon in freshwater is partly acquired from aged carbon, such as rocks, then the result will be a reduction in the 14C/12C ratio in the water. For example, rivers that pass over limestone, which is mostly composed of calcium carbonate, will acquire carbonate ions. Similarly, groundwater can contain carbon derived from the rocks through which it has passed. These rocks are usually so old that they no longer contain any measurable 14C, so this carbon lowers the 14C/12C ratio of the water it enters, which can lead to apparent ages of thousands of years for both the affected water and the plants and freshwater organisms that live in it. This is known as the hard water effect because it is often associated with calcium ions, which are characteristic of hard water; other sources of carbon such as humus can produce similar results, and can also reduce the apparent age if they are of more recent origin than the sample. The effect varies greatly and there is no general offset that can be applied; additional research is usually needed to determine the size of the offset, for example by comparing the radiocarbon age of deposited freshwater shells with associated organic material.\nVolcanic eruptions eject large amounts of carbon into the air. The carbon is of geological origin and has no detectable 14C, so the 14C/12C ratio near the volcano is depressed relative to surrounding areas. Dormant volcanoes can also emit aged carbon. Plants that photosynthesize this carbon also have lower 14C/12C ratios: for example, plants in the neighbourhood of the Furnas caldera in the Azores were found to have apparent ages that ranged from 250 years to 3320 years.\nAny addition of carbon to a sample of a different age will cause the measured date to be inaccurate. Contamination with modern carbon causes a sample to appear to be younger than it really is: the effect is greater for older samples. If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years. Contamination with old carbon, with no remaining 14C, causes an error in the other direction independent of age – a sample contaminated with 1% old carbon will appear to be about 80 years older than it truly is, regardless of the date of the sample."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 5730,
+   "unit": "years",
+   "surface": "5,730 years",
+   "sentence": "The half-life of 14C (the period of time after which half of a given sample will have decayed) is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
+  },
+  "f2": {
+   "kind": "measure",
+   "value": 50000,
+   "unit": "years",
+   "surface": "50,000 years",
+   "sentence": "The half-life of 14C (the period of time after which half of a given sample will have decayed) is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1960",
+   "surface": "1960",
+   "sentence": "Libby received the Nobel Prize in Chemistry for his work in 1960."
+  },
+  "f4": {
+   "kind": "measure",
+   "value": 50000,
+   "unit": "years",
+   "surface": "50,000 years",
+   "sentence": "Research has been ongoing since the 1960s to determine the proportion of 14C in the atmosphere over the past 50,000 years."
+  },
+  "f5": {
+   "kind": "date",
+   "value": "1965",
+   "surface": "1965",
+   "sentence": "Conversely, nuclear testing increased the amount of 14C in the atmosphere, which reached a maximum in about 1965 of almost double the amount present in the atmosphere prior to nuclear testing."
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1939",
+   "surface": "1939",
+   "sentence": "In 1939, Martin Kamen and Samuel Ruben of the Radiation Laboratory at Berkeley began experiments to determine if any of the elements common in organic matter had isotopes with half-lives long enough to be of value in biomedical research.",
+   "section": "History"
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1945",
+   "surface": "1945",
+   "sentence": "In 1945, Libby moved to the University of Chicago, where he began his work on radiocarbon dating.",
+   "section": "History"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1946",
+   "surface": "1946",
+   "sentence": "He published a paper in 1946 in which he proposed that the carbon in living matter might include 14C as well as non-radioactive carbon.",
+   "section": "History"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947",
+   "sentence": "The results were summarized in a paper in Science in 1947, in which the authors commented that their results implied it would be possible to date materials containing carbon of organic origin.",
+   "section": "History"
+  },
+  "f10": {
+   "kind": "number",
+   "value": 2625,
+   "surface": "2625",
+   "sentence": "For example, two samples taken from the tombs of two Egyptian kings, Zoser and Sneferu, independently dated to 2625 BC ± 75 years, were dated by radiocarbon measurement to an average of 2800 BC ± 250 years.",
+   "section": "History"
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 75,
+   "unit": "years",
+   "surface": "75 years",
+   "sentence": "For example, two samples taken from the tombs of two Egyptian kings, Zoser and Sneferu, independently dated to 2625 BC ± 75 years, were dated by radiocarbon measurement to an average of 2800 BC ± 250 years.",
+   "section": "History"
+  },
+  "f12": {
+   "kind": "number",
+   "value": 2800,
+   "surface": "2800",
+   "sentence": "For example, two samples taken from the tombs of two Egyptian kings, Zoser and Sneferu, independently dated to 2625 BC ± 75 years, were dated by radiocarbon measurement to an average of 2800 BC ± 250 years.",
+   "section": "History"
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 250,
+   "unit": "years",
+   "surface": "250 years",
+   "sentence": "For example, two samples taken from the tombs of two Egyptian kings, Zoser and Sneferu, independently dated to 2625 BC ± 75 years, were dated by radiocarbon measurement to an average of 2800 BC ± 250 years.",
+   "section": "History"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1949",
+   "surface": "1949",
+   "sentence": "These results were published in Science in December 1949.",
+   "section": "History"
+  },
+  "f15": {
+   "kind": "measure",
+   "value": 11,
+   "unit": "years",
+   "surface": "11 years",
+   "sentence": "Within 11 years of their announcement, more than 20 radiocarbon dating laboratories had been set up worldwide.",
+   "section": "History"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Within 11 years of their announcement, more than 20 radiocarbon dating laboratories had been set up worldwide.",
+   "section": "History"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1960",
+   "surface": "1960",
+   "sentence": "In 1960, Libby was awarded the Nobel Prize in Chemistry for this work.",
+   "section": "History"
+  },
+  "f18": {
+   "kind": "measure",
+   "value": 5730,
+   "unit": "years",
+   "surface": "5,730 years",
+   "sentence": "The half-life of 14C (the time it takes for half of a given amount of 14C to decay) is about 5,730 years, so its concentration in the atmosphere might be expected to decrease over thousands of years, but 14C is constantly being produced in the lower stratosphere and upper troposphere, primarily by galactic cosmic rays, and to a lesser degree by solar cosmic rays.",
+   "section": "Physical and chemical details"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 1.25,
+   "surface": "1.25",
+   "sentence": "The ratio of 14C to 12C is approximately 1.25 parts of 14C to 1012 parts of 12C.",
+   "section": "Physical and chemical details"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1012",
+   "surface": "1012",
+   "sentence": "The ratio of 14C to 12C is approximately 1.25 parts of 14C to 1012 parts of 12C.",
+   "section": "Physical and chemical details"
+  },
+  "f21": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%",
+   "sentence": "In addition, about 1% of the carbon atoms are of the stable isotope 13C.",
+   "section": "Physical and chemical details"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "The equation governing the decay of a radioactive isotope is:\nN\n=\nN\n0\ne\n−\nλ\nt\n\\,e^{-\\lambda t}\\,}\nwhere N0 is the number of atoms of the isotope in the original sample (at time t = 0, when the organism from which the sample was taken died), and N is the number of atoms left after time t. λ is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-life – i.e. the average or expected time a given atom will survive before undergoing radioactive decay.",
+   "section": "Physical and chemical details"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "The equation governing the decay of a radioactive isotope is:\nN\n=\nN\n0\ne\n−\nλ\nt\n\\,e^{-\\lambda t}\\,}\nwhere N0 is the number of atoms of the isotope in the original sample (at time t = 0, when the organism from which the sample was taken died), and N is the number of atoms left after time t. λ is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-life – i.e. the average or expected time a given atom will survive before undergoing radioactive decay.",
+   "section": "Physical and chemical details"
+  },
+  "f24": {
+   "kind": "measure",
+   "value": 8267,
+   "unit": "years",
+   "surface": "8,267 years",
+   "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
+   "section": "Physical and chemical details"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
+   "section": "Physical and chemical details"
+  },
+  "f26": {
+   "kind": "measure",
+   "value": 8267,
+   "unit": "years",
+   "surface": "8267 years",
+   "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
+   "section": "Physical and chemical details"
+  },
+  "f27": {
+   "kind": "measure",
+   "value": 8267,
+   "unit": "years",
+   "surface": "8267 years",
+   "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
+   "section": "Physical and chemical details"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 5700,
+   "surface": "5,700",
+   "sentence": "The currently accepted value for the half-life of 14C is 5,700 ± 30 years.",
+   "section": "Physical and chemical details"
+  },
+  "f29": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "years",
+   "surface": "30 years",
+   "sentence": "The currently accepted value for the half-life of 14C is 5,700 ± 30 years.",
+   "section": "Physical and chemical details"
+  },
+  "f30": {
+   "kind": "measure",
+   "value": 5700,
+   "unit": "years",
+   "surface": "5,700 years",
+   "sentence": "This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.",
+   "section": "Physical and chemical details"
+  },
+  "f31": {
+   "kind": "measure",
+   "value": 11400,
+   "unit": "years",
+   "surface": "11,400 years",
+   "sentence": "This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.",
+   "section": "Physical and chemical details"
+  },
+  "f32": {
+   "kind": "measure",
+   "value": 17100,
+   "unit": "years",
+   "surface": "17,100 years",
+   "sentence": "This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.",
+   "section": "Physical and chemical details"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1949",
+   "surface": "1949",
+   "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
+   "section": "Physical and chemical details"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 5720,
+   "surface": "5720",
+   "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
+   "section": "Physical and chemical details"
+  },
+  "f35": {
+   "kind": "measure",
+   "value": 47,
+   "unit": "years",
+   "surface": "47 years",
+   "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
+   "section": "Physical and chemical details"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 5568,
+   "surface": "5568",
+   "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
+   "section": "Physical and chemical details"
+  },
+  "f37": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "years",
+   "surface": "30 years",
+   "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
+   "section": "Physical and chemical details"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 5730,
+   "surface": "5,730",
+   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).",
+   "section": "Physical and chemical details"
+  },
+  "f39": {
+   "kind": "measure",
+   "value": 40,
+   "unit": "years",
+   "surface": "40 years",
+   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).",
+   "section": "Physical and chemical details"
+  },
+  "f40": {
+   "kind": "measure",
+   "value": 3,
+   "unit": "%",
+   "surface": "3%",
+   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).",
+   "section": "Physical and chemical details"
+  },
+  "f41": {
+   "kind": "date",
+   "value": "1962",
+   "surface": "1962",
+   "sentence": "For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the \"Libby half-life\" of 5568 years.",
+   "section": "Physical and chemical details"
+  },
+  "f42": {
+   "kind": "measure",
+   "value": 5568,
+   "unit": "years",
+   "surface": "5568 years",
+   "sentence": "For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the \"Libby half-life\" of 5568 years.",
+   "section": "Physical and chemical details"
+  },
+  "f43": {
+   "kind": "measure",
+   "value": 1.9,
+   "unit": "%",
+   "surface": "1.9%",
+   "sentence": "The atmosphere, which is where 14C is generated, contains about 1.9% of the total carbon in the reservoirs, and the 14C it contains mixes in less than seven years.",
+   "section": "Physical and chemical details"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 2.4,
+   "unit": "%",
+   "surface": "2.4%",
+   "sentence": "The ocean surface is an example: it contains 2.4% of the carbon in the exchange reservoir, but there is only about 95% as much 14C as would be expected if the ratio were the same as in the atmosphere.",
+   "section": "Physical and chemical details"
+  },
+  "f45": {
+   "kind": "measure",
+   "value": 95,
+   "unit": "%",
+   "surface": "95%",
+   "sentence": "The ocean surface is an example: it contains 2.4% of the carbon in the exchange reservoir, but there is only about 95% as much 14C as would be expected if the ratio were the same as in the atmosphere.",
+   "section": "Physical and chemical details"
+  },
+  "f46": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90%",
+   "sentence": "The time it takes for carbon from the atmosphere to mix with the surface ocean is only a few years, but the surface waters also receive water from the deep ocean, which has more than 90% of the carbon in the reservoir.",
+   "section": "Physical and chemical details"
+  },
+  "f47": {
+   "kind": "measure",
+   "value": 1000,
+   "unit": "years",
+   "surface": "1,000 years",
+   "sentence": "Water in the deep ocean takes about 1,000 years to circulate back through surface waters, and so the surface waters contain a combination of older water, with depleted 14C, and water recently at the surface, with 14C in equilibrium with the atmosphere.",
+   "section": "Physical and chemical details"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "years",
+   "surface": "400 years",
+   "sentence": "Creatures living at the ocean surface have the same 14C ratios as the water they live in, and as a result of the reduced 14C/12C ratio, the radiocarbon age of marine life is typically about 400 years.",
+   "section": "Physical and chemical details"
+  },
+  "f49": {
+   "kind": "measure",
+   "value": 1.3,
+   "unit": "%",
+   "surface": "1.3%",
+   "sentence": "These organisms contain about 1.3% of the carbon in the reservoir; sea organisms have a mass of less than 1% of those on land and are not shown in the diagram.",
+   "section": "Physical and chemical details"
+  },
+  "f50": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%",
+   "sentence": "These organisms contain about 1.3% of the carbon in the reservoir; sea organisms have a mass of less than 1% of those on land and are not shown in the diagram.",
+   "section": "Physical and chemical details"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Accumulated dead organic matter, of both plants and animals, exceeds the mass of the biosphere by a factor of nearly 3, and since this matter is no longer exchanging carbon with its environment, it has a 14C/12C ratio lower than that of the biosphere.",
+   "section": "Physical and chemical details"
+  },
+  "f52": {
+   "kind": "measure",
+   "value": 8000,
+   "unit": "years",
+   "surface": "8,000 years",
+   "sentence": "The question was resolved by the study of tree rings: comparison of overlapping series of tree rings allowed the construction of a continuous sequence of tree-ring data that spanned 8,000 years.",
+   "section": "Dating considerations"
+  },
+  "f53": {
+   "kind": "measure",
+   "value": 13900,
+   "unit": "years",
+   "surface": "13,900 years",
+   "sentence": "(Since that time the tree-ring data series has been extended to 13,900 years.)",
+   "section": "Dating considerations"
+  },
+  "f54": {
+   "kind": "date",
+   "value": "1955",
+   "surface": "1955",
+   "sentence": "This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
+   "section": "Dating considerations"
+  },
+  "f55": {
+   "kind": "measure",
+   "value": 0.2,
+   "unit": "%",
+   "surface": "0.2%",
+   "sentence": "This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
+   "section": "Dating considerations"
+  },
+  "f56": {
+   "kind": "measure",
+   "value": 3,
+   "unit": "%",
+   "surface": "3%",
+   "sentence": "This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
+   "section": "Dating considerations"
+  },
+  "f57": {
+   "kind": "date",
+   "value": "1950",
+   "surface": "1950",
+   "sentence": "From about 1950 until 1963, when atmospheric nuclear testing was banned, it is estimated that several tonnes of 14C were created.",
+   "section": "Dating considerations"
+  },
+  "f58": {
+   "kind": "date",
+   "value": "1963",
+   "surface": "1963",
+   "sentence": "From about 1950 until 1963, when atmospheric nuclear testing was banned, it is estimated that several tonnes of 14C were created.",
+   "section": "Dating considerations"
+  },
+  "f59": {
+   "kind": "date",
+   "value": "1964",
+   "surface": "1964",
+   "sentence": "If all this extra 14C had immediately been spread across the entire carbon exchange reservoir, it would have led to an increase in the 14C/12C ratio of only a few per cent, but the immediate effect was to almost double the amount of 14C in the atmosphere, with the peak level occurring in 1964 for the northern hemisphere, and in 1966 for the southern hemisphere.",
+   "section": "Dating considerations"
+  },
+  "f60": {
+   "kind": "date",
+   "value": "1966",
+   "surface": "1966",
+   "sentence": "If all this extra 14C had immediately been spread across the entire carbon exchange reservoir, it would have led to an increase in the 14C/12C ratio of only a few per cent, but the immediate effect was to almost double the amount of 14C in the atmosphere, with the peak level occurring in 1964 for the northern hemisphere, and in 1966 for the southern hemisphere.",
+   "section": "Dating considerations"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f62": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f65": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f66": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f67": {
+   "kind": "date",
+   "value": "1000",
+   "surface": "1000",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f70": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f71": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f72": {
+   "kind": "date",
+   "value": "1000",
+   "surface": "1000",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f73": {
+   "kind": "measure",
+   "value": 14,
+   "unit": "°c",
+   "surface": "14 °C",
+   "sentence": "Under these conditions, fractionation is reduced, and at temperatures above 14 °C the δ13C values are correspondingly higher, while at lower temperatures, CO2 becomes more soluble and hence more available to marine organisms.",
+   "section": "Dating considerations"
+  },
+  "f74": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%",
+   "sentence": "Since 13C makes up about 1% of the carbon in a sample, the 13C/12C ratio can be accurately measured by mass spectrometry.",
+   "section": "Dating considerations"
+  },
+  "f75": {
+   "kind": "measure",
+   "value": 1.5,
+   "unit": "%",
+   "surface": "1.5%",
+   "sentence": "The result is an overall increase in the 14C/12C ratio in the ocean of 1.5%, relative to the 14C/12C ratio in the atmosphere.",
+   "section": "Dating considerations"
+  },
+  "f76": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "years",
+   "surface": "400 years",
+   "sentence": "Correcting for isotopic fractionation, as is done for all radiocarbon dates to allow comparison between results from different parts of the biosphere, gives an apparent age of about 400 years for ocean surface water.",
+   "section": "Dating considerations"
+  },
+  "f77": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "years",
+   "surface": "400 years",
+   "sentence": "This effect is not uniform – the average effect is about 400 years, but there are local deviations of several hundred years for areas that are geographically close to each other.",
+   "section": "Dating considerations"
+  },
+  "f78": {
+   "kind": "measure",
+   "value": 40,
+   "unit": "years",
+   "surface": "40 years",
+   "sentence": "The atmospheric 14C/12C ratio is lower in the southern hemisphere, with an apparent additional age of about 40 years for radiocarbon results from the south as compared to the north.",
+   "section": "Dating considerations"
+  },
+  "f79": {
+   "kind": "measure",
+   "value": 250,
+   "unit": "years",
+   "surface": "250 years",
+   "sentence": "Plants that photosynthesize this carbon also have lower 14C/12C ratios: for example, plants in the neighbourhood of the Furnas caldera in the Azores were found to have apparent ages that ranged from 250 years to 3320 years.",
+   "section": "Dating considerations"
+  },
+  "f80": {
+   "kind": "measure",
+   "value": 3320,
+   "unit": "years",
+   "surface": "3320 years",
+   "sentence": "Plants that photosynthesize this carbon also have lower 14C/12C ratios: for example, plants in the neighbourhood of the Furnas caldera in the Azores were found to have apparent ages that ranged from 250 years to 3320 years.",
+   "section": "Dating considerations"
+  },
+  "f81": {
+   "kind": "measure",
+   "value": 17000,
+   "unit": "years",
+   "surface": "17,000 years",
+   "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
+   "section": "Dating considerations"
+  },
+  "f82": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%",
+   "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
+   "section": "Dating considerations"
+  },
+  "f83": {
+   "kind": "measure",
+   "value": 600,
+   "unit": "years",
+   "surface": "600 years",
+   "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
+   "section": "Dating considerations"
+  },
+  "f84": {
+   "kind": "measure",
+   "value": 34000,
+   "unit": "years",
+   "surface": "34,000 years",
+   "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
+   "section": "Dating considerations"
+  },
+  "f85": {
+   "kind": "measure",
+   "value": 4000,
+   "unit": "years",
+   "surface": "4,000 years",
+   "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
+   "section": "Dating considerations"
+  },
+  "f86": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%",
+   "sentence": "Contamination with old carbon, with no remaining 14C, causes an error in the other direction independent of age – a sample contaminated with 1% old carbon will appear to be about 80 years older than it truly is, regardless of the date of the sample.",
+   "section": "Dating considerations"
+  },
+  "f87": {
+   "kind": "measure",
+   "value": 80,
+   "unit": "years",
+   "surface": "80 years",
+   "sentence": "Contamination with old carbon, with no remaining 14C, causes an error in the other direction independent of age – a sample contaminated with 1% old carbon will appear to be about 80 years older than it truly is, regardless of the date of the sample.",
+   "section": "Dating considerations"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:The Temple Scroll (11Q20) - Google Art Project.jpg",
+   "w": 6273,
+   "h": 4501,
+   "alt": "Radiocarbon dating",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Temple_Scroll_%2811Q20%29_-_Google_Art_Project.jpg/960px-The_Temple_Scroll_%2811Q20%29_-_Google_Art_Project.jpg",
+   "sha1": "b6fe85f50d833fbf2809396c3bf6199ac9dc1488",
+   "credit": {
+    "author": "Unknown authorUnknown author",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:The_Temple_Scroll_(11Q20)_-_Google_Art_Project.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "1940s introductions",
+  "American inventions",
+  "Carbon",
+  "Conservation and restoration of cultural heritage",
+  "Externally peer reviewed articles",
+  "Isotopes of carbon",
+  "Radioactivity",
+  "Radiocarbon dating",
+  "Radiometric dating",
+  "Wikipedia articles published in WikiJournal of Science",
+  "Wikipedia articles published in peer-reviewed literature",
+  "Wikipedia articles published in peer-reviewed literature (W2J)"
+ ]
+}
