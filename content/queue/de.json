@@ -312,18 +312,6 @@
   }
  },
  "2026-10-18": {
-  "morning": {
-   "title": "Robert Oppenheimer",
-   "qid": "Q132537",
-   "pageid": 57522,
-   "domain": "people-science",
-   "image": {
-    "file": "File:Oppenheimer (cropped).jpg",
-    "via": "edition:en"
-   },
-   "pickedAt": "2026-10-06T08:58:04.239Z",
-   "attempt": 0
-  },
   "evening": {
    "title": "Triceratops",
    "qid": "Q14384",
@@ -334,6 +322,18 @@
     "via": "own"
    },
    "pickedAt": "2026-10-06T08:58:05.612Z",
+   "attempt": 0
+  },
+  "morning": {
+   "title": "Edelgase",
+   "qid": "Q19609",
+   "pageid": 1252,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Edelgase in Entladungsroehren.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T09:47:01.352Z",
    "attempt": 0
   }
  },

@@ -69,20 +69,20 @@
    "kind": "number",
    "value": 85,
    "surface": "85",
-   "sentence": "Velociraptor (lateinisch velox ‚schnell‘, raptor ‚Räuber‘) ist eine Gattung theropoder Dinosaurier, die vor etwa 85 bis 76 Millionen Jahren in der späten Kreidezeit lebte."
+   "sentence": "Velociraptor ist eine Gattung theropoder Dinosaurier, die vor etwa 85 bis 76 Millionen Jahren in der späten Kreidezeit lebte."
   },
   "f2": {
    "kind": "measure",
    "value": 76000000,
    "unit": "jahren",
    "surface": "76 Millionen Jahren",
-   "sentence": "Velociraptor (lateinisch velox ‚schnell‘, raptor ‚Räuber‘) ist eine Gattung theropoder Dinosaurier, die vor etwa 85 bis 76 Millionen Jahren in der späten Kreidezeit lebte."
+   "sentence": "Velociraptor ist eine Gattung theropoder Dinosaurier, die vor etwa 85 bis 76 Millionen Jahren in der späten Kreidezeit lebte."
   },
   "f3": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "Momentan werden zwei Arten anerkannt: Die Typusart Velociraptor mongoliensis, deren fossile Knochen in der Mongolei und der Inneren Mongolei (China) gefunden wurden, sowie die 2008 beschriebene, bisher nur durch Schädelmaterial aus der Inneren Mongolei bekannte Art Velociraptor osmolskae."
+   "sentence": "Momentan werden zwei Arten anerkannt: Die Typusart Velociraptor mongoliensis, deren fossile Knochen in der Mongolei und der Inneren Mongolei gefunden wurden, sowie die 2008 beschriebene, bisher nur durch Schädelmaterial aus der Inneren Mongolei bekannte Art Velociraptor osmolskae."
   },
   "f4": {
    "kind": "number",
@@ -173,193 +173,123 @@
    "kind": "date",
    "value": "1922",
    "surface": "1922",
-   "sentence": "Eine Expedition des American Museum of Natural History (AMNH) in die mongolische Gobi-Wüste entdeckte im Jahr 1922 das erste bekannte Velociraptor-Fossil: Einen zerdrückten, aber kompletten Schädel zusammen mit einer der vergrößerten Krallen des zweiten Zehs und Fragmenten der Fußknochen (Exemplarnummer AMNH 6515).",
+   "sentence": "Eine Expedition des American Museum of Natural History in die mongolische Gobi-Wüste entdeckte im Jahr 1922 das erste bekannte Velociraptor-Fossil: Einen zerdrückten, aber kompletten Schädel zusammen mit einer der vergrößerten Krallen des zweiten Zehs und Fragmenten der Fußknochen.",
    "section": "Geschichte"
   },
   "f17": {
-   "kind": "number",
-   "value": 6515,
-   "surface": "6515",
-   "sentence": "Eine Expedition des American Museum of Natural History (AMNH) in die mongolische Gobi-Wüste entdeckte im Jahr 1922 das erste bekannte Velociraptor-Fossil: Einen zerdrückten, aber kompletten Schädel zusammen mit einer der vergrößerten Krallen des zweiten Zehs und Fragmenten der Fußknochen (Exemplarnummer AMNH 6515).",
-   "section": "Geschichte"
-  },
-  "f18": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "1924 erfolgte die Erstbeschreibung durch den Museumsleiter Henry Fairfield Osborn als Velociraptor mongoliensis.",
    "section": "Geschichte"
   },
-  "f19": {
+  "f18": {
    "kind": "date",
    "value": "1971",
    "surface": "1971",
-   "sentence": "So wurde 1971 das berühmte Fossil der „Kämpfenden Dinosaurier“ von einer polnisch-mongolischen Forschergruppe entdeckt (Exemplarnummer GIN 100/25), welches einen Velociraptor während eines Kampfes mit einem Protoceratops zeigt.",
+   "sentence": "So wurde 1971 das berühmte Fossil der „Kämpfenden Dinosaurier“von einer polnisch-mongolischen Forschergruppe entdeckt, welches einen Velociraptor während eines Kampfes mit einem Protoceratops zeigt.",
    "section": "Geschichte"
   },
-  "f20": {
-   "kind": "number",
-   "value": 100,
-   "surface": "100",
-   "sentence": "So wurde 1971 das berühmte Fossil der „Kämpfenden Dinosaurier“ von einer polnisch-mongolischen Forschergruppe entdeckt (Exemplarnummer GIN 100/25), welches einen Velociraptor während eines Kampfes mit einem Protoceratops zeigt.",
-   "section": "Geschichte"
-  },
-  "f21": {
+  "f19": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Es gilt als Nationalschatz der Mongolei, wurde jedoch im Jahr 2000 dem American Museum of Natural History in New York für eine temporäre Ausstellung geliehen.",
    "section": "Geschichte"
   },
-  "f22": {
+  "f20": {
    "kind": "date",
    "value": "1988",
    "surface": "1988",
    "sentence": "Zwischen 1988 und 1990 entdeckte ein chinesisch-kanadisches Team Überreste von Velociraptor in Nordchina.",
    "section": "Geschichte"
   },
-  "f23": {
+  "f21": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Zwischen 1988 und 1990 entdeckte ein chinesisch-kanadisches Team Überreste von Velociraptor in Nordchina.",
    "section": "Geschichte"
   },
-  "f24": {
+  "f22": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Amerikanische Wissenschaftler kehrten 1990 in die Mongolei zurück und so entdeckte ein mongolisch-amerikanisches Team mehrere gut erhaltene Skelette.",
    "section": "Geschichte"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "1999 entdeckte ein chinesisch-belgisches Team einen Oberkiefer und ein Tränenbein, die zwar zu Velociraptor gehörten, jedoch untypisch für die Typusart Velociraptor mongoliensis sind.",
    "section": "Geschichte"
   },
-  "f26": {
+  "f24": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Forscher um Pascal Godefroit beschrieben diesen Fund 2008 als Holotypus einer neuen Art, Velociraptor osmolskae.",
    "section": "Geschichte"
   },
-  "f27": {
+  "f25": {
    "kind": "number",
    "value": 85,
    "surface": "85",
-   "sentence": "Diese geologischen Formationen werden auf die Oberkreide (spätes Santonium bis mittleres Campanium) datiert und sind damit etwa 85 bis 76 Millionen Jahre alt.",
+   "sentence": "Diese geologischen Formationen werden auf die Oberkreide datiert und sind damit etwa 85 bis 76 Millionen Jahre alt.",
    "section": "Fundorte"
   },
-  "f28": {
+  "f26": {
    "kind": "measure",
    "value": 76000000,
    "unit": "jahre",
    "surface": "76 Millionen Jahre",
-   "sentence": "Diese geologischen Formationen werden auf die Oberkreide (spätes Santonium bis mittleres Campanium) datiert und sind damit etwa 85 bis 76 Millionen Jahre alt.",
+   "sentence": "Diese geologischen Formationen werden auf die Oberkreide datiert und sind damit etwa 85 bis 76 Millionen Jahre alt.",
    "section": "Fundorte"
   },
-  "f29": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "So entwirft eine aktuelle kladistische Analyse von Forschern um Mark Norell (2006) eine Gattung Velociraptorinae, die Velociraptor, Deinonychus, Tsaagan sowie Saurornitholestes mit einschließt.",
-   "section": "Systematik"
-  },
-  "f30": {
-   "kind": "date",
-   "value": "2009",
-   "surface": "2009",
-   "sentence": "Eine weitere Analyse von Longrich und Currie (2009) ordnet den Velociraptorinae die Gattungen Velociraptor, Itemirus, Tsaagan und Adasaurus zu, wobei Itemirus als die am engsten mit Velociraptor verwandte Gattung betrachtet wird.",
-   "section": "Systematik"
-  },
-  "f31": {
-   "kind": "date",
-   "value": "2010",
-   "surface": "2010",
-   "sentence": "Csiki und Kollegen (2010) kommen zu dem Schluss, dass der erst kürzlich entdeckte Balaur der engste Verwandte von Velociraptor war.",
-   "section": "Systematik"
-  },
-  "f32": {
-   "kind": "date",
-   "value": "2009",
-   "surface": "2009",
-   "sentence": "Es folgt ein aktuelles Klassifikationsbeispiel (vereinfacht nach Longrich und Currie, 2009):\nIn der Vergangenheit vermuteten einige Forscher, dass es sich bei einigen anderen Dromaeosauriden wie Deinonychus antirrhopus und Saurornitholestes langstoni um Arten von Velociraptor handelte.",
-   "section": "Systematik"
-  },
-  "f33": {
+  "f27": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "Bei der Erstbeschreibung im Jahr 1924 wurde Velociraptor in die Familie Megalosauridae gestellt, der damals fast alle bekannten fleischfressenden Dinosaurier zugeschrieben wurden.",
    "section": "Systematik"
   },
-  "f34": {
+  "f28": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "Erst seit 1969 wird Velociraptor zusammen mit Dromaeosaurus und Deinonychus innerhalb der Familie Dromaeosauridae klassifiziert.",
    "section": "Systematik"
   },
-  "f35": {
-   "kind": "date",
-   "value": "2005",
-   "surface": "2005",
-   "sentence": "Manning und Kollegen (2005) führten Versuche mit einem hydraulischen Robotermodell des Fußes von Deinonychus an der Bauchdecke eines Schweins durch und zeigten, dass die Sichelkralle der Dromaeosauriden lediglich kleine und rundliche Einstichlöcher hinterließ, jedoch nicht in der Lage war, die Bauchdecke aufzuschlitzen.",
-   "section": "Paläobiologie"
-  },
-  "f36": {
-   "kind": "date",
-   "value": "1998",
-   "surface": "1998",
-   "sentence": "Das lässt Carpenter (1998) vermuten, dass die Sichelkralle nicht zum Aufschlitzen, sondern zum gezielten Durchstechen der Luftröhre oder der Halsadern eingesetzt wurde.",
-   "section": "Paläobiologie"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1974",
-   "surface": "1974",
-   "sentence": "Die Sedimentstrukturen, in denen die beiden Skelette erhalten sind, wurden ursprünglich als Ablagerungen eines Flussdeltas interpretiert, woraus Barsbold (1974) folgerte, dass die Tiere ertranken.",
-   "section": "Paläobiologie"
-  },
-  "f38": {
-   "kind": "date",
-   "value": "1998",
-   "surface": "1998",
-   "sentence": "Carpenter (1998) merkt jedoch an, dass sowohl Vorder- als auch Hinterbeine des Protoceratops-Exemplars fehlen, was der Hypothese eines Lebendbegräbnisses widerspricht.",
-   "section": "Paläobiologie"
-  },
-  "f39": {
+  "f29": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "2008 fanden Paläontologen in der Bayan-Mahandu-Formation Zähne, die vermutlich zu Velociraptor gehören, um einen mit Bissspuren versehenen Kieferknochen, der vermutlich von Protoceratops stammt.",
    "section": "Paläobiologie"
   },
-  "f40": {
+  "f30": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "2007 wurden an einer Elle von Velociraptor Ansätze für zwölf Federkiele der Armschwingen nachgewiesen, womit eine Befiederung letztendlich bestätigt wurde.",
    "section": "Paläobiologie"
   },
-  "f41": {
+  "f31": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "2011 brachte die britische Indierockband Kasabian ein Album unter dem Titel Velociraptor heraus, auf dem Gitarrist Sergio Pizzorno in aggressiver Haltung mit Federn abgebildet ist, so wie sie dem Saurier zugeschrieben werden.",
    "section": "Velociraptor in der Populärkultur"
   },
-  "f42": {
+  "f32": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
    "sentence": "Ferner dient Velociraptor der 1995 gegründeten Profi-Basketballmannschaft von Toronto, den Toronto Raptors, als Namensvorbild.",
    "section": "Velociraptor in der Populärkultur"
   },
-  "f43": {
+  "f33": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",

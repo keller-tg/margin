@@ -66,37 +66,31 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 17,
-   "surface": "17",
-   "sentence": "Das Wort Kartoffel (im 17. Jahrhundert noch Tartuffel) leitet sich von tartufolo ab, dem italienischen Wort für Trüffel, das wiederum abgeleitet ist von lateinisch terrae tuber („Erdknolle“)."
-  },
-  "f2": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Weltweit werden jährlich seit 2011 zwischen 350 und 370 Millionen Tonnen Kartoffeln geerntet."
   },
-  "f3": {
+  "f2": {
    "kind": "number",
    "value": 350,
    "surface": "350",
    "sentence": "Weltweit werden jährlich seit 2011 zwischen 350 und 370 Millionen Tonnen Kartoffeln geerntet."
   },
-  "f4": {
+  "f3": {
    "kind": "measure",
    "value": 370000000,
    "unit": "tonnen",
    "surface": "370 Millionen Tonnen",
    "sentence": "Weltweit werden jährlich seit 2011 zwischen 350 und 370 Millionen Tonnen Kartoffeln geerntet."
   },
-  "f5": {
+  "f4": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Wegen ihrer überwiegend giftigen Pflanzenteile (alles Grüne und die Keimlinge) wurde die Kartoffel im Jahr 2022 zur Giftpflanze des Jahres gewählt."
+   "sentence": "Wegen ihrer überwiegend giftigen Pflanzenteile wurde die Kartoffel im Jahr 2022 zur Giftpflanze des Jahres gewählt."
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 1,
    "unit": "meter",
@@ -104,296 +98,260 @@
    "sentence": "Kartoffeln sind aufrecht oder kletternd wachsende, ausdauernde krautige Pflanzen, die Wuchshöhen von über 1 Meter erreichen können.",
    "section": "Beschreibung"
   },
-  "f7": {
+  "f6": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Die unpaarig gefiederte Blattspreite ist 10 bis 30 Zentimeter lang und 5 bis 15 Zentimeter breit.",
    "section": "Beschreibung"
   },
-  "f8": {
+  "f7": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Die unpaarig gefiederte Blattspreite ist 10 bis 30 Zentimeter lang und 5 bis 15 Zentimeter breit.",
    "section": "Beschreibung"
   },
-  "f9": {
+  "f8": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Die unpaarig gefiederte Blattspreite ist 10 bis 30 Zentimeter lang und 5 bis 15 Zentimeter breit.",
    "section": "Beschreibung"
   },
-  "f10": {
+  "f9": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Die unpaarig gefiederte Blattspreite ist 10 bis 30 Zentimeter lang und 5 bis 15 Zentimeter breit.",
    "section": "Beschreibung"
   },
-  "f11": {
+  "f10": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Die größeren Teilblätter sind zum Teil gestielt und sind bei einer Länge von 2 bis 10 Zentimetern sowie einer Breite von 1 bis 6 Zentimetern eiförmig bis länglich-eiförmig mit etwas herzförmiger Basis sowie spitzem bis zugespitztem oberen Ende.",
    "section": "Beschreibung"
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Die größeren Teilblätter sind zum Teil gestielt und sind bei einer Länge von 2 bis 10 Zentimetern sowie einer Breite von 1 bis 6 Zentimetern eiförmig bis länglich-eiförmig mit etwas herzförmiger Basis sowie spitzem bis zugespitztem oberen Ende.",
    "section": "Beschreibung"
   },
-  "f13": {
+  "f12": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Die größeren Teilblätter sind zum Teil gestielt und sind bei einer Länge von 2 bis 10 Zentimetern sowie einer Breite von 1 bis 6 Zentimetern eiförmig bis länglich-eiförmig mit etwas herzförmiger Basis sowie spitzem bis zugespitztem oberen Ende.",
    "section": "Beschreibung"
   },
-  "f14": {
+  "f13": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Die größeren Teilblätter sind zum Teil gestielt und sind bei einer Länge von 2 bis 10 Zentimetern sowie einer Breite von 1 bis 6 Zentimetern eiförmig bis länglich-eiförmig mit etwas herzförmiger Basis sowie spitzem bis zugespitztem oberen Ende.",
    "section": "Beschreibung"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Die kleineren Teilblätter sind bei einem Durchmesser von 2 bis 15 Millimetern breit-eiförmig bis kreisförmig und besitzen eine Basis, die mehr herzförmig ist, ein stumpferes oberes Ende.",
    "section": "Beschreibung"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Die kleineren Teilblätter sind bei einem Durchmesser von 2 bis 15 Millimetern breit-eiförmig bis kreisförmig und besitzen eine Basis, die mehr herzförmig ist, ein stumpferes oberes Ende.",
    "section": "Beschreibung"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Die Blütenstandsschäfte sind 5 bis 15 Zentimeter lang und behaart.",
    "section": "Beschreibung"
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Die Blütenstandsschäfte sind 5 bis 15 Zentimeter lang und behaart.",
    "section": "Beschreibung"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Die Blütenstiele sind ebenfalls behaart und 3 bis 35 Millimeter lang.",
    "section": "Beschreibung"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Die Blütenstiele sind ebenfalls behaart und 3 bis 35 Millimeter lang.",
    "section": "Beschreibung"
   },
-  "f21": {
+  "f20": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
    "sentence": "Der Blütenkelch ist bei einem Durchmesser von 1,5 bis 2 Zentimetern glockenförmig und fünflappig.",
    "section": "Beschreibung"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Der Blütenkelch ist bei einem Durchmesser von 1,5 bis 2 Zentimetern glockenförmig und fünflappig.",
    "section": "Beschreibung"
   },
-  "f23": {
+  "f22": {
    "kind": "number",
    "value": 3.5,
    "surface": "3,5",
    "sentence": "Die Kronblätter sind weiß bis blau, die Krone ist doppelt so lang wie der Kelch und hat einen Durchmesser von 3,5 bis 4 Zentimeter.",
    "section": "Beschreibung"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Die Kronblätter sind weiß bis blau, die Krone ist doppelt so lang wie der Kelch und hat einen Durchmesser von 3,5 bis 4 Zentimeter.",
    "section": "Beschreibung"
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1753",
    "surface": "1753",
    "sentence": "Solanum tuberosum wurde 1753 von Carl von Linné in Species Plantarum Band 1 Seite 185 erstbeschrieben.",
    "section": "Taxonomie und Systematik"
   },
-  "f26": {
+  "f25": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Solanum tuberosum wurde 1753 von Carl von Linné in Species Plantarum Band 1 Seite 185 erstbeschrieben.",
    "section": "Taxonomie und Systematik"
   },
-  "f27": {
+  "f26": {
    "kind": "number",
    "value": 185,
    "surface": "185",
    "sentence": "Solanum tuberosum wurde 1753 von Carl von Linné in Species Plantarum Band 1 Seite 185 erstbeschrieben.",
    "section": "Taxonomie und Systematik"
   },
-  "f28": {
+  "f27": {
    "kind": "measure",
    "value": 190,
    "unit": "arten",
    "surface": "190 Arten",
-   "sentence": "Zu dieser Sektion gehören schätzungsweise 190 Arten, von denen viele Wildarten sind (ebenfalls knollentragend).",
+   "sentence": "Zu dieser Sektion gehören schätzungsweise 190 Arten, von denen viele Wildarten sind.",
    "section": "Taxonomie und Systematik"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Zudem existiert eine große Anzahl an südamerikanischen Landsorten, die zum Teil mit zu Solanum tuberosum gerechnet werden, andererseits jedoch auch in bis zu 21 eigene Arten aufgeteilt werden.",
    "section": "Taxonomie und Systematik"
   },
-  "f30": {
+  "f29": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Das Potato Genome Sequencing Consortium, ein Team aus 29 Forschungsgruppen aus 14 Ländern, begann im Januar 2006 mit der Arbeit an der Sequenzierung.",
    "section": "Genom und Gentechnik"
   },
-  "f31": {
+  "f30": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Das Potato Genome Sequencing Consortium, ein Team aus 29 Forschungsgruppen aus 14 Ländern, begann im Januar 2006 mit der Arbeit an der Sequenzierung.",
    "section": "Genom und Gentechnik"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Das Potato Genome Sequencing Consortium, ein Team aus 29 Forschungsgruppen aus 14 Ländern, begann im Januar 2006 mit der Arbeit an der Sequenzierung.",
    "section": "Genom und Gentechnik"
   },
-  "f33": {
+  "f32": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Am 10. Juli 2011 wurde das Genom der Kartoffel in Nature veröffentlicht.",
    "section": "Genom und Gentechnik"
   },
-  "f34": {
+  "f33": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Am 10. Juli 2011 wurde das Genom der Kartoffel in Nature veröffentlicht.",
    "section": "Genom und Gentechnik"
   },
-  "f35": {
+  "f34": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Die 1n = 12 Chromosomen enthalten mehr als 39.000 proteincodierende Gene.",
    "section": "Genom und Gentechnik"
   },
-  "f36": {
+  "f35": {
    "kind": "number",
    "value": 39000,
    "surface": "39.000",
    "sentence": "Die 1n = 12 Chromosomen enthalten mehr als 39.000 proteincodierende Gene.",
    "section": "Genom und Gentechnik"
   },
-  "f37": {
+  "f36": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Die haploide Chromosomenzahl 12 ist mikroskopisch an den meiotischen Bivalenten zu zählen.",
    "section": "Genom und Gentechnik"
   },
-  "f38": {
-   "kind": "number",
-   "value": 24,
-   "surface": "24",
-   "sentence": "Es gibt tausende Kultursorten; die meisten sind nicht mehr Diplonten (2n = 24), sondern haben durch züchterische Auswahl einen tetraploiden Chromosomensatz, nämlich 2n = 4x = 48.\nDie Kenntnis der DNA-Sequenz soll es Züchtern ermöglichen, Ertrag, Qualität, Nährwert und Krankheitsresistenz zu verbessern.",
-   "section": "Genom und Gentechnik"
-  },
-  "f39": {
+  "f37": {
    "kind": "number",
    "value": 48,
    "surface": "48",
-   "sentence": "Es gibt tausende Kultursorten; die meisten sind nicht mehr Diplonten (2n = 24), sondern haben durch züchterische Auswahl einen tetraploiden Chromosomensatz, nämlich 2n = 4x = 48.\nDie Kenntnis der DNA-Sequenz soll es Züchtern ermöglichen, Ertrag, Qualität, Nährwert und Krankheitsresistenz zu verbessern.",
+   "sentence": "Es gibt tausende Kultursorten; die meisten sind nicht mehr Diplonten, sondern haben durch züchterische Auswahl einen tetraploiden Chromosomensatz, nämlich 2n = 4x = 48.\nDie Kenntnis der DNA-Sequenz soll es Züchtern ermöglichen, Ertrag, Qualität, Nährwert und Krankheitsresistenz zu verbessern.",
    "section": "Genom und Gentechnik"
   },
-  "f40": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Auch soll die Zeit für die Gewinnung neuer Sorten (derzeit 10–12 Jahre) verkürzt werden.",
-   "section": "Genom und Gentechnik"
-  },
-  "f41": {
-   "kind": "measure",
-   "value": 12,
-   "unit": "jahre",
-   "surface": "12 Jahre",
-   "sentence": "Auch soll die Zeit für die Gewinnung neuer Sorten (derzeit 10–12 Jahre) verkürzt werden.",
-   "section": "Genom und Gentechnik"
-  },
-  "f42": {
+  "f38": {
    "kind": "date",
    "value": "800",
    "surface": "800",
    "sentence": "Eine wichtige Entdeckung sind über 800 Krankheitsresistenzgene, von denen jedes potenziell zur Bekämpfung bedeutender Krankheiten wie des Befalls mit Goldnematoden oder der Kartoffelfäule eingesetzt werden kann.",
    "section": "Genom und Gentechnik"
   },
-  "f43": {
+  "f39": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Amflora wurde im März 2010 zum Anbau zugelassen, die Genehmigung wurde jedoch inzwischen wieder zurückgezogen.",
    "section": "Genom und Gentechnik"
   },
-  "f44": {
+  "f40": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
-   "sentence": "Im Jahr 2017 ist in den USA die cisgene Kartoffel Innate® (2. Generation) für den Anbau und Verzehr zugelassen worden.",
+   "sentence": "Im Jahr 2017 ist in den USA die cisgene Kartoffel Innate® für den Anbau und Verzehr zugelassen worden.",
    "section": "Genom und Gentechnik"
   },
-  "f45": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Im Jahr 2017 ist in den USA die cisgene Kartoffel Innate® (2. Generation) für den Anbau und Verzehr zugelassen worden.",
-   "section": "Genom und Gentechnik"
-  },
-  "f46": {
+  "f41": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Weltweit sind im August 2017 47 unterschiedliche gentechnisch veränderte Kartoffelsorten zum Anbau und Verkauf zugelassen.",
    "section": "Genom und Gentechnik"
   },
-  "f47": {
-   "kind": "number",
-   "value": 47,
-   "surface": "47",
-   "sentence": "Weltweit sind im August 2017 47 unterschiedliche gentechnisch veränderte Kartoffelsorten zum Anbau und Verkauf zugelassen.",
-   "section": "Genom und Gentechnik"
-  },
-  "f48": {
+  "f42": {
    "kind": "measure",
    "value": 0.01,
    "unit": "%",
@@ -401,7 +359,7 @@
    "sentence": "Der Anbau ist mit weniger als 0,01 % der Gesamtfläche an transgenem Anbau auch in den USA sehr bescheiden.",
    "section": "Genom und Gentechnik"
   },
-  "f49": {
+  "f43": {
    "kind": "measure",
    "value": 13000,
    "unit": "jahre",
@@ -409,14 +367,14 @@
    "sentence": "Auf Chiloé fand man die ältesten bekannten Spuren wilder Kartoffeln, man schätzt ihr Alter auf 13.000 Jahre.",
    "section": "Herkunft und Geschichte"
   },
-  "f50": {
+  "f44": {
    "kind": "number",
    "value": 3000,
    "surface": "3.000",
    "sentence": "In dem lange Zeit als Ursprungsland der Kartoffel angesehenen Peru gibt es wiederum mehr als 3.000 endemische Kartoffelsorten.",
    "section": "Herkunft und Geschichte"
   },
-  "f51": {
+  "f45": {
    "kind": "measure",
    "value": 8000,
    "unit": "jahren",
@@ -424,217 +382,203 @@
    "sentence": "Von andinen Siedlungskulturen wurde die Kartoffel bereits vor schätzungsweise 8000 Jahren domestiziert.",
    "section": "Herkunft und Geschichte"
   },
-  "f52": {
+  "f46": {
    "kind": "date",
    "value": "1567",
    "surface": "1567",
    "sentence": "Dies ist bekannt, weil im November 1567 drei Fässer, die Kartoffeln, Orangen und grüne Zitronen enthielten, von Gran Canaria nach Antwerpen, und im Jahre 1574 zwei Fässer mit Kartoffeln von Teneriffa via Gran Canaria nach Rouen verschifft wurden.",
    "section": "Herkunft und Geschichte"
   },
-  "f53": {
+  "f47": {
    "kind": "date",
    "value": "1574",
    "surface": "1574",
    "sentence": "Dies ist bekannt, weil im November 1567 drei Fässer, die Kartoffeln, Orangen und grüne Zitronen enthielten, von Gran Canaria nach Antwerpen, und im Jahre 1574 zwei Fässer mit Kartoffeln von Teneriffa via Gran Canaria nach Rouen verschifft wurden.",
    "section": "Herkunft und Geschichte"
   },
-  "f54": {
+  "f48": {
    "kind": "date",
    "value": "1562",
    "surface": "1562",
    "sentence": "Geht man davon aus, dass mindestens fünf Jahre nötig waren, um so viele Kartoffeln zu erhalten, dass sie zum Exportartikel werden konnten, so fand die Einbürgerung der Pflanze auf den Kanaren spätestens 1562 statt.",
    "section": "Herkunft und Geschichte"
   },
-  "f55": {
+  "f49": {
    "kind": "date",
    "value": "1573",
    "surface": "1573",
    "sentence": "Der früheste Beleg für die Kartoffel in Spanien findet sich in den Büchern des Hospital de la Sangre in Sevilla, das im Jahre 1573 Kartoffeln eingekauft hat.",
    "section": "Herkunft und Geschichte"
   },
-  "f56": {
+  "f50": {
    "kind": "date",
    "value": "1564",
    "surface": "1564",
    "sentence": "Man nimmt an, dass die Kartoffel Spanien frühestens 1564/65 und spätestens 1570 erreicht hat, da ansonsten der Botaniker Clusius, der das Land 1564 auf der Suche nach neuen Pflanzen bereiste, sie wohl bemerkt hätte.",
    "section": "Herkunft und Geschichte"
   },
-  "f57": {
+  "f51": {
    "kind": "date",
    "value": "1570",
    "surface": "1570",
    "sentence": "Man nimmt an, dass die Kartoffel Spanien frühestens 1564/65 und spätestens 1570 erreicht hat, da ansonsten der Botaniker Clusius, der das Land 1564 auf der Suche nach neuen Pflanzen bereiste, sie wohl bemerkt hätte.",
    "section": "Herkunft und Geschichte"
   },
-  "f58": {
+  "f52": {
    "kind": "date",
    "value": "1564",
    "surface": "1564",
    "sentence": "Man nimmt an, dass die Kartoffel Spanien frühestens 1564/65 und spätestens 1570 erreicht hat, da ansonsten der Botaniker Clusius, der das Land 1564 auf der Suche nach neuen Pflanzen bereiste, sie wohl bemerkt hätte.",
    "section": "Herkunft und Geschichte"
   },
-  "f59": {
+  "f53": {
    "kind": "date",
    "value": "1596",
    "surface": "1596",
    "sentence": "Erstmals belegt ist die Kartoffel in England im 1596 in London erschienenen Katalog der Pflanzen, die der Botaniker John Gerard in seinem Garten in Holborn züchtete.",
    "section": "Herkunft und Geschichte"
   },
-  "f60": {
+  "f54": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Mitte des 17. Jahrhunderts tauchte sie in den Niederlanden, in Italien und in Burgund auf.",
    "section": "Herkunft und Geschichte"
   },
-  "f61": {
+  "f55": {
    "kind": "date",
    "value": "1647",
    "surface": "1647",
    "sentence": "1647 in Pilgramsreuth im heutigen Oberfranken angebaut worden sein.",
    "section": "Herkunft und Geschichte"
   },
-  "f62": {
+  "f56": {
    "kind": "date",
    "value": "1621",
    "surface": "1621",
    "sentence": "Im Stift Seitenstetten in Niederösterreich verfasste der Benediktinerabt Caspar Plautz ein Kochbuch mit Kartoffelrezepten, das bereits 1621 in Linz erschien.",
    "section": "Herkunft und Geschichte"
   },
-  "f63": {
-   "kind": "date",
-   "value": "1644",
-   "surface": "1644",
-   "sentence": "Als erster deutscher Fürst, der in seinem Land den Kartoffelbau einführte, gilt Christian Ernst, Markgraf von Bayreuth (1644–1712); allerdings fehlte es zur Umsetzung an der Bereitschaft der Bauern.",
-   "section": "Herkunft und Geschichte"
-  },
-  "f64": {
-   "kind": "date",
-   "value": "1712",
-   "surface": "1712",
-   "sentence": "Als erster deutscher Fürst, der in seinem Land den Kartoffelbau einführte, gilt Christian Ernst, Markgraf von Bayreuth (1644–1712); allerdings fehlte es zur Umsetzung an der Bereitschaft der Bauern.",
-   "section": "Herkunft und Geschichte"
-  },
-  "f65": {
+  "f57": {
    "kind": "date",
    "value": "1600",
    "surface": "1600",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f66": {
+  "f58": {
    "kind": "date",
    "value": "1684",
    "surface": "1684",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f67": {
+  "f59": {
    "kind": "date",
    "value": "1716",
    "surface": "1716",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f68": {
+  "f60": {
    "kind": "date",
    "value": "1728",
    "surface": "1728",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f69": {
+  "f61": {
    "kind": "date",
    "value": "1738",
    "surface": "1738",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f70": {
+  "f62": {
    "kind": "date",
    "value": "1760",
    "surface": "1760",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f71": {
+  "f63": {
    "kind": "date",
    "value": "1783",
    "surface": "1783",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f72": {
+  "f64": {
    "kind": "date",
    "value": "1797",
    "surface": "1797",
    "sentence": "Der Anbau in großem Stil begann um 1600 in Irland, 1684 in Lancashire, 1716 in Sachsen, 1728 in Schottland, 1738 in Preußen, 1760 in Dänemark, 1783 in Frankreich und in der spanischen Levante und 1797 in Kastilien.",
    "section": "Herkunft und Geschichte"
   },
-  "f73": {
+  "f65": {
    "kind": "date",
    "value": "1748",
    "surface": "1748",
    "sentence": "Über eine Besonderheit der Landwirtschaft wird berichtet: „In den nördlichen Gegenden unseres Braunschweiger Landes soll der Überlieferung nach die Kartoffel zuerst durch die 1748 aus den Niederlanden heimkehrenden Truppen verbreitet sein, indem sie dieselben in ihren Tornistern als Neuheit mitbrachten und ihre Angehörigen zum Anbau derselben bewogen.",
    "section": "Herkunft und Geschichte"
   },
-  "f74": {
+  "f66": {
    "kind": "date",
    "value": "1748",
    "surface": "1748",
-   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“ Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
+   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
    "section": "Herkunft und Geschichte"
   },
-  "f75": {
+  "f67": {
    "kind": "date",
    "value": "1753",
    "surface": "1753",
-   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“ Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
+   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
    "section": "Herkunft und Geschichte"
   },
-  "f76": {
+  "f68": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“ Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
+   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
    "section": "Herkunft und Geschichte"
   },
-  "f77": {
+  "f69": {
    "kind": "date",
    "value": "1747",
    "surface": "1747",
-   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“ Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
+   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
    "section": "Herkunft und Geschichte"
   },
-  "f78": {
+  "f70": {
    "kind": "date",
    "value": "1748",
    "surface": "1748",
-   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“ Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
+   "sentence": "Vor Wendeburg und Zweidorf erfolgte derselbe noch im Jahre 1748. – In der Stadt Braunschweig werden Erdtuffeln zuerst im Jahre 1753 unter den Gartenfrüchten erwähnt.“Auf Vorschlag des Hofjägermeisters Georg von Langen und mit herzoglicher Genehmigung vom 3. November 1747 begann im folgenden Jahr 1748 der Kartoffelanbau bei Braunlage im Harz.",
    "section": "Herkunft und Geschichte"
   },
-  "f79": {
+  "f71": {
    "kind": "date",
    "value": "1751",
    "surface": "1751",
    "sentence": "Leider stellte sich der gewünschte Erfolg nicht ein und 1751 verweigerten die dortigen Bauern den weiteren Anbau.",
    "section": "Herkunft und Geschichte"
   },
-  "f80": {
+  "f72": {
    "kind": "date",
    "value": "1748",
    "surface": "1748",
    "sentence": "Die Inschrift lautet: „Hier sind 1748 die ersten Versuche mit dem Anbau der Kartoffel gemacht.",
    "section": "Herkunft und Geschichte"
   },
-  "f81": {
+  "f73": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "Der Name ‚Kartoffelhecke‘ erinnerte daran noch 1885.“\nAußerhalb tropischer, arktischer und subarktischer Klimazonen wird die Kartoffel heute weltweit angebaut.",
    "section": "Herkunft und Geschichte"
   },
-  "f82": {
+  "f74": {
    "kind": "measure",
    "value": 2000,
    "unit": "meter",
@@ -642,22 +586,22 @@
    "sentence": "Aus Gründen des Ertrags werden Kartoffeln im Alpenraum nur noch selten bis auf 2.000 Meter Höhe angebaut.",
    "section": "Herkunft und Geschichte"
   },
-  "f83": {
+  "f75": {
    "kind": "measure",
    "value": 150,
    "unit": "ha",
    "surface": "150 ha",
-   "sentence": "Eine dieser Anbauinseln ist der Lungau (Österreich), wo unter der Bezeichnung Lungauer Eachtling auf 150 ha verschiedene Sorten angebaut werden.",
+   "sentence": "Eine dieser Anbauinseln ist der Lungau, wo unter der Bezeichnung Lungauer Eachtling auf 150 ha verschiedene Sorten angebaut werden.",
    "section": "Herkunft und Geschichte"
   },
-  "f84": {
+  "f76": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Laut der Ernährungs- und Landwirtschaftsorganisation FAO betrug im Jahr 2023 die Weltproduktion 383 Millionen Tonnen Kartoffeln.",
    "section": "Kartoffelanbau"
   },
-  "f85": {
+  "f77": {
    "kind": "measure",
    "value": 383000000,
    "unit": "tonnen",
@@ -665,14 +609,14 @@
    "sentence": "Laut der Ernährungs- und Landwirtschaftsorganisation FAO betrug im Jahr 2023 die Weltproduktion 383 Millionen Tonnen Kartoffeln.",
    "section": "Kartoffelanbau"
   },
-  "f86": {
+  "f78": {
    "kind": "number",
    "value": 16800000,
    "surface": "16,8 Mio",
    "sentence": "Die gesamte Anbaufläche betrug 16,8 Mio. Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f87": {
+  "f79": {
    "kind": "measure",
    "value": 22.8,
    "unit": "t",
@@ -680,14 +624,14 @@
    "sentence": "Der durchschnittliche Ertrag lag bei 22,8 t/ha.",
    "section": "Kartoffelanbau"
   },
-  "f88": {
+  "f80": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Die nachfolgende Tabelle gibt eine Übersicht über die 20 wichtigsten Anbauländer von Kartoffeln, die insgesamt 81,3 % der weltweiten Gesamtmenge produzierten.",
    "section": "Kartoffelanbau"
   },
-  "f89": {
+  "f81": {
    "kind": "measure",
    "value": 81.3,
    "unit": "%",
@@ -695,14 +639,14 @@
    "sentence": "Die nachfolgende Tabelle gibt eine Übersicht über die 20 wichtigsten Anbauländer von Kartoffeln, die insgesamt 81,3 % der weltweiten Gesamtmenge produzierten.",
    "section": "Kartoffelanbau"
   },
-  "f90": {
+  "f82": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Zum Vergleich: Im Jahr 2023 wurden in Österreich 594.040 t und in der Schweiz 360.394 t geerntet.",
    "section": "Kartoffelanbau"
   },
-  "f91": {
+  "f83": {
    "kind": "measure",
    "value": 594040,
    "unit": "t",
@@ -710,7 +654,7 @@
    "sentence": "Zum Vergleich: Im Jahr 2023 wurden in Österreich 594.040 t und in der Schweiz 360.394 t geerntet.",
    "section": "Kartoffelanbau"
   },
-  "f92": {
+  "f84": {
    "kind": "measure",
    "value": 360394,
    "unit": "t",
@@ -718,21 +662,21 @@
    "sentence": "Zum Vergleich: Im Jahr 2023 wurden in Österreich 594.040 t und in der Schweiz 360.394 t geerntet.",
    "section": "Kartoffelanbau"
   },
-  "f93": {
+  "f85": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "In Deutschland lag die durchschnittliche Anbaufläche von dem Jahr 2000 bis 2019 laut FAO bei etwa 265.000 ha.",
    "section": "Kartoffelanbau"
   },
-  "f94": {
+  "f86": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "In Deutschland lag die durchschnittliche Anbaufläche von dem Jahr 2000 bis 2019 laut FAO bei etwa 265.000 ha.",
    "section": "Kartoffelanbau"
   },
-  "f95": {
+  "f87": {
    "kind": "measure",
    "value": 265000,
    "unit": "ha",
@@ -740,14 +684,14 @@
    "sentence": "In Deutschland lag die durchschnittliche Anbaufläche von dem Jahr 2000 bis 2019 laut FAO bei etwa 265.000 ha.",
    "section": "Kartoffelanbau"
   },
-  "f96": {
+  "f88": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "2019 lag die Anbaufläche bei 264.700 ha.",
    "section": "Kartoffelanbau"
   },
-  "f97": {
+  "f89": {
    "kind": "measure",
    "value": 264700,
    "unit": "ha",
@@ -755,82 +699,52 @@
    "sentence": "2019 lag die Anbaufläche bei 264.700 ha.",
    "section": "Kartoffelanbau"
   },
-  "f98": {
+  "f90": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Seit dem Jahr 2000 (304.380 ha) nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
+   "sentence": "Seit dem Jahr 2000 nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
    "section": "Kartoffelanbau"
   },
-  "f99": {
-   "kind": "measure",
-   "value": 304380,
-   "unit": "ha",
-   "surface": "304.380 ha",
-   "sentence": "Seit dem Jahr 2000 (304.380 ha) nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
-   "section": "Kartoffelanbau"
-  },
-  "f100": {
+  "f91": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
-   "sentence": "Seit dem Jahr 2000 (304.380 ha) nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
+   "sentence": "Seit dem Jahr 2000 nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
    "section": "Kartoffelanbau"
   },
-  "f101": {
+  "f92": {
    "kind": "measure",
    "value": 236700,
    "unit": "ha",
    "surface": "236.700 ha",
-   "sentence": "Seit dem Jahr 2000 (304.380 ha) nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
+   "sentence": "Seit dem Jahr 2000 nahm die Fläche mehr oder weniger kontinuierlich ab und erreichte 2015 einen Tiefpunkt mit 236.700 ha.",
    "section": "Kartoffelanbau"
   },
-  "f102": {
-   "kind": "date",
-   "value": "2023",
-   "surface": "2023",
-   "sentence": "Seitdem stieg sie wieder deutlich an.(2023): 264.700 ha.",
-   "section": "Kartoffelanbau"
-  },
-  "f103": {
+  "f93": {
    "kind": "measure",
    "value": 264700,
    "unit": "ha",
    "surface": "264.700 ha",
-   "sentence": "Seitdem stieg sie wieder deutlich an.(2023): 264.700 ha.",
+   "sentence": "Seitdem stieg sie wieder deutlich an.: 264.700 ha.",
    "section": "Kartoffelanbau"
   },
-  "f104": {
+  "f94": {
    "kind": "measure",
    "value": 39,
    "unit": "t",
    "surface": "39,0 t",
-   "sentence": "Der durchschnittliche Hektarertrag lag bei 39,0 t/ha (2023: 43,8 t/ha).",
+   "sentence": "Der durchschnittliche Hektarertrag lag bei 39,0 t/ha.",
    "section": "Kartoffelanbau"
   },
-  "f105": {
-   "kind": "date",
-   "value": "2023",
-   "surface": "2023",
-   "sentence": "Der durchschnittliche Hektarertrag lag bei 39,0 t/ha (2023: 43,8 t/ha).",
-   "section": "Kartoffelanbau"
-  },
-  "f106": {
-   "kind": "measure",
-   "value": 43.8,
-   "unit": "t",
-   "surface": "43,8 t",
-   "sentence": "Der durchschnittliche Hektarertrag lag bei 39,0 t/ha (2023: 43,8 t/ha).",
-   "section": "Kartoffelanbau"
-  },
-  "f107": {
+  "f95": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "2025 lag die Anbaufläche bei über 300.000 ha.",
    "section": "Kartoffelanbau"
   },
-  "f108": {
+  "f96": {
    "kind": "measure",
    "value": 300000,
    "unit": "ha",
@@ -838,28 +752,28 @@
    "sentence": "2025 lag die Anbaufläche bei über 300.000 ha.",
    "section": "Kartoffelanbau"
   },
-  "f109": {
+  "f97": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Die Erntemenge lag seit Jahren zwischen 10 und 11 Mio. t.",
    "section": "Kartoffelanbau"
   },
-  "f110": {
+  "f98": {
    "kind": "number",
    "value": 11000000,
    "surface": "11 Mio",
    "sentence": "Die Erntemenge lag seit Jahren zwischen 10 und 11 Mio. t.",
    "section": "Kartoffelanbau"
   },
-  "f111": {
+  "f99": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "2025 wurden 13,4 Millionen Tonnen Kartoffeln geerntet.",
    "section": "Kartoffelanbau"
   },
-  "f112": {
+  "f100": {
    "kind": "measure",
    "value": 13400000,
    "unit": "tonnen",
@@ -867,7 +781,7 @@
    "sentence": "2025 wurden 13,4 Millionen Tonnen Kartoffeln geerntet.",
    "section": "Kartoffelanbau"
   },
-  "f113": {
+  "f101": {
    "kind": "measure",
    "value": 25,
    "unit": "jahren",
@@ -875,7 +789,7 @@
    "sentence": "Laut Bundeslandwirtschaftsministerium war es die beste Kartoffelernte seit 25 Jahren.",
    "section": "Kartoffelanbau"
   },
-  "f114": {
+  "f102": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -883,7 +797,7 @@
    "sentence": "Die Kartoffelpreise für Landwirte fielen um 60 %, während die Kartoffeln im Lebensmitteleinzelhandel nur 15 Prozent weniger kosteten.",
    "section": "Kartoffelanbau"
   },
-  "f115": {
+  "f103": {
    "kind": "measure",
    "value": 15,
    "unit": "prozent",
@@ -891,14 +805,14 @@
    "sentence": "Die Kartoffelpreise für Landwirte fielen um 60 %, während die Kartoffeln im Lebensmitteleinzelhandel nur 15 Prozent weniger kosteten.",
    "section": "Kartoffelanbau"
   },
-  "f116": {
+  "f104": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Der Pro-Kopf-Verbrauch lag dort in den Jahren 2012/2013 bei 55,1 kg.",
    "section": "Kartoffelanbau"
   },
-  "f117": {
+  "f105": {
    "kind": "measure",
    "value": 55.1,
    "unit": "kg",
@@ -906,14 +820,14 @@
    "sentence": "Der Pro-Kopf-Verbrauch lag dort in den Jahren 2012/2013 bei 55,1 kg.",
    "section": "Kartoffelanbau"
   },
-  "f118": {
+  "f106": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Unter guten Anbaubedingungen können von einem Hektar Ackerland in subtropischen Gebieten zwischen 25 und 35 Tonnen geerntet werden, im tropischen Klima erreichen die Ernten 15 bis 25 Tonnen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f119": {
+  "f107": {
    "kind": "measure",
    "value": 35,
    "unit": "tonnen",
@@ -921,14 +835,14 @@
    "sentence": "Unter guten Anbaubedingungen können von einem Hektar Ackerland in subtropischen Gebieten zwischen 25 und 35 Tonnen geerntet werden, im tropischen Klima erreichen die Ernten 15 bis 25 Tonnen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f120": {
+  "f108": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Unter guten Anbaubedingungen können von einem Hektar Ackerland in subtropischen Gebieten zwischen 25 und 35 Tonnen geerntet werden, im tropischen Klima erreichen die Ernten 15 bis 25 Tonnen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f121": {
+  "f109": {
    "kind": "measure",
    "value": 25,
    "unit": "tonnen",
@@ -936,14 +850,14 @@
    "sentence": "Unter guten Anbaubedingungen können von einem Hektar Ackerland in subtropischen Gebieten zwischen 25 und 35 Tonnen geerntet werden, im tropischen Klima erreichen die Ernten 15 bis 25 Tonnen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f122": {
+  "f110": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Für kultivierte Kartoffeln liegen die optimalen Temperaturbedingungen bei einem Tagesmittel zwischen 18 und 20 °C.",
    "section": "Kartoffelanbau"
   },
-  "f123": {
+  "f111": {
    "kind": "measure",
    "value": 20,
    "unit": "°c",
@@ -951,7 +865,7 @@
    "sentence": "Für kultivierte Kartoffeln liegen die optimalen Temperaturbedingungen bei einem Tagesmittel zwischen 18 und 20 °C.",
    "section": "Kartoffelanbau"
   },
-  "f124": {
+  "f112": {
    "kind": "measure",
    "value": 15,
    "unit": "°c",
@@ -959,14 +873,14 @@
    "sentence": "Um die Knollenbildung zu fördern, ist eine Maximalnachttemperatur von 15 °C erforderlich, für das Knollenwachstum ist eine Bodentemperatur von 15 bis 18 °C optimal.",
    "section": "Kartoffelanbau"
   },
-  "f125": {
+  "f113": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Um die Knollenbildung zu fördern, ist eine Maximalnachttemperatur von 15 °C erforderlich, für das Knollenwachstum ist eine Bodentemperatur von 15 bis 18 °C optimal.",
    "section": "Kartoffelanbau"
   },
-  "f126": {
+  "f114": {
    "kind": "measure",
    "value": 18,
    "unit": "°c",
@@ -974,14 +888,14 @@
    "sentence": "Um die Knollenbildung zu fördern, ist eine Maximalnachttemperatur von 15 °C erforderlich, für das Knollenwachstum ist eine Bodentemperatur von 15 bis 18 °C optimal.",
    "section": "Kartoffelanbau"
   },
-  "f127": {
+  "f115": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Sinken die Temperaturen unter 10 oder steigen sie über 30 °C, stellt die Pflanze das Wachstum nahezu ein.",
    "section": "Kartoffelanbau"
   },
-  "f128": {
+  "f116": {
    "kind": "measure",
    "value": 30,
    "unit": "°c",
@@ -989,49 +903,7 @@
    "sentence": "Sinken die Temperaturen unter 10 oder steigen sie über 30 °C, stellt die Pflanze das Wachstum nahezu ein.",
    "section": "Kartoffelanbau"
   },
-  "f129": {
-   "kind": "number",
-   "value": 90,
-   "surface": "90",
-   "sentence": "Kultivierte Kartoffeln werden in frühe (90 bis 120 Tage), mittlere (120 bis 150 Tage) und späte (150 bis 180 Tage) Sorten unterteilt.",
-   "section": "Kartoffelanbau"
-  },
-  "f130": {
-   "kind": "number",
-   "value": 120,
-   "surface": "120",
-   "sentence": "Kultivierte Kartoffeln werden in frühe (90 bis 120 Tage), mittlere (120 bis 150 Tage) und späte (150 bis 180 Tage) Sorten unterteilt.",
-   "section": "Kartoffelanbau"
-  },
-  "f131": {
-   "kind": "number",
-   "value": 120,
-   "surface": "120",
-   "sentence": "Kultivierte Kartoffeln werden in frühe (90 bis 120 Tage), mittlere (120 bis 150 Tage) und späte (150 bis 180 Tage) Sorten unterteilt.",
-   "section": "Kartoffelanbau"
-  },
-  "f132": {
-   "kind": "number",
-   "value": 150,
-   "surface": "150",
-   "sentence": "Kultivierte Kartoffeln werden in frühe (90 bis 120 Tage), mittlere (120 bis 150 Tage) und späte (150 bis 180 Tage) Sorten unterteilt.",
-   "section": "Kartoffelanbau"
-  },
-  "f133": {
-   "kind": "number",
-   "value": 150,
-   "surface": "150",
-   "sentence": "Kultivierte Kartoffeln werden in frühe (90 bis 120 Tage), mittlere (120 bis 150 Tage) und späte (150 bis 180 Tage) Sorten unterteilt.",
-   "section": "Kartoffelanbau"
-  },
-  "f134": {
-   "kind": "number",
-   "value": 180,
-   "surface": "180",
-   "sentence": "Kultivierte Kartoffeln werden in frühe (90 bis 120 Tage), mittlere (120 bis 150 Tage) und späte (150 bis 180 Tage) Sorten unterteilt.",
-   "section": "Kartoffelanbau"
-  },
-  "f135": {
+  "f117": {
    "kind": "measure",
    "value": 8,
    "unit": "°c",
@@ -1039,7 +911,7 @@
    "sentence": "Das Setzen der Pflanzkartoffeln setzt eine Bodentemperatur von mindestens 8 °C voraus; die Bodentemperatur darf geringer sein, wenn das Pflanzgut vorgekeimt oder zumindest in Keimstimmung gebracht wurde oder aber die Knollen unter Folie gesetzt werden.",
    "section": "Kartoffelanbau"
   },
-  "f136": {
+  "f118": {
    "kind": "measure",
    "value": 10,
    "unit": "°c",
@@ -1047,7 +919,7 @@
    "sentence": "Um die Pflanzkartoffeln in Keimstimmung zu bringen, ist eine zwei- bis dreiwöchige Lagerung bei Temperaturen um 10 °C erforderlich oder eine drei- bis viertägige bei Temperaturen um 20 °C.",
    "section": "Kartoffelanbau"
   },
-  "f137": {
+  "f119": {
    "kind": "measure",
    "value": 20,
    "unit": "°c",
@@ -1055,14 +927,14 @@
    "sentence": "Um die Pflanzkartoffeln in Keimstimmung zu bringen, ist eine zwei- bis dreiwöchige Lagerung bei Temperaturen um 10 °C erforderlich oder eine drei- bis viertägige bei Temperaturen um 20 °C.",
    "section": "Kartoffelanbau"
   },
-  "f138": {
+  "f120": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Durch das Setzen vorgekeimter oder zumindest in Keimstimmung gebrachter Kartoffeln – bei vorgekeimten Kartoffeln ist eine Keimlänge von 15 bis 20 mm erstrebenswert – lässt sich neben einem frühen Auflaufen und Reihenschluss durch Altersresistenz eine geringere Gefahr bakterieller oder pilzlicher Pflanzenkrankheiten sicherstellen.",
    "section": "Kartoffelanbau"
   },
-  "f139": {
+  "f121": {
    "kind": "measure",
    "value": 20,
    "unit": "mm",
@@ -1070,42 +942,42 @@
    "sentence": "Durch das Setzen vorgekeimter oder zumindest in Keimstimmung gebrachter Kartoffeln – bei vorgekeimten Kartoffeln ist eine Keimlänge von 15 bis 20 mm erstrebenswert – lässt sich neben einem frühen Auflaufen und Reihenschluss durch Altersresistenz eine geringere Gefahr bakterieller oder pilzlicher Pflanzenkrankheiten sicherstellen.",
    "section": "Kartoffelanbau"
   },
-  "f140": {
+  "f122": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Zum erfolgreichen Anbau früher Kartoffelsorten ist ein Langtag von 15 bis 17 Stunden erforderlich, spätreifende Sorten erzielen sowohl unter Kurztags- als auch Langtagsbedingungen gute Ernten.",
    "section": "Kartoffelanbau"
   },
-  "f141": {
+  "f123": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Zum erfolgreichen Anbau früher Kartoffelsorten ist ein Langtag von 15 bis 17 Stunden erforderlich, spätreifende Sorten erzielen sowohl unter Kurztags- als auch Langtagsbedingungen gute Ernten.",
    "section": "Kartoffelanbau"
   },
-  "f142": {
+  "f124": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f143": {
+  "f125": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f144": {
+  "f126": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f145": {
+  "f127": {
    "kind": "measure",
    "value": 120,
    "unit": "kg",
@@ -1113,14 +985,14 @@
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f146": {
+  "f128": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f147": {
+  "f129": {
    "kind": "measure",
    "value": 80,
    "unit": "kg",
@@ -1128,14 +1000,14 @@
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f148": {
+  "f130": {
    "kind": "number",
    "value": 125,
    "surface": "125",
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f149": {
+  "f131": {
    "kind": "measure",
    "value": 160,
    "unit": "kg",
@@ -1143,28 +1015,28 @@
    "sentence": "Der pH-Wert des Bodens sollte zwischen 5 und 6 liegen, der Bedarf an Nährstoffen liegt bei 80 bis 120 kg Stickstoff je Hektar, 50 bis 80 kg Phosphor je Hektar und 125 bis 160 kg Kalium je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f150": {
+  "f132": {
    "kind": "number",
    "value": 120,
    "surface": "120",
    "sentence": "Der beste Ertrag für Sorten mit einer Reifezeit von 120 bis 150 Tagen wird bei einer Wassermenge von 500 bis 700 mm jährlichem Niederschlag erreicht.",
    "section": "Kartoffelanbau"
   },
-  "f151": {
+  "f133": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Der beste Ertrag für Sorten mit einer Reifezeit von 120 bis 150 Tagen wird bei einer Wassermenge von 500 bis 700 mm jährlichem Niederschlag erreicht.",
    "section": "Kartoffelanbau"
   },
-  "f152": {
+  "f134": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "Der beste Ertrag für Sorten mit einer Reifezeit von 120 bis 150 Tagen wird bei einer Wassermenge von 500 bis 700 mm jährlichem Niederschlag erreicht.",
    "section": "Kartoffelanbau"
   },
-  "f153": {
+  "f135": {
    "kind": "measure",
    "value": 700,
    "unit": "mm",
@@ -1172,14 +1044,14 @@
    "sentence": "Der beste Ertrag für Sorten mit einer Reifezeit von 120 bis 150 Tagen wird bei einer Wassermenge von 500 bis 700 mm jährlichem Niederschlag erreicht.",
    "section": "Kartoffelanbau"
   },
-  "f154": {
+  "f136": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "In Deutschland liegen die Erträge meist bei 30 bis 50 Tonnen je Hektar Anbaufläche.",
    "section": "Kartoffelanbau"
   },
-  "f155": {
+  "f137": {
    "kind": "measure",
    "value": 50,
    "unit": "tonnen",
@@ -1187,7 +1059,7 @@
    "sentence": "In Deutschland liegen die Erträge meist bei 30 bis 50 Tonnen je Hektar Anbaufläche.",
    "section": "Kartoffelanbau"
   },
-  "f156": {
+  "f138": {
    "kind": "measure",
    "value": 80,
    "unit": "tonnen",
@@ -1195,7 +1067,7 @@
    "sentence": "Bei einzelnen Stärkekartoffelsorten wird bei Einsatz gezielter Bewässerung über 80 Tonnen Ertrag je Hektar berichtet.",
    "section": "Kartoffelanbau"
   },
-  "f157": {
+  "f139": {
    "kind": "measure",
    "value": 15,
    "unit": "cm",
@@ -1203,35 +1075,35 @@
    "sentence": "Bei Herbstpflugfurche erfolgt im Frühjahr nochmals eine lockernde Bodenbearbeitung durch nichtwendende Geräte auf rund 15 cm Tiefe.",
    "section": "Kartoffelanbau"
   },
-  "f158": {
+  "f140": {
    "kind": "number",
    "value": 40000,
    "surface": "40.000",
    "sentence": "Angestrebt werden zum Beispiel beim Anbau für Speisezwecke zwischen 40.000 und 45.000 Pflanzen je Hektar, zur Erzeugung von Pflanzkartoffeln aber rund 60.000 Pflanzen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f159": {
+  "f141": {
    "kind": "number",
    "value": 45000,
    "surface": "45.000",
    "sentence": "Angestrebt werden zum Beispiel beim Anbau für Speisezwecke zwischen 40.000 und 45.000 Pflanzen je Hektar, zur Erzeugung von Pflanzkartoffeln aber rund 60.000 Pflanzen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f160": {
+  "f142": {
    "kind": "number",
    "value": 60000,
    "surface": "60.000",
    "sentence": "Angestrebt werden zum Beispiel beim Anbau für Speisezwecke zwischen 40.000 und 45.000 Pflanzen je Hektar, zur Erzeugung von Pflanzkartoffeln aber rund 60.000 Pflanzen je Hektar.",
    "section": "Kartoffelanbau"
   },
-  "f161": {
+  "f143": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Das Setzen der Pflanzkartoffeln erfolgt durch spezielle Legemaschinen, die die Knollen in eine Tiefe von 8 bis 10 cm setzen und anschließend den Boden wieder in Dammform schließen.",
    "section": "Kartoffelanbau"
   },
-  "f162": {
+  "f144": {
    "kind": "measure",
    "value": 10,
    "unit": "cm",
@@ -1239,14 +1111,14 @@
    "sentence": "Das Setzen der Pflanzkartoffeln erfolgt durch spezielle Legemaschinen, die die Knollen in eine Tiefe von 8 bis 10 cm setzen und anschließend den Boden wieder in Dammform schließen.",
    "section": "Kartoffelanbau"
   },
-  "f163": {
+  "f145": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Der Abstand der Reihen beträgt zwischen 60 und 90 cm; in Hinblick auf Spurweiten und Reifenbreiten der verwendeten Maschinen ist in Deutschland ein Reihenabstand von 75 cm gebräuchlich.",
    "section": "Kartoffelanbau"
   },
-  "f164": {
+  "f146": {
    "kind": "measure",
    "value": 90,
    "unit": "cm",
@@ -1254,7 +1126,7 @@
    "sentence": "Der Abstand der Reihen beträgt zwischen 60 und 90 cm; in Hinblick auf Spurweiten und Reifenbreiten der verwendeten Maschinen ist in Deutschland ein Reihenabstand von 75 cm gebräuchlich.",
    "section": "Kartoffelanbau"
   },
-  "f165": {
+  "f147": {
    "kind": "measure",
    "value": 75,
    "unit": "cm",
@@ -1262,14 +1134,14 @@
    "sentence": "Der Abstand der Reihen beträgt zwischen 60 und 90 cm; in Hinblick auf Spurweiten und Reifenbreiten der verwendeten Maschinen ist in Deutschland ein Reihenabstand von 75 cm gebräuchlich.",
    "section": "Kartoffelanbau"
   },
-  "f166": {
+  "f148": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Der Abstand der Pflanzen zueinander in der Reihe variiert je nach angestrebter Bestandesdichte zwischen 25 und 40 cm.",
    "section": "Kartoffelanbau"
   },
-  "f167": {
+  "f149": {
    "kind": "measure",
    "value": 40,
    "unit": "cm",
@@ -1277,21 +1149,21 @@
    "sentence": "Der Abstand der Pflanzen zueinander in der Reihe variiert je nach angestrebter Bestandesdichte zwischen 25 und 40 cm.",
    "section": "Kartoffelanbau"
   },
-  "f168": {
+  "f150": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Diese Zunahme beruht sowohl auf der Ausdehnung der Anbauflächen wie auf der einfachen Einbeziehung der Kartoffel in bestehende Anbausysteme: Die Entwicklung früh reifender Sorten mit einer Vegetationszeit von 80 bis 100 Tagen erlaubt es z. B. in Indien, die Anbaupause zwischen Reis- und Weizenanbau ideal zu nutzen.",
    "section": "Kartoffelanbau"
   },
-  "f169": {
+  "f151": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Diese Zunahme beruht sowohl auf der Ausdehnung der Anbauflächen wie auf der einfachen Einbeziehung der Kartoffel in bestehende Anbausysteme: Die Entwicklung früh reifender Sorten mit einer Vegetationszeit von 80 bis 100 Tagen erlaubt es z. B. in Indien, die Anbaupause zwischen Reis- und Weizenanbau ideal zu nutzen.",
    "section": "Kartoffelanbau"
   },
-  "f170": {
+  "f152": {
    "kind": "measure",
    "value": 7000,
    "unit": "jahren",
@@ -1299,7 +1171,7 @@
    "sentence": "Seit ungefähr 7000 Jahren werden Kartoffeln angebaut, sie stellten lange Zeit das Hauptnahrungsmittel der Menschen dar.",
    "section": "Kartoffelanbau"
   },
-  "f171": {
+  "f153": {
    "kind": "measure",
    "value": 3,
    "unit": "ha",
@@ -1307,49 +1179,49 @@
    "sentence": "Der Hauptanteil der Kartoffelernte wird von Kleinbauern mit weniger als 3 ha Anbaufläche produziert.",
    "section": "Kartoffelanbau"
   },
-  "f172": {
+  "f154": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“ von den Vereinten Nationen eingeführt.",
+   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“von den Vereinten Nationen eingeführt.",
    "section": "Kartoffelanbau"
   },
-  "f173": {
+  "f155": {
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“ von den Vereinten Nationen eingeführt.",
+   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“von den Vereinten Nationen eingeführt.",
    "section": "Kartoffelanbau"
   },
-  "f174": {
+  "f156": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
-   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“ von den Vereinten Nationen eingeführt.",
+   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“von den Vereinten Nationen eingeführt.",
    "section": "Kartoffelanbau"
   },
-  "f175": {
+  "f157": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“ von den Vereinten Nationen eingeführt.",
+   "sentence": "Einer Deklaration der UN-Generalversammlung vom November 2005 folgend, wurde am 18. Oktober 2007 in New York das Jahr 2008 als das „Internationale Jahr der Kartoffel“von den Vereinten Nationen eingeführt.",
    "section": "Kartoffelanbau"
   },
-  "f176": {
+  "f158": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Aus Anlass des Jahrs der Kartoffel gab die Schweizerische Post am 4. März 2008 eine Sonderbriefmarke im Wert von 85 Rappen heraus.",
    "section": "Kartoffelanbau"
   },
-  "f177": {
+  "f159": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Aus Anlass des Jahrs der Kartoffel gab die Schweizerische Post am 4. März 2008 eine Sonderbriefmarke im Wert von 85 Rappen heraus.",
    "section": "Kartoffelanbau"
   },
-  "f178": {
+  "f160": {
    "kind": "number",
    "value": 85,
    "surface": "85",

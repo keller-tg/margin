@@ -69,476 +69,344 @@
    "value": 9,
    "unit": "metres",
    "surface": "9 metres",
-   "sentence": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 9 metres (30 ft) long and weighing over 6.9 metric tons (7.6 short tons)."
+   "sentence": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 9 metres long and weighing over 6.9 metric tons."
   },
   "f5": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "ft",
-   "surface": "30 ft",
-   "sentence": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 9 metres (30 ft) long and weighing over 6.9 metric tons (7.6 short tons)."
-  },
-  "f6": {
    "kind": "number",
    "value": 6.9,
    "surface": "6.9",
-   "sentence": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 9 metres (30 ft) long and weighing over 6.9 metric tons (7.6 short tons)."
+   "sentence": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 9 metres long and weighing over 6.9 metric tons."
   },
-  "f7": {
-   "kind": "number",
-   "value": 7.6,
-   "surface": "7.6",
-   "sentence": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 9 metres (30 ft) long and weighing over 6.9 metric tons (7.6 short tons)."
-  },
-  "f8": {
+  "f6": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Stegosaurus, one of the many dinosaurs described in the Bone Wars, was first discovered by Arthur Lakes and H.C. Beckwith, consisting of several caudal vertebrae, a dermal plate, and several additional postcranial elements that were collected north of Morrison, Colorado, at Lakes' YPM Quarry 5.",
    "section": "History and naming"
   },
+  "f7": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877",
+   "sentence": "These first, fragmented bones became the holotype of Stegosaurus armatus when Yale paleontologist Othniel Charles Marsh described them in 1877.",
+   "section": "History and naming"
+  },
+  "f8": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "On the other side of the Bone Wars, Edward Drinker Cope named Hypsirhophus discurus as another stegosaurian based on fragmentary fossils from Cope's Quarry 3 near the \"Cope's Nipple\"site in Garden Park, Colorado, in 1878.",
+   "section": "History and naming"
+  },
   "f9": {
    "kind": "date",
-   "value": "1850",
-   "surface": "1850",
-   "sentence": "These first, fragmented bones (YPM 1850) became the holotype of Stegosaurus armatus when Yale paleontologist Othniel Charles Marsh described them in 1877.",
+   "value": "1878",
+   "surface": "1878",
+   "sentence": "On the other side of the Bone Wars, Edward Drinker Cope named Hypsirhophus discurus as another stegosaurian based on fragmentary fossils from Cope's Quarry 3 near the \"Cope's Nipple\"site in Garden Park, Colorado, in 1878.",
    "section": "History and naming"
   },
   "f10": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
-   "sentence": "These first, fragmented bones (YPM 1850) became the holotype of Stegosaurus armatus when Yale paleontologist Othniel Charles Marsh described them in 1877.",
+   "sentence": "F. F. Hubbell, a collector for Cope, also found a partial Stegosaurus skeleton while digging at Como Bluff in 1877 or '78 that are now part of the Stegosaurus mount at the American Museum of Natural History.",
    "section": "History and naming"
   },
   "f11": {
-   "kind": "date",
-   "value": "1850",
-   "surface": "1850",
-   "sentence": "Marsh also incorrectly referred several fossils to S. armatus, including the dentary and teeth of the sauropod Diplodocus and putting sauropod limb bones and an Allosaurus tibia under YPM 1850.",
-   "section": "History and naming"
-  },
-  "f12": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "On the other side of the Bone Wars, Edward Drinker Cope named Hypsirhophus discurus as another stegosaurian based on fragmentary fossils from Cope's Quarry 3 near the \"Cope's Nipple\" site in Garden Park, Colorado, in 1878.",
-   "section": "History and naming"
-  },
-  "f13": {
-   "kind": "date",
-   "value": "1878",
-   "surface": "1878",
-   "sentence": "On the other side of the Bone Wars, Edward Drinker Cope named Hypsirhophus discurus as another stegosaurian based on fragmentary fossils from Cope's Quarry 3 near the \"Cope's Nipple\" site in Garden Park, Colorado, in 1878.",
-   "section": "History and naming"
-  },
-  "f14": {
-   "kind": "date",
-   "value": "2010",
-   "surface": "2010",
-   "sentence": "Many later researchers have considered Hypsirhophus to be a synonym of Stegosaurus, though Peter Galton (2010) suggested that it is distinct based on differences in the vertebrae.",
-   "section": "History and naming"
-  },
-  "f15": {
-   "kind": "date",
-   "value": "1877",
-   "surface": "1877",
-   "sentence": "F. F. Hubbell, a collector for Cope, also found a partial Stegosaurus skeleton while digging at Como Bluff in 1877 or '78 that are now part of the Stegosaurus mount (AMNH 5752) at the American Museum of Natural History.",
-   "section": "History and naming"
-  },
-  "f16": {
    "kind": "number",
    "value": 78,
    "surface": "78",
-   "sentence": "F. F. Hubbell, a collector for Cope, also found a partial Stegosaurus skeleton while digging at Como Bluff in 1877 or '78 that are now part of the Stegosaurus mount (AMNH 5752) at the American Museum of Natural History.",
+   "sentence": "F. F. Hubbell, a collector for Cope, also found a partial Stegosaurus skeleton while digging at Como Bluff in 1877 or '78 that are now part of the Stegosaurus mount at the American Museum of Natural History.",
    "section": "History and naming"
   },
-  "f17": {
-   "kind": "number",
-   "value": 5752,
-   "surface": "5752",
-   "sentence": "F. F. Hubbell, a collector for Cope, also found a partial Stegosaurus skeleton while digging at Como Bluff in 1877 or '78 that are now part of the Stegosaurus mount (AMNH 5752) at the American Museum of Natural History.",
-   "section": "History and naming"
-  },
-  "f18": {
+  "f12": {
    "kind": "date",
    "value": "1879",
    "surface": "1879",
    "sentence": "Arthur Lakes made another discovery later in 1879 at Como Bluff in Albany County, Wyoming, the site also dating to the Upper Jurassic of the Morrison Formation, when he found several large Stegosaurus fossils in August of that year.",
    "section": "History and naming"
   },
-  "f19": {
+  "f13": {
    "kind": "number",
    "value": 13,
    "surface": "13",
-   "sentence": "The majority of the fossils came from Quarry 13, including the type specimen of Stegosaurus ungulatus (YPM 1853), which was collected by Lakes and William Harlow Reed the same year and named by Marsh.",
+   "sentence": "The majority of the fossils came from Quarry 13, including the type specimen of Stegosaurus ungulatus, which was collected by Lakes and William Harlow Reed the same year and named by Marsh.",
    "section": "History and naming"
   },
-  "f20": {
-   "kind": "date",
-   "value": "1853",
-   "surface": "1853",
-   "sentence": "The majority of the fossils came from Quarry 13, including the type specimen of Stegosaurus ungulatus (YPM 1853), which was collected by Lakes and William Harlow Reed the same year and named by Marsh.",
-   "section": "History and naming"
-  },
-  "f21": {
+  "f14": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
    "sentence": "In 1881, he named a third species Stegosaurus \"affinis\", based only on a hip bone, though the fossil has since been lost and the species declared a nomen nudum.",
    "section": "History and naming"
   },
-  "f22": {
+  "f15": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
-   "sentence": "Later in 1887, Marsh described two more species of Stegosaurus from Como Bluff, Stegosaurus duplex, based on a partial vertebral column, partial pelvis, and partial left hindlimb (YPM 1858) from Reed's Quarry 11, though the species is now seen as synonymous with Stegosaurus ungulatus.",
+   "sentence": "Later in 1887, Marsh described two more species of Stegosaurus from Como Bluff, Stegosaurus duplex, based on a partial vertebral column, partial pelvis, and partial left hindlimb from Reed's Quarry 11, though the species is now seen as synonymous with Stegosaurus ungulatus.",
    "section": "History and naming"
   },
-  "f23": {
-   "kind": "date",
-   "value": "1858",
-   "surface": "1858",
-   "sentence": "Later in 1887, Marsh described two more species of Stegosaurus from Como Bluff, Stegosaurus duplex, based on a partial vertebral column, partial pelvis, and partial left hindlimb (YPM 1858) from Reed's Quarry 11, though the species is now seen as synonymous with Stegosaurus ungulatus.",
-   "section": "History and naming"
-  },
-  "f24": {
+  "f16": {
    "kind": "number",
    "value": 11,
    "surface": "11",
-   "sentence": "Later in 1887, Marsh described two more species of Stegosaurus from Como Bluff, Stegosaurus duplex, based on a partial vertebral column, partial pelvis, and partial left hindlimb (YPM 1858) from Reed's Quarry 11, though the species is now seen as synonymous with Stegosaurus ungulatus.",
+   "sentence": "Later in 1887, Marsh described two more species of Stegosaurus from Como Bluff, Stegosaurus duplex, based on a partial vertebral column, partial pelvis, and partial left hindlimb from Reed's Quarry 11, though the species is now seen as synonymous with Stegosaurus ungulatus.",
    "section": "History and naming"
   },
-  "f25": {
-   "kind": "number",
-   "value": 4937,
-   "surface": "4937",
-   "sentence": "The other, Stegosaurus sulcatus, was named based on a left forelimb, scapula, left femur, several vertebrae, and several plates and dermal armor elements (USNM V 4937) collected in 1883.",
-   "section": "History and naming"
-  },
-  "f26": {
+  "f17": {
    "kind": "date",
    "value": "1883",
    "surface": "1883",
-   "sentence": "The other, Stegosaurus sulcatus, was named based on a left forelimb, scapula, left femur, several vertebrae, and several plates and dermal armor elements (USNM V 4937) collected in 1883.",
+   "sentence": "The other, Stegosaurus sulcatus, was named based on a left forelimb, scapula, left femur, several vertebrae, and several plates and dermal armor elements collected in 1883.",
    "section": "History and naming"
   },
-  "f27": {
+  "f18": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "The greatest Stegosaurus discovery came in 1885 with the discovery of a nearly complete, articulated skeleton of a subadult that included previously undiscovered elements like a complete skull, throat ossicles, and articulated plates.",
    "section": "History and naming"
   },
-  "f28": {
+  "f19": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "Marshall P. Felch collected the skeleton throughout 1885 and 1886 from Morrison Formation strata at his quarry in Garden Park, a town near Cañon City, Colorado.",
    "section": "History and naming"
   },
-  "f29": {
+  "f20": {
    "kind": "date",
    "value": "1886",
    "surface": "1886",
    "sentence": "Marshall P. Felch collected the skeleton throughout 1885 and 1886 from Morrison Formation strata at his quarry in Garden Park, a town near Cañon City, Colorado.",
    "section": "History and naming"
   },
-  "f30": {
+  "f21": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
-   "sentence": "The skeleton was shipped to Marsh in 1887, who named it Stegosaurus stenops ( \"narrow-faced roof lizard\") that year.",
+   "sentence": "The skeleton was shipped to Marsh in 1887, who named it Stegosaurus stenops that year.",
    "section": "History and naming"
   },
-  "f31": {
+  "f22": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
    "sentence": "This first reconstruction, of S. ungulatus with missing parts filled in from S. stenops, was published by Marsh in 1891.",
    "section": "History and naming"
   },
-  "f32": {
-   "kind": "date",
-   "value": "1893",
-   "surface": "1893",
-   "sentence": "(In 1893, Richard Lydekker mistakenly re-published Marsh's drawing under the label Hypsirhophus.)",
-   "section": "History and naming"
-  },
-  "f33": {
+  "f23": {
    "kind": "date",
    "value": "1915",
    "surface": "1915",
    "sentence": "The skeleton of S. stenops has since been deposited at the National Museum of Natural History in Washington D. C., where it has been on display since 1915.",
    "section": "History and naming"
   },
-  "f34": {
+  "f24": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Another mount was made for the NMNH in the form of a mounted composite skeleton consisting of several specimens referred to S. stenops that were collected at Quarry 13 at Como Bluff in 1887, the most complete being USNM 6531.",
    "section": "History and naming"
   },
-  "f35": {
+  "f25": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
    "sentence": "Another mount was made for the NMNH in the form of a mounted composite skeleton consisting of several specimens referred to S. stenops that were collected at Quarry 13 at Como Bluff in 1887, the most complete being USNM 6531.",
    "section": "History and naming"
   },
-  "f36": {
-   "kind": "number",
-   "value": 6531,
-   "surface": "6531",
-   "sentence": "Another mount was made for the NMNH in the form of a mounted composite skeleton consisting of several specimens referred to S. stenops that were collected at Quarry 13 at Como Bluff in 1887, the most complete being USNM 6531.",
-   "section": "History and naming"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1853",
-   "surface": "1853",
-   "sentence": "The type specimen of S. ungulatus (YPM 1853) was incorporated into the first ever mounted skeleton of a stegosaur at the Peabody Museum of Natural History in 1910 by Richard Swann Lull.",
-   "section": "History and naming"
-  },
-  "f38": {
+  "f26": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
-   "sentence": "The type specimen of S. ungulatus (YPM 1853) was incorporated into the first ever mounted skeleton of a stegosaur at the Peabody Museum of Natural History in 1910 by Richard Swann Lull.",
+   "sentence": "The type specimen of S. ungulatus was incorporated into the first ever mounted skeleton of a stegosaur at the Peabody Museum of Natural History in 1910 by Richard Swann Lull.",
    "section": "History and naming"
   },
-  "f39": {
+  "f27": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "It was initially mounted with paired plates set wide, above the base of the ribs, but was remounted in 1924 with two staggered rows of plates along the midline of the back.",
    "section": "History and naming"
   },
-  "f40": {
-   "kind": "number",
-   "value": 7414,
-   "surface": "7414",
-   "sentence": "Additional specimens recovered from the same quarry by the United States National Museum of Natural History, including tail vertebrae and an additional large plate (USNM 7414), belong to the same individual as YPM 1853.",
-   "section": "History and naming"
-  },
-  "f41": {
-   "kind": "date",
-   "value": "1853",
-   "surface": "1853",
-   "sentence": "Additional specimens recovered from the same quarry by the United States National Museum of Natural History, including tail vertebrae and an additional large plate (USNM 7414), belong to the same individual as YPM 1853.",
-   "section": "History and naming"
-  },
-  "f42": {
+  "f28": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
    "sentence": "The next species of Stegosaurus to be named was S. marshi by Frederick Lucas in 1901.",
    "section": "History and naming"
   },
-  "f43": {
+  "f29": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
    "sentence": "In 1910, Richard Swann Lull wrote that the alternating pattern seen in S. stenops was probably due to shifting of the skeleton after death.",
    "section": "History and naming"
   },
-  "f44": {
+  "f30": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "In 1914, Charles Gilmore argued against Lull's interpretation, noting that several specimens of S. stenops, including the now-completely prepared holotype, preserved the plates in alternating rows near the peak of the back, and that there was no evidence of the plates having shifted relative to the body during fossilization.",
    "section": "History and naming"
   },
-  "f45": {
+  "f31": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "Gilmore and Lucas' interpretation became the generally accepted standard, and Lull's mount at the Peabody Museum was changed to reflect this in 1924.",
    "section": "History and naming"
   },
-  "f46": {
+  "f32": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "Until 1918, the only mounted skeleton of Stegosaurus in the world was O. C. Marsh's type specimen of S. ungulatus at the Peabody Museum of Natural History, which was put on display in 1910.",
    "section": "History and naming"
   },
-  "f47": {
+  "f33": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
    "sentence": "Until 1918, the only mounted skeleton of Stegosaurus in the world was O. C. Marsh's type specimen of S. ungulatus at the Peabody Museum of Natural History, which was put on display in 1910.",
    "section": "History and naming"
   },
-  "f48": {
+  "f34": {
    "kind": "date",
    "value": "1917",
    "surface": "1917",
    "sentence": "However, this mount was dismantled in 1917 when the old Peabody Museum building was demolished.",
    "section": "History and naming"
   },
-  "f49": {
+  "f35": {
    "kind": "date",
    "value": "1925",
    "surface": "1925",
    "sentence": "This historically significant specimen was re-mounted ahead of the opening of the new Peabody Museum building in 1925.",
    "section": "History and naming"
   },
-  "f50": {
+  "f36": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "1918 saw the completion of the second Stegosaurus mount, and the first depicting S. stenops.",
    "section": "History and naming"
   },
-  "f51": {
-   "kind": "number",
-   "value": 6531,
-   "surface": "6531",
-   "sentence": "It was a composite of several skeletons, primarily USNM 6531, with proportions designed to closely follow the S. stenops type specimen, which had been on display in relief nearby since 1918.",
-   "section": "History and naming"
-  },
-  "f52": {
+  "f37": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "It was a composite of several skeletons, primarily USNM 6531, with proportions designed to closely follow the S. stenops type specimen, which had been on display in relief nearby since 1918.",
    "section": "History and naming"
   },
-  "f53": {
+  "f38": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
    "sentence": "The aging mount was dismantled in 2003 and replaced with a cast in an updated pose in 2004.",
    "section": "History and naming"
   },
-  "f54": {
+  "f39": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "The aging mount was dismantled in 2003 and replaced with a cast in an updated pose in 2004.",
    "section": "History and naming"
   },
-  "f55": {
+  "f40": {
    "kind": "date",
    "value": "1932",
    "surface": "1932",
    "sentence": "A third mounted skeleton of Stegosaurus, referred to S. stenops, was put on display at the American Museum of Natural History in 1932.",
    "section": "History and naming"
   },
-  "f56": {
+  "f41": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Another composite mount, using specimens referred to S. ungulatus collected from Dinosaur National Monument between 1920 and 1922, was put on display at the Carnegie Museum of Natural History in 1940.",
    "section": "History and naming"
   },
-  "f57": {
+  "f42": {
    "kind": "date",
    "value": "1922",
    "surface": "1922",
    "sentence": "Another composite mount, using specimens referred to S. ungulatus collected from Dinosaur National Monument between 1920 and 1922, was put on display at the Carnegie Museum of Natural History in 1940.",
    "section": "History and naming"
   },
-  "f58": {
+  "f43": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
    "sentence": "Another composite mount, using specimens referred to S. ungulatus collected from Dinosaur National Monument between 1920 and 1922, was put on display at the Carnegie Museum of Natural History in 1940.",
    "section": "History and naming"
   },
-  "f59": {
+  "f44": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
    "sentence": "By 1891, Marsh published a more familiar view of Stegosaurus, with a single row of plates.",
    "section": "History and naming"
   },
-  "f60": {
+  "f45": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
    "sentence": "The plates were paired in a double row along the back, such as in Knight's 1901 reconstruction and the 1933 film King Kong.",
    "section": "History and naming"
   },
-  "f61": {
+  "f46": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "The plates were paired in a double row along the back, such as in Knight's 1901 reconstruction and the 1933 film King Kong.",
    "section": "History and naming"
   },
-  "f62": {
+  "f47": {
    "kind": "date",
    "value": "1897",
    "surface": "1897",
    "sentence": "The American Museum of Natural History was the first to launch an expedition in 1897, finding several assorted, but incomplete, Stegosaurus specimens at Bone Cabin Quarry in Como Bluff.",
    "section": "History and naming"
   },
-  "f63": {
+  "f48": {
    "kind": "date",
    "value": "1932",
    "surface": "1932",
    "sentence": "These remains haven't been described and were mounted in 1932, the mount being a composite primarily of specimens AMNH 650 & 470 from Bone Cabin Quarry.",
    "section": "History and naming"
   },
-  "f64": {
-   "kind": "date",
-   "value": "650",
-   "surface": "650",
-   "sentence": "These remains haven't been described and were mounted in 1932, the mount being a composite primarily of specimens AMNH 650 & 470 from Bone Cabin Quarry.",
-   "section": "History and naming"
-  },
-  "f65": {
+  "f49": {
    "kind": "number",
    "value": 470,
    "surface": "470",
    "sentence": "These remains haven't been described and were mounted in 1932, the mount being a composite primarily of specimens AMNH 650 & 470 from Bone Cabin Quarry.",
    "section": "History and naming"
   },
-  "f66": {
+  "f50": {
    "kind": "date",
    "value": "1902",
    "surface": "1902",
    "sentence": "The Carnegie Museum in Pittsburgh on the other hand collected many Stegosaurus specimens, first at Freezout Hills in Carbon County, Wyoming in 1902–03.",
    "section": "History and naming"
   },
-  "f67": {
-   "kind": "number",
-   "value": 3,
-   "surface": "03",
-   "sentence": "The Carnegie Museum in Pittsburgh on the other hand collected many Stegosaurus specimens, first at Freezout Hills in Carbon County, Wyoming in 1902–03.",
-   "section": "History and naming"
-  },
-  "f68": {
-   "kind": "number",
-   "value": 11341,
-   "surface": "11341",
-   "sentence": "CM 11341, the most complete skeleton found at the quarry, was used for the basis of a composite Stegosaurus mount in 1940 along with several other specimens to finish the mount.",
-   "section": "History and naming"
-  },
-  "f69": {
+  "f51": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
    "sentence": "CM 11341, the most complete skeleton found at the quarry, was used for the basis of a composite Stegosaurus mount in 1940 along with several other specimens to finish the mount.",
    "section": "History and naming"
   },
-  "f70": {
-   "kind": "number",
-   "value": 12000,
-   "surface": "12000",
-   "sentence": "A cranium (CM 12000) was also found by Carnegie crews, one of the few known.",
-   "section": "History and naming"
-  },
-  "f71": {
+  "f52": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
    "sentence": "An important discovery came in 1937 again at Garden Park by a high school teacher named Frank Kessler in while leading a nature hike.",
    "section": "History and naming"
   },
-  "f72": {
+  "f53": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -546,42 +414,42 @@
    "sentence": "Landberg excavated the skeleton with the DMNS crews, recovering a 70% complete Stegosaurus skeleton along with turtles, crocodiles, and isolated dinosaur fossils at the quarry that would be nicknamed \"The Kessler Site\".",
    "section": "History and naming"
   },
-  "f73": {
+  "f54": {
    "kind": "date",
    "value": "1938",
    "surface": "1938",
    "sentence": "Phillip Reinheimer, a steel worker, mounted the Stegosaurus skeleton at the DMNS in 1938.",
    "section": "History and naming"
   },
-  "f74": {
+  "f55": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "The skeleton remained mounted until 1989 when the museum curator of the DMNS began a revision of the museum's fossil hall and dispatched an expedition to find additional Stegosaurus remains.",
    "section": "History and naming"
   },
-  "f75": {
+  "f56": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
    "sentence": "The Stegosaurus skeletons have been mounted alongside an Allosaurus skeleton collected in Moffat County, Colorado originally in 1979.",
    "section": "History and naming"
   },
-  "f76": {
+  "f57": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "Stegosaurus was made the official state fossil of Colorado in 1982, after a two-year campaign begun by a class of 4th graders and their teacher Ruth Sawdo at McElwain Elementary School in Thornton, Colorado.",
    "section": "History and naming"
   },
-  "f77": {
+  "f58": {
    "kind": "date",
    "value": "1987",
    "surface": "1987",
    "sentence": "In 1987, a 40% complete Stegosaurus skeleton was discovered in Rabbit Valley in Mesa County, Colorado, by Harold Bollan near the Dinosaur Journey Museum.",
    "section": "History and naming"
   },
-  "f78": {
+  "f59": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -589,28 +457,28 @@
    "sentence": "In 1987, a 40% complete Stegosaurus skeleton was discovered in Rabbit Valley in Mesa County, Colorado, by Harold Bollan near the Dinosaur Journey Museum.",
    "section": "History and naming"
   },
-  "f79": {
+  "f60": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "At Jensen-Jensen Quarry, an articulated torso including several dorsal plates from a small individual were collected and briefly described in 2014, though the specimen was collected years before and is still in preparation at Brigham Young University.",
    "section": "History and naming"
   },
-  "f80": {
+  "f61": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "In 2007, Escaso and colleagues described a Stegosaurus specimen from the Casal Novo locality of Portugal, originally thought to be part of the Alcobaça Formation, and subsequently suggested to be part of the Lourinhã Formation.",
    "section": "History and naming"
   },
-  "f81": {
+  "f62": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Identified as Stegosaurus cf. ungulatus, the specimen is one of the few associated skeletons known for this genus, containing a tooth, 13 vertebrae, partial limbs, a cervical plate, and several associated postcranial elements.",
    "section": "History and naming"
   },
-  "f82": {
+  "f63": {
    "kind": "measure",
    "value": 85,
    "unit": "%",
@@ -618,119 +486,87 @@
    "sentence": "Sophie the Stegosaurus is the best preserved Stegosaurus specimen, being 85% intact and containing 360 bones.",
    "section": "History and naming"
   },
-  "f83": {
+  "f64": {
    "kind": "number",
    "value": 360,
    "surface": "360",
    "sentence": "Sophie the Stegosaurus is the best preserved Stegosaurus specimen, being 85% intact and containing 360 bones.",
    "section": "History and naming"
   },
-  "f84": {
+  "f65": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
    "sentence": "Sophie was first discovered by Bob Simon in 2003 at a quarry on the Red Canyon Ranch near Shell, Wyoming, and was excavated by crews from the Swiss Sauriermuseum in 2004 and later prepared by museum staff, who gave it the nickname Sarah after the landowner's daughter.",
    "section": "History and naming"
   },
-  "f85": {
+  "f66": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Sophie was first discovered by Bob Simon in 2003 at a quarry on the Red Canyon Ranch near Shell, Wyoming, and was excavated by crews from the Swiss Sauriermuseum in 2004 and later prepared by museum staff, who gave it the nickname Sarah after the landowner's daughter.",
    "section": "History and naming"
   },
-  "f86": {
+  "f67": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "The mounted skeleton went on display in December 2014 and was scientifically described in 2015.",
    "section": "History and naming"
   },
-  "f87": {
+  "f68": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "The mounted skeleton went on display in December 2014 and was scientifically described in 2015.",
    "section": "History and naming"
   },
-  "f88": {
+  "f69": {
    "kind": "measure",
    "value": 5.8,
    "unit": "m",
    "surface": "5.8 m",
-   "sentence": "It is a young adult of undetermined sex, 5.8 m (19 ft) long and 2.9 m (9.5 ft) tall.",
+   "sentence": "It is a young adult of undetermined sex, 5.8 m long and 2.9 m tall.",
    "section": "History and naming"
   },
-  "f89": {
-   "kind": "measure",
-   "value": 19,
-   "unit": "ft",
-   "surface": "19 ft",
-   "sentence": "It is a young adult of undetermined sex, 5.8 m (19 ft) long and 2.9 m (9.5 ft) tall.",
-   "section": "History and naming"
-  },
-  "f90": {
+  "f70": {
    "kind": "measure",
    "value": 2.9,
    "unit": "m",
    "surface": "2.9 m",
-   "sentence": "It is a young adult of undetermined sex, 5.8 m (19 ft) long and 2.9 m (9.5 ft) tall.",
+   "sentence": "It is a young adult of undetermined sex, 5.8 m long and 2.9 m tall.",
    "section": "History and naming"
   },
-  "f91": {
-   "kind": "measure",
-   "value": 9.5,
-   "unit": "ft",
-   "surface": "9.5 ft",
-   "sentence": "It is a young adult of undetermined sex, 5.8 m (19 ft) long and 2.9 m (9.5 ft) tall.",
-   "section": "History and naming"
-  },
-  "f92": {
+  "f71": {
    "kind": "number",
    "value": 17,
    "surface": "17",
-   "sentence": "On July 17, 2024, a nearly complete, 27-foot (8.2m) long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m (£34m) at a Sotheby's auction in New York City–the most ever paid for a fossil.",
+   "sentence": "On July 17, 2024, a nearly complete, 27-foot long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m at a Sotheby's auction in New York City–the most ever paid for a fossil.",
    "section": "History and naming"
   },
-  "f93": {
+  "f72": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "On July 17, 2024, a nearly complete, 27-foot (8.2m) long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m (£34m) at a Sotheby's auction in New York City–the most ever paid for a fossil.",
+   "sentence": "On July 17, 2024, a nearly complete, 27-foot long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m at a Sotheby's auction in New York City–the most ever paid for a fossil.",
    "section": "History and naming"
   },
-  "f94": {
+  "f73": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "On July 17, 2024, a nearly complete, 27-foot (8.2m) long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m (£34m) at a Sotheby's auction in New York City–the most ever paid for a fossil.",
+   "sentence": "On July 17, 2024, a nearly complete, 27-foot long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m at a Sotheby's auction in New York City–the most ever paid for a fossil.",
    "section": "History and naming"
   },
-  "f95": {
-   "kind": "measure",
-   "value": 8.2,
-   "unit": "m",
-   "surface": "8.2m",
-   "sentence": "On July 17, 2024, a nearly complete, 27-foot (8.2m) long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m (£34m) at a Sotheby's auction in New York City–the most ever paid for a fossil.",
-   "section": "History and naming"
-  },
-  "f96": {
+  "f74": {
    "kind": "measure",
    "value": 44.6,
    "unit": "m",
    "surface": "44.6m",
-   "sentence": "On July 17, 2024, a nearly complete, 27-foot (8.2m) long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m (£34m) at a Sotheby's auction in New York City–the most ever paid for a fossil.",
+   "sentence": "On July 17, 2024, a nearly complete, 27-foot long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m at a Sotheby's auction in New York City–the most ever paid for a fossil.",
    "section": "History and naming"
   },
-  "f97": {
-   "kind": "measure",
-   "value": 34,
-   "unit": "m",
-   "surface": "34m",
-   "sentence": "On July 17, 2024, a nearly complete, 27-foot (8.2m) long Stegosaurus skeleton, nicknamed \"Apex\", fetched $44.6m (£34m) at a Sotheby's auction in New York City–the most ever paid for a fossil.",
-   "section": "History and naming"
-  },
-  "f98": {
+  "f75": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",

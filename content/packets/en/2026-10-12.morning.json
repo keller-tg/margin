@@ -46,857 +46,741 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Charles Robert Darwin ( DAR-win; 12 February 1809 – 19 April 1882) was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1809",
-   "surface": "1809",
-   "sentence": "Charles Robert Darwin ( DAR-win; 12 February 1809 – 19 April 1882) was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Charles Robert Darwin ( DAR-win; 12 February 1809 – 19 April 1882) was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1882",
-   "surface": "1882",
-   "sentence": "Charles Robert Darwin ( DAR-win; 12 February 1809 – 19 April 1882) was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology."
-  },
-  "f5": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "His studies at the University of Cambridge's Christ's College from 1828 to 1831 encouraged his passion for natural science."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "His studies at the University of Cambridge's Christ's College from 1828 to 1831 encouraged his passion for natural science."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "However, it was his five-year voyage on HMS Beagle from 1831 to 1836 that truly established Darwin as an eminent geologist."
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "However, it was his five-year voyage on HMS Beagle from 1831 to 1836 that truly established Darwin as an eminent geologist."
   },
-  "f9": {
-   "kind": "date",
-   "value": "1842",
-   "surface": "1842",
-   "sentence": "His first scientific work was The Structure and Distribution of Coral Reefs (1842)."
-  },
-  "f10": {
+  "f5": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
    "sentence": "Along with his work on barnacles, it won him the Royal Medal in 1853."
   },
-  "f11": {
+  "f6": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "Puzzled by the geographical distribution of wildlife and fossils he collected on the voyage, Darwin began detailed investigations and, in 1838, devised his theory of natural selection."
   },
-  "f12": {
+  "f7": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "He was writing up his theory in 1858 when Wallace sent him an essay that described the same idea, prompting the immediate joint submission of both their theories to the Linnean Society of London."
   },
-  "f13": {
-   "kind": "date",
-   "value": "1859",
-   "surface": "1859",
-   "sentence": "Darwin published his theory of evolution with compelling evidence in On the Origin of Species (1859)."
-  },
-  "f14": {
-   "kind": "date",
-   "value": "1862",
-   "surface": "1862",
-   "sentence": "He explored coevolution in Fertilisation of Orchids (1862) and human evolution and sexual selection in The Descent of Man, and Selection in Relation to Sex (1871)."
-  },
-  "f15": {
-   "kind": "date",
-   "value": "1871",
-   "surface": "1871",
-   "sentence": "He explored coevolution in Fertilisation of Orchids (1862) and human evolution and sexual selection in The Descent of Man, and Selection in Relation to Sex (1871)."
-  },
-  "f16": {
-   "kind": "date",
-   "value": "1872",
-   "surface": "1872",
-   "sentence": "The Expression of the Emotions in Man and Animals (1872) was an early work of psychology, and one of the first books to feature photographs."
-  },
-  "f17": {
-   "kind": "date",
-   "value": "1881",
-   "surface": "1881",
-   "sentence": "His final book was The Formation of Vegetable Mould, through the Actions of Worms (1881)."
-  },
-  "f18": {
+  "f8": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Charles Robert Darwin was born on 12 February 1809 at his family's home, The Mount, in Shrewsbury, Shropshire.",
    "section": "Biography"
   },
-  "f19": {
+  "f9": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Charles Robert Darwin was born on 12 February 1809 at his family's home, The Mount, in Shrewsbury, Shropshire.",
    "section": "Biography"
   },
-  "f20": {
-   "kind": "date",
-   "value": "1794",
-   "surface": "1794",
-   "sentence": "Erasmus Darwin had praised general concepts of evolution and common descent in his Zoonomia (1794), a poetic fantasy of gradual creation including undeveloped ideas anticipating concepts his grandson expanded.",
-   "section": "Biography"
-  },
-  "f21": {
+  "f10": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Robert Darwin, a freethinker, had baby Charles baptised in November 1809 in the Anglican St Chad's Church, Shrewsbury, but Charles and his siblings attended the local Unitarian Church with their mother.",
    "section": "Biography"
   },
-  "f22": {
+  "f11": {
    "kind": "date",
    "value": "1817",
    "surface": "1817",
    "sentence": "The eight-year-old Charles already had a taste for natural history and collecting when he joined the day school run by its preacher in 1817.",
    "section": "Biography"
   },
-  "f23": {
+  "f12": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "From September 1818, he joined his older brother Erasmus in attending the nearby Anglican Shrewsbury School as a boarder.",
    "section": "Biography"
   },
-  "f24": {
+  "f13": {
    "kind": "date",
    "value": "1825",
    "surface": "1825",
    "sentence": "Darwin spent the summer of 1825 as an apprentice doctor, helping his father treat impoverished people in Shropshire, before going to the well-regarded University of Edinburgh Medical School with his brother Erasmus in October 1825.",
    "section": "Biography"
   },
-  "f25": {
+  "f14": {
    "kind": "date",
    "value": "1825",
    "surface": "1825",
    "sentence": "Darwin spent the summer of 1825 as an apprentice doctor, helping his father treat impoverished people in Shropshire, before going to the well-regarded University of Edinburgh Medical School with his brother Erasmus in October 1825.",
    "section": "Biography"
   },
-  "f26": {
+  "f15": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "He learned taxidermy in around 40 daily hour-long sessions from John Edmonstone, a Black Briton from Demerara in the South American rainforest, who had been taught there by Charles Waterton, and when brought to Scotland was freed from slavery.",
    "section": "Biography"
   },
-  "f27": {
+  "f16": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "He assisted Robert Edmond Grant's investigations of the anatomy and life cycle of marine invertebrates in the Firth of Forth, and on 27 March 1827 presented at the Plinian his own discovery that black spores found in oyster shells were the eggs of a skate leech.",
    "section": "Biography"
   },
-  "f28": {
+  "f17": {
    "kind": "date",
    "value": "1827",
    "surface": "1827",
    "sentence": "He assisted Robert Edmond Grant's investigations of the anatomy and life cycle of marine invertebrates in the Firth of Forth, and on 27 March 1827 presented at the Plinian his own discovery that black spores found in oyster shells were the eggs of a skate leech.",
    "section": "Biography"
   },
-  "f29": {
+  "f18": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "Darwin's neglect of medical studies annoyed his father, who sent him to Christ's College, Cambridge in January 1828 to study for a Bachelor of Arts degree as the first step towards becoming an Anglican country parson.",
    "section": "Biography"
   },
-  "f30": {
-   "kind": "date",
-   "value": "1829",
-   "surface": "1829",
-   "sentence": "He did this zealously and had some of his finds published in James Francis Stephens' Illustrations of British entomology (1829–1932).",
-   "section": "Biography"
-  },
-  "f31": {
-   "kind": "date",
-   "value": "1932",
-   "surface": "1932",
-   "sentence": "He did this zealously and had some of his finds published in James Francis Stephens' Illustrations of British entomology (1829–1932).",
-   "section": "Biography"
-  },
-  "f32": {
-   "kind": "date",
-   "value": "1795",
-   "surface": "1795",
-   "sentence": "When his own exams drew near, Darwin applied himself to his studies and was delighted by the language and logic of William Paley's Evidences of Christianity (1795).",
-   "section": "Biography"
-  },
-  "f33": {
+  "f19": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "In his final examination in January 1831, Darwin did well, coming tenth out of 178 candidates for the ordinary degree.",
    "section": "Biography"
   },
-  "f34": {
+  "f20": {
    "kind": "number",
    "value": 178,
    "surface": "178",
    "sentence": "In his final examination in January 1831, Darwin did well, coming tenth out of 178 candidates for the ordinary degree.",
    "section": "Biography"
   },
-  "f35": {
+  "f21": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Darwin had to stay at Cambridge until June 1831.",
    "section": "Biography"
   },
-  "f36": {
-   "kind": "date",
-   "value": "1802",
-   "surface": "1802",
-   "sentence": "He studied Paley's Natural Theology or Evidences of the Existence and Attributes of the Deity (first published in 1802), which made an argument for divine design in nature, explaining adaptation as God acting through laws of nature.",
-   "section": "Biography"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1831",
-   "surface": "1831",
-   "sentence": "He read John Herschel's new book, Preliminary Discourse on the Study of Natural Philosophy (1831), which described the highest aim of natural philosophy as understanding such laws through inductive reasoning based on observation, and Alexander von Humboldt's Personal Narrative of scientific travels in 1799–1804.",
-   "section": "Biography"
-  },
-  "f38": {
+  "f22": {
    "kind": "date",
    "value": "1799",
    "surface": "1799",
-   "sentence": "He read John Herschel's new book, Preliminary Discourse on the Study of Natural Philosophy (1831), which described the highest aim of natural philosophy as understanding such laws through inductive reasoning based on observation, and Alexander von Humboldt's Personal Narrative of scientific travels in 1799–1804.",
+   "sentence": "He read John Herschel's new book, Preliminary Discourse on the Study of Natural Philosophy, which described the highest aim of natural philosophy as understanding such laws through inductive reasoning based on observation, and Alexander von Humboldt's Personal Narrative of scientific travels in 1799–1804.",
    "section": "Biography"
   },
-  "f39": {
-   "kind": "date",
-   "value": "1804",
-   "surface": "1804",
-   "sentence": "He read John Herschel's new book, Preliminary Discourse on the Study of Natural Philosophy (1831), which described the highest aim of natural philosophy as understanding such laws through inductive reasoning based on observation, and Alexander von Humboldt's Personal Narrative of scientific travels in 1799–1804.",
-   "section": "Biography"
-  },
-  "f40": {
+  "f23": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "In preparation, he joined Adam Sedgwick's geology course, then on 4 August travelled with him to spend a fortnight mapping strata in Wales.",
    "section": "Biography"
   },
-  "f41": {
+  "f24": {
    "kind": "number",
    "value": 29,
    "surface": "29",
-   "sentence": "He returned home on 29 August to find a letter from Henslow proposing him as a suitable (if unfinished) naturalist for a self-funded supernumerary place on HMS Beagle with captain Robert FitzRoy, a position for a gentleman rather than \"a mere collector\".",
+   "sentence": "He returned home on 29 August to find a letter from Henslow proposing him as a suitable naturalist for a self-funded supernumerary place on HMS Beagle with captain Robert FitzRoy, a position for a gentleman rather than \"a mere collector\".",
    "section": "Biography"
   },
-  "f42": {
+  "f25": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "After delays, the voyage began on 27 December 1831; it lasted almost five years.",
    "section": "Biography"
   },
-  "f43": {
+  "f26": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "After delays, the voyage began on 27 December 1831; it lasted almost five years.",
    "section": "Biography"
   },
-  "f44": {
+  "f27": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Darwin experienced an earthquake in Chile in 1835 and saw signs that the land had just been raised, including mussel beds stranded above high tide.",
    "section": "Biography"
   },
-  "f45": {
+  "f28": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "On 2 October 1836, Beagle anchored at Falmouth, Cornwall.",
    "section": "Biography"
   },
-  "f46": {
+  "f29": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "On 2 October 1836, Beagle anchored at Falmouth, Cornwall.",
    "section": "Biography"
   },
-  "f47": {
+  "f30": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Charles Lyell eagerly met Darwin for the first time on 29 October and soon introduced him to the up-and-coming anatomist Richard Owen, who had the facilities of the Royal College of Surgeons to work on the fossil bones collected by Darwin.",
    "section": "Biography"
   },
-  "f48": {
+  "f31": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "With Lyell's enthusiastic backing, he read it to the Geological Society of London on 4 January 1837.",
    "section": "Biography"
   },
-  "f49": {
+  "f32": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "With Lyell's enthusiastic backing, he read it to the Geological Society of London on 4 January 1837.",
    "section": "Biography"
   },
-  "f50": {
+  "f33": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "On 17 February, Darwin was elected to the Council of the Geological Society, and Lyell's presidential address presented Owen's findings on Darwin's fossils, stressing the geographical continuity of species as supporting his uniformitarian ideas.",
    "section": "Biography"
   },
-  "f51": {
+  "f34": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "The two rheas were distinct species, and on 14 March Darwin announced how their distribution changed going southwards.",
    "section": "Biography"
   },
-  "f52": {
+  "f35": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
-   "sentence": "By mid-March 1837, barely six months after his return to England, Darwin was speculating in his Red Notebook on the possibility that \"one species does change into another\" to explain the geographical distribution of living species such as the rheas, and extinct ones such as the strange extinct mammal Macrauchenia, which resembled a giant guanaco, a llama relative.",
+   "sentence": "By mid-March 1837, barely six months after his return to England, Darwin was speculating in his Red Notebook on the possibility that \"one species does change into another\"to explain the geographical distribution of living species such as the rheas, and extinct ones such as the strange extinct mammal Macrauchenia, which resembled a giant guanaco, a llama relative.",
    "section": "Biography"
   },
-  "f53": {
+  "f36": {
    "kind": "number",
    "value": 1000,
    "surface": "1,000",
    "sentence": "Still rewriting his Journal, he took on editing and publishing the expert reports on his collections, and with Henslow's help obtained a Treasury grant of £1,000, equivalent to £97,000 in 2025, to sponsor this multi-volume Zoology of the Voyage of H.M.S. Beagle.",
    "section": "Biography"
   },
-  "f54": {
+  "f37": {
    "kind": "number",
    "value": 97000,
    "surface": "97,000",
    "sentence": "Still rewriting his Journal, he took on editing and publishing the expert reports on his collections, and with Henslow's help obtained a Treasury grant of £1,000, equivalent to £97,000 in 2025, to sponsor this multi-volume Zoology of the Voyage of H.M.S. Beagle.",
    "section": "Biography"
   },
-  "f55": {
+  "f38": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Still rewriting his Journal, he took on editing and publishing the expert reports on his collections, and with Henslow's help obtained a Treasury grant of £1,000, equivalent to £97,000 in 2025, to sponsor this multi-volume Zoology of the Voyage of H.M.S. Beagle.",
    "section": "Biography"
   },
-  "f56": {
+  "f39": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "As the Victorian era began, Darwin pressed on with writing his Journal, and in August 1837 began correcting printer's proofs.",
    "section": "Biography"
   },
-  "f57": {
+  "f40": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "On 20 September, he had \"an uncomfortable palpitation of the heart\", so his doctors urged him to \"knock off all work\" and live in the country for a few weeks.",
+   "sentence": "On 20 September, he had \"an uncomfortable palpitation of the heart\", so his doctors urged him to \"knock off all work\"and live in the country for a few weeks.",
    "section": "Biography"
   },
-  "f58": {
+  "f41": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Darwin suggested that this might have been the work of earthworms, inspiring \"a new & important theory\" on their role in soil formation, which he presented at the Geological Society on 1 November 1837.",
+   "sentence": "Darwin suggested that this might have been the work of earthworms, inspiring \"a new & important theory\"on their role in soil formation, which he presented at the Geological Society on 1 November 1837.",
    "section": "Biography"
   },
-  "f59": {
+  "f42": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
-   "sentence": "Darwin suggested that this might have been the work of earthworms, inspiring \"a new & important theory\" on their role in soil formation, which he presented at the Geological Society on 1 November 1837.",
+   "sentence": "Darwin suggested that this might have been the work of earthworms, inspiring \"a new & important theory\"on their role in soil formation, which he presented at the Geological Society on 1 November 1837.",
    "section": "Biography"
   },
-  "f60": {
+  "f43": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "His Journal was printed and ready for publication by the end of February 1838, as was the first volume of the Narrative, but FitzRoy was still working hard to finish his own volume.",
    "section": "Biography"
   },
-  "f61": {
+  "f44": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "After initially declining the work, he accepted the post in March 1838.",
    "section": "Biography"
   },
-  "f62": {
+  "f45": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "He included mankind in his speculations from the outset, and on seeing an orangutan in the zoo on 28 March 1838 noted its childlike behaviour.",
    "section": "Biography"
   },
-  "f63": {
+  "f46": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "He included mankind in his speculations from the outset, and on seeing an orangutan in the zoo on 28 March 1838 noted its childlike behaviour.",
    "section": "Biography"
   },
-  "f64": {
+  "f47": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "On 23 June, he took a break and went \"geologising\" in Scotland.",
+   "sentence": "On 23 June, he took a break and went \"geologising\"in Scotland.",
    "section": "Biography"
   },
-  "f65": {
+  "f48": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "Fully recuperated, he returned to Shrewsbury in July 1838.",
    "section": "Biography"
   },
-  "f66": {
+  "f49": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Having decided in favour of marriage, he discussed it with his father, then went to visit his cousin Emma on 29 July.",
    "section": "Biography"
   },
-  "f67": {
+  "f50": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "On 28 September 1838, he noted its assertion that human \"population, when unchecked, goes on doubling itself every twenty-five years, or increases in a geometrical ratio\", a geometric progression so that population soon exceeds food supply in what is known as a Malthusian catastrophe.",
    "section": "Biography"
   },
-  "f68": {
+  "f51": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "On 28 September 1838, he noted its assertion that human \"population, when unchecked, goes on doubling itself every twenty-five years, or increases in a geometrical ratio\", a geometric progression so that population soon exceeds food supply in what is known as a Malthusian catastrophe.",
    "section": "Biography"
   },
-  "f69": {
+  "f52": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "As he later wrote in his Autobiography:\nIn October 1838, that is, fifteen months after I had begun my systematic enquiry, I happened to read for amusement Malthus on Population, and being well prepared to appreciate the struggle for existence which everywhere goes on from long-continued observation of the habits of animals and plants, it at once struck me that under these circumstances favourable variations would tend to be preserved, and unfavourable ones to be destroyed.",
    "section": "Biography"
   },
-  "f70": {
+  "f53": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "On 11 November, he returned to Maer and proposed to Emma, once more telling her his ideas.",
    "section": "Biography"
   },
-  "f71": {
+  "f54": {
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society (FRS).",
+   "sentence": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society.",
    "section": "Biography"
   },
-  "f72": {
+  "f55": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
-   "sentence": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society (FRS).",
+   "sentence": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society.",
    "section": "Biography"
   },
-  "f73": {
+  "f56": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "On 29 January, Darwin and Emma Wedgwood were married at Maer in an Anglican ceremony arranged to suit the Unitarians, then immediately caught the train to London and their new home.",
    "section": "Biography"
   },
-  "f74": {
+  "f57": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "The impetus of Darwin's barnacle research came from a collection of a barnacle colony from Chile in 1835, which he dubbed Mr. Arthrobalanus.",
    "section": "Biography"
   },
-  "f75": {
+  "f58": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "He wrote his first examination of the species in 1846, but did not formally describe it until 1854.",
    "section": "Biography"
   },
-  "f76": {
+  "f59": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "He wrote his first examination of the species in 1846, but did not formally describe it until 1854.",
    "section": "Biography"
   },
-  "f77": {
+  "f60": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "FitzRoy's long-delayed Narrative was published in May 1839.",
    "section": "Biography"
   },
-  "f78": {
+  "f61": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Darwin's Journal and Remarks got good reviews as the third volume, and on 15 August, it was published on its own.",
    "section": "Biography"
   },
-  "f79": {
+  "f62": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "Early in 1842, Darwin wrote about his ideas to Charles Lyell, who noted that his ally \"denies seeing a beginning to each crop of species\".",
    "section": "Biography"
   },
-  "f80": {
+  "f63": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
-   "sentence": "Darwin's book The Structure and Distribution of Coral Reefs on his theory of atoll formation was published in May 1842 after more than three years of work, and he then wrote his first \"pencil sketch\" of his theory of natural selection.",
+   "sentence": "Darwin's book The Structure and Distribution of Coral Reefs on his theory of atoll formation was published in May 1842 after more than three years of work, and he then wrote his first \"pencil sketch\"of his theory of natural selection.",
    "section": "Biography"
   },
-  "f81": {
+  "f64": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "On 11 January 1844, Darwin mentioned his theorising to the botanist Joseph Dalton Hooker, writing with melodramatic humour \"it is like confessing a murder\".",
    "section": "Biography"
   },
-  "f82": {
+  "f65": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
    "sentence": "On 11 January 1844, Darwin mentioned his theorising to the botanist Joseph Dalton Hooker, writing with melodramatic humour \"it is like confessing a murder\".",
    "section": "Biography"
   },
-  "f83": {
+  "f66": {
    "kind": "number",
    "value": 230,
    "surface": "230",
-   "sentence": "By July, Darwin had expanded his \"sketch\" into a 230-page \"Essay\", to be expanded with his research results if he died prematurely.",
+   "sentence": "By July, Darwin had expanded his \"sketch\"into a 230-page \"Essay\", to be expanded with his research results if he died prematurely.",
    "section": "Biography"
   },
-  "f84": {
+  "f67": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "Darwin completed his third geological book in 1846.",
    "section": "Biography"
   },
-  "f85": {
+  "f68": {
    "kind": "date",
    "value": "1847",
    "surface": "1847",
-   "sentence": "In 1847, Hooker read the \"Essay\" and sent notes that provided Darwin with the calm critical feedback that he needed, but would not commit himself and questioned Darwin's opposition to continuing acts of creation.",
+   "sentence": "In 1847, Hooker read the \"Essay\"and sent notes that provided Darwin with the calm critical feedback that he needed, but would not commit himself and questioned Darwin's opposition to continuing acts of creation.",
    "section": "Biography"
   },
-  "f86": {
+  "f69": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
    "sentence": "In an attempt to improve his chronic ill health, Darwin went in 1849 to Dr. James Gully's Malvern spa and was surprised to find some benefit from hydrotherapy.",
    "section": "Biography"
   },
-  "f87": {
+  "f70": {
    "kind": "date",
    "value": "1851",
    "surface": "1851",
    "sentence": "Then, in 1851, his treasured daughter Annie fell ill, reawakening his fears that his illness might be hereditary.",
    "section": "Biography"
   },
-  "f88": {
+  "f71": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
    "sentence": "In 1853, it earned him the Royal Society's Royal Medal, and it made his reputation as a biologist.",
    "section": "Biography"
   },
-  "f89": {
+  "f72": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "In 1854, he became a Fellow of the Linnean Society of London, gaining postal access to its library.",
+   "sentence": "Upon the conclusion of his research, Darwin declared, \"I hate a barnacle as no man ever did before.\"In 1854, he became a Fellow of the Linnean Society of London, gaining postal access to its library.",
    "section": "Biography"
   },
-  "f90": {
+  "f73": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "By the start of 1856, Darwin was investigating whether eggs and seeds could survive travel across seawater to spread species across oceans.",
    "section": "Biography"
   },
-  "f91": {
+  "f74": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Though Darwin saw no threat, on 14 May 1856, he began writing a short paper.",
    "section": "Biography"
   },
-  "f92": {
+  "f75": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "Though Darwin saw no threat, on 14 May 1856, he began writing a short paper.",
    "section": "Biography"
   },
-  "f93": {
+  "f76": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "On 5 September 1857, Darwin sent the American botanist Asa Gray a detailed outline of his ideas, including an abstract of Natural Selection, which omitted human origins and sexual selection.",
    "section": "Biography"
   },
-  "f94": {
+  "f77": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "On 5 September 1857, Darwin sent the American botanist Asa Gray a detailed outline of his ideas, including an abstract of Natural Selection, which omitted human origins and sexual selection.",
    "section": "Biography"
   },
-  "f95": {
+  "f78": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Darwin's book was only partly written when, on 18 June 1858, he received a paper from Wallace describing natural selection.",
    "section": "Biography"
   },
-  "f96": {
+  "f79": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Darwin's book was only partly written when, on 18 June 1858, he received a paper from Wallace describing natural selection.",
    "section": "Biography"
   },
-  "f97": {
+  "f80": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "After some discussion, with no reliable way of involving Wallace, Lyell and Hooker decided on a joint presentation at the Linnean Society on 1 July of On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection.",
    "section": "Biography"
   },
-  "f98": {
+  "f81": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "On the evening of 28 June, Darwin's baby son died of scarlet fever after almost a week of severe illness, and he was too distraught to attend.",
    "section": "Biography"
   },
-  "f99": {
+  "f82": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "There was little immediate attention to this announcement of the theory; the president of the Linnean Society remarked in May 1859 that the year had not been marked by any revolutionary discoveries.",
    "section": "Biography"
   },
-  "f100": {
+  "f83": {
    "kind": "number",
    "value": 1250,
    "surface": "1,250",
    "sentence": "On the Origin of Species proved unexpectedly popular, with the entire stock of 1,250 copies oversubscribed when it went on sale to booksellers on 22 November 1859.",
    "section": "Biography"
   },
-  "f101": {
+  "f84": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "On the Origin of Species proved unexpectedly popular, with the entire stock of 1,250 copies oversubscribed when it went on sale to booksellers on 22 November 1859.",
    "section": "Biography"
   },
-  "f102": {
+  "f85": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "On the Origin of Species proved unexpectedly popular, with the entire stock of 1,250 copies oversubscribed when it went on sale to booksellers on 22 November 1859.",
    "section": "Biography"
   },
-  "f103": {
+  "f86": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "Darwin first used the word evolution in The Descent of Man in 1871, before adding it in 1872 to the 6th edition of The Origin of Species.",
    "section": "Biography"
   },
-  "f104": {
+  "f87": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "Darwin first used the word evolution in The Descent of Man in 1871, before adding it in 1872 to the 6th edition of The Origin of Species.",
    "section": "Biography"
   },
-  "f105": {
+  "f88": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Patrick Matthew drew attention to his 1831 book, which had a brief appendix suggesting a concept of natural selection leading to new species, but he had not developed the idea.",
    "section": "Biography"
   },
-  "f106": {
+  "f89": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "In 1860, the publication of Essays and Reviews by seven liberal Anglican theologians diverted clerical attention from Darwin.",
    "section": "Biography"
   },
-  "f107": {
+  "f90": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "The most famous confrontation was at the public 1860 Oxford evolution debate during a meeting of the British Association for the Advancement of Science, where the Bishop of Oxford Samuel Wilberforce, though not opposed to transmutation of species, argued against Darwin's explanation and human descent from apes.",
    "section": "Biography"
   },
-  "f108": {
+  "f91": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "Despite criticisms and reservations related to this topic, he nevertheless proposed a prescient idea in an 1871 letter to Hooker in which he suggested the origin of life may have occurred in a \"warm little pond\".",
    "section": "Biography"
   },
-  "f109": {
+  "f92": {
    "kind": "date",
    "value": "1863",
    "surface": "1863",
    "sentence": "In 1863, Lyell's Geological Evidences of the Antiquity of Man popularised prehistory, though his caution on evolution disappointed Darwin.",
    "section": "Biography"
   },
-  "f110": {
+  "f93": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Later lobbying brought Darwin Britain's highest scientific honour, the Royal Society's Copley Medal, awarded on 3 November 1864.",
    "section": "Biography"
   },
-  "f111": {
+  "f94": {
    "kind": "date",
    "value": "1864",
    "surface": "1864",
    "sentence": "Later lobbying brought Darwin Britain's highest scientific honour, the Royal Society's Copley Medal, awarded on 3 November 1864.",
    "section": "Biography"
   },
-  "f112": {
+  "f95": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
    "sentence": "Darwin had started growing a beard during illness in 1862.",
    "section": "Biography"
   },
-  "f113": {
+  "f96": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "After he reappeared in public in 1866, caricatures of him as an ape helped to identify all forms of evolutionism with Darwinism.",
    "section": "Biography"
   },
-  "f114": {
+  "f97": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
    "sentence": "In 1877, Marsh delivered a very influential speech before the annual meeting of the American Association for the Advancement of Science, providing a demonstrative argument for evolution.",
    "section": "Biography"
   },
-  "f115": {
+  "f98": {
    "kind": "date",
    "value": "1861",
    "surface": "1861",
    "sentence": "Enquiries about insect pollination led in 1861 to novel studies of wild orchids, showing adaptation of their flowers to attract specific moths to each species and ensure cross-fertilisation.",
    "section": "Biography"
   },
-  "f116": {
+  "f99": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
    "sentence": "In 1862, Fertilisation of Orchids gave his first detailed demonstration of the power of natural selection to explain complex ecological relationships, making testable predictions.",
    "section": "Biography"
   },
-  "f117": {
+  "f100": {
    "kind": "date",
    "value": "1903",
    "surface": "1903",
-   "sentence": "Explorers in Madagascar discovered Xanthopan in 1903.",
+   "sentence": "Darwin predicted the existence of a moth with a proboscis long enough to pollinate it; the pollen \"would not be withdrawn until some huge moth, with a wonderfully long proboscis, tried to drain the last drop.\"Explorers in Madagascar discovered Xanthopan in 1903.",
    "section": "Biography"
   },
-  "f118": {
-   "kind": "date",
-   "value": "1868",
-   "surface": "1868",
-   "sentence": "Darwin's book The Variation of Animals and Plants Under Domestication (1868) was the first part of his planned \"big book\", and included his unsuccessful hypothesis of pangenesis attempting to explain heredity.",
-   "section": "Biography"
-  },
-  "f119": {
+  "f101": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "With The Descent of Man, and Selection in Relation to Sex published in 1871, Darwin set out evidence from numerous sources that humans are animals, showing continuity of physical and mental attributes, and presented sexual selection to explain impractical animal features such as the peacock's plumage as well as human evolution of culture, differences between sexes, and physical and cultural racial classification, while emphasising that humans are all one species.",
    "section": "Biography"
   },
-  "f120": {
+  "f102": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "His research using images was expanded in his 1872 book The Expression of the Emotions in Man and Animals, one of the first books to feature printed photographs, which discussed the evolution of human psychology and its continuity with the behaviour of animals.",
    "section": "Biography"
   },
-  "f121": {
+  "f103": {
    "kind": "date",
    "value": "1882",
    "surface": "1882",
-   "sentence": "In 1882, Darwin was diagnosed with what was called \"angina pectoris\" which then meant coronary thrombosis and disease of the heart.",
+   "sentence": "In 1882, Darwin was diagnosed with what was called \"angina pectoris\"which then meant coronary thrombosis and disease of the heart.",
    "section": "Biography"
   },
-  "f122": {
+  "f104": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Darwin died at Down House on 19 April 1882, aged 73.",
    "section": "Biography"
   },
-  "f123": {
+  "f105": {
    "kind": "date",
    "value": "1882",
    "surface": "1882",
    "sentence": "Darwin died at Down House on 19 April 1882, aged 73.",
    "section": "Biography"
   },
-  "f124": {
+  "f106": {
    "kind": "number",
    "value": 73,
    "surface": "73",
    "sentence": "Darwin died at Down House on 19 April 1882, aged 73.",
    "section": "Biography"
   },
-  "f125": {
+  "f107": {
    "kind": "number",
    "value": 26,
    "surface": "26",

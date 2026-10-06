@@ -69,39 +69,33 @@
    "sentence": "It is also the deadliest mushroom worldwide, responsible for 90% of mushroom-related fatalities every year."
   },
   "f2": {
-   "kind": "number",
-   "value": 54,
-   "surface": "54",
-   "sentence": "It has been involved in the majority of human deaths from mushroom poisoning, possibly including Roman Emperor Claudius in AD 54 and Holy Roman Emperor Charles VI in 1740."
-  },
-  "f3": {
    "kind": "date",
    "value": "1740",
    "surface": "1740",
    "sentence": "It has been involved in the majority of human deaths from mushroom poisoning, possibly including Roman Emperor Claudius in AD 54 and Holy Roman Emperor Charles VI in 1740."
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1727",
    "surface": "1727",
-   "sentence": "It was described by French botanist Sébastien Vaillant in 1727, who gave a succinct phrase name \"Fungus phalloides, annulatus, sordide virescens, et patulus\" (a phallus-shaped, ring-stemmed, dirty green mushroom with a large 'spreading' cap).",
+   "sentence": "It was described by French botanist Sébastien Vaillant in 1727, who gave a succinct phrase name \"Fungus phalloides, annulatus, sordide virescens, et patulus\".",
    "section": "Taxonomy"
   },
-  "f5": {
+  "f4": {
    "kind": "date",
    "value": "1821",
    "surface": "1821",
    "sentence": "In 1821, Elias Magnus Fries described it as Agaricus phalloides, but included all white amanitas within its description.",
    "section": "Taxonomy"
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "Finally, in 1833, Johann Heinrich Friedrich Link settled on the name Amanita phalloides, after Persoon had named it Amanita viridis 30 years earlier.",
    "section": "Taxonomy"
   },
-  "f7": {
+  "f6": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
@@ -109,482 +103,301 @@
    "sentence": "Finally, in 1833, Johann Heinrich Friedrich Link settled on the name Amanita phalloides, after Persoon had named it Amanita viridis 30 years earlier.",
    "section": "Taxonomy"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "It has been described, in 2004, as a distinct variety and includes what was termed A. verna var. tarda.",
    "section": "Taxonomy"
   },
-  "f9": {
+  "f8": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "The death cap has a large and imposing epigeous (aboveground) fruiting body (basidiocarp), usually with a pileus (cap) from 5 to 15 cm across (2 to 5.8 inches) across, initially rounded and hemispherical, but flattening with age.",
+   "sentence": "The death cap has a large and imposing epigeous fruiting body, usually with a pileus from 5 to 15 cm across across, initially rounded and hemispherical, but flattening with age.",
    "section": "Description"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 15,
    "unit": "cm",
    "surface": "15 cm",
-   "sentence": "The death cap has a large and imposing epigeous (aboveground) fruiting body (basidiocarp), usually with a pileus (cap) from 5 to 15 cm across (2 to 5.8 inches) across, initially rounded and hemispherical, but flattening with age.",
+   "sentence": "The death cap has a large and imposing epigeous fruiting body, usually with a pileus from 5 to 15 cm across across, initially rounded and hemispherical, but flattening with age.",
    "section": "Description"
   },
-  "f11": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The death cap has a large and imposing epigeous (aboveground) fruiting body (basidiocarp), usually with a pileus (cap) from 5 to 15 cm across (2 to 5.8 inches) across, initially rounded and hemispherical, but flattening with age.",
-   "section": "Description"
-  },
-  "f12": {
-   "kind": "measure",
-   "value": 5.8,
-   "unit": "inches",
-   "surface": "5.8 inches",
-   "sentence": "The death cap has a large and imposing epigeous (aboveground) fruiting body (basidiocarp), usually with a pileus (cap) from 5 to 15 cm across (2 to 5.8 inches) across, initially rounded and hemispherical, but flattening with age.",
-   "section": "Description"
-  },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm (3⁄8 to 5⁄8 in) below the cap.",
+   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm below the cap.",
    "section": "Description"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 1.5,
    "unit": "cm",
    "surface": "1.5 cm",
-   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm (3⁄8 to 5⁄8 in) below the cap.",
+   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm below the cap.",
+   "section": "Description"
+  },
+  "f12": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm long and 1 to 2 cm thick, with a swollen, ragged, sac-like white volva.",
+   "section": "Description"
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "cm",
+   "surface": "15 cm",
+   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm long and 1 to 2 cm thick, with a swollen, ragged, sac-like white volva.",
+   "section": "Description"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm long and 1 to 2 cm thick, with a swollen, ragged, sac-like white volva.",
    "section": "Description"
   },
   "f15": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm (3⁄8 to 5⁄8 in) below the cap.",
+   "kind": "measure",
+   "value": 2,
+   "unit": "cm",
+   "surface": "2 cm",
+   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm long and 1 to 2 cm thick, with a swollen, ragged, sac-like white volva.",
    "section": "Description"
   },
   "f16": {
    "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm (3⁄8 to 5⁄8 in) below the cap.",
+   "value": 7,
+   "surface": "7",
+   "sentence": "Spores: 7-12 x 6-9 μm.",
    "section": "Description"
   },
   "f17": {
    "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm (3⁄8 to 5⁄8 in) below the cap.",
+   "value": 6,
+   "surface": "6",
+   "sentence": "Spores: 7-12 x 6-9 μm.",
    "section": "Description"
   },
   "f18": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "The remains of the partial veil are seen as a skirtlike, floppy annulus usually about 1 to 1.5 cm (3⁄8 to 5⁄8 in) below the cap.",
+   "sentence": "The transparent spores are globular to egg-shaped, measure 8–10 μm long, and stain blue with iodine.",
    "section": "Description"
   },
   "f19": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f20": {
-   "kind": "measure",
-   "value": 15,
-   "unit": "cm",
-   "surface": "15 cm",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f24": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f25": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f28": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "cm",
-   "surface": "2 cm",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f31": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f32": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "The stipe is white with a scattering of grayish-olive scales and is 8 to 15 cm (3+1⁄8 to 5+7⁄8 in) long and 1 to 2 cm (3⁄8 to 3⁄4 in) thick, with a swollen, ragged, sac-like white volva (base).",
-   "section": "Description"
-  },
-  "f33": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Spores: 7-12 x 6-9 μm.",
-   "section": "Description"
-  },
-  "f34": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Spores: 7-12 x 6-9 μm.",
-   "section": "Description"
-  },
-  "f35": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The transparent spores are globular to egg-shaped, measure 8–10 μm (0.3–0.4 mil) long, and stain blue with iodine.",
-   "section": "Description"
-  },
-  "f36": {
    "kind": "measure",
    "value": 10,
    "unit": "μm",
    "surface": "10 μm",
-   "sentence": "The transparent spores are globular to egg-shaped, measure 8–10 μm (0.3–0.4 mil) long, and stain blue with iodine.",
+   "sentence": "The transparent spores are globular to egg-shaped, measure 8–10 μm long, and stain blue with iodine.",
    "section": "Description"
   },
-  "f37": {
-   "kind": "number",
-   "value": 0.3,
-   "surface": "0.3",
-   "sentence": "The transparent spores are globular to egg-shaped, measure 8–10 μm (0.3–0.4 mil) long, and stain blue with iodine.",
-   "section": "Description"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 0.4,
-   "surface": "0.4",
-   "sentence": "The transparent spores are globular to egg-shaped, measure 8–10 μm (0.3–0.4 mil) long, and stain blue with iodine.",
-   "section": "Description"
-  },
-  "f39": {
+  "f20": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
    "sentence": "Amatoxins consist of at least eight compounds with a similar structure, that of eight amino-acid rings; they were isolated in 1941 by Heinrich O. Wieland and Rudolf Hallermayer of LMU Munich.",
    "section": "Description"
   },
-  "f40": {
+  "f21": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
    "sentence": "Phalloidin was isolated in 1937 by Feodor Lynen, Heinrich Wieland's student and son-in-law, and Ulrich Wieland of LMU Munich.",
    "section": "Description"
   },
-  "f41": {
+  "f22": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "In 1918, samples from the eastern United States were identified as being a distinct though similar species, A. brunnescens, by George Francis Atkinson of Cornell University.",
    "section": "Distribution and habitat"
   },
-  "f42": {
+  "f23": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "A 2006 historical review concluded the East Coast populations were inadvertently introduced, likely on the roots of other purposely imported plants such as chestnuts.",
    "section": "Distribution and habitat"
   },
-  "f43": {
+  "f24": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "The origins of the West Coast populations remained unclear, due to scant historical records, but a 2009 genetic study provided strong evidence for the introduced status of the fungus on the west coast of North America.",
    "section": "Distribution and habitat"
   },
-  "f44": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "Introduced oaks appear to have been the vector to Australia and South America; populations under oaks have been recorded from Melbourne, Canberra (where two people died in January 2012, of four who were poisoned), Adelaide, and further observed by citizen scientists in Beechworth, Sydney and Albury.",
-   "section": "Distribution and habitat"
-  },
-  "f45": {
+  "f25": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "This species has once been recorded as food of the pleasing fungus beetle Rotitma sanguinipennis; no other such observation was known as of 1999, and the record is more likely a mix-up with the related Tritoma mimetica, which can indeed be found on Amanita species.",
    "section": "Ecology"
   },
-  "f46": {
+  "f26": {
    "kind": "measure",
    "value": 30,
    "unit": "grams",
    "surface": "30 grams",
-   "sentence": "Its biochemistry has been researched intensively for decades, and 30 grams (1.1 ounces), or half a cap, of this mushroom is estimated to be enough to kill a human.",
+   "sentence": "Its biochemistry has been researched intensively for decades, and 30 grams, or half a cap, of this mushroom is estimated to be enough to kill a human.",
    "section": "Toxicity"
   },
-  "f47": {
-   "kind": "number",
-   "value": 1.1,
-   "surface": "1.1",
-   "sentence": "Its biochemistry has been researched intensively for decades, and 30 grams (1.1 ounces), or half a cap, of this mushroom is estimated to be enough to kill a human.",
-   "section": "Toxicity"
-  },
-  "f48": {
+  "f27": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Symptoms of death cap mushroom toxicity usually occur 6 to 12 hours after ingestion.",
    "section": "Toxicity"
   },
-  "f49": {
+  "f28": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Symptoms of death cap mushroom toxicity usually occur 6 to 12 hours after ingestion.",
    "section": "Toxicity"
   },
-  "f50": {
+  "f29": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "The mortality rate of ingestion of the death cap mushroom is believed to be around 10–30%.",
    "section": "Toxicity"
   },
-  "f51": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "%",
-   "surface": "30%",
-   "sentence": "The mortality rate of ingestion of the death cap mushroom is believed to be around 10–30%.",
-   "section": "Toxicity"
-  },
-  "f52": {
+  "f30": {
    "kind": "date",
    "value": "1988",
    "surface": "1988",
    "sentence": "Of the nine people poisoned in Australia's Canberra region between 1988 and 2011, three were from Laos and two were from China.",
    "section": "Toxicity"
   },
-  "f53": {
+  "f31": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Of the nine people poisoned in Australia's Canberra region between 1988 and 2011, three were from Laos and two were from China.",
    "section": "Toxicity"
   },
-  "f54": {
+  "f32": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
-   "sentence": "In January 2012, four people were accidentally poisoned when death caps (reportedly misidentified as straw mushrooms, which are popular in Chinese and other Asian dishes) were served for dinner in Canberra; all the victims required hospital treatment and two of them died, with a third requiring a liver transplant.",
+   "sentence": "In January 2012, four people were accidentally poisoned when death caps were served for dinner in Canberra; all the victims required hospital treatment and two of them died, with a third requiring a liver transplant.",
    "section": "Toxicity"
   },
-  "f55": {
+  "f33": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "The test gives false positive results for psilocin, psilocybin, and 5-substituted tryptamines.",
    "section": "Toxicity"
   },
-  "f56": {
+  "f34": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "It is noticed that after up to 24 hours have passed, the symptoms seem to disappear and the person might feel fine for up to 72 hours.",
    "section": "Toxicity"
   },
-  "f57": {
+  "f35": {
    "kind": "number",
    "value": 72,
    "surface": "72",
    "sentence": "It is noticed that after up to 24 hours have passed, the symptoms seem to disappear and the person might feel fine for up to 72 hours.",
    "section": "Toxicity"
   },
-  "f58": {
+  "f36": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Symptoms of liver and kidney damage start 3 to 6 days after the mushrooms were eaten, with the considerable increase of the transaminases.",
    "section": "Toxicity"
   },
-  "f59": {
+  "f37": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Symptoms of liver and kidney damage start 3 to 6 days after the mushrooms were eaten, with the considerable increase of the transaminases.",
    "section": "Toxicity"
   },
-  "f60": {
+  "f38": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Up to the mid-20th century, the mortality rate was around 60–70%, but this has been greatly reduced with advances in medical care.",
    "section": "Toxicity"
   },
-  "f61": {
-   "kind": "measure",
-   "value": 70,
-   "unit": "%",
-   "surface": "70%",
-   "sentence": "Up to the mid-20th century, the mortality rate was around 60–70%, but this has been greatly reduced with advances in medical care.",
-   "section": "Toxicity"
-  },
-  "f62": {
+  "f39": {
    "kind": "date",
    "value": "1971",
    "surface": "1971",
-   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4% (51.3% in children under ten and 16.5% in those older than ten).",
+   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4%.",
    "section": "Toxicity"
   },
-  "f63": {
+  "f40": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
-   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4% (51.3% in children under ten and 16.5% in those older than ten).",
+   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4%.",
    "section": "Toxicity"
   },
-  "f64": {
+  "f41": {
    "kind": "measure",
    "value": 22.4,
    "unit": "%",
    "surface": "22.4%",
-   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4% (51.3% in children under ten and 16.5% in those older than ten).",
+   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4%.",
    "section": "Toxicity"
   },
-  "f65": {
-   "kind": "measure",
-   "value": 51.3,
-   "unit": "%",
-   "surface": "51.3%",
-   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4% (51.3% in children under ten and 16.5% in those older than ten).",
-   "section": "Toxicity"
-  },
-  "f66": {
-   "kind": "measure",
-   "value": 16.5,
-   "unit": "%",
-   "surface": "16.5%",
-   "sentence": "A review of death cap poisoning throughout Europe from 1971 to 1980 found the overall mortality rate to be 22.4% (51.3% in children under ten and 16.5% in those older than ten).",
-   "section": "Toxicity"
-  },
-  "f67": {
+  "f42": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "This was revised to around 10–15% in surveys reviewed in 1995.",
    "section": "Toxicity"
   },
-  "f68": {
-   "kind": "measure",
-   "value": 15,
-   "unit": "%",
-   "surface": "15%",
-   "sentence": "This was revised to around 10–15% in surveys reviewed in 1995.",
-   "section": "Toxicity"
-  },
-  "f69": {
+  "f43": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
    "sentence": "This was revised to around 10–15% in surveys reviewed in 1995.",
    "section": "Toxicity"
   },
-  "f70": {
+  "f44": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "A long-term clinical trial of intravenous silibinin began in the US in 2010.",
    "section": "Toxicity"
   },
-  "f71": {
+  "f45": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "According to one report based on a treatment of 60 patients with silibinin, patients who started the drug within 96 hours of ingesting the mushroom and who still had intact kidney function all survived.",
    "section": "Toxicity"
   },
-  "f72": {
+  "f46": {
    "kind": "number",
    "value": 96,
    "surface": "96",
    "sentence": "According to one report based on a treatment of 60 patients with silibinin, patients who started the drug within 96 hours of ingesting the mushroom and who still had intact kidney function all survived.",
    "section": "Toxicity"
   },
-  "f73": {
+  "f47": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "As of February 2014 supporting research has not yet been published.",
    "section": "Toxicity"
   },
-  "f74": {
+  "f48": {
    "kind": "number",
    "value": 36,
    "surface": "36",

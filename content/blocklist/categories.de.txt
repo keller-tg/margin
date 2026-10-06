@@ -1,18 +1,13 @@
-# Ein regulärer Ausdruck pro Zeile, ohne Gross-/Kleinschreibung, gegen sichtbare Kategorien.
-krieg
-schlacht
-massaker
-völkermord|genozid
-terroris
-folter
-attentat
-mordfall|mörder
-sexualität|sexualpraktik
-pornograf|pornograph
-prostitution
-droge|rauschgift|psychotrop|halluzinogen|opioid
-suizid
-^wahl\b|wahl in
-politische affäre
-nacktheit|freikörperkultur|akt \(
-kernwaffe|atomwaffe|atombombe
+# Enge Regeln (Entscheid 2026-10-06). Ein regulärer Ausdruck pro Zeile, ohne Gross-/Kleinschreibung,
+# gegen die sichtbaren Kategorien. Gesperrt werden nur: explizite sexuelle Inhalte · Drogenkonsum und
+# -handel · Ereignisse grafischer Gewalt (Massaker, Völkermord, Terror, Hinrichtungen) · aktuelle
+# politische Kontroversen. Biografische Kategorien ("Person im …krieg") und Stoffklassen
+# ("Psychotroper Wirkstoff") sperren nicht; Gewalt-Erwähnungen gehen in die Review-Warteschlange.
+# explizite sexuelle Inhalte
+pornografie|pornographie|sexualpraktik|prostitution|sexarbeit|nacktheit|freikörperkultur
+# Drogenkonsum und -handel
+drogenhandel|drogenkonsum|rauschgiftkriminalität|drogenkartell|drogenkultur
+# Ereignisse grafischer Gewalt
+^massaker\b|\bmassaker (in|an|von|während)\b|völkermord|genozid|terroranschlag|terrorismus (in|der)\b|amoklauf|^hinrichtung|hinrichtung (in|von)\b|kriegsverbrechen|kernwaffe|atomwaffe|atombombenabwurf
+# aktuelle politische Kontroversen
+politische affäre|politischer skandal|\bwahl 202\d\b|\b202\d\b.*\bproteste?\b

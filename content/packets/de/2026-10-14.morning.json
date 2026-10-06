@@ -46,379 +46,243 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Charles Robert Darwin [tʃɑrlz 'dɑː.wɪn] (* 12. Februar 1809 in Shrewsbury; † 19. April 1882 in Down House/Grafschaft Kent) war ein britischer Naturforscher."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1809",
-   "surface": "1809",
-   "sentence": "Charles Robert Darwin [tʃɑrlz 'dɑː.wɪn] (* 12. Februar 1809 in Shrewsbury; † 19. April 1882 in Down House/Grafschaft Kent) war ein britischer Naturforscher."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Charles Robert Darwin [tʃɑrlz 'dɑː.wɪn] (* 12. Februar 1809 in Shrewsbury; † 19. April 1882 in Down House/Grafschaft Kent) war ein britischer Naturforscher."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1882",
-   "surface": "1882",
-   "sentence": "Charles Robert Darwin [tʃɑrlz 'dɑː.wɪn] (* 12. Februar 1809 in Shrewsbury; † 19. April 1882 in Down House/Grafschaft Kent) war ein britischer Naturforscher."
-  },
-  "f5": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Die Ende 1831 begonnene und fast fünf Jahre andauernde zweite Reise mit der Beagle, die den jungen Darwin einmal um die Welt führte, war zugleich Schlüsselerlebnis und Grundlage für sein späteres Werk."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "Der breiten Öffentlichkeit wurde Darwin erstmals durch seinen 1839 herausgegebenen Reisebericht bekannt."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "Bereits 1838 entwarf Darwin seine Theorie der Anpassung an den Lebensraum durch Variation und natürliche Selektion und erklärte so die phylogenetische Entwicklung aller Organismen und ihre Aufspaltung in verschiedene Arten."
   },
-  "f8": {
+  "f4": {
    "kind": "measure",
    "value": 20,
    "unit": "jahre",
    "surface": "20 Jahre",
    "sentence": "Über 20 Jahre lang trug er Belege für diese Theorie zusammen."
   },
-  "f9": {
+  "f5": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht veröffentlichte."
   },
-  "f10": {
+  "f6": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
    "sentence": "1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht veröffentlichte."
   },
-  "f11": {
+  "f7": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "Ab 1856 arbeitete er an einem umfangreichen Manuskript mit dem Titel Natural Selection."
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Durch einen Brief von Alfred Russel Wallace, der dessen Ternate-Manuskript mit ähnlichen Gedanken zur Evolution enthielt, kam es im Sommer 1858 schließlich zu einer Veröffentlichung der Theorien über die Evolution durch beide."
   },
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
-   "sentence": "1871 diskutierte Darwin in The Descent of Man, and Selection in Relation to Sex (Die Abstammung des Menschen und die geschlechtliche Zuchtwahl) mit der sexuellen Selektion einen zweiten Selektionsmechanismus und nutzte seine Theorie, um die Abstammung des Menschen zu erklären."
+   "sentence": "1871 diskutierte Darwin in The Descent of Man, and Selection in Relation to Sex mit der sexuellen Selektion einen zweiten Selektionsmechanismus und nutzte seine Theorie, um die Abstammung des Menschen zu erklären."
   },
-  "f14": {
+  "f10": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Darwin wurde am 12. Februar 1809 auf dem in Shrewsbury gelegenen Anwesen Mount House geboren.",
    "section": "Leben und Werk"
   },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Darwin wurde am 12. Februar 1809 auf dem in Shrewsbury gelegenen Anwesen Mount House geboren.",
    "section": "Leben und Werk"
   },
-  "f16": {
-   "kind": "date",
-   "value": "1765",
-   "surface": "1765",
-   "sentence": "Er war das fünfte von sechs Kindern des Arztes Robert Darwin und dessen Ehefrau Susannah, geborene Wedgwood (1765–1817).",
-   "section": "Leben und Werk"
-  },
-  "f17": {
-   "kind": "date",
-   "value": "1817",
-   "surface": "1817",
-   "sentence": "Er war das fünfte von sechs Kindern des Arztes Robert Darwin und dessen Ehefrau Susannah, geborene Wedgwood (1765–1817).",
-   "section": "Leben und Werk"
-  },
-  "f18": {
+  "f12": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Am 15. Juli 1817, als Darwin acht Jahre alt war, starb seine Mutter.",
    "section": "Leben und Werk"
   },
-  "f19": {
+  "f13": {
    "kind": "date",
    "value": "1817",
    "surface": "1817",
    "sentence": "Am 15. Juli 1817, als Darwin acht Jahre alt war, starb seine Mutter.",
    "section": "Leben und Werk"
   },
-  "f20": {
-   "kind": "date",
-   "value": "1798",
-   "surface": "1798",
-   "sentence": "Seine drei älteren Schwestern Marianne (1798–1858), Caroline (1800–1888) und Susan (1803–1866) übernahmen seine Betreuung.",
-   "section": "Leben und Werk"
-  },
-  "f21": {
-   "kind": "date",
-   "value": "1858",
-   "surface": "1858",
-   "sentence": "Seine drei älteren Schwestern Marianne (1798–1858), Caroline (1800–1888) und Susan (1803–1866) übernahmen seine Betreuung.",
-   "section": "Leben und Werk"
-  },
-  "f22": {
-   "kind": "date",
-   "value": "1800",
-   "surface": "1800",
-   "sentence": "Seine drei älteren Schwestern Marianne (1798–1858), Caroline (1800–1888) und Susan (1803–1866) übernahmen seine Betreuung.",
-   "section": "Leben und Werk"
-  },
-  "f23": {
-   "kind": "date",
-   "value": "1888",
-   "surface": "1888",
-   "sentence": "Seine drei älteren Schwestern Marianne (1798–1858), Caroline (1800–1888) und Susan (1803–1866) übernahmen seine Betreuung.",
-   "section": "Leben und Werk"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "1803",
-   "surface": "1803",
-   "sentence": "Seine drei älteren Schwestern Marianne (1798–1858), Caroline (1800–1888) und Susan (1803–1866) übernahmen seine Betreuung.",
-   "section": "Leben und Werk"
-  },
-  "f25": {
-   "kind": "date",
-   "value": "1866",
-   "surface": "1866",
-   "sentence": "Seine drei älteren Schwestern Marianne (1798–1858), Caroline (1800–1888) und Susan (1803–1866) übernahmen seine Betreuung.",
-   "section": "Leben und Werk"
-  },
-  "f26": {
+  "f14": {
    "kind": "date",
    "value": "1817",
    "surface": "1817",
    "sentence": "Seit dem Frühjahr 1817 besuchte er die Tagesschule der Unitarier-Gemeinde.",
    "section": "Leben und Werk"
   },
-  "f27": {
+  "f15": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Im Juni 1818 wechselte er an die von Samuel Butler geleitete private Internatsschule von Shrewsbury, auf der er sieben Jahre blieb.",
    "section": "Leben und Werk"
   },
-  "f28": {
-   "kind": "date",
-   "value": "1783",
-   "surface": "1783",
-   "sentence": "Das Durchdringen komplexer Sachverhalte wie Euklids Geometrie, in der ihn ein Privatlehrer unterrichtete, oder die Feineinstellung eines Barometers, die ihm sein Onkel Samuel Tertius Galton (1783–1844) erläuterte, bereiteten ihm hingegen Freude.",
-   "section": "Leben und Werk"
-  },
-  "f29": {
-   "kind": "date",
-   "value": "1844",
-   "surface": "1844",
-   "sentence": "Das Durchdringen komplexer Sachverhalte wie Euklids Geometrie, in der ihn ein Privatlehrer unterrichtete, oder die Feineinstellung eines Barometers, die ihm sein Onkel Samuel Tertius Galton (1783–1844) erläuterte, bereiteten ihm hingegen Freude.",
-   "section": "Leben und Werk"
-  },
-  "f30": {
-   "kind": "date",
-   "value": "1804",
-   "surface": "1804",
-   "sentence": "Angeregt durch Experimente seines älteren Bruders Erasmus (1804–1881), die dieser in einem selbstgebauten Labor im elterlichen Geräteschuppen durchführte und bei denen Darwin mithelfen durfte, beschäftigte er sich intensiv mit Chemie.",
-   "section": "Leben und Werk"
-  },
-  "f31": {
-   "kind": "date",
-   "value": "1881",
-   "surface": "1881",
-   "sentence": "Angeregt durch Experimente seines älteren Bruders Erasmus (1804–1881), die dieser in einem selbstgebauten Labor im elterlichen Geräteschuppen durchführte und bei denen Darwin mithelfen durfte, beschäftigte er sich intensiv mit Chemie.",
-   "section": "Leben und Werk"
-  },
-  "f32": {
+  "f16": {
    "kind": "date",
    "value": "1825",
    "surface": "1825",
    "sentence": "Im Oktober 1825 begann Darwin wie zuvor sein Bruder Erasmus an der Universität Edinburgh mit dem Medizinstudium.",
    "section": "Leben und Werk"
   },
-  "f33": {
+  "f17": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "Nach kurzer Bedenkzeit willigte Darwin ein und begann im Januar 1828 mit dem Studium in Cambridge, nachdem er im Privatunterricht sein Griechisch aufgefrischt hatte.",
    "section": "Leben und Werk"
   },
-  "f34": {
+  "f18": {
    "kind": "date",
    "value": "1830",
    "surface": "1830",
    "sentence": "Nach zweimonatiger Vorbereitungszeit bestand er im März 1830 das Little Go schließlich mit Leichtigkeit.",
    "section": "Leben und Werk"
   },
-  "f35": {
+  "f19": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Am 22. Januar 1831 bestand er als zehntbester von 178 Studenten seine Abschlussprüfung, die Fragen zu Paley, Euklid sowie den griechischen und lateinischen Klassikern umfasste.",
    "section": "Leben und Werk"
   },
-  "f36": {
+  "f20": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Am 22. Januar 1831 bestand er als zehntbester von 178 Studenten seine Abschlussprüfung, die Fragen zu Paley, Euklid sowie den griechischen und lateinischen Klassikern umfasste.",
    "section": "Leben und Werk"
   },
-  "f37": {
+  "f21": {
    "kind": "number",
    "value": 178,
    "surface": "178",
    "sentence": "Am 22. Januar 1831 bestand er als zehntbester von 178 Studenten seine Abschlussprüfung, die Fragen zu Paley, Euklid sowie den griechischen und lateinischen Klassikern umfasste.",
    "section": "Leben und Werk"
   },
-  "f38": {
+  "f22": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Die Urkunde für den ersten akademischen Grad Baccalaureus Artium konnte er erst am 26. April 1831 entgegennehmen, da er aufgrund der am Anfang des Studiums versäumten Zeit noch zwei Semester in Cambridge bleiben musste.",
    "section": "Leben und Werk"
   },
-  "f39": {
+  "f23": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Die Urkunde für den ersten akademischen Grad Baccalaureus Artium konnte er erst am 26. April 1831 entgegennehmen, da er aufgrund der am Anfang des Studiums versäumten Zeit noch zwei Semester in Cambridge bleiben musste.",
    "section": "Leben und Werk"
   },
-  "f40": {
-   "kind": "date",
-   "value": "1797",
-   "surface": "1797",
-   "sentence": "In den Sommermonaten unternahm er zahlreiche entomologische Exkursionen, die ihn meist nach Nord-Wales führten, und begleitete dabei unter anderen Frederick William Hope (1797–1862), George Leonard Jenyns (1763–1848) sowie Thomas Campbell Eyton und dessen Vater Thomas Eyton.",
-   "section": "Leben und Werk"
-  },
-  "f41": {
-   "kind": "date",
-   "value": "1862",
-   "surface": "1862",
-   "sentence": "In den Sommermonaten unternahm er zahlreiche entomologische Exkursionen, die ihn meist nach Nord-Wales führten, und begleitete dabei unter anderen Frederick William Hope (1797–1862), George Leonard Jenyns (1763–1848) sowie Thomas Campbell Eyton und dessen Vater Thomas Eyton.",
-   "section": "Leben und Werk"
-  },
-  "f42": {
-   "kind": "date",
-   "value": "1763",
-   "surface": "1763",
-   "sentence": "In den Sommermonaten unternahm er zahlreiche entomologische Exkursionen, die ihn meist nach Nord-Wales führten, und begleitete dabei unter anderen Frederick William Hope (1797–1862), George Leonard Jenyns (1763–1848) sowie Thomas Campbell Eyton und dessen Vater Thomas Eyton.",
-   "section": "Leben und Werk"
-  },
-  "f43": {
-   "kind": "date",
-   "value": "1848",
-   "surface": "1848",
-   "sentence": "In den Sommermonaten unternahm er zahlreiche entomologische Exkursionen, die ihn meist nach Nord-Wales führten, und begleitete dabei unter anderen Frederick William Hope (1797–1862), George Leonard Jenyns (1763–1848) sowie Thomas Campbell Eyton und dessen Vater Thomas Eyton.",
-   "section": "Leben und Werk"
-  },
-  "f44": {
+  "f24": {
    "kind": "date",
    "value": "1829",
    "surface": "1829",
    "sentence": "Eine weitere kleine wissenschaftliche Anerkennung wurde ihm zuteil, als sein Name in dem im Juli 1829 erschienenen Werk Illustrations of British Entomology von James Francis Stephens genannt wurde.",
    "section": "Leben und Werk"
   },
-  "f45": {
+  "f25": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Aus Humboldts Werk machte er sich zahlreiche Notizen zur Kanarischen Insel Teneriffa und begann im April 1831, eine Reise dorthin zu planen.",
    "section": "Leben und Werk"
   },
-  "f46": {
+  "f26": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "Er holte Informationen über Kosten und Termine von Passagen nach Teneriffa ein und musste enttäuscht feststellen, dass er die Reise nicht vor Juni 1832 antreten könnte.",
    "section": "Leben und Werk"
   },
-  "f47": {
+  "f27": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Bereits im Frühjahr 1831 hatte Henslow ihn überzeugt, sich mit Geologie zu beschäftigen, und ihn mit Adam Sedgwick, Professor für Geologie in Cambridge, bekannt gemacht.",
    "section": "Leben und Werk"
   },
-  "f48": {
+  "f28": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Im August 1831 unternahmen Darwin und Sedgwick eine geologische Exkursion nach Nord-Wales, auf der sie etwa eine Woche gemeinsam verbrachten.",
    "section": "Leben und Werk"
   },
-  "f49": {
+  "f29": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Nach seiner Rückkehr nach Shrewsbury am 29. August 1831 fand Darwin einen Brief Henslows vor.",
    "section": "Leben und Werk"
   },
-  "f50": {
+  "f30": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Nach seiner Rückkehr nach Shrewsbury am 29. August 1831 fand Darwin einen Brief Henslows vor.",
    "section": "Leben und Werk"
   },
-  "f51": {
+  "f31": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "FitzRoy befürchtete, ohne einen solchen Begleiter das Schicksal des ersten Kapitäns der Beagle, Pringle Stokes, zu erleiden, der 1828 Suizid verübt hatte.",
    "section": "Leben und Werk"
   },
-  "f52": {
+  "f32": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Erst am 27. Dezember 1831 stach die HMS Beagle von Devonport aus in See.",
    "section": "Leben und Werk"
   },
-  "f53": {
+  "f33": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Erst am 27. Dezember 1831 stach die HMS Beagle von Devonport aus in See.",
    "section": "Leben und Werk"
   },
-  "f54": {
+  "f34": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Am 16. Januar 1832 konnte er bei Praia auf der kapverdischen Insel Santiago zum ersten Mal an Land gehen.",
    "section": "Leben und Werk"
   },
-  "f55": {
+  "f35": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "Am 16. Januar 1832 konnte er bei Praia auf der kapverdischen Insel Santiago zum ersten Mal an Land gehen.",
    "section": "Leben und Werk"
   },
-  "f56": {
+  "f36": {
    "kind": "measure",
    "value": 15,
    "unit": "meter",
@@ -426,217 +290,203 @@
    "sentence": "Während des gut dreiwöchigen Aufenthalts entdeckte er in den Klippen der Küste ein in 15 Meter Höhe verlaufendes waagerechtes Muschelschalenband und fand zum ersten Mal eine Bestätigung für Lyells Theorie der langsamen, graduellen, geologischen Formung der Erde.",
    "section": "Leben und Werk"
   },
-  "f57": {
+  "f37": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Fast genau zwei Monate nach der Abreise erreichte die HMS Beagle am 28. Februar 1832 die südamerikanische Ostküste und ankerte vor Salvador da Bahia in der Allerheiligenbucht.",
    "section": "Leben und Werk"
   },
-  "f58": {
+  "f38": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "Fast genau zwei Monate nach der Abreise erreichte die HMS Beagle am 28. Februar 1832 die südamerikanische Ostküste und ankerte vor Salvador da Bahia in der Allerheiligenbucht.",
    "section": "Leben und Werk"
   },
-  "f59": {
+  "f39": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Bis Ende Juni 1835 folgten sieben weitere Sendungen mit pflanzlichen, tierischen, fossilen und geologischen Fund- und Sammelstücken.",
    "section": "Leben und Werk"
   },
-  "f60": {
+  "f40": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Am 22. September 1832 entdeckte Darwin in der Nähe von Bahía Blanca in Punta Alta seine ersten Fossilien.",
    "section": "Leben und Werk"
   },
-  "f61": {
+  "f41": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "Am 22. September 1832 entdeckte Darwin in der Nähe von Bahía Blanca in Punta Alta seine ersten Fossilien.",
    "section": "Leben und Werk"
   },
-  "f62": {
+  "f42": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "Darwin unternahm währenddessen von April bis November 1833 Exkursionen in das Landesinnere von Uruguay und Argentinien.",
    "section": "Leben und Werk"
   },
-  "f63": {
+  "f43": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Anfang Dezember verließ die HMS Beagle Montevideo, vermaß unter anderem Teile der Magellanstraße und erreichte am 11. Juni 1834 den Pazifischen Ozean.",
    "section": "Leben und Werk"
   },
-  "f64": {
+  "f44": {
    "kind": "date",
    "value": "1834",
    "surface": "1834",
    "sentence": "Anfang Dezember verließ die HMS Beagle Montevideo, vermaß unter anderem Teile der Magellanstraße und erreichte am 11. Juni 1834 den Pazifischen Ozean.",
    "section": "Leben und Werk"
   },
-  "f65": {
+  "f45": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Über Chiloé, Valdivia und Concepción segelte die HMS Beagle nach Valparaíso, wo sie am 23. Juli 1834 eintraf und mehrere Wochen blieb.",
    "section": "Leben und Werk"
   },
-  "f66": {
+  "f46": {
    "kind": "date",
    "value": "1834",
    "surface": "1834",
    "sentence": "Über Chiloé, Valdivia und Concepción segelte die HMS Beagle nach Valparaíso, wo sie am 23. Juli 1834 eintraf und mehrere Wochen blieb.",
    "section": "Leben und Werk"
   },
-  "f67": {
+  "f47": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Darwin unternahm vom 14. August bis 27. September 1834 seine erste Expedition durch die Anden, die ihn ein erstes Mal bis nach Santiago führte.",
    "section": "Leben und Werk"
   },
-  "f68": {
+  "f48": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Darwin unternahm vom 14. August bis 27. September 1834 seine erste Expedition durch die Anden, die ihn ein erstes Mal bis nach Santiago führte.",
    "section": "Leben und Werk"
   },
-  "f69": {
+  "f49": {
    "kind": "date",
    "value": "1834",
    "surface": "1834",
    "sentence": "Darwin unternahm vom 14. August bis 27. September 1834 seine erste Expedition durch die Anden, die ihn ein erstes Mal bis nach Santiago führte.",
    "section": "Leben und Werk"
   },
-  "f70": {
+  "f50": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Am 20. Februar 1835 wurde er Zeuge des schweren, dreiminütigen Erdbebens bei Valdivia.",
    "section": "Leben und Werk"
   },
-  "f71": {
+  "f51": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Am 20. Februar 1835 wurde er Zeuge des schweren, dreiminütigen Erdbebens bei Valdivia.",
    "section": "Leben und Werk"
   },
-  "f72": {
+  "f52": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Als Darwin Anfang März 1835 die Insel Quiriquina bei Talcahuano untersuchte, fand er marine Ablagerungen, die infolge des Erdbebens um einige Fuß gehoben worden waren, worin er eine weitere Bestätigung für Lyells Theorie und das Alter der Erde sah.",
    "section": "Leben und Werk"
   },
-  "f73": {
+  "f53": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Nach den bis zum 7. September 1835 andauernden Vermessungsarbeiten vor Chile und Peru verließ die HMS Beagle die südamerikanische Westküste endgültig und brach in Richtung Galapagosinseln auf.",
    "section": "Leben und Werk"
   },
-  "f74": {
+  "f54": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Nach den bis zum 7. September 1835 andauernden Vermessungsarbeiten vor Chile und Peru verließ die HMS Beagle die südamerikanische Westküste endgültig und brach in Richtung Galapagosinseln auf.",
    "section": "Leben und Werk"
   },
-  "f75": {
+  "f55": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Am 18. September betrat Darwin auf San Cristóbal zum ersten Mal eine der zahlreichen Inseln.",
    "section": "Leben und Werk"
   },
-  "f76": {
+  "f56": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Am 20. Oktober 1835 brach die HMS Beagle zur Durchquerung des Pazifischen Ozeans auf.",
    "section": "Leben und Werk"
   },
-  "f77": {
+  "f57": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Am 20. Oktober 1835 brach die HMS Beagle zur Durchquerung des Pazifischen Ozeans auf.",
    "section": "Leben und Werk"
   },
-  "f78": {
+  "f58": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Gut drei Wochen später wurde das Atoll Puka-Puka im Tuamotu-Archipel gesichtet und am Abend des 15. November Tahiti erreicht, wo das Schiff zehn Tage ankerte.",
    "section": "Leben und Werk"
   },
-  "f79": {
+  "f59": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Als die HMS Beagle am 12. Januar 1836 die Sydney Cove im Port Jackson vor Sydney in Australien erreichte, war Darwin erleichtert, endlich wieder in einer großen, kultivierten Stadt zu sein.",
    "section": "Leben und Werk"
   },
-  "f80": {
+  "f60": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "Als die HMS Beagle am 12. Januar 1836 die Sydney Cove im Port Jackson vor Sydney in Australien erreichte, war Darwin erleichtert, endlich wieder in einer großen, kultivierten Stadt zu sein.",
    "section": "Leben und Werk"
   },
-  "f81": {
-   "kind": "date",
-   "value": "1800",
-   "surface": "1800",
-   "sentence": "In Hobart genoss Darwin, den es immer mehr nach Hause zog, die Gastfreundschaft des Generalvermessungsinspektors George Frankland (1800–1838).",
-   "section": "Leben und Werk"
-  },
-  "f82": {
-   "kind": "date",
-   "value": "1838",
-   "surface": "1838",
-   "sentence": "In Hobart genoss Darwin, den es immer mehr nach Hause zog, die Gastfreundschaft des Generalvermessungsinspektors George Frankland (1800–1838).",
-   "section": "Leben und Werk"
-  },
-  "f83": {
+  "f61": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Er feierte seinen 27. Geburtstag, fing Skinke und Schlangen, sammelte Plattwürmer und zahlreiche Insekten, darunter Mistkäfer, die er in Kuhfladen fand.",
    "section": "Leben und Werk"
   },
-  "f84": {
+  "f62": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Am 31. Mai 1836 warf die HMS Beagle bei Simon’s Town in der Simons Bay die Anker.",
    "section": "Leben und Werk"
   },
-  "f85": {
+  "f63": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "Am 31. Mai 1836 warf die HMS Beagle bei Simon’s Town in der Simons Bay die Anker.",
    "section": "Leben und Werk"
   },
-  "f86": {
+  "f64": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Am 29. Juni querte die HMS Beagle den Südlichen Wendekreis.",
    "section": "Leben und Werk"
   },
-  "f87": {
+  "f65": {
    "kind": "measure",
    "value": 859,
    "unit": "meter",
@@ -644,539 +494,357 @@
    "sentence": "Auf St. Helena untersuchte er die Geologie der Insel und auf Ascension bestieg er den 859 Meter hohen Vulkan Green Mountain.",
    "section": "Leben und Werk"
   },
-  "f88": {
+  "f66": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Das heimatliche England rückte näher, doch am 23. Juni entschied sich Kapitän FitzRoy, noch einmal nach Salvador da Bahia an der Küste von Südamerika zurückzukehren, um fehlerhafte Messungen auszuschließen.",
    "section": "Leben und Werk"
   },
-  "f89": {
+  "f67": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Am 17. August 1836 ging die HMS Beagle endgültig auf Heimatkurs.",
    "section": "Leben und Werk"
   },
-  "f90": {
+  "f68": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "Am 17. August 1836 ging die HMS Beagle endgültig auf Heimatkurs.",
    "section": "Leben und Werk"
   },
-  "f91": {
+  "f69": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Am 2. Oktober gegen 9 Uhr morgens lief das Schiff in den englischen Hafen Falmouth ein.",
    "section": "Leben und Werk"
   },
-  "f92": {
+  "f70": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Am 2. Oktober gegen 9 Uhr morgens lief das Schiff in den englischen Hafen Falmouth ein.",
    "section": "Leben und Werk"
   },
-  "f93": {
+  "f71": {
    "kind": "number",
    "value": 368,
    "surface": "368",
    "sentence": "Seine zoologischen Notizen umfassten 368 Seiten, die über Geologie waren mit 1383 Seiten etwa viermal so umfangreich.",
    "section": "Leben und Werk"
   },
-  "f94": {
+  "f72": {
    "kind": "date",
    "value": "1383",
    "surface": "1383",
    "sentence": "Seine zoologischen Notizen umfassten 368 Seiten, die über Geologie waren mit 1383 Seiten etwa viermal so umfangreich.",
    "section": "Leben und Werk"
   },
-  "f95": {
+  "f73": {
    "kind": "date",
    "value": "770",
    "surface": "770",
    "sentence": "Zusätzlich hatte er 770 Seiten seines Reisetagebuchs beschrieben.",
    "section": "Leben und Werk"
   },
-  "f96": {
+  "f74": {
    "kind": "date",
    "value": "1529",
    "surface": "1529",
    "sentence": "1529 in Spiritus konservierte Arten sowie 3907 Häute, Felle, Knochen, Pflanzen etc. waren das Ergebnis seiner fast fünfjährigen Reise.",
    "section": "Leben und Werk"
   },
-  "f97": {
+  "f75": {
    "kind": "number",
    "value": 3907,
    "surface": "3907",
    "sentence": "1529 in Spiritus konservierte Arten sowie 3907 Häute, Felle, Knochen, Pflanzen etc. waren das Ergebnis seiner fast fünfjährigen Reise.",
    "section": "Leben und Werk"
   },
-  "f98": {
+  "f76": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "Rückblickend resümierte Darwin später in seiner Autobiographie: „Die Reise mit der Beagle war das bei weitem bedeutendste Ereignis in meinem Leben und hat meinen gesamten Werdegang bestimmt.“\nDarwins Name war bereits vor seiner Rückkehr im Oktober 1836 in wissenschaftlichen Kreisen bekannt, da Henslow, ohne dass Darwin davon wusste, einige seiner Briefe als Letters on Geology veröffentlicht hatte.",
    "section": "Leben und Werk"
   },
-  "f99": {
+  "f77": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "Im März 1837 ließ er sich in London nieder.",
    "section": "Leben und Werk"
   },
-  "f100": {
+  "f78": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "Sein Glaube an die Konstanz der Arten wurde vor allem durch die Arbeiten von John Gould im März 1837 über die Vögel der Galápagos-Inseln erschüttert.",
    "section": "Leben und Werk"
   },
-  "f101": {
+  "f79": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "Darwin war spätestens im Sommer 1837 von der Veränderlichkeit der Arten überzeugt und begann, Informationen zu diesem Thema zu sammeln.",
    "section": "Leben und Werk"
   },
-  "f102": {
+  "f80": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "In den folgenden 15 Monaten entstand langsam und schrittweise die Theorie, die er erst 1858/1859 veröffentlichen sollte.",
    "section": "Leben und Werk"
   },
-  "f103": {
+  "f81": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "In den folgenden 15 Monaten entstand langsam und schrittweise die Theorie, die er erst 1858/1859 veröffentlichen sollte.",
    "section": "Leben und Werk"
   },
-  "f104": {
+  "f82": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "Im März 1837 begann Darwin mit der Niederschrift seiner Überlegungen in Notizbüchern, den Notebooks on Transmutation.",
    "section": "Leben und Werk"
   },
-  "f105": {
+  "f83": {
    "kind": "number",
    "value": 36,
    "surface": "36",
    "sentence": "Auf S. 36 des ersten Notizbuches, „B“, entwarf er unter der Überschrift I think eine erste Skizze von der Entstehung der Arten durch Aufspaltung.",
    "section": "Leben und Werk"
   },
-  "f106": {
+  "f84": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "Als Kristallisationspunkt für die Ausformulierung seiner Selektionstheorie erwies sich das Wachstumsgesetz, wie es Thomas Robert Malthus in seinem Essay on the Principle of Population formuliert hatte und den Darwin im September 1838 las.",
    "section": "Leben und Werk"
   },
-  "f107": {
-   "kind": "date",
-   "value": "1838",
-   "surface": "1838",
-   "sentence": "Neben seinen umfangreichen Studien zur Evolution gab er die mehrbändige The Zoology of the Voyage of H.M.S. Beagle (1838–1843) heraus.",
-   "section": "Leben und Werk"
-  },
-  "f108": {
-   "kind": "date",
-   "value": "1843",
-   "surface": "1843",
-   "sentence": "Neben seinen umfangreichen Studien zur Evolution gab er die mehrbändige The Zoology of the Voyage of H.M.S. Beagle (1838–1843) heraus.",
-   "section": "Leben und Werk"
-  },
-  "f109": {
+  "f85": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Sein zunächst als 3. Band von The narrative of the voyages of H.M. Ships Adventure and Beagle (1839) veröffentlichtes Reisebuch war derart erfolgreich, dass es unter dem Titel Journal of Researches noch im selben Jahr separat veröffentlicht wurde.",
+   "sentence": "Sein zunächst als 3. Band von The narrative of the voyages of H.M. Ships Adventure and Beagle veröffentlichtes Reisebuch war derart erfolgreich, dass es unter dem Titel Journal of Researches noch im selben Jahr separat veröffentlicht wurde.",
    "section": "Leben und Werk"
   },
-  "f110": {
-   "kind": "date",
-   "value": "1839",
-   "surface": "1839",
-   "sentence": "Sein zunächst als 3. Band von The narrative of the voyages of H.M. Ships Adventure and Beagle (1839) veröffentlichtes Reisebuch war derart erfolgreich, dass es unter dem Titel Journal of Researches noch im selben Jahr separat veröffentlicht wurde.",
-   "section": "Leben und Werk"
-  },
-  "f111": {
-   "kind": "date",
-   "value": "1842",
-   "surface": "1842",
-   "sentence": "Darwin verfasste die auf seinen Beobachtungen während der Reise beruhenden geologischen Arbeiten über den Aufbau der Korallenriffe (1842) und Vulkane (1844), die wesentlich zu seiner Reputation als Wissenschaftler beitrugen.",
-   "section": "Leben und Werk"
-  },
-  "f112": {
-   "kind": "date",
-   "value": "1844",
-   "surface": "1844",
-   "sentence": "Darwin verfasste die auf seinen Beobachtungen während der Reise beruhenden geologischen Arbeiten über den Aufbau der Korallenriffe (1842) und Vulkane (1844), die wesentlich zu seiner Reputation als Wissenschaftler beitrugen.",
-   "section": "Leben und Werk"
-  },
-  "f113": {
+  "f86": {
    "kind": "number",
    "value": 29,
    "surface": "29",
-   "sentence": "Am 29. Januar 1839 heirateten Darwin und seine Cousine Emma Wedgwood (1808–1896), die Tochter seines Onkels Josiah Wedgwood II.",
+   "sentence": "Am 29. Januar 1839 heirateten Darwin und seine Cousine Emma Wedgwood, die Tochter seines Onkels Josiah Wedgwood II.",
    "section": "Leben und Werk"
   },
-  "f114": {
+  "f87": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
-   "sentence": "Am 29. Januar 1839 heirateten Darwin und seine Cousine Emma Wedgwood (1808–1896), die Tochter seines Onkels Josiah Wedgwood II.",
+   "sentence": "Am 29. Januar 1839 heirateten Darwin und seine Cousine Emma Wedgwood, die Tochter seines Onkels Josiah Wedgwood II.",
    "section": "Leben und Werk"
   },
-  "f115": {
-   "kind": "date",
-   "value": "1808",
-   "surface": "1808",
-   "sentence": "Am 29. Januar 1839 heirateten Darwin und seine Cousine Emma Wedgwood (1808–1896), die Tochter seines Onkels Josiah Wedgwood II.",
-   "section": "Leben und Werk"
-  },
-  "f116": {
-   "kind": "date",
-   "value": "1896",
-   "surface": "1896",
-   "sentence": "Am 29. Januar 1839 heirateten Darwin und seine Cousine Emma Wedgwood (1808–1896), die Tochter seines Onkels Josiah Wedgwood II.",
-   "section": "Leben und Werk"
-  },
-  "f117": {
-   "kind": "date",
-   "value": "1839",
-   "surface": "1839",
-   "sentence": "In der Londoner Zeit kamen die Kinder William Erasmus (1839–1914), Anne (1841–1851) und Mary Eleanor (1842–1842) zur Welt.",
-   "section": "Leben und Werk"
-  },
-  "f118": {
-   "kind": "date",
-   "value": "1914",
-   "surface": "1914",
-   "sentence": "In der Londoner Zeit kamen die Kinder William Erasmus (1839–1914), Anne (1841–1851) und Mary Eleanor (1842–1842) zur Welt.",
-   "section": "Leben und Werk"
-  },
-  "f119": {
-   "kind": "date",
-   "value": "1841",
-   "surface": "1841",
-   "sentence": "In der Londoner Zeit kamen die Kinder William Erasmus (1839–1914), Anne (1841–1851) und Mary Eleanor (1842–1842) zur Welt.",
-   "section": "Leben und Werk"
-  },
-  "f120": {
-   "kind": "date",
-   "value": "1851",
-   "surface": "1851",
-   "sentence": "In der Londoner Zeit kamen die Kinder William Erasmus (1839–1914), Anne (1841–1851) und Mary Eleanor (1842–1842) zur Welt.",
-   "section": "Leben und Werk"
-  },
-  "f121": {
-   "kind": "date",
-   "value": "1842",
-   "surface": "1842",
-   "sentence": "In der Londoner Zeit kamen die Kinder William Erasmus (1839–1914), Anne (1841–1851) und Mary Eleanor (1842–1842) zur Welt.",
-   "section": "Leben und Werk"
-  },
-  "f122": {
-   "kind": "date",
-   "value": "1842",
-   "surface": "1842",
-   "sentence": "In der Londoner Zeit kamen die Kinder William Erasmus (1839–1914), Anne (1841–1851) und Mary Eleanor (1842–1842) zur Welt.",
-   "section": "Leben und Werk"
-  },
-  "f123": {
+  "f88": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "Im November 1842 zog sich die Familie Darwin in das Down House in die kleine, südlich von London gelegene Ortschaft Downe zurück.",
    "section": "Leben und Werk"
   },
-  "f124": {
+  "f89": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "Bereits seit seiner Rückkehr von der Beagle-Reise, verstärkt seit 1839, hatten sich immer wieder Krankheitssymptome eingestellt, über deren Ursachen bis heute spekuliert wird.",
    "section": "Leben und Werk"
   },
-  "f125": {
+  "f90": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
+   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard, Elizabeth, Francis, Leonard, Horace und Charles Waring.",
    "section": "Leben und Werk"
   },
-  "f126": {
-   "kind": "date",
-   "value": "1845",
-   "surface": "1845",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f127": {
-   "kind": "date",
-   "value": "1912",
-   "surface": "1912",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f128": {
-   "kind": "date",
-   "value": "1847",
-   "surface": "1847",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f129": {
-   "kind": "date",
-   "value": "1926",
-   "surface": "1926",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f130": {
-   "kind": "date",
-   "value": "1848",
-   "surface": "1848",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f131": {
-   "kind": "date",
-   "value": "1925",
-   "surface": "1925",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f132": {
-   "kind": "date",
-   "value": "1850",
-   "surface": "1850",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f133": {
-   "kind": "date",
-   "value": "1943",
-   "surface": "1943",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f134": {
-   "kind": "date",
-   "value": "1851",
-   "surface": "1851",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f135": {
-   "kind": "date",
-   "value": "1928",
-   "surface": "1928",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f136": {
-   "kind": "date",
-   "value": "1856",
-   "surface": "1856",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f137": {
-   "kind": "date",
-   "value": "1858",
-   "surface": "1858",
-   "sentence": "Im September 1843 kam Tochter Henrietta zur Welt, der noch weitere sechs Kinder folgten: George Howard (1845–1912), Elizabeth (1847–1926), Francis (1848–1925), Leonard (1850–1943), Horace (1851–1928) und Charles Waring (1856–1858).",
-   "section": "Leben und Werk"
-  },
-  "f138": {
+  "f91": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "1843 begann seine Freundschaft mit dem Botaniker Joseph Dalton Hooker, der neben Lyell und Thomas Henry Huxley zu seinem stärksten Verbündeten werden sollte.",
    "section": "Leben und Werk"
   },
-  "f139": {
+  "f92": {
    "kind": "number",
    "value": 11,
    "surface": "11",
-   "sentence": "In einem Brief am 11. Januar 1844 gab ihm Darwin erste Hinweise auf seine Evolutionstheorie und schrieb ihm, dass er „entgegen seiner ursprünglichen Auffassung nun beinahe überzeugt [sei], dass die Arten (es ist wie einen Mord zu gestehen) nicht unveränderlich“ seien.",
+   "sentence": "In einem Brief am 11. Januar 1844 gab ihm Darwin erste Hinweise auf seine Evolutionstheorie und schrieb ihm, dass er „entgegen seiner ursprünglichen Auffassung nun beinahe überzeugt, dass die Arten nicht unveränderlich“seien.",
    "section": "Leben und Werk"
   },
-  "f140": {
+  "f93": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
-   "sentence": "In einem Brief am 11. Januar 1844 gab ihm Darwin erste Hinweise auf seine Evolutionstheorie und schrieb ihm, dass er „entgegen seiner ursprünglichen Auffassung nun beinahe überzeugt [sei], dass die Arten (es ist wie einen Mord zu gestehen) nicht unveränderlich“ seien.",
+   "sentence": "In einem Brief am 11. Januar 1844 gab ihm Darwin erste Hinweise auf seine Evolutionstheorie und schrieb ihm, dass er „entgegen seiner ursprünglichen Auffassung nun beinahe überzeugt, dass die Arten nicht unveränderlich“seien.",
    "section": "Leben und Werk"
   },
-  "f141": {
+  "f94": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "Darwin hatte seine Überlegungen bereits 1842 in einer 35-seitigen Skizze dargelegt und arbeitete diese 1844 zu einem rund 230-seitigen Essay aus, den jedoch nur seine Frau Emma zu lesen bekam und den sie im Falle seines Todes veröffentlichen sollte.",
    "section": "Leben und Werk"
   },
-  "f142": {
+  "f95": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Darwin hatte seine Überlegungen bereits 1842 in einer 35-seitigen Skizze dargelegt und arbeitete diese 1844 zu einem rund 230-seitigen Essay aus, den jedoch nur seine Frau Emma zu lesen bekam und den sie im Falle seines Todes veröffentlichen sollte.",
    "section": "Leben und Werk"
   },
-  "f143": {
+  "f96": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
    "sentence": "Darwin hatte seine Überlegungen bereits 1842 in einer 35-seitigen Skizze dargelegt und arbeitete diese 1844 zu einem rund 230-seitigen Essay aus, den jedoch nur seine Frau Emma zu lesen bekam und den sie im Falle seines Todes veröffentlichen sollte.",
    "section": "Leben und Werk"
   },
-  "f144": {
+  "f97": {
    "kind": "number",
    "value": 230,
    "surface": "230",
    "sentence": "Darwin hatte seine Überlegungen bereits 1842 in einer 35-seitigen Skizze dargelegt und arbeitete diese 1844 zu einem rund 230-seitigen Essay aus, den jedoch nur seine Frau Emma zu lesen bekam und den sie im Falle seines Todes veröffentlichen sollte.",
    "section": "Leben und Werk"
   },
-  "f145": {
+  "f98": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "Beide Texte stimmten in Inhalt und Grundstruktur bereits mit dem 1859 veröffentlichten Buch überein.",
    "section": "Leben und Werk"
   },
-  "f146": {
+  "f99": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
    "sentence": "War die Transmutationslehre bis jetzt vorwiegend auf sozialistische, revolutionäre und teilweise medizinische Kreise beschränkt geblieben, hielt sie ab 1844 Einzug in bürgerliche Kreise: mit dem von Robert Chambers anonym publizierten Werk Vestiges of the Natural History of Creation, das – brillant, aber journalistisch geschrieben – rasch zum Bestseller wurde, in wissenschaftlichen Kreisen jedoch nicht ernst genommen wurde.",
    "section": "Leben und Werk"
   },
-  "f147": {
+  "f100": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
-   "sentence": "Die nächsten Werke, die Darwin veröffentlichte, waren die Geologie der Vulkaninseln (Geological observations on the volcanic islands visited during the voyage of H.M.S. Beagle) 1844 und die Geologischen Beobachtungen in Südamerika (Geological observations on South America) 1846.",
+   "sentence": "Die nächsten Werke, die Darwin veröffentlichte, waren die Geologie der Vulkaninseln 1844 und die Geologischen Beobachtungen in Südamerika 1846.",
    "section": "Leben und Werk"
   },
-  "f148": {
+  "f101": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
-   "sentence": "Die nächsten Werke, die Darwin veröffentlichte, waren die Geologie der Vulkaninseln (Geological observations on the volcanic islands visited during the voyage of H.M.S. Beagle) 1844 und die Geologischen Beobachtungen in Südamerika (Geological observations on South America) 1846.",
+   "sentence": "Die nächsten Werke, die Darwin veröffentlichte, waren die Geologie der Vulkaninseln 1844 und die Geologischen Beobachtungen in Südamerika 1846.",
    "section": "Leben und Werk"
   },
-  "f149": {
+  "f102": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
    "sentence": "Diese Arbeit, die er in zwei dicken Bänden über die lebenden und zwei schmalen Bänden über die fossilen Vertreter publizierte, machte ihn zu einem anerkannten Taxonomen und brachte ihm 1853 die Royal Medal ein.",
    "section": "Leben und Werk"
   },
-  "f150": {
+  "f103": {
    "kind": "date",
    "value": "1847",
    "surface": "1847",
    "sentence": "In dieser Zeit entwickelte sich Hooker zum einzigen Ansprechpartner zum Thema Evolution und 1847 gab Darwin ihm seinen Essay zu lesen.",
    "section": "Leben und Werk"
   },
-  "f151": {
+  "f104": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
    "sentence": "1849 begab sich Darwin zu einer 16-wöchigen Wasserkur nach Malvern in die Behandlung des Arztes James Gully, die seine Gesundheit wieder wesentlich besserte.",
    "section": "Leben und Werk"
   },
-  "f152": {
+  "f105": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "1849 begab sich Darwin zu einer 16-wöchigen Wasserkur nach Malvern in die Behandlung des Arztes James Gully, die seine Gesundheit wieder wesentlich besserte.",
    "section": "Leben und Werk"
   },
-  "f153": {
+  "f106": {
    "kind": "date",
    "value": "1851",
    "surface": "1851",
    "sentence": "1851 erkrankte seine Lieblingstochter Annie schwer und starb am 23. April 1851.",
    "section": "Leben und Werk"
   },
-  "f154": {
+  "f107": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "1851 erkrankte seine Lieblingstochter Annie schwer und starb am 23. April 1851.",
    "section": "Leben und Werk"
   },
-  "f155": {
+  "f108": {
    "kind": "date",
    "value": "1851",
    "surface": "1851",
    "sentence": "1851 erkrankte seine Lieblingstochter Annie schwer und starb am 23. April 1851.",
    "section": "Leben und Werk"
   },
-  "f156": {
+  "f109": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "Nach Beendigung der Arbeit an den Rankenfußkrebsen nahm Darwin 1854 die Arbeit an der Evolutionstheorie wieder auf.",
    "section": "Leben und Werk"
   },
-  "f157": {
+  "f110": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "Lyell, dem Darwin vieles über seine Ansichten mitteilte, drängte Darwin 1856 dazu, seine Erkenntnisse zu publizieren, damit ihm nicht jemand anders zuvorkomme.",
    "section": "Leben und Werk"
   },
-  "f158": {
-   "kind": "date",
-   "value": "1855",
-   "surface": "1855",
-   "sentence": "Grund für dieses Drängen war ein Aufsatz von Alfred Russel Wallace, On the Law which has regulated the introduction of New Species (1855), dessen Tragweite Darwin selbst aufgrund der verklausulierten Sprache Wallace’ verkannte.",
-   "section": "Leben und Werk"
-  },
-  "f159": {
+  "f111": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Die Arbeit zog sich aufgrund des umfangreichen Materials hin, im März 1858 waren zehn Kapitel, rund zwei Drittel des geplanten Umfangs, fertig.",
    "section": "Leben und Werk"
   },
-  "f160": {
+  "f112": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "In der Zwischenzeit hatte er in Asa Gray in Harvard einen weiteren Korrespondenzpartner gefunden und ihm in einem Brief vom 5. September 1857 eine Zusammenfassung seiner Theorie dargelegt.",
    "section": "Leben und Werk"
   },
-  "f161": {
+  "f113": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "In der Zwischenzeit hatte er in Asa Gray in Harvard einen weiteren Korrespondenzpartner gefunden und ihm in einem Brief vom 5. September 1857 eine Zusammenfassung seiner Theorie dargelegt.",
    "section": "Leben und Werk"
   },
-  "f162": {
+  "f114": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "Im Juli 1857 wurde Darwin zum Friedensrichter gewählt und im selben Jahr von der Deutschen Akademie der Naturforscher Leopoldina zum Mitglied ernannt.",
    "section": "Leben und Werk"
   },
-  "f163": {
+  "f115": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "1859 hatte Darwin abgeschätzt, dass es etwas mehr als 300 Millionen Jahre gedauert haben müsse, bis ein 500 Fuß hohes Kalkstein-Kliff im Süden Englands durch das Meer abgetragen wurde.",
    "section": "Leben und Werk"
   },
-  "f164": {
+  "f116": {
    "kind": "measure",
    "value": 300000000,
    "unit": "jahre",
@@ -1184,211 +852,176 @@
    "sentence": "1859 hatte Darwin abgeschätzt, dass es etwas mehr als 300 Millionen Jahre gedauert haben müsse, bis ein 500 Fuß hohes Kalkstein-Kliff im Süden Englands durch das Meer abgetragen wurde.",
    "section": "Leben und Werk"
   },
-  "f165": {
+  "f117": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "1859 hatte Darwin abgeschätzt, dass es etwas mehr als 300 Millionen Jahre gedauert haben müsse, bis ein 500 Fuß hohes Kalkstein-Kliff im Süden Englands durch das Meer abgetragen wurde.",
    "section": "Leben und Werk"
   },
-  "f166": {
+  "f118": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Dies wurde von Lord Kelvin kontrovers als „vage Beobachtungen“ bezeichnet, da Kelvin mittels thermodynamischer Berechnungen aus Abkühlungszeiträumen der Erde – noch vor der Entdeckung der Radioaktivität – auf ein Erdalter von 20 bis 400 Millionen Jahre schloss.",
+   "sentence": "Dies wurde von Lord Kelvin kontrovers als „vage Beobachtungen“bezeichnet, da Kelvin mittels thermodynamischer Berechnungen aus Abkühlungszeiträumen der Erde – noch vor der Entdeckung der Radioaktivität – auf ein Erdalter von 20 bis 400 Millionen Jahre schloss.",
    "section": "Leben und Werk"
   },
-  "f167": {
+  "f119": {
    "kind": "measure",
    "value": 400000000,
    "unit": "jahre",
    "surface": "400 Millionen Jahre",
-   "sentence": "Dies wurde von Lord Kelvin kontrovers als „vage Beobachtungen“ bezeichnet, da Kelvin mittels thermodynamischer Berechnungen aus Abkühlungszeiträumen der Erde – noch vor der Entdeckung der Radioaktivität – auf ein Erdalter von 20 bis 400 Millionen Jahre schloss.",
+   "sentence": "Dies wurde von Lord Kelvin kontrovers als „vage Beobachtungen“bezeichnet, da Kelvin mittels thermodynamischer Berechnungen aus Abkühlungszeiträumen der Erde – noch vor der Entdeckung der Radioaktivität – auf ein Erdalter von 20 bis 400 Millionen Jahre schloss.",
    "section": "Leben und Werk"
   },
-  "f168": {
+  "f120": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Wie berechtigt Lyells Drängen auf Publikation war, zeigte sich, als Darwin im Juni 1858 Post von Wallace von der Molukken-Insel Ternate bekam mit einem Manuskript namens On the Tendency of Varieties to depart indefinitely from the Original Type, das im Wesentlichen die gleichen Erklärungsmuster wie Darwins eigene Arbeit enthielt.",
    "section": "Leben und Werk"
   },
-  "f169": {
+  "f121": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Da sein jüngster Sohn Charles Waring am 23. Juni an Scharlach erkrankte und wenige Tage später starb, überließ Darwin die Angelegenheit seinen Freunden Lyell und Hooker.",
    "section": "Leben und Werk"
   },
-  "f170": {
+  "f122": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Diese fanden die Lösung in einem gentlemanly agreement, das eine gemeinsame Vorstellung der Arbeiten Wallaces und Darwins beinhaltete, die am 1. Juli 1858 in einer Sitzung der Linnean Society stattfand.",
    "section": "Leben und Werk"
   },
-  "f171": {
+  "f123": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Diese fanden die Lösung in einem gentlemanly agreement, das eine gemeinsame Vorstellung der Arbeiten Wallaces und Darwins beinhaltete, die am 1. Juli 1858 in einer Sitzung der Linnean Society stattfand.",
    "section": "Leben und Werk"
   },
-  "f172": {
+  "f124": {
    "kind": "number",
    "value": 155000,
    "surface": "155.000",
    "sentence": "Aus dem geplanten Aufsatz wurde schließlich wiederum ein Buch mit einem Umfang von rund 155.000 Wörtern.",
    "section": "Leben und Werk"
   },
-  "f173": {
+  "f125": {
    "kind": "number",
    "value": 72,
    "surface": "72",
    "sentence": "Der Verleger John Murray nahm es auf Vermittlung Lyells hin ungesehen an und übernahm sogar die Kosten von 72 Pfund, die allein Darwins Änderungen in den Korrekturfahnen verursachten.",
    "section": "Leben und Werk"
   },
-  "f174": {
+  "f126": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "Die Erstauflage wurde von den ursprünglich geplanten 500 Exemplaren auf 1250 erhöht.",
    "section": "Leben und Werk"
   },
-  "f175": {
+  "f127": {
    "kind": "date",
    "value": "1250",
    "surface": "1250",
    "sentence": "Die Erstauflage wurde von den ursprünglich geplanten 500 Exemplaren auf 1250 erhöht.",
    "section": "Leben und Werk"
   },
-  "f176": {
+  "f128": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "Am 22. November 1859 ging die vollständig vorbestellte Auflage von On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life (Die Entstehung der Arten) an den Handel und kam am 24. November in den Verkauf.",
+   "sentence": "Am 22. November 1859 ging die vollständig vorbestellte Auflage von On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life an den Handel und kam am 24. November in den Verkauf.",
    "section": "Leben und Werk"
   },
-  "f177": {
+  "f129": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
-   "sentence": "Am 22. November 1859 ging die vollständig vorbestellte Auflage von On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life (Die Entstehung der Arten) an den Handel und kam am 24. November in den Verkauf.",
+   "sentence": "Am 22. November 1859 ging die vollständig vorbestellte Auflage von On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life an den Handel und kam am 24. November in den Verkauf.",
    "section": "Leben und Werk"
   },
-  "f178": {
+  "f130": {
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "Am 22. November 1859 ging die vollständig vorbestellte Auflage von On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life (Die Entstehung der Arten) an den Handel und kam am 24. November in den Verkauf.",
+   "sentence": "Am 22. November 1859 ging die vollständig vorbestellte Auflage von On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life an den Handel und kam am 24. November in den Verkauf.",
    "section": "Leben und Werk"
   },
-  "f179": {
+  "f131": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "Im Juni 1860 kam es an der Universität Oxford während einer Sitzung der British Association for the Advancement of Science zwischen dem Unterstützer der Evolutionsgedanken Thomas Huxley und einem ihrer erklärten Gegner, dem Bischof von Oxford Samuel Wilberforce, in Abwesenheit von Darwin zu einem erbitterten Streitgespräch.",
    "section": "Leben und Werk"
   },
-  "f180": {
+  "f132": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
-   "sentence": "In The Variation of Animals and Plants under Domestication („Das Variieren der Thiere und Pflanzen im Zustande der Domestication“), das Ende Januar 1868 erschien, legte er all das von ihm in den letzten Jahrzehnten gesammelte Material vor, das die Variation, die Veränderlichkeit, von Tieren und Pflanzen unter dem Einfluss des Menschen zeigt.",
+   "sentence": "In The Variation of Animals and Plants under Domestication, das Ende Januar 1868 erschien, legte er all das von ihm in den letzten Jahrzehnten gesammelte Material vor, das die Variation, die Veränderlichkeit, von Tieren und Pflanzen unter dem Einfluss des Menschen zeigt.",
    "section": "Leben und Werk"
   },
-  "f181": {
+  "f133": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
-   "sentence": "Erst in dem 1871 erschienenen Buch The Descent of Man, and Selection in Relation to Sex (Die Abstammung des Menschen und die geschlechtliche Zuchtwahl) legte Darwin dar, was zu diesem Zeitpunkt bereits weithin diskutiert wurde und was bereits Huxley (Evidence as to Man’s Place in Nature, 1863) und Ernst Haeckel öffentlich vertreten hatten: die Verwandtschaft des Menschen mit dem Affen, mit dem er gemeinsame Vorfahren teilt.",
+   "sentence": "Erst in dem 1871 erschienenen Buch The Descent of Man, and Selection in Relation to Sex legte Darwin dar, was zu diesem Zeitpunkt bereits weithin diskutiert wurde und was bereits Huxley und Ernst Haeckel öffentlich vertreten hatten: die Verwandtschaft des Menschen mit dem Affen, mit dem er gemeinsame Vorfahren teilt.",
    "section": "Leben und Werk"
   },
-  "f182": {
-   "kind": "date",
-   "value": "1863",
-   "surface": "1863",
-   "sentence": "Erst in dem 1871 erschienenen Buch The Descent of Man, and Selection in Relation to Sex (Die Abstammung des Menschen und die geschlechtliche Zuchtwahl) legte Darwin dar, was zu diesem Zeitpunkt bereits weithin diskutiert wurde und was bereits Huxley (Evidence as to Man’s Place in Nature, 1863) und Ernst Haeckel öffentlich vertreten hatten: die Verwandtschaft des Menschen mit dem Affen, mit dem er gemeinsame Vorfahren teilt.",
-   "section": "Leben und Werk"
-  },
-  "f183": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Weiterhin betonte er die Einheit des Menschen als eine einzige Art und sprach sich dagegen aus, die Rassen (oder Subspezies) des Menschen als unterschiedliche Arten aufzufassen (im 7. Kapitel: „Über die Rassen des Menschen“).",
-   "section": "Leben und Werk"
-  },
-  "f184": {
+  "f134": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
-   "sentence": "1872 folgte On the Expression of the Emotions in Man and Animals (Der Ausdruck der Gemütsbewegungen bei dem Menschen und den Tieren), in dem Darwin darlegte, dass auch die Gefühle und deren Ausdrucksweise bei Mensch und Tieren gleich und wie äußere Merkmale durch Evolution entstanden sind.",
+   "sentence": "1872 folgte On the Expression of the Emotions in Man and Animals, in dem Darwin darlegte, dass auch die Gefühle und deren Ausdrucksweise bei Mensch und Tieren gleich und wie äußere Merkmale durch Evolution entstanden sind.",
    "section": "Leben und Werk"
   },
-  "f185": {
+  "f135": {
    "kind": "date",
    "value": "1874",
    "surface": "1874",
    "sentence": "1874 wurde Darwin in die American Academy of Arts and Sciences gewählt.",
    "section": "Leben und Werk"
   },
-  "f186": {
+  "f136": {
    "kind": "date",
    "value": "1867",
    "surface": "1867",
-   "sentence": "The Movements and Habits of Climbing Plants (Über die Bewegungen der Schlingpflanzen) von 1867 (erweiterte 2. Auflage 1875) und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants (Das Bewegungsvermögen der Pflanzen) von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
+   "sentence": "The Movements and Habits of Climbing Plants von 1867 und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
    "section": "Leben und Werk"
   },
-  "f187": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The Movements and Habits of Climbing Plants (Über die Bewegungen der Schlingpflanzen) von 1867 (erweiterte 2. Auflage 1875) und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants (Das Bewegungsvermögen der Pflanzen) von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
-   "section": "Leben und Werk"
-  },
-  "f188": {
-   "kind": "date",
-   "value": "1875",
-   "surface": "1875",
-   "sentence": "The Movements and Habits of Climbing Plants (Über die Bewegungen der Schlingpflanzen) von 1867 (erweiterte 2. Auflage 1875) und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants (Das Bewegungsvermögen der Pflanzen) von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
-   "section": "Leben und Werk"
-  },
-  "f189": {
+  "f137": {
    "kind": "date",
    "value": "592",
    "surface": "592",
-   "sentence": "The Movements and Habits of Climbing Plants (Über die Bewegungen der Schlingpflanzen) von 1867 (erweiterte 2. Auflage 1875) und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants (Das Bewegungsvermögen der Pflanzen) von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
+   "sentence": "The Movements and Habits of Climbing Plants von 1867 und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
    "section": "Leben und Werk"
   },
-  "f190": {
+  "f138": {
    "kind": "date",
    "value": "1880",
    "surface": "1880",
-   "sentence": "The Movements and Habits of Climbing Plants (Über die Bewegungen der Schlingpflanzen) von 1867 (erweiterte 2. Auflage 1875) und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants (Das Bewegungsvermögen der Pflanzen) von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
+   "sentence": "The Movements and Habits of Climbing Plants von 1867 und das mit 592 Seiten sehr umfangreiche Buch The Power of Movement in Plants von 1880 sind grundlegende Werke der Pflanzenphysiologie.",
    "section": "Leben und Werk"
   },
-  "f191": {
+  "f139": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Er untersuchte die Reaktion der Wurzelspitzen auf Reize und setzte dabei die Wurzelspitze der Pflanzen in Analogie zu den Gehirnen von Niederen Tieren, ein Gedanke, der im 21. Jahrhundert als Pflanzenintelligenz im Umkreis der kontrovers diskutierten Pflanzenneurobiologie wieder zu Ehren kam.",
    "section": "Leben und Werk"
   },
-  "f192": {
+  "f140": {
    "kind": "date",
    "value": "1875",
    "surface": "1875",
-   "sentence": "In seinem Buch Insectivorous Plants (Insectenfressende Pflanzen) von 1875 konnte er nachweisen, dass manche Pflanzen tatsächlich fleischfressend sind.",
+   "sentence": "In seinem Buch Insectivorous Plants von 1875 konnte er nachweisen, dass manche Pflanzen tatsächlich fleischfressend sind.",
    "section": "Leben und Werk"
   },
-  "f193": {
-   "kind": "date",
-   "value": "1862",
-   "surface": "1862",
-   "sentence": "In drei Arbeiten beschäftigte er sich mit Blütenbiologie: In On the various contrivances by which British and foreign orchids are fertilised by insects, and on the good effects of intercrossing (Über die Einrichtungen zur Befruchtung Britischer und ausländischer Orchideen durch Insekten und über die günstigen Erfolge der Wechselbefruchtung) (1862) zeigte er, dass der Blütenbau der Orchideen dazu dient, eine möglichst hohe Rate an Fremdbestäubung zu erreichen.",
-   "section": "Leben und Werk"
-  },
-  "f194": {
+  "f141": {
    "kind": "measure",
    "value": 25,
    "unit": "cm",
@@ -1396,28 +1029,14 @@
    "sentence": "Für die madagassische Orchidee Angraecum sesquipedale mit einem 25 cm langen Nektarsporn sagte er einen bestäubenden Schmetterling mit einem ebenso langen Rüssel vorher, der erst Jahre später entdeckt werden sollte.",
    "section": "Leben und Werk"
   },
-  "f195": {
-   "kind": "date",
-   "value": "1876",
-   "surface": "1876",
-   "sentence": "Seine Veröffentlichung The effects of cross and self fertilisation in the vegetable kingdom (Die Wirkungen der Kreuz- und Selbst-Befruchtung im Pflanzenreich) (1876) war das Ergebnis umfangreicher Bestäubungsexperimente seit 1866, die er teilweise über zehn Pflanzengenerationen hinweg durchführte.",
-   "section": "Leben und Werk"
-  },
-  "f196": {
+  "f142": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
-   "sentence": "Seine Veröffentlichung The effects of cross and self fertilisation in the vegetable kingdom (Die Wirkungen der Kreuz- und Selbst-Befruchtung im Pflanzenreich) (1876) war das Ergebnis umfangreicher Bestäubungsexperimente seit 1866, die er teilweise über zehn Pflanzengenerationen hinweg durchführte.",
+   "sentence": "Seine Veröffentlichung The effects of cross and self fertilisation in the vegetable kingdom war das Ergebnis umfangreicher Bestäubungsexperimente seit 1866, die er teilweise über zehn Pflanzengenerationen hinweg durchführte.",
    "section": "Leben und Werk"
   },
-  "f197": {
-   "kind": "date",
-   "value": "1877",
-   "surface": "1877",
-   "sentence": "In The different forms of flowers on plants of the same species (Die verschiedenen Blüthenformen an Pflanzen der nämlichen Art) (1877) zeigte er, dass die unterschiedlichen Blütenformen mancher Pflanzen ebenfalls dazu dienen, Fremdbestäubung sicherzustellen, etwa bei Heterostylie.",
-   "section": "Leben und Werk"
-  },
-  "f198": {
+  "f143": {
    "kind": "measure",
    "value": 40,
    "unit": "jahre",
@@ -1425,14 +1044,14 @@
    "sentence": "Das letzte Buch Darwins behandelte ein Thema, das ihn über 40 Jahre beschäftigt hatte: die Tätigkeit der Regenwürmer.",
    "section": "Leben und Werk"
   },
-  "f199": {
+  "f144": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
-   "sentence": "The formation of vegetable mould, through the action of worms, with observations on their habits (Die Bildung der Ackererde durch die Tätigkeit der Würmer) kam 1881 heraus, wenige Monate vor Darwins Tod.",
+   "sentence": "The formation of vegetable mould, through the action of worms, with observations on their habits kam 1881 heraus, wenige Monate vor Darwins Tod.",
    "section": "Leben und Werk"
   },
-  "f200": {
+  "f145": {
    "kind": "measure",
    "value": 30,
    "unit": "jahre",
@@ -1440,7 +1059,7 @@
    "sentence": "In einem 30 Jahre dauernden Freilandexperiment zeigte er, dass durch die Arbeit der Regenwürmer Kalkstückchen von der Oberfläche bis 18 cm tief in den Boden eingearbeitet werden.",
    "section": "Leben und Werk"
   },
-  "f201": {
+  "f146": {
    "kind": "measure",
    "value": 18,
    "unit": "cm",
@@ -1448,21 +1067,21 @@
    "sentence": "In einem 30 Jahre dauernden Freilandexperiment zeigte er, dass durch die Arbeit der Regenwürmer Kalkstückchen von der Oberfläche bis 18 cm tief in den Boden eingearbeitet werden.",
    "section": "Leben und Werk"
   },
-  "f202": {
+  "f147": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Darwin starb am 19. April 1882 im Alter von 73 Jahren in seinem Haus in Downe.",
    "section": "Leben und Werk"
   },
-  "f203": {
+  "f148": {
    "kind": "date",
    "value": "1882",
    "surface": "1882",
    "sentence": "Darwin starb am 19. April 1882 im Alter von 73 Jahren in seinem Haus in Downe.",
    "section": "Leben und Werk"
   },
-  "f204": {
+  "f149": {
    "kind": "measure",
    "value": 73,
    "unit": "jahren",
@@ -1470,14 +1089,14 @@
    "sentence": "Darwin starb am 19. April 1882 im Alter von 73 Jahren in seinem Haus in Downe.",
    "section": "Leben und Werk"
   },
-  "f205": {
+  "f150": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Er wurde am 26. April in der Westminster Abbey beigesetzt, zu Füßen des Monuments für Sir Isaac Newton und neben Sir John Herschel.",
    "section": "Leben und Werk"
   },
-  "f206": {
+  "f151": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",

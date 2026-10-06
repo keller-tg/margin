@@ -117,105 +117,76 @@
    "sentence": "Globally, 70% of barley production is used as animal feed, while 30% is used as a source of fermentable material for beer, or further distilled into whisky, and as a component of various foods."
   },
   "f7": {
-   "kind": "measure",
-   "value": 160,
-   "unit": "mm",
-   "surface": "160 mm",
-   "sentence": "Each spikelet has a long thin awn (to 160 mm (6.3 in) long), making the ears look tufted.",
-   "section": "Description"
-  },
-  "f8": {
-   "kind": "number",
-   "value": 6.3,
-   "surface": "6.3",
-   "sentence": "Each spikelet has a long thin awn (to 160 mm (6.3 in) long), making the ears look tufted.",
-   "section": "Description"
-  },
-  "f9": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "It is a self-pollinating, diploid species with 14 chromosomes.",
    "section": "Description"
   },
-  "f10": {
+  "f8": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "The genome of barley was sequenced in 2012 by the International Barley Genome Sequencing Consortium and the UK Barley Sequencing Consortium.",
    "section": "Description"
   },
-  "f11": {
+  "f9": {
    "kind": "number",
    "value": 5000,
    "surface": "5000",
-   "sentence": "The genome is organised into seven pairs of nuclear chromosomes (recommended designations: 1H, 2H, 3H, 4H, 5H, 6H and 7H), and one mitochondrial and one chloroplast chromosome, with a total of 5000 Mbp.",
+   "sentence": "The genome is organised into seven pairs of nuclear chromosomes, and one mitochondrial and one chloroplast chromosome, with a total of 5000 Mbp.",
    "section": "Description"
   },
-  "f12": {
+  "f10": {
    "kind": "number",
    "value": 9000,
    "surface": "9,000",
    "sentence": "Barley was one of the first grains to be domesticated in the Fertile Crescent, an area of relatively abundant water in Western Asia, around 9,000 BC.",
    "section": "Origin"
   },
-  "f13": {
+  "f11": {
    "kind": "number",
    "value": 23000,
    "surface": "23,000",
    "sentence": "The remains were dated to about 23,000 BC.",
    "section": "Origin"
   },
-  "f14": {
+  "f12": {
    "kind": "number",
    "value": 9000,
    "surface": "9,000",
    "sentence": "The earliest evidence for the domestication of barley, in the form of cultivars that cannot reproduce without human assistance, comes from Mesopotamia, specifically the Jarmo region of modern-day Iraq, around 9,000–7,000 BC.",
    "section": "Origin"
   },
-  "f15": {
+  "f13": {
    "kind": "number",
    "value": 7000,
    "surface": "7,000",
    "sentence": "The earliest evidence for the domestication of barley, in the form of cultivars that cannot reproduce without human assistance, comes from Mesopotamia, specifically the Jarmo region of modern-day Iraq, around 9,000–7,000 BC.",
    "section": "Origin"
   },
-  "f16": {
+  "f14": {
    "kind": "number",
    "value": 2000,
    "surface": "2,000",
    "sentence": "Archaeobotanical evidence shows that barley had spread throughout Eurasia by 2,000 BC.",
    "section": "Origin"
   },
-  "f17": {
+  "f15": {
    "kind": "number",
    "value": 4200,
    "surface": "4200",
    "sentence": "By 4200 BC domesticated barley had reached Eastern Finland.",
    "section": "Origin"
   },
-  "f18": {
-   "kind": "date",
-   "value": "1500",
-   "surface": "1500",
-   "sentence": "Barley has been grown in the Korean Peninsula since the Early Mumun Pottery Period (circa 1500–850 BC).",
-   "section": "Origin"
-  },
-  "f19": {
-   "kind": "date",
-   "value": "850",
-   "surface": "850",
-   "sentence": "Barley has been grown in the Korean Peninsula since the Early Mumun Pottery Period (circa 1500–850 BC).",
-   "section": "Origin"
-  },
-  "f20": {
+  "f16": {
    "kind": "number",
    "value": 5700,
    "surface": "5,700",
    "sentence": "Traces of barley cultivation have been found in post-Neolithic Bronze Age Harappan civilization 5,700–3,300 years ago.",
    "section": "Origin"
   },
-  "f21": {
+  "f17": {
    "kind": "measure",
    "value": 3300,
    "unit": "years",
@@ -223,183 +194,98 @@
    "sentence": "Traces of barley cultivation have been found in post-Neolithic Bronze Age Harappan civilization 5,700–3,300 years ago.",
    "section": "Origin"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "In 2024, world production of barley was 142 million tonnes, led by Russia with 12% of the total (table).",
+   "sentence": "In 2024, world production of barley was 142 million tonnes, led by Russia with 12% of the total.",
    "section": "Production"
   },
-  "f23": {
+  "f19": {
    "kind": "measure",
    "value": 142000000,
    "unit": "tonnes",
    "surface": "142 million tonnes",
-   "sentence": "In 2024, world production of barley was 142 million tonnes, led by Russia with 12% of the total (table).",
+   "sentence": "In 2024, world production of barley was 142 million tonnes, led by Russia with 12% of the total.",
    "section": "Production"
   },
-  "f24": {
+  "f20": {
    "kind": "measure",
    "value": 12,
    "unit": "%",
    "surface": "12%",
-   "sentence": "In 2024, world production of barley was 142 million tonnes, led by Russia with 12% of the total (table).",
+   "sentence": "In 2024, world production of barley was 142 million tonnes, led by Russia with 12% of the total.",
    "section": "Production"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
-   "sentence": "Worldwide barley production in 2023 was fourth among grains, following maize (1.2 billion tonnes), rice (800 million tonnes), and wheat (799 million tonnes).",
+   "sentence": "Worldwide barley production in 2023 was fourth among grains, following maize, rice, and wheat.",
    "section": "Production"
   },
-  "f26": {
-   "kind": "measure",
-   "value": 1200000000,
-   "unit": "tonnes",
-   "surface": "1.2 billion tonnes",
-   "sentence": "Worldwide barley production in 2023 was fourth among grains, following maize (1.2 billion tonnes), rice (800 million tonnes), and wheat (799 million tonnes).",
-   "section": "Production"
-  },
-  "f27": {
-   "kind": "measure",
-   "value": 800000000,
-   "unit": "tonnes",
-   "surface": "800 million tonnes",
-   "sentence": "Worldwide barley production in 2023 was fourth among grains, following maize (1.2 billion tonnes), rice (800 million tonnes), and wheat (799 million tonnes).",
-   "section": "Production"
-  },
-  "f28": {
-   "kind": "measure",
-   "value": 799000000,
-   "unit": "tonnes",
-   "surface": "799 million tonnes",
-   "sentence": "Worldwide barley production in 2023 was fourth among grains, following maize (1.2 billion tonnes), rice (800 million tonnes), and wheat (799 million tonnes).",
-   "section": "Production"
-  },
-  "f29": {
+  "f22": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C (59 to 68 °F) in the growing season; it is grown around the world in temperate areas.",
+   "sentence": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C in the growing season; it is grown around the world in temperate areas.",
    "section": "Cultivation"
   },
-  "f30": {
+  "f23": {
    "kind": "measure",
    "value": 20,
    "unit": "°c",
    "surface": "20 °C",
-   "sentence": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C (59 to 68 °F) in the growing season; it is grown around the world in temperate areas.",
+   "sentence": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C in the growing season; it is grown around the world in temperate areas.",
    "section": "Cultivation"
   },
-  "f31": {
-   "kind": "number",
-   "value": 59,
-   "surface": "59",
-   "sentence": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C (59 to 68 °F) in the growing season; it is grown around the world in temperate areas.",
-   "section": "Cultivation"
-  },
-  "f32": {
-   "kind": "measure",
-   "value": 68,
-   "unit": "°f",
-   "surface": "68 °F",
-   "sentence": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C (59 to 68 °F) in the growing season; it is grown around the world in temperate areas.",
-   "section": "Cultivation"
-  },
-  "f33": {
+  "f24": {
    "kind": "measure",
    "value": 69,
    "unit": "%",
    "surface": "69%",
-   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat (table).",
+   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat.",
    "section": "Food"
   },
-  "f34": {
+  "f25": {
    "kind": "measure",
    "value": 28,
    "unit": "%",
    "surface": "28%",
-   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat (table).",
+   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat.",
    "section": "Food"
   },
-  "f35": {
+  "f26": {
    "kind": "measure",
    "value": 2,
    "unit": "%",
    "surface": "2%",
-   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat (table).",
+   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat.",
    "section": "Food"
   },
-  "f36": {
+  "f27": {
    "kind": "measure",
    "value": 0.4,
    "unit": "%",
    "surface": "0.4%",
-   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat (table).",
+   "sentence": "Cooked barley is 69% water, 28% carbohydrates, 2% protein, and 0.4% fat.",
    "section": "Food"
   },
-  "f37": {
+  "f28": {
    "kind": "number",
    "value": 100,
    "surface": "100",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
+   "sentence": "In a 100-gram reference serving, cooked barley provides 515 kilojoules of food energy and is a good source of essential nutrients, including, dietary fibre, the B vitamin niacin, and dietary minerals, including iron and manganese.",
    "section": "Food"
   },
-  "f38": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3.5",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
-   "section": "Food"
-  },
-  "f39": {
+  "f29": {
    "kind": "date",
    "value": "515",
    "surface": "515",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
+   "sentence": "In a 100-gram reference serving, cooked barley provides 515 kilojoules of food energy and is a good source of essential nutrients, including, dietary fibre, the B vitamin niacin, and dietary minerals, including iron and manganese.",
    "section": "Food"
   },
-  "f40": {
-   "kind": "number",
-   "value": 123,
-   "surface": "123",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
-   "section": "Food"
-  },
-  "f41": {
-   "kind": "measure",
-   "value": 10,
-   "unit": "%",
-   "surface": "10%",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
-   "section": "Food"
-  },
-  "f42": {
-   "kind": "measure",
-   "value": 14,
-   "unit": "%",
-   "surface": "14%",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
-   "section": "Food"
-  },
-  "f43": {
-   "kind": "measure",
-   "value": 10,
-   "unit": "%",
-   "surface": "10%",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
-   "section": "Food"
-  },
-  "f44": {
-   "kind": "measure",
-   "value": 12,
-   "unit": "%",
-   "surface": "12%",
-   "sentence": "In a 100-gram (3.5 oz) reference serving, cooked barley provides 515 kilojoules (123 kcal) of food energy and is a good source (10% or more of the Daily Value, DV) of essential nutrients, including, dietary fibre, the B vitamin niacin (14% DV), and dietary minerals, including iron (10% DV) and manganese (12% DV) (table).",
-   "section": "Food"
-  },
-  "f45": {
+  "f30": {
    "kind": "measure",
    "value": 3,
    "unit": "grams",
@@ -407,7 +293,7 @@
    "sentence": "According to Health Canada and the US Food and Drug Administration, consuming at least 3 grams per day of barley beta-glucan can lower levels of blood cholesterol, a risk factor for cardiovascular diseases.",
    "section": "Food"
   },
-  "f46": {
+  "f31": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -415,7 +301,7 @@
    "sentence": "About 25% of American barley is used for malting, for which barley is the best-suited grain.",
    "section": "Uses"
   },
-  "f47": {
+  "f32": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -423,14 +309,14 @@
    "sentence": "Some 70% of the world's barley production is used as livestock feed, for example for cattle feeding in western Canada.",
    "section": "Uses"
   },
-  "f48": {
+  "f33": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "In 2014, an enzymatic process was devised to make a high-protein fish feed from barley, suitable for carnivorous fish such as trout and salmon.",
    "section": "Uses"
   },
-  "f49": {
+  "f34": {
    "kind": "measure",
    "value": 300,
    "unit": "species",

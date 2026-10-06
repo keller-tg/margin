@@ -3,8 +3,10 @@
 // Every API response is cached under content/cache/api/ (committed), so an interrupted run
 // simply replays what it already has and continues; a finished run never touches the network
 // again. Outputs (committed, reviewable):
-//   content/pool/{en,de,fr}.jsonl     one candidate per line
-//   content/images/meta.json          every evaluated image: verdict, credit, events
+//   content/pool/{lang}.jsonl.gz        one candidate per line (gzip)
+//   content/pool/dropped.{lang}.json    compact: dropped topic → reason
+//   content/images/index.json.gz        compact verdict per evaluated file (see lib/images.ts)
+//   content/images/rejected.json        compact: rejected file → reason
 //   content/reports/pool.json         counts, fallbacks and rejections
 //
 // Stages:
@@ -12,11 +14,13 @@
 //   2. en: pageprops (QID, disambiguation), info (length), pageimages (free), coordinates  [50/request]
 //   3. Wikidata SPARQL: P31 human?, birth/death, P18, de/fr sitelinks                     [50/request]
 //   4. de + fr: the same props as stage 2 for the sitelinked titles                       [50/request]
-//   5. imageinfo + extmetadata for every candidate file, asked of en.wikipedia.org         [50/request]
+//   5. imageinfo + extmetadata for every candidate file not yet in the index, asked of en.wikipedia.org [50/request]
 //   6. choose each topic's image per language: own edition → other editions → Wikidata P18
 import { mkdirSync, writeFileSync } from 'node:fs';
+import { gzipSync } from 'node:zlib';
 import { join } from 'node:path';
-import { evaluateImage, canonicalFileTitle, isBotAccount, type ImageVerdict, type ImageRecord } from '../../src/core/license/license';
+import { canonicalFileTitle } from '../../src/core/license/license';
+import { evaluateFiles, indexEntry, isOk, loadIndex, saveIndex } from './lib/images';
 import type { Domain } from '../../src/core/schema/thing';
 import { classify } from './config/domains';
 import { actionApi, actionQueryAll, batches, sparql, stats, titleBatches, type WikiLang } from './lib/wiki';
@@ -46,6 +50,8 @@ export type Candidate = {
   human: boolean;
   died: string | null;
   image: { file: string; via: 'own' | `edition:${WikiLang}` | 'wikidata-p18' };
+  /** Further usable images, in order of preference, for when the image screen rejects `image`. */
+  altImages: { file: string; via: 'own' | `edition:${WikiLang}` | 'wikidata-p18' }[];
 };
 
 /** Wikidata xsd:dateTime ("1852-11-27T00:00:00Z", "-0399-01-01T00:00:00Z") at least N years before TODAY. */
@@ -159,54 +165,7 @@ async function wikidata(qids: string[]): Promise<Map<string, WikidataInfo>> {
 }
 
 // ---------------------------------------------------------------- stage 5
-const EXTMETA = 'LicenseShortName|LicenseUrl|Artist|Credit|Attribution|AttributionRequired|UsageTerms|Copyrighted|Restrictions|NonFree';
-
-async function imageVerdicts(files: string[]): Promise<Map<string, ImageVerdict>> {
-  const out = new Map<string, ImageVerdict>();
-  const infos = new Map<string, Parameters<typeof evaluateImage>[0]>();
-  const all = titleBatches(files);
-  let i = 0;
-  for (const b of all) {
-    if (++i % 20 === 0) progress(`  imageinfo ${i}/${all.length}  (net ${stats.network}, cache ${stats.cached}, waited ${Math.round(stats.waitedMs / 1000)}s)`);
-    const { pages, raw } = await actionQueryAll('en', {
-      titles: b.join('|'), prop: 'imageinfo',
-      iiprop: 'url|size|mime|sha1|user|extmetadata', iiextmetadatafilter: EXTMETA, iiextmetadatalanguage: 'en',
-      iiurlwidth: 960,
-    });
-    const alias = new Map<string, string>();
-    for (const r of raw) for (const n of r.query?.normalized ?? []) alias.set(n.from, n.to);
-    const byTitle = new Map(pages.map((p) => [p.title as string, p]));
-    for (const f of b) {
-      const p = byTitle.get(alias.get(f) ?? f);
-      out.set(f, p ? evaluateImage(p) : { ok: false, file: f, reason: 'missing', events: [] });
-      if (p) infos.set(f, p);
-    }
-  }
-
-  // Author fell back to the uploader: use the uploader of the FIRST version (the latest one is often
-  // a rotate/crop/review bot), from the file history. Bots never count as authors.
-  const fallback = [...out].filter(([, v]) => v.events.includes('author-uploader-fallback')).map(([f]) => f);
-  progress(`  ${fallback.length} files use the uploader fallback; fetching their original uploaders`);
-  const all2 = titleBatches(fallback);
-  let j = 0;
-  for (const b of all2) {
-    if (++j % 10 === 0) progress(`  history ${j}/${all2.length}`);
-    const { pages, raw } = await actionQueryAll('en', { titles: b.join('|'), prop: 'imageinfo', iiprop: 'user|timestamp', iilimit: 'max' });
-    const alias = new Map<string, string>();
-    for (const r of raw) for (const n of r.query?.normalized ?? []) alias.set(n.from, n.to);
-    const byTitle = new Map(pages.map((p) => [p.title as string, p]));
-    for (const f of b) {
-      const versions: { user?: string; timestamp?: string }[] = byTitle.get(alias.get(f) ?? f)?.imageinfo ?? [];
-      const first = [...versions].sort((a, c) => (a.timestamp ?? '').localeCompare(c.timestamp ?? ''))[0];
-      const latest = infos.get(f);
-      if (!latest) continue;
-      const v = evaluateImage(latest, { originalUploader: first?.user ?? null });
-      if (first?.user && isBotAccount(first.user)) v.events.push('author-uploader-is-bot');
-      out.set(f, v);
-    }
-  }
-  return out;
-}
+// see lib/images.ts: verdicts live in the compact index; only files not in it are fetched
 
 // ---------------------------------------------------------------- main
 async function main() {
@@ -234,80 +193,88 @@ async function main() {
   const files = new Set<string>();
   for (const lang of LANGS) for (const p of props[lang].values()) if (p.pageimage) files.add(canonicalFileTitle(p.pageimage));
   for (const w of wd.values()) for (const f of w.p18) files.add(f);
-  const verdicts = await imageVerdicts([...files].sort());
+  const index = loadIndex();
+  const unknown = [...files].filter((f) => index[f] === undefined).sort();
+  progress(`  ${files.size} files, ${unknown.length} not in content/images/index.json.gz yet`);
+  for (const [f, r] of await evaluateFiles(unknown, { screen: false, progress })) index[f] = indexEntry(r.verdict);
+  saveIndex(index);
 
   progress('stage 6: assemble pools');
   const report = {
     generatedAt: new Date().toISOString(),
     vitalEntries: vital.length,
     excludedByListPolicy: vital.length - kept.length,
-    images: { evaluated: verdicts.size, accepted: 0, rejected: {} as Record<string, number>, events: {} as Record<string, number> },
+    images: { evaluated: 0, accepted: 0, rejected: {} as Record<string, number>, events: {} as Record<string, number> },
     perLang: {} as Record<string, Record<string, number>>,
   };
-  for (const v of verdicts.values()) {
-    for (const e of v.events) report.images.events[e] = (report.images.events[e] ?? 0) + 1;
-    if (v.ok) report.images.accepted++;
-    else {
-      const r = v.reason.replace(/ \(.*$/, '');
+  for (const f of files) {
+    const e = index[f];
+    if (e === undefined) continue;
+    report.images.evaluated++;
+    if (Array.isArray(e)) {
+      report.images.accepted++;
+      for (const ev of e.slice(1)) report.images.events[ev] = (report.images.events[ev] ?? 0) + 1;
+    } else {
+      const r = e.replace(/ \(.*$/, '');
       report.images.rejected[r] = (report.images.rejected[r] ?? 0) + 1;
     }
   }
 
-  const usable = (f: string | null | undefined): ImageRecord | null => {
-    if (!f) return null;
-    const v = verdicts.get(canonicalFileTitle(f));
-    return v?.ok ? v.record : null;
-  };
+  const usable = (f: string | null | undefined): boolean => Boolean(f) && isOk(index[canonicalFileTitle(f!)]);
 
   mkdirSync(join(ROOT, 'content/pool'), { recursive: true });
   for (const lang of LANGS) {
     const counts: Record<string, number> = {};
     const bump = (k: string) => (counts[k] = (counts[k] ?? 0) + 1);
+    const dropped: Record<string, string> = {};
+    let current = '';
+    const drop = (reason: string) => { bump(`drop:${reason}`); dropped[current] = reason; };
     const lines: string[] = [];
     for (const v of kept) {
       const ep = en.get(v.title);
-      if (!ep?.qid) { bump('drop:no-qid'); continue; }
+      current = ep?.qid ?? `en:${v.title}`;
+      if (!ep?.qid) { drop('no-qid'); continue; }
       const w = wd.get(ep.qid);
       const localTitle = lang === 'en' ? v.title : w?.sitelinks[lang];
       const p = localTitle ? props[lang].get(localTitle) : undefined;
-      if (!p) { bump('drop:no-article-in-edition'); continue; }
-      if (p.disambig) { bump('drop:disambiguation'); continue; }
-      if (/^(List of|Liste d|Liste der|Timeline of|\d{1,4}$)/i.test(p.title)) { bump('drop:list-or-year'); continue; }
+      if (!p) { drop('no-article-in-edition'); continue; }
+      if (p.disambig) { drop('disambiguation'); continue; }
+      if (/^(List of|Liste d|Liste der|Timeline of|\d{1,4}$)/i.test(p.title)) { drop('list-or-year'); continue; }
       if (w?.human) {
-        if (!deadLongEnough(w.died)) { bump('drop:person-living-or-recent'); continue; }
+        if (!deadLongEnough(w.died)) { drop('person-living-or-recent'); continue; }
       }
-      // image: own edition → other editions → Wikidata P18
-      let image: Candidate['image'] | null = null;
-      if (usable(p.pageimage)) image = { file: canonicalFileTitle(p.pageimage!), via: 'own' };
-      if (!image) {
-        for (const other of LANGS.filter((l) => l !== lang)) {
-          const ot = other === 'en' ? v.title : w?.sitelinks[other];
-          const op = ot ? props[other].get(ot) : undefined;
-          if (usable(op?.pageimage)) { image = { file: canonicalFileTitle(op!.pageimage!), via: `edition:${other}` }; break; }
-        }
+      // images in order of preference: own edition → other editions → Wikidata P18.
+      // The first is the topic's image; up to 4 more are kept for the image screen to fall back on.
+      type ImageRef = Candidate['image'];
+      const options: ImageRef[] = [];
+      const add = (f: string | null | undefined, via: ImageRef['via']) => {
+        if (!usable(f)) return;
+        const file = canonicalFileTitle(f!);
+        if (!options.some((o) => o.file === file)) options.push({ file, via });
+      };
+      add(p.pageimage, 'own');
+      for (const other of LANGS.filter((l) => l !== lang)) {
+        const ot = other === 'en' ? v.title : w?.sitelinks[other];
+        add(ot ? props[other].get(ot)?.pageimage : null, `edition:${other}`);
       }
-      if (!image) {
-        const f = w?.p18.find((x) => usable(x));
-        if (f) image = { file: f, via: 'wikidata-p18' };
-      }
-      if (!image) { bump('drop:no-free-image-anywhere'); continue; }
+      for (const f of w?.p18 ?? []) add(f, 'wikidata-p18');
+      const image = options[0];
+      if (!image) { drop('no-free-image-anywhere'); continue; }
       bump(`image:${image.via.startsWith('edition') ? 'other-edition' : image.via}`);
       bump('kept');
       const c: Candidate = {
         lang, title: p.title, pageid: p.pageid, qid: ep.qid, domain: v.domain as Domain, evening: v.evening, abstract: v.abstract,
-        path: v.path, enClass: v.enClass, length: p.length, coords: p.coords ?? ep.coords, human: Boolean(w?.human), died: w?.died?.slice(0, 10) ?? null, image,
+        path: v.path, enClass: v.enClass, length: p.length, coords: p.coords ?? ep.coords, human: Boolean(w?.human), died: w?.died?.slice(0, 10) ?? null,
+        image, altImages: options.slice(1, 5),
       };
       lines.push(JSON.stringify(c));
     }
-    writeFileSync(join(ROOT, `content/pool/${lang}.jsonl`), lines.join('\n') + '\n');
+    writeFileSync(join(ROOT, `content/pool/${lang}.jsonl.gz`), gzipSync(lines.join('\n') + '\n', { level: 9 }));
+    writeFileSync(join(ROOT, `content/pool/dropped.${lang}.json`), JSON.stringify(dropped, null, 0).replace(/,"/g, ',\n"') + '\n');
     report.perLang[lang] = counts;
     progress(`  ${lang}: ${JSON.stringify(counts)}`);
   }
 
-  mkdirSync(join(ROOT, 'content/images'), { recursive: true });
-  const meta: Record<string, unknown> = {};
-  for (const [f, v] of [...verdicts].sort(([a], [b]) => a.localeCompare(b))) meta[f] = v.ok ? { ok: true, events: v.events, ...v.record } : v;
-  writeFileSync(join(ROOT, 'content/images/meta.json'), JSON.stringify(meta, null, 1) + '\n');
   mkdirSync(join(ROOT, 'content/reports'), { recursive: true });
   writeFileSync(join(ROOT, 'content/reports/pool.json'), JSON.stringify(report, null, 2) + '\n');
   progress(`done. network ${stats.network}, cache ${stats.cached}, retries ${stats.retries}, waited ${Math.round(stats.waitedMs / 1000)}s`);

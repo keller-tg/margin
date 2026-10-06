@@ -78,164 +78,112 @@
    "value": 1.8,
    "unit": "metres",
    "surface": "1.8 metres",
-   "sentence": "The oat is a tall stout grass, a member of the family Poaceae; it can grow to a height of 1.8 metres (5.9 ft).",
+   "sentence": "The oat is a tall stout grass, a member of the family Poaceae; it can grow to a height of 1.8 metres.",
    "section": "Description"
   },
   "f2": {
-   "kind": "measure",
-   "value": 5.9,
-   "unit": "ft",
-   "surface": "5.9 ft",
-   "sentence": "The oat is a tall stout grass, a member of the family Poaceae; it can grow to a height of 1.8 metres (5.9 ft).",
-   "section": "Description"
-  },
-  "f3": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
+   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres in length, and around 5 to 15 millimetres in width.",
    "section": "Description"
   },
-  "f4": {
+  "f3": {
    "kind": "measure",
    "value": 40,
    "unit": "centimetres",
    "surface": "40 centimetres",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
+   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres in length, and around 5 to 15 millimetres in width.",
    "section": "Description"
   },
-  "f5": {
-   "kind": "number",
-   "value": 5.9,
-   "surface": "5.9",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
-   "section": "Description"
-  },
-  "f6": {
-   "kind": "number",
-   "value": 15.7,
-   "surface": "15.7",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
-   "section": "Description"
-  },
-  "f7": {
+  "f4": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
+   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres in length, and around 5 to 15 millimetres in width.",
    "section": "Description"
   },
-  "f8": {
+  "f5": {
    "kind": "measure",
    "value": 15,
    "unit": "millimetres",
    "surface": "15 millimetres",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
+   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres in length, and around 5 to 15 millimetres in width.",
    "section": "Description"
   },
-  "f9": {
-   "kind": "number",
-   "value": 0.2,
-   "surface": "0.20",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
-   "section": "Description"
-  },
-  "f10": {
-   "kind": "number",
-   "value": 0.59,
-   "surface": "0.59",
-   "sentence": "The leaves are long, narrow, and pointed, and grow upwards; they can be some 15 to 40 centimetres (5.9 to 15.7 in) in length, and around 5 to 15 millimetres (0.20 to 0.59 in) in width.",
-   "section": "Description"
-  },
-  "f11": {
+  "f6": {
    "kind": "measure",
    "value": 0.3,
    "unit": "metres",
    "surface": "0.3 metres",
-   "sentence": "Roots are fibrous, mostly in the uppermost 0.3 metres (0.98 ft) of the soil (though some may penetrate as deep as 1.5 metres (4.9 ft), and develop from a crown at the soil surface.",
+   "sentence": "Roots are fibrous, mostly in the uppermost 0.3 metres of the soil (though some may penetrate as deep as 1.5 metres, and develop from a crown at the soil surface.",
    "section": "Description"
   },
-  "f12": {
-   "kind": "measure",
-   "value": 0.98,
-   "unit": "ft",
-   "surface": "0.98 ft",
-   "sentence": "Roots are fibrous, mostly in the uppermost 0.3 metres (0.98 ft) of the soil (though some may penetrate as deep as 1.5 metres (4.9 ft), and develop from a crown at the soil surface.",
-   "section": "Description"
-  },
-  "f13": {
+  "f7": {
    "kind": "measure",
    "value": 1.5,
    "unit": "metres",
    "surface": "1.5 metres",
-   "sentence": "Roots are fibrous, mostly in the uppermost 0.3 metres (0.98 ft) of the soil (though some may penetrate as deep as 1.5 metres (4.9 ft), and develop from a crown at the soil surface.",
+   "sentence": "Roots are fibrous, mostly in the uppermost 0.3 metres of the soil (though some may penetrate as deep as 1.5 metres, and develop from a crown at the soil surface.",
    "section": "Description"
   },
-  "f14": {
-   "kind": "measure",
-   "value": 4.9,
-   "unit": "ft",
-   "surface": "4.9 ft",
-   "sentence": "Roots are fibrous, mostly in the uppermost 0.3 metres (0.98 ft) of the soil (though some may penetrate as deep as 1.5 metres (4.9 ft), and develop from a crown at the soil surface.",
-   "section": "Description"
-  },
-  "f15": {
+  "f8": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "When seeds are dense, they make only one or two hollow stems (culms), but when spaced out may make 10 to 30 culms.",
+   "sentence": "When seeds are dense, they make only one or two hollow stems, but when spaced out may make 10 to 30 culms.",
    "section": "Description"
   },
-  "f16": {
+  "f9": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "When seeds are dense, they make only one or two hollow stems (culms), but when spaced out may make 10 to 30 culms.",
+   "sentence": "When seeds are dense, they make only one or two hollow stems, but when spaced out may make 10 to 30 culms.",
    "section": "Description"
   },
-  "f17": {
+  "f10": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "At the top of the stem, the plant branches into a loose cluster or panicle of about 10-75 spikelets.",
    "section": "Description"
   },
-  "f18": {
+  "f11": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "While they tend to self pollinate, 1-2% may outcross.",
    "section": "Description"
   },
-  "f19": {
+  "f12": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "There are 7-9 nodes, with one leaf at each node and hollow internodes.",
    "section": "Description"
   },
-  "f20": {
+  "f13": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "Analysis of maternal lineages of 25 Avena species using chloroplast and mitochondrial DNA showed that A. sativa's hexaploid genome derives from three diploid oat species (each with two sets of chromosomes); the sets are dubbed A, B, C, and D. The diploid species are the CC A. ventricosa, the AA A. canariensis, and the AA A. longiglumis, along with two tetraploid oats (each with four sets), namely the AACC A. insularis and the AABB A. agadiriana.",
+   "sentence": "Analysis of maternal lineages of 25 Avena species using chloroplast and mitochondrial DNA showed that A. sativa's hexaploid genome derives from three diploid oat species; the sets are dubbed A, B, C, and D. The diploid species are the CC A. ventricosa, the AA A. canariensis, and the AA A. longiglumis, along with two tetraploid oats, namely the AACC A. insularis and the AABB A. agadiriana.",
    "section": "Origins"
   },
-  "f21": {
+  "f14": {
    "kind": "number",
    "value": 10.6,
    "surface": "10.6",
    "sentence": "Tetraploids were formed as much as 10.6 mya, and hexaploids as much as 7.4 mya.",
    "section": "Origins"
   },
-  "f22": {
+  "f15": {
    "kind": "number",
    "value": 7.4,
    "surface": "7.4",
    "sentence": "Tetraploids were formed as much as 10.6 mya, and hexaploids as much as 7.4 mya.",
    "section": "Origins"
   },
-  "f23": {
+  "f16": {
    "kind": "measure",
    "value": 51200,
    "unit": "years",
@@ -243,29 +191,22 @@
    "sentence": "Genomic study suggests that the hulled variety and the naked variety A. sativa var. nuda diverged around 51,200 years ago, long before domestication.",
    "section": "Origins"
   },
-  "f24": {
+  "f17": {
    "kind": "number",
    "value": 11400,
    "surface": "11,400",
-   "sentence": "A granary from the Pre-Pottery Neolithic, about 11,400 to 11,200 years ago in the Jordan Valley in the Middle East contained a large number of wild oat grains (120,000 seeds of A. sterilis).",
+   "sentence": "A granary from the Pre-Pottery Neolithic, about 11,400 to 11,200 years ago in the Jordan Valley in the Middle East contained a large number of wild oat grains.",
    "section": "Origins"
   },
-  "f25": {
+  "f18": {
    "kind": "measure",
    "value": 11200,
    "unit": "years",
    "surface": "11,200 years",
-   "sentence": "A granary from the Pre-Pottery Neolithic, about 11,400 to 11,200 years ago in the Jordan Valley in the Middle East contained a large number of wild oat grains (120,000 seeds of A. sterilis).",
+   "sentence": "A granary from the Pre-Pottery Neolithic, about 11,400 to 11,200 years ago in the Jordan Valley in the Middle East contained a large number of wild oat grains.",
    "section": "Origins"
   },
-  "f26": {
-   "kind": "number",
-   "value": 120000,
-   "surface": "120,000",
-   "sentence": "A granary from the Pre-Pottery Neolithic, about 11,400 to 11,200 years ago in the Jordan Valley in the Middle East contained a large number of wild oat grains (120,000 seeds of A. sterilis).",
-   "section": "Origins"
-  },
-  "f27": {
+  "f19": {
    "kind": "measure",
    "value": 3000,
    "unit": "years",
@@ -273,44 +214,36 @@
    "sentence": "Domesticated oat grains first appear in the archaeological record in Europe around 3000 years ago.",
    "section": "Origins"
   },
-  "f28": {
+  "f20": {
    "kind": "measure",
    "value": 7,
    "unit": "°c",
    "surface": "7 °C",
-   "sentence": "They tolerate cold winters less well than wheat, rye, or barley; they are harmed by sustained cold below −7 °C (20 °F).",
+   "sentence": "They tolerate cold winters less well than wheat, rye, or barley; they are harmed by sustained cold below −7 °C.",
    "section": "Agronomy"
   },
-  "f29": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "°f",
-   "surface": "20 °F",
-   "sentence": "They tolerate cold winters less well than wheat, rye, or barley; they are harmed by sustained cold below −7 °C (20 °F).",
-   "section": "Agronomy"
-  },
-  "f30": {
+  "f21": {
    "kind": "number",
    "value": 5.3,
    "surface": "5.3",
    "sentence": "Although better yields are achieved at a soil pH of 5.3 to 5.7, oats can tolerate soils with a pH as low as 4.5.",
    "section": "Agronomy"
   },
-  "f31": {
+  "f22": {
    "kind": "number",
    "value": 5.7,
    "surface": "5.7",
    "sentence": "Although better yields are achieved at a soil pH of 5.3 to 5.7, oats can tolerate soils with a pH as low as 4.5.",
    "section": "Agronomy"
   },
-  "f32": {
+  "f23": {
    "kind": "number",
    "value": 4.5,
    "surface": "4.5",
    "sentence": "Although better yields are achieved at a soil pH of 5.3 to 5.7, oats can tolerate soils with a pH as low as 4.5.",
    "section": "Agronomy"
   },
-  "f33": {
+  "f24": {
    "kind": "measure",
    "value": 13,
    "unit": "%",
@@ -318,225 +251,151 @@
    "sentence": "Mature oats are harvested by a combine, either directly or after drying by windrowing, since their moisture must not exceed 13% to be safely stored.",
    "section": "Agronomy"
   },
-  "f34": {
+  "f25": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "For example, the state of Iowa led US oat production until 1989, but has largely switched to maize and soybeans.",
    "section": "Agronomy"
   },
-  "f35": {
+  "f26": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13% (table).",
+   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13%.",
    "section": "Production"
   },
-  "f36": {
+  "f27": {
    "kind": "measure",
    "value": 22000000,
    "unit": "tonnes",
    "surface": "22 million tonnes",
-   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13% (table).",
+   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13%.",
    "section": "Production"
   },
-  "f37": {
+  "f28": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
    "surface": "15%",
-   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13% (table).",
+   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13%.",
    "section": "Production"
   },
-  "f38": {
+  "f29": {
    "kind": "measure",
    "value": 13,
    "unit": "%",
    "surface": "13%",
-   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13% (table).",
+   "sentence": "In 2024, world production of oats was 22 million tonnes, led by Canada with 15% of the total and Russia with 13%.",
    "section": "Production"
   },
-  "f39": {
-   "kind": "number",
-   "value": 42,
-   "surface": "42",
-   "sentence": "Avena sativa is an allohexaploid species with three ancestral genomes (2n=6x=42; AACCDD).",
-   "section": "Genomics"
-  },
-  "f40": {
-   "kind": "number",
-   "value": 12.6,
-   "surface": "12.6",
-   "sentence": "As a result, the genome is large (12.6 Gb, 1C-value=12.85) and complex.",
-   "section": "Genomics"
-  },
-  "f41": {
-   "kind": "number",
-   "value": 12.85,
-   "surface": "12.85",
-   "sentence": "As a result, the genome is large (12.6 Gb, 1C-value=12.85) and complex.",
-   "section": "Genomics"
-  },
-  "f42": {
+  "f30": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "In May 2022, a fully annotated reference genome sequence of Avena sativa was reported.",
    "section": "Genomics"
   },
-  "f43": {
+  "f31": {
    "kind": "number",
    "value": 14000,
    "surface": "14,000",
    "sentence": "The US Department of Agriculture oversees the world oat collection, a set of 14,000 genetic lines of 42-chromosome species.",
    "section": "Genomics"
   },
-  "f44": {
+  "f32": {
    "kind": "number",
    "value": 42,
    "surface": "42",
    "sentence": "The US Department of Agriculture oversees the world oat collection, a set of 14,000 genetic lines of 42-chromosome species.",
    "section": "Genomics"
   },
-  "f45": {
-   "kind": "date",
-   "value": "1979",
-   "surface": "1979",
-   "sentence": "Pc98 is one such trait, introgressed from A. sterilis CAV 1979, conferring all stage resistance (ASR) against Pca.",
-   "section": "Genomics"
-  },
-  "f46": {
+  "f33": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "A 2013 study applied simple sequence repeat and found five major groupings, namely commercial cultivars and four landrace groups.",
    "section": "Genomics"
   },
-  "f47": {
+  "f34": {
    "kind": "measure",
    "value": 66,
    "unit": "%",
    "surface": "66%",
-   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water (table).",
+   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water.",
    "section": "Nutrition"
   },
-  "f48": {
+  "f35": {
    "kind": "measure",
    "value": 11,
    "unit": "%",
    "surface": "11%",
-   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water (table).",
+   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water.",
    "section": "Nutrition"
   },
-  "f49": {
+  "f36": {
    "kind": "measure",
    "value": 4,
    "unit": "%",
    "surface": "4%",
-   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water (table).",
+   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water.",
    "section": "Nutrition"
   },
-  "f50": {
+  "f37": {
    "kind": "measure",
    "value": 7,
    "unit": "%",
    "surface": "7%",
-   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water (table).",
+   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water.",
    "section": "Nutrition"
   },
-  "f51": {
+  "f38": {
    "kind": "measure",
    "value": 17,
    "unit": "%",
    "surface": "17%",
-   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water (table).",
+   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water.",
    "section": "Nutrition"
   },
-  "f52": {
+  "f39": {
    "kind": "measure",
    "value": 8,
    "unit": "%",
    "surface": "8%",
-   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water (table).",
+   "sentence": "Uncooked oats are 66% carbohydrates, including 11% dietary fiber and 4% beta-glucans, 7% fat, 17% protein, and 8% water.",
    "section": "Nutrition"
   },
-  "f53": {
+  "f40": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
    "surface": "100 g",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
+   "sentence": "In a reference serving of 100 g, oats provide 389 kilocalories and are a rich source of protein, dietary fiber, several B vitamins, and numerous dietary minerals, especially manganese.",
    "section": "Nutrition"
   },
-  "f54": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3.5",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
-   "section": "Nutrition"
-  },
-  "f55": {
+  "f41": {
    "kind": "number",
    "value": 389,
    "surface": "389",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
+   "sentence": "In a reference serving of 100 g, oats provide 389 kilocalories and are a rich source of protein, dietary fiber, several B vitamins, and numerous dietary minerals, especially manganese.",
    "section": "Nutrition"
   },
-  "f56": {
-   "kind": "number",
-   "value": 1630,
-   "surface": "1,630",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
-   "section": "Nutrition"
-  },
-  "f57": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "%",
-   "surface": "20%",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
-   "section": "Nutrition"
-  },
-  "f58": {
-   "kind": "measure",
-   "value": 34,
-   "unit": "%",
-   "surface": "34%",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
-   "section": "Nutrition"
-  },
-  "f59": {
-   "kind": "measure",
-   "value": 44,
-   "unit": "%",
-   "surface": "44%",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
-   "section": "Nutrition"
-  },
-  "f60": {
-   "kind": "measure",
-   "value": 213,
-   "unit": "%",
-   "surface": "213%",
-   "sentence": "In a reference serving of 100 g (3.5 oz), oats provide 389 kilocalories (1,630 kJ) and are a rich source (20% or more of the Daily Value, DV) of protein (34% DV), dietary fiber (44% DV), several B vitamins, and numerous dietary minerals, especially manganese (213% DV) (table).",
-   "section": "Nutrition"
-  },
-  "f61": {
+  "f42": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
-   "sentence": "In response to the 1980s oat bran fad in the United States (described below), the Food and Drug Administration adopted a rule in 1997 that requires at least 0.75 grams of soluble fiber per serving in any product that bears a health claim associating its oat content with a reduced risk of heart disease.",
+   "sentence": "In response to the 1980s oat bran fad in the United States, the Food and Drug Administration adopted a rule in 1997 that requires at least 0.75 grams of soluble fiber per serving in any product that bears a health claim associating its oat content with a reduced risk of heart disease.",
    "section": "Nutrition"
   },
-  "f62": {
+  "f43": {
    "kind": "measure",
    "value": 0.75,
    "unit": "grams",
    "surface": "0.75 grams",
-   "sentence": "In response to the 1980s oat bran fad in the United States (described below), the Food and Drug Administration adopted a rule in 1997 that requires at least 0.75 grams of soluble fiber per serving in any product that bears a health claim associating its oat content with a reduced risk of heart disease.",
+   "sentence": "In response to the 1980s oat bran fad in the United States, the Food and Drug Administration adopted a rule in 1997 that requires at least 0.75 grams of soluble fiber per serving in any product that bears a health claim associating its oat content with a reduced risk of heart disease.",
    "section": "Nutrition"
   },
-  "f63": {
+  "f44": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -544,21 +403,21 @@
    "sentence": "It almost always occurs in genetically predisposed people, having a prevalence of about 1% in the developed world.",
    "section": "Nutrition"
   },
-  "f64": {
+  "f45": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "Oats are an ingredient in many cold cereals, in particular muesli and granola; the Quaker Oats Company introduced instant oatmeal in 1966.",
    "section": "Uses"
   },
-  "f65": {
+  "f46": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "As of late 2020, the oat milk market became the second-largest among plant milks in the United States, following almond milk, but exceeding the sales of soy milk.",
    "section": "Uses"
   },
-  "f66": {
+  "f47": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -566,39 +425,32 @@
    "sentence": "In Britain, oats are sometimes used for brewing beer, such as oatmeal stout where a percentage of oats, often 30%, is added to the barley for the wort.",
    "section": "Uses"
   },
-  "f67": {
+  "f48": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "The United States saw a surge in consumption of oats in the late 1980s, after the Quaker Oats Company began to promote its products as having cholesterol-reducing benefits on the basis of a 1986 study.",
    "section": "Uses"
   },
-  "f68": {
+  "f49": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "This \"oat bran fad\" lasted until 1990, when newer studies cast doubt on the earlier findings.",
+   "sentence": "This \"oat bran fad\"lasted until 1990, when newer studies cast doubt on the earlier findings.",
    "section": "Uses"
   },
-  "f69": {
+  "f50": {
    "kind": "date",
    "value": "1755",
    "surface": "1755",
    "sentence": "In his 1755 Dictionary of the English Language, Samuel Johnson defined oats as \"A grain, which in England is generally given to horses, but in Scotland supports the people.\"",
    "section": "In human culture"
   },
-  "f70": {
-   "kind": "date",
-   "value": "1380",
-   "surface": "1380",
-   "sentence": "\"Oats and Beans and Barley Grow\" is the first line of a traditional folksong (1380 in the Roud Folk Song Index), recorded in different forms from 1870.",
-   "section": "In human culture"
-  },
-  "f71": {
+  "f51": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
-   "sentence": "\"Oats and Beans and Barley Grow\" is the first line of a traditional folksong (1380 in the Roud Folk Song Index), recorded in different forms from 1870.",
+   "sentence": "\"Oats and Beans and Barley Grow\"is the first line of a traditional folksong, recorded in different forms from 1870.",
    "section": "In human culture"
   }
  },

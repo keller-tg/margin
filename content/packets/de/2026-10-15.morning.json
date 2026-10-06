@@ -53,7 +53,7 @@
    "kind": "number",
    "value": 14125,
    "surface": "14.125",
-   "sentence": "Japan (amtlicher deutscher Name; japanisch 日本, ausgesprochen als Nihon oder Nippon; ) ist ein 14.125 Inseln umfassender ostasiatischer Staat, angrenzend an den Pazifik, der indirekt im Norden und Nordwesten an Russland, im Westen an Nord- und Südkorea und im Südwesten an Taiwan und China grenzt."
+   "sentence": "Japan ist ein 14.125 Inseln umfassender ostasiatischer Staat, angrenzend an den Pazifik, der indirekt im Norden und Nordwesten an Russland, im Westen an Nord- und Südkorea und im Südwesten an Taiwan und China grenzt."
   },
   "f2": {
    "kind": "number",
@@ -83,7 +83,7 @@
    "kind": "date",
    "value": "1945",
    "surface": "1945",
-   "sentence": "Seine aggressive Expansionspolitik in der Republik China im Vorfeld und während des Zweiten Weltkrieges (Pazifikkrieg) führte schließlich zur Niederlage an der Seite der Achsenmächte im August 1945."
+   "sentence": "Seine aggressive Expansionspolitik in der Republik China im Vorfeld und während des Zweiten Weltkrieges führte schließlich zur Niederlage an der Seite der Achsenmächte im August 1945."
   },
   "f7": {
    "kind": "date",
@@ -117,63 +117,41 @@
    "value": 377980.29,
    "unit": "km²",
    "surface": "377.980,29 km²",
-   "sentence": "Sein Gesamtgebiet umfasst eine Fläche von 377.980,29 km² (2025).",
+   "sentence": "Sein Gesamtgebiet umfasst eine Fläche von 377.980,29 km².",
    "section": "Geographie"
   },
   "f12": {
-   "kind": "date",
-   "value": "2025",
-   "surface": "2025",
-   "sentence": "Sein Gesamtgebiet umfasst eine Fläche von 377.980,29 km² (2025).",
-   "section": "Geographie"
-  },
-  "f13": {
    "kind": "measure",
    "value": 5640,
    "unit": "km²",
    "surface": "5.640 km²",
-   "sentence": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco (1951) von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km².",
+   "sentence": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km².",
    "section": "Geographie"
   },
-  "f14": {
-   "kind": "date",
-   "value": "1951",
-   "surface": "1951",
-   "sentence": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco (1951) von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km².",
-   "section": "Geographie"
-  },
-  "f15": {
+  "f13": {
    "kind": "measure",
    "value": 372340,
    "unit": "km²",
    "surface": "372.340 km²",
-   "sentence": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco (1951) von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km².",
+   "sentence": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km².",
    "section": "Geographie"
   },
-  "f16": {
+  "f14": {
    "kind": "measure",
    "value": 14657,
    "unit": "km²",
    "surface": "14.657 km²",
-   "sentence": "Japan wäre somit in etwa 14.657 km² größer als die (heutige) Bundesrepublik Deutschland.",
+   "sentence": "Japan wäre somit in etwa 14.657 km² größer als die Bundesrepublik Deutschland.",
    "section": "Geographie"
   },
-  "f17": {
+  "f15": {
    "kind": "number",
    "value": 14125,
    "surface": "14125",
-   "sentence": "Dazu kommen 14125 kleinere Inseln (von min. 100 m Umfang bei Hochwasser), die sich vor allem in der Seto-Inlandsee, in der Kette der Ryūkyū-Inseln und Nampō-shotō konzentrieren.",
+   "sentence": "Dazu kommen 14125 kleinere Inseln, die sich vor allem in der Seto-Inlandsee, in der Kette der Ryūkyū-Inseln und Nampō-shotō konzentrieren.",
    "section": "Geographie"
   },
-  "f18": {
-   "kind": "measure",
-   "value": 100,
-   "unit": "m",
-   "surface": "100 m",
-   "sentence": "Dazu kommen 14125 kleinere Inseln (von min. 100 m Umfang bei Hochwasser), die sich vor allem in der Seto-Inlandsee, in der Kette der Ryūkyū-Inseln und Nampō-shotō konzentrieren.",
-   "section": "Geographie"
-  },
-  "f19": {
+  "f16": {
    "kind": "measure",
    "value": 33574,
    "unit": "km",
@@ -181,7 +159,7 @@
    "sentence": "Insgesamt hat Japan eine Küstenlänge von 33.574 km, was zum Vergleich etwa 84 % des Erdumfangs entspricht.",
    "section": "Geographie"
   },
-  "f20": {
+  "f17": {
    "kind": "measure",
    "value": 84,
    "unit": "%",
@@ -189,7 +167,7 @@
    "sentence": "Insgesamt hat Japan eine Küstenlänge von 33.574 km, was zum Vergleich etwa 84 % des Erdumfangs entspricht.",
    "section": "Geographie"
   },
-  "f21": {
+  "f18": {
    "kind": "measure",
    "value": 4470000,
    "unit": "km²",
@@ -197,7 +175,7 @@
    "sentence": "Wegen seiner vielen abgelegenen Inseln hat das Land die achtgrößte Ausschließliche Wirtschaftszone in der Welt mit einer Fläche von 4.470.000 km².",
    "section": "Geographie"
   },
-  "f22": {
+  "f19": {
    "kind": "measure",
    "value": 3776,
    "unit": "m",
@@ -205,7 +183,7 @@
    "sentence": "Der höchste Berg ist der Fuji auf der Hauptinsel Honshū mit 3776 m über dem Meeresspiegel.",
    "section": "Geographie"
   },
-  "f23": {
+  "f20": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
@@ -213,56 +191,35 @@
    "sentence": "Landwirtschaft, Industrie und Besiedlung sind auf rund 20 % der Landfläche beschränkt.",
    "section": "Geographie"
   },
-  "f24": {
+  "f21": {
    "kind": "number",
    "value": 240,
    "surface": "240",
    "sentence": "Von den etwa 240 Vulkanen des pazifischen Feuerringes sind 40 aktiv.",
    "section": "Geographie"
   },
-  "f25": {
+  "f22": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Von den etwa 240 Vulkanen des pazifischen Feuerringes sind 40 aktiv.",
    "section": "Geographie"
   },
-  "f26": {
-   "kind": "date",
-   "value": "1923",
-   "surface": "1923",
-   "sentence": "In der gesamten Region gibt es nahezu täglich leichtere Erdbeben, in größeren Abständen auch schwere (z. B. Großes Kantō-Erdbeben 1923, Erdbeben von Kōbe 1995 oder das Tōhoku-Erdbeben 2011).",
-   "section": "Geographie"
-  },
-  "f27": {
-   "kind": "date",
-   "value": "1995",
-   "surface": "1995",
-   "sentence": "In der gesamten Region gibt es nahezu täglich leichtere Erdbeben, in größeren Abständen auch schwere (z. B. Großes Kantō-Erdbeben 1923, Erdbeben von Kōbe 1995 oder das Tōhoku-Erdbeben 2011).",
-   "section": "Geographie"
-  },
-  "f28": {
-   "kind": "date",
-   "value": "2011",
-   "surface": "2011",
-   "sentence": "In der gesamten Region gibt es nahezu täglich leichtere Erdbeben, in größeren Abständen auch schwere (z. B. Großes Kantō-Erdbeben 1923, Erdbeben von Kōbe 1995 oder das Tōhoku-Erdbeben 2011).",
-   "section": "Geographie"
-  },
-  "f29": {
+  "f23": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat.",
    "section": "Geographie"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat.",
    "section": "Geographie"
   },
-  "f31": {
+  "f25": {
    "kind": "measure",
    "value": 9,
    "unit": "mw",
@@ -270,14 +227,14 @@
    "sentence": "Das Tōhoku-Erdbeben war das stärkste Erdbeben in der japanischen Geschichte mit einer Stärke von 9,0 MW.",
    "section": "Geographie"
   },
-  "f32": {
+  "f26": {
    "kind": "number",
    "value": 160000,
    "surface": "160.000",
    "sentence": "In den letzten tausend Jahren starben in Japan über 160.000 Menschen durch Tsunamis.",
    "section": "Geographie"
   },
-  "f33": {
+  "f27": {
    "kind": "measure",
    "value": 10,
    "unit": "meter",
@@ -285,7 +242,7 @@
    "sentence": "Diese Wälle aus Stahlbeton sind teilweise 10 Meter hoch, bis zu 25 Meter tief und mit Metalltoren ausgestattet.",
    "section": "Geographie"
   },
-  "f34": {
+  "f28": {
    "kind": "measure",
    "value": 25,
    "unit": "meter",
@@ -293,240 +250,186 @@
    "sentence": "Diese Wälle aus Stahlbeton sind teilweise 10 Meter hoch, bis zu 25 Meter tief und mit Metalltoren ausgestattet.",
    "section": "Geographie"
   },
-  "f35": {
-   "kind": "date",
-   "value": "2004",
-   "surface": "2004",
-   "sentence": "Im Frühsommer beginnt die Taifun-Saison, bei der vor allem der Süden und der Südwesten Japans von über dem Pazifik entstehenden Wirbelstürmen betroffen sind (z. B. von Taifun Tokage und Taifun Conson im Jahr 2004).",
-   "section": "Geographie"
-  },
-  "f36": {
+  "f29": {
    "kind": "date",
    "value": "1959",
    "surface": "1959",
    "sentence": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959.",
    "section": "Geographie"
   },
-  "f37": {
+  "f30": {
    "kind": "number",
    "value": 5000,
    "surface": "5000",
    "sentence": "Über 5000 Menschen kamen ums Leben.",
    "section": "Geographie"
   },
-  "f38": {
-   "kind": "measure",
-   "value": 68.4,
-   "unit": "%",
-   "surface": "68,4 %",
-   "sentence": "Japan ist zu großen Teilen (68,4 %) von Bergwäldern bedeckt.",
-   "section": "Geographie"
-  },
-  "f39": {
+  "f31": {
    "kind": "measure",
    "value": 1000,
    "unit": "km",
    "surface": "1000 km",
-   "sentence": "Die Ogasawara-Inseln (auch: Bonin-Inseln), 1000 km südöstlich von Tokio, werden wegen ihrer endemischen Arten oft mit den Galapagosinseln verglichen.",
+   "sentence": "Die Ogasawara-Inseln, 1000 km südöstlich von Tokio, werden wegen ihrer endemischen Arten oft mit den Galapagosinseln verglichen.",
    "section": "Geographie"
   },
-  "f40": {
+  "f32": {
    "kind": "number",
    "value": 90000,
    "surface": "90.000",
    "sentence": "Es gibt über 90.000 Tierarten, darunter der Braunbär, der Japanmakak, der japanische Waschbärhund, die große japanische Feldmaus und der Japanische Riesensalamander.",
    "section": "Geographie"
   },
-  "f41": {
+  "f33": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
-   "sentence": "Das Erblühen der Kirschblüte (Sakura) beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
+   "sentence": "Das Erblühen der Kirschblüte beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
    "section": "Geographie"
   },
-  "f42": {
-   "kind": "date",
-   "value": "2020",
-   "surface": "2020",
-   "sentence": "Das Erblühen der Kirschblüte (Sakura) beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
-   "section": "Geographie"
-  },
-  "f43": {
+  "f34": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "Das Erblühen der Kirschblüte (Sakura) beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
+   "sentence": "Das Erblühen der Kirschblüte beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
    "section": "Geographie"
   },
-  "f44": {
+  "f35": {
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "Das Erblühen der Kirschblüte (Sakura) beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
+   "sentence": "Das Erblühen der Kirschblüte beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
    "section": "Geographie"
   },
-  "f45": {
+  "f36": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Das Erblühen der Kirschblüte (Sakura) beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
+   "sentence": "Das Erblühen der Kirschblüte beginnt im Mittel der Jahre 1991–2020 in Fukuoka um den 22. März, in Tōkyō um den 24. März und in Sapporo um den 1. Mai.",
    "section": "Geographie"
   },
-  "f46": {
+  "f37": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "Vögel\nIn Japan sind über 500 verschiedene Vogelarten gesichtet worden.",
    "section": "Geographie"
   },
-  "f47": {
+  "f38": {
    "kind": "number",
    "value": 97,
    "surface": "97",
    "sentence": "Reptilien\nIn Japan finden sich 97 Reptilienarten, darunter auch Giftschlangen.",
    "section": "Geographie"
   },
-  "f48": {
+  "f39": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Zum 31. März 2017 gab es in Japan mit der Ausweisung des Amamiguntō-Nationalparks 34 Nationalparks und 56 Quasi-Nationalparks.",
    "section": "Geographie"
   },
-  "f49": {
+  "f40": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Zum 31. März 2017 gab es in Japan mit der Ausweisung des Amamiguntō-Nationalparks 34 Nationalparks und 56 Quasi-Nationalparks.",
    "section": "Geographie"
   },
-  "f50": {
+  "f41": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "Zum 31. März 2017 gab es in Japan mit der Ausweisung des Amamiguntō-Nationalparks 34 Nationalparks und 56 Quasi-Nationalparks.",
    "section": "Geographie"
   },
-  "f51": {
+  "f42": {
    "kind": "number",
    "value": 56,
    "surface": "56",
    "sentence": "Zum 31. März 2017 gab es in Japan mit der Ausweisung des Amamiguntō-Nationalparks 34 Nationalparks und 56 Quasi-Nationalparks.",
    "section": "Geographie"
   },
-  "f52": {
+  "f43": {
    "kind": "measure",
    "value": 21949,
    "unit": "km²",
    "surface": "21.949 km²",
-   "sentence": "Die Fläche der ersteren umfasst 21.949 km² (5,8 % der Landesfläche), während die letztere 13.614 km² (3,6 % der Gesamtfläche) umfasst.",
+   "sentence": "Die Fläche der ersteren umfasst 21.949 km², während die letztere 13.614 km² umfasst.",
    "section": "Geographie"
   },
-  "f53": {
-   "kind": "measure",
-   "value": 5.8,
-   "unit": "%",
-   "surface": "5,8 %",
-   "sentence": "Die Fläche der ersteren umfasst 21.949 km² (5,8 % der Landesfläche), während die letztere 13.614 km² (3,6 % der Gesamtfläche) umfasst.",
-   "section": "Geographie"
-  },
-  "f54": {
+  "f44": {
    "kind": "measure",
    "value": 13614,
    "unit": "km²",
    "surface": "13.614 km²",
-   "sentence": "Die Fläche der ersteren umfasst 21.949 km² (5,8 % der Landesfläche), während die letztere 13.614 km² (3,6 % der Gesamtfläche) umfasst.",
+   "sentence": "Die Fläche der ersteren umfasst 21.949 km², während die letztere 13.614 km² umfasst.",
    "section": "Geographie"
   },
-  "f55": {
-   "kind": "measure",
-   "value": 3.6,
-   "unit": "%",
-   "surface": "3,6 %",
-   "sentence": "Die Fläche der ersteren umfasst 21.949 km² (5,8 % der Landesfläche), während die letztere 13.614 km² (3,6 % der Gesamtfläche) umfasst.",
-   "section": "Geographie"
-  },
-  "f56": {
+  "f45": {
    "kind": "number",
    "value": 309,
    "surface": "309",
-   "sentence": "Darüber hinaus verteilen sich die 309 Präfekturparks auf eine Fläche von 19.608 km² (5,2 % der Gesamtfläche).",
+   "sentence": "Darüber hinaus verteilen sich die 309 Präfekturparks auf eine Fläche von 19.608 km².",
    "section": "Geographie"
   },
-  "f57": {
+  "f46": {
    "kind": "measure",
    "value": 19608,
    "unit": "km²",
    "surface": "19.608 km²",
-   "sentence": "Darüber hinaus verteilen sich die 309 Präfekturparks auf eine Fläche von 19.608 km² (5,2 % der Gesamtfläche).",
+   "sentence": "Darüber hinaus verteilen sich die 309 Präfekturparks auf eine Fläche von 19.608 km².",
    "section": "Geographie"
   },
-  "f58": {
-   "kind": "measure",
-   "value": 5.2,
-   "unit": "%",
-   "surface": "5,2 %",
-   "sentence": "Darüber hinaus verteilen sich die 309 Präfekturparks auf eine Fläche von 19.608 km² (5,2 % der Gesamtfläche).",
-   "section": "Geographie"
-  },
-  "f59": {
+  "f47": {
    "kind": "number",
    "value": 53,
    "surface": "53",
    "sentence": "Neben den Parks sind 53 Feuchtgebiete als Ramsar-Gebiete ausgewiesen.",
    "section": "Geographie"
   },
-  "f60": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "%",
-   "surface": "30 %",
-   "sentence": "Besonders die finanzielle Abhängigkeit der Gebietskörperschaften war lange extrem groß („30 %-Autonomie“), in den letzten Jahrzehnten gab es einige Reformversuche zur fiskalischen Dezentralisierung.",
-   "section": "Geographie"
-  },
-  "f61": {
+  "f48": {
    "kind": "number",
    "value": 47,
    "surface": "47",
-   "sentence": "Das Land gliedert sich in drei Verwaltungsebenen, die Zentralregierung in Tokio, die 47 Präfekturen (todōfuken) und die kommunale Ebene (shikuchōson): Kreisfreie Städte (shi), Kleinstädte (chō oder machi), Dörfer (mura oder son) sowie in der Präfektur Tokio die 23 „[Sonder-]Bezirke“ ([tokubetsu-]ku).",
+   "sentence": "Das Land gliedert sich in drei Verwaltungsebenen, die Zentralregierung in Tokio, die 47 Präfekturen und die kommunale Ebene: Kreisfreie Städte, Kleinstädte, Dörfer sowie in der Präfektur Tokio die 23 „Bezirke“.",
    "section": "Geographie"
   },
-  "f62": {
+  "f49": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "Das Land gliedert sich in drei Verwaltungsebenen, die Zentralregierung in Tokio, die 47 Präfekturen (todōfuken) und die kommunale Ebene (shikuchōson): Kreisfreie Städte (shi), Kleinstädte (chō oder machi), Dörfer (mura oder son) sowie in der Präfektur Tokio die 23 „[Sonder-]Bezirke“ ([tokubetsu-]ku).",
+   "sentence": "Das Land gliedert sich in drei Verwaltungsebenen, die Zentralregierung in Tokio, die 47 Präfekturen und die kommunale Ebene: Kreisfreie Städte, Kleinstädte, Dörfer sowie in der Präfektur Tokio die 23 „Bezirke“.",
    "section": "Geographie"
   },
-  "f63": {
+  "f50": {
    "kind": "number",
    "value": 19,
    "surface": "19",
-   "sentence": "Sie waren im 19. Jahrhundert aus vormodernen Bezirken (kōri) hervorgegangen und werden bis heute für Ortsangaben zum Beispiel in Postadressen genutzt.",
+   "sentence": "Sie waren im 19. Jahrhundert aus vormodernen Bezirken hervorgegangen und werden bis heute für Ortsangaben zum Beispiel in Postadressen genutzt.",
    "section": "Geographie"
   },
-  "f64": {
+  "f51": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Einen Sonderstatus unter den Gemeinden haben die 20 „Großstädte per Regierungserlass“ (seirei shitei toshi).",
+   "sentence": "Einen Sonderstatus unter den Gemeinden haben die 20 „Großstädte per Regierungserlass“.",
    "section": "Geographie"
   },
-  "f65": {
+  "f52": {
    "kind": "number",
    "value": 500000,
    "surface": "500.000",
    "sentence": "Voraussetzung für die Ernennung sind unter anderem eine Mindestbevölkerung von 500.000 Einwohnern sowie die Zustimmung von Stadtrat und Präfekturparlament.",
    "section": "Geographie"
   },
-  "f66": {
+  "f53": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Im Jahr 2023 lebten 92 Prozent der Einwohner Japans in Städten.",
    "section": "Geographie"
   },
-  "f67": {
+  "f54": {
    "kind": "measure",
    "value": 92,
    "unit": "prozent",
@@ -534,84 +437,84 @@
    "sentence": "Im Jahr 2023 lebten 92 Prozent der Einwohner Japans in Städten.",
    "section": "Geographie"
   },
-  "f68": {
+  "f55": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Die größten Städte Japans sind:\nVolkszählungen 2020 und 2015",
    "section": "Geographie"
   },
-  "f69": {
+  "f56": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Die größten Städte Japans sind:\nVolkszählungen 2020 und 2015",
    "section": "Geographie"
   },
-  "f70": {
+  "f57": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Die Volkszählung aus dem Jahr 2010 weist eine Gesamtbevölkerung Japans von 128.056.026 Menschen aus.",
    "section": "Bevölkerung"
   },
-  "f71": {
+  "f58": {
    "kind": "number",
    "value": 128056026,
    "surface": "128.056.026",
    "sentence": "Die Volkszählung aus dem Jahr 2010 weist eine Gesamtbevölkerung Japans von 128.056.026 Menschen aus.",
    "section": "Bevölkerung"
   },
-  "f72": {
+  "f59": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Die Einwohnerzahl ist seit Jahren rückläufig, so gab das Ministerium für Innere Angelegenheiten und Kommunikation am 31. März 2015 eine Gesamtbevölkerung von 126.659.683 an.",
    "section": "Bevölkerung"
   },
-  "f73": {
+  "f60": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Die Einwohnerzahl ist seit Jahren rückläufig, so gab das Ministerium für Innere Angelegenheiten und Kommunikation am 31. März 2015 eine Gesamtbevölkerung von 126.659.683 an.",
    "section": "Bevölkerung"
   },
-  "f74": {
+  "f61": {
    "kind": "number",
    "value": 126659683,
    "surface": "126.659.683",
    "sentence": "Die Einwohnerzahl ist seit Jahren rückläufig, so gab das Ministerium für Innere Angelegenheiten und Kommunikation am 31. März 2015 eine Gesamtbevölkerung von 126.659.683 an.",
    "section": "Bevölkerung"
   },
-  "f75": {
+  "f62": {
    "kind": "date",
    "value": "2050",
    "surface": "2050",
    "sentence": "2050 soll die Einwohnerzahl noch 107 Millionen betragen, womit Japan bis Mitte des Jahrhunderts 20 Millionen Einwohner verlieren würde.",
    "section": "Bevölkerung"
   },
-  "f76": {
+  "f63": {
    "kind": "number",
    "value": 107000000,
    "surface": "107 Millionen",
    "sentence": "2050 soll die Einwohnerzahl noch 107 Millionen betragen, womit Japan bis Mitte des Jahrhunderts 20 Millionen Einwohner verlieren würde.",
    "section": "Bevölkerung"
   },
-  "f77": {
+  "f64": {
    "kind": "number",
    "value": 20000000,
    "surface": "20 Millionen",
    "sentence": "2050 soll die Einwohnerzahl noch 107 Millionen betragen, womit Japan bis Mitte des Jahrhunderts 20 Millionen Einwohner verlieren würde.",
    "section": "Bevölkerung"
   },
-  "f78": {
+  "f65": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "Der Anteil der Ausländer an der Bevölkerung lag 2014 bei 2 Prozent, steigt jedoch stetig an.",
    "section": "Bevölkerung"
   },
-  "f79": {
+  "f66": {
    "kind": "measure",
    "value": 2,
    "unit": "prozent",
@@ -619,51 +522,37 @@
    "sentence": "Der Anteil der Ausländer an der Bevölkerung lag 2014 bei 2 Prozent, steigt jedoch stetig an.",
    "section": "Bevölkerung"
   },
-  "f80": {
+  "f67": {
    "kind": "measure",
    "value": 1.67,
    "unit": "%",
    "surface": "1,67 %",
-   "sentence": "Der Anteil der in Japan ansässigen Ausländer an der Bevölkerung stieg von 1,67 % (Ende 2014) auf 3,35 % (Ende 2025).",
+   "sentence": "Der Anteil der in Japan ansässigen Ausländer an der Bevölkerung stieg von 1,67 % auf 3,35 %.",
    "section": "Bevölkerung"
   },
-  "f81": {
-   "kind": "date",
-   "value": "2014",
-   "surface": "2014",
-   "sentence": "Der Anteil der in Japan ansässigen Ausländer an der Bevölkerung stieg von 1,67 % (Ende 2014) auf 3,35 % (Ende 2025).",
-   "section": "Bevölkerung"
-  },
-  "f82": {
+  "f68": {
    "kind": "measure",
    "value": 3.35,
    "unit": "%",
    "surface": "3,35 %",
-   "sentence": "Der Anteil der in Japan ansässigen Ausländer an der Bevölkerung stieg von 1,67 % (Ende 2014) auf 3,35 % (Ende 2025).",
+   "sentence": "Der Anteil der in Japan ansässigen Ausländer an der Bevölkerung stieg von 1,67 % auf 3,35 %.",
    "section": "Bevölkerung"
   },
-  "f83": {
-   "kind": "date",
-   "value": "2025",
-   "surface": "2025",
-   "sentence": "Der Anteil der in Japan ansässigen Ausländer an der Bevölkerung stieg von 1,67 % (Ende 2014) auf 3,35 % (Ende 2025).",
-   "section": "Bevölkerung"
-  },
-  "f84": {
+  "f69": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Ende 2025 lebten 4.125.395 Ausländer in Japan, 9,5 % mehr als im Vorjahr und erstmals über vier Millionen.",
    "section": "Bevölkerung"
   },
-  "f85": {
+  "f70": {
    "kind": "number",
    "value": 4125395,
    "surface": "4.125.395",
    "sentence": "Ende 2025 lebten 4.125.395 Ausländer in Japan, 9,5 % mehr als im Vorjahr und erstmals über vier Millionen.",
    "section": "Bevölkerung"
   },
-  "f86": {
+  "f71": {
    "kind": "measure",
    "value": 9.5,
    "unit": "%",
@@ -671,71 +560,43 @@
    "sentence": "Ende 2025 lebten 4.125.395 Ausländer in Japan, 9,5 % mehr als im Vorjahr und erstmals über vier Millionen.",
    "section": "Bevölkerung"
   },
-  "f87": {
+  "f72": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
+   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren.",
    "section": "Bevölkerung"
   },
-  "f88": {
+  "f73": {
    "kind": "measure",
    "value": 84,
    "unit": "jahren",
    "surface": "84 Jahren",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
+   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren.",
    "section": "Bevölkerung"
   },
-  "f89": {
-   "kind": "number",
-   "value": 87.1,
-   "surface": "87,1",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
-   "section": "Bevölkerung"
-  },
-  "f90": {
-   "kind": "number",
-   "value": 81.1,
-   "surface": "81,1",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
-   "section": "Bevölkerung"
-  },
-  "f91": {
+  "f74": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
-   "sentence": "2023 lag sie bei 84,71 und ist laut der UN somit das Land mit der zweithöchsten Lebenserwartung nach Hong Kong (85,51), gefolgt von Südkorea (84,33) und Französisch-Polynesien.",
+   "sentence": "2023 lag sie bei 84,71 und ist laut der UN somit das Land mit der zweithöchsten Lebenserwartung nach Hong Kong, gefolgt von Südkorea und Französisch-Polynesien.",
    "section": "Bevölkerung"
   },
-  "f92": {
+  "f75": {
    "kind": "number",
    "value": 84.71,
    "surface": "84,71",
-   "sentence": "2023 lag sie bei 84,71 und ist laut der UN somit das Land mit der zweithöchsten Lebenserwartung nach Hong Kong (85,51), gefolgt von Südkorea (84,33) und Französisch-Polynesien.",
+   "sentence": "2023 lag sie bei 84,71 und ist laut der UN somit das Land mit der zweithöchsten Lebenserwartung nach Hong Kong, gefolgt von Südkorea und Französisch-Polynesien.",
    "section": "Bevölkerung"
   },
-  "f93": {
-   "kind": "number",
-   "value": 85.51,
-   "surface": "85,51",
-   "sentence": "2023 lag sie bei 84,71 und ist laut der UN somit das Land mit der zweithöchsten Lebenserwartung nach Hong Kong (85,51), gefolgt von Südkorea (84,33) und Französisch-Polynesien.",
-   "section": "Bevölkerung"
-  },
-  "f94": {
-   "kind": "number",
-   "value": 84.33,
-   "surface": "84,33",
-   "sentence": "2023 lag sie bei 84,71 und ist laut der UN somit das Land mit der zweithöchsten Lebenserwartung nach Hong Kong (85,51), gefolgt von Südkorea (84,33) und Französisch-Polynesien.",
-   "section": "Bevölkerung"
-  },
-  "f95": {
+  "f76": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Der Median des Alters der Bevölkerung lag im Jahr 2020 bei 48 Jahren, womit sie die älteste Gesellschaft der Welt war.",
    "section": "Bevölkerung"
   },
-  "f96": {
+  "f77": {
    "kind": "measure",
    "value": 48,
    "unit": "jahren",
@@ -743,43 +604,35 @@
    "sentence": "Der Median des Alters der Bevölkerung lag im Jahr 2020 bei 48 Jahren, womit sie die älteste Gesellschaft der Welt war.",
    "section": "Bevölkerung"
   },
-  "f97": {
+  "f78": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Die indigene, erst 2008 von der Regierung als solches anerkannte Minderheit der Ainu auf der nördlichen Insel Hokkaidō stellt heute nur noch einige zehntausend Angehörige.",
    "section": "Bevölkerung"
   },
-  "f98": {
+  "f79": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Das Christentum spielte in der Geschichte vor allem im 16. und 17. Jahrhundert eine gewisse Rolle, nimmt aber heute nur noch eine Randstellung ein.",
    "section": "Bevölkerung"
   },
-  "f99": {
+  "f80": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Das Christentum spielte in der Geschichte vor allem im 16. und 17. Jahrhundert eine gewisse Rolle, nimmt aber heute nur noch eine Randstellung ein.",
    "section": "Bevölkerung"
   },
-  "f100": {
+  "f81": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "So wurden im Jahr 2008 64 Prozent der Hochzeiten nach christlichem Brauch geschlossen, und nur noch 18 Prozent nach einer traditionell shintôistischen Hochzeitszeremonie.",
    "section": "Bevölkerung"
   },
-  "f101": {
-   "kind": "measure",
-   "value": 64,
-   "unit": "prozent",
-   "surface": "64 Prozent",
-   "sentence": "So wurden im Jahr 2008 64 Prozent der Hochzeiten nach christlichem Brauch geschlossen, und nur noch 18 Prozent nach einer traditionell shintôistischen Hochzeitszeremonie.",
-   "section": "Bevölkerung"
-  },
-  "f102": {
+  "f82": {
    "kind": "measure",
    "value": 18,
    "unit": "prozent",
@@ -787,28 +640,28 @@
    "sentence": "So wurden im Jahr 2008 64 Prozent der Hochzeiten nach christlichem Brauch geschlossen, und nur noch 18 Prozent nach einer traditionell shintôistischen Hochzeitszeremonie.",
    "section": "Bevölkerung"
   },
-  "f103": {
+  "f83": {
    "kind": "number",
    "value": 19,
    "surface": "19",
-   "sentence": "Ein wichtiges Element stellen die „Neuen Religionen“ dar, die sich seit Mitte des 19. Jahrhunderts immer stärker ausbreiten und oft eine eigenwillige Mischung aus Shintō, Buddhismus und anderen Weltreligionen propagieren.",
+   "sentence": "Ein wichtiges Element stellen die „Neuen Religionen“dar, die sich seit Mitte des 19. Jahrhunderts immer stärker ausbreiten und oft eine eigenwillige Mischung aus Shintō, Buddhismus und anderen Weltreligionen propagieren.",
    "section": "Bevölkerung"
   },
-  "f104": {
+  "f84": {
    "kind": "number",
    "value": 300,
    "surface": "300",
    "sentence": "Seit dem Zweiten Weltkrieg herrscht gegenüber diesen Richtungen eine besonders große religiöse Toleranz, sodass gegenwärtig rund 300 solcher Glaubensgemeinschaften amtlich gelistet sind.",
    "section": "Bevölkerung"
   },
-  "f105": {
+  "f85": {
    "kind": "date",
    "value": "1804",
    "surface": "1804",
    "sentence": "So führte die erste Operation unter Vollnarkose 1804 Hanaoka Seishū durch.",
    "section": "Bevölkerung"
   },
-  "f106": {
+  "f86": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -816,7 +669,7 @@
    "sentence": "Öffentliche Krankenversicherungen decken die Kosten für die meisten Bürger ab und zahlen 70 % oder mehr für jede Pflege und jedes verschriebene Medikament.",
    "section": "Bevölkerung"
   },
-  "f107": {
+  "f87": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -824,14 +677,14 @@
    "sentence": "Der Anteil, der privat gezahlt wird, orientiert sich am verfügbaren Einkommen der Person und kann maximal 30 % betragen.",
    "section": "Bevölkerung"
   },
-  "f108": {
+  "f88": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "2015 gab Japan 10,9 % seiner Wirtschaftsleistung für das Gesundheitssystem aus, wovon 84,1 % staatlich finanziert wurden.",
    "section": "Bevölkerung"
   },
-  "f109": {
+  "f89": {
    "kind": "measure",
    "value": 10.9,
    "unit": "%",
@@ -839,7 +692,7 @@
    "sentence": "2015 gab Japan 10,9 % seiner Wirtschaftsleistung für das Gesundheitssystem aus, wovon 84,1 % staatlich finanziert wurden.",
    "section": "Bevölkerung"
   },
-  "f110": {
+  "f90": {
    "kind": "measure",
    "value": 84.1,
    "unit": "%",
@@ -847,58 +700,37 @@
    "sentence": "2015 gab Japan 10,9 % seiner Wirtschaftsleistung für das Gesundheitssystem aus, wovon 84,1 % staatlich finanziert wurden.",
    "section": "Bevölkerung"
   },
-  "f111": {
+  "f91": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
+   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren.",
    "section": "Bevölkerung"
   },
-  "f112": {
+  "f92": {
    "kind": "measure",
    "value": 84,
    "unit": "jahren",
    "surface": "84 Jahren",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
+   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren.",
    "section": "Bevölkerung"
   },
-  "f113": {
-   "kind": "number",
-   "value": 87.1,
-   "surface": "87,1",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
-   "section": "Bevölkerung"
-  },
-  "f114": {
-   "kind": "number",
-   "value": 81.1,
-   "surface": "81,1",
-   "sentence": "Die Lebenserwartung der Einwohner Japans ab der Geburt lag 2022 bei 84 Jahren (Frauen: 87,1, Männer: 81,1).",
-   "section": "Bevölkerung"
-  },
-  "f115": {
+  "f93": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",
-   "sentence": "Seit dem Jahre 1960 konnte die durchschnittliche Lebenserwartung um mehr als 16 Jahre gesteigert werden (Universelle Krankenversicherung existiert seit 1961).",
+   "sentence": "Seit dem Jahre 1960 konnte die durchschnittliche Lebenserwartung um mehr als 16 Jahre gesteigert werden.",
    "section": "Bevölkerung"
   },
-  "f116": {
+  "f94": {
    "kind": "measure",
    "value": 16,
    "unit": "jahre",
    "surface": "16 Jahre",
-   "sentence": "Seit dem Jahre 1960 konnte die durchschnittliche Lebenserwartung um mehr als 16 Jahre gesteigert werden (Universelle Krankenversicherung existiert seit 1961).",
+   "sentence": "Seit dem Jahre 1960 konnte die durchschnittliche Lebenserwartung um mehr als 16 Jahre gesteigert werden.",
    "section": "Bevölkerung"
   },
-  "f117": {
-   "kind": "date",
-   "value": "1961",
-   "surface": "1961",
-   "sentence": "Seit dem Jahre 1960 konnte die durchschnittliche Lebenserwartung um mehr als 16 Jahre gesteigert werden (Universelle Krankenversicherung existiert seit 1961).",
-   "section": "Bevölkerung"
-  },
-  "f118": {
+  "f95": {
    "kind": "measure",
    "value": 0.1,
    "unit": "%",

@@ -54,7 +54,7 @@
    "value": 220000000,
    "unit": "jahren",
    "surface": "220 Millionen Jahren",
-   "sentence": "Die Schildkröten (Testudinata, bzw. Testudines, wenn die Kronengruppe gemeint ist; ehemals auch Chelonia von altgr. χελώνιον „Schildkröte“) sind eine Ordnung der Sauropsida und erschienen erstmals vor mehr als 220 Millionen Jahren im Karnium (Obertrias)."
+   "sentence": "Die Schildkröten sind eine Ordnung der Sauropsida und erschienen erstmals vor mehr als 220 Millionen Jahren im Karnium."
   },
   "f2": {
    "kind": "measure",
@@ -73,7 +73,7 @@
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Neben der einheimischen Europäischen Sumpfschildkröte (Emys orbicularis) wurden in deutschen Süßgewässern mittlerweile 14 weitere, gebietsfremde (allochthone) Wasserschildkrötenarten nachgewiesen.",
+   "sentence": "Neben der einheimischen Europäischen Sumpfschildkröte wurden in deutschen Süßgewässern mittlerweile 14 weitere, gebietsfremde Wasserschildkrötenarten nachgewiesen.",
    "section": "Verbreitung"
   },
   "f5": {
@@ -81,68 +81,47 @@
    "value": 70,
    "unit": "prozent",
    "surface": "70 Prozent",
-   "sentence": "Die mit Abstand am häufigsten nachgewiesene gebietsfremde Art ist die Nordamerikanische Buchstaben-Schmuckschildkröte (Trachemys scripta), auf die rund 70 Prozent aller Beobachtungen (1237 von 1770 Nachweisen) entfielen.",
+   "sentence": "Die mit Abstand am häufigsten nachgewiesene gebietsfremde Art ist die Nordamerikanische Buchstaben-Schmuckschildkröte, auf die rund 70 Prozent aller Beobachtungen entfielen.",
    "section": "Verbreitung"
   },
   "f6": {
-   "kind": "date",
-   "value": "1237",
-   "surface": "1237",
-   "sentence": "Die mit Abstand am häufigsten nachgewiesene gebietsfremde Art ist die Nordamerikanische Buchstaben-Schmuckschildkröte (Trachemys scripta), auf die rund 70 Prozent aller Beobachtungen (1237 von 1770 Nachweisen) entfielen.",
-   "section": "Verbreitung"
-  },
-  "f7": {
-   "kind": "date",
-   "value": "1770",
-   "surface": "1770",
-   "sentence": "Die mit Abstand am häufigsten nachgewiesene gebietsfremde Art ist die Nordamerikanische Buchstaben-Schmuckschildkröte (Trachemys scripta), auf die rund 70 Prozent aller Beobachtungen (1237 von 1770 Nachweisen) entfielen.",
-   "section": "Verbreitung"
-  },
-  "f8": {
    "kind": "measure",
    "value": 9.4,
    "unit": "prozent",
    "surface": "9,4 Prozent",
-   "sentence": "Als weitere häufige Arten wurden die Gewöhnliche Schmuckschildkröte (Pseudemys concinna) mit etwa 9,4 Prozent sowie die Falsche Landkarten-Höckerschildkröte (Graptemys pseudogeographica) mit rund 6 Prozent der Nachweise erfasst.",
+   "sentence": "Als weitere häufige Arten wurden die Gewöhnliche Schmuckschildkröte mit etwa 9,4 Prozent sowie die Falsche Landkarten-Höckerschildkröte mit rund 6 Prozent der Nachweise erfasst.",
    "section": "Verbreitung"
   },
-  "f9": {
+  "f7": {
    "kind": "measure",
    "value": 6,
    "unit": "prozent",
    "surface": "6 Prozent",
-   "sentence": "Als weitere häufige Arten wurden die Gewöhnliche Schmuckschildkröte (Pseudemys concinna) mit etwa 9,4 Prozent sowie die Falsche Landkarten-Höckerschildkröte (Graptemys pseudogeographica) mit rund 6 Prozent der Nachweise erfasst.",
+   "sentence": "Als weitere häufige Arten wurden die Gewöhnliche Schmuckschildkröte mit etwa 9,4 Prozent sowie die Falsche Landkarten-Höckerschildkröte mit rund 6 Prozent der Nachweise erfasst.",
    "section": "Verbreitung"
   },
-  "f10": {
+  "f8": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Die Europäische Union verbot den Import von Trachemys scripta elegans im Jahr 1997 aufgrund ihres invasiven Potenzials.",
    "section": "Verbreitung"
   },
-  "f11": {
+  "f9": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
-   "sentence": "Im Jahr 2016 wurde Trachemys scripta in die EU-Liste invasiver gebietsfremder Arten aufgenommen (Verordnung (EU) Nr. 1143/2014), was den Handel, den Besitz und das Aussetzen der Art innerhalb der EU untersagt.",
+   "sentence": "Im Jahr 2016 wurde Trachemys scripta in die EU-Liste invasiver gebietsfremder Arten aufgenommen, was den Handel, den Besitz und das Aussetzen der Art innerhalb der EU untersagt.",
    "section": "Verbreitung"
   },
-  "f12": {
-   "kind": "date",
-   "value": "1143",
-   "surface": "1143",
-   "sentence": "Im Jahr 2016 wurde Trachemys scripta in die EU-Liste invasiver gebietsfremder Arten aufgenommen (Verordnung (EU) Nr. 1143/2014), was den Handel, den Besitz und das Aussetzen der Art innerhalb der EU untersagt.",
-   "section": "Verbreitung"
-  },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Trachemys scripta gilt weltweit als eine der schädlichsten invasiven Reptilienarten und findet sich auf der IUCN-Liste der „100 schlimmsten invasiven Arten“.",
    "section": "Verbreitung"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 60,
    "unit": "prozent",
@@ -150,7 +129,7 @@
    "sentence": "Artenvielfalt und Individuenzahl der eingeschleppten Schildkröten sind in städtischen und stadtnahen Bereichen besonders hoch; der mittlere Urbanisierungsgrad im Umkreis von einem Kilometer um die jeweiligen Fundorte betrug rund 60 Prozent.",
    "section": "Verbreitung"
   },
-  "f15": {
+  "f12": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -158,114 +137,114 @@
    "sentence": "Für Schildkröten stellt der Panzer, welcher bereits ca. 30 % des Gewichtes ausmacht, zweifellos das anatomisch entscheidende Charakteristikum dar.",
    "section": "Körperbau und Lebensweise"
   },
-  "f16": {
+  "f13": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "section": "Körperbau und Lebensweise"
+  },
+  "f14": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "section": "Körperbau und Lebensweise"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "section": "Körperbau und Lebensweise"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f17": {
    "kind": "number",
-   "value": 24,
-   "surface": "24",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f18": {
    "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f19": {
    "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f20": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f21": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f22": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f23": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f24": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
+   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers\n1 Nackenschild\n24 Randschilde\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild, bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde\n8 Rippenschilde\nHornschilde des Bauchpanzers\n2 Kehlschilde\n2 Armschilde\n2 Achselschilde\n2 Brustschilde\n2 Bauchschilde\n2 Hüftschilde\n2 Beinschilde\n2 Afterschilde\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
    "section": "Körperbau und Lebensweise"
   },
   "f25": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Diese Hornschilde lassen sich in folgende Gruppierungen einteilen, wobei artbedingte Abweichungen in Anzahl und Vorhandensein anzutreffen sind:\nHornschilde des Rückenpanzers (Carapax)\n(von cranial nach caudal bzw. von vorne nach hinten)\n1 Nackenschild (Cervicale oder Nuchale)\n24 Randschilde (Marginalia)\ndie letzten beiden Randschilde sind die Postcentralia und bilden gemeinsam den Supracaudal- oder Schwanzschild (Supracaudale, Syn.: Caudale), bei manchen Arten ist dieser auch ungeteilt\n5 Wirbelschilde (Vertebralia)\n8 Rippenschilde (Pleuralia oder Costalia)\nHornschilde des Bauchpanzers (Plastron)\n(von cranial nach caudal bzw. von vorne nach hinten)\n2 Kehlschilde (Gularia)\n2 Armschilde (Humeralia)\n2 Achselschilde (Axillaria)\n2 Brustschilde (Pectoralia)\n2 Bauchschilde (Abdominalia)\n2 Hüftschilde (Inguinalia)\n2 Beinschilde (Femoralia)\n2 Afterschilde (Analia)\nDie Naht- und Verzahnungsstellen von Horn- und Knochenpanzer liegen nicht übereinander, sondern sind gegeneinander verschoben.",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f28": {
    "kind": "measure",
    "value": 100,
    "unit": "hz",
    "surface": "100 Hz",
-   "sentence": "Sie nehmen Schallwellen von etwa 100 Hz bis 1000 Hz wahr, also vor allem tiefe Vibrationen (Trittschall) aus ihrer Umgebung, möglicherweise auch Fressgeräusche von Artgenossen.",
+   "sentence": "Sie nehmen Schallwellen von etwa 100 Hz bis 1000 Hz wahr, also vor allem tiefe Vibrationen aus ihrer Umgebung, möglicherweise auch Fressgeräusche von Artgenossen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f29": {
+  "f26": {
    "kind": "measure",
    "value": 1000,
    "unit": "hz",
    "surface": "1000 Hz",
-   "sentence": "Sie nehmen Schallwellen von etwa 100 Hz bis 1000 Hz wahr, also vor allem tiefe Vibrationen (Trittschall) aus ihrer Umgebung, möglicherweise auch Fressgeräusche von Artgenossen.",
+   "sentence": "Sie nehmen Schallwellen von etwa 100 Hz bis 1000 Hz wahr, also vor allem tiefe Vibrationen aus ihrer Umgebung, möglicherweise auch Fressgeräusche von Artgenossen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f30": {
+  "f27": {
    "kind": "number",
    "value": 220000000,
    "surface": "220 Millionen",
    "sentence": "Bei 220 Millionen bzw. 160 Millionen Jahre alten fossilen Schildkröten entdeckte man noch Zähne, die sich im Laufe der Evolution jedoch rückgebildet haben.",
    "section": "Körperbau und Lebensweise"
   },
-  "f31": {
+  "f28": {
    "kind": "measure",
    "value": 160000000,
    "unit": "jahre",
@@ -273,14 +252,14 @@
    "sentence": "Bei 220 Millionen bzw. 160 Millionen Jahre alten fossilen Schildkröten entdeckte man noch Zähne, die sich im Laufe der Evolution jedoch rückgebildet haben.",
    "section": "Körperbau und Lebensweise"
   },
-  "f32": {
+  "f29": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Weibchen dieser Art scharren mit ihren Vorderbeinen einen Nisthaufen aus Laub, Sand und Gras zusammen, der einen Durchmesser von 1 bis 2,50 Meter hat und zwischen 20 und 50 Zentimeter hoch ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f33": {
+  "f30": {
    "kind": "measure",
    "value": 2.5,
    "unit": "meter",
@@ -288,101 +267,101 @@
    "sentence": "Weibchen dieser Art scharren mit ihren Vorderbeinen einen Nisthaufen aus Laub, Sand und Gras zusammen, der einen Durchmesser von 1 bis 2,50 Meter hat und zwischen 20 und 50 Zentimeter hoch ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f34": {
+  "f31": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Weibchen dieser Art scharren mit ihren Vorderbeinen einen Nisthaufen aus Laub, Sand und Gras zusammen, der einen Durchmesser von 1 bis 2,50 Meter hat und zwischen 20 und 50 Zentimeter hoch ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f35": {
+  "f32": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Weibchen dieser Art scharren mit ihren Vorderbeinen einen Nisthaufen aus Laub, Sand und Gras zusammen, der einen Durchmesser von 1 bis 2,50 Meter hat und zwischen 20 und 50 Zentimeter hoch ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f36": {
+  "f33": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Anschließend bewacht sie das Gelege für eine Zeitdauer von 2 bis 20 Tagen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f37": {
+  "f34": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Anschließend bewacht sie das Gelege für eine Zeitdauer von 2 bis 20 Tagen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f38": {
+  "f35": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "Die Anzahl von Eiern und Gelegen pro Saison variiert stark: von einem einzigen Ei, z. B. bei der kleinsten Landschildkrötenart (Homopus signatus), bis zu 200 Eiern bei den Meeresschildkröten.",
+   "sentence": "Die Anzahl von Eiern und Gelegen pro Saison variiert stark: von einem einzigen Ei, z. B. bei der kleinsten Landschildkrötenart, bis zu 200 Eiern bei den Meeresschildkröten.",
    "section": "Körperbau und Lebensweise"
   },
-  "f39": {
+  "f36": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Die Inkubation erfolgt je nach Art in etwa 50 bis 250 Tagen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f40": {
+  "f37": {
    "kind": "number",
    "value": 250,
    "surface": "250",
    "sentence": "Die Inkubation erfolgt je nach Art in etwa 50 bis 250 Tagen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f41": {
+  "f38": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte (Geochelone nigra) Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
+   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f42": {
+  "f39": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte (Geochelone nigra) Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
+   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f43": {
+  "f40": {
    "kind": "date",
    "value": "1830",
    "surface": "1830",
-   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte (Geochelone nigra) Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
+   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f44": {
+  "f41": {
    "kind": "measure",
    "value": 176,
    "unit": "jahre",
    "surface": "176 Jahre",
-   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte (Geochelone nigra) Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
+   "sentence": "Das Geburtsjahr der Galápagos-Riesenschildkröte Harriet, die im Australia Zoo lebte und am 23. Juni 2006 verstarb, wird auf 1830 geschätzt, womit sie mindestens 176 Jahre alt geworden ist.",
    "section": "Körperbau und Lebensweise"
   },
-  "f45": {
+  "f42": {
    "kind": "measure",
    "value": 100,
    "unit": "jahre",
    "surface": "100 Jahre",
-   "sentence": "Amerikanische Dosenschildkröten (Terrapene) sollen weit über 100 Jahre alt werden können und Meeresschildkröten (Cheloniidae) leben wahrscheinlich 75 Jahre oder mehr.",
+   "sentence": "Amerikanische Dosenschildkröten sollen weit über 100 Jahre alt werden können und Meeresschildkröten leben wahrscheinlich 75 Jahre oder mehr.",
    "section": "Körperbau und Lebensweise"
   },
-  "f46": {
+  "f43": {
    "kind": "measure",
    "value": 75,
    "unit": "jahre",
    "surface": "75 Jahre",
-   "sentence": "Amerikanische Dosenschildkröten (Terrapene) sollen weit über 100 Jahre alt werden können und Meeresschildkröten (Cheloniidae) leben wahrscheinlich 75 Jahre oder mehr.",
+   "sentence": "Amerikanische Dosenschildkröten sollen weit über 100 Jahre alt werden können und Meeresschildkröten leben wahrscheinlich 75 Jahre oder mehr.",
    "section": "Körperbau und Lebensweise"
   },
-  "f47": {
+  "f44": {
    "kind": "measure",
    "value": 40,
    "unit": "jahre",
@@ -390,7 +369,7 @@
    "sentence": "Bei guter Pflege werden als Haustier gehaltene Schmuckschildkröten 40 Jahre und älter.",
    "section": "Körperbau und Lebensweise"
   },
-  "f48": {
+  "f45": {
    "kind": "measure",
    "value": 160,
    "unit": "jahre",
@@ -398,7 +377,7 @@
    "sentence": "Das ehemalige Maskottchen der britischen Marine wurde 160 Jahre alt, obwohl sie die ersten 40 Jahre ihres Lebens an Bord eines Kriegsschiffes vermutlich nicht artgerecht gehalten wurde.",
    "section": "Körperbau und Lebensweise"
   },
-  "f49": {
+  "f46": {
    "kind": "measure",
    "value": 40,
    "unit": "jahre",
@@ -406,173 +385,68 @@
    "sentence": "Das ehemalige Maskottchen der britischen Marine wurde 160 Jahre alt, obwohl sie die ersten 40 Jahre ihres Lebens an Bord eines Kriegsschiffes vermutlich nicht artgerecht gehalten wurde.",
    "section": "Körperbau und Lebensweise"
   },
-  "f50": {
+  "f47": {
    "kind": "measure",
    "value": 10,
    "unit": "jahre",
    "surface": "10 Jahre",
-   "sentence": "Für die Griechische Landschildkröte (Testudo hermanni) beträgt sie in der Natur nur etwa 10 Jahre ab der Geschlechtsreife (Hailey 1990/2000).",
+   "sentence": "Für die Griechische Landschildkröte beträgt sie in der Natur nur etwa 10 Jahre ab der Geschlechtsreife.",
    "section": "Körperbau und Lebensweise"
   },
-  "f51": {
-   "kind": "date",
-   "value": "1990",
-   "surface": "1990",
-   "sentence": "Für die Griechische Landschildkröte (Testudo hermanni) beträgt sie in der Natur nur etwa 10 Jahre ab der Geschlechtsreife (Hailey 1990/2000).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f52": {
-   "kind": "date",
-   "value": "1750",
-   "surface": "1750",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 22,
-   "surface": "22",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f54": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f55": {
+  "f48": {
    "kind": "measure",
    "value": 256,
    "unit": "jahre",
    "surface": "256 Jahre",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
+   "sentence": "Beispiele für besonders alte Schildkröten waren:\nAdwaita, 256 Jahre,\nTuʻi Malila, 188 oder 192 Jahre,\nHarriet, 176 Jahre,\nJonathan,\nTimothy, 160 Jahre,\nKönig Faruqs Schildkröte.",
    "section": "Körperbau und Lebensweise"
   },
-  "f56": {
-   "kind": "date",
-   "value": "1773",
-   "surface": "1773",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f57": {
-   "kind": "date",
-   "value": "1777",
-   "surface": "1777",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f58": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f59": {
-   "kind": "date",
-   "value": "1965",
-   "surface": "1965",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f60": {
+  "f49": {
    "kind": "number",
    "value": 188,
    "surface": "188",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
+   "sentence": "Beispiele für besonders alte Schildkröten waren:\nAdwaita, 256 Jahre,\nTuʻi Malila, 188 oder 192 Jahre,\nHarriet, 176 Jahre,\nJonathan,\nTimothy, 160 Jahre,\nKönig Faruqs Schildkröte.",
    "section": "Körperbau und Lebensweise"
   },
-  "f61": {
+  "f50": {
    "kind": "measure",
    "value": 192,
    "unit": "jahre",
    "surface": "192 Jahre",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
+   "sentence": "Beispiele für besonders alte Schildkröten waren:\nAdwaita, 256 Jahre,\nTuʻi Malila, 188 oder 192 Jahre,\nHarriet, 176 Jahre,\nJonathan,\nTimothy, 160 Jahre,\nKönig Faruqs Schildkröte.",
    "section": "Körperbau und Lebensweise"
   },
-  "f62": {
-   "kind": "date",
-   "value": "1830",
-   "surface": "1830",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f63": {
-   "kind": "number",
-   "value": 23,
-   "surface": "23",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f64": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f65": {
+  "f51": {
    "kind": "measure",
    "value": 176,
    "unit": "jahre",
    "surface": "176 Jahre",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
+   "sentence": "Beispiele für besonders alte Schildkröten waren:\nAdwaita, 256 Jahre,\nTuʻi Malila, 188 oder 192 Jahre,\nHarriet, 176 Jahre,\nJonathan,\nTimothy, 160 Jahre,\nKönig Faruqs Schildkröte.",
    "section": "Körperbau und Lebensweise"
   },
-  "f66": {
-   "kind": "date",
-   "value": "1832",
-   "surface": "1832",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f67": {
-   "kind": "date",
-   "value": "1844",
-   "surface": "1844",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f68": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f69": {
-   "kind": "date",
-   "value": "2004",
-   "surface": "2004",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
-   "section": "Körperbau und Lebensweise"
-  },
-  "f70": {
+  "f52": {
    "kind": "measure",
    "value": 160,
    "unit": "jahre",
    "surface": "160 Jahre",
-   "sentence": "Beispiele für besonders alte Schildkröten (laut traditionellen, meist nicht ganz sicheren Angaben) waren:\nAdwaita (* um 1750 (?); † 22. März 2006), 256 Jahre,\nTuʻi Malila (* um 1773 oder 1777; † 19. Mai 1965), 188 oder 192 Jahre,\nHarriet (* um 1830; † 23. Juni 2006), 176 Jahre,\nJonathan (* um 1832),\nTimothy (* um 1844; † 4. April 2004), 160 Jahre,\nKönig Faruqs Schildkröte (widersprüchliche Angaben zum Geburts- und Sterbedatum).",
+   "sentence": "Beispiele für besonders alte Schildkröten waren:\nAdwaita, 256 Jahre,\nTuʻi Malila, 188 oder 192 Jahre,\nHarriet, 176 Jahre,\nJonathan,\nTimothy, 160 Jahre,\nKönig Faruqs Schildkröte.",
    "section": "Körperbau und Lebensweise"
   },
-  "f71": {
+  "f53": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Neben vielen Arten, die nur 10 bis 50 Zentimeter groß werden, wie z. B. Vertreter der Gattungen Testudo, Emys und Mauremys, finden sich auch die Riesenschildkröten auf den Galápagos-Inseln (Geochelone nigra) bzw. den Seychellen (Dipsochelys dussumieri), die eine Panzerlänge von über einem Meter erreichen.",
+   "sentence": "Neben vielen Arten, die nur 10 bis 50 Zentimeter groß werden, wie z. B. Vertreter der Gattungen Testudo, Emys und Mauremys, finden sich auch die Riesenschildkröten auf den Galápagos-Inseln bzw. den Seychellen, die eine Panzerlänge von über einem Meter erreichen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f72": {
+  "f54": {
    "kind": "number",
    "value": 50,
    "surface": "50",
-   "sentence": "Neben vielen Arten, die nur 10 bis 50 Zentimeter groß werden, wie z. B. Vertreter der Gattungen Testudo, Emys und Mauremys, finden sich auch die Riesenschildkröten auf den Galápagos-Inseln (Geochelone nigra) bzw. den Seychellen (Dipsochelys dussumieri), die eine Panzerlänge von über einem Meter erreichen.",
+   "sentence": "Neben vielen Arten, die nur 10 bis 50 Zentimeter groß werden, wie z. B. Vertreter der Gattungen Testudo, Emys und Mauremys, finden sich auch die Riesenschildkröten auf den Galápagos-Inseln bzw. den Seychellen, die eine Panzerlänge von über einem Meter erreichen.",
    "section": "Körperbau und Lebensweise"
   },
-  "f73": {
+  "f55": {
    "kind": "measure",
    "value": 250,
    "unit": "cm",
@@ -580,7 +454,7 @@
    "sentence": "Als größte Art gilt die Lederschildkröte Dermochelys coriacea mit bis zu 250 cm Panzerlänge und 900 kg Gewicht.",
    "section": "Körperbau und Lebensweise"
   },
-  "f74": {
+  "f56": {
    "kind": "measure",
    "value": 900,
    "unit": "kg",
@@ -588,7 +462,7 @@
    "sentence": "Als größte Art gilt die Lederschildkröte Dermochelys coriacea mit bis zu 250 cm Panzerlänge und 900 kg Gewicht.",
    "section": "Körperbau und Lebensweise"
   },
-  "f75": {
+  "f57": {
    "kind": "measure",
    "value": 7.5,
    "unit": "cm",
@@ -596,7 +470,7 @@
    "sentence": "Die kleinsten Schildkröten sind die Männchen der Gesägten Flachschildkröte Homopus signatus aus Südafrika mit einer Rückenpanzerlänge von durchschnittlich ca. 7,5 cm und einem Gewicht von ca. 70 g.",
    "section": "Körperbau und Lebensweise"
   },
-  "f76": {
+  "f58": {
    "kind": "measure",
    "value": 70,
    "unit": "g",

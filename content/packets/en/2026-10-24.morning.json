@@ -51,611 +51,559 @@
  "facts": {
   "f1": {
    "kind": "date",
-   "value": "1450",
-   "surface": "1450",
-   "sentence": "Josquin Lebloitte dit des Prez (c. 1450 – 1455 – 27 August 1521) was a composer of Renaissance music, who is variously described as French or Franco-Flemish."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1455",
-   "surface": "1455",
-   "sentence": "Josquin Lebloitte dit des Prez (c. 1450 – 1455 – 27 August 1521) was a composer of Renaissance music, who is variously described as French or Franco-Flemish."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 27,
-   "surface": "27",
-   "sentence": "Josquin Lebloitte dit des Prez (c. 1450 – 1455 – 27 August 1521) was a composer of Renaissance music, who is variously described as French or Franco-Flemish."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1521",
-   "surface": "1521",
-   "sentence": "Josquin Lebloitte dit des Prez (c. 1450 – 1455 – 27 August 1521) was a composer of Renaissance music, who is variously described as French or Franco-Flemish."
-  },
-  "f5": {
-   "kind": "date",
    "value": "1477",
    "surface": "1477",
    "sentence": "He was born somewhere in what is now northeastern France or Belgium and by 1477 he was in the choir of René of Anjou, later probably serving under Louis XI of France."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1971",
    "surface": "1971",
    "sentence": "During the 19th- and 20th-century early music revival, publications by August Wilhelm Ambros, Albert Smijers, Helmuth Osthoff, and Edward Lowinsky culminated in a successful academic conference in 1971."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "He was celebrated worldwide on the 500th anniversary of his death in 2021."
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1483",
    "surface": "1483",
    "sentence": "A pair of 1483 documents found in Condé-sur-l'Escaut identify the composer as the nephew of Gille Lebloitte dit des Prez and the son of Gossard Lebloitte dit des Prez.",
    "section": "Name"
   },
-  "f9": {
+  "f5": {
    "kind": "date",
    "value": "1450",
    "surface": "1450",
-   "sentence": "He is now thought to have been born around 1450, and at the latest 1455, making him \"a close contemporary\" of composers Loyset Compère and Heinrich Isaac, and slightly older than Jacob Obrecht.",
+   "sentence": "He is now thought to have been born around 1450, and at the latest 1455, making him \"a close contemporary\"of composers Loyset Compère and Heinrich Isaac, and slightly older than Jacob Obrecht.",
    "section": "Life"
   },
-  "f10": {
+  "f6": {
    "kind": "date",
    "value": "1455",
    "surface": "1455",
-   "sentence": "He is now thought to have been born around 1450, and at the latest 1455, making him \"a close contemporary\" of composers Loyset Compère and Heinrich Isaac, and slightly older than Jacob Obrecht.",
+   "sentence": "He is now thought to have been born around 1450, and at the latest 1455, making him \"a close contemporary\"of composers Loyset Compère and Heinrich Isaac, and slightly older than Jacob Obrecht.",
    "section": "Life"
   },
-  "f11": {
+  "f7": {
    "kind": "date",
    "value": "1448",
    "surface": "1448",
    "sentence": "Josquin's father Gossart dit des Prez was a policeman in the castellany of Ath, who was accused of numerous offenses, including complaints of undue force, and disappears from the records after 1448.",
    "section": "Life"
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1466",
    "surface": "1466",
    "sentence": "Around 1466, perhaps on the death of his father, Josquin was named by his uncle and aunt, Gille Lebloitte dit des Prez and Jacque Banestonne, as their heir.",
    "section": "Life"
   },
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1669",
    "surface": "1669",
    "sentence": "All records from Saint-Quentin were destroyed in 1669, and Josquin may have acquired his later connections with the French royal chapel through an early association with Saint-Quentin.",
    "section": "Life"
   },
-  "f14": {
+  "f10": {
    "kind": "date",
    "value": "1474",
    "surface": "1474",
    "sentence": "The motet was composed before 1474 and names many important musicians of the time, including Antoine Busnois, Johannes Tinctoris, Johannes Regis, Ockeghem and Guillaume Du Fay.",
    "section": "Life"
   },
-  "f15": {
+  "f11": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "The first firm record of Josquin's employment is from 19 April 1477 when he was a singer in the chapel of René of Anjou, in Aix-en-Provence.",
    "section": "Life"
   },
-  "f16": {
+  "f12": {
    "kind": "date",
    "value": "1477",
    "surface": "1477",
    "sentence": "The first firm record of Josquin's employment is from 19 April 1477 when he was a singer in the chapel of René of Anjou, in Aix-en-Provence.",
    "section": "Life"
   },
-  "f17": {
+  "f13": {
    "kind": "date",
    "value": "1475",
    "surface": "1475",
    "sentence": "Other evidence may place him in Aix as early as 1475.",
    "section": "Life"
   },
-  "f18": {
+  "f14": {
    "kind": "date",
    "value": "1478",
    "surface": "1478",
    "sentence": "Josquin remained there until at least 1478, after which his name disappears from historical records for five years.",
    "section": "Life"
   },
-  "f19": {
+  "f15": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "A further connection to Louis XI may perhaps be inferred from Josquin's early motet Misericordias Domini in aeternum cantabo, which could have been a musical tribute to the king, since it ends with the phrase \"In te Domine speravi, non confundar in aeternum\", words from Psalm 30:2 that Louis commissioned Jean Bourdichon to write on 50 scrolls in the Château de Plessis-lez-Tours.",
    "section": "Life"
   },
-  "f20": {
+  "f16": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "A further connection to Louis XI may perhaps be inferred from Josquin's early motet Misericordias Domini in aeternum cantabo, which could have been a musical tribute to the king, since it ends with the phrase \"In te Domine speravi, non confundar in aeternum\", words from Psalm 30:2 that Louis commissioned Jean Bourdichon to write on 50 scrolls in the Château de Plessis-lez-Tours.",
    "section": "Life"
   },
-  "f21": {
+  "f17": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "A further connection to Louis XI may perhaps be inferred from Josquin's early motet Misericordias Domini in aeternum cantabo, which could have been a musical tribute to the king, since it ends with the phrase \"In te Domine speravi, non confundar in aeternum\", words from Psalm 30:2 that Louis commissioned Jean Bourdichon to write on 50 scrolls in the Château de Plessis-lez-Tours.",
    "section": "Life"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1478",
    "surface": "1478",
    "sentence": "A less accepted theory for Josquin's activities between 1478 and 1483 is that he had already entered the household of his future employer Ascanio Sforza in 1480.",
    "section": "Life"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1483",
    "surface": "1483",
    "sentence": "A less accepted theory for Josquin's activities between 1478 and 1483 is that he had already entered the household of his future employer Ascanio Sforza in 1480.",
    "section": "Life"
   },
-  "f24": {
+  "f20": {
    "kind": "date",
    "value": "1480",
    "surface": "1480",
    "sentence": "A less accepted theory for Josquin's activities between 1478 and 1483 is that he had already entered the household of his future employer Ascanio Sforza in 1480.",
    "section": "Life"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "1483",
    "surface": "1483",
    "sentence": "In February 1483 Josquin returned to Condé to claim his inheritance from his aunt and uncle, who may have been killed when the army of Louis XI besieged the town in May 1478 and had the population locked and burned in a church.",
    "section": "Life"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1478",
    "surface": "1478",
    "sentence": "In February 1483 Josquin returned to Condé to claim his inheritance from his aunt and uncle, who may have been killed when the army of Louis XI besieged the town in May 1478 and had the population locked and burned in a church.",
    "section": "Life"
   },
-  "f27": {
+  "f23": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Josquin hired at least 15 procurators to deal with his inheritance, suggesting he was then wealthy.",
    "section": "Life"
   },
-  "f28": {
+  "f24": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "A surviving record indicates that Josquin was in Milan by 15 May 1484, perhaps just after his 1483 trip to Condé.",
    "section": "Life"
   },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "1484",
    "surface": "1484",
    "sentence": "A surviving record indicates that Josquin was in Milan by 15 May 1484, perhaps just after his 1483 trip to Condé.",
    "section": "Life"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1483",
    "surface": "1483",
    "sentence": "A surviving record indicates that Josquin was in Milan by 15 May 1484, perhaps just after his 1483 trip to Condé.",
    "section": "Life"
   },
-  "f31": {
+  "f27": {
    "kind": "date",
    "value": "1484",
    "surface": "1484",
    "sentence": "In March 1484 he may have visited Rome.",
    "section": "Life"
   },
-  "f32": {
+  "f28": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Josquin was employed by the House of Sforza, and on 20 June 1484 came into the service of Cardinal Ascanio Sforza.",
    "section": "Life"
   },
-  "f33": {
+  "f29": {
    "kind": "date",
    "value": "1484",
    "surface": "1484",
    "sentence": "Josquin was employed by the House of Sforza, and on 20 June 1484 came into the service of Cardinal Ascanio Sforza.",
    "section": "Life"
   },
-  "f34": {
+  "f30": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "While working for Ascanio, on 19 August Josquin successfully requested a previously rejected dispensation to be rector at the parish church Saint Aubin without having been ordained a priest.",
    "section": "Life"
   },
-  "f35": {
+  "f31": {
    "kind": "date",
    "value": "1485",
    "surface": "1485",
    "sentence": "Virgo serena to this time, c. 1485.",
    "section": "Life"
   },
-  "f36": {
+  "f32": {
    "kind": "date",
    "value": "1484",
    "surface": "1484",
    "sentence": "Josquin went to Rome with Ascanio in July 1484 for a year, and may have gone to Paris for a litigation suit involving the benefice in Saint Aubin during the later 1480s.",
    "section": "Life"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "1485",
    "surface": "1485",
    "sentence": "Between 1485 and 1489 Josquin may have served under the Hungarian king Matthias Corvinus in Vienna; an account by the Cardinal Girolamo Aleandro in 1539 recalls the archbishop of Esztergom Pal Varday stating that the court of Matthias included \"excellent painters and musicians, among them even Josquin himself\".",
    "section": "Life"
   },
-  "f38": {
+  "f34": {
    "kind": "date",
    "value": "1489",
    "surface": "1489",
    "sentence": "Between 1485 and 1489 Josquin may have served under the Hungarian king Matthias Corvinus in Vienna; an account by the Cardinal Girolamo Aleandro in 1539 recalls the archbishop of Esztergom Pal Varday stating that the court of Matthias included \"excellent painters and musicians, among them even Josquin himself\".",
    "section": "Life"
   },
-  "f39": {
+  "f35": {
    "kind": "date",
    "value": "1539",
    "surface": "1539",
    "sentence": "Between 1485 and 1489 Josquin may have served under the Hungarian king Matthias Corvinus in Vienna; an account by the Cardinal Girolamo Aleandro in 1539 recalls the archbishop of Esztergom Pal Varday stating that the court of Matthias included \"excellent painters and musicians, among them even Josquin himself\".",
    "section": "Life"
   },
-  "f40": {
+  "f36": {
    "kind": "date",
    "value": "1489",
    "surface": "1489",
    "sentence": "Josquin was in Milan again in January 1489, probably until early May, and met the theorist and composer Franchinus Gaffurius there.",
    "section": "Life"
   },
-  "f41": {
+  "f37": {
    "kind": "date",
    "value": "1489",
    "surface": "1489",
    "sentence": "From June 1489 until at least April 1494, Josquin was a member of the papal choir in Rome, under Pope Innocent VIII then the Borgia pope Alexander VI.",
    "section": "Life"
   },
-  "f42": {
+  "f38": {
    "kind": "date",
    "value": "1494",
    "surface": "1494",
    "sentence": "From June 1489 until at least April 1494, Josquin was a member of the papal choir in Rome, under Pope Innocent VIII then the Borgia pope Alexander VI.",
    "section": "Life"
   },
-  "f43": {
+  "f39": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Two months after his arrival, Josquin laid claim to the first of various benefices on 18 August.",
    "section": "Life"
   },
-  "f44": {
+  "f40": {
    "kind": "date",
    "value": "1494",
    "surface": "1494",
    "sentence": "The Sistine Chapel's monthly payment records give the best record of Josquin's career, but all papal chapel records from April 1494 to November 1500 are lost, making it unknown when he left Rome.",
    "section": "Life"
   },
-  "f45": {
+  "f41": {
    "kind": "date",
    "value": "1500",
    "surface": "1500",
    "sentence": "The Sistine Chapel's monthly payment records give the best record of Josquin's career, but all papal chapel records from April 1494 to November 1500 are lost, making it unknown when he left Rome.",
    "section": "Life"
   },
-  "f46": {
+  "f42": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
-   "sentence": "After restorations from 1997 to 1998, the name JOSQUINJ was found as a graffito on the wall of the Sistine Chapel's cantoria (choir gallery).",
+   "sentence": "After restorations from 1997 to 1998, the name JOSQUINJ was found as a graffito on the wall of the Sistine Chapel's cantoria.",
    "section": "Life"
   },
-  "f47": {
+  "f43": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "After restorations from 1997 to 1998, the name JOSQUINJ was found as a graffito on the wall of the Sistine Chapel's cantoria (choir gallery).",
+   "sentence": "After restorations from 1997 to 1998, the name JOSQUINJ was found as a graffito on the wall of the Sistine Chapel's cantoria.",
    "section": "Life"
   },
-  "f48": {
+  "f44": {
    "kind": "date",
    "value": "1711",
    "surface": "1711",
    "sentence": "Andrea Adami da Bolsena notes in his 1711 Osservazioni per ben regolare il coro dei cantori della Cappella Pontificia that in his time Josquin's name was visibly 'sculpted' in the Sistine Chapel's choir room.",
    "section": "Life"
   },
-  "f49": {
+  "f45": {
    "kind": "date",
    "value": "1494",
    "surface": "1494",
    "sentence": "Documents found since the late 20th century have shed some light on Josquin's life and works between 1494 and 1503; at some point he was ordained a priest.",
    "section": "Life"
   },
-  "f50": {
+  "f46": {
    "kind": "date",
    "value": "1503",
    "surface": "1503",
    "sentence": "Documents found since the late 20th century have shed some light on Josquin's life and works between 1494 and 1503; at some point he was ordained a priest.",
    "section": "Life"
   },
-  "f51": {
+  "f47": {
    "kind": "date",
    "value": "1494",
    "surface": "1494",
-   "sentence": "In August 1494 he went to Cambrai, as attested by a vin d'honneur (lit.",
+   "sentence": "In August 1494 he went to Cambrai, as attested by a vin d'honneur record, and he may have returned to Rome soon after.",
    "section": "Life"
   },
-  "f52": {
+  "f48": {
    "kind": "date",
    "value": "1498",
    "surface": "1498",
    "sentence": "From then to 1498 there is no firm evidence for his activities; Fallows suggests he stayed in Cambrai for these four years, citing Johannes Manlius's 1562 book Locorum communium collectanea, which associates Josquin with Cambrai's musical establishment.",
    "section": "Life"
   },
-  "f53": {
+  "f49": {
    "kind": "date",
    "value": "1562",
    "surface": "1562",
    "sentence": "From then to 1498 there is no firm evidence for his activities; Fallows suggests he stayed in Cambrai for these four years, citing Johannes Manlius's 1562 book Locorum communium collectanea, which associates Josquin with Cambrai's musical establishment.",
    "section": "Life"
   },
-  "f54": {
+  "f50": {
    "kind": "date",
    "value": "1498",
    "surface": "1498",
    "sentence": "Two letters between members of the House of Gonzaga and Ascanio Sforza suggest that Josquin may have re-entered the service of the Sforza family in Milan around 1498; they refer to a servant Juschino who delivered the hunting dogs to the Gonzagas.",
    "section": "Life"
   },
-  "f55": {
+  "f51": {
    "kind": "date",
    "value": "1499",
    "surface": "1499",
    "sentence": "Josquin probably did not stay in Milan long, since his former employers were captured during Louis XII's 1499 invasion.",
    "section": "Life"
   },
-  "f56": {
+  "f52": {
    "kind": "number",
    "value": 31,
    "surface": "31",
-   "sentence": "Before he left, he most likely wrote two secular compositions, the well-known frottola El Grillo (\"The Cricket\"), and In te Domine speravi (\"I have placed my hope in you, Lord\"), based on Psalm 31.",
+   "sentence": "Before he left, he most likely wrote two secular compositions, the well-known frottola El Grillo, and In te Domine speravi, based on Psalm 31.",
    "section": "Life"
   },
-  "f57": {
+  "f53": {
    "kind": "date",
    "value": "1498",
    "surface": "1498",
    "sentence": "The latter might be a veiled reference to the religious reformer Girolamo Savonarola, who had been burned at the stake in Florence in 1498, and for whom Josquin seems to have had a special reverence; the text was Savonarola's favorite psalm, a meditation on which he left unfinished in prison when he was executed.",
    "section": "Life"
   },
-  "f58": {
+  "f54": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Josquin was probably in France during the early 16th century; documents found in 2008 indicate that he visited Troyes twice between 1499 and 1501.",
    "section": "Life"
   },
-  "f59": {
+  "f55": {
    "kind": "date",
    "value": "1499",
    "surface": "1499",
    "sentence": "Josquin was probably in France during the early 16th century; documents found in 2008 indicate that he visited Troyes twice between 1499 and 1501.",
    "section": "Life"
   },
-  "f60": {
+  "f56": {
    "kind": "date",
    "value": "1501",
    "surface": "1501",
    "sentence": "Josquin was probably in France during the early 16th century; documents found in 2008 indicate that he visited Troyes twice between 1499 and 1501.",
    "section": "Life"
   },
-  "f61": {
+  "f57": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "The long doubted account from Hémeré that Josquin had a canonry at Saint-Quentin was confirmed by documentary evidence that he had exchanged it by 30 May 1503.",
    "section": "Life"
   },
-  "f62": {
+  "f58": {
    "kind": "date",
    "value": "1503",
    "surface": "1503",
    "sentence": "The long doubted account from Hémeré that Josquin had a canonry at Saint-Quentin was confirmed by documentary evidence that he had exchanged it by 30 May 1503.",
    "section": "Life"
   },
-  "f63": {
+  "f59": {
    "kind": "date",
    "value": "1547",
    "surface": "1547",
-   "sentence": "According to Glarean in the Dodecachordon of 1547, the motet Memor esto verbi tui servo tuo (\"Remember thy promise unto thy servant\") was composed as a gentle reminder to the king to keep his promise of a benefice to Josquin.",
+   "sentence": "According to Glarean in the Dodecachordon of 1547, the motet Memor esto verbi tui servo tuo was composed as a gentle reminder to the king to keep his promise of a benefice to Josquin.",
    "section": "Life"
   },
-  "f64": {
+  "f60": {
    "kind": "number",
    "value": 130,
    "surface": "130",
    "sentence": "The five-voice De profundis, a setting of Psalm 130, seems to have been written for a royal funeral, perhaps that of Louis XII, Anne of Brittany or Philip I of Castile.",
    "section": "Life"
   },
-  "f65": {
+  "f61": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Josquin arrived in Ferrara by 30 May 1503, to serve Ercole I d'Este, Duke of Ferrara, an arts patron who had been trying for many years to replace the composer and choirmaster Johannes Martini, who had recently died.",
    "section": "Life"
   },
-  "f66": {
+  "f62": {
    "kind": "date",
    "value": "1503",
    "surface": "1503",
    "sentence": "Josquin arrived in Ferrara by 30 May 1503, to serve Ercole I d'Este, Duke of Ferrara, an arts patron who had been trying for many years to replace the composer and choirmaster Johannes Martini, who had recently died.",
    "section": "Life"
   },
-  "f67": {
+  "f63": {
    "kind": "date",
    "value": "1499",
    "surface": "1499",
    "sentence": "Ercole is known to have met with Josquin's former employer Louis XII throughout 1499 to 1502, and these meetings may have led to his service for the Duke.",
    "section": "Life"
   },
-  "f68": {
+  "f64": {
    "kind": "date",
    "value": "1502",
    "surface": "1502",
    "sentence": "Ercole is known to have met with Josquin's former employer Louis XII throughout 1499 to 1502, and these meetings may have led to his service for the Duke.",
    "section": "Life"
   },
-  "f69": {
-   "kind": "number",
-   "value": 14,
-   "surface": "14",
-   "sentence": "The first of these was from Girolamo da Sestola (nicknamed \"Coglia\") to Ercole, explaining: \"My lord, I believe that there is neither lord nor king who will now have a better chapel than yours if your lordship sends for Josquin [...] and by having Josquin in our chapel I want to place a crown upon this chapel of ours\" (14 August 1502).",
-   "section": "Life"
-  },
-  "f70": {
-   "kind": "date",
-   "value": "1502",
-   "surface": "1502",
-   "sentence": "The first of these was from Girolamo da Sestola (nicknamed \"Coglia\") to Ercole, explaining: \"My lord, I believe that there is neither lord nor king who will now have a better chapel than yours if your lordship sends for Josquin [...] and by having Josquin in our chapel I want to place a crown upon this chapel of ours\" (14 August 1502).",
-   "section": "Life"
-  },
-  "f71": {
+  "f65": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "It is true that Josquin composes better, but he composes when he wants to and not when one wants him to, and he is asking 200 ducats in salary while Isaac will come for 120—but your lordship will decide.\"",
    "section": "Life"
   },
-  "f72": {
+  "f66": {
    "kind": "number",
    "value": 120,
    "surface": "120",
    "sentence": "It is true that Josquin composes better, but he composes when he wants to and not when one wants him to, and he is asking 200 ducats in salary while Isaac will come for 120—but your lordship will decide.\"",
    "section": "Life"
   },
-  "f73": {
+  "f67": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "Around three months later, Josquin was chosen; his salary of 200 ducats was the highest ever for a ducal chapel member.",
    "section": "Life"
   },
-  "f74": {
+  "f68": {
    "kind": "date",
    "value": "1503",
    "surface": "1503",
    "sentence": "An outbreak of the plague in 1503 prompted the evacuation of the Duke and his family, as well as two-thirds of the citizens, and Josquin left by April 1504.",
    "section": "Life"
   },
-  "f75": {
+  "f69": {
    "kind": "date",
    "value": "1504",
    "surface": "1504",
    "sentence": "An outbreak of the plague in 1503 prompted the evacuation of the Duke and his family, as well as two-thirds of the citizens, and Josquin left by April 1504.",
    "section": "Life"
   },
-  "f76": {
+  "f70": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Josquin probably moved from Ferrara to his home region of Condé-sur-l'Escaut, and became provost of the collegiate church of Notre-Dame on 3 May 1504; he may have obtained the post from Philip I's sponsorship.",
    "section": "Life"
   },
-  "f77": {
+  "f71": {
    "kind": "date",
    "value": "1504",
    "surface": "1504",
    "sentence": "Josquin probably moved from Ferrara to his home region of Condé-sur-l'Escaut, and became provost of the collegiate church of Notre-Dame on 3 May 1504; he may have obtained the post from Philip I's sponsorship.",
    "section": "Life"
   },
-  "f78": {
+  "f72": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "His role gave him political responsibility, and put him in charge of a workforce which included a dean, a treasurer, 25 canons, 18 chaplains, 16 vicars, 6 choir-boys and other priests.",
    "section": "Life"
   },
-  "f79": {
+  "f73": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "His role gave him political responsibility, and put him in charge of a workforce which included a dean, a treasurer, 25 canons, 18 chaplains, 16 vicars, 6 choir-boys and other priests.",
    "section": "Life"
   },
-  "f80": {
+  "f74": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "His role gave him political responsibility, and put him in charge of a workforce which included a dean, a treasurer, 25 canons, 18 chaplains, 16 vicars, 6 choir-boys and other priests.",
    "section": "Life"
   },
-  "f81": {
+  "f75": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "His role gave him political responsibility, and put him in charge of a workforce which included a dean, a treasurer, 25 canons, 18 chaplains, 16 vicars, 6 choir-boys and other priests.",
    "section": "Life"
   },
-  "f82": {
+  "f76": {
    "kind": "date",
    "value": "1504",
    "surface": "1504",
-   "sentence": "Very few records of his activity survive from this time; he bought a house in September 1504, and sold it (or a different one) in November 1508.",
+   "sentence": "Very few records of his activity survive from this time; he bought a house in September 1504, and sold it in November 1508.",
    "section": "Life"
   },
-  "f83": {
+  "f77": {
    "kind": "date",
    "value": "1508",
    "surface": "1508",
-   "sentence": "Very few records of his activity survive from this time; he bought a house in September 1504, and sold it (or a different one) in November 1508.",
+   "sentence": "Very few records of his activity survive from this time; he bought a house in September 1504, and sold it in November 1508.",
    "section": "Life"
   },
-  "f84": {
+  "f78": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "He died on 27 August 1521 and left his possessions to Condé's chapter of Notre Dame.",
    "section": "Life"
   },
-  "f85": {
+  "f79": {
    "kind": "date",
    "value": "1521",
    "surface": "1521",
    "sentence": "He died on 27 August 1521 and left his possessions to Condé's chapter of Notre Dame.",
    "section": "Life"
   },
-  "f86": {
-   "kind": "date",
-   "value": "1562",
-   "surface": "1562",
-   "sentence": "He was buried in front of the church's high altar, but his tomb was destroyed, either during the French Wars of Religion (1562–1598) or in 1793 when the church was demolished amid the French Revolution.",
-   "section": "Life"
-  },
-  "f87": {
-   "kind": "date",
-   "value": "1598",
-   "surface": "1598",
-   "sentence": "He was buried in front of the church's high altar, but his tomb was destroyed, either during the French Wars of Religion (1562–1598) or in 1793 when the church was demolished amid the French Revolution.",
-   "section": "Life"
-  },
-  "f88": {
+  "f80": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
-   "sentence": "He was buried in front of the church's high altar, but his tomb was destroyed, either during the French Wars of Religion (1562–1598) or in 1793 when the church was demolished amid the French Revolution.",
+   "sentence": "He was buried in front of the church's high altar, but his tomb was destroyed, either during the French Wars of Religion or in 1793 when the church was demolished amid the French Revolution.",
    "section": "Life"
   }
  },

@@ -46,144 +46,120 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Alfred Russel Wallace (8 January 1823 – 7 November 1913) was an English naturalist, explorer, geographer, anthropologist and illustrator."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1823",
-   "surface": "1823",
-   "sentence": "Alfred Russel Wallace (8 January 1823 – 7 November 1913) was an English naturalist, explorer, geographer, anthropologist and illustrator."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Alfred Russel Wallace (8 January 1823 – 7 November 1913) was an English naturalist, explorer, geographer, anthropologist and illustrator."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1913",
-   "surface": "1913",
-   "sentence": "Alfred Russel Wallace (8 January 1823 – 7 November 1913) was an English naturalist, explorer, geographer, anthropologist and illustrator."
-  },
-  "f5": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "He independently conceived the theory of evolution through natural selection; his 1858 paper on the subject was published that year alongside extracts from Charles Darwin's writings on the topic."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
-   "sentence": "It spurred Darwin to set aside the \"big species book\" he was drafting and to quickly write an abstract of it, which was published in 1859 as On the Origin of Species."
+   "sentence": "It spurred Darwin to set aside the \"big species book\"he was drafting and to quickly write an abstract of it, which was published in 1859 as On the Origin of Species."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "1864",
    "surface": "1864",
    "sentence": "In 1864 he was the first to propose that during the later stages of human evolution natural selection would have primarily acted on mental faculties rather than on the physical form."
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1904",
    "surface": "1904",
    "sentence": "Wallace's 1904 book Man's Place in the Universe was the first serious attempt by a biologist to evaluate the likelihood of life on other planets."
   },
-  "f9": {
+  "f5": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "He wrote prolifically on both scientific and social issues; his account of his adventures and observations during his explorations in Southeast Asia, The Malay Archipelago, was first published in 1869."
   },
-  "f10": {
+  "f6": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Alfred Russel Wallace was born on 8 January 1823 in Llanbadoc, Monmouthshire.",
    "section": "Biography"
   },
-  "f11": {
+  "f7": {
    "kind": "date",
    "value": "1823",
    "surface": "1823",
    "sentence": "Alfred Russel Wallace was born on 8 January 1823 in Llanbadoc, Monmouthshire.",
    "section": "Biography"
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "He attended Hertford Grammar School until 1837, when he reached the age of 14, the normal leaving age for a pupil not going on to university.",
    "section": "Biography"
   },
-  "f13": {
+  "f9": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "He attended Hertford Grammar School until 1837, when he reached the age of 14, the normal leaving age for a pupil not going on to university.",
    "section": "Biography"
   },
-  "f14": {
+  "f10": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Wallace then moved to London to board with his older brother John, a 19-year-old apprentice builder.",
    "section": "Biography"
   },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "He left London in 1837 to live with William and work as his apprentice for six years.",
    "section": "Biography"
   },
-  "f16": {
+  "f12": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "Then at the end of 1839, they moved to Kington, Herefordshire, near the Welsh border, before eventually settling at Neath in Wales.",
    "section": "Biography"
   },
-  "f17": {
+  "f13": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "Between 1840 and 1843, Wallace worked as a land surveyor in the countryside of the west of England and Wales.",
    "section": "Biography"
   },
-  "f18": {
+  "f14": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "Between 1840 and 1843, Wallace worked as a land surveyor in the countryside of the west of England and Wales.",
    "section": "Biography"
   },
-  "f19": {
+  "f15": {
    "kind": "date",
    "value": "1841",
    "surface": "1841",
    "sentence": "The natural history of his surroundings aroused his interest; from 1841 he collected flowers and plants as an amateur botanist.",
    "section": "Biography"
   },
-  "f20": {
+  "f16": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "In 1843 Wallace's father died, and a decline in demand for surveying meant William's business no longer had work available.",
    "section": "Biography"
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "1844",
    "surface": "1844",
    "sentence": "For a short time Wallace was unemployed, then early in 1844 he was engaged by the Collegiate School in Leicester to teach drawing, mapmaking, and surveying.",
    "section": "Biography"
   },
-  "f22": {
+  "f18": {
    "kind": "measure",
    "value": 19,
    "unit": "years",
@@ -191,56 +167,56 @@
    "sentence": "One evening Wallace met the entomologist Henry Walter Bates, who was 19 years old, and had published an 1843 paper on beetles in The Zoologist.",
    "section": "Biography"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "One evening Wallace met the entomologist Henry Walter Bates, who was 19 years old, and had published an 1843 paper on beetles in The Zoologist.",
    "section": "Biography"
   },
-  "f24": {
+  "f20": {
    "kind": "date",
    "value": "1845",
    "surface": "1845",
    "sentence": "When Wallace's brother William died in March 1845, Wallace left his teaching position to assume control of his brother's firm in Neath, but his brother John and he were unable to make the business work.",
    "section": "Biography"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "1843",
    "surface": "1843",
    "sentence": "It carried out projects including the design of a building for the Neath Mechanics' Institute, founded in 1843.",
    "section": "Biography"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1845",
    "surface": "1845",
    "sentence": "By the end of 1845, Wallace was convinced by Robert Chambers's anonymously published treatise on progressive development, Vestiges of the Natural History of Creation, but he found Bates was more critical.",
    "section": "Biography"
   },
-  "f27": {
+  "f23": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Wallace re-read Darwin's Journal, and on 11 April 1846 wrote \"As the Journal of a scientific traveller, it is second only to Humboldt's 'Personal Narrative'—as a work of general interest, perhaps superior to it.\"",
    "section": "Biography"
   },
-  "f28": {
+  "f24": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "Wallace re-read Darwin's Journal, and on 11 April 1846 wrote \"As the Journal of a scientific traveller, it is second only to Humboldt's 'Personal Narrative'—as a work of general interest, perhaps superior to it.\"",
    "section": "Biography"
   },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "In the autumn of 1846, Wallace and his brother John purchased a cottage near Neath, where they lived with their mother and sister Fanny.",
    "section": "Biography"
   },
-  "f30": {
+  "f26": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
@@ -248,7 +224,7 @@
    "sentence": "They therefore engaged as their agent Samuel Stevens who would advertise and arrange sales to institutions and private collectors, for a commission of 20% on sales plus 5% on despatching freight and remittances of money.",
    "section": "Biography"
   },
-  "f31": {
+  "f27": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -256,518 +232,462 @@
    "sentence": "They therefore engaged as their agent Samuel Stevens who would advertise and arrange sales to institutions and private collectors, for a commission of 20% on sales plus 5% on despatching freight and remittances of money.",
    "section": "Biography"
   },
-  "f32": {
+  "f28": {
    "kind": "date",
    "value": "1848",
    "surface": "1848",
    "sentence": "In 1848, Wallace and Bates left for Brazil aboard the Mischief.",
    "section": "Biography"
   },
-  "f33": {
+  "f29": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
    "sentence": "In 1849, they were briefly joined by another young explorer, the botanist Richard Spruce, along with Wallace's younger brother Herbert.",
    "section": "Biography"
   },
-  "f34": {
+  "f30": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "Wallace spent August 1850 through May 1852 on the Rio Negro using his surveying skills to chart it and its tributary, the Uaupés, with sextant and compass.",
    "section": "Biography"
   },
-  "f35": {
+  "f31": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "Wallace spent August 1850 through May 1852 on the Rio Negro using his surveying skills to chart it and its tributary, the Uaupés, with sextant and compass.",
    "section": "Biography"
   },
-  "f36": {
+  "f32": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "On 12 July 1852, Wallace embarked for the UK on the brig Helen.",
    "section": "Biography"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "On 12 July 1852, Wallace embarked for the UK on the brig Helen.",
    "section": "Biography"
   },
-  "f38": {
+  "f34": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "After 25 days at sea, the ship's cargo caught fire, and the crew was forced to abandon ship.",
    "section": "Biography"
   },
-  "f39": {
+  "f35": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "The Jordeson's provisions were strained by the unexpected passengers, but after a difficult passage on short rations, the ship reached its destination on 1 October 1852.",
    "section": "Biography"
   },
-  "f40": {
+  "f36": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "The Jordeson's provisions were strained by the unexpected passengers, but after a difficult passage on short rations, the ship reached its destination on 1 October 1852.",
    "section": "Biography"
   },
-  "f41": {
+  "f37": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "The lost collection had been insured for £200 by Stevens.",
    "section": "Biography"
   },
-  "f42": {
+  "f38": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "After his return to Britain, Wallace spent 18 months in London living on the insurance payment, and selling a few specimens that had been shipped home.",
    "section": "Biography"
   },
-  "f43": {
+  "f39": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
    "sentence": "In March 1853 Wallace wrote to Sir James Brooke, Rajah of Sarawak, who was then in London, and who arranged assistance in Sarawak for Wallace.",
    "section": "Biography"
   },
-  "f44": {
+  "f40": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "After presenting a paper and a large map of the Rio Negro to the RGS, Wallace was elected a Fellow of the society on 27 February 1854.",
+   "sentence": "He later recalled that, while researching in the insect-room of the British Museum, he was introduced to Darwin and they \"had a few minutes' conversation.\"After presenting a paper and a large map of the Rio Negro to the RGS, Wallace was elected a Fellow of the society on 27 February 1854.",
    "section": "Biography"
   },
-  "f45": {
+  "f41": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "After presenting a paper and a large map of the Rio Negro to the RGS, Wallace was elected a Fellow of the society on 27 February 1854.",
+   "sentence": "He later recalled that, while researching in the insect-room of the British Museum, he was introduced to Darwin and they \"had a few minutes' conversation.\"After presenting a paper and a large map of the Rio Negro to the RGS, Wallace was elected a Fellow of the society on 27 February 1854.",
    "section": "Biography"
   },
-  "f46": {
+  "f42": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Wallace and a young assistant, Charles Allen, embarked at Southampton on 4 March 1854.",
    "section": "Biography"
   },
-  "f47": {
+  "f43": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "Wallace and a young assistant, Charles Allen, embarked at Southampton on 4 March 1854.",
    "section": "Biography"
   },
-  "f48": {
+  "f44": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "After the overland journey to Suez and another change of ship at Ceylon they disembarked at Singapore on 19 April 1854.",
    "section": "Biography"
   },
-  "f49": {
+  "f45": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "After the overland journey to Suez and another change of ship at Ceylon they disembarked at Singapore on 19 April 1854.",
    "section": "Biography"
   },
-  "f50": {
+  "f46": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "From 1854 to 1862, Wallace travelled around the islands of the Malay Archipelago or East Indies (now Singapore, Malaysia and Indonesia).",
+   "sentence": "From 1854 to 1862, Wallace travelled around the islands of the Malay Archipelago or East Indies.",
    "section": "Biography"
   },
-  "f51": {
+  "f47": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
-   "sentence": "From 1854 to 1862, Wallace travelled around the islands of the Malay Archipelago or East Indies (now Singapore, Malaysia and Indonesia).",
+   "sentence": "From 1854 to 1862, Wallace travelled around the islands of the Malay Archipelago or East Indies.",
    "section": "Biography"
   },
-  "f52": {
+  "f48": {
    "kind": "number",
    "value": 125660,
    "surface": "125,660",
    "sentence": "His total was 125,660 specimens, most of which were insects including more than 83,000 beetles.",
    "section": "Biography"
   },
-  "f53": {
+  "f49": {
    "kind": "number",
    "value": 83000,
    "surface": "83,000",
    "sentence": "His total was 125,660 specimens, most of which were insects including more than 83,000 beetles.",
    "section": "Biography"
   },
-  "f54": {
+  "f50": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "He also hired guides, porters, cooks and boat crews, so well over 100 individuals worked for him.",
    "section": "Biography"
   },
-  "f55": {
+  "f51": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "After collecting expeditions to Bukit Timah Hill in Singapore, and to Malacca, Wallace and Allen reached Sarawak in October 1854, and were welcomed at Kuching by Sir James Brooke's (then) heir Captain John Brooke.",
+   "sentence": "After collecting expeditions to Bukit Timah Hill in Singapore, and to Malacca, Wallace and Allen reached Sarawak in October 1854, and were welcomed at Kuching by Sir James Brooke's heir Captain John Brooke.",
    "section": "Biography"
   },
-  "f56": {
+  "f52": {
    "kind": "date",
    "value": "1855",
    "surface": "1855",
    "sentence": "Wallace hired a Malay named Ali as a general servant and cook, and spent the early 1855 wet season in a small Dyak house at the foot of Mount Santubong, overlooking a branch outlet of the Sarawak River.",
    "section": "Biography"
   },
-  "f57": {
+  "f53": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "They spent time with Sir James, then in February 1856 Allen chose to stay on with the missionaries at Kuching.",
    "section": "Biography"
   },
-  "f58": {
+  "f54": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "On reaching Singapore in May 1856, Wallace hired a bird-skinner.",
    "section": "Biography"
   },
-  "f59": {
+  "f55": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "With Ali as cook, they collected for two days on Bali, then from 17 June to 30 August on Lombok.",
    "section": "Biography"
   },
-  "f60": {
+  "f56": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "With Ali as cook, they collected for two days on Bali, then from 17 June to 30 August on Lombok.",
    "section": "Biography"
   },
-  "f61": {
+  "f57": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "In December 1856, Darwin had written to contacts worldwide to get specimens for his continuing research into variation under domestication.",
    "section": "Biography"
   },
-  "f62": {
+  "f58": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "Stevens arranged publication of relevant paragraphs in the January 1857 issue of The Zoologist.",
    "section": "Biography"
   },
-  "f63": {
+  "f59": {
    "kind": "number",
    "value": 5000,
    "surface": "5000",
    "sentence": "Wallace collected and preserved the delicate insect specimens, while most of the birds were collected and prepared by his assistants; of those, Ali collected and prepared around 5000.",
    "section": "Biography"
   },
-  "f64": {
+  "f60": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "In 1858 he sent an article outlining his theory to Darwin; it was published, along with a description of Darwin's theory, that same year.",
    "section": "Biography"
   },
-  "f65": {
+  "f61": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "Accounts of Wallace's studies and adventures were eventually published in 1869 as The Malay Archipelago.",
    "section": "Biography"
   },
-  "f66": {
+  "f62": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "A set of 80 bird skeletons Wallace collected in Indonesia are held in the Cambridge University Museum of Zoology, and described as of exceptional historical significance.",
    "section": "Biography"
   },
-  "f67": {
+  "f63": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
    "sentence": "In 1862, Wallace returned to Britain, where he moved in with his sister Fanny Sims and her husband Thomas.",
    "section": "Biography"
   },
-  "f68": {
+  "f64": {
    "kind": "date",
    "value": "1865",
    "surface": "1865",
    "sentence": "In 1865, he began investigating spiritualism.",
    "section": "Biography"
   },
-  "f69": {
+  "f65": {
    "kind": "date",
    "value": "1864",
    "surface": "1864",
    "sentence": "After a year of courtship, Wallace became engaged in 1864 to a young woman whom, in his autobiography, he would only identify as Miss L. Miss L. was the daughter of Lewis Leslie who played chess with Wallace, but to Wallace's great dismay, she broke off the engagement.",
    "section": "Biography"
   },
-  "f70": {
+  "f66": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "In 1866, Wallace married Annie Mitten.",
    "section": "Biography"
   },
-  "f71": {
+  "f67": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "In 1872, Wallace built the Dell, a house of concrete, on land he leased in Grays in Essex, where he lived until 1876.",
    "section": "Biography"
   },
-  "f72": {
+  "f68": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "In 1872, Wallace built the Dell, a house of concrete, on land he leased in Grays in Essex, where he lived until 1876.",
    "section": "Biography"
   },
-  "f73": {
-   "kind": "date",
-   "value": "1867",
-   "surface": "1867",
-   "sentence": "The Wallaces had three children: Herbert (1867–1874), Violet (1869–1945), and William (1871–1951).",
-   "section": "Biography"
-  },
-  "f74": {
-   "kind": "date",
-   "value": "1874",
-   "surface": "1874",
-   "sentence": "The Wallaces had three children: Herbert (1867–1874), Violet (1869–1945), and William (1871–1951).",
-   "section": "Biography"
-  },
-  "f75": {
-   "kind": "date",
-   "value": "1869",
-   "surface": "1869",
-   "sentence": "The Wallaces had three children: Herbert (1867–1874), Violet (1869–1945), and William (1871–1951).",
-   "section": "Biography"
-  },
-  "f76": {
-   "kind": "date",
-   "value": "1945",
-   "surface": "1945",
-   "sentence": "The Wallaces had three children: Herbert (1867–1874), Violet (1869–1945), and William (1871–1951).",
-   "section": "Biography"
-  },
-  "f77": {
-   "kind": "date",
-   "value": "1871",
-   "surface": "1871",
-   "sentence": "The Wallaces had three children: Herbert (1867–1874), Violet (1869–1945), and William (1871–1951).",
-   "section": "Biography"
-  },
-  "f78": {
-   "kind": "date",
-   "value": "1951",
-   "surface": "1951",
-   "sentence": "The Wallaces had three children: Herbert (1867–1874), Violet (1869–1945), and William (1871–1951).",
-   "section": "Biography"
-  },
-  "f79": {
+  "f69": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "To remain financially solvent, Wallace worked grading government examinations, wrote 25 papers for publication between 1872 and 1876 for various modest sums, and was paid by Lyell and Darwin to help edit some of their works.",
    "section": "Biography"
   },
-  "f80": {
+  "f70": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "To remain financially solvent, Wallace worked grading government examinations, wrote 25 papers for publication between 1872 and 1876 for various modest sums, and was paid by Lyell and Darwin to help edit some of their works.",
    "section": "Biography"
   },
-  "f81": {
+  "f71": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "To remain financially solvent, Wallace worked grading government examinations, wrote 25 papers for publication between 1872 and 1876 for various modest sums, and was paid by Lyell and Darwin to help edit some of their works.",
    "section": "Biography"
   },
-  "f82": {
+  "f72": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "In 1876, Wallace needed a £500 advance from the publisher of The Geographical Distribution of Animals to avoid having to sell some of his personal property.",
    "section": "Biography"
   },
-  "f83": {
+  "f73": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "In 1876, Wallace needed a £500 advance from the publisher of The Geographical Distribution of Animals to avoid having to sell some of his personal property.",
    "section": "Biography"
   },
-  "f84": {
+  "f74": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "When the £200 annual pension was awarded in 1881, it helped to stabilise Wallace's financial position by supplementing the income from his writings.",
    "section": "Biography"
   },
-  "f85": {
+  "f75": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
    "sentence": "When the £200 annual pension was awarded in 1881, it helped to stabilise Wallace's financial position by supplementing the income from his writings.",
    "section": "Biography"
   },
-  "f86": {
+  "f76": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
    "sentence": "In 1881, Wallace was elected as the first president of the newly formed Land Nationalisation Society.",
    "section": "Biography"
   },
-  "f87": {
+  "f77": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "In 1889, Wallace read Looking Backward by Edward Bellamy and declared himself a socialist, despite his earlier foray as a speculative investor.",
    "section": "Biography"
   },
-  "f88": {
+  "f78": {
    "kind": "date",
    "value": "1890",
    "surface": "1890",
-   "sentence": "In his 1890 article \"Human Selection\" he wrote, \"Those who succeed in the race for wealth are by no means the best or the most intelligent ...\"",
+   "sentence": "In his 1890 article \"Human Selection\"he wrote, \"Those who succeed in the race for wealth are by no means the best or the most intelligent...\"He said, \"The world does not want the eugenicist to set it straight,\"\"Give the people good conditions, improve their environment, and all will tend towards the highest type.",
    "section": "Biography"
   },
-  "f89": {
+  "f79": {
    "kind": "date",
    "value": "1899",
    "surface": "1899",
-   "sentence": "In an 1899 essay, he called for popular opinion to be rallied against warfare by showing people \"that all modern wars are dynastic; that they are caused by the ambition, the interests, the jealousies, and the insatiable greed of power of their rulers, or of the great mercantile and financial classes which have power and influence over their rulers; and that the results of war are never good for the people, who yet bear all its burthens (burdens)\".",
+   "sentence": "In an 1899 essay, he called for popular opinion to be rallied against warfare by showing people \"that all modern wars are dynastic; that they are caused by the ambition, the interests, the jealousies, and the insatiable greed of power of their rulers, or of the great mercantile and financial classes which have power and influence over their rulers; and that the results of war are never good for the people, who yet bear all its burthens\".",
    "section": "Biography"
   },
-  "f90": {
+  "f80": {
    "kind": "date",
    "value": "1909",
    "surface": "1909",
    "sentence": "In a letter published by the Daily Mail in 1909, with aviation in its infancy, he advocated an international treaty to ban the military use of aircraft, arguing against the idea \"that this new horror is 'inevitable', and that all we can do is to be sure and be in the front rank of the aerial assassins—for surely no other term can so fitly describe the dropping of, say, ten thousand bombs at midnight into an enemy's capital from an invisible flight of airships.\"",
    "section": "Biography"
   },
-  "f91": {
+  "f81": {
    "kind": "date",
    "value": "1898",
    "surface": "1898",
    "sentence": "In 1898, he wrote a paper advocating a pure paper money system, not backed by silver or gold, which impressed the economist Irving Fisher so much that he dedicated his 1920 book Stabilizing the Dollar to Wallace.",
    "section": "Biography"
   },
-  "f92": {
+  "f82": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "In 1898, he wrote a paper advocating a pure paper money system, not backed by silver or gold, which impressed the economist Irving Fisher so much that he dedicated his 1920 book Stabilizing the Dollar to Wallace.",
    "section": "Biography"
   },
-  "f93": {
+  "f83": {
    "kind": "date",
    "value": "1909",
    "surface": "1909",
    "sentence": "In a letter read at a 1909 woman's suffrage meeting and published in The Times Wallace stated that he had long supported women having the vote, because he believed that it was a fundamental principle that all human beings living in a country, including women, should have the same legal rights and liberties.",
    "section": "Biography"
   },
-  "f94": {
+  "f84": {
    "kind": "date",
    "value": "1898",
    "surface": "1898",
    "sentence": "In 1898, Wallace published The Wonderful Century: Its Successes and Its Failures, about developments in the 19th century.",
    "section": "Biography"
   },
-  "f95": {
+  "f85": {
    "kind": "date",
    "value": "1880",
    "surface": "1880",
    "sentence": "In 1880, he published Island Life as a sequel to The Geographic Distribution of Animals.",
    "section": "Biography"
   },
-  "f96": {
+  "f86": {
    "kind": "date",
    "value": "1886",
    "surface": "1886",
    "sentence": "In November 1886, Wallace began a ten-month trip to the United States to give a series of popular lectures.",
    "section": "Biography"
   },
-  "f97": {
+  "f87": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
    "sentence": "He then spent a week in Colorado, with the American botanist Alice Eastwood as his guide, exploring the flora of the Rocky Mountains and gathering evidence that would lead him to a theory on how glaciation might explain certain commonalities between the mountain flora of Europe, Asia and North America, which he published in 1891 in the paper \"English and American Flowers\".",
    "section": "Biography"
   },
-  "f98": {
+  "f88": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "His 1889 book Darwinism used information he collected on his American trip and information he had compiled for the lectures.",
    "section": "Biography"
   },
-  "f99": {
+  "f89": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "On 7 November 1913, Wallace died at home, aged 90, in the country house he called Old Orchard, which he had built a decade earlier.",
    "section": "Biography"
   },
-  "f100": {
+  "f90": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
    "sentence": "On 7 November 1913, Wallace died at home, aged 90, in the country house he called Old Orchard, which he had built a decade earlier.",
    "section": "Biography"
   },
-  "f101": {
+  "f91": {
    "kind": "number",
    "value": 90,
    "surface": "90",
    "sentence": "On 7 November 1913, Wallace died at home, aged 90, in the country house he called Old Orchard, which he had built a decade earlier.",
    "section": "Biography"
   },
-  "f102": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "(Vol.1, Vol.2)\nSome of Wallace's friends suggested that he be buried in Westminster Abbey, but his wife followed his wishes and had him buried in the small cemetery at Broadstone, Dorset.",
-   "section": "Biography"
-  },
-  "f103": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "(Vol.1, Vol.2)\nSome of Wallace's friends suggested that he be buried in Westminster Abbey, but his wife followed his wishes and had him buried in the small cemetery at Broadstone, Dorset.",
-   "section": "Biography"
-  },
-  "f104": {
+  "f92": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "The medallion was unveiled on 1 November 1915.",
    "section": "Biography"
   },
-  "f105": {
+  "f93": {
    "kind": "date",
    "value": "1915",
    "surface": "1915",

@@ -6,12 +6,22 @@ import { PACES, PACE_IDS, pageRange } from '../pace/pace';
 import type { Page, PaceId, Thing } from '../schema/thing';
 import { countWords, splitSentences } from '../text/sentences';
 import { normalizeTypography, type Lang } from '../typography/typography';
-import { capitalizeFirst, cleanSentence, danglingPronoun, dropParentheticals, fitToWords, tidy } from './clean';
+import {
+  capitalizeFirst, cleanSentence, danglingPronoun, dropAppositive, dropParentheticals, fitToWords, isDefinition, isEtymology,
+  lacksSubject, proseForSplitting, tidy,
+} from './clean';
 import type { Packet } from './packet';
 
 export const QUALITY_THRESHOLD = 0.6;
 
-type Cand = { text: string; idx: number; section: string | null; score: number; dangling: boolean; facts: string[] };
+type Cand = {
+  text: string; idx: number; section: string | null; score: number; facts: string[];
+  dangling: boolean;
+  /** About the name, not the thing: never an opener; only Deep may use it, late. */
+  etymology: boolean;
+  /** Names the topic with a copula: "X is a …". The opener comes from these. */
+  definition: boolean;
+};
 
 export type ComposeResult = { thing: Thing; notes: string[] };
 
@@ -20,16 +30,23 @@ function candidates(p: Packet): Cand[] {
   const lang = p.lang;
   const out: Cand[] = [];
   const add = (text: string, section: string | null, base: number) => {
-    splitSentences(text, lang).forEach((raw, i) => {
+    splitSentences(proseForSplitting(text), lang).forEach((raw, i) => {
       const c = cleanSentence(raw);
       if (!c) return;
+      if (lacksSubject(c, lang)) return; // "Placed on sale between 1877 and 1881." is not a sentence a reader can use
       const facts = Object.entries(p.facts).filter(([, f]) => f.sentence && raw.includes(f.surface) && f.sentence === raw).map(([id]) => id);
       const words = countWords(c);
       let score = base - i * 0.04 + Math.min(facts.length, 2) * 0.15;
       if (words > 45) score -= 0.3;
       if (/["“”«»„]/.test(c)) score -= 0.15;
       if (/:\s/.test(c)) score -= 0.1;
-      out.push({ text: c, idx: out.length, section, score, dangling: danglingPronoun(c, lang, p.topic.title), facts });
+      const etymology = isEtymology(c, lang);
+      if (etymology) score -= 0.6;
+      out.push({
+        text: c, idx: out.length, section, score, facts, etymology,
+        dangling: danglingPronoun(c, lang, p.topic.title),
+        definition: section === null && !etymology && isDefinition(c, lang, p.topic.title),
+      });
     });
   };
   add(p.source.lead, null, 1);
@@ -37,13 +54,14 @@ function candidates(p: Packet): Cand[] {
   return out;
 }
 
-type Ctx = { p: Packet; lang: Lang; max: number; used: Set<number>; notes: string[]; penalty: number; truncations: number };
+type Ctx = { p: Packet; lang: Lang; pace: PaceId; max: number; used: Set<number>; notes: string[]; penalty: number; truncations: number };
 
 /** Take the next usable sentence (in source order among the best), fitted to the word limit. */
 function take(ctx: Ctx, cands: Cand[], opts: { allowDangling?: boolean; afterIdx?: number; preferSection?: boolean } = {}): Cand | null {
   const pool = cands
     .filter((c) => !ctx.used.has(c.idx) && (opts.allowDangling || !c.dangling || (opts.afterIdx !== undefined && c.idx === opts.afterIdx + 1)))
-    .filter((c) => (opts.preferSection ? c.section !== null : true));
+    .filter((c) => (opts.preferSection ? c.section !== null : true))
+    .filter((c) => !c.etymology || ctx.pace === 'deep');
   // best 6 by score, then the earliest of them — keeps the narrative order of the source
   const best = pool.sort((a, b) => b.score - a.score).slice(0, 6).sort((a, b) => a.idx - b.idx);
   for (const c of best) {
@@ -69,10 +87,39 @@ function titleLine(ctx: Ctx, cands: Cand[]): string {
   return '';
 }
 
+/**
+ * Page 1 after the title says what the thing is: the first definitional lead sentence that fits
+ * (an appositive may be dropped to make it fit). Etymology never opens. Falls back to the best
+ * non-etymology sentence.
+ */
+function opener(ctx: Ctx, cands: Cand[]): Page | null {
+  for (const c of cands.filter((x) => x.definition && !x.dangling && !ctx.used.has(x.idx))) {
+    const fit = fitToWords(c.text, ctx.max, ctx.lang) ?? (() => {
+      const short = dropAppositive(c.text, ctx.lang);
+      return short ? fitToWords(short, ctx.max, ctx.lang) : null;
+    })();
+    if (!fit) continue;
+    ctx.used.add(c.idx);
+    if (fit.truncated) ctx.truncations++;
+    return { type: 'sentence', text: fit.text };
+  }
+  return sentencePage(ctx, cands);
+}
+
+/** A plain number is a quantity only if a counted word follows it ("372,624 inhabitants", "40-50 espèces"). */
+function hasQuantityContext(sentence: string, surface: string): boolean {
+  const at = sentence.indexOf(surface);
+  if (at < 0) return false;
+  const next = sentence.slice(at + surface.length).trim().split(/[\s,.;:]+/)[0] ?? '';
+  const MONTHS = /^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|januar|februar|märz|mai|juni|juli|august|oktober|dezember|janvier|février|mars|avril|juin|juillet|août|septembre|octobre|novembre|décembre)/i;
+  return /^\p{L}{3,}$/u.test(next) && !MONTHS.test(next);
+}
+
 function bigNumber(ctx: Ctx, cands: Cand[]): Page | null {
   // measures first, then large plain numbers; never a bare year
   const facts = Object.entries(ctx.p.facts)
-    .filter(([, f]) => (f.kind === 'measure' || (f.kind === 'number' && Number(f.value) >= 100)) && f.sentence)
+    // a measure (has a unit) or a plain quantity with a counted word after it; never a year, never a code
+    .filter(([, f]) => f.sentence && (f.kind === 'measure' || (f.kind === 'number' && Number(f.value) >= 100 && hasQuantityContext(f.sentence, f.surface))))
     .sort(([, a], [, b]) => Number(b.kind === 'measure') - Number(a.kind === 'measure'));
   for (const [id, f] of facts) {
     const c = cands.find((x) => !ctx.used.has(x.idx) && x.facts.includes(id) && !x.dangling);
@@ -108,11 +155,11 @@ function timeline(ctx: Ctx, cands: Cand[]): Page | null {
 }
 
 function closing(ctx: Ctx, cands: Cand[], onlyPage: boolean): Page | null {
-  const free = cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling);
+  const free = cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling && !c.etymology);
   // the only page after the title (Easygoing evening): the defining first sentence of the lead
   // otherwise: a calm, self-contained sentence from later in the lead
   const order = onlyPage
-    ? free.sort((a, b) => a.idx - b.idx)
+    ? [...free.filter((c) => c.definition), ...free.filter((c) => !c.definition).sort((a, b) => a.idx - b.idx)]
     : [...free.filter((c) => c.section === null).sort((a, b) => b.idx - a.idx), ...free.sort((a, b) => b.idx - a.idx)];
   for (const c of order) {
     const fit = fitToWords(c.text, ctx.max, ctx.lang);
@@ -133,7 +180,7 @@ function sentencePage(ctx: Ctx, cands: Cand[], opts?: Parameters<typeof take>[2]
 function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], minimal: boolean): { pages: Page[]; score: number } | null {
   const spec = PACES[pace];
   const [minPages, maxPages] = pageRange(pace, p.slot);
-  const ctx: Ctx = { p, lang: p.lang, max: spec.maxWords, used: new Set(), notes, penalty: 0, truncations: 0 };
+  const ctx: Ctx = { p, lang: p.lang, pace, max: spec.maxWords, used: new Set(), notes, penalty: 0, truncations: 0 };
   const img = Object.keys(p.images)[0];
   const allows = (t: Page['type']) => spec.types.includes(t);
 
@@ -143,8 +190,8 @@ function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], mi
   const push = (pg: Page | null) => pg && body.length < bodyTarget && body.push(pg);
   const bodyMin = minPages - 2;
 
-  // the first body page explains what the thing is: the first clean lead sentence
-  push(sentencePage(ctx, cands, { allowDangling: false }));
+  // the first body page says what the thing is
+  push(opener(ctx, cands));
 
   if (!minimal) {
     if (img && allows('image') && pace !== 'easy' && body.length < bodyTarget)

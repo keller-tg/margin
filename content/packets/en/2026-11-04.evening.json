@@ -86,7 +86,7 @@
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "Modern varieties typically grow to a height of 15 to 45 cm (6 to 18 in).",
+   "sentence": "Modern varieties typically grow to a height of 15 to 45 cm.",
    "section": "Description"
   },
   "f4": {
@@ -94,31 +94,17 @@
    "value": 45,
    "unit": "cm",
    "surface": "45 cm",
-   "sentence": "Modern varieties typically grow to a height of 15 to 45 cm (6 to 18 in).",
+   "sentence": "Modern varieties typically grow to a height of 15 to 45 cm.",
    "section": "Description"
   },
   "f5": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Modern varieties typically grow to a height of 15 to 45 cm (6 to 18 in).",
-   "section": "Description"
-  },
-  "f6": {
-   "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "Modern varieties typically grow to a height of 15 to 45 cm (6 to 18 in).",
-   "section": "Description"
-  },
-  "f7": {
    "kind": "number",
    "value": 5.5,
    "surface": "5.5",
    "sentence": "The average pH of an onion is around 5.5.",
    "section": "Description"
   },
-  "f8": {
+  "f6": {
    "kind": "measure",
    "value": 7000,
    "unit": "years",
@@ -126,132 +112,102 @@
    "sentence": "Humans have grown and selectively bred onions in cultivation for at least 7,000 years.",
    "section": "History"
   },
-  "f9": {
+  "f7": {
    "kind": "number",
    "value": 6000,
    "surface": "6000",
-   "sentence": "The onion species Allium fistulosum (spring onion, bunching onion) and Allium tuberosum (Chinese leek) were domesticated in China around 6000 BC alongside other vegetables, grains, and fruits.",
+   "sentence": "The onion species Allium fistulosum and Allium tuberosum were domesticated in China around 6000 BC alongside other vegetables, grains, and fruits.",
    "section": "History"
   },
-  "f10": {
+  "f8": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "The tablets, dating from around 2000 BC, are the oldest known recipes in the world.",
    "section": "History"
   },
-  "f11": {
+  "f9": {
    "kind": "number",
    "value": 79,
    "surface": "79",
    "sentence": "Archaeologists unearthing Pompeii long after its 79 AD volcanic burial have found gardens resembling those in Pliny's detailed narratives.",
    "section": "History"
   },
-  "f12": {
+  "f10": {
    "kind": "date",
    "value": "1883",
    "surface": "1883",
    "sentence": "Between 1883 and 1939, inventors in the United States patented 97 inventions meant to make onion-growing more efficient through automation.",
    "section": "History"
   },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "1939",
    "surface": "1939",
    "sentence": "Between 1883 and 1939, inventors in the United States patented 97 inventions meant to make onion-growing more efficient through automation.",
    "section": "History"
   },
-  "f14": {
+  "f12": {
    "kind": "number",
    "value": 97,
    "surface": "97",
    "sentence": "Between 1883 and 1939, inventors in the United States patented 97 inventions meant to make onion-growing more efficient through automation.",
    "section": "History"
   },
-  "f15": {
+  "f13": {
    "kind": "measure",
    "value": 89,
    "unit": "%",
    "surface": "89%",
-   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates (including 4% sugar and 2% dietary fibre), 1% protein, and negligible fat (table).",
+   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates, 1% protein, and negligible fat.",
    "section": "Composition"
   },
-  "f16": {
+  "f14": {
    "kind": "measure",
    "value": 9,
    "unit": "%",
    "surface": "9%",
-   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates (including 4% sugar and 2% dietary fibre), 1% protein, and negligible fat (table).",
+   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates, 1% protein, and negligible fat.",
    "section": "Composition"
   },
-  "f17": {
-   "kind": "measure",
-   "value": 4,
-   "unit": "%",
-   "surface": "4%",
-   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates (including 4% sugar and 2% dietary fibre), 1% protein, and negligible fat (table).",
-   "section": "Composition"
-  },
-  "f18": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "%",
-   "surface": "2%",
-   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates (including 4% sugar and 2% dietary fibre), 1% protein, and negligible fat (table).",
-   "section": "Composition"
-  },
-  "f19": {
+  "f15": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
    "surface": "1%",
-   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates (including 4% sugar and 2% dietary fibre), 1% protein, and negligible fat (table).",
+   "sentence": "Most onion cultivars are about 89% water, 9% carbohydrates, 1% protein, and negligible fat.",
    "section": "Composition"
   },
-  "f20": {
+  "f16": {
    "kind": "number",
    "value": 166,
    "surface": "166",
-   "sentence": "Onions contain low amounts of essential nutrients and have an energy value of 166 kJ (40 kilocalories) in a 100 g (3.5 oz) amount.",
+   "sentence": "Onions contain low amounts of essential nutrients and have an energy value of 166 kJ in a 100 g amount.",
    "section": "Composition"
   },
-  "f21": {
-   "kind": "number",
-   "value": 40,
-   "surface": "40",
-   "sentence": "Onions contain low amounts of essential nutrients and have an energy value of 166 kJ (40 kilocalories) in a 100 g (3.5 oz) amount.",
-   "section": "Composition"
-  },
-  "f22": {
+  "f17": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
    "surface": "100 g",
-   "sentence": "Onions contain low amounts of essential nutrients and have an energy value of 166 kJ (40 kilocalories) in a 100 g (3.5 oz) amount.",
+   "sentence": "Onions contain low amounts of essential nutrients and have an energy value of 166 kJ in a 100 g amount.",
    "section": "Composition"
   },
-  "f23": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3.5",
-   "sentence": "Onions contain low amounts of essential nutrients and have an energy value of 166 kJ (40 kilocalories) in a 100 g (3.5 oz) amount.",
-   "section": "Composition"
-  },
-  "f24": {
+  "f18": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Yellow onions have the highest total flavonoid content, an amount 11 times higher than in white onions.",
    "section": "Composition"
   },
-  "f25": {
+  "f19": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Red onions have considerable content of anthocyanin pigments, with at least 25 different compounds identified representing 10% of total flavonoid content.",
    "section": "Composition"
   },
-  "f26": {
+  "f20": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -259,28 +215,28 @@
    "sentence": "Red onions have considerable content of anthocyanin pigments, with at least 25 different compounds identified representing 10% of total flavonoid content.",
    "section": "Composition"
   },
-  "f27": {
+  "f21": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "A specific sulfenic acid, 1-propenesulfenic acid, is rapidly acted on by a second enzyme, the lacrimatory factor synthase (LFS), producing the syn-propanethial-S-oxide.",
+   "sentence": "A specific sulfenic acid, 1-propenesulfenic acid, is rapidly acted on by a second enzyme, the lacrimatory factor synthase, producing the syn-propanethial-S-oxide.",
    "section": "Adverse effects and toxicity"
   },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "In 2008, the New Zealand Institute for Crop and Food Research created \"no tears\" onions by genetic modification to prevent the synthesis of lachrymatory factor synthase in onions.",
+   "sentence": "In 2008, the New Zealand Institute for Crop and Food Research created \"no tears\"onions by genetic modification to prevent the synthesis of lachrymatory factor synthase in onions.",
    "section": "Adverse effects and toxicity"
   },
-  "f29": {
+  "f23": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "In early 2018, Bayer released the first crop yield of commercially available LFS-silenced onions under the name \"Sunions\".",
    "section": "Adverse effects and toxicity"
   },
-  "f30": {
+  "f24": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
@@ -288,127 +244,98 @@
    "sentence": "They were the product of 30 years of cross-breeding; genetic modification was not employed.",
    "section": "Adverse effects and toxicity"
   },
-  "f31": {
+  "f25": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Most traditional European onions are referred to as \"long-day\" onions, producing bulbs only after 14 hours or more of daylight occurs.",
+   "sentence": "Most traditional European onions are referred to as \"long-day\"onions, producing bulbs only after 14 hours or more of daylight occurs.",
    "section": "Producing onions"
   },
-  "f32": {
+  "f26": {
    "kind": "number",
    "value": 12,
    "surface": "12",
-   "sentence": "Southern European and North African varieties are often known as \"intermediate-day\" types, requiring only 12–13 hours of daylight to stimulate bulb formation.",
+   "sentence": "Southern European and North African varieties are often known as \"intermediate-day\"types, requiring only 12–13 hours of daylight to stimulate bulb formation.",
    "section": "Producing onions"
   },
-  "f33": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "Southern European and North African varieties are often known as \"intermediate-day\" types, requiring only 12–13 hours of daylight to stimulate bulb formation.",
-   "section": "Producing onions"
-  },
-  "f34": {
+  "f27": {
    "kind": "number",
    "value": 11,
    "surface": "11",
-   "sentence": "\"Short-day\" onions, which have been developed in more recent times, are planted in mild-winter areas in the autumn and form bulbs in the early spring and require only 11–12 hours of daylight to stimulate bulb formation.",
+   "sentence": "\"Short-day\"onions, which have been developed in more recent times, are planted in mild-winter areas in the autumn and form bulbs in the early spring and require only 11–12 hours of daylight to stimulate bulb formation.",
    "section": "Producing onions"
   },
-  "f35": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "\"Short-day\" onions, which have been developed in more recent times, are planted in mild-winter areas in the autumn and form bulbs in the early spring and require only 11–12 hours of daylight to stimulate bulb formation.",
-   "section": "Producing onions"
-  },
-  "f36": {
+  "f28": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Onions are a cool-weather crop and can be grown in USDA zones 3 to 9.",
    "section": "Producing onions"
   },
-  "f37": {
+  "f29": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Onions are a cool-weather crop and can be grown in USDA zones 3 to 9.",
    "section": "Producing onions"
   },
-  "f38": {
+  "f30": {
    "kind": "number",
    "value": 12,
    "surface": "12",
-   "sentence": "Onion seeds are short-lived and fresh seeds germinate more effectively when sown in shallow rows, or \"drills\", with each drill 12 to 18 inches (30 to 46 cm) apart.",
+   "sentence": "Onion seeds are short-lived and fresh seeds germinate more effectively when sown in shallow rows, or \"drills\", with each drill 12 to 18 inches apart.",
    "section": "Producing onions"
   },
-  "f39": {
+  "f31": {
    "kind": "measure",
    "value": 18,
    "unit": "inches",
    "surface": "18 inches",
-   "sentence": "Onion seeds are short-lived and fresh seeds germinate more effectively when sown in shallow rows, or \"drills\", with each drill 12 to 18 inches (30 to 46 cm) apart.",
+   "sentence": "Onion seeds are short-lived and fresh seeds germinate more effectively when sown in shallow rows, or \"drills\", with each drill 12 to 18 inches apart.",
    "section": "Producing onions"
   },
-  "f40": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "Onion seeds are short-lived and fresh seeds germinate more effectively when sown in shallow rows, or \"drills\", with each drill 12 to 18 inches (30 to 46 cm) apart.",
-   "section": "Producing onions"
-  },
-  "f41": {
-   "kind": "measure",
-   "value": 46,
-   "unit": "cm",
-   "surface": "46 cm",
-   "sentence": "Onion seeds are short-lived and fresh seeds germinate more effectively when sown in shallow rows, or \"drills\", with each drill 12 to 18 inches (30 to 46 cm) apart.",
-   "section": "Producing onions"
-  },
-  "f42": {
+  "f32": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Bulbing usually takes place after 12 to 18 weeks.",
    "section": "Producing onions"
   },
-  "f43": {
+  "f33": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Bulbing usually takes place after 12 to 18 weeks.",
    "section": "Producing onions"
   },
-  "f44": {
+  "f34": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "In 2021, the top global producers of onions were China, India, the United States, and Turkey.",
    "section": "Producing onions"
   },
-  "f45": {
+  "f35": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "In 2022, world production of onions and shallots (as green produce) was 5.0 million tonnes, led by China with 17% of the total, and Mali, Angola, and Japan as secondary producers.",
+   "sentence": "In 2022, world production of onions and shallots was 5.0 million tonnes, led by China with 17% of the total, and Mali, Angola, and Japan as secondary producers.",
    "section": "Producing onions"
   },
-  "f46": {
+  "f36": {
    "kind": "measure",
    "value": 5000000,
    "unit": "tonnes",
    "surface": "5.0 million tonnes",
-   "sentence": "In 2022, world production of onions and shallots (as green produce) was 5.0 million tonnes, led by China with 17% of the total, and Mali, Angola, and Japan as secondary producers.",
+   "sentence": "In 2022, world production of onions and shallots was 5.0 million tonnes, led by China with 17% of the total, and Mali, Angola, and Japan as secondary producers.",
    "section": "Producing onions"
   },
-  "f47": {
+  "f37": {
    "kind": "measure",
    "value": 17,
    "unit": "%",
    "surface": "17%",
-   "sentence": "In 2022, world production of onions and shallots (as green produce) was 5.0 million tonnes, led by China with 17% of the total, and Mali, Angola, and Japan as secondary producers.",
+   "sentence": "In 2022, world production of onions and shallots was 5.0 million tonnes, led by China with 17% of the total, and Mali, Angola, and Japan as secondary producers.",
    "section": "Producing onions"
   }
  },

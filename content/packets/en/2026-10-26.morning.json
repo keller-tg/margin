@@ -128,7 +128,7 @@
    "value": 11,
    "unit": "species",
    "surface": "11 species",
-   "sentence": "The 11 species of rotaviruses (sometimes informally called groups) are referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL.",
+   "sentence": "The 11 species of rotaviruses are referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL.",
    "section": "Virology"
   },
   "f10": {
@@ -148,82 +148,40 @@
   },
   "f12": {
    "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "value": 11,
+   "surface": "11",
+   "sentence": "The genome of rotaviruses consists of 11 unique double-helix molecules of RNA, which are 18,555 nucleotides in total.",
    "section": "Virology"
   },
   "f13": {
    "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
+   "value": 18555,
+   "surface": "18,555",
+   "sentence": "The genome of rotaviruses consists of 11 unique double-helix molecules of RNA, which are 18,555 nucleotides in total.",
    "section": "Virology"
   },
   "f14": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
-   "section": "Virology"
-  },
-  "f15": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
-   "section": "Virology"
-  },
-  "f16": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
-   "section": "Virology"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "They are G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12P[8].",
-   "section": "Virology"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 11,
-   "surface": "11",
-   "sentence": "The genome of rotaviruses consists of 11 unique double-helix molecules of RNA (dsRNA), which are 18,555 nucleotides in total.",
-   "section": "Virology"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 18555,
-   "surface": "18,555",
-   "sentence": "The genome of rotaviruses consists of 11 unique double-helix molecules of RNA (dsRNA), which are 18,555 nucleotides in total.",
-   "section": "Virology"
-  },
-  "f20": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Each helix, or segment, is a gene, numbered 1 to 11 by decreasing size.",
    "section": "Virology"
   },
-  "f21": {
+  "f15": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Each helix, or segment, is a gene, numbered 1 to 11 by decreasing size.",
    "section": "Virology"
   },
-  "f22": {
+  "f16": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Each gene codes for one protein, except gene 11, which codes for two.",
    "section": "Virology"
   },
-  "f23": {
+  "f17": {
    "kind": "measure",
    "value": 76.5,
    "unit": "nm",
@@ -231,112 +189,98 @@
    "sentence": "Viral particles are up to 76.5 nm in diameter and are not enveloped.",
    "section": "Virology"
   },
-  "f24": {
+  "f18": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "This is a capping enzyme that catalyses the formation of the 5' cap in the post-transcriptional modification of mRNA.",
    "section": "Virology"
   },
-  "f25": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Nonsecretors seem resistant to infection by types P[4] and P[8], indicating that blood-group antigens are the receptors for these genotypes.",
-   "section": "Virology"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "Nonsecretors seem resistant to infection by types P[4] and P[8], indicating that blood-group antigens are the receptors for these genotypes.",
-   "section": "Virology"
-  },
-  "f27": {
+  "f19": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "NSP1, the product of gene 5, is a nonstructural RNA-binding protein.",
    "section": "Virology"
   },
-  "f28": {
+  "f20": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "PABP is required for efficient translation of transcripts with a 3' poly(A) tail, which is found on most host-cell transcripts.",
+   "sentence": "PABP is required for efficient translation of transcripts with a 3' poly tail, which is found on most host-cell transcripts.",
    "section": "Virology"
   },
-  "f29": {
+  "f21": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Efficient translation of rotavirus mRNA, which lacks the 3' poly(A) tail, does not require either of these factors.",
+   "sentence": "Efficient translation of rotavirus mRNA, which lacks the 3' poly tail, does not require either of these factors.",
    "section": "Virology"
   },
-  "f30": {
+  "f22": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "NSP5 is encoded by genome segment 11 of rotavirus A. In virus-infected cells, NSP5 accumulates in the viroplasm.",
    "section": "Virology"
   },
-  "f31": {
+  "f23": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "NSP6 is a nucleic acid-binding protein and is encoded by gene 11 from an out-of-phase open reading frame.",
    "section": "Virology"
   },
-  "f32": {
+  "f24": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "The 11 dsRNA strands remain within the protection of the two protein shells and the viral RNA-dependent RNA polymerase creates mRNA transcripts of the double-stranded viral genome.",
    "section": "Virology"
   },
-  "f33": {
+  "f25": {
    "kind": "number",
    "value": 10000000000000,
    "surface": "10 trillion",
    "sentence": "The faeces of an infected person can contain more than 10 trillion infectious particles per gram; fewer than 100 of these are required to transmit infection to another person.",
    "section": "Transmission"
   },
-  "f34": {
+  "f26": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "The faeces of an infected person can contain more than 10 trillion infectious particles per gram; fewer than 100 of these are required to transmit infection to another person.",
    "section": "Transmission"
   },
-  "f35": {
+  "f27": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Rotaviruses are stable in the environment and have been found in estuary samples at levels up to 1–5 infectious particles per US gallon.",
    "section": "Transmission"
   },
-  "f36": {
+  "f28": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Rotaviruses are stable in the environment and have been found in estuary samples at levels up to 1–5 infectious particles per US gallon.",
    "section": "Transmission"
   },
-  "f37": {
+  "f29": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "The viruses survive between 9 and 19 days.",
    "section": "Transmission"
   },
-  "f38": {
+  "f30": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "The viruses survive between 9 and 19 days.",
    "section": "Transmission"
   },
-  "f39": {
+  "f31": {
    "kind": "measure",
    "value": 45,
    "unit": "years",
@@ -344,143 +288,98 @@
    "sentence": "Consequently, symptomatic infection rates are highest in children under two years of age and decrease progressively towards 45 years of age.",
    "section": "Signs and symptoms"
   },
-  "f40": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The toxic rotavirus protein NSP4 induces age- and calcium ion-dependent chloride secretion, disrupts SGLT1 (sodium/glucose cotransporter 2) transporter-mediated reabsorption of water, apparently reduces activity of brush-border membrane disaccharidases, and activates the calcium ion-dependent secretory reflexes of the enteric nervous system.",
-   "section": "Disease mechanisms"
-  },
-  "f41": {
+  "f32": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "The infection stimulates the production of 5' hydroxytryptamine (serotonin).",
+   "sentence": "The infection stimulates the production of 5' hydroxytryptamine.",
    "section": "Disease mechanisms"
   },
-  "f42": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Rotavirus-specific serum IgG and IgA at high titres (e.g. 1:200) have been claimed to be protective and a significant correlation is seen between IgA titres and rotavirus vaccine efficacy.",
-   "section": "Immune responses"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 200,
-   "surface": "200",
-   "sentence": "Rotavirus-specific serum IgG and IgA at high titres (e.g. 1:200) have been claimed to be protective and a significant correlation is seen between IgA titres and rotavirus vaccine efficacy.",
-   "section": "Immune responses"
-  },
-  "f44": {
+  "f33": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
-   "sentence": "In 2004, the World Health Organisation (WHO) and UNICEF recommended the use of low-osmolarity oral rehydration solution and zinc supplementation as a two-pronged treatment of acute diarrhoea.",
+   "sentence": "In 2004, the World Health Organisation and UNICEF recommended the use of low-osmolarity oral rehydration solution and zinc supplementation as a two-pronged treatment of acute diarrhoea.",
    "section": "Treatment and prognosis"
   },
-  "f45": {
+  "f34": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "In 1998, a rotavirus vaccine was licensed for use in the United States.",
    "section": "Prevention"
   },
-  "f46": {
+  "f35": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Clinical trials in the United States, Finland, and Venezuela had found it to be 80–100% effective at preventing severe diarrhoea caused by rotavirus A, and researchers had detected no statistically significant serious adverse effects.",
    "section": "Prevention"
   },
-  "f47": {
-   "kind": "measure",
-   "value": 100,
-   "unit": "%",
-   "surface": "100%",
-   "sentence": "Clinical trials in the United States, Finland, and Venezuela had found it to be 80–100% effective at preventing severe diarrhoea caused by rotavirus A, and researchers had detected no statistically significant serious adverse effects.",
-   "section": "Prevention"
-  },
-  "f48": {
+  "f36": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "The manufacturer, however, withdrew it from the market in 1999, after the vaccine was discovered possibly to have contributed to an increased risk for intussusception, a type of bowel obstruction, in one of every 12,000 vaccinated infants.",
    "section": "Prevention"
   },
-  "f49": {
+  "f37": {
    "kind": "number",
    "value": 12000,
    "surface": "12,000",
    "sentence": "The manufacturer, however, withdrew it from the market in 1999, after the vaccine was discovered possibly to have contributed to an increased risk for intussusception, a type of bowel obstruction, in one of every 12,000 vaccinated infants.",
    "section": "Prevention"
   },
-  "f50": {
+  "f38": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "In 2006, two new vaccines against rotavirus A infection were shown to be safe and effective in children, and in 2009, the WHO recommended that rotavirus vaccine be included in all national immunisation programmes.",
    "section": "Prevention"
   },
-  "f51": {
+  "f39": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2006, two new vaccines against rotavirus A infection were shown to be safe and effective in children, and in 2009, the WHO recommended that rotavirus vaccine be included in all national immunisation programmes.",
    "section": "Prevention"
   },
-  "f52": {
+  "f40": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
    "section": "Prevention"
   },
-  "f53": {
+  "f41": {
    "kind": "number",
    "value": 49,
    "surface": "49",
    "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
    "section": "Prevention"
   },
-  "f54": {
-   "kind": "measure",
-   "value": 92,
-   "unit": "%",
-   "surface": "92%",
-   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
-   "section": "Prevention"
-  },
-  "f55": {
+  "f42": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
    "section": "Prevention"
   },
-  "f56": {
-   "kind": "measure",
-   "value": 55,
-   "unit": "%",
-   "surface": "55%",
-   "sentence": "A 2014 review of available clinical trial data from countries routinely using rotavirus vaccines in their national immunisation programs found that rotavirus vaccines have reduced rotavirus hospitalisations by 49–92% and all cause diarrhoea hospitalisations by 17–55%.",
-   "section": "Prevention"
-  },
-  "f57": {
+  "f43": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under.",
    "section": "Prevention"
   },
-  "f58": {
+  "f44": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under.",
    "section": "Prevention"
   },
-  "f59": {
+  "f45": {
    "kind": "measure",
    "value": 65,
    "unit": "percent",
@@ -488,14 +387,14 @@
    "sentence": "In Mexico, which in 2006 was among the first countries in the world to introduce rotavirus vaccine, diarrhoeal disease death rates dropped during the 2009 rotavirus season by more than 65 percent among children age two and under.",
    "section": "Prevention"
   },
-  "f60": {
+  "f46": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "In Nicaragua, which in 2006 became the first developing country to introduce a rotavirus vaccine, severe rotavirus infections were reduced by 40% and emergency room visits by a half.",
    "section": "Prevention"
   },
-  "f61": {
+  "f47": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -503,14 +402,14 @@
    "sentence": "In Nicaragua, which in 2006 became the first developing country to introduce a rotavirus vaccine, severe rotavirus infections were reduced by 40% and emergency room visits by a half.",
    "section": "Prevention"
   },
-  "f62": {
+  "f48": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "In the United States, rotavirus vaccination since 2006 has led to drops in rotavirus-related hospitalisations by as much as 86%.",
    "section": "Prevention"
   },
-  "f63": {
+  "f49": {
    "kind": "measure",
    "value": 86,
    "unit": "%",
@@ -518,51 +417,35 @@
    "sentence": "In the United States, rotavirus vaccination since 2006 has led to drops in rotavirus-related hospitalisations by as much as 86%.",
    "section": "Prevention"
   },
-  "f64": {
+  "f50": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "In September 2013, the vaccine was offered to all children in the UK, aged between two and three months.",
    "section": "Prevention"
   },
-  "f65": {
+  "f51": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%.",
    "section": "Prevention"
   },
-  "f66": {
+  "f52": {
    "kind": "number",
    "value": 77,
    "surface": "77",
    "sentence": "A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%.",
    "section": "Prevention"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 88,
-   "unit": "%",
-   "surface": "88%",
-   "sentence": "A 2022 study found that the number of rotavirus cases in infants in England under one year of age was reduced by 77–88%.",
-   "section": "Prevention"
-  },
-  "f68": {
+  "f53": {
    "kind": "number",
    "value": 69,
    "surface": "69",
    "sentence": "In all age groups, the number of laboratory-confirmed rotavirus infections was reduced by 69–83%.",
    "section": "Prevention"
   },
-  "f69": {
-   "kind": "measure",
-   "value": 83,
-   "unit": "%",
-   "surface": "83%",
-   "sentence": "In all age groups, the number of laboratory-confirmed rotavirus infections was reduced by 69–83%.",
-   "section": "Prevention"
-  },
-  "f70": {
+  "f54": {
    "kind": "measure",
    "value": 65,
    "unit": "%",
@@ -570,7 +453,7 @@
    "sentence": "In Europe, hospitalisation rates following infection by rotaviruses have decreased by 65% to 84% following the introduction of the vaccine.",
    "section": "Prevention"
   },
-  "f71": {
+  "f55": {
    "kind": "measure",
    "value": 84,
    "unit": "%",
@@ -578,7 +461,7 @@
    "sentence": "In Europe, hospitalisation rates following infection by rotaviruses have decreased by 65% to 84% following the introduction of the vaccine.",
    "section": "Prevention"
   },
-  "f72": {
+  "f56": {
    "kind": "measure",
    "value": 67,
    "unit": "%",
@@ -586,21 +469,21 @@
    "sentence": "Globally, vaccination has reduced hospital admissions and emergency department visits by a median of 67%.",
    "section": "Prevention"
   },
-  "f73": {
+  "f57": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Rotavirus vaccines are licensed in over 100 countries, and more than 80 countries have introduced routine rotavirus vaccination, almost half with the support of the GAVI vaccine alliance.",
    "section": "Prevention"
   },
-  "f74": {
+  "f58": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Rotavirus vaccines are licensed in over 100 countries, and more than 80 countries have introduced routine rotavirus vaccination, almost half with the support of the GAVI vaccine alliance.",
    "section": "Prevention"
   },
-  "f75": {
+  "f59": {
    "kind": "number",
    "value": 1,
    "surface": "1",

@@ -53,7 +53,7 @@
    "kind": "number",
    "value": 2900000000,
    "surface": "2,9 Milliarden",
-   "sentence": "Der Uranus (IPA: [ˈuːʁanʊs] ) (Latinisierung von altgriechisch οὐρανός uranós, deutsch ‚Himmel‘) ist von der Sonne aus mit einer durchschnittlichen Sonnenentfernung von 2,9 Milliarden Kilometern der siebte Planet im Sonnensystem und wird zu den Eisriesen gerechnet."
+   "sentence": "Der Uranus ist von der Sonne aus mit einer durchschnittlichen Sonnenentfernung von 2,9 Milliarden Kilometern der siebte Planet im Sonnensystem und wird zu den Eisriesen gerechnet."
   },
   "f2": {
    "kind": "number",
@@ -135,7 +135,7 @@
    "kind": "date",
    "value": "1766",
    "surface": "1766",
-   "sentence": "Dieser Bahnradius passt genau zur 1766 formulierten Titius-Bode-Reihe, so dass die Entdeckung des Uranus als Bestätigung der damaligen, von Kepler begründeten Sicht einer „Weltharmonie“ galt.",
+   "sentence": "Dieser Bahnradius passt genau zur 1766 formulierten Titius-Bode-Reihe, so dass die Entdeckung des Uranus als Bestätigung der damaligen, von Kepler begründeten Sicht einer „Weltharmonie“galt.",
    "section": "Umlaufbahn und Rotation"
   },
   "f15": {
@@ -158,7 +158,7 @@
    "value": 6.79,
    "unit": "km/s",
    "surface": "6,79 km/s",
-   "sentence": "Bei einer mittleren Bahngeschwindigkeit von 6,79 km/s braucht er rund zwei Stunden, um seinen eigenen Durchmesser zurückzulegen (die Erde braucht etwa sieben Minuten).",
+   "sentence": "Bei einer mittleren Bahngeschwindigkeit von 6,79 km/s braucht er rund zwei Stunden, um seinen eigenen Durchmesser zurückzulegen.",
    "section": "Umlaufbahn und Rotation"
   },
   "f18": {
@@ -184,54 +184,47 @@
   },
   "f21": {
    "kind": "number",
-   "value": 60,
-   "surface": "60",
-   "sentence": "In südlichen Breiten (etwa 60°) bewegt sich die sichtbare Atmosphäre viel schneller und die Rotationsdauer ist dort mit 14 Stunden entsprechend kürzer.",
+   "value": 14,
+   "surface": "14",
+   "sentence": "In südlichen Breiten bewegt sich die sichtbare Atmosphäre viel schneller und die Rotationsdauer ist dort mit 14 Stunden entsprechend kürzer.",
    "section": "Umlaufbahn und Rotation"
   },
   "f22": {
-   "kind": "number",
-   "value": 14,
-   "surface": "14",
-   "sentence": "In südlichen Breiten (etwa 60°) bewegt sich die sichtbare Atmosphäre viel schneller und die Rotationsdauer ist dort mit 14 Stunden entsprechend kürzer.",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f23": {
    "kind": "number",
    "value": 97.77,
    "surface": "97,77",
    "sentence": "Die Achsneigung gegen das Bahnebenenlot beträgt 97,77°, so dass Uranus rückläufig rotiert.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Als Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f25": {
+  "f24": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Als Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f26": {
+  "f25": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "Als Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f27": {
+  "f26": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "2007 lag sie zur Tag-und-Nacht-Gleiche kurz in seiner Äquatorebene.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f28": {
+  "f27": {
    "kind": "measure",
    "value": 1.27,
    "unit": "g",
@@ -239,7 +232,7 @@
    "sentence": "Uranus hat eine für Riesenplaneten typisch niedrige Dichte von 1,27 g/cm³.",
    "section": "Physikalische Eigenschaften"
   },
-  "f29": {
+  "f28": {
    "kind": "measure",
    "value": 51118,
    "unit": "km",
@@ -247,7 +240,7 @@
    "sentence": "Der Äquatordurchmesser entspricht mit 51.118 km reichlich dem vierfachen Erddurchmesser.",
    "section": "Physikalische Eigenschaften"
   },
-  "f30": {
+  "f29": {
    "kind": "measure",
    "value": 49946,
    "unit": "km",
@@ -255,28 +248,28 @@
    "sentence": "Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf.",
    "section": "Physikalische Eigenschaften"
   },
-  "f31": {
+  "f30": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf.",
    "section": "Physikalische Eigenschaften"
   },
-  "f32": {
+  "f31": {
    "kind": "number",
    "value": 44,
    "surface": "44",
    "sentence": "Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf.",
    "section": "Physikalische Eigenschaften"
   },
-  "f33": {
+  "f32": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Als Oberfläche wurde derjenige Bereich definiert, bei dem der Druck 1 bar groß ist.",
    "section": "Physikalische Eigenschaften"
   },
-  "f34": {
+  "f33": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -284,98 +277,77 @@
    "sentence": "Die Schwerkraft macht auf der Ein-Bar-Ebene rund 90 % der Erdschwere aus.",
    "section": "Physikalische Eigenschaften"
   },
-  "f35": {
-   "kind": "date",
-   "value": "800",
-   "surface": "800",
-   "sentence": "Obwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f36": {
-   "kind": "number",
-   "value": 3000,
-   "surface": "3000",
-   "sentence": "Obwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f37": {
-   "kind": "number",
-   "value": 4500,
-   "surface": "4500",
-   "sentence": "Obwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f38": {
+  "f34": {
    "kind": "number",
    "value": 82.5,
    "surface": "82,5",
    "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f39": {
+  "f35": {
    "kind": "number",
    "value": 3.3,
    "surface": "3,3",
    "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f40": {
+  "f36": {
    "kind": "number",
    "value": 15.2,
    "surface": "15,2",
    "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f41": {
+  "f37": {
    "kind": "number",
    "value": 3.3,
    "surface": "3,3",
    "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f42": {
+  "f38": {
    "kind": "number",
    "value": 2.3,
    "surface": "2,3",
    "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f43": {
+  "f39": {
    "kind": "number",
    "value": 0.26,
    "surface": "0,26",
    "sentence": "Das Massenverhältnis Helium:Wasserstoff ist mit 0,26 sehr nahe dem ursprünglichen Massenverhältnis in der Sonne von 0,27.",
    "section": "Physikalische Eigenschaften"
   },
-  "f44": {
+  "f40": {
    "kind": "number",
    "value": 0.27,
    "surface": "0,27",
    "sentence": "Das Massenverhältnis Helium:Wasserstoff ist mit 0,26 sehr nahe dem ursprünglichen Massenverhältnis in der Sonne von 0,27.",
    "section": "Physikalische Eigenschaften"
   },
-  "f45": {
+  "f41": {
    "kind": "number",
    "value": 148,
    "surface": "148",
    "sentence": "Als Nebenbestandteil folgt Deuterium mit etwa 148 ppm Volumenanteil.",
    "section": "Physikalische Eigenschaften"
   },
-  "f46": {
+  "f42": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Das Verhältnis Wasserstoff zu Helium konnte durch die Refraktion (Brechung) der Radiosignale von Voyager 2 durch die Atmosphäre bestimmt werden, als die Sonde den Funkschatten des Planeten durchflog.",
+   "sentence": "Das Verhältnis Wasserstoff zu Helium konnte durch die Refraktion der Radiosignale von Voyager 2 durch die Atmosphäre bestimmt werden, als die Sonde den Funkschatten des Planeten durchflog.",
    "section": "Physikalische Eigenschaften"
   },
-  "f47": {
+  "f43": {
    "kind": "number",
    "value": 300,
    "surface": "300",
    "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
    "section": "Physikalische Eigenschaften"
   },
-  "f48": {
+  "f44": {
    "kind": "measure",
    "value": 50,
    "unit": "km",
@@ -383,24 +355,53 @@
    "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
    "section": "Physikalische Eigenschaften"
   },
-  "f49": {
+  "f45": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
    "section": "Physikalische Eigenschaften"
   },
-  "f50": {
+  "f46": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
    "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
    "section": "Physikalische Eigenschaften"
   },
-  "f51": {
+  "f47": {
    "kind": "number",
    "value": 50,
    "surface": "50",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 4000,
+   "unit": "km",
+   "surface": "4000 km",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
    "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
    "section": "Physikalische Eigenschaften"
   },
@@ -409,47 +410,18 @@
    "value": 4000,
    "unit": "km",
    "surface": "4000 km",
-   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "sentence": "Die Thermosphäre erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche.",
    "section": "Physikalische Eigenschaften"
   },
   "f53": {
-   "kind": "number",
-   "value": 0.1,
-   "surface": "0,1",
-   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f54": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f55": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f56": {
-   "kind": "measure",
-   "value": 4000,
-   "unit": "km",
-   "surface": "4000 km",
-   "sentence": "Die Thermosphäre (Korona) erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f57": {
    "kind": "measure",
    "value": 50000,
    "unit": "km",
    "surface": "50.000 km",
-   "sentence": "Die Thermosphäre (Korona) erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche.",
+   "sentence": "Die Thermosphäre erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche.",
    "section": "Physikalische Eigenschaften"
   },
-  "f58": {
+  "f54": {
    "kind": "measure",
    "value": 300,
    "unit": "km",
@@ -457,7 +429,7 @@
    "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
    "section": "Physikalische Eigenschaften"
   },
-  "f59": {
+  "f55": {
    "kind": "measure",
    "value": 320,
    "unit": "k",
@@ -465,7 +437,7 @@
    "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
    "section": "Physikalische Eigenschaften"
   },
-  "f60": {
+  "f56": {
    "kind": "measure",
    "value": 50,
    "unit": "km",
@@ -473,7 +445,7 @@
    "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
    "section": "Physikalische Eigenschaften"
   },
-  "f61": {
+  "f57": {
    "kind": "measure",
    "value": 53,
    "unit": "k",
@@ -481,7 +453,7 @@
    "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
    "section": "Physikalische Eigenschaften"
   },
-  "f62": {
+  "f58": {
    "kind": "measure",
    "value": 200,
    "unit": "m/s",
@@ -489,7 +461,7 @@
    "sentence": "Die Windgeschwindigkeiten betragen bis zu 200 m/s beziehungsweise rund 700 km/h.",
    "section": "Physikalische Eigenschaften"
   },
-  "f63": {
+  "f59": {
    "kind": "measure",
    "value": 700,
    "unit": "km/h",
@@ -497,145 +469,113 @@
    "sentence": "Die Windgeschwindigkeiten betragen bis zu 200 m/s beziehungsweise rund 700 km/h.",
    "section": "Physikalische Eigenschaften"
   },
-  "f64": {
+  "f60": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K, bei 0,1 bar beträgt sie 53 K.\nSeine effektive Temperatur liegt bei nur 58,1 K, kaum mehr als die des entfernteren Neptun.",
    "section": "Physikalische Eigenschaften"
   },
-  "f65": {
+  "f61": {
    "kind": "measure",
    "value": 76,
    "unit": "k",
    "surface": "76 K",
-   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K, bei 0,1 bar beträgt sie 53 K.\nSeine effektive Temperatur liegt bei nur 58,1 K, kaum mehr als die des entfernteren Neptun.",
    "section": "Physikalische Eigenschaften"
   },
-  "f66": {
-   "kind": "measure",
-   "value": 197,
-   "unit": "°c",
-   "surface": "197 °C",
-   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f67": {
+  "f62": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
-   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K, bei 0,1 bar beträgt sie 53 K.\nSeine effektive Temperatur liegt bei nur 58,1 K, kaum mehr als die des entfernteren Neptun.",
    "section": "Physikalische Eigenschaften"
   },
-  "f68": {
+  "f63": {
    "kind": "measure",
    "value": 53,
    "unit": "k",
    "surface": "53 K",
-   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K, bei 0,1 bar beträgt sie 53 K.\nSeine effektive Temperatur liegt bei nur 58,1 K, kaum mehr als die des entfernteren Neptun.",
    "section": "Physikalische Eigenschaften"
   },
-  "f69": {
-   "kind": "measure",
-   "value": 220,
-   "unit": "°c",
-   "surface": "220 °C",
-   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f70": {
+  "f64": {
    "kind": "measure",
    "value": 58.1,
    "unit": "k",
    "surface": "58,1 K",
-   "sentence": "Seine effektive Temperatur liegt bei nur 58,1 K (−214 °C), kaum mehr als die des entfernteren Neptun.",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K, bei 0,1 bar beträgt sie 53 K.\nSeine effektive Temperatur liegt bei nur 58,1 K, kaum mehr als die des entfernteren Neptun.",
    "section": "Physikalische Eigenschaften"
   },
-  "f71": {
-   "kind": "measure",
-   "value": 214,
-   "unit": "°c",
-   "surface": "214 °C",
-   "sentence": "Seine effektive Temperatur liegt bei nur 58,1 K (−214 °C), kaum mehr als die des entfernteren Neptun.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f72": {
+  "f65": {
    "kind": "number",
    "value": 0.4,
    "surface": "0,4",
    "sentence": "Diese Strahlungstemperatur ist die Temperatur, welche die Uranusatmosphäre im Bereich von 0,4 bar aufweist.",
    "section": "Physikalische Eigenschaften"
   },
-  "f73": {
+  "f66": {
    "kind": "number",
    "value": 70,
    "surface": "70",
-   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.",
+   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K gemessen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f74": {
+  "f67": {
    "kind": "measure",
    "value": 52,
    "unit": "k",
    "surface": "52 K",
-   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.",
+   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K gemessen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f75": {
-   "kind": "measure",
-   "value": 221,
-   "unit": "°c",
-   "surface": "221 °C",
-   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f76": {
+  "f68": {
    "kind": "measure",
    "value": 50,
    "unit": "km",
    "surface": "50 km",
-   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "sentence": "An der unteren Grenze bei 50 km sind es noch 53 K, während die Temperatur in 4000 km Höhe schon 800 bis 850 K beträgt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f77": {
+  "f69": {
    "kind": "measure",
    "value": 53,
    "unit": "k",
    "surface": "53 K",
-   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "sentence": "An der unteren Grenze bei 50 km sind es noch 53 K, während die Temperatur in 4000 km Höhe schon 800 bis 850 K beträgt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f78": {
+  "f70": {
    "kind": "measure",
    "value": 4000,
    "unit": "km",
    "surface": "4000 km",
-   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "sentence": "An der unteren Grenze bei 50 km sind es noch 53 K, während die Temperatur in 4000 km Höhe schon 800 bis 850 K beträgt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f79": {
+  "f71": {
    "kind": "date",
    "value": "800",
    "surface": "800",
-   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "sentence": "An der unteren Grenze bei 50 km sind es noch 53 K, während die Temperatur in 4000 km Höhe schon 800 bis 850 K beträgt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f80": {
+  "f72": {
    "kind": "measure",
    "value": 850,
    "unit": "k",
    "surface": "850 K",
-   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "sentence": "An der unteren Grenze bei 50 km sind es noch 53 K, während die Temperatur in 4000 km Höhe schon 800 bis 850 K beträgt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f81": {
+  "f73": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Die Kohlenwasserstoffe besetzen einen relativ engen Bereich in Höhen von 100 bis 280 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f82": {
+  "f74": {
    "kind": "measure",
    "value": 280,
    "unit": "km",
@@ -643,43 +583,43 @@
    "sentence": "Die Kohlenwasserstoffe besetzen einen relativ engen Bereich in Höhen von 100 bis 280 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f83": {
+  "f75": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f84": {
+  "f76": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
-   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f85": {
+  "f77": {
    "kind": "number",
    "value": 75,
    "surface": "75",
-   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f86": {
+  "f78": {
    "kind": "measure",
    "value": 170,
    "unit": "k",
    "surface": "170 K",
-   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f87": {
+  "f79": {
    "kind": "date",
    "value": "800",
    "surface": "800",
    "sentence": "Sie weist eine einheitliche Temperatur von 800 bis 850 K auf.",
    "section": "Physikalische Eigenschaften"
   },
-  "f88": {
+  "f80": {
    "kind": "measure",
    "value": 850,
    "unit": "k",
@@ -687,7 +627,7 @@
    "sentence": "Sie weist eine einheitliche Temperatur von 800 bis 850 K auf.",
    "section": "Physikalische Eigenschaften"
   },
-  "f89": {
+  "f81": {
    "kind": "measure",
    "value": 420,
    "unit": "k",
@@ -695,29 +635,21 @@
    "sentence": "Dies ist viel höher als die 420 K in der Thermosphäre des Saturn.",
    "section": "Physikalische Eigenschaften"
   },
-  "f90": {
-   "kind": "measure",
-   "value": 50000,
-   "unit": "km",
-   "surface": "50.000 km",
-   "sentence": "Deren geringe molekulare Masse könnte zusammen mit den hohen Temperaturen erklären, warum sich die Korona so weit (50.000 km oder zwei Uranusradien) vom Planeten weg ausdehnt.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f91": {
+  "f82": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Hauptsächlich weiß man über die Ionen durch Messungen von Voyager 2 Bescheid, sowie durch Infrarot-Emissionen des H3+-Ions, die von erdgebundenen Teleskopen festgestellt wurden.",
    "section": "Physikalische Eigenschaften"
   },
-  "f92": {
+  "f83": {
    "kind": "number",
    "value": 2000,
    "surface": "2.000",
    "sentence": "Die Beobachtungen zeigen, dass die Ionosphäre Höhen zwischen 2.000 und 10.000 km besetzt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f93": {
+  "f84": {
    "kind": "measure",
    "value": 10000,
    "unit": "km",
@@ -725,29 +657,29 @@
    "sentence": "Die Beobachtungen zeigen, dass die Ionosphäre Höhen zwischen 2.000 und 10.000 km besetzt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f94": {
+  "f85": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
    "surface": "30 %",
-   "sentence": "Die Gashülle geht durch Kompression in eine „Kruste“ aus Wasserstoff und Helium über, die etwa 30 % des Planetenradius ausmacht.",
+   "sentence": "Die Gashülle geht durch Kompression in eine „Kruste“aus Wasserstoff und Helium über, die etwa 30 % des Planetenradius ausmacht.",
    "section": "Physikalische Eigenschaften"
   },
-  "f95": {
+  "f86": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
    "sentence": "Die Masse dieser oberen Schicht macht etwa die 0,5- bis 1,5-fache Erdmasse aus.",
    "section": "Physikalische Eigenschaften"
   },
-  "f96": {
+  "f87": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
    "sentence": "Die Masse dieser oberen Schicht macht etwa die 0,5- bis 1,5-fache Erdmasse aus.",
    "section": "Physikalische Eigenschaften"
   },
-  "f97": {
+  "f88": {
    "kind": "measure",
    "value": 5000,
    "unit": "°c",
@@ -755,21 +687,21 @@
    "sentence": "Im Zentrum des Uranus dürfte ein Druck von rund acht Millionen bar bei einer Temperatur von etwa 5000 °C herrschen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f98": {
+  "f89": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "In Bezug auf interne Wärmequellen galt er bis Mitte 2025 als eine Ausnahme unter den äußeren Planeten.",
    "section": "Physikalische Eigenschaften"
   },
-  "f99": {
+  "f90": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Eine im Sommer 2025 veröffentlichte Untersuchung eines Forschungsteams um Patrick Irwin von der britischen University of Oxford stellte fest, dass er mehr Sonnenlicht in den Weltraum zurückwirft als bislang angenommen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f100": {
+  "f91": {
    "kind": "measure",
    "value": 15,
    "unit": "prozent",
@@ -777,70 +709,70 @@
    "sentence": "Daraus ergab sich dann ein Wärmeüberschuss von 15 Prozent.",
    "section": "Physikalische Eigenschaften"
   },
-  "f101": {
+  "f92": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Bilder von Voyager 2 zeigten 1986 im sichtbaren Spektrum praktisch keine Oberflächendetails.",
    "section": "Physikalische Eigenschaften"
   },
-  "f102": {
+  "f93": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "Bilder von Voyager 2 zeigten 1986 im sichtbaren Spektrum praktisch keine Oberflächendetails.",
    "section": "Physikalische Eigenschaften"
   },
-  "f103": {
+  "f94": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Während des Vorbeifluges von Voyager 2 stand die Sonne über dem Südpol.",
    "section": "Physikalische Eigenschaften"
   },
-  "f104": {
+  "f95": {
    "kind": "number",
    "value": 45,
    "surface": "45",
    "sentence": "Die Grenze ist etwa bei 45° südlicher Breite.",
    "section": "Physikalische Eigenschaften"
   },
-  "f105": {
+  "f96": {
    "kind": "number",
    "value": 45,
    "surface": "45",
    "sentence": "Ein schmales Band, das den Planeten zwischen dem 45. und 50. südlichen Breitengrad umspannt, ist das hellste große Merkmal auf der Oberfläche des Planeten.",
    "section": "Physikalische Eigenschaften"
   },
-  "f106": {
+  "f97": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Ein schmales Band, das den Planeten zwischen dem 45. und 50. südlichen Breitengrad umspannt, ist das hellste große Merkmal auf der Oberfläche des Planeten.",
    "section": "Physikalische Eigenschaften"
   },
-  "f107": {
+  "f98": {
    "kind": "number",
    "value": 21,
    "surface": "21",
-   "sentence": "Jedoch konnten am Beginn des 21. Jahrhunderts, als die Region der Polarkappe ins Sichtfeld kam, das Hubble-Weltraumteleskop und das Keck-Teleskop auf Hawaii weder einen „Collar“ noch eine Polarkappe in der nördlichen Hemisphäre beobachten.",
+   "sentence": "Jedoch konnten am Beginn des 21. Jahrhunderts, als die Region der Polarkappe ins Sichtfeld kam, das Hubble-Weltraumteleskop und das Keck-Teleskop auf Hawaii weder einen „Collar“noch eine Polarkappe in der nördlichen Hemisphäre beobachten.",
    "section": "Physikalische Eigenschaften"
   },
-  "f108": {
+  "f99": {
    "kind": "date",
    "value": "1100",
    "surface": "1100",
    "sentence": "Dennoch strahlt sie immer noch 1100-mal heller, als der Vollmond von der Erde aus erscheint.",
    "section": "Physikalische Eigenschaften"
   },
-  "f109": {
+  "f100": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Bilder des Keck-Observatoriums zeigten im Jahr 2004, dass sich Wirbelstürme teilweise über viele Monate lang halten.",
    "section": "Physikalische Eigenschaften"
   },
-  "f110": {
+  "f101": {
    "kind": "measure",
    "value": 29000,
    "unit": "km",
@@ -848,84 +780,63 @@
    "sentence": "In der nördlichen Hemisphäre entdeckten die Forscher eine rund 29.000 km lange Wolkenformation.",
    "section": "Physikalische Eigenschaften"
   },
-  "f111": {
+  "f102": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "2014 konnten die Stürme sogar von Amateuren mit dem Teleskop beobachtet werden, so auffällig waren sie geworden.",
    "section": "Physikalische Eigenschaften"
   },
-  "f112": {
+  "f103": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Das Magnetfeld von Uranus ist ungewöhnlich und hat die Form eines Quadrupols mit 2 Nord- und 2 Südpolen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f113": {
+  "f104": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Das Magnetfeld von Uranus ist ungewöhnlich und hat die Form eines Quadrupols mit 2 Nord- und 2 Südpolen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f114": {
+  "f105": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Ein Polpaar ist um fast 60° gegenüber der Rotationsachse geneigt und hat seinen Ursprung nicht im Zentrum des Planeten, sondern ist um ein Drittel des Planetenradius nach Süden hin versetzt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f115": {
+  "f106": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
-   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
+   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß stark sein kann.",
    "section": "Physikalische Eigenschaften"
   },
-  "f116": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f117": {
+  "f107": {
    "kind": "number",
    "value": 1.1,
    "surface": "1,1",
-   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
+   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß stark sein kann.",
    "section": "Physikalische Eigenschaften"
   },
-  "f118": {
-   "kind": "number",
-   "value": 110,
-   "surface": "110",
-   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f119": {
+  "f108": {
    "kind": "number",
    "value": 0.23,
    "surface": "0,23",
-   "sentence": "Das durchschnittliche Feld auf der Oberfläche beträgt 0,23 Gauß (23 μT).",
+   "sentence": "Das durchschnittliche Feld auf der Oberfläche beträgt 0,23 Gauß.",
    "section": "Physikalische Eigenschaften"
   },
-  "f120": {
-   "kind": "number",
-   "value": 23,
-   "surface": "23",
-   "sentence": "Das durchschnittliche Feld auf der Oberfläche beträgt 0,23 Gauß (23 μT).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f121": {
+  "f109": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Das Dipolmoment von Uranus ist 50-mal stärker als das der Erde.",
    "section": "Physikalische Eigenschaften"
   },
-  "f122": {
+  "f110": {
    "kind": "measure",
    "value": 100000,
    "unit": "jahren",
@@ -933,28 +844,28 @@
    "sentence": "Der Partikelfluss ist hoch genug, um ein Verdunkeln oder eine Erosion der Mondoberflächen in einem astronomisch kurzen Zeitraum von 100.000 Jahren zu bewirken.",
    "section": "Physikalische Eigenschaften"
   },
-  "f123": {
+  "f111": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Uranus hatte beim Vorbeiflug von Voyager 2 relativ gut entwickelte Aurora-Erscheinungen, die als helle Bögen um die magnetischen Pole gesehen werden.",
    "section": "Physikalische Eigenschaften"
   },
-  "f124": {
+  "f112": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "Das Hubble Space Telescope konnte im Jahr 2011 kleine runde Erscheinungen auf der Uranus-Tagseite beobachten, die nur wenige Minuten andauerten.",
    "section": "Physikalische Eigenschaften"
   },
-  "f125": {
+  "f113": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Damit haben sich Uranus-Erscheinungen seit dem Vorbeiflug von Voyager 2 deutlich verändert, was wohl damit zusammenhängt, dass die Planetenachse und damit das Magnetfeld zur Sonne anders orientiert sind als beim Vorbeiflug von Voyager 2.",
    "section": "Physikalische Eigenschaften"
   },
-  "f126": {
+  "f114": {
    "kind": "number",
    "value": 2,
    "surface": "2",

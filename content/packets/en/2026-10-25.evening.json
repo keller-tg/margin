@@ -70,228 +70,185 @@
    "value": 2706.8,
    "unit": "kilometers",
    "surface": "2,706.8 kilometers",
-   "sentence": "At 2,706.8 kilometers (1,681.9 mi) in diameter, Triton is the seventh-largest moon in the Solar System, the second-largest planetary moon in relation to its primary (after Earth's Moon), and larger than all of the known dwarf planets."
+   "sentence": "At 2,706.8 kilometers in diameter, Triton is the seventh-largest moon in the Solar System, the second-largest planetary moon in relation to its primary, and larger than all of the known dwarf planets."
   },
   "f2": {
-   "kind": "measure",
-   "value": 1681.9,
-   "unit": "mi",
-   "surface": "1,681.9 mi",
-   "sentence": "At 2,706.8 kilometers (1,681.9 mi) in diameter, Triton is the seventh-largest moon in the Solar System, the second-largest planetary moon in relation to its primary (after Earth's Moon), and larger than all of the known dwarf planets."
-  },
-  "f3": {
    "kind": "measure",
    "value": 2.061,
    "unit": "g",
    "surface": "2.061 g",
    "sentence": "The mean density is 2.061 g/cm3, reflecting a composition of approximately 30–45% water ice by mass, with the rest being mostly rock and metal."
   },
-  "f4": {
+  "f3": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "The mean density is 2.061 g/cm3, reflecting a composition of approximately 30–45% water ice by mass, with the rest being mostly rock and metal."
   },
-  "f5": {
-   "kind": "measure",
-   "value": 45,
-   "unit": "%",
-   "surface": "45%",
-   "sentence": "The mean density is 2.061 g/cm3, reflecting a composition of approximately 30–45% water ice by mass, with the rest being mostly rock and metal."
-  },
-  "f6": {
+  "f4": {
    "kind": "number",
    "value": 0.00001,
    "surface": "0.00001",
    "sentence": "Although Triton's orbit is nearly circular with a very low orbital eccentricity of 0.00001, its interior may still experience tidal heating through obliquity tides."
   },
-  "f7": {
+  "f5": {
    "kind": "measure",
    "value": 100000000,
    "unit": "years",
    "surface": "100 million years",
    "sentence": "Triton is one of the most geologically active worlds in the Solar System, with an estimated average surface age of less than 100 million years old."
   },
-  "f8": {
+  "f6": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
    "surface": "30 years",
    "sentence": "Triton's atmosphere is relatively thin and strongly variable, with its atmospheric surface pressure varying by up to a factor of three within the past 30 years."
   },
-  "f9": {
+  "f7": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Triton was the first Neptunian moon to be discovered, on October 10, 1846, by English astronomer William Lassell."
   },
-  "f10": {
+  "f8": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "Triton was the first Neptunian moon to be discovered, on October 10, 1846, by English astronomer William Lassell."
   },
-  "f11": {
+  "f9": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "The 1989 flyby of Triton by the Voyager 2 spacecraft remains the only up-close visit to the moon as of 2026."
   },
-  "f12": {
+  "f10": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "The 1989 flyby of Triton by the Voyager 2 spacecraft remains the only up-close visit to the moon as of 2026."
   },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
    "sentence": "The 1989 flyby of Triton by the Voyager 2 spacecraft remains the only up-close visit to the moon as of 2026."
   },
-  "f14": {
+  "f12": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
    "surface": "40%",
    "sentence": "As the probe was able to study only about 40% of the moon's surface, multiple concept missions have been developed to revisit Triton."
   },
-  "f15": {
+  "f13": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Triton was discovered by British astronomer William Lassell on October 10, 1846, just 17 days after the discovery of Neptune.",
    "section": "Discovery and naming"
   },
-  "f16": {
+  "f14": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "Triton was discovered by British astronomer William Lassell on October 10, 1846, just 17 days after the discovery of Neptune.",
    "section": "Discovery and naming"
   },
-  "f17": {
+  "f15": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Triton was discovered by British astronomer William Lassell on October 10, 1846, just 17 days after the discovery of Neptune.",
    "section": "Discovery and naming"
   },
-  "f18": {
+  "f16": {
    "kind": "number",
    "value": 61,
    "surface": "61",
-   "sentence": "A brewer by trade, Lassell spotted Triton with his self-built 61-centimetre-aperture (24 in) metal mirror reflecting telescope (also known as the \"two-foot\" reflector).",
+   "sentence": "A brewer by trade, Lassell spotted Triton with his self-built 61-centimetre-aperture metal mirror reflecting telescope.",
    "section": "Discovery and naming"
   },
-  "f19": {
-   "kind": "number",
-   "value": 24,
-   "surface": "24",
-   "sentence": "A brewer by trade, Lassell spotted Triton with his self-built 61-centimetre-aperture (24 in) metal mirror reflecting telescope (also known as the \"two-foot\" reflector).",
-   "section": "Discovery and naming"
-  },
-  "f20": {
+  "f17": {
    "kind": "date",
    "value": "1880",
    "surface": "1880",
    "sentence": "The name was first proposed by Camille Flammarion in his 1880 book Astronomie Populaire, and was officially adopted many decades later.",
    "section": "Discovery and naming"
   },
-  "f21": {
+  "f18": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
    "sentence": "Until the discovery of the second moon Nereid in 1949, Triton was commonly referred to as \"the satellite of Neptune\".",
    "section": "Discovery and naming"
   },
-  "f22": {
+  "f19": {
    "kind": "measure",
    "value": 8,
    "unit": "%",
    "surface": "8%",
-   "sentence": "However, these moons are all much more distant from their primaries and are small in comparison, with the largest of them (Phoebe) having only 8% of the diameter (and 0.03% of the mass) of Triton, making Triton by far the largest moon with a retrograde orbit.",
+   "sentence": "However, these moons are all much more distant from their primaries and are small in comparison, with the largest of them having only 8% of the diameter of Triton, making Triton by far the largest moon with a retrograde orbit.",
+   "section": "Orbit and rotation"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Triton's orbit is associated with two tilts, the obliquity of Neptune's rotation to Neptune's orbit, 30°, and the inclination of Triton's orbit to Neptune's rotation, 157°.",
+   "section": "Orbit and rotation"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 157,
+   "surface": "157",
+   "sentence": "Triton's orbit is associated with two tilts, the obliquity of Neptune's rotation to Neptune's orbit, 30°, and the inclination of Triton's orbit to Neptune's rotation, 157°.",
+   "section": "Orbit and rotation"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "678",
+   "surface": "678",
+   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years, making its Neptune-orbit-relative inclination vary between 127° and 173°.",
    "section": "Orbit and rotation"
   },
   "f23": {
-   "kind": "measure",
-   "value": 0.03,
-   "unit": "%",
-   "surface": "0.03%",
-   "sentence": "However, these moons are all much more distant from their primaries and are small in comparison, with the largest of them (Phoebe) having only 8% of the diameter (and 0.03% of the mass) of Triton, making Triton by far the largest moon with a retrograde orbit.",
+   "kind": "number",
+   "value": 127,
+   "surface": "127",
+   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years, making its Neptune-orbit-relative inclination vary between 127° and 173°.",
    "section": "Orbit and rotation"
   },
   "f24": {
    "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "Triton's orbit is associated with two tilts, the obliquity of Neptune's rotation to Neptune's orbit, 30°, and the inclination of Triton's orbit to Neptune's rotation, 157° (an inclination over 90° indicates retrograde motion).",
+   "value": 173,
+   "surface": "173",
+   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years, making its Neptune-orbit-relative inclination vary between 127° and 173°.",
    "section": "Orbit and rotation"
   },
   "f25": {
-   "kind": "number",
-   "value": 157,
-   "surface": "157",
-   "sentence": "Triton's orbit is associated with two tilts, the obliquity of Neptune's rotation to Neptune's orbit, 30°, and the inclination of Triton's orbit to Neptune's rotation, 157° (an inclination over 90° indicates retrograde motion).",
-   "section": "Orbit and rotation"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 90,
-   "surface": "90",
-   "sentence": "Triton's orbit is associated with two tilts, the obliquity of Neptune's rotation to Neptune's orbit, 30°, and the inclination of Triton's orbit to Neptune's rotation, 157° (an inclination over 90° indicates retrograde motion).",
-   "section": "Orbit and rotation"
-  },
-  "f27": {
-   "kind": "date",
-   "value": "678",
-   "surface": "678",
-   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years (4.1 Neptunian years), making its Neptune-orbit-relative inclination vary between 127° and 173°.",
-   "section": "Orbit and rotation"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 4.1,
-   "surface": "4.1",
-   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years (4.1 Neptunian years), making its Neptune-orbit-relative inclination vary between 127° and 173°.",
-   "section": "Orbit and rotation"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 127,
-   "surface": "127",
-   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years (4.1 Neptunian years), making its Neptune-orbit-relative inclination vary between 127° and 173°.",
-   "section": "Orbit and rotation"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 173,
-   "surface": "173",
-   "sentence": "Triton's orbit precesses forward relative to Neptune's rotation with a period of about 678 Earth years (4.1 Neptunian years), making its Neptune-orbit-relative inclination vary between 127° and 173°.",
-   "section": "Orbit and rotation"
-  },
-  "f31": {
    "kind": "number",
    "value": 130,
    "surface": "130",
    "sentence": "That inclination is currently 130°; Triton's orbit is now near its maximum departure from coplanarity with Neptune's.",
    "section": "Orbit and rotation"
   },
-  "f32": {
+  "f26": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "At present, Triton's rotational axis is about 40° from Neptune's orbital plane, hence as Neptune orbits the Sun, Triton's polar regions take turns facing the Sun, resulting in seasonal changes as one pole, then the other moves into the sunlight.",
    "section": "Orbit and rotation"
   },
-  "f33": {
+  "f27": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Such changes were observed in 2010.",
    "section": "Orbit and rotation"
   },
-  "f34": {
+  "f28": {
    "kind": "measure",
    "value": 3600000000,
    "unit": "years",
@@ -299,14 +256,14 @@
    "sentence": "Tidal interactions also cause Triton's orbit, which is already closer to Neptune than the Moon is to Earth, to gradually decay further; predictions are that 3.6 billion years from now, Triton will pass within Neptune's Roche limit.",
    "section": "Orbit and rotation"
   },
-  "f35": {
+  "f29": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "However, a newer study done in 2025 has analyzed that Triton will reach Neptune's Roche limit in 28 billion years.",
    "section": "Orbit and rotation"
   },
-  "f36": {
+  "f30": {
    "kind": "measure",
    "value": 28000000000,
    "unit": "years",
@@ -314,7 +271,7 @@
    "sentence": "However, a newer study done in 2025 has analyzed that Triton will reach Neptune's Roche limit in 28 billion years.",
    "section": "Orbit and rotation"
   },
-  "f37": {
+  "f31": {
    "kind": "measure",
    "value": 50,
    "unit": "au",
@@ -322,21 +279,21 @@
    "sentence": "Astrophysicists believe it might have originated in the Kuiper belt, a ring of small icy objects extending from just inside the orbit of Neptune to about 50 AU from the Sun.",
    "section": "Capture"
   },
-  "f38": {
+  "f32": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "This has been further supported in a 2024 study of the chemical composition of Pluto and Triton which suggests they originated in the same region of the outer Solar System before the latter was pulled into Neptune's orbit.",
    "section": "Capture"
   },
-  "f39": {
+  "f33": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "However, simulations in 2017 showed that after Triton's capture, and before its orbital eccentricity decreased, it probably did collide with at least one other moon, and caused collisions between other moons.",
    "section": "Capture"
   },
-  "f40": {
+  "f34": {
    "kind": "measure",
    "value": 99.5,
    "unit": "%",
@@ -344,37 +301,15 @@
    "sentence": "It accounts for more than 99.5% of all the mass known to orbit Neptune, including the planet's rings and fifteen other known moons, and is also more massive than all known moons in the Solar System smaller than itself combined.",
    "section": "Physical characteristics"
   },
-  "f41": {
+  "f35": {
    "kind": "measure",
    "value": 5.5,
    "unit": "%",
    "surface": "5.5%",
-   "sentence": "Also, with a diameter 5.5% that of Neptune, it is the largest moon of a gas giant relative to its planet in terms of diameter, although Titan is bigger relative to Saturn in terms of mass (the ratio of Triton's mass to that of Neptune is approximately 1:4788).",
+   "sentence": "Also, with a diameter 5.5% that of Neptune, it is the largest moon of a gas giant relative to its planet in terms of diameter, although Titan is bigger relative to Saturn in terms of mass.",
    "section": "Physical characteristics"
   },
-  "f42": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Also, with a diameter 5.5% that of Neptune, it is the largest moon of a gas giant relative to its planet in terms of diameter, although Titan is bigger relative to Saturn in terms of mass (the ratio of Triton's mass to that of Neptune is approximately 1:4788).",
-   "section": "Physical characteristics"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 4788,
-   "surface": "4788",
-   "sentence": "Also, with a diameter 5.5% that of Neptune, it is the largest moon of a gas giant relative to its planet in terms of diameter, although Titan is bigger relative to Saturn in terms of mass (the ratio of Triton's mass to that of Neptune is approximately 1:4788).",
-   "section": "Physical characteristics"
-  },
-  "f44": {
-   "kind": "measure",
-   "value": 2.061,
-   "unit": "g",
-   "surface": "2.061 g",
-   "sentence": "It has a radius, density (2.061 g/cm3), temperature, and chemical composition similar to that of Pluto.",
-   "section": "Physical characteristics"
-  },
-  "f45": {
+  "f36": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -382,7 +317,7 @@
    "sentence": "Only 40% of Triton's surface has been observed and studied, but it may be entirely covered in such a thin sheet of nitrogen ice.",
    "section": "Physical characteristics"
   },
-  "f46": {
+  "f37": {
    "kind": "measure",
    "value": 55,
    "unit": "%",
@@ -390,37 +325,21 @@
    "sentence": "Triton's surface consists of 55% nitrogen ice with other ices mixed in.",
    "section": "Physical characteristics"
   },
-  "f47": {
+  "f38": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "Water ice comprises 15–35% and frozen carbon dioxide (dry ice) the remaining 10–20%.",
+   "sentence": "Water ice comprises 15–35% and frozen carbon dioxide the remaining 10–20%.",
    "section": "Physical characteristics"
   },
-  "f48": {
-   "kind": "measure",
-   "value": 35,
-   "unit": "%",
-   "surface": "35%",
-   "sentence": "Water ice comprises 15–35% and frozen carbon dioxide (dry ice) the remaining 10–20%.",
-   "section": "Physical characteristics"
-  },
-  "f49": {
+  "f39": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Water ice comprises 15–35% and frozen carbon dioxide (dry ice) the remaining 10–20%.",
+   "sentence": "Water ice comprises 15–35% and frozen carbon dioxide the remaining 10–20%.",
    "section": "Physical characteristics"
   },
-  "f50": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "%",
-   "surface": "20%",
-   "sentence": "Water ice comprises 15–35% and frozen carbon dioxide (dry ice) the remaining 10–20%.",
-   "section": "Physical characteristics"
-  },
-  "f51": {
+  "f40": {
    "kind": "measure",
    "value": 0.1,
    "unit": "%",
@@ -428,7 +347,7 @@
    "sentence": "Trace ices include 0.1% methane and 0.05% carbon monoxide.",
    "section": "Physical characteristics"
   },
-  "f52": {
+  "f41": {
    "kind": "measure",
    "value": 0.05,
    "unit": "%",
@@ -436,22 +355,14 @@
    "sentence": "Trace ices include 0.1% methane and 0.05% carbon monoxide.",
    "section": "Physical characteristics"
   },
-  "f53": {
+  "f42": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "Triton's mean density implies that it probably consists of about 30–45% water ice (including relatively small amounts of volatile ices), with the remainder being rocky material.",
+   "sentence": "Triton's mean density implies that it probably consists of about 30–45% water ice, with the remainder being rocky material.",
    "section": "Physical characteristics"
   },
-  "f54": {
-   "kind": "measure",
-   "value": 45,
-   "unit": "%",
-   "surface": "45%",
-   "sentence": "Triton's mean density implies that it probably consists of about 30–45% water ice (including relatively small amounts of volatile ices), with the remainder being rocky material.",
-   "section": "Physical characteristics"
-  },
-  "f55": {
+  "f43": {
    "kind": "measure",
    "value": 23000000,
    "unit": "km2",
@@ -459,7 +370,7 @@
    "sentence": "Triton's surface area is 23 million km2, which is 4.5% of Earth, or 15.5% of Earth's land area.",
    "section": "Physical characteristics"
   },
-  "f56": {
+  "f44": {
    "kind": "measure",
    "value": 4.5,
    "unit": "%",
@@ -467,7 +378,7 @@
    "sentence": "Triton's surface area is 23 million km2, which is 4.5% of Earth, or 15.5% of Earth's land area.",
    "section": "Physical characteristics"
   },
-  "f57": {
+  "f45": {
    "kind": "measure",
    "value": 15.5,
    "unit": "%",
@@ -475,22 +386,14 @@
    "sentence": "Triton's surface area is 23 million km2, which is 4.5% of Earth, or 15.5% of Earth's land area.",
    "section": "Physical characteristics"
   },
-  "f58": {
+  "f46": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Triton has an unusually high albedo, reflecting 60–95% of the sunlight that reaches it, and it has changed only slightly since the first observations.",
    "section": "Physical characteristics"
   },
-  "f59": {
-   "kind": "measure",
-   "value": 95,
-   "unit": "%",
-   "surface": "95%",
-   "sentence": "Triton has an unusually high albedo, reflecting 60–95% of the sunlight that reaches it, and it has changed only slightly since the first observations.",
-   "section": "Physical characteristics"
-  },
-  "f60": {
+  "f47": {
    "kind": "measure",
    "value": 11,
    "unit": "%",
@@ -498,98 +401,60 @@
    "sentence": "By comparison, the Moon reflects only 11%.",
    "section": "Physical characteristics"
   },
-  "f61": {
+  "f48": {
    "kind": "measure",
    "value": 38,
    "unit": "k",
    "surface": "38 K",
-   "sentence": "This high albedo causes Triton to reflect a lot of whatever little sunlight there is instead of absorbing it, causing it to have the coldest recorded temperature in the Solar System at 38 K (−235 °C).",
+   "sentence": "This high albedo causes Triton to reflect a lot of whatever little sunlight there is instead of absorbing it, causing it to have the coldest recorded temperature in the Solar System at 38 K. Triton's reddish color is thought to be the result of methane ice, which is converted to tholins under exposure to ultraviolet radiation.",
    "section": "Physical characteristics"
   },
-  "f62": {
-   "kind": "measure",
-   "value": 235,
-   "unit": "°c",
-   "surface": "235 °C",
-   "sentence": "This high albedo causes Triton to reflect a lot of whatever little sunlight there is instead of absorbing it, causing it to have the coldest recorded temperature in the Solar System at 38 K (−235 °C).",
-   "section": "Physical characteristics"
-  },
-  "f63": {
+  "f49": {
    "kind": "measure",
    "value": 35.6,
    "unit": "k",
    "surface": "35.6 K",
-   "sentence": "Its surface temperature is at least 35.6 K (−237.6 °C) because Triton's nitrogen ice is in the warmer, hexagonal crystalline state, and the phase transition between hexagonal and cubic nitrogen ice occurs at that temperature.",
+   "sentence": "Its surface temperature is at least 35.6 K because Triton's nitrogen ice is in the warmer, hexagonal crystalline state, and the phase transition between hexagonal and cubic nitrogen ice occurs at that temperature.",
    "section": "Atmosphere"
   },
-  "f64": {
-   "kind": "measure",
-   "value": 237.6,
-   "unit": "°c",
-   "surface": "237.6 °C",
-   "sentence": "Its surface temperature is at least 35.6 K (−237.6 °C) because Triton's nitrogen ice is in the warmer, hexagonal crystalline state, and the phase transition between hexagonal and cubic nitrogen ice occurs at that temperature.",
-   "section": "Atmosphere"
-  },
-  "f65": {
+  "f50": {
    "kind": "measure",
    "value": 44,
    "unit": "k",
    "surface": "44 K",
-   "sentence": "This is colder than Pluto's average equilibrium temperature of 44 K (−229.2 °C).",
+   "sentence": "This is colder than Pluto's average equilibrium temperature of 44 K. Triton's surface atmospheric pressure is only about 1.4–1.9 Pa.",
    "section": "Atmosphere"
   },
-  "f66": {
-   "kind": "measure",
-   "value": 229.2,
-   "unit": "°c",
-   "surface": "229.2 °C",
-   "sentence": "This is colder than Pluto's average equilibrium temperature of 44 K (−229.2 °C).",
-   "section": "Atmosphere"
-  },
-  "f67": {
+  "f51": {
    "kind": "number",
    "value": 1.4,
    "surface": "1.4",
-   "sentence": "Triton's surface atmospheric pressure is only about 1.4–1.9 Pa (0.014–0.019 mbar).",
+   "sentence": "This is colder than Pluto's average equilibrium temperature of 44 K. Triton's surface atmospheric pressure is only about 1.4–1.9 Pa.",
    "section": "Atmosphere"
   },
-  "f68": {
+  "f52": {
    "kind": "number",
    "value": 1.9,
    "surface": "1.9",
-   "sentence": "Triton's surface atmospheric pressure is only about 1.4–1.9 Pa (0.014–0.019 mbar).",
+   "sentence": "This is colder than Pluto's average equilibrium temperature of 44 K. Triton's surface atmospheric pressure is only about 1.4–1.9 Pa.",
    "section": "Atmosphere"
   },
-  "f69": {
-   "kind": "number",
-   "value": 0.014,
-   "surface": "0.014",
-   "sentence": "Triton's surface atmospheric pressure is only about 1.4–1.9 Pa (0.014–0.019 mbar).",
-   "section": "Atmosphere"
-  },
-  "f70": {
-   "kind": "number",
-   "value": 0.019,
-   "surface": "0.019",
-   "sentence": "Triton's surface atmospheric pressure is only about 1.4–1.9 Pa (0.014–0.019 mbar).",
-   "section": "Atmosphere"
-  },
-  "f71": {
+  "f53": {
    "kind": "measure",
    "value": 8,
    "unit": "km",
    "surface": "8 km",
-   "sentence": "Turbulence at Triton's surface creates a troposphere (a \"weather region\") rising to an altitude of 8 km.",
+   "sentence": "Turbulence at Triton's surface creates a troposphere rising to an altitude of 8 km.",
    "section": "Atmosphere"
   },
-  "f72": {
+  "f54": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Unlike other atmospheres, Triton's lacks a stratosphere and instead has a thermosphere from altitudes of 8 to 950 km and an exosphere above that.",
    "section": "Atmosphere"
   },
-  "f73": {
+  "f55": {
    "kind": "measure",
    "value": 950,
    "unit": "km",
@@ -597,14 +462,14 @@
    "sentence": "Unlike other atmospheres, Triton's lacks a stratosphere and instead has a thermosphere from altitudes of 8 to 950 km and an exosphere above that.",
    "section": "Atmosphere"
   },
-  "f74": {
+  "f56": {
    "kind": "number",
    "value": 95,
    "surface": "95",
    "sentence": "The temperature of Triton's upper atmosphere, at 95±5 K, is higher than that at its surface, due to heat absorbed from solar radiation and Neptune's magnetosphere.",
    "section": "Atmosphere"
   },
-  "f75": {
+  "f57": {
    "kind": "measure",
    "value": 5,
    "unit": "k",
@@ -612,14 +477,14 @@
    "sentence": "The temperature of Triton's upper atmosphere, at 95±5 K, is higher than that at its surface, due to heat absorbed from solar radiation and Neptune's magnetosphere.",
    "section": "Atmosphere"
   },
-  "f76": {
+  "f58": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Triton's atmosphere also has clouds of condensed nitrogen that lie between 1 and 3 km from its surface.",
    "section": "Atmosphere"
   },
-  "f77": {
+  "f59": {
    "kind": "measure",
    "value": 3,
    "unit": "km",
@@ -627,21 +492,21 @@
    "sentence": "Triton's atmosphere also has clouds of condensed nitrogen that lie between 1 and 3 km from its surface.",
    "section": "Atmosphere"
   },
-  "f78": {
+  "f60": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "In 1997, observations from Earth were made of Triton's limb as it passed in front of stars.",
    "section": "Atmosphere"
   },
-  "f79": {
+  "f61": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "These observations indicated a denser atmosphere than was deduced from Voyager 2 data.",
    "section": "Atmosphere"
   },
-  "f80": {
+  "f62": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -649,77 +514,77 @@
    "sentence": "Other observations have shown an increase in temperature by 5% from 1989 to 1998.",
    "section": "Atmosphere"
   },
-  "f81": {
+  "f63": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "Other observations have shown an increase in temperature by 5% from 1989 to 1998.",
    "section": "Atmosphere"
   },
-  "f82": {
+  "f64": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "Other observations have shown an increase in temperature by 5% from 1989 to 1998.",
    "section": "Atmosphere"
   },
-  "f83": {
+  "f65": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "Based on the increase in atmospheric pressure between 1989 and 1997, it is estimated that by 2010 Triton's atmospheric pressure may have increased to as much as 4 Pa.",
    "section": "Atmosphere"
   },
-  "f84": {
+  "f66": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Based on the increase in atmospheric pressure between 1989 and 1997, it is estimated that by 2010 Triton's atmospheric pressure may have increased to as much as 4 Pa.",
    "section": "Atmosphere"
   },
-  "f85": {
+  "f67": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Based on the increase in atmospheric pressure between 1989 and 1997, it is estimated that by 2010 Triton's atmospheric pressure may have increased to as much as 4 Pa.",
    "section": "Atmosphere"
   },
-  "f86": {
+  "f68": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Based on the increase in atmospheric pressure between 1989 and 1997, it is estimated that by 2010 Triton's atmospheric pressure may have increased to as much as 4 Pa.",
    "section": "Atmosphere"
   },
-  "f87": {
+  "f69": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "By 2017, however, Triton's atmospheric surface pressure had nearly returned to Voyager 2 levels; the cause for the rapid spike in atmospheric pressure between 1989 and 2017 remains unexplained.",
    "section": "Atmosphere"
   },
-  "f88": {
+  "f70": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "By 2017, however, Triton's atmospheric surface pressure had nearly returned to Voyager 2 levels; the cause for the rapid spike in atmospheric pressure between 1989 and 2017 remains unexplained.",
    "section": "Atmosphere"
   },
-  "f89": {
+  "f71": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "By 2017, however, Triton's atmospheric surface pressure had nearly returned to Voyager 2 levels; the cause for the rapid spike in atmospheric pressure between 1989 and 2017 remains unexplained.",
    "section": "Atmosphere"
   },
-  "f90": {
+  "f72": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "By 2017, however, Triton's atmospheric surface pressure had nearly returned to Voyager 2 levels; the cause for the rapid spike in atmospheric pressure between 1989 and 2017 remains unexplained.",
    "section": "Atmosphere"
   },
-  "f91": {
+  "f73": {
    "kind": "measure",
    "value": 40000,
    "unit": "km",
@@ -727,21 +592,21 @@
    "sentence": "All detailed knowledge of the surface of Triton was acquired from a distance of 40,000 km by the Voyager 2 spacecraft during a single encounter in 1989.",
    "section": "Surface features"
   },
-  "f92": {
+  "f74": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "All detailed knowledge of the surface of Triton was acquired from a distance of 40,000 km by the Voyager 2 spacecraft during a single encounter in 1989.",
    "section": "Surface features"
   },
-  "f93": {
+  "f75": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "All detailed knowledge of the surface of Triton was acquired from a distance of 40,000 km by the Voyager 2 spacecraft during a single encounter in 1989.",
    "section": "Surface features"
   },
-  "f94": {
+  "f76": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -749,14 +614,14 @@
    "sentence": "The 40% of Triton's surface imaged by Voyager 2 revealed blocky outcrops, ridges, troughs, furrows, hollows, plateaus, icy plains, and a few craters.",
    "section": "Surface features"
   },
-  "f95": {
+  "f77": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "The 40% of Triton's surface imaged by Voyager 2 revealed blocky outcrops, ridges, troughs, furrows, hollows, plateaus, icy plains, and a few craters.",
    "section": "Surface features"
   },
-  "f96": {
+  "f78": {
    "kind": "measure",
    "value": 50000000,
    "unit": "years",
@@ -764,7 +629,7 @@
    "sentence": "Analysis of crater density and distribution has suggested that in geological terms, Triton's surface is extremely young, with regions varying from an estimated 50 million years old to just an estimated 6 million years old.",
    "section": "Surface features"
   },
-  "f97": {
+  "f79": {
    "kind": "measure",
    "value": 6000000,
    "unit": "years",
@@ -772,37 +637,21 @@
    "sentence": "Analysis of crater density and distribution has suggested that in geological terms, Triton's surface is extremely young, with regions varying from an estimated 50 million years old to just an estimated 6 million years old.",
    "section": "Surface features"
   },
-  "f98": {
+  "f80": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Fifty-five percent of Triton's surface is covered with frozen nitrogen, with water ice comprising 15–35% and frozen CO2 forming the remaining 10–20%.",
    "section": "Surface features"
   },
-  "f99": {
-   "kind": "measure",
-   "value": 35,
-   "unit": "%",
-   "surface": "35%",
-   "sentence": "Fifty-five percent of Triton's surface is covered with frozen nitrogen, with water ice comprising 15–35% and frozen CO2 forming the remaining 10–20%.",
-   "section": "Surface features"
-  },
-  "f100": {
+  "f81": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Fifty-five percent of Triton's surface is covered with frozen nitrogen, with water ice comprising 15–35% and frozen CO2 forming the remaining 10–20%.",
    "section": "Surface features"
   },
-  "f101": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "%",
-   "surface": "20%",
-   "sentence": "Fifty-five percent of Triton's surface is covered with frozen nitrogen, with water ice comprising 15–35% and frozen CO2 forming the remaining 10–20%.",
-   "section": "Surface features"
-  },
-  "f102": {
+  "f82": {
    "kind": "measure",
    "value": 100,
    "unit": "km",
@@ -810,7 +659,7 @@
    "sentence": "One of the largest cryovolcanic features found on Triton is Leviathan Patera, a caldera-like feature roughly 100 km in diameter seen near the equator.",
    "section": "Surface features"
   },
-  "f103": {
+  "f83": {
    "kind": "measure",
    "value": 490000,
    "unit": "km2",
@@ -818,21 +667,21 @@
    "sentence": "Surrounding this caldera is a massive cryovolcanic plain, Cipango Planum, which is at least 490,000 km2 in area; assuming Leviathan Patera is the primary vent, Leviathan Patera is one of the largest volcanic or cryovolcanic constructs in the Solar System.",
    "section": "Surface features"
   },
-  "f104": {
+  "f84": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "The Voyager 2 probe in 1989 observed a handful of geyser-like eruptions of nitrogen gas or water and entrained dust from beneath the surface of Triton in plumes up to 8 km high.",
    "section": "Surface features"
   },
-  "f105": {
+  "f85": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "The Voyager 2 probe in 1989 observed a handful of geyser-like eruptions of nitrogen gas or water and entrained dust from beneath the surface of Triton in plumes up to 8 km high.",
    "section": "Surface features"
   },
-  "f106": {
+  "f86": {
    "kind": "measure",
    "value": 8,
    "unit": "km",
@@ -840,58 +689,44 @@
    "sentence": "The Voyager 2 probe in 1989 observed a handful of geyser-like eruptions of nitrogen gas or water and entrained dust from beneath the surface of Triton in plumes up to 8 km high.",
    "section": "Surface features"
   },
-  "f107": {
+  "f87": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "This model is largely supported by the observation that Triton was near peak southern summer at the time of Voyager 2's flyby, ensuring its southern polar cap was receiving prolonged sunlight.",
    "section": "Surface features"
   },
-  "f108": {
+  "f88": {
    "kind": "measure",
    "value": 400,
    "unit": "kilograms",
    "surface": "400 kilograms",
-   "sentence": "A cryovolcanic origin better explains the estimated output of Triton's plumes, which possibly exceeds 400 kilograms per second (880 lb/s).",
+   "sentence": "A cryovolcanic origin better explains the estimated output of Triton's plumes, which possibly exceeds 400 kilograms per second.",
    "section": "Surface features"
   },
-  "f109": {
-   "kind": "date",
-   "value": "880",
-   "surface": "880",
-   "sentence": "A cryovolcanic origin better explains the estimated output of Triton's plumes, which possibly exceeds 400 kilograms per second (880 lb/s).",
-   "section": "Surface features"
-  },
-  "f110": {
+  "f89": {
    "kind": "measure",
    "value": 200,
    "unit": "kg",
    "surface": "200 kg",
-   "sentence": "This is similar to that which is estimated for Enceladus's cryovolcanic plumes at 200 kg/s (440 lb/s).",
+   "sentence": "This is similar to that which is estimated for Enceladus's cryovolcanic plumes at 200 kg/s.",
    "section": "Surface features"
   },
-  "f111": {
-   "kind": "number",
-   "value": 440,
-   "surface": "440",
-   "sentence": "This is similar to that which is estimated for Enceladus's cryovolcanic plumes at 200 kg/s (440 lb/s).",
-   "section": "Surface features"
-  },
-  "f112": {
+  "f90": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Though only observed up close once by the Voyager 2 spacecraft, it is estimated that a plume eruption on Triton may last up to a year.",
    "section": "Surface features"
   },
-  "f113": {
+  "f91": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Little is known about the north pole because it was on the night side during the Voyager 2 encounter, but it is thought that Triton must also have a north polar ice cap.",
    "section": "Surface features"
   },
-  "f114": {
+  "f92": {
    "kind": "measure",
    "value": 200,
    "unit": "m",
@@ -899,7 +734,7 @@
    "sentence": "They are the flattest regions so far discovered, with a variance in altitude of less than 200 m.",
    "section": "Surface features"
   },
-  "f115": {
+  "f93": {
    "kind": "measure",
    "value": 100,
    "unit": "km",
@@ -907,14 +742,14 @@
    "sentence": "The maculae typically have diameters of about 100 km and widths of the halos of between 20 and 30 km.",
    "section": "Surface features"
   },
-  "f116": {
+  "f94": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "The maculae typically have diameters of about 100 km and widths of the halos of between 20 and 30 km.",
    "section": "Surface features"
   },
-  "f117": {
+  "f95": {
    "kind": "measure",
    "value": 30,
    "unit": "km",
@@ -922,100 +757,68 @@
    "sentence": "The maculae typically have diameters of about 100 km and widths of the halos of between 20 and 30 km.",
    "section": "Surface features"
   },
-  "f118": {
+  "f96": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "It contains depressions 30–40 km in diameter.",
    "section": "Surface features"
   },
-  "f119": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "km",
-   "surface": "40 km",
-   "sentence": "It contains depressions 30–40 km in diameter.",
-   "section": "Surface features"
-  },
-  "f120": {
+  "f97": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "A census of Triton's craters imaged by Voyager 2 found only 179 that were incontestably of impact origin, compared with 835 observed for Uranus's moon Miranda, which has only three percent of Triton's surface area.",
    "section": "Surface features"
   },
-  "f121": {
+  "f98": {
    "kind": "number",
    "value": 179,
    "surface": "179",
    "sentence": "A census of Triton's craters imaged by Voyager 2 found only 179 that were incontestably of impact origin, compared with 835 observed for Uranus's moon Miranda, which has only three percent of Triton's surface area.",
    "section": "Surface features"
   },
-  "f122": {
+  "f99": {
    "kind": "date",
    "value": "835",
    "surface": "835",
    "sentence": "A census of Triton's craters imaged by Voyager 2 found only 179 that were incontestably of impact origin, compared with 835 observed for Uranus's moon Miranda, which has only three percent of Triton's surface area.",
    "section": "Surface features"
   },
-  "f123": {
+  "f100": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "The largest crater observed on Triton thought to have been created by an impact is a 27-kilometer-diameter (17 mi) feature called Mazomba.",
+   "sentence": "The largest crater observed on Triton thought to have been created by an impact is a 27-kilometer-diameter feature called Mazomba.",
    "section": "Surface features"
   },
-  "f124": {
-   "kind": "measure",
-   "value": 17,
-   "unit": "mi",
-   "surface": "17 mi",
-   "sentence": "The largest crater observed on Triton thought to have been created by an impact is a 27-kilometer-diameter (17 mi) feature called Mazomba.",
-   "section": "Surface features"
-  },
-  "f125": {
+  "f101": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "The few impact craters on Triton are almost all concentrated in the leading hemisphere—that facing the direction of the orbital motion—with the majority concentrated around the equator between 30° and 70° longitude, resulting from material swept up from orbit around Neptune.",
    "section": "Surface features"
   },
-  "f126": {
+  "f102": {
    "kind": "number",
    "value": 70,
    "surface": "70",
    "sentence": "The few impact craters on Triton are almost all concentrated in the leading hemisphere—that facing the direction of the orbital motion—with the majority concentrated around the equator between 30° and 70° longitude, resulting from material swept up from orbit around Neptune.",
    "section": "Surface features"
   },
-  "f127": {
+  "f103": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Voyager 2 imaged only 40% of Triton's surface, so this remains uncertain.",
    "section": "Surface features"
   },
-  "f128": {
+  "f104": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
    "surface": "40%",
    "sentence": "Voyager 2 imaged only 40% of Triton's surface, so this remains uncertain.",
-   "section": "Surface features"
-  },
-  "f129": {
-   "kind": "measure",
-   "value": 6000000,
-   "unit": "years",
-   "surface": "6 million years",
-   "sentence": "However, the observed cratering asymmetry exceeds what can be explained based on the impactor populations, and implies a younger surface age for the crater-free regions (≤ 6 million years old) than for the cratered regions (≤ 50 million years old).",
-   "section": "Surface features"
-  },
-  "f130": {
-   "kind": "measure",
-   "value": 50000000,
-   "unit": "years",
-   "surface": "50 million years",
-   "sentence": "However, the observed cratering asymmetry exceeds what can be explained based on the impactor populations, and implies a younger surface age for the crater-free regions (≤ 6 million years old) than for the cratered regions (≤ 50 million years old).",
    "section": "Surface features"
   }
  },

@@ -61,231 +61,107 @@
    "sentence": "The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids."
   },
   "f2": {
-   "kind": "date",
-   "value": "525",
-   "surface": "525",
-   "sentence": "The scientific Latin term octopus was derived from Ancient Greek ὀκτώπους (oktōpous), a compound form of ὀκτώ (oktō, 'eight') and πούς (pous, 'foot'), itself a variant form of ὀκτάπους, a word used for example by Alexander of Tralles (c. 525 – c. 605).",
-   "section": "Etymology and pluralisation"
-  },
-  "f3": {
-   "kind": "date",
-   "value": "605",
-   "surface": "605",
-   "sentence": "The scientific Latin term octopus was derived from Ancient Greek ὀκτώπους (oktōpous), a compound form of ὀκτώ (oktō, 'eight') and πούς (pous, 'foot'), itself a variant form of ὀκτάπους, a word used for example by Alexander of Tralles (c. 525 – c. 605).",
-   "section": "Etymology and pluralisation"
-  },
-  "f4": {
-   "kind": "date",
-   "value": "2010",
-   "surface": "2010",
-   "sentence": "The New Oxford American Dictionary (3rd Edition, 2010) lists octopuses as the only acceptable pluralisation, and indicates that octopodes is occasionally used, but that octopi is incorrect.",
-   "section": "Etymology and pluralisation"
-  },
-  "f5": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft).",
+   "sentence": "Adults usually weigh 10–50 kg, with an arm span of up to 4.8 m.",
    "section": "Anatomy and physiology"
   },
-  "f6": {
-   "kind": "measure",
-   "value": 50,
-   "unit": "kg",
-   "surface": "50 kg",
-   "sentence": "Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft).",
-   "section": "Anatomy and physiology"
-  },
-  "f7": {
-   "kind": "number",
-   "value": 22,
-   "surface": "22",
-   "sentence": "Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft).",
-   "section": "Anatomy and physiology"
-  },
-  "f8": {
-   "kind": "number",
-   "value": 110,
-   "surface": "110",
-   "sentence": "Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft).",
-   "section": "Anatomy and physiology"
-  },
-  "f9": {
+  "f3": {
    "kind": "measure",
    "value": 4.8,
    "unit": "m",
    "surface": "4.8 m",
-   "sentence": "Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft).",
+   "sentence": "Adults usually weigh 10–50 kg, with an arm span of up to 4.8 m.",
    "section": "Anatomy and physiology"
   },
-  "f10": {
-   "kind": "measure",
-   "value": 16,
-   "unit": "ft",
-   "surface": "16 ft",
-   "sentence": "Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft).",
-   "section": "Anatomy and physiology"
-  },
-  "f11": {
+  "f4": {
    "kind": "measure",
    "value": 71,
    "unit": "kg",
    "surface": "71 kg",
-   "sentence": "The largest specimen of this species to be scientifically documented reached a live mass of 71 kg (157 lb).",
+   "sentence": "The largest specimen of this species to be scientifically documented reached a live mass of 71 kg.",
    "section": "Anatomy and physiology"
   },
-  "f12": {
-   "kind": "number",
-   "value": 157,
-   "surface": "157",
-   "sentence": "The largest specimen of this species to be scientifically documented reached a live mass of 71 kg (157 lb).",
-   "section": "Anatomy and physiology"
-  },
-  "f13": {
+  "f5": {
    "kind": "date",
    "value": "600",
    "surface": "600",
-   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb (270 kg) with an arm span of 32 ft (9.8 m).",
+   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb with an arm span of 32 ft. A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg and was estimated to have had a live mass of 75 kg.",
    "section": "Anatomy and physiology"
   },
-  "f14": {
-   "kind": "measure",
-   "value": 270,
-   "unit": "kg",
-   "surface": "270 kg",
-   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb (270 kg) with an arm span of 32 ft (9.8 m).",
-   "section": "Anatomy and physiology"
-  },
-  "f15": {
+  "f6": {
    "kind": "measure",
    "value": 32,
    "unit": "ft",
    "surface": "32 ft",
-   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb (270 kg) with an arm span of 32 ft (9.8 m).",
+   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb with an arm span of 32 ft. A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg and was estimated to have had a live mass of 75 kg.",
    "section": "Anatomy and physiology"
   },
-  "f16": {
-   "kind": "measure",
-   "value": 9.8,
-   "unit": "m",
-   "surface": "9.8 m",
-   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb (270 kg) with an arm span of 32 ft (9.8 m).",
-   "section": "Anatomy and physiology"
-  },
-  "f17": {
+  "f7": {
    "kind": "measure",
    "value": 61,
    "unit": "kg",
    "surface": "61 kg",
-   "sentence": "A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg (134 lb) and was estimated to have had a live mass of 75 kg (165 lb).",
+   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb with an arm span of 32 ft. A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg and was estimated to have had a live mass of 75 kg.",
    "section": "Anatomy and physiology"
   },
-  "f18": {
-   "kind": "number",
-   "value": 134,
-   "surface": "134",
-   "sentence": "A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg (134 lb) and was estimated to have had a live mass of 75 kg (165 lb).",
-   "section": "Anatomy and physiology"
-  },
-  "f19": {
+  "f8": {
    "kind": "measure",
    "value": 75,
    "unit": "kg",
    "surface": "75 kg",
-   "sentence": "A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg (134 lb) and was estimated to have had a live mass of 75 kg (165 lb).",
+   "sentence": "Much larger sizes have been claimed: one specimen was recorded as 600 lb with an arm span of 32 ft. A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg and was estimated to have had a live mass of 75 kg.",
    "section": "Anatomy and physiology"
   },
-  "f20": {
-   "kind": "number",
-   "value": 165,
-   "surface": "165",
-   "sentence": "A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg (134 lb) and was estimated to have had a live mass of 75 kg (165 lb).",
-   "section": "Anatomy and physiology"
-  },
-  "f21": {
+  "f9": {
    "kind": "measure",
    "value": 2.5,
    "unit": "cm",
    "surface": "2.5 cm",
-   "sentence": "The smallest species is Octopus wolfi, which is around 2.5 cm (1 in) and weighs less than 1 g (0.035 oz).",
+   "sentence": "The smallest species is Octopus wolfi, which is around 2.5 cm and weighs less than 1 g.",
    "section": "Anatomy and physiology"
   },
-  "f22": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "The smallest species is Octopus wolfi, which is around 2.5 cm (1 in) and weighs less than 1 g (0.035 oz).",
-   "section": "Anatomy and physiology"
-  },
-  "f23": {
+  "f10": {
    "kind": "measure",
    "value": 1,
    "unit": "g",
    "surface": "1 g",
-   "sentence": "The smallest species is Octopus wolfi, which is around 2.5 cm (1 in) and weighs less than 1 g (0.035 oz).",
+   "sentence": "The smallest species is Octopus wolfi, which is around 2.5 cm and weighs less than 1 g.",
    "section": "Anatomy and physiology"
   },
-  "f24": {
-   "kind": "number",
-   "value": 0.035,
-   "surface": "0.035",
-   "sentence": "The smallest species is Octopus wolfi, which is around 2.5 cm (1 in) and weighs less than 1 g (0.035 oz).",
-   "section": "Anatomy and physiology"
-  },
-  "f25": {
+  "f11": {
    "kind": "measure",
    "value": 2.5,
    "unit": "cm",
    "surface": "2.5 cm",
-   "sentence": "Most of the body is made of soft tissue, allowing it to squeeze through tiny gaps; even the larger species can pass through a gap little more than 2.5 cm (1 in) in diameter.",
+   "sentence": "Most of the body is made of soft tissue, allowing it to squeeze through tiny gaps; even the larger species can pass through a gap little more than 2.5 cm in diameter.",
    "section": "Anatomy and physiology"
   },
-  "f26": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Most of the body is made of soft tissue, allowing it to squeeze through tiny gaps; even the larger species can pass through a gap little more than 2.5 cm (1 in) in diameter.",
-   "section": "Anatomy and physiology"
-  },
-  "f27": {
+  "f12": {
    "kind": "number",
    "value": 75,
    "surface": "75",
-   "sentence": "This makes the blood viscous and it requires great pressure to pump it around the body; blood pressures can surpass 75 mmHg (10 kPa).",
+   "sentence": "This makes the blood viscous and it requires great pressure to pump it around the body; blood pressures can surpass 75 mmHg.",
    "section": "Anatomy and physiology"
   },
-  "f28": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "This makes the blood viscous and it requires great pressure to pump it around the body; blood pressures can surpass 75 mmHg (10 kPa).",
-   "section": "Anatomy and physiology"
-  },
-  "f29": {
+  "f13": {
    "kind": "measure",
    "value": 65,
    "unit": "%",
    "surface": "65%",
-   "sentence": "The lamella structure of the gills allows for high oxygen uptake, up to 65% in water at 20 °C (68 °F).",
+   "sentence": "The lamella structure of the gills allows for high oxygen uptake, up to 65% in water at 20 °C.",
    "section": "Anatomy and physiology"
   },
-  "f30": {
+  "f14": {
    "kind": "measure",
    "value": 20,
    "unit": "°c",
    "surface": "20 °C",
-   "sentence": "The lamella structure of the gills allows for high oxygen uptake, up to 65% in water at 20 °C (68 °F).",
+   "sentence": "The lamella structure of the gills allows for high oxygen uptake, up to 65% in water at 20 °C.",
    "section": "Anatomy and physiology"
   },
-  "f31": {
-   "kind": "measure",
-   "value": 68,
-   "unit": "°f",
-   "surface": "68 °F",
-   "sentence": "The lamella structure of the gills allows for high oxygen uptake, up to 65% in water at 20 °C (68 °F).",
-   "section": "Anatomy and physiology"
-  },
-  "f32": {
+  "f15": {
    "kind": "measure",
    "value": 41,
    "unit": "%",
@@ -293,7 +169,7 @@
    "sentence": "When resting, around 41% of oxygen absorption is through the skin, reduced to 33% when the octopus swims, despite the amount of oxygen absorption increasing as water flows over the body.",
    "section": "Anatomy and physiology"
   },
-  "f33": {
+  "f16": {
    "kind": "measure",
    "value": 33,
    "unit": "%",
@@ -301,7 +177,7 @@
    "sentence": "When resting, around 41% of oxygen absorption is through the skin, reduced to 33% when the octopus swims, despite the amount of oxygen absorption increasing as water flows over the body.",
    "section": "Anatomy and physiology"
   },
-  "f34": {
+  "f17": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
@@ -309,14 +185,14 @@
    "sentence": "When it is resting after a meal, skin absorption can drop to 3%.",
    "section": "Anatomy and physiology"
   },
-  "f35": {
+  "f18": {
    "kind": "number",
    "value": 500000000,
    "surface": "500 million",
    "sentence": "Octopuses and their relatives have a more expansive and complex nervous system than other invertebrates, containing over 500 million neurons, around the same as a dog.",
    "section": "Anatomy and physiology"
   },
-  "f36": {
+  "f19": {
    "kind": "measure",
    "value": 400,
    "unit": "hz",
@@ -324,7 +200,7 @@
    "sentence": "The common octopus can hear sounds between 400 Hz and 1000 Hz, and hears best at 600 Hz.",
    "section": "Anatomy and physiology"
   },
-  "f37": {
+  "f20": {
    "kind": "measure",
    "value": 1000,
    "unit": "hz",
@@ -332,7 +208,7 @@
    "sentence": "The common octopus can hear sounds between 400 Hz and 1000 Hz, and hears best at 600 Hz.",
    "section": "Anatomy and physiology"
   },
-  "f38": {
+  "f21": {
    "kind": "measure",
    "value": 600,
    "unit": "hz",
@@ -340,32 +216,25 @@
    "sentence": "The common octopus can hear sounds between 400 Hz and 1000 Hz, and hears best at 600 Hz.",
    "section": "Anatomy and physiology"
   },
-  "f39": {
+  "f22": {
    "kind": "number",
    "value": 180000,
    "surface": "180,000",
    "sentence": "The species can lay 180,000 eggs in a single clutch, while O. rubescens clutches host up to 45,000 eggs while O. vulgaris clutches can include 500,000 eggs.",
    "section": "Life cycle"
   },
-  "f40": {
+  "f23": {
    "kind": "number",
    "value": 45000,
    "surface": "45,000",
    "sentence": "The species can lay 180,000 eggs in a single clutch, while O. rubescens clutches host up to 45,000 eggs while O. vulgaris clutches can include 500,000 eggs.",
    "section": "Life cycle"
   },
-  "f41": {
+  "f24": {
    "kind": "number",
    "value": 500000,
    "surface": "500,000",
    "sentence": "The species can lay 180,000 eggs in a single clutch, while O. rubescens clutches host up to 45,000 eggs while O. vulgaris clutches can include 500,000 eggs.",
-   "section": "Life cycle"
-  },
-  "f42": {
-   "kind": "number",
-   "value": 160,
-   "surface": "160",
-   "sentence": "Female giant Pacific octopuses nurture and protect their eggs for five months (160 days) until they hatch.",
    "section": "Life cycle"
   }
  },

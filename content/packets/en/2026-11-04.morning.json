@@ -58,14 +58,14 @@
    "value": 5730,
    "unit": "years",
    "surface": "5,730 years",
-   "sentence": "The half-life of 14C (the period of time after which half of a given sample will have decayed) is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
+   "sentence": "The half-life of 14C is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
   },
   "f2": {
    "kind": "measure",
    "value": 50000,
    "unit": "years",
    "surface": "50,000 years",
-   "sentence": "The half-life of 14C (the period of time after which half of a given sample will have decayed) is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
+   "sentence": "The half-life of 14C is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
   },
   "f3": {
    "kind": "date",
@@ -178,7 +178,7 @@
    "value": 5730,
    "unit": "years",
    "surface": "5,730 years",
-   "sentence": "The half-life of 14C (the time it takes for half of a given amount of 14C to decay) is about 5,730 years, so its concentration in the atmosphere might be expected to decrease over thousands of years, but 14C is constantly being produced in the lower stratosphere and upper troposphere, primarily by galactic cosmic rays, and to a lesser degree by solar cosmic rays.",
+   "sentence": "The half-life of 14C is about 5,730 years, so its concentration in the atmosphere might be expected to decrease over thousands of years, but 14C is constantly being produced in the lower stratosphere and upper troposphere, primarily by galactic cosmic rays, and to a lesser degree by solar cosmic rays.",
    "section": "Physical and chemical details"
   },
   "f19": {
@@ -207,17 +207,10 @@
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "The equation governing the decay of a radioactive isotope is:\nN\n=\nN\n0\ne\n−\nλ\nt\n\\,e^{-\\lambda t}\\,}\nwhere N0 is the number of atoms of the isotope in the original sample (at time t = 0, when the organism from which the sample was taken died), and N is the number of atoms left after time t. λ is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-life – i.e. the average or expected time a given atom will survive before undergoing radioactive decay.",
+   "sentence": "The equation governing the decay of a radioactive isotope is:\nN\n=\nN\n0\ne\n−\nλ\nt\n\\,e^{-\\lambda t}\\,}\nwhere N0 is the number of atoms of the isotope in the original sample, and N is the number of atoms left after time t. λ is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-life – i.e. the average or expected time a given atom will survive before undergoing radioactive decay.",
    "section": "Physical and chemical details"
   },
   "f23": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "The equation governing the decay of a radioactive isotope is:\nN\n=\nN\n0\ne\n−\nλ\nt\n\\,e^{-\\lambda t}\\,}\nwhere N0 is the number of atoms of the isotope in the original sample (at time t = 0, when the organism from which the sample was taken died), and N is the number of atoms left after time t. λ is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-life – i.e. the average or expected time a given atom will survive before undergoing radioactive decay.",
-   "section": "Physical and chemical details"
-  },
-  "f24": {
    "kind": "measure",
    "value": 8267,
    "unit": "years",
@@ -225,10 +218,18 @@
    "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
    "section": "Physical and chemical details"
   },
-  "f25": {
+  "f24": {
    "kind": "number",
    "value": 0,
    "surface": "0",
+   "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
+   "section": "Physical and chemical details"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 8267,
+   "unit": "years",
+   "surface": "8267 years",
    "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
    "section": "Physical and chemical details"
   },
@@ -241,21 +242,13 @@
    "section": "Physical and chemical details"
   },
   "f27": {
-   "kind": "measure",
-   "value": 8267,
-   "unit": "years",
-   "surface": "8267 years",
-   "sentence": "The mean-life, denoted by τ, of 14C is 8,267 years, so the equation above can be rewritten as:\nt\n=\nln\n⁡\n(\nN\n0\n/\nN\n)\n⋅\n8267 years\n/N)\\cdot {\\text{8267 years}}}\nThe sample is assumed to have originally had the same 14C/12C ratio as the ratio in the atmosphere, and since the size of the sample is known, the total number of atoms in the sample can be calculated, yielding N0, the number of 14C atoms in the original sample.",
-   "section": "Physical and chemical details"
-  },
-  "f28": {
    "kind": "number",
    "value": 5700,
    "surface": "5,700",
    "sentence": "The currently accepted value for the half-life of 14C is 5,700 ± 30 years.",
    "section": "Physical and chemical details"
   },
-  "f29": {
+  "f28": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
@@ -263,7 +256,7 @@
    "sentence": "The currently accepted value for the half-life of 14C is 5,700 ± 30 years.",
    "section": "Physical and chemical details"
   },
-  "f30": {
+  "f29": {
    "kind": "measure",
    "value": 5700,
    "unit": "years",
@@ -271,7 +264,7 @@
    "sentence": "This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.",
    "section": "Physical and chemical details"
   },
-  "f31": {
+  "f30": {
    "kind": "measure",
    "value": 11400,
    "unit": "years",
@@ -279,7 +272,7 @@
    "sentence": "This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.",
    "section": "Physical and chemical details"
   },
-  "f32": {
+  "f31": {
    "kind": "measure",
    "value": 17100,
    "unit": "years",
@@ -287,21 +280,21 @@
    "sentence": "This means that after 5,700 years, only half of the initial 14C will remain; a quarter will remain after 11,400 years; an eighth after 17,100 years; and so on.",
    "section": "Physical and chemical details"
   },
-  "f33": {
+  "f32": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
    "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
    "section": "Physical and chemical details"
   },
-  "f34": {
+  "f33": {
    "kind": "number",
    "value": 5720,
    "surface": "5720",
    "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
    "section": "Physical and chemical details"
   },
-  "f35": {
+  "f34": {
    "kind": "measure",
    "value": 47,
    "unit": "years",
@@ -309,14 +302,14 @@
    "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
    "section": "Physical and chemical details"
   },
-  "f36": {
+  "f35": {
    "kind": "number",
    "value": 5568,
    "surface": "5568",
    "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
    "section": "Physical and chemical details"
   },
-  "f37": {
+  "f36": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
@@ -324,45 +317,37 @@
    "sentence": "In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al. This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years, and this value was in use for more than a decade.",
    "section": "Physical and chemical details"
   },
-  "f38": {
+  "f37": {
    "kind": "number",
    "value": 5730,
    "surface": "5,730",
-   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).",
+   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect.",
    "section": "Physical and chemical details"
   },
-  "f39": {
+  "f38": {
    "kind": "measure",
    "value": 40,
    "unit": "years",
    "surface": "40 years",
-   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).",
+   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect.",
+   "section": "Physical and chemical details"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "1962",
+   "surface": "1962",
+   "sentence": "For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge to use the \"Libby half-life\"of 5568 years.",
    "section": "Physical and chemical details"
   },
   "f40": {
    "kind": "measure",
-   "value": 3,
-   "unit": "%",
-   "surface": "3%",
-   "sentence": "It was revised again in the early 1960s to 5,730 ± 40 years, which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).",
-   "section": "Physical and chemical details"
-  },
-  "f41": {
-   "kind": "date",
-   "value": "1962",
-   "surface": "1962",
-   "sentence": "For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the \"Libby half-life\" of 5568 years.",
-   "section": "Physical and chemical details"
-  },
-  "f42": {
-   "kind": "measure",
    "value": 5568,
    "unit": "years",
    "surface": "5568 years",
-   "sentence": "For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the \"Libby half-life\" of 5568 years.",
+   "sentence": "For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge to use the \"Libby half-life\"of 5568 years.",
    "section": "Physical and chemical details"
   },
-  "f43": {
+  "f41": {
    "kind": "measure",
    "value": 1.9,
    "unit": "%",
@@ -370,7 +355,7 @@
    "sentence": "The atmosphere, which is where 14C is generated, contains about 1.9% of the total carbon in the reservoirs, and the 14C it contains mixes in less than seven years.",
    "section": "Physical and chemical details"
   },
-  "f44": {
+  "f42": {
    "kind": "measure",
    "value": 2.4,
    "unit": "%",
@@ -378,7 +363,7 @@
    "sentence": "The ocean surface is an example: it contains 2.4% of the carbon in the exchange reservoir, but there is only about 95% as much 14C as would be expected if the ratio were the same as in the atmosphere.",
    "section": "Physical and chemical details"
   },
-  "f45": {
+  "f43": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
@@ -386,7 +371,7 @@
    "sentence": "The ocean surface is an example: it contains 2.4% of the carbon in the exchange reservoir, but there is only about 95% as much 14C as would be expected if the ratio were the same as in the atmosphere.",
    "section": "Physical and chemical details"
   },
-  "f46": {
+  "f44": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -394,7 +379,7 @@
    "sentence": "The time it takes for carbon from the atmosphere to mix with the surface ocean is only a few years, but the surface waters also receive water from the deep ocean, which has more than 90% of the carbon in the reservoir.",
    "section": "Physical and chemical details"
   },
-  "f47": {
+  "f45": {
    "kind": "measure",
    "value": 1000,
    "unit": "years",
@@ -402,7 +387,7 @@
    "sentence": "Water in the deep ocean takes about 1,000 years to circulate back through surface waters, and so the surface waters contain a combination of older water, with depleted 14C, and water recently at the surface, with 14C in equilibrium with the atmosphere.",
    "section": "Physical and chemical details"
   },
-  "f48": {
+  "f46": {
    "kind": "measure",
    "value": 400,
    "unit": "years",
@@ -410,7 +395,7 @@
    "sentence": "Creatures living at the ocean surface have the same 14C ratios as the water they live in, and as a result of the reduced 14C/12C ratio, the radiocarbon age of marine life is typically about 400 years.",
    "section": "Physical and chemical details"
   },
-  "f49": {
+  "f47": {
    "kind": "measure",
    "value": 1.3,
    "unit": "%",
@@ -418,7 +403,7 @@
    "sentence": "These organisms contain about 1.3% of the carbon in the reservoir; sea organisms have a mass of less than 1% of those on land and are not shown in the diagram.",
    "section": "Physical and chemical details"
   },
-  "f50": {
+  "f48": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -426,14 +411,14 @@
    "sentence": "These organisms contain about 1.3% of the carbon in the reservoir; sea organisms have a mass of less than 1% of those on land and are not shown in the diagram.",
    "section": "Physical and chemical details"
   },
-  "f51": {
+  "f49": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Accumulated dead organic matter, of both plants and animals, exceeds the mass of the biosphere by a factor of nearly 3, and since this matter is no longer exchanging carbon with its environment, it has a 14C/12C ratio lower than that of the biosphere.",
    "section": "Physical and chemical details"
   },
-  "f52": {
+  "f50": {
    "kind": "measure",
    "value": 8000,
    "unit": "years",
@@ -441,150 +426,107 @@
    "sentence": "The question was resolved by the study of tree rings: comparison of overlapping series of tree rings allowed the construction of a continuous sequence of tree-ring data that spanned 8,000 years.",
    "section": "Dating considerations"
   },
-  "f53": {
-   "kind": "measure",
-   "value": 13900,
-   "unit": "years",
-   "surface": "13,900 years",
-   "sentence": "(Since that time the tree-ring data series has been extended to 13,900 years.)",
-   "section": "Dating considerations"
-  },
-  "f54": {
-   "kind": "date",
-   "value": "1955",
-   "surface": "1955",
-   "sentence": "This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
-   "section": "Dating considerations"
-  },
-  "f55": {
+  "f51": {
    "kind": "measure",
    "value": 0.2,
    "unit": "%",
    "surface": "0.2%",
-   "sentence": "This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
+   "sentence": "This fossil fuel effect would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
    "section": "Dating considerations"
   },
-  "f56": {
+  "f52": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
    "surface": "3%",
-   "sentence": "This fossil fuel effect (also known as the Suess effect, after Hans Suess, who first reported it in 1955) would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
+   "sentence": "This fossil fuel effect would only amount to a reduction of 0.2% in 14C activity if the additional carbon from fossil fuels were distributed throughout the carbon exchange reservoir, but because of the long delay in mixing with the deep ocean, the actual effect is a 3% reduction.",
    "section": "Dating considerations"
   },
-  "f57": {
+  "f53": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "From about 1950 until 1963, when atmospheric nuclear testing was banned, it is estimated that several tonnes of 14C were created.",
    "section": "Dating considerations"
   },
-  "f58": {
+  "f54": {
    "kind": "date",
    "value": "1963",
    "surface": "1963",
    "sentence": "From about 1950 until 1963, when atmospheric nuclear testing was banned, it is estimated that several tonnes of 14C were created.",
    "section": "Dating considerations"
   },
-  "f59": {
+  "f55": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
    "sentence": "If all this extra 14C had immediately been spread across the entire carbon exchange reservoir, it would have led to an increase in the 14C/12C ratio of only a few per cent, but the immediate effect was to almost double the amount of 14C in the atmosphere, with the peak level occurring in 1964 for the northern hemisphere, and in 1966 for the southern hemisphere.",
    "section": "Dating considerations"
   },
-  "f60": {
+  "f56": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "If all this extra 14C had immediately been spread across the entire carbon exchange reservoir, it would have led to an increase in the 14C/12C ratio of only a few per cent, but the immediate effect was to almost double the amount of 14C in the atmosphere, with the peak level occurring in 1964 for the northern hemisphere, and in 1966 for the southern hemisphere.",
    "section": "Dating considerations"
   },
-  "f61": {
+  "f57": {
    "kind": "number",
    "value": 13,
    "surface": "13",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "section": "Dating considerations"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
    "section": "Dating considerations"
   },
   "f62": {
    "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "value": 1,
+   "surface": "1",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
    "section": "Dating considerations"
   },
   "f63": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "kind": "date",
+   "value": "1000",
+   "surface": "1000",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
    "section": "Dating considerations"
   },
   "f64": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
+   "kind": "date",
+   "value": "1000",
+   "surface": "1000",
+   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
    "section": "Dating considerations"
   },
   "f65": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f66": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f67": {
-   "kind": "date",
-   "value": "1000",
-   "surface": "1000",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f68": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f69": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f70": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f71": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f72": {
-   "kind": "date",
-   "value": "1000",
-   "surface": "1000",
-   "sentence": "The fractionation of 13C, known as δ13C, is calculated as follows:\nδ\nC\n13\n=\n(\n(\nC\n13\nC\n12\n)\nsample\n(\nC\n13\nC\n12\n)\nstandard\n−\n1\n)\n×\n1000\nC}}=\\left({\\frac {\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{sample}}}{\\left({\\frac {{\\ce {^{13}C}}}{{\\ce {^{12}C}}}}\\right)_{\\text{standard}}}}-1\\right)\\times 1000}\n‰\nwhere the ‰ sign indicates parts per thousand.",
-   "section": "Dating considerations"
-  },
-  "f73": {
    "kind": "measure",
    "value": 14,
    "unit": "°c",
@@ -592,7 +534,7 @@
    "sentence": "Under these conditions, fractionation is reduced, and at temperatures above 14 °C the δ13C values are correspondingly higher, while at lower temperatures, CO2 becomes more soluble and hence more available to marine organisms.",
    "section": "Dating considerations"
   },
-  "f74": {
+  "f66": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -600,7 +542,7 @@
    "sentence": "Since 13C makes up about 1% of the carbon in a sample, the 13C/12C ratio can be accurately measured by mass spectrometry.",
    "section": "Dating considerations"
   },
-  "f75": {
+  "f67": {
    "kind": "measure",
    "value": 1.5,
    "unit": "%",
@@ -608,7 +550,7 @@
    "sentence": "The result is an overall increase in the 14C/12C ratio in the ocean of 1.5%, relative to the 14C/12C ratio in the atmosphere.",
    "section": "Dating considerations"
   },
-  "f76": {
+  "f68": {
    "kind": "measure",
    "value": 400,
    "unit": "years",
@@ -616,7 +558,7 @@
    "sentence": "Correcting for isotopic fractionation, as is done for all radiocarbon dates to allow comparison between results from different parts of the biosphere, gives an apparent age of about 400 years for ocean surface water.",
    "section": "Dating considerations"
   },
-  "f77": {
+  "f69": {
    "kind": "measure",
    "value": 400,
    "unit": "years",
@@ -624,7 +566,7 @@
    "sentence": "This effect is not uniform – the average effect is about 400 years, but there are local deviations of several hundred years for areas that are geographically close to each other.",
    "section": "Dating considerations"
   },
-  "f78": {
+  "f70": {
    "kind": "measure",
    "value": 40,
    "unit": "years",
@@ -632,7 +574,7 @@
    "sentence": "The atmospheric 14C/12C ratio is lower in the southern hemisphere, with an apparent additional age of about 40 years for radiocarbon results from the south as compared to the north.",
    "section": "Dating considerations"
   },
-  "f79": {
+  "f71": {
    "kind": "measure",
    "value": 250,
    "unit": "years",
@@ -640,7 +582,7 @@
    "sentence": "Plants that photosynthesize this carbon also have lower 14C/12C ratios: for example, plants in the neighbourhood of the Furnas caldera in the Azores were found to have apparent ages that ranged from 250 years to 3320 years.",
    "section": "Dating considerations"
   },
-  "f80": {
+  "f72": {
    "kind": "measure",
    "value": 3320,
    "unit": "years",
@@ -648,7 +590,7 @@
    "sentence": "Plants that photosynthesize this carbon also have lower 14C/12C ratios: for example, plants in the neighbourhood of the Furnas caldera in the Azores were found to have apparent ages that ranged from 250 years to 3320 years.",
    "section": "Dating considerations"
   },
-  "f81": {
+  "f73": {
    "kind": "measure",
    "value": 17000,
    "unit": "years",
@@ -656,7 +598,7 @@
    "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
    "section": "Dating considerations"
   },
-  "f82": {
+  "f74": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -664,7 +606,7 @@
    "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
    "section": "Dating considerations"
   },
-  "f83": {
+  "f75": {
    "kind": "measure",
    "value": 600,
    "unit": "years",
@@ -672,7 +614,7 @@
    "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
    "section": "Dating considerations"
   },
-  "f84": {
+  "f76": {
    "kind": "measure",
    "value": 34000,
    "unit": "years",
@@ -680,7 +622,7 @@
    "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
    "section": "Dating considerations"
   },
-  "f85": {
+  "f77": {
    "kind": "measure",
    "value": 4000,
    "unit": "years",
@@ -688,7 +630,7 @@
    "sentence": "If a sample that is 17,000 years old is contaminated so that 1% of the sample is modern carbon, it will appear to be 600 years younger; for a sample that is 34,000 years old, the same amount of contamination would cause an error of 4,000 years.",
    "section": "Dating considerations"
   },
-  "f86": {
+  "f78": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -696,7 +638,7 @@
    "sentence": "Contamination with old carbon, with no remaining 14C, causes an error in the other direction independent of age – a sample contaminated with 1% old carbon will appear to be about 80 years older than it truly is, regardless of the date of the sample.",
    "section": "Dating considerations"
   },
-  "f87": {
+  "f79": {
    "kind": "measure",
    "value": 80,
    "unit": "years",

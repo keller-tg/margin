@@ -65,113 +65,107 @@
    "kind": "number",
    "value": 0.12,
    "surface": "0,12",
-   "sentence": "Obwohl er mit 0,12 mag heller als α Orionis (Beteigeuze, 0,42 mag) ist, wird er in der Astronomie als β Orionis bezeichnet."
+   "sentence": "Obwohl er mit 0,12 mag heller als α Orionis ist, wird er in der Astronomie als β Orionis bezeichnet."
   },
   "f2": {
-   "kind": "number",
-   "value": 0.42,
-   "surface": "0,42",
-   "sentence": "Obwohl er mit 0,12 mag heller als α Orionis (Beteigeuze, 0,42 mag) ist, wird er in der Astronomie als β Orionis bezeichnet."
-  },
-  "f3": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Die 1997 veröffentlichte Auswertung der Messdaten des Satelliten Hipparcos gab die Parallaxe von Rigel mit 4,22 ± 0,81 Millibogensekunden entsprechend einer Entfernung von 772 ± 184 Lichtjahren an.",
    "section": "Entfernung"
   },
-  "f4": {
+  "f3": {
    "kind": "number",
    "value": 4.22,
    "surface": "4,22",
    "sentence": "Die 1997 veröffentlichte Auswertung der Messdaten des Satelliten Hipparcos gab die Parallaxe von Rigel mit 4,22 ± 0,81 Millibogensekunden entsprechend einer Entfernung von 772 ± 184 Lichtjahren an.",
    "section": "Entfernung"
   },
-  "f5": {
+  "f4": {
    "kind": "number",
    "value": 0.81,
    "surface": "0,81",
    "sentence": "Die 1997 veröffentlichte Auswertung der Messdaten des Satelliten Hipparcos gab die Parallaxe von Rigel mit 4,22 ± 0,81 Millibogensekunden entsprechend einer Entfernung von 772 ± 184 Lichtjahren an.",
    "section": "Entfernung"
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "772",
    "surface": "772",
    "sentence": "Die 1997 veröffentlichte Auswertung der Messdaten des Satelliten Hipparcos gab die Parallaxe von Rigel mit 4,22 ± 0,81 Millibogensekunden entsprechend einer Entfernung von 772 ± 184 Lichtjahren an.",
    "section": "Entfernung"
   },
-  "f7": {
+  "f6": {
    "kind": "number",
    "value": 184,
    "surface": "184",
    "sentence": "Die 1997 veröffentlichte Auswertung der Messdaten des Satelliten Hipparcos gab die Parallaxe von Rigel mit 4,22 ± 0,81 Millibogensekunden entsprechend einer Entfernung von 772 ± 184 Lichtjahren an.",
    "section": "Entfernung"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "2007 wurde eine neue Datenreduktion mit verbesserten Werten der von Hipparcos gemessenen Parallaxen publiziert.",
    "section": "Entfernung"
   },
-  "f9": {
+  "f8": {
    "kind": "number",
    "value": 3.78,
    "surface": "3,78",
    "sentence": "Die korrigierte Parallaxe für Rigel beträgt 3,78 ± 0,34 Millibogensekunden, woraus sich die Distanz des Sterns zu 863 ± 85 Lichtjahren ergibt.",
    "section": "Entfernung"
   },
-  "f10": {
+  "f9": {
    "kind": "number",
    "value": 0.34,
    "surface": "0,34",
    "sentence": "Die korrigierte Parallaxe für Rigel beträgt 3,78 ± 0,34 Millibogensekunden, woraus sich die Distanz des Sterns zu 863 ± 85 Lichtjahren ergibt.",
    "section": "Entfernung"
   },
-  "f11": {
+  "f10": {
    "kind": "date",
    "value": "863",
    "surface": "863",
    "sentence": "Die korrigierte Parallaxe für Rigel beträgt 3,78 ± 0,34 Millibogensekunden, woraus sich die Distanz des Sterns zu 863 ± 85 Lichtjahren ergibt.",
    "section": "Entfernung"
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 85,
    "surface": "85",
    "sentence": "Die korrigierte Parallaxe für Rigel beträgt 3,78 ± 0,34 Millibogensekunden, woraus sich die Distanz des Sterns zu 863 ± 85 Lichtjahren ergibt.",
    "section": "Entfernung"
   },
-  "f13": {
+  "f12": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release (Gaia DR3) eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden.",
+   "sentence": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden.",
+   "section": "Entfernung"
+  },
+  "f13": {
+   "kind": "number",
+   "value": 3.2352,
+   "surface": "3,2352",
+   "sentence": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden.",
    "section": "Entfernung"
   },
   "f14": {
    "kind": "number",
-   "value": 3.2352,
-   "surface": "3,2352",
-   "sentence": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release (Gaia DR3) eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden.",
+   "value": 0.0553,
+   "surface": "0,0553",
+   "sentence": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden.",
    "section": "Entfernung"
   },
   "f15": {
-   "kind": "number",
-   "value": 0.0553,
-   "surface": "0,0553",
-   "sentence": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release (Gaia DR3) eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden.",
-   "section": "Entfernung"
-  },
-  "f16": {
    "kind": "date",
    "value": "1010",
    "surface": "1010",
    "sentence": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt.",
    "section": "Entfernung"
   },
-  "f17": {
+  "f16": {
    "kind": "measure",
    "value": 20,
    "unit": "lichtjahre",
@@ -179,43 +173,36 @@
    "sentence": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt.",
    "section": "Entfernung"
   },
-  "f18": {
+  "f17": {
    "kind": "measure",
    "value": 5,
    "unit": "grad",
    "surface": "5 Grad",
-   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel (IC 2118), der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
+   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel, der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
+   "section": "Entfernung"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 2.5,
+   "surface": "2,5",
+   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel, der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
    "section": "Entfernung"
   },
   "f19": {
    "kind": "number",
-   "value": 2118,
-   "surface": "2118",
-   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel (IC 2118), der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
+   "value": 39,
+   "surface": "39",
+   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel, der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
    "section": "Entfernung"
   },
   "f20": {
-   "kind": "number",
-   "value": 2.5,
-   "surface": "2,5",
-   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel (IC 2118), der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
-   "section": "Entfernung"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 39,
-   "surface": "39",
-   "sentence": "Am bemerkenswertesten ist der am Firmament eine Länge von 5 Grad aufweisende Hexenkopfnebel (IC 2118), der eine Winkeldistanz von 2,5° zum Stern hat, was einer projizierten Entfernung von etwa 39 Lichtjahren entspricht.",
-   "section": "Entfernung"
-  },
-  "f22": {
    "kind": "date",
    "value": "949",
    "surface": "949",
    "sentence": "Aus Parallaxenmessungen anderer in diesem Reflexionsnebel eingebetteter Sterne wird dessen Distanz auf 949 ± 7 Lichtjahre geschätzt.",
    "section": "Entfernung"
   },
-  "f23": {
+  "f21": {
    "kind": "measure",
    "value": 7,
    "unit": "lichtjahre",
@@ -223,7 +210,7 @@
    "sentence": "Aus Parallaxenmessungen anderer in diesem Reflexionsnebel eingebetteter Sterne wird dessen Distanz auf 949 ± 7 Lichtjahre geschätzt.",
    "section": "Entfernung"
   },
-  "f24": {
+  "f22": {
    "kind": "measure",
    "value": 1600,
    "unit": "lichtjahre",
@@ -231,106 +218,85 @@
    "sentence": "Diese Sternassoziation ist bis zu 1600 Lichtjahre von der Erde entfernt.",
    "section": "Entfernung"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1200",
    "surface": "1200",
    "sentence": "Ferner ist Rigel Mitglied der losen Taurus-Orion-R1-Assoziation, die mit einer Distanz von rund 1200 Lichtjahren deutlich näher liegt.",
    "section": "Entfernung"
   },
-  "f26": {
+  "f24": {
    "kind": "number",
    "value": 46000,
    "surface": "46.000",
-   "sentence": "Er strahlt mit der etwa 46.000-fachen Leuchtkraft der Sonne, damit ist er nach Beteigeuze (135.000-fach) und Antares (90.000-fach) der drittleuchtstärkste Stern innerhalb einer Entfernung von 1000 Lichtjahren von der Erde.",
+   "sentence": "Er strahlt mit der etwa 46.000-fachen Leuchtkraft der Sonne, damit ist er nach Beteigeuze und Antares der drittleuchtstärkste Stern innerhalb einer Entfernung von 1000 Lichtjahren von der Erde.",
    "section": "Mehrfachstern-System"
   },
-  "f27": {
-   "kind": "number",
-   "value": 135000,
-   "surface": "135.000",
-   "sentence": "Er strahlt mit der etwa 46.000-fachen Leuchtkraft der Sonne, damit ist er nach Beteigeuze (135.000-fach) und Antares (90.000-fach) der drittleuchtstärkste Stern innerhalb einer Entfernung von 1000 Lichtjahren von der Erde.",
-   "section": "Mehrfachstern-System"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 90000,
-   "surface": "90.000",
-   "sentence": "Er strahlt mit der etwa 46.000-fachen Leuchtkraft der Sonne, damit ist er nach Beteigeuze (135.000-fach) und Antares (90.000-fach) der drittleuchtstärkste Stern innerhalb einer Entfernung von 1000 Lichtjahren von der Erde.",
-   "section": "Mehrfachstern-System"
-  },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "1000",
    "surface": "1000",
-   "sentence": "Er strahlt mit der etwa 46.000-fachen Leuchtkraft der Sonne, damit ist er nach Beteigeuze (135.000-fach) und Antares (90.000-fach) der drittleuchtstärkste Stern innerhalb einer Entfernung von 1000 Lichtjahren von der Erde.",
+   "sentence": "Er strahlt mit der etwa 46.000-fachen Leuchtkraft der Sonne, damit ist er nach Beteigeuze und Antares der drittleuchtstärkste Stern innerhalb einer Entfernung von 1000 Lichtjahren von der Erde.",
    "section": "Mehrfachstern-System"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1600",
    "surface": "1600",
    "sentence": "Der nächste noch hellere Stern ist mit einem Abstand von etwa 1600 bis 3200 Lichtjahren der Hauptstern des Schwans Deneb.",
    "section": "Mehrfachstern-System"
   },
-  "f31": {
+  "f27": {
    "kind": "number",
    "value": 3200,
    "surface": "3200",
    "sentence": "Der nächste noch hellere Stern ist mit einem Abstand von etwa 1600 bis 3200 Lichtjahren der Hauptstern des Schwans Deneb.",
    "section": "Mehrfachstern-System"
   },
-  "f32": {
+  "f28": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
    "surface": "30 %",
-   "sentence": "Diese schwach ausgeprägte, unregelmäßige Veränderlichkeit ist typisch für Überriesen; dabei schwankt seine Helligkeit um etwa 30 % (wegen der logarithmischen Definition der scheinbaren Helligkeit) in einem mittleren Zeitraum von 25 Tagen.",
+   "sentence": "Diese schwach ausgeprägte, unregelmäßige Veränderlichkeit ist typisch für Überriesen; dabei schwankt seine Helligkeit um etwa 30 % in einem mittleren Zeitraum von 25 Tagen.",
    "section": "Mehrfachstern-System"
   },
-  "f33": {
+  "f29": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "Diese schwach ausgeprägte, unregelmäßige Veränderlichkeit ist typisch für Überriesen; dabei schwankt seine Helligkeit um etwa 30 % (wegen der logarithmischen Definition der scheinbaren Helligkeit) in einem mittleren Zeitraum von 25 Tagen.",
+   "sentence": "Diese schwach ausgeprägte, unregelmäßige Veränderlichkeit ist typisch für Überriesen; dabei schwankt seine Helligkeit um etwa 30 % in einem mittleren Zeitraum von 25 Tagen.",
    "section": "Mehrfachstern-System"
   },
-  "f34": {
+  "f30": {
    "kind": "number",
    "value": 128,
    "surface": "128",
    "sentence": "Bei den kleineren Komponenten Rigel B/C, die selbst ein gebundenes Doppelsternsystem bilden, handelt es sich um bläulich-weiße Hauptreihensterne der Spektralklasse B9 und der 128-fachen Leuchtkraft der Sonne.",
    "section": "Mehrfachstern-System"
   },
-  "f35": {
+  "f31": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Der Hauptstern Rigel A und das Doppelsternsystem Rigel B/C umkreisen den gemeinsamen Schwerpunkt im Abstand von 2000 AE.",
    "section": "Mehrfachstern-System"
   },
-  "f36": {
+  "f32": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Die Komponenten Rigel B und C umkreisen einander in 28 AE Entfernung.",
    "section": "Mehrfachstern-System"
   },
-  "f37": {
+  "f33": {
    "kind": "number",
    "value": 10000,
    "surface": "10.000",
    "sentence": "Rigel D ist etwa 10.000 AE von Rigel A entfernt.",
    "section": "Mehrfachstern-System"
   },
-  "f38": {
-   "kind": "number",
-   "value": 2118,
-   "surface": "2118",
-   "sentence": "Eine davon ist der Hexenkopfnebel mit der Bezeichnung IC 2118.",
-   "section": "Mehrfachstern-System"
-  },
-  "f39": {
+  "f34": {
    "kind": "measure",
    "value": 6,
    "unit": "cm",
@@ -338,7 +304,7 @@
    "sentence": "Während schon mit einem Fernrohr von 6 cm Objektivöffnung das Mehrfachsystem in die Komponenten Rigel A und das Doppelsternsystem B/C aufgelöst werden kann, bräuchte man für eine Separation der Komponenten des Doppelsternsystems Rigel B/C mindestens 90 cm Öffnung und aufwärts, was in der Realität aber an der Luftunruhe scheitert.",
    "section": "Beobachtung"
   },
-  "f40": {
+  "f35": {
    "kind": "measure",
    "value": 90,
    "unit": "cm",
@@ -346,37 +312,37 @@
    "sentence": "Während schon mit einem Fernrohr von 6 cm Objektivöffnung das Mehrfachsystem in die Komponenten Rigel A und das Doppelsternsystem B/C aufgelöst werden kann, bräuchte man für eine Separation der Komponenten des Doppelsternsystems Rigel B/C mindestens 90 cm Öffnung und aufwärts, was in der Realität aber an der Luftunruhe scheitert.",
    "section": "Beobachtung"
   },
-  "f41": {
+  "f36": {
    "kind": "measure",
    "value": 0.12,
    "unit": "m",
    "surface": "0,12m",
-   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\" und der Positionswinkel 204°.",
+   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\"und der Positionswinkel 204°.",
    "section": "Beobachtung"
   },
-  "f42": {
+  "f37": {
    "kind": "measure",
    "value": 6.6,
    "unit": "m",
    "surface": "6,6m",
-   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\" und der Positionswinkel 204°.",
+   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\"und der Positionswinkel 204°.",
    "section": "Beobachtung"
   },
-  "f43": {
+  "f38": {
    "kind": "number",
    "value": 9.5,
    "surface": "9,5",
-   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\" und der Positionswinkel 204°.",
+   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\"und der Positionswinkel 204°.",
    "section": "Beobachtung"
   },
-  "f44": {
+  "f39": {
    "kind": "number",
    "value": 204,
    "surface": "204",
-   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\" und der Positionswinkel 204°.",
+   "sentence": "Der Winkelabstand zwischen dem 0,12m hellen Rigel A und dem nur 6,6m hellen Rigel B/C-System beträgt 9,5\"und der Positionswinkel 204°.",
    "section": "Beobachtung"
   },
-  "f45": {
+  "f40": {
    "kind": "number",
    "value": 42,
    "surface": "42",

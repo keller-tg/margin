@@ -57,418 +57,240 @@
    "kind": "number",
    "value": 55,
    "surface": "55",
-   "sentence": "Caesium (IUPAC spelling; also spelled cesium in American English) is a chemical element; it has symbol Cs and atomic number 55."
+   "sentence": "Caesium is a chemical element; it has symbol Cs and atomic number 55."
   },
   "f2": {
    "kind": "measure",
    "value": 28.5,
    "unit": "°c",
    "surface": "28.5 °C",
-   "sentence": "It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F; 301.6 K), which makes it one of only five elemental metals that are liquid at or near room temperature."
+   "sentence": "It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C, which makes it one of only five elemental metals that are liquid at or near room temperature."
   },
   "f3": {
-   "kind": "measure",
-   "value": 83.3,
-   "unit": "°f",
-   "surface": "83.3 °F",
-   "sentence": "It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F; 301.6 K), which makes it one of only five elemental metals that are liquid at or near room temperature."
-  },
-  "f4": {
-   "kind": "measure",
-   "value": 301.6,
-   "unit": "k",
-   "surface": "301.6 K",
-   "sentence": "It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F; 301.6 K), which makes it one of only five elemental metals that are liquid at or near room temperature."
-  },
-  "f5": {
    "kind": "measure",
    "value": 116,
    "unit": "°c",
    "surface": "116 °C",
-   "sentence": "It is pyrophoric and reacts with water even at −116 °C (−177 °F)."
+   "sentence": "It is pyrophoric and reacts with water even at −116 °C."
   },
-  "f6": {
-   "kind": "measure",
-   "value": 177,
-   "unit": "°f",
-   "surface": "177 °F",
-   "sentence": "It is pyrophoric and reacts with water even at −116 °C (−177 °F)."
-  },
-  "f7": {
+  "f4": {
    "kind": "number",
    "value": 0.79,
    "surface": "0.79",
    "sentence": "It is the least electronegative stable element, with a value of 0.79 on the Pauling scale."
   },
-  "f8": {
+  "f5": {
    "kind": "number",
    "value": 260,
    "surface": "260",
    "sentence": "It has the largest atomic radius of all elements whose radii have been measured or calculated, at about 260 picometres."
   },
-  "f9": {
+  "f6": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "The German chemist Robert Bunsen and physicist Gustav Kirchhoff discovered caesium in 1860 by the then newly developed method of flame spectroscopy."
   },
-  "f10": {
+  "f7": {
    "kind": "date",
    "value": "1967",
    "surface": "1967",
    "sentence": "In 1967, the International System of Units began using a specific hyperfine transition of neutral caesium-133 atoms to define the basic unit of time, the second."
   },
-  "f11": {
+  "f8": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
    "surface": "30 years",
    "sentence": "The radioactive isotope caesium-137 has a half-life of about 30 years and is used in medical applications, industrial gauges, and hydrology."
   },
-  "f12": {
+  "f9": {
    "kind": "date",
    "value": "1921",
    "surface": "1921",
-   "sentence": "The American Chemical Society (ACS) has used the spelling cesium since 1921, following Webster's New International Dictionary.",
+   "sentence": "The American Chemical Society has used the spelling cesium since 1921, following Webster's New International Dictionary.",
    "section": "Spelling"
   },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 0.2,
    "surface": "0.2",
    "sentence": "Of all elements that are solid at room temperature, caesium is the softest: it has a hardness of Mohs 0.2.",
    "section": "Characteristics"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 28.5,
    "unit": "°c",
    "surface": "28.5 °C",
-   "sentence": "It has a melting point of 28.5 °C (83.3 °F), making it one of the few elemental metals that are liquid near room temperature.",
+   "sentence": "It has a melting point of 28.5 °C, making it one of the few elemental metals that are liquid near room temperature.",
    "section": "Characteristics"
   },
-  "f15": {
-   "kind": "measure",
-   "value": 83.3,
-   "unit": "°f",
-   "surface": "83.3 °F",
-   "sentence": "It has a melting point of 28.5 °C (83.3 °F), making it one of the few elemental metals that are liquid near room temperature.",
-   "section": "Characteristics"
-  },
-  "f16": {
-   "kind": "measure",
-   "value": 39,
-   "unit": "°c",
-   "surface": "39 °C",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f17": {
-   "kind": "measure",
-   "value": 102,
-   "unit": "°f",
-   "surface": "102 °F",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f18": {
-   "kind": "measure",
-   "value": 27,
-   "unit": "°c",
-   "surface": "27 °C",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f19": {
-   "kind": "measure",
-   "value": 81,
-   "unit": "°f",
-   "surface": "81 °F",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f20": {
-   "kind": "measure",
-   "value": 39,
-   "unit": "°c",
-   "surface": "39 °C",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f21": {
-   "kind": "measure",
-   "value": 38,
-   "unit": "°f",
-   "surface": "38 °F",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f22": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "°c",
-   "surface": "30 °C",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f23": {
-   "kind": "measure",
-   "value": 86,
-   "unit": "°f",
-   "surface": "86 °F",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f24": {
-   "kind": "measure",
-   "value": 7.2,
-   "unit": "°c",
-   "surface": "7.2 °C",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f25": {
-   "kind": "measure",
-   "value": 19,
-   "unit": "°f",
-   "surface": "19.0 °F",
-   "sentence": "The others are rubidium (39 °C [102 °F]), francium (estimated at 27 °C [81 °F]), mercury (−39 °C [−38 °F]), and gallium (30 °C [86 °F]); bromine is also liquid at room temperature (melting at −7.2 °C [19.0 °F]), but it is a halogen and not a metal.",
-   "section": "Characteristics"
-  },
-  "f26": {
+  "f12": {
    "kind": "measure",
    "value": 641,
    "unit": "°c",
    "surface": "641 °C",
-   "sentence": "In addition, caesium has a rather low boiling point, 641 °C (1186 °F), the lowest of all stable metals other than mercury.",
+   "sentence": "In addition, caesium has a rather low boiling point, 641 °C, the lowest of all stable metals other than mercury.",
    "section": "Characteristics"
   },
-  "f27": {
-   "kind": "measure",
-   "value": 1186,
-   "unit": "°f",
-   "surface": "1186 °F",
-   "sentence": "In addition, caesium has a rather low boiling point, 641 °C (1186 °F), the lowest of all stable metals other than mercury.",
-   "section": "Characteristics"
-  },
-  "f28": {
+  "f13": {
    "kind": "measure",
    "value": 650,
    "unit": "°c",
    "surface": "650 °C",
-   "sentence": "At temperatures below 650 °C (1202 °F), it does not alloy with cobalt, iron, molybdenum, nickel, platinum, tantalum, or tungsten.",
+   "sentence": "At temperatures below 650 °C, it does not alloy with cobalt, iron, molybdenum, nickel, platinum, tantalum, or tungsten.",
    "section": "Characteristics"
   },
-  "f29": {
-   "kind": "measure",
-   "value": 1202,
-   "unit": "°f",
-   "surface": "1202 °F",
-   "sentence": "At temperatures below 650 °C (1202 °F), it does not alloy with cobalt, iron, molybdenum, nickel, platinum, tantalum, or tungsten.",
-   "section": "Characteristics"
-  },
-  "f30": {
+  "f14": {
    "kind": "measure",
    "value": 41,
    "unit": "%",
    "surface": "41%",
-   "sentence": "It mixes with all the other alkali metals (except lithium); the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C (−108 °F).",
+   "sentence": "It mixes with all the other alkali metals; the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C.",
    "section": "Characteristics"
   },
-  "f31": {
+  "f15": {
    "kind": "measure",
    "value": 47,
    "unit": "%",
    "surface": "47%",
-   "sentence": "It mixes with all the other alkali metals (except lithium); the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C (−108 °F).",
+   "sentence": "It mixes with all the other alkali metals; the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C.",
    "section": "Characteristics"
   },
-  "f32": {
+  "f16": {
    "kind": "measure",
    "value": 12,
    "unit": "%",
    "surface": "12%",
-   "sentence": "It mixes with all the other alkali metals (except lithium); the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C (−108 °F).",
+   "sentence": "It mixes with all the other alkali metals; the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C.",
    "section": "Characteristics"
   },
-  "f33": {
+  "f17": {
    "kind": "measure",
    "value": 78,
    "unit": "°c",
    "surface": "78 °C",
-   "sentence": "It mixes with all the other alkali metals (except lithium); the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C (−108 °F).",
+   "sentence": "It mixes with all the other alkali metals; the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C.",
    "section": "Characteristics"
   },
-  "f34": {
-   "kind": "measure",
-   "value": 108,
-   "unit": "°f",
-   "surface": "108 °F",
-   "sentence": "It mixes with all the other alkali metals (except lithium); the alloy with a molar distribution of 41% caesium, 47% potassium, and 12% sodium has the lowest melting point of any known metal alloy, at −78 °C (−108 °F).",
-   "section": "Characteristics"
-  },
-  "f35": {
+  "f18": {
    "kind": "measure",
    "value": 116,
    "unit": "°c",
    "surface": "116 °C",
-   "sentence": "It reacts with ice at temperatures as low as −116 °C (−177 °F).",
+   "sentence": "It reacts with ice at temperatures as low as −116 °C.",
    "section": "Characteristics"
   },
-  "f36": {
-   "kind": "measure",
-   "value": 177,
-   "unit": "°f",
-   "surface": "177 °F",
-   "sentence": "It reacts with ice at temperatures as low as −116 °C (−177 °F).",
-   "section": "Characteristics"
-  },
-  "f37": {
+  "f19": {
    "kind": "measure",
    "value": 100,
    "unit": "grams",
    "surface": "100 grams",
-   "sentence": "In quantities of more than about 100 grams (3.5 oz), caesium is shipped in hermetically sealed, stainless steel containers.",
+   "sentence": "In quantities of more than about 100 grams, caesium is shipped in hermetically sealed, stainless steel containers.",
    "section": "Characteristics"
   },
-  "f38": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3.5",
-   "sentence": "In quantities of more than about 100 grams (3.5 oz), caesium is shipped in hermetically sealed, stainless steel containers.",
-   "section": "Characteristics"
-  },
-  "f39": {
+  "f20": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "As expected for an alkali metal, the only common oxidation state is +1.",
    "section": "Characteristics"
   },
-  "f40": {
+  "f21": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "It differs from this value in caesides, which contain the Cs− anion and thus have caesium in the −1 oxidation state.",
    "section": "Characteristics"
   },
-  "f41": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "Under conditions of extreme pressure (greater than 30 GPa), theoretical studies indicate that the inner 5p electrons could form chemical bonds, where caesium would behave as the seventh 5p element, suggesting that higher caesium fluorides with caesium in oxidation states from +2 to +6 could exist under such conditions.",
-   "section": "Characteristics"
-  },
-  "f42": {
+  "f22": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Under conditions of extreme pressure (greater than 30 GPa), theoretical studies indicate that the inner 5p electrons could form chemical bonds, where caesium would behave as the seventh 5p element, suggesting that higher caesium fluorides with caesium in oxidation states from +2 to +6 could exist under such conditions.",
+   "sentence": "Under conditions of extreme pressure, theoretical studies indicate that the inner 5p electrons could form chemical bonds, where caesium would behave as the seventh 5p element, suggesting that higher caesium fluorides with caesium in oxidation states from +2 to +6 could exist under such conditions.",
    "section": "Characteristics"
   },
-  "f43": {
+  "f23": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Under conditions of extreme pressure (greater than 30 GPa), theoretical studies indicate that the inner 5p electrons could form chemical bonds, where caesium would behave as the seventh 5p element, suggesting that higher caesium fluorides with caesium in oxidation states from +2 to +6 could exist under such conditions.",
+   "sentence": "Under conditions of extreme pressure, theoretical studies indicate that the inner 5p electrons could form chemical bonds, where caesium would behave as the seventh 5p element, suggesting that higher caesium fluorides with caesium in oxidation states from +2 to +6 could exist under such conditions.",
    "section": "Characteristics"
   },
-  "f44": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "More recently, caesium is predicted to behave as a p-block element and capable of forming higher fluorides with higher oxidation states (i.e., CsFn with n 1) under high pressure.",
-   "section": "Characteristics"
-  },
-  "f45": {
+  "f24": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Because of its large size, Cs+ usually adopts coordination numbers greater than 6, the number typical for the smaller alkali metal cations.",
    "section": "Characteristics"
   },
-  "f46": {
+  "f25": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "This difference is apparent in the 8-coordination of CsCl.",
    "section": "Characteristics"
   },
-  "f47": {
+  "f26": {
    "kind": "number",
    "value": 174,
    "surface": "174",
    "sentence": "The CsCl structure is preferred because Cs+ has an ionic radius of 174 pm and Cl− 181 pm.",
    "section": "Characteristics"
   },
-  "f48": {
+  "f27": {
    "kind": "number",
    "value": 181,
    "surface": "181",
    "sentence": "The CsCl structure is preferred because Cs+ has an ionic radius of 174 pm and Cl− 181 pm.",
    "section": "Characteristics"
   },
-  "f49": {
+  "f28": {
    "kind": "measure",
    "value": 250,
    "unit": "°c",
    "surface": "250 °C",
-   "sentence": "It vaporizes at 250 °C (482 °F), and decomposes to caesium metal and the peroxide Cs2O2 at temperatures above 400 °C (752 °F).",
+   "sentence": "It vaporizes at 250 °C, and decomposes to caesium metal and the peroxide Cs2O2 at temperatures above 400 °C.",
    "section": "Characteristics"
   },
-  "f50": {
-   "kind": "measure",
-   "value": 482,
-   "unit": "°f",
-   "surface": "482 °F",
-   "sentence": "It vaporizes at 250 °C (482 °F), and decomposes to caesium metal and the peroxide Cs2O2 at temperatures above 400 °C (752 °F).",
-   "section": "Characteristics"
-  },
-  "f51": {
+  "f29": {
    "kind": "measure",
    "value": 400,
    "unit": "°c",
    "surface": "400 °C",
-   "sentence": "It vaporizes at 250 °C (482 °F), and decomposes to caesium metal and the peroxide Cs2O2 at temperatures above 400 °C (752 °F).",
+   "sentence": "It vaporizes at 250 °C, and decomposes to caesium metal and the peroxide Cs2O2 at temperatures above 400 °C.",
    "section": "Characteristics"
   },
-  "f52": {
-   "kind": "measure",
-   "value": 752,
-   "unit": "°f",
-   "surface": "752 °F",
-   "sentence": "It vaporizes at 250 °C (482 °F), and decomposes to caesium metal and the peroxide Cs2O2 at temperatures above 400 °C (752 °F).",
-   "section": "Characteristics"
-  },
-  "f53": {
+  "f30": {
    "kind": "number",
    "value": 41,
    "surface": "41",
    "sentence": "Caesium has 41 known isotopes, ranging in mass number from 112 to 152.",
    "section": "Characteristics"
   },
-  "f54": {
+  "f31": {
    "kind": "number",
    "value": 112,
    "surface": "112",
    "sentence": "Caesium has 41 known isotopes, ranging in mass number from 112 to 152.",
    "section": "Characteristics"
   },
-  "f55": {
+  "f32": {
    "kind": "number",
    "value": 152,
    "surface": "152",
    "sentence": "Caesium has 41 known isotopes, ranging in mass number from 112 to 152.",
    "section": "Characteristics"
   },
-  "f56": {
+  "f33": {
    "kind": "number",
    "value": 78,
    "surface": "78",
    "sentence": "The only stable caesium isotope is 133Cs, with 78 neutrons.",
    "section": "Characteristics"
   },
-  "f57": {
+  "f34": {
    "kind": "measure",
    "value": 1330000,
    "unit": "years",
@@ -476,14 +298,14 @@
    "sentence": "The radioactive 135Cs has a very long half-life of about 1.33 million years, the longest of all radioactive isotopes of caesium.",
    "section": "Characteristics"
   },
-  "f58": {
+  "f35": {
    "kind": "number",
    "value": 30.04,
    "surface": "30.04",
    "sentence": "137Cs and 134Cs have half-lives of 30.04 and 2.065 years, respectively.",
    "section": "Characteristics"
   },
-  "f59": {
+  "f36": {
    "kind": "measure",
    "value": 2.065,
    "unit": "years",
@@ -491,113 +313,92 @@
    "sentence": "137Cs and 134Cs have half-lives of 30.04 and 2.065 years, respectively.",
    "section": "Characteristics"
   },
-  "f60": {
+  "f37": {
    "kind": "number",
    "value": 129,
    "surface": "129",
    "sentence": "The isotopes with mass numbers of 129, 131, 132 and 136, have half-lives between a day and two weeks, while most of the other isotopes have half-lives from a few seconds to fractions of a second.",
    "section": "Characteristics"
   },
-  "f61": {
+  "f38": {
    "kind": "number",
    "value": 131,
    "surface": "131",
    "sentence": "The isotopes with mass numbers of 129, 131, 132 and 136, have half-lives between a day and two weeks, while most of the other isotopes have half-lives from a few seconds to fractions of a second.",
    "section": "Characteristics"
   },
-  "f62": {
+  "f39": {
    "kind": "number",
    "value": 132,
    "surface": "132",
    "sentence": "The isotopes with mass numbers of 129, 131, 132 and 136, have half-lives between a day and two weeks, while most of the other isotopes have half-lives from a few seconds to fractions of a second.",
    "section": "Characteristics"
   },
-  "f63": {
+  "f40": {
    "kind": "number",
    "value": 136,
    "surface": "136",
    "sentence": "The isotopes with mass numbers of 129, 131, 132 and 136, have half-lives between a day and two weeks, while most of the other isotopes have half-lives from a few seconds to fractions of a second.",
    "section": "Characteristics"
   },
-  "f64": {
+  "f41": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "At least 21 metastable nuclear isomers exist.",
    "section": "Characteristics"
   },
-  "f65": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Other than 134mCs (with a half-life of just under 3 hours), all are very unstable and decay with half-lives of a few minutes or less.",
-   "section": "Characteristics"
-  },
-  "f66": {
+  "f42": {
    "kind": "number",
    "value": 0.6617,
    "surface": "0.6617",
    "sentence": "The beta decay from 137Cs to 137mBa results in gamma radiation as the 137mBa relaxes to ground state 137Ba, with the emitted photons having an energy of 0.6617 MeV.",
    "section": "Characteristics"
   },
-  "f67": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Although it has a large nuclear spin (⁠7/2⁠+), nuclear magnetic resonance can use the stable 133Cs isotope.",
-   "section": "Characteristics"
-  },
-  "f68": {
+  "f43": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Caesium is a relatively rare element, estimated to average 3 parts per million in the Earth's crust.",
    "section": "Characteristics"
   },
-  "f69": {
+  "f44": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Caesium is 30 times less abundant than rubidium, with which it is closely associated, chemically.",
    "section": "Characteristics"
   },
-  "f70": {
+  "f45": {
    "kind": "measure",
    "value": 0.002,
    "unit": "%",
    "surface": "0.002%",
-   "sentence": "Because caesium does not substitute for potassium as readily as rubidium does, the alkali evaporite minerals sylvite (KCl) and carnallite (KMgCl3·6H2O) may contain only 0.002% caesium.",
+   "sentence": "Because caesium does not substitute for potassium as readily as rubidium does, the alkali evaporite minerals sylvite and carnallite may contain only 0.002% caesium.",
    "section": "Characteristics"
   },
-  "f71": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Percentage amounts of caesium may be found in beryl (Be3Al2(SiO3)6) and avogadrite ((K,Cs)BF4), up to 15 wt% Cs2O in the closely related mineral pezzottaite (Cs(Be2Li)Al2Si6O18), up to 8.4 wt% Cs2O in the rare mineral londonite ((Cs,K)Al4Be4(B,Be)12O28), and less in the more widespread rhodizite.",
-   "section": "Characteristics"
-  },
-  "f72": {
+  "f46": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "Percentage amounts of caesium may be found in beryl (Be3Al2(SiO3)6) and avogadrite ((K,Cs)BF4), up to 15 wt% Cs2O in the closely related mineral pezzottaite (Cs(Be2Li)Al2Si6O18), up to 8.4 wt% Cs2O in the rare mineral londonite ((Cs,K)Al4Be4(B,Be)12O28), and less in the more widespread rhodizite.",
+   "sentence": "Percentage amounts of caesium may be found in beryl and avogadrite, up to 15 wt% Cs2O in the closely related mineral pezzottaite, up to 8.4 wt% Cs2O in the rare mineral londonite, and less in the more widespread rhodizite.",
    "section": "Characteristics"
   },
-  "f73": {
+  "f47": {
    "kind": "number",
    "value": 8.4,
    "surface": "8.4",
-   "sentence": "Percentage amounts of caesium may be found in beryl (Be3Al2(SiO3)6) and avogadrite ((K,Cs)BF4), up to 15 wt% Cs2O in the closely related mineral pezzottaite (Cs(Be2Li)Al2Si6O18), up to 8.4 wt% Cs2O in the rare mineral londonite ((Cs,K)Al4Be4(B,Be)12O28), and less in the more widespread rhodizite.",
+   "sentence": "Percentage amounts of caesium may be found in beryl and avogadrite, up to 15 wt% Cs2O in the closely related mineral pezzottaite, up to 8.4 wt% Cs2O in the rare mineral londonite, and less in the more widespread rhodizite.",
    "section": "Characteristics"
   },
-  "f74": {
+  "f48": {
    "kind": "number",
    "value": 350000,
    "surface": "350,000",
    "sentence": "The world's most significant and richest known source of caesium is the Tanco Mine at Bernic Lake in Manitoba, Canada, estimated to contain 350,000 metric tons of pollucite ore, representing more than two-thirds of the world's reserve base.",
    "section": "Characteristics"
   },
-  "f75": {
+  "f49": {
    "kind": "measure",
    "value": 42.6,
    "unit": "%",
@@ -605,7 +406,7 @@
    "sentence": "Although the stoichiometric content of caesium in pollucite is 42.6%, pure pollucite samples from this deposit contain only about 34% caesium, while the average content is 24 wt%.",
    "section": "Characteristics"
   },
-  "f76": {
+  "f50": {
    "kind": "measure",
    "value": 34,
    "unit": "%",
@@ -613,14 +414,14 @@
    "sentence": "Although the stoichiometric content of caesium in pollucite is 42.6%, pure pollucite samples from this deposit contain only about 34% caesium, while the average content is 24 wt%.",
    "section": "Characteristics"
   },
-  "f77": {
+  "f51": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Although the stoichiometric content of caesium in pollucite is 42.6%, pure pollucite samples from this deposit contain only about 34% caesium, while the average content is 24 wt%.",
    "section": "Characteristics"
   },
-  "f78": {
+  "f52": {
    "kind": "measure",
    "value": 19,
    "unit": "%",
@@ -628,142 +429,98 @@
    "sentence": "Commercial pollucite contains more than 19% caesium.",
    "section": "Characteristics"
   },
-  "f79": {
+  "f53": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "At the present rate of world mine production of 5 to 10 metric tons per year, reserves will last for thousands of years.",
    "section": "Characteristics"
   },
-  "f80": {
+  "f54": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "At the present rate of world mine production of 5 to 10 metric tons per year, reserves will last for thousands of years.",
    "section": "Characteristics"
   },
-  "f81": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The sulfuric acid method yields the insoluble double salt directly as caesium alum (CsAl(SO4)2·12H2O).",
-   "section": "Production"
-  },
-  "f82": {
+  "f55": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
-   "sentence": "To supply the developing market, Cabot Corporation built a production plant in 1997 at the Tanco mine near Bernic Lake in Manitoba, with a capacity of 12,000 barrels (1,900 m3) per year of caesium formate solution.",
+   "sentence": "To supply the developing market, Cabot Corporation built a production plant in 1997 at the Tanco mine near Bernic Lake in Manitoba, with a capacity of 12,000 barrels per year of caesium formate solution.",
    "section": "Production"
   },
-  "f83": {
+  "f56": {
    "kind": "number",
    "value": 12000,
    "surface": "12,000",
-   "sentence": "To supply the developing market, Cabot Corporation built a production plant in 1997 at the Tanco mine near Bernic Lake in Manitoba, with a capacity of 12,000 barrels (1,900 m3) per year of caesium formate solution.",
+   "sentence": "To supply the developing market, Cabot Corporation built a production plant in 1997 at the Tanco mine near Bernic Lake in Manitoba, with a capacity of 12,000 barrels per year of caesium formate solution.",
    "section": "Production"
   },
-  "f84": {
-   "kind": "number",
-   "value": 1900,
-   "surface": "1,900",
-   "sentence": "To supply the developing market, Cabot Corporation built a production plant in 1997 at the Tanco mine near Bernic Lake in Manitoba, with a capacity of 12,000 barrels (1,900 m3) per year of caesium formate solution.",
-   "section": "Production"
-  },
-  "f85": {
+  "f57": {
    "kind": "date",
    "value": "700",
    "surface": "700",
-   "sentence": "Caesium chloride and the other caesium halides can be reduced at 700 to 800 °C (1,292 to 1,472 °F) with calcium or barium, and caesium metal distilled from the result.",
+   "sentence": "Caesium chloride and the other caesium halides can be reduced at 700 to 800 °C with calcium or barium, and caesium metal distilled from the result.",
    "section": "Production"
   },
-  "f86": {
+  "f58": {
    "kind": "measure",
    "value": 800,
    "unit": "°c",
    "surface": "800 °C",
-   "sentence": "Caesium chloride and the other caesium halides can be reduced at 700 to 800 °C (1,292 to 1,472 °F) with calcium or barium, and caesium metal distilled from the result.",
+   "sentence": "Caesium chloride and the other caesium halides can be reduced at 700 to 800 °C with calcium or barium, and caesium metal distilled from the result.",
    "section": "Production"
   },
-  "f87": {
-   "kind": "number",
-   "value": 1292,
-   "surface": "1,292",
-   "sentence": "Caesium chloride and the other caesium halides can be reduced at 700 to 800 °C (1,292 to 1,472 °F) with calcium or barium, and caesium metal distilled from the result.",
-   "section": "Production"
-  },
-  "f88": {
-   "kind": "measure",
-   "value": 1472,
-   "unit": "°f",
-   "surface": "1,472 °F",
-   "sentence": "Caesium chloride and the other caesium halides can be reduced at 700 to 800 °C (1,292 to 1,472 °F) with calcium or barium, and caesium metal distilled from the result.",
-   "section": "Production"
-  },
-  "f89": {
+  "f59": {
    "kind": "measure",
    "value": 390,
    "unit": "°c",
    "surface": "390 °C",
-   "sentence": "Exceptionally pure and gas-free caesium can be produced by 390 °C (734 °F) thermal decomposition of caesium azide CsN3, which can be produced from aqueous caesium sulfate and barium azide.",
+   "sentence": "Exceptionally pure and gas-free caesium can be produced by 390 °C thermal decomposition of caesium azide CsN3, which can be produced from aqueous caesium sulfate and barium azide.",
    "section": "Production"
   },
-  "f90": {
-   "kind": "measure",
-   "value": 734,
-   "unit": "°f",
-   "surface": "734 °F",
-   "sentence": "Exceptionally pure and gas-free caesium can be produced by 390 °C (734 °F) thermal decomposition of caesium azide CsN3, which can be produced from aqueous caesium sulfate and barium azide.",
-   "section": "Production"
-  },
-  "f91": {
+  "f60": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
+   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium in 2009 was about $10 per gram, but the compounds are significantly cheaper.",
    "section": "Production"
   },
-  "f92": {
+  "f61": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
+   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium in 2009 was about $10 per gram, but the compounds are significantly cheaper.",
    "section": "Production"
   },
-  "f93": {
+  "f62": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
+   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium in 2009 was about $10 per gram, but the compounds are significantly cheaper.",
    "section": "Production"
   },
-  "f94": {
+  "f63": {
    "kind": "measure",
    "value": 99.8,
    "unit": "%",
    "surface": "99.8%",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
+   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium in 2009 was about $10 per gram, but the compounds are significantly cheaper.",
    "section": "Production"
   },
-  "f95": {
+  "f64": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
+   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium in 2009 was about $10 per gram, but the compounds are significantly cheaper.",
    "section": "Production"
   },
-  "f96": {
+  "f65": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
-   "section": "Production"
-  },
-  "f97": {
-   "kind": "number",
-   "value": 280,
-   "surface": "280",
-   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium (metal basis) in 2009 was about $10 per gram ($280/oz), but the compounds are significantly cheaper.",
+   "sentence": "Cs2Cr2O7 + 2 Zr → 2 Cs + 2 ZrO2 + Cr2O3\nThe price of 99.8% pure caesium in 2009 was about $10 per gram, but the compounds are significantly cheaper.",
    "section": "Production"
   }
  },

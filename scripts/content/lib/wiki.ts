@@ -4,12 +4,13 @@
 //  - every request sends a descriptive User-Agent with contact info, and maxlag on the Action API
 //  - requests run strictly one at a time, with a minimum gap between them (all hosts share one IP)
 //  - 429/503 and maxlag errors are retried, honouring Retry-After, with exponential backoff
-//  - every response is cached on disk under content/cache/api/ and the cache is committed,
+//  - every response is cached on disk (gzip) under content/cache/api/ and the cache is committed,
 //    so each URL is fetched once, ever; reruns and CI replay the cache
 //  - metadata for images is asked of the language editions' Action API, never of commons.wikimedia.org
 //  - tests must never reach the network: under Vitest, a cache miss throws
 import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { gunzipSync, gzipSync } from 'node:zlib';
 import { dirname, join } from 'node:path';
 
 export const USER_AGENT = 'Margin/0.1 (https://github.com/keller-tg/margin; contact: keller-tg on GitHub) content-pipeline';
@@ -42,7 +43,7 @@ export function cacheKey(url: URL): string {
 function cachePath(key: string): string {
   const h = createHash('sha1').update(key).digest('hex');
   const host = key.slice(0, key.indexOf('/'));
-  return join(CACHE_DIR, host, h.slice(0, 2), `${h}.json`);
+  return join(CACHE_DIR, host, h.slice(0, 2), `${h}.json.gz`);
 }
 
 type CacheEntry = { key: string; fetchedAt: string; body: unknown };
@@ -50,9 +51,10 @@ type CacheEntry = { key: string; fetchedAt: string; body: unknown };
 export function readCache(url: URL): unknown | undefined {
   const key = cacheKey(url);
   const p = cachePath(key);
-  if (!existsSync(p)) return undefined;
-  const e = JSON.parse(readFileSync(p, 'utf8')) as CacheEntry;
-  return e.body;
+  if (existsSync(p)) return (JSON.parse(gunzipSync(readFileSync(p)).toString('utf8')) as CacheEntry).body;
+  const legacy = p.replace(/\.gz$/, ''); // entries written before the cache was compressed
+  if (existsSync(legacy)) return (JSON.parse(readFileSync(legacy, 'utf8')) as CacheEntry).body;
+  return undefined;
 }
 
 function writeCache(url: URL, body: unknown): void {
@@ -60,7 +62,7 @@ function writeCache(url: URL, body: unknown): void {
   const p = cachePath(key);
   mkdirSync(dirname(p), { recursive: true });
   const e: CacheEntry = { key, fetchedAt: new Date().toISOString(), body };
-  writeFileSync(p, JSON.stringify(e) + '\n');
+  writeFileSync(p, gzipSync(JSON.stringify(e), { level: 9 }));
 }
 
 const onVitest = () => Boolean(process.env.VITEST);

@@ -153,7 +153,7 @@
    "value": 5000,
    "unit": "v",
    "surface": "5000 v",
-   "sentence": "Als Zeitpunkt wurde lange etwa 5000 v. Chr. angenommen, der nach der Domestizierung von Phaseolus (Bohnen) und Capsicum (Paprika) liegt.",
+   "sentence": "Als Zeitpunkt wurde lange etwa 5000 v. Chr. angenommen, der nach der Domestizierung von Phaseolus und Capsicum liegt.",
    "section": "Geschichte"
   },
   "f12": {
@@ -190,7 +190,7 @@
    "kind": "number",
    "value": 16,
    "surface": "16",
-   "sentence": "War das Verbreitungsgebiet der Kürbisse (Cucurbita species) in präkolumbischer Zeit auf Amerika beschränkt, werden sie bereits seit dem 16. Jahrhundert weltweit in den warmen Gebieten angebaut.",
+   "sentence": "War das Verbreitungsgebiet der Kürbisse in präkolumbischer Zeit auf Amerika beschränkt, werden sie bereits seit dem 16. Jahrhundert weltweit in den warmen Gebieten angebaut.",
    "section": "Nutzung"
   },
   "f17": {
@@ -271,13 +271,6 @@
    "section": "Weltproduktion"
   },
   "f27": {
-   "kind": "date",
-   "value": "1578",
-   "surface": "1578",
-   "sentence": "Als regionale Namen sind belegt\nChörbse (St. Gallen), Fläschen (Altenahr, Hunsrück), Flaskenappel (Ostfriesland), Kerbes (Siebenbürgen), Kirns (Eifel bei Bertrich), Körbis, Körbitzen (Magdeburger Bibel von 1578), Körbs (Mecklenburg, Pommern), Körwitz, Korvase, Korvese, Korvesege, Korvesen (Lübecker Bibel), Kürbs (Rhein), Malune (St. Gallen, Bern), Plutz, Plutzer (Österreich) und Torkappel (Altmark).",
-   "section": "Der Kürbis in deutschsprachigen Trivialnamen"
-  },
-  "f28": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -285,14 +278,14 @@
    "sentence": "Kürbisse bestehen zu über 90 % aus Wasser, weshalb ihr Nährwert mit 122 kJ pro 100 Gramm gering ist.",
    "section": "Inhaltsstoffe"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 122,
    "surface": "122",
    "sentence": "Kürbisse bestehen zu über 90 % aus Wasser, weshalb ihr Nährwert mit 122 kJ pro 100 Gramm gering ist.",
    "section": "Inhaltsstoffe"
   },
-  "f30": {
+  "f29": {
    "kind": "number",
    "value": 100,
    "surface": "100",

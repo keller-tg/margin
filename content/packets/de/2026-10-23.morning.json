@@ -87,14 +87,14 @@
    "kind": "number",
    "value": 17,
    "surface": "17",
-   "sentence": "Auf Hals, Rücken und Schwanz verliefen in zwei Reihen unterschiedlich große flache, drachenförmige Platten, deren Zahl zwischen 17 (bei Stegosaurus stenops) und 22 variiert.",
+   "sentence": "Auf Hals, Rücken und Schwanz verliefen in zwei Reihen unterschiedlich große flache, drachenförmige Platten, deren Zahl zwischen 17 und 22 variiert.",
    "section": "Beschreibung"
   },
   "f5": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "Auf Hals, Rücken und Schwanz verliefen in zwei Reihen unterschiedlich große flache, drachenförmige Platten, deren Zahl zwischen 17 (bei Stegosaurus stenops) und 22 variiert.",
+   "sentence": "Auf Hals, Rücken und Schwanz verliefen in zwei Reihen unterschiedlich große flache, drachenförmige Platten, deren Zahl zwischen 17 und 22 variiert.",
    "section": "Beschreibung"
   },
   "f6": {
@@ -151,21 +151,13 @@
   },
   "f13": {
    "kind": "measure",
-   "value": 170000000,
-   "unit": "jahren",
-   "surface": "170 Millionen Jahren",
-   "sentence": "Das frühere und ursprünglichere Genus Huayangosaurus aus dem mittleren Jura von China (vor ca. 170 Millionen Jahren) lebte etwa 20 Millionen Jahre früher.",
-   "section": "Ursprünge"
-  },
-  "f14": {
-   "kind": "measure",
    "value": 20000000,
    "unit": "jahre",
    "surface": "20 Millionen Jahre",
-   "sentence": "Das frühere und ursprünglichere Genus Huayangosaurus aus dem mittleren Jura von China (vor ca. 170 Millionen Jahren) lebte etwa 20 Millionen Jahre früher.",
+   "sentence": "Das frühere und ursprünglichere Genus Huayangosaurus aus dem mittleren Jura von China lebte etwa 20 Millionen Jahre früher.",
    "section": "Ursprünge"
   },
-  "f15": {
+  "f14": {
    "kind": "measure",
    "value": 190000000,
    "unit": "jahre",
@@ -173,7 +165,7 @@
    "sentence": "Noch älter ist Scelidosaurus, aus dem frühen Jura von England, der vor etwa 190 Millionen Jahre lebte.",
    "section": "Ursprünge"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 195000000,
    "unit": "jahre",
@@ -181,154 +173,154 @@
    "sentence": "Eine etwa 195 Millionen Jahre alte fossile Fährte, vermutlich von einem frühen Stegosaurier oder einem Stegosaurier-Vorfahren, wurde in Frankreich entdeckt.",
    "section": "Ursprünge"
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
-   "sentence": "Stegosaurus, einer von vielen Dinosauriern, die erstmals während der „Knochenkriege“ entdeckt und beschrieben wurden, wurde von Othniel Charles Marsh im Jahr 1877 anhand von Überresten benannt, die nördlich von Morrison, Colorado, entdeckt wurden.",
+   "sentence": "Stegosaurus, einer von vielen Dinosauriern, die erstmals während der „Knochenkriege“entdeckt und beschrieben wurden, wurde von Othniel Charles Marsh im Jahr 1877 anhand von Überresten benannt, die nördlich von Morrison, Colorado, entdeckt wurden.",
    "section": "Entdeckung und Arten"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
    "sentence": "Stegosaurus stenops, „schmalköpfige Dachechse“, wurde von Marsh im Jahr 1887 benannt.",
    "section": "Entdeckung und Arten"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Weiter sind mindestens 50 Teilskelette – sowohl von erwachsenen Tieren als auch von Jungtieren – ein kompletter Schädel und vier teilweise Schädel bekannt.",
    "section": "Entdeckung und Arten"
   },
-  "f20": {
+  "f19": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Seit 2013 gilt Stegosaurus stenops als Typusart.",
    "section": "Entdeckung und Arten"
   },
-  "f21": {
+  "f20": {
    "kind": "date",
    "value": "1879",
    "surface": "1879",
    "sentence": "Stegosaurus ungulatus, was so viel bedeutet wie „Dachechse mit Huf“, wurde von Marsh im Jahr 1879 anhand von Überresten benannt, die in dem berühmten Dinosaurierfriedhof Como Bluff in Wyoming entdeckt wurden.",
    "section": "Entdeckung und Arten"
   },
-  "f22": {
+  "f21": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
    "sentence": "Stegosaurus sulcatus, „gefurchte Dachechse“, wurde von Marsh im Jahr 1887 basierend auf einem Teilskelett beschrieben.",
    "section": "Entdeckung und Arten"
   },
-  "f23": {
+  "f22": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
-   "sentence": "Stegosaurus duplex, das so viel bedeutet wie „Dachechse mit zwei Nervengeflechten“ (in Anspielung auf den stark vergrößerten neuralen Kanal am Sacrum), wurde 1887 von Marsh beschrieben.",
+   "sentence": "Stegosaurus duplex, das so viel bedeutet wie „Dachechse mit zwei Nervengeflechten“, wurde 1887 von Marsh beschrieben.",
    "section": "Entdeckung und Arten"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "1879",
    "surface": "1879",
    "sentence": "Die Überreste waren 1879 von Edward Ashley in Como Bluff, Wyoming, geborgen worden.",
    "section": "Entdeckung und Arten"
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
-   "sentence": "Diracodon) laticeps wurde von Marsh im Jahr 1881 basierend auf einigen Kieferknochen-Fragmenten beschrieben.",
+   "sentence": "Stegosaurus laticeps wurde von Marsh im Jahr 1881 basierend auf einigen Kieferknochen-Fragmenten beschrieben.",
    "section": "Entdeckung und Arten"
   },
-  "f26": {
+  "f25": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "Bakker führte 1986 den Namen Diracodon laticeps wieder ein, obwohl andere bemerken, dass das Material wahrscheinlich mit Stegosaurus stenops synonym ist.",
    "section": "Entdeckung und Arten"
   },
-  "f27": {
+  "f26": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
-   "sentence": "Stegosaurus affinis, beschrieben von Marsh im Jahr 1881, ist nur durch ein verloren gegangenes Pubis (Schambein) bekannt.",
+   "sentence": "Stegosaurus affinis, beschrieben von Marsh im Jahr 1881, ist nur durch ein verloren gegangenes Pubis bekannt.",
    "section": "Entdeckung und Arten"
   },
-  "f28": {
+  "f27": {
    "kind": "date",
    "value": "1926",
    "surface": "1926",
    "sentence": "Stegosaurus madagascariensis aus der frühen Oberkreide von Madagaskar ist anhand von zwei isolierten Zähnen durch Jean Piveteau im Jahr 1926 beschrieben worden.",
    "section": "Entdeckung und Arten"
   },
-  "f29": {
+  "f28": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
    "sentence": "Weiteres, ursprünglich als Stegosaurus-Überreste beschriebenes, Material wird heute anderen Arten zugeschrieben:\nStegosaurus marshi, 1901 von Lucas beschrieben, wurde im Jahr darauf in Hoplitosaurus umbenannt.",
    "section": "Entdeckung und Arten"
   },
-  "f30": {
+  "f29": {
    "kind": "date",
    "value": "1911",
    "surface": "1911",
    "sentence": "Stegosaurus priscus, beschrieben von Nopcsa im Jahr 1911, ist mit Lexovisaurus identisch.",
    "section": "Entdeckung und Arten"
   },
-  "f31": {
+  "f30": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
-   "sentence": "Stegosaurus longispinus („Dachechse mit langen Stacheln“) wurde 1914 von Charles W. Gilmore anhand eines Teilskelettes benannt, welches aus der Morrison-Formation, Wyoming, stammte.",
+   "sentence": "Stegosaurus longispinus wurde 1914 von Charles W. Gilmore anhand eines Teilskelettes benannt, welches aus der Morrison-Formation, Wyoming, stammte.",
    "section": "Entdeckung und Arten"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "Seit 2016 ist es die Typusart der Gattung Alcovasaurus.",
    "section": "Entdeckung und Arten"
   },
-  "f33": {
+  "f32": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Fossile Fußspuren von Stegosauriden sind extrem selten, vor 1996 war keine einzige bekannt.",
    "section": "Fossile Fußspuren"
   },
-  "f34": {
+  "f33": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "Der erste Bericht stammt von einem in Utah entdeckten Abdruck des Vorderfußes (Manus), welcher von Lockley und Hunt 1998 beschrieben und Stegopodus czerkasi genannt wurde (ein solches Ichnotaxon stellt keine reguläre Art im biologischen Sinne dar, sondern bezeichnet nur die Fußspur).",
+   "sentence": "Der erste Bericht stammt von einem in Utah entdeckten Abdruck des Vorderfußes, welcher von Lockley und Hunt 1998 beschrieben und Stegopodus czerkasi genannt wurde.",
    "section": "Fossile Fußspuren"
   },
-  "f35": {
+  "f34": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Der zweite Bericht, von Bakker 1996 veröffentlicht, beschreibt Hinterfuß-Abdrücke.",
    "section": "Fossile Fußspuren"
   },
-  "f36": {
+  "f35": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
    "sentence": "Im Jahr 1891 änderte er seine Meinung in Anbetracht des sehr schwergebauten Skelettes.",
    "section": "Paläobiologie"
   },
-  "f37": {
+  "f36": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Dies bedeutet, dass das Tier nicht besonders schnell gegangen sein kann – die Maximalgeschwindigkeit lag bei 6–7 km/h.",
    "section": "Paläobiologie"
   },
-  "f38": {
+  "f37": {
    "kind": "measure",
    "value": 7,
    "unit": "km/h",
@@ -336,11 +328,19 @@
    "sentence": "Dies bedeutet, dass das Tier nicht besonders schnell gegangen sein kann – die Maximalgeschwindigkeit lag bei 6–7 km/h.",
    "section": "Paläobiologie"
   },
-  "f39": {
+  "f38": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Bald nach der Beschreibung des Tieres bemerkte Marsh eine große Aushöhlung in der Beckenregion des Wirbelkanals, die eine Struktur beherbergen konnte, die bis zu 20-mal größer als das Gehirn wäre.",
+   "section": "Paläobiologie"
+  },
+  "f39": {
+   "kind": "measure",
+   "value": 60,
+   "unit": "cm",
+   "surface": "60 cm",
+   "sentence": "Die größten Platten wurden über den Hüften des Tieres gefunden und messen 60 cm in der Breite und 60 cm in der Höhe.",
    "section": "Paläobiologie"
   },
   "f40": {
@@ -352,138 +352,52 @@
    "section": "Paläobiologie"
   },
   "f41": {
-   "kind": "measure",
-   "value": 60,
-   "unit": "cm",
-   "surface": "60 cm",
-   "sentence": "Die größten Platten wurden über den Hüften des Tieres gefunden und messen 60 cm in der Breite und 60 cm in der Höhe.",
-   "section": "Paläobiologie"
-  },
-  "f42": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
    "sentence": "Im Jahr 1891 veröffentlichte Marsh eine weitere Rekonstruktion, diesmal standen die Platten in einer einzelnen Reihe.",
    "section": "Paläobiologie"
   },
-  "f43": {
+  "f42": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "Beispielsweise hatte der Stegosaurus in dem 1933 veröffentlichten Film King Kong diese Anordnung.",
    "section": "Paläobiologie"
   },
-  "f44": {
+  "f43": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Bereits zu Beginn des 20. Jahrhunderts entstand die mittlerweile weithin akzeptierte Ansicht, nach der die Platten alternierend („auf Lücke“ bzw. „im Zick-Zack“) in zwei Reihen angeordnet waren.",
+   "sentence": "Bereits zu Beginn des 20. Jahrhunderts entstand die mittlerweile weithin akzeptierte Ansicht, nach der die Platten alternierend in zwei Reihen angeordnet waren.",
    "section": "Paläobiologie"
   },
-  "f45": {
+  "f44": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Eine im Jahre 2005 veröffentlichte Studie unterstützt die Annahme, die Platten hätten zur Identifikation gedient.",
    "section": "Paläobiologie"
   },
-  "f46": {
+  "f45": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "Es gab Diskussionen, ob die Schwanzstacheln nur zur Schau dienten, wie Gilmore im Jahr 1914 vorschlug, oder ob sie als Waffe benutzt wurden.",
    "section": "Paläobiologie"
   },
-  "f47": {
+  "f46": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Stegosaurus stenops hatte vier dermale Schwanzstacheln, jeder war etwa 60–90 cm lang.",
    "section": "Paläobiologie"
   },
-  "f48": {
-   "kind": "measure",
-   "value": 90,
-   "unit": "cm",
-   "surface": "90 cm",
-   "sentence": "Stegosaurus stenops hatte vier dermale Schwanzstacheln, jeder war etwa 60–90 cm lang.",
-   "section": "Paläobiologie"
-  },
-  "f49": {
+  "f47": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "Im Jahr 1982 wurde Stegosaurus als Staatsdinosaurier von Colorado gewählt.",
-   "section": "Paläobiologie"
-  },
-  "f50": {
-   "kind": "date",
-   "value": "1954",
-   "surface": "1954",
-   "sentence": "Beispiele, in denen er einem Ceratosaurus gegenübersteht, sind Reise in die Urzeit (Journey to the Beginning of Time, 1954) und der Dokumentarfilm Dinosaurier erobern die Welt (When Dinosaurs Roamed America, 2001).",
-   "section": "Paläobiologie"
-  },
-  "f51": {
-   "kind": "date",
-   "value": "2001",
-   "surface": "2001",
-   "sentence": "Beispiele, in denen er einem Ceratosaurus gegenübersteht, sind Reise in die Urzeit (Journey to the Beginning of Time, 1954) und der Dokumentarfilm Dinosaurier erobern die Welt (When Dinosaurs Roamed America, 2001).",
-   "section": "Paläobiologie"
-  },
-  "f52": {
-   "kind": "date",
-   "value": "1977",
-   "surface": "1977",
-   "sentence": "Auch gegen Tyrannosaurus kämpft Stegosaurus auf der Leinwand, wie in Planet der Monster (Planet of Dinosaurs, 1977), Walt Disneys Fantasia (1940) sowie der Neuauflage der Serie Im Land der Saurier (Land of the Lost, 1991/92).",
-   "section": "Paläobiologie"
-  },
-  "f53": {
-   "kind": "date",
-   "value": "1940",
-   "surface": "1940",
-   "sentence": "Auch gegen Tyrannosaurus kämpft Stegosaurus auf der Leinwand, wie in Planet der Monster (Planet of Dinosaurs, 1977), Walt Disneys Fantasia (1940) sowie der Neuauflage der Serie Im Land der Saurier (Land of the Lost, 1991/92).",
-   "section": "Paläobiologie"
-  },
-  "f54": {
-   "kind": "date",
-   "value": "1991",
-   "surface": "1991",
-   "sentence": "Auch gegen Tyrannosaurus kämpft Stegosaurus auf der Leinwand, wie in Planet der Monster (Planet of Dinosaurs, 1977), Walt Disneys Fantasia (1940) sowie der Neuauflage der Serie Im Land der Saurier (Land of the Lost, 1991/92).",
-   "section": "Paläobiologie"
-  },
-  "f55": {
-   "kind": "date",
-   "value": "1933",
-   "surface": "1933",
-   "sentence": "Weiter tauchte Stegosaurus in dem klassischen Monsterfilm King Kong (1933) sowie in Vergessene Welt: Jurassic Park (1997) und Jurassic World (2015) auf.",
-   "section": "Paläobiologie"
-  },
-  "f56": {
-   "kind": "date",
-   "value": "1997",
-   "surface": "1997",
-   "sentence": "Weiter tauchte Stegosaurus in dem klassischen Monsterfilm King Kong (1933) sowie in Vergessene Welt: Jurassic Park (1997) und Jurassic World (2015) auf.",
-   "section": "Paläobiologie"
-  },
-  "f57": {
-   "kind": "date",
-   "value": "2015",
-   "surface": "2015",
-   "sentence": "Weiter tauchte Stegosaurus in dem klassischen Monsterfilm King Kong (1933) sowie in Vergessene Welt: Jurassic Park (1997) und Jurassic World (2015) auf.",
-   "section": "Paläobiologie"
-  },
-  "f58": {
-   "kind": "date",
-   "value": "1999",
-   "surface": "1999",
-   "sentence": "Er war zudem auch in der mehrteiligen Fernsehserie Im Reich der Giganten (Walking with Dinosaurs, 1999) und dem Special Die Geschichte von Big Al (The Ballad of Big Al, 2000) zu sehen.",
-   "section": "Paläobiologie"
-  },
-  "f59": {
-   "kind": "date",
-   "value": "2000",
-   "surface": "2000",
-   "sentence": "Er war zudem auch in der mehrteiligen Fernsehserie Im Reich der Giganten (Walking with Dinosaurs, 1999) und dem Special Die Geschichte von Big Al (The Ballad of Big Al, 2000) zu sehen.",
    "section": "Paläobiologie"
   }
  },

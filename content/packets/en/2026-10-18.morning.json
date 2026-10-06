@@ -46,574 +46,452 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 22,
-   "surface": "22",
-   "sentence": "Wilhelm Richard Wagner ( VAHG-nər; German: [ˈvɪlˌhɛlm ˈʁɪçaʁt ˈvaːɡnɐ] ; 22 May 1813 – 13 February 1883) was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1813",
-   "surface": "1813",
-   "sentence": "Wilhelm Richard Wagner ( VAHG-nər; German: [ˈvɪlˌhɛlm ˈʁɪçaʁt ˈvaːɡnɐ] ; 22 May 1813 – 13 February 1883) was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "Wilhelm Richard Wagner ( VAHG-nər; German: [ˈvɪlˌhɛlm ˈʁɪçaʁt ˈvaːɡnɐ] ; 22 May 1813 – 13 February 1883) was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1883",
-   "surface": "1883",
-   "sentence": "Wilhelm Richard Wagner ( VAHG-nər; German: [ˈvɪlˌhɛlm ˈʁɪçaʁt ˈvaːɡnɐ] ; 22 May 1813 – 13 February 1883) was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas."
-  },
-  "f5": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
-   "sentence": "Wagner outlined those ideas in a series of essays published between 1849 and 1852, most fully realising them in the first half of his four-opera cycle Der Ring des Nibelungen (The Ring of the Nibelung)."
+   "sentence": "Wagner outlined those ideas in a series of essays published between 1849 and 1852, most fully realising them in the first half of his four-opera cycle Der Ring des Nibelungen."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
-   "sentence": "Wagner outlined those ideas in a series of essays published between 1849 and 1852, most fully realising them in the first half of his four-opera cycle Der Ring des Nibelungen (The Ring of the Nibelung)."
+   "sentence": "Wagner outlined those ideas in a series of essays published between 1849 and 1852, most fully realising them in the first half of his four-opera cycle Der Ring des Nibelungen."
   },
-  "f7": {
+  "f3": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Richard Wagner was born on 22 May 1813 to an ethnic German family in Leipzig, then part of the Confederation of the Rhine.",
    "section": "Biography"
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1813",
    "surface": "1813",
    "sentence": "Richard Wagner was born on 22 May 1813 to an ethnic German family in Leipzig, then part of the Confederation of the Rhine.",
    "section": "Biography"
   },
-  "f9": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "His family lived at No 3, the Brühl (The House of the Red and White Lions) in Leipzig's Jewish quarter.",
-   "section": "Biography"
-  },
-  "f10": {
+  "f5": {
    "kind": "date",
    "value": "1814",
    "surface": "1814",
    "sentence": "In August 1814 Johanna and Geyer probably married, although no documentation of this has been found in the Leipzig church registers.",
    "section": "Biography"
   },
-  "f11": {
+  "f6": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "In late 1820, Wagner was enrolled at Pastor Wetzel's school at Possendorf, near Dresden, where he received some piano instruction from his Latin teacher.",
    "section": "Biography"
   },
-  "f12": {
+  "f7": {
    "kind": "date",
    "value": "1821",
    "surface": "1821",
    "sentence": "Following Geyer's death in 1821, Richard was sent to the Kreuzschule, the boarding school of the Dresdner Kreuzchor, at the expense of Geyer's brother.",
    "section": "Biography"
   },
-  "f13": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "His first creative effort, listed in the Wagner-Werk-Verzeichnis (the standard listing of Wagner's works) as WWV 1, was a tragedy called Leubald.",
-   "section": "Biography"
-  },
-  "f14": {
+  "f8": {
    "kind": "date",
    "value": "1826",
    "surface": "1826",
    "sentence": "Begun when he was in school in 1826, the play was strongly influenced by Shakespeare and Goethe.",
    "section": "Biography"
   },
-  "f15": {
+  "f9": {
    "kind": "date",
    "value": "1827",
    "surface": "1827",
    "sentence": "By 1827, the family had returned to Leipzig.",
    "section": "Biography"
   },
-  "f16": {
+  "f10": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "Wagner's first lessons in harmony were taken during 1828–1831 with Christian Gottlieb Müller.",
    "section": "Biography"
   },
-  "f17": {
-   "kind": "date",
-   "value": "1831",
-   "surface": "1831",
-   "sentence": "Wagner's first lessons in harmony were taken during 1828–1831 with Christian Gottlieb Müller.",
-   "section": "Biography"
-  },
-  "f18": {
+  "f11": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "In January 1828 he first heard Beethoven's 7th Symphony and then, in March, the same composer's 9th Symphony, both at the Gewandhaus.",
    "section": "Biography"
   },
-  "f19": {
+  "f12": {
    "kind": "date",
    "value": "1829",
    "surface": "1829",
    "sentence": "In 1829 he saw a performance by dramatic soprano Wilhelmine Schröder-Devrient, who became his ideal of the fusion of drama and music in opera.",
    "section": "Biography"
   },
-  "f20": {
+  "f13": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "In 1831, Wagner enrolled at the Leipzig University, where he became a member of the Saxon student fraternity.",
    "section": "Biography"
   },
-  "f21": {
+  "f14": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "He arranged for his pupil's Piano Sonata in B-flat major (which was consequently dedicated to him) to be published as Wagner's Op. 1.",
+   "sentence": "He arranged for his pupil's Piano Sonata in B-flat major to be published as Wagner's Op. 1.",
    "section": "Biography"
   },
-  "f22": {
+  "f15": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "A year later, Wagner composed his Symphony in C major, a Beethovenesque work performed in Prague in 1832 and at the Leipzig Gewandhaus in 1833.",
    "section": "Biography"
   },
-  "f23": {
+  "f16": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "A year later, Wagner composed his Symphony in C major, a Beethovenesque work performed in Prague in 1832 and at the Leipzig Gewandhaus in 1833.",
    "section": "Biography"
   },
-  "f24": {
+  "f17": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "In 1833, Wagner's brother Albert managed to obtain for him a position as choirmaster at the Theatre Würzburg.",
    "section": "Biography"
   },
-  "f25": {
+  "f18": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "In the same year, at the age of 20, Wagner composed his first complete opera, Die Feen (The Fairies).",
+   "sentence": "In the same year, at the age of 20, Wagner composed his first complete opera, Die Feen.",
    "section": "Biography"
   },
-  "f26": {
+  "f19": {
    "kind": "date",
    "value": "1883",
    "surface": "1883",
    "sentence": "This work, which imitated the style of Weber, went unproduced until half a century later, when it was premiered in Munich shortly after the composer's death in 1883.",
    "section": "Biography"
   },
-  "f27": {
+  "f20": {
    "kind": "date",
    "value": "1834",
    "surface": "1834",
-   "sentence": "Having returned to Leipzig in 1834, Wagner held a brief appointment as musical director at the opera house in Magdeburg during which he wrote Das Liebesverbot (The Ban on Love), based on Shakespeare's Measure for Measure.",
+   "sentence": "Having returned to Leipzig in 1834, Wagner held a brief appointment as musical director at the opera house in Magdeburg during which he wrote Das Liebesverbot, based on Shakespeare's Measure for Measure.",
    "section": "Biography"
   },
-  "f28": {
+  "f21": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "This was staged at Magdeburg in 1836 but closed before the second performance; this, together with the financial collapse of the theatre company employing him, left the composer in bankruptcy.",
    "section": "Biography"
   },
-  "f29": {
+  "f22": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "The two married in Tragheim Church on 24 November 1836.",
    "section": "Biography"
   },
-  "f30": {
+  "f23": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "The two married in Tragheim Church on 24 November 1836.",
    "section": "Biography"
   },
-  "f31": {
+  "f24": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "In May 1837, Minna left Wagner for another man, and this was only the first débâcle of a tempestuous marriage.",
    "section": "Biography"
   },
-  "f32": {
+  "f25": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
-   "sentence": "In June 1837, Wagner moved to Riga (then in the Russian Empire), where he became music director of the local opera; having in this capacity engaged Minna's sister Amalie (also a singer) for the theatre, he presently resumed relations with Minna during 1838.",
+   "sentence": "In June 1837, Wagner moved to Riga, where he became music director of the local opera; having in this capacity engaged Minna's sister Amalie for the theatre, he presently resumed relations with Minna during 1838.",
    "section": "Biography"
   },
-  "f33": {
+  "f26": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
-   "sentence": "In June 1837, Wagner moved to Riga (then in the Russian Empire), where he became music director of the local opera; having in this capacity engaged Minna's sister Amalie (also a singer) for the theatre, he presently resumed relations with Minna during 1838.",
+   "sentence": "In June 1837, Wagner moved to Riga, where he became music director of the local opera; having in this capacity engaged Minna's sister Amalie for the theatre, he presently resumed relations with Minna during 1838.",
    "section": "Biography"
   },
-  "f34": {
+  "f27": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "By 1839, the couple had amassed such large debts that they fled Riga on the run from creditors.",
    "section": "Biography"
   },
-  "f35": {
+  "f28": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "The Wagners settled in Paris in September 1839 and stayed there until 1842.",
    "section": "Biography"
   },
-  "f36": {
+  "f29": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
    "sentence": "The Wagners settled in Paris in September 1839 and stayed there until 1842.",
    "section": "Biography"
   },
-  "f37": {
+  "f30": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "Wagner had completed Rienzi in 1840.",
    "section": "Biography"
   },
-  "f38": {
+  "f31": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
-   "sentence": "With the strong support of Giacomo Meyerbeer, it was accepted for performance by the Dresden Court Theatre (Hofoper) in the Kingdom of Saxony, and in 1842 Wagner moved to Dresden.",
+   "sentence": "With the strong support of Giacomo Meyerbeer, it was accepted for performance by the Dresden Court Theatre in the Kingdom of Saxony, and in 1842 Wagner moved to Dresden.",
    "section": "Biography"
   },
-  "f39": {
+  "f32": {
    "kind": "date",
    "value": "1842",
    "surface": "1842",
-   "sentence": "His relief at returning to Germany was recorded in his \"Autobiographic Sketch\" of 1842, where he wrote that, en route from Paris, \"For the first time I saw the Rhine—with hot tears in my eyes, I, poor artist, swore eternal fidelity to my German fatherland.\"",
+   "sentence": "His relief at returning to Germany was recorded in his \"Autobiographic Sketch\"of 1842, where he wrote that, en route from Paris, \"For the first time I saw the Rhine—with hot tears in my eyes, I, poor artist, swore eternal fidelity to my German fatherland.\"Rienzi was staged to considerable acclaim on 20 October.",
    "section": "Biography"
   },
-  "f40": {
+  "f33": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Rienzi was staged to considerable acclaim on 20 October.",
+   "sentence": "His relief at returning to Germany was recorded in his \"Autobiographic Sketch\"of 1842, where he wrote that, en route from Paris, \"For the first time I saw the Rhine—with hot tears in my eyes, I, poor artist, swore eternal fidelity to my German fatherland.\"Rienzi was staged to considerable acclaim on 20 October.",
    "section": "Biography"
   },
-  "f41": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "During this period, he staged there Der fliegende Holländer (2 January 1843) and Tannhäuser (19 October 1845), the first two of his three middle-period operas.",
-   "section": "Biography"
-  },
-  "f42": {
-   "kind": "date",
-   "value": "1843",
-   "surface": "1843",
-   "sentence": "During this period, he staged there Der fliegende Holländer (2 January 1843) and Tannhäuser (19 October 1845), the first two of his three middle-period operas.",
-   "section": "Biography"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "During this period, he staged there Der fliegende Holländer (2 January 1843) and Tannhäuser (19 October 1845), the first two of his three middle-period operas.",
-   "section": "Biography"
-  },
-  "f44": {
-   "kind": "date",
-   "value": "1845",
-   "surface": "1845",
-   "sentence": "During this period, he staged there Der fliegende Holländer (2 January 1843) and Tannhäuser (19 October 1845), the first two of his three middle-period operas.",
-   "section": "Biography"
-  },
-  "f45": {
+  "f34": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
    "sentence": "Widespread discontent came to a head in 1849, when the unsuccessful May Uprising in Dresden broke out, in which Wagner played a minor supporting role.",
    "section": "Biography"
   },
-  "f46": {
+  "f35": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "Liszt conducted the premiere in Weimar in August 1850.",
    "section": "Biography"
   },
-  "f47": {
+  "f36": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "In 1850, Julie, the wife of his friend Karl Ritter, began to pay him a small pension which she maintained until 1859.",
    "section": "Biography"
   },
-  "f48": {
+  "f37": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "In 1850, Julie, the wife of his friend Karl Ritter, began to pay him a small pension which she maintained until 1859.",
    "section": "Biography"
   },
-  "f49": {
+  "f38": {
    "kind": "number",
    "value": 3000,
    "surface": "3,000",
    "sentence": "With help from her friend Jessie Laussot, this was to have been augmented to an annual sum of 3,000 thalers per year, but the plan was abandoned when Wagner began an affair with Mme.",
    "section": "Biography"
   },
-  "f50": {
+  "f39": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "Wagner even plotted an elopement with her in 1850, which her husband prevented.",
    "section": "Biography"
   },
-  "f51": {
-   "kind": "date",
-   "value": "1849",
-   "surface": "1849",
-   "sentence": "In \"The Artwork of the Future\" (1849), he described a vision of opera as Gesamtkunstwerk (total work of art), in which music, song, dance, poetry, visual arts and stagecraft were unified.",
-   "section": "Biography"
-  },
-  "f52": {
-   "kind": "date",
-   "value": "1850",
-   "surface": "1850",
-   "sentence": "\"Judaism in Music\" (1850) was the first of Wagner's writings to feature antisemitic views.",
-   "section": "Biography"
-  },
-  "f53": {
-   "kind": "date",
-   "value": "1851",
-   "surface": "1851",
-   "sentence": "In \"Opera and Drama\" (1851), Wagner described the aesthetics of music drama that he was using to create the Ring cycle.",
-   "section": "Biography"
-  },
-  "f54": {
+  "f40": {
    "kind": "date",
    "value": "1848",
    "surface": "1848",
-   "sentence": "He initially wrote the libretto for a single opera, Siegfrieds Tod (Siegfried's Death), in 1848.",
+   "sentence": "He initially wrote the libretto for a single opera, Siegfrieds Tod, in 1848.",
    "section": "Biography"
   },
-  "f55": {
+  "f41": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
-   "sentence": "He completed the text of the cycle by writing the libretti for Die Walküre (The Valkyrie) and Das Rheingold (The Rhine Gold) and revising the other libretti to conform to his new concept, completing them in 1852.",
+   "sentence": "He completed the text of the cycle by writing the libretti for Die Walküre and Das Rheingold and revising the other libretti to conform to his new concept, completing them in 1852.",
    "section": "Biography"
   },
-  "f56": {
+  "f42": {
    "kind": "date",
    "value": "1851",
    "surface": "1851",
    "sentence": "Partly in an attempt to explain his change of views, Wagner published in 1851 the autobiographical \"A Communication to My Friends\".",
    "section": "Biography"
   },
-  "f57": {
+  "f43": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
-   "sentence": "Wagner began composing the music for Das Rheingold between November 1853 and September 1854, following it immediately with Die Walküre (written between June 1854 and March 1856).",
+   "sentence": "Wagner began composing the music for Das Rheingold between November 1853 and September 1854, following it immediately with Die Walküre.",
    "section": "Biography"
   },
-  "f58": {
+  "f44": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "Wagner began composing the music for Das Rheingold between November 1853 and September 1854, following it immediately with Die Walküre (written between June 1854 and March 1856).",
+   "sentence": "Wagner began composing the music for Das Rheingold between November 1853 and September 1854, following it immediately with Die Walküre.",
    "section": "Biography"
   },
-  "f59": {
-   "kind": "date",
-   "value": "1854",
-   "surface": "1854",
-   "sentence": "Wagner began composing the music for Das Rheingold between November 1853 and September 1854, following it immediately with Die Walküre (written between June 1854 and March 1856).",
-   "section": "Biography"
-  },
-  "f60": {
-   "kind": "date",
-   "value": "1856",
-   "surface": "1856",
-   "sentence": "Wagner began composing the music for Das Rheingold between November 1853 and September 1854, following it immediately with Die Walküre (written between June 1854 and March 1856).",
-   "section": "Biography"
-  },
-  "f61": {
+  "f45": {
    "kind": "date",
    "value": "1856",
    "surface": "1856",
    "sentence": "He began work on the third Ring drama, which he now called simply Siegfried, probably in September 1856, but by June 1857 he had completed only the first two acts.",
    "section": "Biography"
   },
-  "f62": {
+  "f46": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "He began work on the third Ring drama, which he now called simply Siegfried, probably in September 1856, but by June 1857 he had completed only the first two acts.",
    "section": "Biography"
   },
-  "f63": {
+  "f47": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "One source of inspiration for Tristan und Isolde was the philosophy of Arthur Schopenhauer, notably his The World as Will and Representation, to which Wagner had been introduced in 1854 by his poet friend Georg Herwegh.",
    "section": "Biography"
   },
-  "f64": {
+  "f48": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "Wagner met the Wesendoncks, who were both great admirers of his music, in Zürich in 1852.",
    "section": "Biography"
   },
-  "f65": {
+  "f49": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
-   "sentence": "From May 1853 onwards Wesendonck made several loans to Wagner to finance his household expenses in Zürich, and in 1857 placed a cottage on his estate at Wagner's disposal, which became known as the Asyl (\"asylum\" or \"place of rest\").",
+   "sentence": "From May 1853 onwards Wesendonck made several loans to Wagner to finance his household expenses in Zürich, and in 1857 placed a cottage on his estate at Wagner's disposal, which became known as the Asyl.",
    "section": "Biography"
   },
-  "f66": {
+  "f50": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
-   "sentence": "From May 1853 onwards Wesendonck made several loans to Wagner to finance his household expenses in Zürich, and in 1857 placed a cottage on his estate at Wagner's disposal, which became known as the Asyl (\"asylum\" or \"place of rest\").",
+   "sentence": "From May 1853 onwards Wesendonck made several loans to Wagner to finance his household expenses in Zürich, and in 1857 placed a cottage on his estate at Wagner's disposal, which became known as the Asyl.",
    "section": "Biography"
   },
-  "f67": {
+  "f51": {
    "kind": "date",
    "value": "1855",
    "surface": "1855",
    "sentence": "Among the conducting engagements that Wagner undertook for revenue during this period, he gave several concerts in 1855 with the Philharmonic Society of London, including one before Queen Victoria.",
    "section": "Biography"
   },
-  "f68": {
+  "f52": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "Wagner's uneasy affair with Mathilde collapsed in 1858, when Minna intercepted a letter to Mathilde from him.",
    "section": "Biography"
   },
-  "f69": {
+  "f53": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "In an 1859 letter to Mathilde, Wagner wrote, half-satirically, of Tristan: \"Child!",
    "section": "Biography"
   },
-  "f70": {
+  "f54": {
    "kind": "date",
    "value": "1859",
    "surface": "1859",
    "sentence": "In November 1859, Wagner once again moved to Paris to oversee production of a new revision of Tannhäuser, staged thanks to the efforts of Princess Pauline von Metternich, whose husband, Richard von Metternich, was the Austrian ambassador in Paris.",
    "section": "Biography"
   },
-  "f71": {
+  "f55": {
    "kind": "date",
    "value": "1861",
    "surface": "1861",
    "sentence": "The performances of the Paris Tannhäuser in 1861 were a notable fiasco.",
    "section": "Biography"
   },
-  "f72": {
+  "f56": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "This was partly a consequence of the conservative tastes of the Jockey Club, which organised demonstrations in the theatre to protest at the presentation of the ballet feature in Act 1 (instead of its traditional location in the second act); but the opportunity was also exploited by those who wanted to use the occasion as a veiled political protest against the pro-Austrian policies of Napoleon III.",
+   "sentence": "This was partly a consequence of the conservative tastes of the Jockey Club, which organised demonstrations in the theatre to protest at the presentation of the ballet feature in Act 1; but the opportunity was also exploited by those who wanted to use the occasion as a veiled political protest against the pro-Austrian policies of Napoleon III.",
    "section": "Biography"
   },
-  "f73": {
+  "f57": {
    "kind": "date",
    "value": "1862",
    "surface": "1862",
    "sentence": "The political ban that had been placed on Wagner in the German Confederation after he had fled Dresden was fully lifted in 1862.",
    "section": "Biography"
   },
-  "f74": {
+  "f58": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "Here Minna visited him for the last time: they parted irrevocably, though Wagner continued to give financial support to her while she lived in Dresden until her death in 1866.",
    "section": "Biography"
   },
-  "f75": {
+  "f59": {
    "kind": "date",
    "value": "1845",
    "surface": "1845",
    "sentence": "Wagner wrote a first draft of the libretto in 1845, and he had resolved to develop it during a visit he had made to Venice with the Wesendoncks in 1860, where he was inspired by Titian's painting The Assumption of the Virgin.",
    "section": "Biography"
   },
-  "f76": {
+  "f60": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "Wagner wrote a first draft of the libretto in 1845, and he had resolved to develop it during a visit he had made to Venice with the Wesendoncks in 1860, where he was inspired by Titian's painting The Assumption of the Virgin.",
    "section": "Biography"
   },
-  "f77": {
-   "kind": "date",
-   "value": "1861",
-   "surface": "1861",
-   "sentence": "Throughout this period (1861–1864) Wagner sought to have Tristan und Isolde produced in Vienna.",
-   "section": "Biography"
-  },
-  "f78": {
-   "kind": "date",
-   "value": "1864",
-   "surface": "1864",
-   "sentence": "Throughout this period (1861–1864) Wagner sought to have Tristan und Isolde produced in Vienna.",
-   "section": "Biography"
-  },
-  "f79": {
+  "f61": {
    "kind": "date",
    "value": "1864",
    "surface": "1864",
    "sentence": "Wagner's fortunes took a dramatic upturn in 1864, when King Ludwig II succeeded to the throne of Bavaria at the age of 18.",
    "section": "Biography"
   },
-  "f80": {
+  "f62": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Wagner's fortunes took a dramatic upturn in 1864, when King Ludwig II succeeded to the throne of Bavaria at the age of 18.",
    "section": "Biography"
   },
-  "f81": {
+  "f63": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "After grave difficulties in rehearsal, Tristan und Isolde premiered at the National Theatre Munich on 10 June 1865, the first Wagner opera premiere in almost 15 years.",
    "section": "Biography"
   },
-  "f82": {
+  "f64": {
    "kind": "date",
    "value": "1865",
    "surface": "1865",
    "sentence": "After grave difficulties in rehearsal, Tristan und Isolde premiered at the National Theatre Munich on 10 June 1865, the first Wagner opera premiere in almost 15 years.",
    "section": "Biography"
   },
-  "f83": {
+  "f65": {
    "kind": "measure",
    "value": 15,
    "unit": "years",
@@ -621,14 +499,7 @@
    "sentence": "After grave difficulties in rehearsal, Tristan und Isolde premiered at the National Theatre Munich on 10 June 1865, the first Wagner opera premiere in almost 15 years.",
    "section": "Biography"
   },
-  "f84": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "(The premiere had been scheduled for 15 May, but was delayed by bailiffs acting for Wagner's creditors, and also because the Isolde, Malvina Schnorr von Carolsfeld, was hoarse and needed time to recover.)",
-   "section": "Biography"
-  },
-  "f85": {
+  "f66": {
    "kind": "measure",
    "value": 24,
    "unit": "years",
@@ -636,287 +507,266 @@
    "sentence": "Cosima was 24 years younger than Wagner and was herself illegitimate, the daughter of the Countess Marie d'Agoult, who had left her husband for Franz Liszt.",
    "section": "Biography"
   },
-  "f86": {
+  "f67": {
    "kind": "date",
    "value": "1865",
    "surface": "1865",
    "sentence": "In December 1865, Ludwig was finally forced to ask the composer to leave Munich.",
    "section": "Biography"
   },
-  "f87": {
+  "f68": {
    "kind": "date",
    "value": "1867",
    "surface": "1867",
    "sentence": "Die Meistersinger was completed at Tribschen in 1867, and premiered in Munich on 21 June the following year.",
    "section": "Biography"
   },
-  "f88": {
+  "f69": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Die Meistersinger was completed at Tribschen in 1867, and premiered in Munich on 21 June the following year.",
    "section": "Biography"
   },
-  "f89": {
+  "f70": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
-   "sentence": "At Ludwig's insistence, \"special previews\" of the first two works of the Ring, Das Rheingold and Die Walküre, were performed at Munich in 1869 and 1870, but Wagner retained his dream, first expressed in \"A Communication to My Friends\", to present the first complete cycle at a special festival with a new, dedicated, opera house.",
+   "sentence": "At Ludwig's insistence, \"special previews\"of the first two works of the Ring, Das Rheingold and Die Walküre, were performed at Munich in 1869 and 1870, but Wagner retained his dream, first expressed in \"A Communication to My Friends\", to present the first complete cycle at a special festival with a new, dedicated, opera house.",
    "section": "Biography"
   },
-  "f90": {
+  "f71": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
-   "sentence": "At Ludwig's insistence, \"special previews\" of the first two works of the Ring, Das Rheingold and Die Walküre, were performed at Munich in 1869 and 1870, but Wagner retained his dream, first expressed in \"A Communication to My Friends\", to present the first complete cycle at a special festival with a new, dedicated, opera house.",
+   "sentence": "At Ludwig's insistence, \"special previews\"of the first two works of the Ring, Das Rheingold and Die Walküre, were performed at Munich in 1869 and 1870, but Wagner retained his dream, first expressed in \"A Communication to My Friends\", to present the first complete cycle at a special festival with a new, dedicated, opera house.",
    "section": "Biography"
   },
-  "f91": {
+  "f72": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Minna died of a heart attack on 25 January 1866 in Dresden.",
    "section": "Biography"
   },
-  "f92": {
+  "f73": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "Minna died of a heart attack on 25 January 1866 in Dresden.",
    "section": "Biography"
   },
-  "f93": {
+  "f74": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "The divorce was finally sanctioned, after delays in the legal process, by a Berlin court on 18 July 1870.",
    "section": "Biography"
   },
-  "f94": {
+  "f75": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "The divorce was finally sanctioned, after delays in the legal process, by a Berlin court on 18 July 1870.",
    "section": "Biography"
   },
-  "f95": {
+  "f76": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Richard and Cosima's wedding took place on 25 August 1870.",
    "section": "Biography"
   },
-  "f96": {
+  "f77": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "Richard and Cosima's wedding took place on 25 August 1870.",
    "section": "Biography"
   },
-  "f97": {
+  "f78": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
-   "sentence": "On Christmas Day 1870, Wagner arranged a surprise performance (its premiere) of the Siegfried Idyll for Cosima's birthday.",
+   "sentence": "On Christmas Day 1870, Wagner arranged a surprise performance of the Siegfried Idyll for Cosima's birthday.",
    "section": "Biography"
   },
-  "f98": {
+  "f79": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "He had not abandoned polemics: he republished his 1850 pamphlet \"Judaism in Music\", originally issued under a pseudonym, under his own name in 1869, extending the introduction and adding a lengthy final section.",
    "section": "Biography"
   },
-  "f99": {
+  "f80": {
    "kind": "date",
    "value": "1869",
    "surface": "1869",
    "sentence": "He had not abandoned polemics: he republished his 1850 pamphlet \"Judaism in Music\", originally issued under a pseudonym, under his own name in 1869, extending the introduction and adding a lengthy final section.",
    "section": "Biography"
   },
-  "f100": {
+  "f81": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "In 1871, Wagner decided to move to Bayreuth, which was to be the location of his new opera house.",
    "section": "Biography"
   },
-  "f101": {
+  "f82": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "Wagner initially announced the first Bayreuth Festival, at which for the first time the Ring cycle was presented complete, for 1873, but since Ludwig had declined to finance the project, the start of building was delayed and the proposed date for the festival was deferred.",
    "section": "Biography"
   },
-  "f102": {
+  "f83": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "By the spring of 1873, only a third of the required funds had been raised; further pleas to Ludwig were initially ignored, but early in 1874, with the project on the verge of collapse, the King relented and provided a loan.",
    "section": "Biography"
   },
-  "f103": {
+  "f84": {
    "kind": "date",
    "value": "1874",
    "surface": "1874",
    "sentence": "By the spring of 1873, only a third of the required funds had been raised; further pleas to Ludwig were initially ignored, but early in 1874, with the project on the verge of collapse, the King relented and provided a loan.",
    "section": "Biography"
   },
-  "f104": {
+  "f85": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "The full building programme included the family home, \"Wahnfried\", into which Wagner, with Cosima and the children, moved from their temporary accommodation on 18 April 1874.",
    "section": "Biography"
   },
-  "f105": {
+  "f86": {
    "kind": "date",
    "value": "1874",
    "surface": "1874",
    "sentence": "The full building programme included the family home, \"Wahnfried\", into which Wagner, with Cosima and the children, moved from their temporary accommodation on 18 April 1874.",
    "section": "Biography"
   },
-  "f106": {
+  "f87": {
    "kind": "date",
    "value": "1875",
    "surface": "1875",
    "sentence": "The theatre was completed in 1875, and the festival was scheduled for the following year.",
    "section": "Biography"
   },
-  "f107": {
+  "f88": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "The Festspielhaus finally opened on 13 August 1876 with Das Rheingold, at last taking its place as the first evening of the complete Ring cycle; the 1876 Bayreuth Festival therefore saw the premiere of the complete cycle, performed as a sequence as the composer had intended.",
    "section": "Biography"
   },
-  "f108": {
+  "f89": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "The Festspielhaus finally opened on 13 August 1876 with Das Rheingold, at last taking its place as the first evening of the complete Ring cycle; the 1876 Bayreuth Festival therefore saw the premiere of the complete cycle, performed as a sequence as the composer had intended.",
    "section": "Biography"
   },
-  "f109": {
+  "f90": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "The Festspielhaus finally opened on 13 August 1876 with Das Rheingold, at last taking its place as the first evening of the complete Ring cycle; the 1876 Bayreuth Festival therefore saw the premiere of the complete cycle, performed as a sequence as the composer had intended.",
    "section": "Biography"
   },
-  "f110": {
+  "f91": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
-   "sentence": "The 1876 Festival consisted of three full Ring cycles (under the baton of Hans Richter).",
+   "sentence": "The 1876 Festival consisted of three full Ring cycles.",
    "section": "Biography"
   },
-  "f111": {
+  "f92": {
    "kind": "number",
    "value": 150000,
    "surface": "150,000",
-   "sentence": "Moreover, the festival finished with a deficit of about 150,000 marks.",
+   "sentence": "Wagner was far from satisfied with the Festival; Cosima recorded that months later his attitude towards the productions was \"Never again, never again!\"Moreover, the festival finished with a deficit of about 150,000 marks.",
    "section": "Biography"
   },
-  "f112": {
+  "f93": {
    "kind": "number",
    "value": 5000,
    "surface": "5,000",
    "sentence": "The expenses of Bayreuth and of Wahnfried meant that Wagner still sought further sources of income by conducting or taking on commissions such as the Centennial March for America, for which he received $5,000.",
    "section": "Biography"
   },
-  "f113": {
+  "f94": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "From 1876 to 1878 Wagner also embarked on the last of his documented emotional liaisons, this time with Judith Gautier, whom he had met at the 1876 Festival.",
    "section": "Biography"
   },
-  "f114": {
+  "f95": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
    "sentence": "From 1876 to 1878 Wagner also embarked on the last of his documented emotional liaisons, this time with Judith Gautier, whom he had met at the 1876 Festival.",
    "section": "Biography"
   },
-  "f115": {
+  "f96": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "From 1876 to 1878 Wagner also embarked on the last of his documented emotional liaisons, this time with Judith Gautier, whom he had met at the 1876 Festival.",
    "section": "Biography"
   },
-  "f116": {
+  "f97": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
-   "sentence": "He was once again assisted by the liberality of King Ludwig, but was still forced by his personal financial situation in 1877 to sell the rights of several of his unpublished works (including the Siegfried Idyll) to the publisher Schott.",
+   "sentence": "He was once again assisted by the liberality of King Ludwig, but was still forced by his personal financial situation in 1877 to sell the rights of several of his unpublished works to the publisher Schott.",
    "section": "Biography"
   },
-  "f117": {
-   "kind": "date",
-   "value": "1880",
-   "surface": "1880",
-   "sentence": "These include \"Religion and Art\" (1880) and \"Heroism and Christianity\" (1881), which were printed in the journal Bayreuther Blätter, published by his supporter Hans von Wolzogen.",
-   "section": "Biography"
-  },
-  "f118": {
-   "kind": "date",
-   "value": "1881",
-   "surface": "1881",
-   "sentence": "These include \"Religion and Art\" (1880) and \"Heroism and Christianity\" (1881), which were printed in the journal Bayreuther Blätter, published by his supporter Hans von Wolzogen.",
-   "section": "Biography"
-  },
-  "f119": {
-   "kind": "date",
-   "value": "1878",
-   "surface": "1878",
-   "sentence": "(1878, but based on a draft written in the 1860s), repeated Wagner's antisemitic preoccupations.",
-   "section": "Biography"
-  },
-  "f120": {
+  "f98": {
    "kind": "date",
    "value": "1882",
    "surface": "1882",
    "sentence": "Wagner completed Parsifal in January 1882, and a second Bayreuth Festival was held for the new opera, which premiered on 26 May.",
    "section": "Biography"
   },
-  "f121": {
+  "f99": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Wagner completed Parsifal in January 1882, and a second Bayreuth Festival was held for the new opera, which premiered on 26 May.",
    "section": "Biography"
   },
-  "f122": {
+  "f100": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "During the sixteenth and final performance of Parsifal on 29 August, he entered the pit unseen during act 3, took the baton from conductor Hermann Levi, and led the performance to its conclusion.",
    "section": "Biography"
   },
-  "f123": {
+  "f101": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "During the sixteenth and final performance of Parsifal on 29 August, he entered the pit unseen during act 3, took the baton from conductor Hermann Levi, and led the performance to its conclusion.",
    "section": "Biography"
   },
-  "f124": {
+  "f102": {
    "kind": "number",
    "value": 69,
    "surface": "69",
    "sentence": "Wagner died of a heart attack at the age of 69 on 13 February 1883 at Ca' Vendramin Calergi, a 16th-century palazzo on the Grand Canal.",
    "section": "Biography"
   },
-  "f125": {
+  "f103": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Wagner died of a heart attack at the age of 69 on 13 February 1883 at Ca' Vendramin Calergi, a 16th-century palazzo on the Grand Canal.",
    "section": "Biography"
   },
-  "f126": {
+  "f104": {
    "kind": "date",
    "value": "1883",
    "surface": "1883",

@@ -62,432 +62,248 @@
    "value": 30,
    "unit": "cm",
    "surface": "30 cm",
-   "sentence": "The fruit body has a large brown cap which can reach 30 cm (12 in) in diameter and 3 kg (6 lb 10 oz) in weight."
+   "sentence": "The fruit body has a large brown cap which can reach 30 cm in diameter and 3 kg in weight."
   },
   "f2": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The fruit body has a large brown cap which can reach 30 cm (12 in) in diameter and 3 kg (6 lb 10 oz) in weight."
-  },
-  "f3": {
    "kind": "measure",
    "value": 3,
    "unit": "kg",
    "surface": "3 kg",
-   "sentence": "The fruit body has a large brown cap which can reach 30 cm (12 in) in diameter and 3 kg (6 lb 10 oz) in weight."
+   "sentence": "The fruit body has a large brown cap which can reach 30 cm in diameter and 3 kg in weight."
   },
-  "f4": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "The fruit body has a large brown cap which can reach 30 cm (12 in) in diameter and 3 kg (6 lb 10 oz) in weight."
-  },
-  "f5": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "The fruit body has a large brown cap which can reach 30 cm (12 in) in diameter and 3 kg (6 lb 10 oz) in weight."
-  },
-  "f6": {
+  "f3": {
    "kind": "measure",
    "value": 25,
    "unit": "cm",
    "surface": "25 cm",
-   "sentence": "The stout stipe (or stem) is white or yellowish, up to 25 cm (10 in) tall and 7 cm (3 in) thick, and partially covered with a raised network pattern (reticulations)."
+   "sentence": "The stout stipe is white or yellowish, up to 25 cm tall and 7 cm thick, and partially covered with a raised network pattern."
   },
-  "f7": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "The stout stipe (or stem) is white or yellowish, up to 25 cm (10 in) tall and 7 cm (3 in) thick, and partially covered with a raised network pattern (reticulations)."
-  },
-  "f8": {
+  "f4": {
    "kind": "measure",
    "value": 7,
    "unit": "cm",
    "surface": "7 cm",
-   "sentence": "The stout stipe (or stem) is white or yellowish, up to 25 cm (10 in) tall and 7 cm (3 in) thick, and partially covered with a raised network pattern (reticulations)."
+   "sentence": "The stout stipe is white or yellowish, up to 25 cm tall and 7 cm thick, and partially covered with a raised network pattern."
   },
-  "f9": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The stout stipe (or stem) is white or yellowish, up to 25 cm (10 in) tall and 7 cm (3 in) thick, and partially covered with a raised network pattern (reticulations)."
-  },
-  "f10": {
+  "f5": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
-   "sentence": "The western North American species commonly known as the California king bolete (B. edulis var. grandedulis) is a large, darker-coloured variant first formally identified in 2007."
+   "sentence": "The western North American species commonly known as the California king bolete is a large, darker-coloured variant first formally identified in 2007."
   },
-  "f11": {
+  "f6": {
    "kind": "date",
    "value": "1782",
    "surface": "1782",
    "sentence": "Boletus edulis was first described in 1782 by the French botanist Pierre Bulliard and still bears its original name.",
    "section": "Taxonomy"
   },
-  "f12": {
+  "f7": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "The starting date of fungal taxonomy had been set as January 1, 1821, to coincide with the date of the works of the 'father of mycology', Swedish naturalist Elias Magnus Fries, which meant the name required sanction by Fries (indicated in the name by a colon) to be considered valid, as Bulliard's work preceded this date.",
+   "sentence": "The starting date of fungal taxonomy had been set as January 1, 1821, to coincide with the date of the works of the 'father of mycology', Swedish naturalist Elias Magnus Fries, which meant the name required sanction by Fries to be considered valid, as Bulliard's work preceded this date.",
    "section": "Taxonomy"
   },
-  "f13": {
+  "f8": {
    "kind": "date",
    "value": "1821",
    "surface": "1821",
-   "sentence": "The starting date of fungal taxonomy had been set as January 1, 1821, to coincide with the date of the works of the 'father of mycology', Swedish naturalist Elias Magnus Fries, which meant the name required sanction by Fries (indicated in the name by a colon) to be considered valid, as Bulliard's work preceded this date.",
+   "sentence": "The starting date of fungal taxonomy had been set as January 1, 1821, to coincide with the date of the works of the 'father of mycology', Swedish naturalist Elias Magnus Fries, which meant the name required sanction by Fries to be considered valid, as Bulliard's work preceded this date.",
    "section": "Taxonomy"
   },
-  "f14": {
+  "f9": {
    "kind": "date",
    "value": "1987",
    "surface": "1987",
    "sentence": "A 1987 revision of the International Code of Botanical Nomenclature set the starting date at May 1, 1753, the date of publication of Carl Linnaeus' Species Plantarum.",
    "section": "Taxonomy"
   },
-  "f15": {
+  "f10": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "A 1987 revision of the International Code of Botanical Nomenclature set the starting date at May 1, 1753, the date of publication of Carl Linnaeus' Species Plantarum.",
    "section": "Taxonomy"
   },
-  "f16": {
+  "f11": {
    "kind": "date",
    "value": "1753",
    "surface": "1753",
    "sentence": "A 1987 revision of the International Code of Botanical Nomenclature set the starting date at May 1, 1753, the date of publication of Carl Linnaeus' Species Plantarum.",
    "section": "Taxonomy"
   },
-  "f17": {
+  "f12": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Early alternate names include Boletus solidus by English naturalist James Sowerby in 1809, and Gray's Leccinum edule.",
    "section": "Taxonomy"
   },
-  "f18": {
+  "f13": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "In Rolf Singer's classification of the Agaricales mushrooms, it is also the type species of section Boletus, a grouping of about 30 related boletes united by several characteristics: a mild-tasting, white flesh that does not change colour when exposed to air; a smooth to distinctly raised, netted pattern over at least the uppermost portion of the stem; a yellow-brown or olive-brown spore print; white tubes that later become yellowish then greenish, which initially appear to be stuffed with cotton; and cystidia that are not strongly coloured.",
    "section": "Taxonomy"
   },
-  "f19": {
+  "f14": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Molecular analysis published in 1997 established that the bolete mushrooms are all derived from a common ancestor, and established the Boletales as an order separate from the Agaricales.",
    "section": "Taxonomy"
   },
-  "f20": {
+  "f15": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "The French-born King Charles XIV John popularised B. edulis in Sweden after 1818, and is honoured in the local vernacular name Karljohanssvamp, as well as the Danish name Karl Johan svamp.",
    "section": "Taxonomy"
   },
-  "f21": {
+  "f16": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "The cap of this mushroom grows up to 8–30 cm (3–12 in) wide, sometimes more.",
+   "sentence": "The cap of this mushroom grows up to 8–30 cm wide, sometimes more.",
    "section": "Description"
   },
-  "f22": {
+  "f17": {
    "kind": "measure",
    "value": 30,
    "unit": "cm",
    "surface": "30 cm",
-   "sentence": "The cap of this mushroom grows up to 8–30 cm (3–12 in) wide, sometimes more.",
+   "sentence": "The cap of this mushroom grows up to 8–30 cm wide, sometimes more.",
    "section": "Description"
   },
-  "f23": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The cap of this mushroom grows up to 8–30 cm (3–12 in) wide, sometimes more.",
-   "section": "Description"
-  },
-  "f24": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The cap of this mushroom grows up to 8–30 cm (3–12 in) wide, sometimes more.",
-   "section": "Description"
-  },
-  "f25": {
+  "f18": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
+   "sentence": "The stipe grows up to 8–25 cm tall and 2–7 cm thick—rather large in comparison to the cap.",
    "section": "Description"
   },
-  "f26": {
+  "f19": {
    "kind": "measure",
    "value": 25,
    "unit": "cm",
    "surface": "25 cm",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
+   "sentence": "The stipe grows up to 8–25 cm tall and 2–7 cm thick—rather large in comparison to the cap.",
    "section": "Description"
   },
-  "f27": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
-   "section": "Description"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
-   "section": "Description"
-  },
-  "f29": {
+  "f20": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
+   "sentence": "The stipe grows up to 8–25 cm tall and 2–7 cm thick—rather large in comparison to the cap.",
    "section": "Description"
   },
-  "f30": {
+  "f21": {
    "kind": "measure",
    "value": 7,
    "unit": "cm",
    "surface": "7 cm",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
+   "sentence": "The stipe grows up to 8–25 cm tall and 2–7 cm thick—rather large in comparison to the cap.",
    "section": "Description"
   },
-  "f31": {
+  "f22": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
+   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm deep, and whitish in colour when young, but mature to a greenish-yellow.",
    "section": "Description"
   },
-  "f32": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The stipe grows up to 8–25 cm (3–10 in) tall and 2–7 cm (1–3 in) thick—rather large in comparison to the cap.",
-   "section": "Description"
-  },
-  "f33": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm (1⁄2 to 3⁄4 in) deep, and whitish in colour when young, but mature to a greenish-yellow.",
-   "section": "Description"
-  },
-  "f34": {
+  "f23": {
    "kind": "measure",
    "value": 2,
    "unit": "cm",
    "surface": "2 cm",
-   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm (1⁄2 to 3⁄4 in) deep, and whitish in colour when young, but mature to a greenish-yellow.",
+   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm deep, and whitish in colour when young, but mature to a greenish-yellow.",
    "section": "Description"
   },
-  "f35": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm (1⁄2 to 3⁄4 in) deep, and whitish in colour when young, but mature to a greenish-yellow.",
-   "section": "Description"
-  },
-  "f36": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm (1⁄2 to 3⁄4 in) deep, and whitish in colour when young, but mature to a greenish-yellow.",
-   "section": "Description"
-  },
-  "f37": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm (1⁄2 to 3⁄4 in) deep, and whitish in colour when young, but mature to a greenish-yellow.",
-   "section": "Description"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm (1⁄2 to 3⁄4 in) deep, and whitish in colour when young, but mature to a greenish-yellow.",
-   "section": "Description"
-  },
-  "f39": {
+  "f24": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "The angular pores, which do not stain when bruised, are small—roughly 2 to 3 pores per millimetre.",
    "section": "Description"
   },
-  "f40": {
+  "f25": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "The angular pores, which do not stain when bruised, are small—roughly 2 to 3 pores per millimetre.",
    "section": "Description"
   },
-  "f41": {
+  "f26": {
    "kind": "measure",
    "value": 1,
    "unit": "kg",
    "surface": "1 kg",
-   "sentence": "Mature specimens can weigh about 1 kg (2 lb 3 oz).",
+   "sentence": "Mature specimens can weigh about 1 kg.",
    "section": "Description"
   },
-  "f42": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Mature specimens can weigh about 1 kg (2 lb 3 oz).",
-   "section": "Description"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Mature specimens can weigh about 1 kg (2 lb 3 oz).",
-   "section": "Description"
-  },
-  "f44": {
+  "f27": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
+   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg; its cap was 42 cm wide and the stipe was 18 cm tall and 14 cm wide.",
    "section": "Description"
   },
-  "f45": {
+  "f28": {
    "kind": "measure",
    "value": 3.2,
    "unit": "kg",
    "surface": "3.2 kg",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
+   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg; its cap was 42 cm wide and the stipe was 18 cm tall and 14 cm wide.",
    "section": "Description"
   },
-  "f46": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f48": {
+  "f29": {
    "kind": "measure",
    "value": 42,
    "unit": "cm",
    "surface": "42 cm",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
+   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg; its cap was 42 cm wide and the stipe was 18 cm tall and 14 cm wide.",
    "section": "Description"
   },
-  "f49": {
-   "kind": "number",
-   "value": 16,
-   "surface": "16",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f52": {
+  "f30": {
    "kind": "measure",
    "value": 18,
    "unit": "cm",
    "surface": "18 cm",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
+   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg; its cap was 42 cm wide and the stipe was 18 cm tall and 14 cm wide.",
    "section": "Description"
   },
-  "f53": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f54": {
+  "f31": {
    "kind": "measure",
    "value": 14,
    "unit": "cm",
    "surface": "14 cm",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
+   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg; its cap was 42 cm wide and the stipe was 18 cm tall and 14 cm wide.",
    "section": "Description"
   },
-  "f55": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f56": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f57": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "A huge specimen collected on the Isle of Skye, Scotland, in 1995 weighed 3.2 kg (7 lb 1 oz); its cap was 42 cm (16+1⁄2 in) wide and the stipe was 18 cm (7 in) tall and 14 cm (5+1⁄2 in) wide.",
-   "section": "Description"
-  },
-  "f58": {
+  "f32": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "A similarly sized specimen found in Poland in 2013 made international news.",
    "section": "Description"
   },
-  "f59": {
+  "f33": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "The spores are elliptical to spindle-shaped, with dimensions of 12–17 by 5–7 μm.",
    "section": "Description"
   },
-  "f60": {
-   "kind": "number",
-   "value": 17,
-   "surface": "17",
-   "sentence": "The spores are elliptical to spindle-shaped, with dimensions of 12–17 by 5–7 μm.",
-   "section": "Description"
-  },
-  "f61": {
+  "f34": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "The spores are elliptical to spindle-shaped, with dimensions of 12–17 by 5–7 μm.",
    "section": "Description"
   },
-  "f62": {
+  "f35": {
    "kind": "measure",
    "value": 7,
    "unit": "μm",
@@ -495,28 +311,21 @@
    "sentence": "The spores are elliptical to spindle-shaped, with dimensions of 12–17 by 5–7 μm.",
    "section": "Description"
   },
-  "f63": {
+  "f36": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "The basidia are thin-walled, mostly attached to four spores, and measure 25–30 by 8–10 μm.",
    "section": "Description"
   },
-  "f64": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "The basidia are thin-walled, mostly attached to four spores, and measure 25–30 by 8–10 μm.",
-   "section": "Description"
-  },
-  "f65": {
+  "f37": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "The basidia are thin-walled, mostly attached to four spores, and measure 25–30 by 8–10 μm.",
    "section": "Description"
   },
-  "f66": {
+  "f38": {
    "kind": "measure",
    "value": 10,
    "unit": "μm",
@@ -524,59 +333,44 @@
    "sentence": "The basidia are thin-walled, mostly attached to four spores, and measure 25–30 by 8–10 μm.",
    "section": "Description"
   },
-  "f67": {
+  "f39": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "B. edulis has pleurocystidia (cystidia located on the face of a pore) that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\" feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
+   "sentence": "B. edulis has pleurocystidia that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\"feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
    "section": "Description"
   },
-  "f68": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "B. edulis has pleurocystidia (cystidia located on the face of a pore) that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\" feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
-   "section": "Description"
-  },
-  "f69": {
+  "f40": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "B. edulis has pleurocystidia (cystidia located on the face of a pore) that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\" feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
+   "sentence": "B. edulis has pleurocystidia that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\"feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
    "section": "Description"
   },
-  "f70": {
+  "f41": {
    "kind": "measure",
    "value": 10,
    "unit": "μm",
    "surface": "10 μm",
-   "sentence": "B. edulis has pleurocystidia (cystidia located on the face of a pore) that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\" feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
+   "sentence": "B. edulis has pleurocystidia that are thin-walled, roughly spindle-shaped to ventricose, and 30–45 by 7–10 μm; the \"stuffed\"feature of the hymenium is caused by cheilocystidia—cells found on the edges of the pores.",
    "section": "Description"
   },
-  "f71": {
+  "f42": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
-   "sentence": "Three divergent lineages found in Yunnan province in China that are commonly marketed and sold as B. edulis (and are actually more closely related to B. aereus) were described in 2013 as B. bainiugan, B. meiweiniuganjun and B. shiyong.",
+   "sentence": "Three divergent lineages found in Yunnan province in China that are commonly marketed and sold as B. edulis were described in 2013 as B. bainiugan, B. meiweiniuganjun and B. shiyong.",
    "section": "Description"
   },
-  "f72": {
+  "f43": {
    "kind": "measure",
    "value": 3500,
    "unit": "m",
    "surface": "3,500 m",
-   "sentence": "In California, porcini have been collected in a variety of forests, such as coastal forests, dry interior oak forests and savannas and interior high-elevation montane mixed forests, to an altitude of 3,500 m (11,500 ft).",
+   "sentence": "In California, porcini have been collected in a variety of forests, such as coastal forests, dry interior oak forests and savannas and interior high-elevation montane mixed forests, to an altitude of 3,500 m.",
    "section": "Habitat and distribution"
   },
-  "f73": {
-   "kind": "measure",
-   "value": 11500,
-   "unit": "ft",
-   "surface": "11,500 ft",
-   "sentence": "In California, porcini have been collected in a variety of forests, such as coastal forests, dry interior oak forests and savannas and interior high-elevation montane mixed forests, to an altitude of 3,500 m (11,500 ft).",
-   "section": "Habitat and distribution"
-  },
-  "f74": {
+  "f44": {
    "kind": "measure",
    "value": 50,
    "unit": "years",
@@ -584,65 +378,50 @@
    "sentence": "It has been growing plentifully in association with pine forests in the southern KwaZulu-Natal Midlands in South Africa for more than 50 years and is believed to have been introduced with the import of pine trees.",
    "section": "Habitat and distribution"
   },
-  "f75": {
+  "f45": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "A 2004 field study indicated that fruit body production is enhanced by an open and sunny wood habitat, corroborating an earlier observation made in a Zimbabwean study; removal of the litter layer on the forest floor appeared to have a negative effect on fruit body production, but previous studies reported contradictory results.",
    "section": "Ecology"
   },
-  "f76": {
+  "f46": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",
-   "sentence": "A Lithuanian study conducted in 2001 concluded that the maximal daily growth rate of the cap (about 21 mm or 0.8 in) occurred when the relative air humidity was the greatest, and the fruit bodies ceased growing when the air humidity dropped below 40%.",
+   "sentence": "A Lithuanian study conducted in 2001 concluded that the maximal daily growth rate of the cap occurred when the relative air humidity was the greatest, and the fruit bodies ceased growing when the air humidity dropped below 40%.",
    "section": "Ecology"
   },
-  "f77": {
-   "kind": "measure",
-   "value": 21,
-   "unit": "mm",
-   "surface": "21 mm",
-   "sentence": "A Lithuanian study conducted in 2001 concluded that the maximal daily growth rate of the cap (about 21 mm or 0.8 in) occurred when the relative air humidity was the greatest, and the fruit bodies ceased growing when the air humidity dropped below 40%.",
-   "section": "Ecology"
-  },
-  "f78": {
-   "kind": "number",
-   "value": 0.8,
-   "surface": "0.8",
-   "sentence": "A Lithuanian study conducted in 2001 concluded that the maximal daily growth rate of the cap (about 21 mm or 0.8 in) occurred when the relative air humidity was the greatest, and the fruit bodies ceased growing when the air humidity dropped below 40%.",
-   "section": "Ecology"
-  },
-  "f79": {
+  "f47": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
    "surface": "40%",
-   "sentence": "A Lithuanian study conducted in 2001 concluded that the maximal daily growth rate of the cap (about 21 mm or 0.8 in) occurred when the relative air humidity was the greatest, and the fruit bodies ceased growing when the air humidity dropped below 40%.",
+   "sentence": "A Lithuanian study conducted in 2001 concluded that the maximal daily growth rate of the cap occurred when the relative air humidity was the greatest, and the fruit bodies ceased growing when the air humidity dropped below 40%.",
    "section": "Ecology"
   },
-  "f80": {
+  "f48": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
    "sentence": "Compatible hosts may belong to multiple families of vascular plants that are widely distributed throughout the Northern Hemisphere; according to one 1995 estimate, there are at least 30 host plant species distributed over more than 15 genera.",
    "section": "Ecology"
   },
-  "f81": {
+  "f49": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Compatible hosts may belong to multiple families of vascular plants that are widely distributed throughout the Northern Hemisphere; according to one 1995 estimate, there are at least 30 host plant species distributed over more than 15 genera.",
    "section": "Ecology"
   },
-  "f82": {
+  "f50": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Compatible hosts may belong to multiple families of vascular plants that are widely distributed throughout the Northern Hemisphere; according to one 1995 estimate, there are at least 30 host plant species distributed over more than 15 genera.",
    "section": "Ecology"
   },
-  "f83": {
+  "f51": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",

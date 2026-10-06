@@ -1,18 +1,13 @@
-# Une expression régulière par ligne, insensible à la casse, testée sur les catégories visibles.
-\bguerres?\b
-\bbatailles?\b
-massacre
-génocide
-terroris
-torture
-assassinat
-meurtre|tueur en série
-sexualité|pratique sexuelle
-pornograph
-prostitution
-drogue|psychotrope|stupéfiant|hallucinogène|opioïde
-suicide
-élection
-scandale politique
-nudité|naturisme|\bnu\b
-armes? nucléaires?|bombe atomique
+# Règles étroites (décision du 2026-10-06). Une expression régulière par ligne, insensible à la casse,
+# testée sur les catégories visibles. Ne sont bloqués que : contenu sexuel explicite · usage et trafic
+# de drogue · événements de violence graphique (massacres, génocide, terrorisme, exécutions) ·
+# controverse politique actuelle. Les catégories biographiques et les classes de substances ne
+# bloquent pas ; les mentions de violence vont dans la file de relecture.
+# contenu sexuel explicite
+pornograph|pratique sexuelle|prostitution|travail du sexe|nudité|naturisme
+# usage et trafic de drogue
+trafic de stupéfiants|trafic de drogue|cartel de la drogue|usage de drogue|toxicomanie|culture de la drogue
+# événements de violence graphique
+^massacre\b|\bmassacres? (en|de|du|des|à|au|pendant)\b|génocide|attentat|terrorisme (en|au|aux|en)\b|tuerie|^exécution|exécutions? (en|de|publique)\b|crime de guerre|arme nucléaire|bombardements atomiques
+# controverse politique actuelle
+scandale politique|affaire politique|élection .* 202\d|\b202\d\b.*manifestations?

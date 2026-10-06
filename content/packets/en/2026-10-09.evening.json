@@ -58,52 +58,53 @@
    "value": 20,
    "unit": "cm",
    "surface": "20 cm",
-   "sentence": "It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at some times of the year."
+   "sentence": "It is about 20 cm long and has glossy black plumage with a metallic sheen, which is speckled with white at some times of the year."
   },
   "f2": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at some times of the year."
-  },
-  "f3": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "The common starling has about 12 subspecies breeding in open habitats across its native range in temperate Europe and across the Palearctic to western Mongolia, and it has been introduced as an invasive species to Australia, New Zealand, Canada, the United States, Mexico, Argentina, South Africa and Fiji."
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1758",
    "surface": "1758",
    "sentence": "The common starling was first described by Carl Linnaeus in his Systema Naturae in 1758 under its current binomial name.",
    "section": "Taxonomy and systematics"
   },
-  "f5": {
+  "f4": {
    "kind": "date",
    "value": "1891",
    "surface": "1891",
    "sentence": "These include: S. v. ruthenus Menzbier, 1891 and S. v. jitkowi Buturlin, 1904, which are intergrades between S. v. vulgaris and S. v. poltaratskyi from western Russia; S. v. graecus Tschusi, 1905 and S. v. balcanicus Buturlin and Harms, 1909, which are intergrades between S. v. vulgaris and S. v. tauricus from the southern Balkans to central Ukraine and throughout Greece to the Bosporus; and S. v. heinrichi Stresemann, 1928, an intergrade between S. v. caucasicus and S. v. nobilior in northern Iran.",
    "section": "Taxonomy and systematics"
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "1904",
    "surface": "1904",
    "sentence": "These include: S. v. ruthenus Menzbier, 1891 and S. v. jitkowi Buturlin, 1904, which are intergrades between S. v. vulgaris and S. v. poltaratskyi from western Russia; S. v. graecus Tschusi, 1905 and S. v. balcanicus Buturlin and Harms, 1909, which are intergrades between S. v. vulgaris and S. v. tauricus from the southern Balkans to central Ukraine and throughout Greece to the Bosporus; and S. v. heinrichi Stresemann, 1928, an intergrade between S. v. caucasicus and S. v. nobilior in northern Iran.",
    "section": "Taxonomy and systematics"
   },
-  "f7": {
+  "f6": {
    "kind": "date",
    "value": "1905",
    "surface": "1905",
    "sentence": "These include: S. v. ruthenus Menzbier, 1891 and S. v. jitkowi Buturlin, 1904, which are intergrades between S. v. vulgaris and S. v. poltaratskyi from western Russia; S. v. graecus Tschusi, 1905 and S. v. balcanicus Buturlin and Harms, 1909, which are intergrades between S. v. vulgaris and S. v. tauricus from the southern Balkans to central Ukraine and throughout Greece to the Bosporus; and S. v. heinrichi Stresemann, 1928, an intergrade between S. v. caucasicus and S. v. nobilior in northern Iran.",
    "section": "Taxonomy and systematics"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1909",
    "surface": "1909",
+   "sentence": "These include: S. v. ruthenus Menzbier, 1891 and S. v. jitkowi Buturlin, 1904, which are intergrades between S. v. vulgaris and S. v. poltaratskyi from western Russia; S. v. graecus Tschusi, 1905 and S. v. balcanicus Buturlin and Harms, 1909, which are intergrades between S. v. vulgaris and S. v. tauricus from the southern Balkans to central Ukraine and throughout Greece to the Bosporus; and S. v. heinrichi Stresemann, 1928, an intergrade between S. v. caucasicus and S. v. nobilior in northern Iran.",
+   "section": "Taxonomy and systematics"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1928",
+   "surface": "1928",
    "sentence": "These include: S. v. ruthenus Menzbier, 1891 and S. v. jitkowi Buturlin, 1904, which are intergrades between S. v. vulgaris and S. v. poltaratskyi from western Russia; S. v. graecus Tschusi, 1905 and S. v. balcanicus Buturlin and Harms, 1909, which are intergrades between S. v. vulgaris and S. v. tauricus from the southern Balkans to central Ukraine and throughout Greece to the Bosporus; and S. v. heinrichi Stresemann, 1928, an intergrade between S. v. caucasicus and S. v. nobilior in northern Iran.",
    "section": "Taxonomy and systematics"
   },
@@ -111,220 +112,91 @@
    "kind": "date",
    "value": "1928",
    "surface": "1928",
-   "sentence": "These include: S. v. ruthenus Menzbier, 1891 and S. v. jitkowi Buturlin, 1904, which are intergrades between S. v. vulgaris and S. v. poltaratskyi from western Russia; S. v. graecus Tschusi, 1905 and S. v. balcanicus Buturlin and Harms, 1909, which are intergrades between S. v. vulgaris and S. v. tauricus from the southern Balkans to central Ukraine and throughout Greece to the Bosporus; and S. v. heinrichi Stresemann, 1928, an intergrade between S. v. caucasicus and S. v. nobilior in northern Iran.",
-   "section": "Taxonomy and systematics"
-  },
-  "f10": {
-   "kind": "date",
-   "value": "1928",
-   "surface": "1928",
    "sentence": "S. v. persepolis Ticehurst, 1928 from Fars province in southern Iran is very similar to S. v. vulgaris, and it is not clear whether it is a distinct resident population or simply migrants from southeastern Europe.",
    "section": "Taxonomy and systematics"
   },
-  "f11": {
+  "f10": {
    "kind": "number",
    "value": 19,
    "surface": "19",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
+   "sentence": "The common starling is 19–23 cm long, with a wingspan of 31–44 cm and a weight of 58–101 g.",
+   "section": "Description"
+  },
+  "f11": {
+   "kind": "number",
+   "value": 31,
+   "surface": "31",
+   "sentence": "The common starling is 19–23 cm long, with a wingspan of 31–44 cm and a weight of 58–101 g.",
    "section": "Description"
   },
   "f12": {
-   "kind": "measure",
-   "value": 23,
-   "unit": "cm",
-   "surface": "23 cm",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
+   "kind": "number",
+   "value": 58,
+   "surface": "58",
+   "sentence": "The common starling is 19–23 cm long, with a wingspan of 31–44 cm and a weight of 58–101 g.",
    "section": "Description"
   },
   "f13": {
    "kind": "number",
-   "value": 7.5,
-   "surface": "7.5",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
+   "value": 11.8,
+   "surface": "11.8",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
   "f14": {
-   "kind": "number",
-   "value": 9.1,
-   "surface": "9.1",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f15": {
-   "kind": "number",
-   "value": 31,
-   "surface": "31",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f16": {
-   "kind": "measure",
-   "value": 44,
-   "unit": "cm",
-   "surface": "44 cm",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 17,
-   "surface": "17",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 58,
-   "surface": "58",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f20": {
-   "kind": "measure",
-   "value": 101,
-   "unit": "g",
-   "surface": "101 g",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2.0",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 3.6,
-   "surface": "3.6",
-   "sentence": "The common starling is 19–23 cm (7.5–9.1 in) long, with a wingspan of 31–44 cm (12–17 in) and a weight of 58–101 g (2.0–3.6 oz).",
-   "section": "Description"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 11.8,
-   "surface": "11.8",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f24": {
    "kind": "measure",
    "value": 13.8,
    "unit": "cm",
    "surface": "13.8 cm",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f25": {
-   "kind": "number",
-   "value": 4.6,
-   "surface": "4.6",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 5.4,
-   "surface": "5.4",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f27": {
+  "f15": {
    "kind": "number",
    "value": 5.8,
    "surface": "5.8",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f28": {
+  "f16": {
    "kind": "measure",
    "value": 6.8,
    "unit": "cm",
    "surface": "6.8 cm",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f29": {
-   "kind": "number",
-   "value": 2.3,
-   "surface": "2.3",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 2.7,
-   "surface": "2.7",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f31": {
+  "f17": {
    "kind": "number",
    "value": 2.5,
    "surface": "2.5",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f32": {
+  "f18": {
    "kind": "measure",
    "value": 3.2,
    "unit": "cm",
    "surface": "3.2 cm",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f33": {
-   "kind": "number",
-   "value": 0.98,
-   "surface": "0.98",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f34": {
-   "kind": "number",
-   "value": 1.26,
-   "surface": "1.26",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f35": {
+  "f19": {
    "kind": "number",
    "value": 2.7,
    "surface": "2.7",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f36": {
+  "f20": {
    "kind": "measure",
    "value": 3.2,
    "unit": "cm",
    "surface": "3.2 cm",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
+   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm, the tail is 5.8 to 6.8 cm, the culmen is 2.5 to 3.2 cm and the tarsus is 2.7 to 3.2 cm.",
    "section": "Description"
   },
-  "f37": {
-   "kind": "number",
-   "value": 1.1,
-   "surface": "1.1",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 1.3,
-   "surface": "1.3",
-   "sentence": "Among standard measurements, the wing chord is 11.8 to 13.8 cm (4.6 to 5.4 in), the tail is 5.8 to 6.8 cm (2.3 to 2.7 in), the culmen is 2.5 to 3.2 cm (0.98 to 1.26 in) and the tarsus is 2.7 to 3.2 cm (1.1 to 1.3 in).",
-   "section": "Description"
-  },
-  "f39": {
+  "f21": {
    "kind": "measure",
    "value": 97,
    "unit": "%",
@@ -332,7 +204,7 @@
    "sentence": "Estimating the contrast between the iris and the central always-dark pupil is 97% accurate in determining sex, rising to 98% if the length of the throat feathers is also considered.",
    "section": "Description"
   },
-  "f40": {
+  "f22": {
    "kind": "measure",
    "value": 98,
    "unit": "%",
@@ -340,80 +212,43 @@
    "sentence": "Estimating the contrast between the iris and the central always-dark pupil is 97% accurate in determining sex, rising to 98% if the length of the throat feathers is also considered.",
    "section": "Description"
   },
-  "f41": {
+  "f23": {
    "kind": "number",
    "value": 60,
    "surface": "60",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
+   "sentence": "Common starling on migration can fly at 60–80 km/h and cover up to 1,000–1,500 km.",
    "section": "Description"
   },
-  "f42": {
-   "kind": "measure",
-   "value": 80,
-   "unit": "km/h",
-   "surface": "80 km/h",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
-   "section": "Description"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 37,
-   "surface": "37",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
-   "section": "Description"
-  },
-  "f44": {
-   "kind": "number",
-   "value": 50,
-   "surface": "50",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
-   "section": "Description"
-  },
-  "f45": {
+  "f24": {
    "kind": "number",
    "value": 1000,
    "surface": "1,000",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
+   "sentence": "Common starling on migration can fly at 60–80 km/h and cover up to 1,000–1,500 km.",
    "section": "Description"
   },
-  "f46": {
+  "f25": {
    "kind": "measure",
    "value": 1500,
    "unit": "km",
    "surface": "1,500 km",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
+   "sentence": "Common starling on migration can fly at 60–80 km/h and cover up to 1,000–1,500 km.",
    "section": "Description"
   },
-  "f47": {
-   "kind": "date",
-   "value": "620",
-   "surface": "620",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
-   "section": "Description"
-  },
-  "f48": {
-   "kind": "measure",
-   "value": 930,
-   "unit": "mi",
-   "surface": "930 mi",
-   "sentence": "Common starling on migration can fly at 60–80 km/h (37–50 mph) and cover up to 1,000–1,500 km (620–930 mi).",
-   "section": "Description"
-  },
-  "f49": {
+  "f26": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Each bird has its own repertoire with more proficient birds having a range of up to 35 variable song types and as many as 14 types of clicks.",
    "section": "Description"
   },
-  "f50": {
+  "f27": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Each bird has its own repertoire with more proficient birds having a range of up to 35 variable song types and as many as 14 types of clicks.",
    "section": "Description"
   },
-  "f51": {
+  "f28": {
    "kind": "measure",
    "value": 35,
    "unit": "%",
@@ -421,7 +256,7 @@
    "sentence": "The male starling's syrinx is around 35% larger than its female counterpart.",
    "section": "Description"
   },
-  "f52": {
+  "f29": {
    "kind": "measure",
    "value": 100,
    "unit": "%",
@@ -429,101 +264,66 @@
    "sentence": "However, this sexual dimorphism is less pronounced than it is in songbird species like the zebra finch, where the male's syrinx is 100% larger than the female's syrinx.",
    "section": "Description"
   },
-  "f53": {
+  "f30": {
    "kind": "number",
    "value": 1500000,
    "surface": "1.5 million",
    "sentence": "Very large roosts, up to 1.5 million birds, form in city centres, woodlands and reedbeds, causing problems with their droppings.",
    "section": "Behaviour and ecology"
   },
-  "f54": {
+  "f31": {
    "kind": "measure",
    "value": 30,
    "unit": "cm",
    "surface": "30 cm",
-   "sentence": "These may accumulate up to 30 cm (12 in) deep, killing trees by their concentration of chemicals.",
+   "sentence": "These may accumulate up to 30 cm deep, killing trees by their concentration of chemicals.",
    "section": "Behaviour and ecology"
   },
-  "f55": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "These may accumulate up to 30 cm (12 in) deep, killing trees by their concentration of chemicals.",
-   "section": "Behaviour and ecology"
-  },
-  "f56": {
+  "f32": {
    "kind": "number",
    "value": 26.5,
    "surface": "26.5",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
+   "sentence": "The egg size is 26.5–34.5 mm in length and 20.0–22.5 mm in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
    "section": "Behaviour and ecology"
   },
-  "f57": {
+  "f33": {
    "kind": "measure",
    "value": 34.5,
    "unit": "mm",
    "surface": "34.5 mm",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
+   "sentence": "The egg size is 26.5–34.5 mm in length and 20.0–22.5 mm in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
    "section": "Behaviour and ecology"
   },
-  "f58": {
-   "kind": "number",
-   "value": 1.04,
-   "surface": "1.04",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
-   "section": "Behaviour and ecology"
-  },
-  "f59": {
-   "kind": "number",
-   "value": 1.36,
-   "surface": "1.36",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
-   "section": "Behaviour and ecology"
-  },
-  "f60": {
+  "f34": {
    "kind": "number",
    "value": 20,
    "surface": "20.0",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
+   "sentence": "The egg size is 26.5–34.5 mm in length and 20.0–22.5 mm in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
    "section": "Behaviour and ecology"
   },
-  "f61": {
+  "f35": {
    "kind": "measure",
    "value": 22.5,
    "unit": "mm",
    "surface": "22.5 mm",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
+   "sentence": "The egg size is 26.5–34.5 mm in length and 20.0–22.5 mm in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
    "section": "Behaviour and ecology"
   },
-  "f62": {
-   "kind": "number",
-   "value": 0.79,
-   "surface": "0.79",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
-   "section": "Behaviour and ecology"
-  },
-  "f63": {
-   "kind": "number",
-   "value": 0.89,
-   "surface": "0.89",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
-   "section": "Behaviour and ecology"
-  },
-  "f64": {
+  "f36": {
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "The egg size is 26.5–34.5 mm (1.04–1.36 in) in length and 20.0–22.5 mm (0.79–0.89 in) in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
+   "sentence": "The egg size is 26.5–34.5 mm in length and 20.0–22.5 mm in maximum diameter.Incubation lasts thirteen days, although the last egg laid may take 24 hours longer than the first to hatch.",
    "section": "Behaviour and ecology"
   },
-  "f65": {
+  "f37": {
    "kind": "number",
    "value": 48,
    "surface": "48",
    "sentence": "A pair can raise up to three broods per year, frequently reusing and relining the same nest, although two broods is typical, or just one north of 48°N.",
    "section": "Behaviour and ecology"
   },
-  "f66": {
+  "f38": {
    "kind": "measure",
    "value": 48,
    "unit": "%",
@@ -531,7 +331,7 @@
    "sentence": "Common starling nests have a 48% to 79% rate of successful fledging, although only 20% of nestlings survive to breeding age; the adult survival rate is closer to 60%.",
    "section": "Behaviour and ecology"
   },
-  "f67": {
+  "f39": {
    "kind": "measure",
    "value": 79,
    "unit": "%",
@@ -539,7 +339,7 @@
    "sentence": "Common starling nests have a 48% to 79% rate of successful fledging, although only 20% of nestlings survive to breeding age; the adult survival rate is closer to 60%.",
    "section": "Behaviour and ecology"
   },
-  "f68": {
+  "f40": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
@@ -547,7 +347,7 @@
    "sentence": "Common starling nests have a 48% to 79% rate of successful fledging, although only 20% of nestlings survive to breeding age; the adult survival rate is closer to 60%.",
    "section": "Behaviour and ecology"
   },
-  "f69": {
+  "f41": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -555,14 +355,14 @@
    "sentence": "Common starling nests have a 48% to 79% rate of successful fledging, although only 20% of nestlings survive to breeding age; the adult survival rate is closer to 60%.",
    "section": "Behaviour and ecology"
   },
-  "f70": {
+  "f42": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "The average life span is about 2–3 years, with a longevity record of 22 years 11 months.",
    "section": "Behaviour and ecology"
   },
-  "f71": {
+  "f43": {
    "kind": "measure",
    "value": 3,
    "unit": "years",
@@ -570,7 +370,7 @@
    "sentence": "The average life span is about 2–3 years, with a longevity record of 22 years 11 months.",
    "section": "Behaviour and ecology"
   },
-  "f72": {
+  "f44": {
    "kind": "measure",
    "value": 22,
    "unit": "years",
@@ -578,7 +378,7 @@
    "sentence": "The average life span is about 2–3 years, with a longevity record of 22 years 11 months.",
    "section": "Behaviour and ecology"
   },
-  "f73": {
+  "f45": {
    "kind": "number",
    "value": 11,
    "surface": "11",

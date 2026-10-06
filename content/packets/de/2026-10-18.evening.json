@@ -127,69 +127,54 @@
    "section": "Paläobiologie"
   },
   "f10": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "km/h",
-   "surface": "40 km/h",
-   "sentence": "Die gleiche Untersuchung kommt auch zu dem Ergebnis, dass diese Tiere zu einer dem Galopp ähnlichen Fortbewegung fähig waren und eine Geschwindigkeit ähnlich der der Nashörner (über 40 km/h) erreichen konnten.",
-   "section": "Paläobiologie"
-  },
-  "f11": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "Die Gattung Triceratops wurde 1889 von Othniel Charles Marsh erstbeschrieben, Typusart ist T. horridus.",
    "section": "Entdeckung und Datierung"
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 68,
    "surface": "68",
-   "sentence": "Die Funde werden in die Oberkreide (spätes Maastrichtium) auf ein Alter von 68 bis 66 Millionen Jahre datiert.",
+   "sentence": "Die Funde werden in die Oberkreide auf ein Alter von 68 bis 66 Millionen Jahre datiert.",
    "section": "Entdeckung und Datierung"
   },
-  "f13": {
+  "f12": {
    "kind": "measure",
    "value": 66000000,
    "unit": "jahre",
    "surface": "66 Millionen Jahre",
-   "sentence": "Die Funde werden in die Oberkreide (spätes Maastrichtium) auf ein Alter von 68 bis 66 Millionen Jahre datiert.",
+   "sentence": "Die Funde werden in die Oberkreide auf ein Alter von 68 bis 66 Millionen Jahre datiert.",
    "section": "Entdeckung und Datierung"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "John Scannella und John Horner kommen in einer Arbeit von 2010 zu dem Schluss, dass die Gattungen Torosaurus und Triceratops identisch seien, denn Torosaurus-Individuen seien lediglich ausgewachsene Individuen von Triceratops.",
    "section": "Entdeckung und Datierung"
   },
-  "f15": {
+  "f14": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "So wurden 2022 subadulte Exemplare beschrieben, die eindeutig Torosaurus zugeordnet wurden.",
    "section": "Entdeckung und Datierung"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Von Triceratops sind über 50 vollständig oder teilweise erhaltene Schädel bekannt, dazu zahlreiche Teile des Rumpfskeletts.",
    "section": "Systematik"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Es wurden insgesamt 16 Triceratops-Arten beschrieben, die sich in kleineren Variationen des Schädelbaus unterscheiden sollen.",
    "section": "Systematik"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 9937,
-   "surface": "9937",
-   "sentence": "Der Hauptgürtelasteroid (9937) Triceratops wurde nach der Gattung benannt.",
-   "section": "Trivia"
   }
  },
  "images": {

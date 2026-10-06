@@ -1,7 +1,7 @@
 // Reading and writing the committed content files.
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
-import type { ImageRecord } from '../../../src/core/license/license';
+import { gunzipSync } from 'node:zlib';
 import type { Slot } from '../../../src/core/schema/thing';
 import type { VerifyContext } from '../../../src/core/verify/verify';
 import type { Candidate } from '../pool-build';
@@ -19,13 +19,10 @@ export function writeJson(file: string, data: unknown): void {
 }
 
 export function loadPool(lang: WikiLang): Candidate[] {
-  const f = p(`content/pool/${lang}.jsonl`);
+  const f = p(`content/pool/${lang}.jsonl.gz`);
   if (!existsSync(f)) throw new Error(`no pool for ${lang}: run npm run pool:build first`);
-  return readFileSync(f, 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l) as Candidate);
+  return gunzipSync(readFileSync(f)).toString('utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l) as Candidate);
 }
-
-export type ImageMeta = Record<string, ({ ok: true; events: string[] } & ImageRecord) | { ok: false; file: string; reason: string; events: string[] }>;
-export const loadImageMeta = () => readJson<ImageMeta>(p('content/images/meta.json'), {});
 
 export type QueueEntry = { title: string; qid: string; pageid: number; domain: Candidate['domain']; image: Candidate['image']; pickedAt: string; attempt: number };
 export type Queue = Record<string, Partial<Record<Slot, QueueEntry>>>;

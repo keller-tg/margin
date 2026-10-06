@@ -246,14 +246,14 @@
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Die 2 bis 14 Jungtiere schlüpfen bereits im Mutterleib aus den Eiern (Ovoviviparie) und ernähren sich vor der Geburt durch von der Mutter produzierte Nähreier (Oophagie).",
+   "sentence": "Die 2 bis 14 Jungtiere schlüpfen bereits im Mutterleib aus den Eiern und ernähren sich vor der Geburt durch von der Mutter produzierte Nähreier.",
    "section": "Lebensweise"
   },
   "f26": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Die 2 bis 14 Jungtiere schlüpfen bereits im Mutterleib aus den Eiern (Ovoviviparie) und ernähren sich vor der Geburt durch von der Mutter produzierte Nähreier (Oophagie).",
+   "sentence": "Die 2 bis 14 Jungtiere schlüpfen bereits im Mutterleib aus den Eiern und ernähren sich vor der Geburt durch von der Mutter produzierte Nähreier.",
    "section": "Lebensweise"
   },
   "f27": {
@@ -313,17 +313,10 @@
    "kind": "number",
    "value": 41,
    "surface": "41",
-   "sentence": "Der Chromosomensatz des Weißen Hais besteht aus 41 Paaren (2n = 82).",
+   "sentence": "Der Chromosomensatz des Weißen Hais besteht aus 41 Paaren.",
    "section": "Systematik und Evolution"
   },
   "f35": {
-   "kind": "number",
-   "value": 82,
-   "surface": "82",
-   "sentence": "Der Chromosomensatz des Weißen Hais besteht aus 41 Paaren (2n = 82).",
-   "section": "Systematik und Evolution"
-  },
-  "f36": {
    "kind": "measure",
    "value": 60000000,
    "unit": "jahren",
@@ -331,50 +324,50 @@
    "sentence": "Da die Knorpelskelette von Haien selten vollständig versteinern, ist die Gattung Carcharodon fossil vor allem durch Zahnfunde bekannt, deren älteste aus dem mittleren Paläozän vor etwa 60 Millionen Jahren stammen.",
    "section": "Systematik und Evolution"
   },
-  "f37": {
+  "f36": {
    "kind": "measure",
    "value": 17,
    "unit": "meter",
    "surface": "17 Meter",
-   "sentence": "Eine Linie mit auffällig großen Zähnen (englisch „megatooth sharks“) besiedelte vorwiegend wärmere Gewässer und brachte als letzte Art den bis zu 17 Meter langen Megalodon (Otodus megalodon oder Carcharocles megalodon) hervor.",
+   "sentence": "Eine Linie mit auffällig großen Zähnen besiedelte vorwiegend wärmere Gewässer und brachte als letzte Art den bis zu 17 Meter langen Megalodon hervor.",
    "section": "Systematik und Evolution"
   },
-  "f38": {
+  "f37": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Im Februar 2019 entschlüsselten Forscher der Nova Southeastern University das Erbgut des Weißen Hais vollständig.",
    "section": "Systematik und Evolution"
   },
-  "f39": {
+  "f38": {
    "kind": "number",
    "value": 4.63,
    "surface": "4.63",
-   "sentence": "Die Größe des Genoms liegt bei 4.63 Gbp (Giga-Basenpaare), rund eineinhalb mal größer als das des Menschen.",
+   "sentence": "Die Größe des Genoms liegt bei 4.63 Gbp, rund eineinhalb mal größer als das des Menschen.",
    "section": "Systematik und Evolution"
   },
-  "f40": {
+  "f39": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "Genaue Bestandszahlen sind nicht bekannt, Schätzungen gehen davon aus, dass die Bestände im Nordatlantik zwischen 1986 und 2000 um 59 bis 89 Prozent abgenommen haben.",
    "section": "Weißer Hai und Mensch"
   },
-  "f41": {
+  "f40": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Genaue Bestandszahlen sind nicht bekannt, Schätzungen gehen davon aus, dass die Bestände im Nordatlantik zwischen 1986 und 2000 um 59 bis 89 Prozent abgenommen haben.",
    "section": "Weißer Hai und Mensch"
   },
-  "f42": {
+  "f41": {
    "kind": "number",
    "value": 59,
    "surface": "59",
    "sentence": "Genaue Bestandszahlen sind nicht bekannt, Schätzungen gehen davon aus, dass die Bestände im Nordatlantik zwischen 1986 und 2000 um 59 bis 89 Prozent abgenommen haben.",
    "section": "Weißer Hai und Mensch"
   },
-  "f43": {
+  "f42": {
    "kind": "measure",
    "value": 89,
    "unit": "prozent",
@@ -382,10 +375,17 @@
    "sentence": "Genaue Bestandszahlen sind nicht bekannt, Schätzungen gehen davon aus, dass die Bestände im Nordatlantik zwischen 1986 und 2000 um 59 bis 89 Prozent abgenommen haben.",
    "section": "Weißer Hai und Mensch"
   },
-  "f44": {
+  "f43": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
+   "sentence": "Im Mittelmeer wurde zwischen 1913 und 2012 eine Abnahme der mittleren Körperlänge gefunden, was auf einen Rückgang der Population hindeutet.",
+   "section": "Weißer Hai und Mensch"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "2012",
+   "surface": "2012",
    "sentence": "Im Mittelmeer wurde zwischen 1913 und 2012 eine Abnahme der mittleren Körperlänge gefunden, was auf einen Rückgang der Population hindeutet.",
    "section": "Weißer Hai und Mensch"
   },
@@ -393,17 +393,10 @@
    "kind": "date",
    "value": "2012",
    "surface": "2012",
-   "sentence": "Im Mittelmeer wurde zwischen 1913 und 2012 eine Abnahme der mittleren Körperlänge gefunden, was auf einen Rückgang der Population hindeutet.",
-   "section": "Weißer Hai und Mensch"
-  },
-  "f46": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
    "sentence": "Nach fünf tödlichen Haiangriffen innerhalb eines Jahres kündigte im September 2012 die Regierung von Western Australia an, die Jagd und Notschlachtung von Weißen Haien an der Küste des Bundesstaates zu erlauben.",
    "section": "Weißer Hai und Mensch"
   },
-  "f47": {
+  "f46": {
    "kind": "measure",
    "value": 20,
    "unit": "prozent",
@@ -411,35 +404,28 @@
    "sentence": "Weltweit kommt es pro Jahr durchschnittlich zu drei bis sieben nicht provozierten Angriffen, von denen etwa 20 Prozent tödlich enden.",
    "section": "Weißer Hai und Mensch"
   },
-  "f48": {
+  "f47": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "Forschungen an der Macquarie University, Australien ergaben 2024, dass ein Brett mit robbenförmiger Silhouette (am Tag) hinter einem Boot gezogen, weniger von Weißen Haien angegriffen werden, wenn es nach unten leuchtende LED-Streifen quer zur Längsachse aufweist.",
+   "sentence": "Forschungen an der Macquarie University, Australien ergaben 2024, dass ein Brett mit robbenförmiger Silhouette hinter einem Boot gezogen, weniger von Weißen Haien angegriffen werden, wenn es nach unten leuchtende LED-Streifen quer zur Längsachse aufweist.",
+   "section": "Weißer Hai und Mensch"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1975",
+   "surface": "1975",
+   "sentence": "Diese Vorfälle inspirierten auch den Roman Der weiße Hai von Peter Benchley, der 1975 von Steven Spielberg unter dem gleichen Namen verfilmt wurde.",
    "section": "Weißer Hai und Mensch"
   },
   "f49": {
    "kind": "date",
-   "value": "1916",
-   "surface": "1916",
-   "sentence": "Das Bild des Hais in der westlichen Gesellschaft wurde maßgeblich durch die Haiangriffe an der Küste von New Jersey (1916) beeinflusst, die möglicherweise auf einen jungen weiblichen Weißen Hai zurückgingen.",
+   "value": "1994",
+   "surface": "1994",
+   "sentence": "Das Anfüttern und Anlocken von Haien durch ins Wasser eingebrachtes Fleisch und Blut ist in Kalifornien allerdings seit 1994 verboten, da befürchtet wurde, dass dies Menschen und Haie gefährden könnte.",
    "section": "Weißer Hai und Mensch"
   },
   "f50": {
-   "kind": "date",
-   "value": "1975",
-   "surface": "1975",
-   "sentence": "Diese Vorfälle inspirierten auch den Roman Der weiße Hai (im englischen Original Jaws: Kiefer, Maul) von Peter Benchley, der 1975 von Steven Spielberg unter dem gleichen Namen verfilmt wurde.",
-   "section": "Weißer Hai und Mensch"
-  },
-  "f51": {
-   "kind": "date",
-   "value": "1994",
-   "surface": "1994",
-   "sentence": "Das Anfüttern und Anlocken von Haien durch ins Wasser eingebrachtes Fleisch und Blut (Chumming) ist in Kalifornien allerdings seit 1994 verboten, da befürchtet wurde, dass dies Menschen und Haie gefährden könnte.",
-   "section": "Weißer Hai und Mensch"
-  },
-  "f52": {
    "kind": "number",
    "value": 198,
    "surface": "198",

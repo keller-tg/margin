@@ -84,82 +84,68 @@
   },
   "f3": {
    "kind": "date",
-   "value": "1775",
-   "surface": "1775",
-   "sentence": "Der Naturwissenschaftler George Harris (1775–1810) beschrieb den Beutelteufel 1808 und gab ihm die wissenschaftliche Bezeichnung Didelphis ursina.",
+   "value": "1808",
+   "surface": "1808",
+   "sentence": "Der Naturwissenschaftler George Harris beschrieb den Beutelteufel 1808 und gab ihm die wissenschaftliche Bezeichnung Didelphis ursina.",
    "section": "Namen"
   },
   "f4": {
    "kind": "date",
-   "value": "1810",
-   "surface": "1810",
-   "sentence": "Der Naturwissenschaftler George Harris (1775–1810) beschrieb den Beutelteufel 1808 und gab ihm die wissenschaftliche Bezeichnung Didelphis ursina.",
+   "value": "1800",
+   "surface": "1800",
+   "sentence": "Dieser Name war allerdings schon 1800 für ein anderes Tier, den Nacktnasenwombat vergeben worden und darum ungültig.",
    "section": "Namen"
   },
   "f5": {
-   "kind": "date",
-   "value": "1808",
-   "surface": "1808",
-   "sentence": "Der Naturwissenschaftler George Harris (1775–1810) beschrieb den Beutelteufel 1808 und gab ihm die wissenschaftliche Bezeichnung Didelphis ursina.",
-   "section": "Namen"
-  },
-  "f6": {
-   "kind": "date",
-   "value": "1800",
-   "surface": "1800",
-   "sentence": "Dieser Name war allerdings schon 1800 für ein anderes Tier, den Nacktnasenwombat (heute Vombatus ursinus) vergeben worden und darum ungültig.",
-   "section": "Namen"
-  },
-  "f7": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "1837 stellte Frédéric Cuvier die neue Gattung Sarcophilus auf, allerdings noch immer mit dem ungültigen Artepitheton ursinus.",
    "section": "Namen"
   },
-  "f8": {
+  "f6": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "1838 beschrieb Richard Owen fossiles Material, das dem Beutelteufel stark ähnelte, als Dasyurus laniarius.",
    "section": "Namen"
   },
-  "f9": {
+  "f7": {
    "kind": "date",
    "value": "1841",
    "surface": "1841",
    "sentence": "1841 nannte Pierre Boitard die lebende Art Sarcophilus harrisii.",
    "section": "Namen"
   },
-  "f10": {
+  "f8": {
    "kind": "number",
    "value": 65,
    "surface": "65",
    "sentence": "Die Männchen haben eine durchschnittliche Kopf-Rumpf-Länge von 65 Zentimetern, der Schwanz hat im Mittel eine Länge von knapp 26 Zentimetern und sie wiegen etwa acht Kilogramm.",
    "section": "Merkmale"
   },
-  "f11": {
+  "f9": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Die Männchen haben eine durchschnittliche Kopf-Rumpf-Länge von 65 Zentimetern, der Schwanz hat im Mittel eine Länge von knapp 26 Zentimetern und sie wiegen etwa acht Kilogramm.",
    "section": "Merkmale"
   },
-  "f12": {
+  "f10": {
    "kind": "number",
    "value": 57,
    "surface": "57",
    "sentence": "Weibchen sind etwas kleiner und leichter: Ihre Kopf-Rumpf-Länge beträgt durchschnittlich 57 Zentimeter, der Schwanz bei ihnen ist 24 Zentimeter lang, und sie wiegen etwa sechs Kilogramm.",
    "section": "Merkmale"
   },
-  "f13": {
+  "f11": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Weibchen sind etwas kleiner und leichter: Ihre Kopf-Rumpf-Länge beträgt durchschnittlich 57 Zentimeter, der Schwanz bei ihnen ist 24 Zentimeter lang, und sie wiegen etwa sechs Kilogramm.",
    "section": "Merkmale"
   },
-  "f14": {
+  "f12": {
    "kind": "measure",
    "value": 3000,
    "unit": "jahren",
@@ -167,22 +153,22 @@
    "sentence": "Es wird angenommen, dass der Beutelteufel vor ca. 3000 Jahren auf dem australischen Festland ausgestorben ist.",
    "section": "Verbreitung"
   },
-  "f15": {
+  "f13": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Funde, die auf einen späteren Zeitraum datiert wurden, sind Gegenstand der wissenschaftlichen Debatte, wie beispielsweise Funde, die nahelegen, dass der Beutelteufel erst im 14. Jahrhundert oder noch später auf dem australischen Festland ausgestorben ist.",
    "section": "Verbreitung"
   },
-  "f16": {
+  "f14": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %",
-   "sentence": "Im Pleistozän kam eine andere Beutelteufelart (Sarcophilus laniarius) in Australien vor, die etwa um 25 % größer war als der heutige Beutelteufel (Sarcophilus harrisii).",
+   "sentence": "Im Pleistozän kam eine andere Beutelteufelart in Australien vor, die etwa um 25 % größer war als der heutige Beutelteufel.",
    "section": "Verbreitung"
   },
-  "f17": {
+  "f15": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -190,14 +176,14 @@
    "sentence": "Im Schnitt nimmt er pro Mahlzeit etwa 15 % seines Körpergewichts an Nahrung zu sich.",
    "section": "Nahrung und Nahrungserwerb"
   },
-  "f18": {
+  "f16": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Wenn sich ihm die Möglichkeit bietet, ist er allerdings auch in der Lage, innerhalb von 30 Minuten Mengen zu fressen, die etwa 40 % seines Körpergewichts entsprechen.",
    "section": "Nahrung und Nahrungserwerb"
   },
-  "f19": {
+  "f17": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -205,224 +191,224 @@
    "sentence": "Wenn sich ihm die Möglichkeit bietet, ist er allerdings auch in der Lage, innerhalb von 30 Minuten Mengen zu fressen, die etwa 40 % seines Körpergewichts entsprechen.",
    "section": "Nahrung und Nahrungserwerb"
   },
-  "f20": {
+  "f18": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Die Entwicklung der Embryonen dauert 31 Tage.",
    "section": "Fortpflanzung"
   },
-  "f21": {
+  "f19": {
    "kind": "number",
    "value": 0.18,
    "surface": "0,18",
    "sentence": "Jedes Jungtier wiegt nur zwischen 0,18 und 0,24 Gramm.",
    "section": "Fortpflanzung"
   },
-  "f22": {
+  "f20": {
    "kind": "number",
    "value": 0.24,
    "surface": "0,24",
    "sentence": "Jedes Jungtier wiegt nur zwischen 0,18 und 0,24 Gramm.",
    "section": "Fortpflanzung"
   },
-  "f23": {
+  "f21": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Befinden sie sich im Beutel, heften sie sich an eine der Milchdrüsen, wo sie für die nächsten 100 Tage verbleiben.",
    "section": "Fortpflanzung"
   },
-  "f24": {
+  "f22": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Vom 15. Tag an werden die Ohren sichtbar, Augenlider sind am 16. Tag erkennbar und die Tasthaare erscheinen am 17. Tag.",
    "section": "Fortpflanzung"
   },
-  "f25": {
+  "f23": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Vom 15. Tag an werden die Ohren sichtbar, Augenlider sind am 16. Tag erkennbar und die Tasthaare erscheinen am 17. Tag.",
    "section": "Fortpflanzung"
   },
-  "f26": {
+  "f24": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Vom 15. Tag an werden die Ohren sichtbar, Augenlider sind am 16. Tag erkennbar und die Tasthaare erscheinen am 17. Tag.",
    "section": "Fortpflanzung"
   },
-  "f27": {
+  "f25": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Die Lippen sind am 20. Tag erkennbar.",
    "section": "Fortpflanzung"
   },
-  "f28": {
+  "f26": {
    "kind": "number",
    "value": 49,
    "surface": "49",
    "sentence": "Ihr Fell entwickeln die Jungtiere mit 49 Tagen.",
    "section": "Fortpflanzung"
   },
-  "f29": {
+  "f27": {
    "kind": "number",
    "value": 90,
    "surface": "90",
    "sentence": "Am 90. Lebenstag ist die Fellentwicklung abgeschlossen.",
    "section": "Fortpflanzung"
   },
-  "f30": {
+  "f28": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Ihre Augen öffnen sich zwischen dem 87. und 93. Lebenstag und etwa am 100.",
    "section": "Fortpflanzung"
   },
-  "f31": {
+  "f29": {
    "kind": "number",
    "value": 93,
    "surface": "93",
    "sentence": "Ihre Augen öffnen sich zwischen dem 87. und 93. Lebenstag und etwa am 100.",
    "section": "Fortpflanzung"
   },
-  "f32": {
+  "f30": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Ihre Augen öffnen sich zwischen dem 87. und 93. Lebenstag und etwa am 100.",
    "section": "Fortpflanzung"
   },
-  "f33": {
+  "f31": {
    "kind": "number",
    "value": 105,
    "surface": "105",
    "sentence": "Durchschnittlich 105 Tage, nachdem sie den Weg von der Vagina zum Beutel geschafft haben, verlassen die dann 200 Gramm schweren Jungtiere diesen.",
    "section": "Fortpflanzung"
   },
-  "f34": {
+  "f32": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "Durchschnittlich 105 Tage, nachdem sie den Weg von der Vagina zum Beutel geschafft haben, verlassen die dann 200 Gramm schweren Jungtiere diesen.",
    "section": "Fortpflanzung"
   },
-  "f35": {
+  "f33": {
    "kind": "date",
    "value": "1788",
    "surface": "1788",
    "sentence": "Europäer besiedelten Australien ab 1788 und ließen sich auch bald auf Tasmanien nieder.",
    "section": "Bestand"
   },
-  "f36": {
+  "f34": {
    "kind": "date",
    "value": "1830",
    "surface": "1830",
    "sentence": "Da die europäischen Siedler davon überzeugt waren, dass Beutelteufel eine Bedrohung für ihren Viehbestand darstellten, wurde bereits ab 1830 ein Prämiensystem etabliert, das den Abschuss von Beutelteufeln belohnte.",
    "section": "Bestand"
   },
-  "f37": {
+  "f35": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
    "sentence": "Zu ihrer Unterschutzstellung trug bei, dass der letzte Tasmanische Tiger 1936 starb.",
    "section": "Bestand"
   },
-  "f38": {
+  "f36": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
    "sentence": "Seit 1941 stehen Beutelteufel unter Schutz, und ihr Bestand erholte sich.",
    "section": "Bestand"
   },
-  "f39": {
+  "f37": {
    "kind": "date",
    "value": "1909",
    "surface": "1909",
    "sentence": "Die erste fand 1909 und die zweite 1950 statt.",
    "section": "Bestand"
   },
-  "f40": {
+  "f38": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "Die erste fand 1909 und die zweite 1950 statt.",
    "section": "Bestand"
   },
-  "f41": {
+  "f39": {
    "kind": "number",
    "value": 53000,
    "surface": "53.000",
    "sentence": "Nach einem Höhepunkt mit etwa 53.000 wildlebenden Individuen im Jahr 1996 verringerte sich die Population infolge der raschen Verbreitung der Devil Facial Tumour Disease auf nur noch 16.900 Beutelteufel 2020.",
    "section": "Bestand"
   },
-  "f42": {
+  "f40": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Nach einem Höhepunkt mit etwa 53.000 wildlebenden Individuen im Jahr 1996 verringerte sich die Population infolge der raschen Verbreitung der Devil Facial Tumour Disease auf nur noch 16.900 Beutelteufel 2020.",
    "section": "Bestand"
   },
-  "f43": {
+  "f41": {
    "kind": "number",
    "value": 16900,
    "surface": "16.900",
    "sentence": "Nach einem Höhepunkt mit etwa 53.000 wildlebenden Individuen im Jahr 1996 verringerte sich die Population infolge der raschen Verbreitung der Devil Facial Tumour Disease auf nur noch 16.900 Beutelteufel 2020.",
    "section": "Bestand"
   },
-  "f44": {
+  "f42": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Nach einem Höhepunkt mit etwa 53.000 wildlebenden Individuen im Jahr 1996 verringerte sich die Population infolge der raschen Verbreitung der Devil Facial Tumour Disease auf nur noch 16.900 Beutelteufel 2020.",
    "section": "Bestand"
   },
-  "f45": {
+  "f43": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Tasmanien und Australien reglementieren den Export von Beutelteufeln sehr streng; außerhalb Australiens leben Beutelteufel in Zoos in Neuseeland, in einigen US-amerikanischen Zoos, wie z. B. seit 2013 im San Diego Zoo, und in Europa beispielsweise im Zoo Kopenhagen, seit Ende März 2017 im Zoo Duisburg oder seit Mitte 2020 in Prag.",
    "section": "Bestand"
   },
-  "f46": {
+  "f44": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Tasmanien und Australien reglementieren den Export von Beutelteufeln sehr streng; außerhalb Australiens leben Beutelteufel in Zoos in Neuseeland, in einigen US-amerikanischen Zoos, wie z. B. seit 2013 im San Diego Zoo, und in Europa beispielsweise im Zoo Kopenhagen, seit Ende März 2017 im Zoo Duisburg oder seit Mitte 2020 in Prag.",
    "section": "Bestand"
   },
-  "f47": {
+  "f45": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Tasmanien und Australien reglementieren den Export von Beutelteufeln sehr streng; außerhalb Australiens leben Beutelteufel in Zoos in Neuseeland, in einigen US-amerikanischen Zoos, wie z. B. seit 2013 im San Diego Zoo, und in Europa beispielsweise im Zoo Kopenhagen, seit Ende März 2017 im Zoo Duisburg oder seit Mitte 2020 in Prag.",
    "section": "Bestand"
   },
-  "f48": {
+  "f46": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Seit November 2022 leben Beutelteufel auch im Zoo Singapur.",
    "section": "Bestand"
   },
-  "f49": {
+  "f47": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "DFTD wurde erstmals 1996 im Nordosten Tasmaniens entdeckt.",
    "section": "Bestand"
   },
-  "f50": {
+  "f48": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Bis 2005 war die Hälfte des Ausbreitungsgebietes des Beutelteufels betroffen und die Bestandseinbrüche werden auf bis zu 85 % geschätzt.",
    "section": "Bestand"
   },
-  "f51": {
+  "f49": {
    "kind": "measure",
    "value": 85,
    "unit": "%",
@@ -430,21 +416,21 @@
    "sentence": "Bis 2005 war die Hälfte des Ausbreitungsgebietes des Beutelteufels betroffen und die Bestandseinbrüche werden auf bis zu 85 % geschätzt.",
    "section": "Bestand"
   },
-  "f52": {
+  "f50": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Anfang 2005 vermeldete man jedoch auch drei Fälle im Süden der Insel.",
    "section": "Bestand"
   },
-  "f53": {
+  "f51": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Sollte sich DFTD weiter mit dieser Geschwindigkeit ausbreiten, könnte dies dazu führen, dass der Beutelteufel innerhalb der nächsten 20 bis 30 Jahre ausstirbt.",
    "section": "Bestand"
   },
-  "f54": {
+  "f52": {
    "kind": "measure",
    "value": 30,
    "unit": "jahre",
@@ -452,56 +438,56 @@
    "sentence": "Sollte sich DFTD weiter mit dieser Geschwindigkeit ausbreiten, könnte dies dazu führen, dass der Beutelteufel innerhalb der nächsten 20 bis 30 Jahre ausstirbt.",
    "section": "Bestand"
   },
-  "f55": {
+  "f53": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Wissenschaftler der Universität Sydney berichteten im Februar 2010 von der Entdeckung einer MHC-Gengruppe in einer Population gesunder Beutelteufel, in der deutliche Unterschiede gegenüber der sonst üblichen MHC-Gengruppe festgestellt wurden.",
    "section": "Bestand"
   },
-  "f56": {
+  "f54": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Im März 2013 haben Forscher der Universität Cambridge einen Ansatzpunkt für einen Impfstoff gefunden: „Wenn man Tumorzellen mit Interferon behandelt und sie dann in deaktivierter Form den Tasmanischen Teufeln spritzt, erkennt ihr Immunsystem sie als fremd – und merkt sich neben dem ‚Etikett‘ des MHC-Komplexes auch andere verräterische Eiweiße auf der Zelloberfläche.",
    "section": "Bestand"
   },
-  "f57": {
+  "f55": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Allerdings wurde durch die Beuteltiere auf Maria Island, wo man 2012/13 eine geographisch geschützte Reservepopulation aufbaute, eine Population von rund 6000 Zwergpinguinen vollständig ausgerottet.",
    "section": "Bestand"
   },
-  "f58": {
+  "f56": {
    "kind": "number",
    "value": 6000,
    "surface": "6000",
    "sentence": "Allerdings wurde durch die Beuteltiere auf Maria Island, wo man 2012/13 eine geographisch geschützte Reservepopulation aufbaute, eine Population von rund 6000 Zwergpinguinen vollständig ausgerottet.",
    "section": "Bestand"
   },
-  "f59": {
+  "f57": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "In Zusammenarbeit mit Aussie Ark / Wildark und anderen Naturschutzgruppen erfolgte Anfang Oktober 2020 erstmals die Auswilderung von 26 Beutelteufeln am Festland Australiens, in einem Schutzgebiet in Barrington Tops, nördlich von Sydney.",
    "section": "Bestand"
   },
-  "f60": {
+  "f58": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "In Zusammenarbeit mit Aussie Ark / Wildark und anderen Naturschutzgruppen erfolgte Anfang Oktober 2020 erstmals die Auswilderung von 26 Beutelteufeln am Festland Australiens, in einem Schutzgebiet in Barrington Tops, nördlich von Sydney.",
    "section": "Bestand"
   },
-  "f61": {
+  "f59": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Der Beutelteufel ist ein natürlicher Gegenspieler von Füchsen und Wildkatzen, die bis heute etwa 40 Tierarten in Australien zum Aussterben gebracht haben.",
    "section": "Bestand"
   },
-  "f62": {
+  "f60": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",

@@ -123,38 +123,17 @@
    "kind": "number",
    "value": 80,
    "surface": "80",
-   "sentence": "Diplodocus besaß einen extrem langen Schwanz, bestehend aus rund 80 Schwanzwirbeln, was fast dem doppelten der Schwanzwirbelzahl mancher früher Sauropoden (wie Shunosaurus: 43) entsprach und die zur gleichen Zeit lebenden Vertreter der Macronaria (Camarasaurus: 53) bei Weitem übertraf.",
+   "sentence": "Diplodocus besaß einen extrem langen Schwanz, bestehend aus rund 80 Schwanzwirbeln, was fast dem doppelten der Schwanzwirbelzahl mancher früher Sauropoden entsprach und die zur gleichen Zeit lebenden Vertreter der Macronaria bei Weitem übertraf.",
    "section": "Beschreibung"
   },
   "f10": {
-   "kind": "number",
-   "value": 43,
-   "surface": "43",
-   "sentence": "Diplodocus besaß einen extrem langen Schwanz, bestehend aus rund 80 Schwanzwirbeln, was fast dem doppelten der Schwanzwirbelzahl mancher früher Sauropoden (wie Shunosaurus: 43) entsprach und die zur gleichen Zeit lebenden Vertreter der Macronaria (Camarasaurus: 53) bei Weitem übertraf.",
-   "section": "Beschreibung"
-  },
-  "f11": {
-   "kind": "number",
-   "value": 53,
-   "surface": "53",
-   "sentence": "Diplodocus besaß einen extrem langen Schwanz, bestehend aus rund 80 Schwanzwirbeln, was fast dem doppelten der Schwanzwirbelzahl mancher früher Sauropoden (wie Shunosaurus: 43) entsprach und die zur gleichen Zeit lebenden Vertreter der Macronaria (Camarasaurus: 53) bei Weitem übertraf.",
-   "section": "Beschreibung"
-  },
-  "f12": {
-   "kind": "date",
-   "value": "1910",
-   "surface": "1910",
-   "sentence": "Beispielsweise zeigt die klassische Rekonstruktion von Oliver P. Hay (1910) zwei Individuen der Gattung mit gespreizten eidechsenartigen Beinen am Ufer eines Flusses.",
-   "section": "Paläobiologie"
-  },
-  "f13": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "Eine Studie der Columbia University zur Halsstruktur der Diplodociden aus dem Jahr 1993 hatte zum Ergebnis, dass die längsten Hälse ein 1,6 Tonnen schweres Herz benötigt hätten, um das Gehirn mit Sauerstoff zu versorgen.",
    "section": "Paläobiologie"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 1.6,
    "unit": "tonnen",
@@ -162,28 +141,28 @@
    "sentence": "Eine Studie der Columbia University zur Halsstruktur der Diplodociden aus dem Jahr 1993 hatte zum Ergebnis, dass die längsten Hälse ein 1,6 Tonnen schweres Herz benötigt hätten, um das Gehirn mit Sauerstoff zu versorgen.",
    "section": "Paläobiologie"
   },
-  "f15": {
+  "f12": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Während lange Hälse traditionell als Anpassung an eine bestimmte Ernährungsstrategie interpretiert werden, schlägt eine Studie von 2006 vor, dass der überlange Hals von Diplodocus und seiner Verwandten primär der Zurschaustellung als Teil des Paarungsverhaltens gedient haben könnte und Vorteile bei Ernährung möglicherweise zunächst nur nachrangig von Bedeutung waren.",
    "section": "Paläobiologie"
   },
-  "f16": {
+  "f13": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Auch die rückwärtige Bewegung der Unterkiefer könnte auf zweierlei Weise zum Fressvorgang beigetragen haben: 1) Vergrößerung des Abstands zwischen den Zahnreihen; 2) Feinjustierung der relativen Lage der Zahnreihen und ihrer Bewegung zueinander, was zu einem gleichmäßigeren Abweidevorgang geführt hätte.",
    "section": "Paläobiologie"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Auch die rückwärtige Bewegung der Unterkiefer könnte auf zweierlei Weise zum Fressvorgang beigetragen haben: 1) Vergrößerung des Abstands zwischen den Zahnreihen; 2) Feinjustierung der relativen Lage der Zahnreihen und ihrer Bewegung zueinander, was zu einem gleichmäßigeren Abweidevorgang geführt hätte.",
    "section": "Paläobiologie"
   },
-  "f18": {
+  "f15": {
    "kind": "measure",
    "value": 10,
    "unit": "m",
@@ -191,91 +170,84 @@
    "sentence": "Mit einem flexiblen Hals, der zur Seite sowie auf und ab bewegt werden konnte, und der Möglichkeit, den Schwanz als Stütze beim Aufrichten auf die Hinterbeine zu nutzen, dürfte Diplodocus die Fähigkeit besessen haben, in verschiedenen Höhen bis maximal 10 m über dem Boden zu weiden.",
    "section": "Paläobiologie"
   },
-  "f19": {
+  "f16": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Eine Studie von 2006 legt dar, dass es keine paläoneurologischen Belege für einen Rüssel gibt.",
    "section": "Paläobiologie"
   },
-  "f20": {
-   "kind": "date",
-   "value": "2001",
-   "surface": "2001",
-   "sentence": "Untersuchungen von Lawrence M. Witmer (2001) deuten an, dass trotz der hohen Lage der Nasenöffnungen im Schädel die Nüstern weitaus tiefer in Richtung der Schnauze gelegen haben könnten.",
-   "section": "Paläobiologie"
-  },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
    "sentence": "Mehrere Arten von Diplodocus sind zwischen 1878 und 1924 beschrieben worden.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "Mehrere Arten von Diplodocus sind zwischen 1878 und 1924 beschrieben worden.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1878",
    "surface": "1878",
-   "sentence": "Das erste Skelett wurde 1878 von Benjamin Franklin Mudge und Samuel Wendell Williston in Como Bluff, Wyoming entdeckt und von dem Paläontologen Othniel Charles Marsh noch im selben Jahr als Typusart wissenschaftlich erstbeschrieben und Diplodocus longus („langer Doppelbalken“) genannt.",
+   "sentence": "Das erste Skelett wurde 1878 von Benjamin Franklin Mudge und Samuel Wendell Williston in Como Bluff, Wyoming entdeckt und von dem Paläontologen Othniel Charles Marsh noch im selben Jahr als Typusart wissenschaftlich erstbeschrieben und Diplodocus longus genannt.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f24": {
+  "f20": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
-   "sentence": "D. carnegii (in älterer Literatur auch D. carnegiei), benannt nach Andrew Carnegie, ist die am besten bekannte Art, vor allem aufgrund eines nahezu vollständigen Skeletts, das von Jacob Wortman vom Carnegie Museum of Natural History in Pittsburgh, Pennsylvania entdeckt und im Jahr 1901 von John Bell Hatcher wissenschaftlich beschrieben und benannt wurde.",
+   "sentence": "D. carnegii, benannt nach Andrew Carnegie, ist die am besten bekannte Art, vor allem aufgrund eines nahezu vollständigen Skeletts, das von Jacob Wortman vom Carnegie Museum of Natural History in Pittsburgh, Pennsylvania entdeckt und im Jahr 1901 von John Bell Hatcher wissenschaftlich beschrieben und benannt wurde.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "1902",
    "surface": "1902",
    "sentence": "D. hayi beruht auf einem Teilskelett, das von William H. Utterback im Jahr 1902 nahe Sheridan, Wyoming entdeckt und 1924 beschrieben wurde.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "D. hayi beruht auf einem Teilskelett, das von William H. Utterback im Jahr 1902 nahe Sheridan, Wyoming entdeckt und 1924 beschrieben wurde.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f27": {
+  "f23": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Die Art wurde 2015 bei einer Revision der Diplodocidae in die neu errichtete Gattung Galeamopus gestellt.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f28": {
+  "f24": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Ein Vortrag auf der Jahrestagung der Geologischen Gesellschaft von Amerika im Jahr 2004 stellte plausibel dar, dass Seismosaurus ein mutmaßliches jüngeres Synonym von Diplodocus repräsentiert.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
    "sentence": "Seismosaurus hallorum wurde im Jahr 1979 entdeckt und 1991 als eigene Gattung beschrieben.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "Seismosaurus hallorum wurde im Jahr 1979 entdeckt und 1991 als eigene Gattung beschrieben.",
    "section": "Entdeckungsgeschichte und Arten"
   },
-  "f31": {
+  "f27": {
    "kind": "date",
    "value": "1884",
    "surface": "1884",

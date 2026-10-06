@@ -81,7 +81,7 @@
    "value": 950,
    "unit": "species",
    "surface": "950 species",
-   "sentence": "Oaks support more than 950 species of caterpillar, many kinds of gall wasp which form distinctive galls (roundish woody lumps such as the oak apple), and a large number of pests and diseases."
+   "sentence": "Oaks support more than 950 species of caterpillar, many kinds of gall wasp which form distinctive galls, and a large number of pests and diseases."
   },
   "f3": {
    "kind": "date",
@@ -95,7 +95,7 @@
    "value": 600,
    "unit": "years",
    "surface": "600 years",
-   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres (13 ft) and a height of 44 metres (144 ft).",
+   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres and a height of 44 metres.",
    "section": "Description"
   },
   "f5": {
@@ -103,34 +103,18 @@
    "value": 4,
    "unit": "metres",
    "surface": "4 metres",
-   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres (13 ft) and a height of 44 metres (144 ft).",
+   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres and a height of 44 metres.",
    "section": "Description"
   },
   "f6": {
    "kind": "measure",
-   "value": 13,
-   "unit": "ft",
-   "surface": "13 ft",
-   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres (13 ft) and a height of 44 metres (144 ft).",
-   "section": "Description"
-  },
-  "f7": {
-   "kind": "measure",
    "value": 44,
    "unit": "metres",
    "surface": "44 metres",
-   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres (13 ft) and a height of 44 metres (144 ft).",
+   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres and a height of 44 metres.",
    "section": "Description"
   },
-  "f8": {
-   "kind": "measure",
-   "value": 144,
-   "unit": "ft",
-   "surface": "144 ft",
-   "sentence": "Trees in the genus are usually large and slow-growing; Q. alba can reach an age of 600 years, a diameter of 4 metres (13 ft) and a height of 44 metres (144 ft).",
-   "section": "Description"
-  },
-  "f9": {
+  "f7": {
    "kind": "measure",
    "value": 1637,
    "unit": "years",
@@ -138,7 +122,7 @@
    "sentence": "The Granit oak in Bulgaria, a Q. robur specimen, has an estimated age of 1,637 years, making it the oldest oak in Europe.",
    "section": "Description"
   },
-  "f10": {
+  "f8": {
    "kind": "measure",
    "value": 1000,
    "unit": "years",
@@ -146,7 +130,7 @@
    "sentence": "The Wi'aaSal tree, a live oak in the reservation of the Pechanga Band of Indians, California, is at least 1,000 years old, and might be as much as 2,000 years old, which would make it the oldest oak in the US.",
    "section": "Description"
   },
-  "f11": {
+  "f9": {
    "kind": "measure",
    "value": 2000,
    "unit": "years",
@@ -154,23 +138,15 @@
    "sentence": "The Wi'aaSal tree, a live oak in the reservation of the Pechanga Band of Indians, California, is at least 1,000 years old, and might be as much as 2,000 years old, which would make it the oldest oak in the US.",
    "section": "Description"
   },
-  "f12": {
+  "f10": {
    "kind": "measure",
    "value": 9,
    "unit": "metres",
    "surface": "9 metres",
-   "sentence": "It forms a bush or small tree to a height of some 9 metres (30 ft).",
+   "sentence": "It forms a bush or small tree to a height of some 9 metres.",
    "section": "Description"
   },
-  "f13": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "ft",
-   "surface": "30 ft",
-   "sentence": "It forms a bush or small tree to a height of some 9 metres (30 ft).",
-   "section": "Description"
-  },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 55000000,
    "unit": "years",
@@ -178,7 +154,7 @@
    "sentence": "Amongst the oldest unequivocal records of Quercus are pollen from Austria, dating to the Paleocene-Eocene boundary, around 55 million years ago.",
    "section": "Evolution"
   },
-  "f15": {
+  "f12": {
    "kind": "measure",
    "value": 44000000,
    "unit": "years",
@@ -186,14 +162,14 @@
    "sentence": "The oldest records of Quercus in North America are from Oregon, dating to the Middle Eocene, around 44 million years ago, with the oldest records in Asia from the Middle Eocene of Japan; both forms have affinities to the Cyclobalanopsis group.",
    "section": "Evolution"
   },
-  "f16": {
+  "f13": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "The phylogeny from Hipp et al. 2019 is:\nThe genus Quercus was circumscribed by Carl Linnaeus in the first edition of his 1753 Species Plantarum.",
    "section": "Evolution"
   },
-  "f17": {
+  "f14": {
    "kind": "measure",
    "value": 1753,
    "unit": "species",
@@ -201,7 +177,7 @@
    "sentence": "The phylogeny from Hipp et al. 2019 is:\nThe genus Quercus was circumscribed by Carl Linnaeus in the first edition of his 1753 Species Plantarum.",
    "section": "Evolution"
   },
-  "f18": {
+  "f15": {
    "kind": "measure",
    "value": 15,
    "unit": "species",
@@ -209,100 +185,70 @@
    "sentence": "He described 15 species within the new genus, providing type specimens for 10 of these, and giving names but no types for Q. cerris, Q. coccifera, Q. ilex, Q. smilax, and Q. suber.",
    "section": "Evolution"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "He described 15 species within the new genus, providing type specimens for 10 of these, and giving names but no types for Q. cerris, Q. coccifera, Q. ilex, Q. smilax, and Q. suber.",
    "section": "Evolution"
   },
-  "f20": {
+  "f17": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
-   "sentence": "A 2017 classification of Quercus, based on multiple molecular phylogenetic studies, divided the genus into two subgenera and eight sections:\nSubgenus Quercus – the New World clade (or high-latitude clade), mostly native to North America\nSection Lobatae Loudon – North American red oaks\nSection Protobalanus (Trelease) O.Schwarz – North American intermediate oaks\nSection Ponticae Stef. – with a disjunct distribution between western Eurasia and western North America\nSection Virentes Loudon – American southern live oaks\nSection Quercus – white oaks from North America and Eurasia\nSubgenus Cerris Oerst. – the Old World clade (or mid-latitude clade), exclusively native to Eurasia\nSection Cyclobalanopsis Oerst. – cycle-cup oaks of East Asia\nSection Cerris Dumort. – cerris oaks of subtropical and temperate Eurasia and North Africa\nSection Ilex Loudon – ilex oaks of tropical and subtropical Eurasia and North Africa\nThe subgenus division supports the evolutionary diversification of oaks among two distinct clades: the Old World clade (subgenus Cerris), including oaks that diversified in Eurasia; and the New World clade (subgenus Quercus), oaks that diversified mainly in the Americas.",
+   "sentence": "A 2017 classification of Quercus, based on multiple molecular phylogenetic studies, divided the genus into two subgenera and eight sections:\nSubgenus Quercus – the New World clade, mostly native to North America\nSection Lobatae Loudon – North American red oaks\nSection Protobalanus O.Schwarz – North American intermediate oaks\nSection Ponticae Stef. – with a disjunct distribution between western Eurasia and western North America\nSection Virentes Loudon – American southern live oaks\nSection Quercus – white oaks from North America and Eurasia\nSubgenus Cerris Oerst. – the Old World clade, exclusively native to Eurasia\nSection Cyclobalanopsis Oerst. – cycle-cup oaks of East Asia\nSection Cerris Dumort. – cerris oaks of subtropical and temperate Eurasia and North Africa\nSection Ilex Loudon – ilex oaks of tropical and subtropical Eurasia and North Africa\nThe subgenus division supports the evolutionary diversification of oaks among two distinct clades: the Old World clade, including oaks that diversified in Eurasia; and the New World clade, oaks that diversified mainly in the Americas.",
    "section": "Evolution"
   },
-  "f21": {
+  "f18": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Styles are long; the acorns mature in 18 months and taste very bitter.",
    "section": "Evolution"
   },
-  "f22": {
+  "f19": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Styles are short; the acorns mature in 18 months and taste very bitter.",
    "section": "Evolution"
   },
-  "f23": {
+  "f20": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Styles are short, and the acorns mature in 12 months.",
    "section": "Evolution"
   },
-  "f24": {
+  "f21": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Styles are short, and the acorns mature in 12 months.",
    "section": "Evolution"
   },
-  "f25": {
+  "f22": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "These are evergreen trees growing 10–40 metres (33–131 feet) tall.",
+   "sentence": "These are evergreen trees growing 10–40 metres tall.",
    "section": "Evolution"
   },
-  "f26": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "metres",
-   "surface": "40 metres",
-   "sentence": "These are evergreen trees growing 10–40 metres (33–131 feet) tall.",
-   "section": "Evolution"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 33,
-   "surface": "33",
-   "sentence": "These are evergreen trees growing 10–40 metres (33–131 feet) tall.",
-   "section": "Evolution"
-  },
-  "f28": {
-   "kind": "measure",
-   "value": 131,
-   "unit": "feet",
-   "surface": "131 feet",
-   "sentence": "These are evergreen trees growing 10–40 metres (33–131 feet) tall.",
-   "section": "Evolution"
-  },
-  "f29": {
+  "f23": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Styles are long; acorns mature in 18 months and taste very bitter.",
    "section": "Evolution"
   },
-  "f30": {
+  "f24": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Styles are medium-long; acorns mature in 12–24 months, appearing hairy on the inside.",
    "section": "Evolution"
   },
-  "f31": {
-   "kind": "number",
-   "value": 24,
-   "surface": "24",
-   "sentence": "Styles are medium-long; acorns mature in 12–24 months, appearing hairy on the inside.",
-   "section": "Evolution"
-  },
-  "f32": {
+  "f25": {
    "kind": "measure",
    "value": 160,
    "unit": "species",
@@ -310,21 +256,21 @@
    "sentence": "North America has the largest number of oak species, with approximately 160 species in Mexico, of which 109 are endemic, and about 90 in the United States.",
    "section": "Distribution"
   },
-  "f33": {
+  "f26": {
    "kind": "number",
    "value": 109,
    "surface": "109",
    "sentence": "North America has the largest number of oak species, with approximately 160 species in Mexico, of which 109 are endemic, and about 90 in the United States.",
    "section": "Distribution"
   },
-  "f34": {
+  "f27": {
    "kind": "number",
    "value": 90,
    "surface": "90",
    "sentence": "North America has the largest number of oak species, with approximately 160 species in Mexico, of which 109 are endemic, and about 90 in the United States.",
    "section": "Distribution"
   },
-  "f35": {
+  "f28": {
    "kind": "measure",
    "value": 100,
    "unit": "species",
@@ -332,23 +278,15 @@
    "sentence": "The second greatest area of oak diversity is China, with approximately 100 species.",
    "section": "Distribution"
   },
-  "f36": {
+  "f29": {
    "kind": "measure",
    "value": 1000,
    "unit": "metres",
    "surface": "1,000 metres",
-   "sentence": "It is present in a small area of the west of Cuba; in Mesoamerica it occurs mainly above 1,000 metres (3,300 ft).",
+   "sentence": "It is present in a small area of the west of Cuba; in Mesoamerica it occurs mainly above 1,000 metres.",
    "section": "Distribution"
   },
-  "f37": {
-   "kind": "measure",
-   "value": 3300,
-   "unit": "ft",
-   "surface": "3,300 ft",
-   "sentence": "It is present in a small area of the west of Cuba; in Mesoamerica it occurs mainly above 1,000 metres (3,300 ft).",
-   "section": "Distribution"
-  },
-  "f38": {
+  "f30": {
    "kind": "measure",
    "value": 1000,
    "unit": "metres",
@@ -356,7 +294,7 @@
    "sentence": "The genus crossed the isthmus of Panama when the northern and southern continents came together and is present as one species, Q. humboldtii, above 1,000 metres in Colombia.",
    "section": "Distribution"
   },
-  "f39": {
+  "f31": {
    "kind": "measure",
    "value": 950,
    "unit": "species",
@@ -364,7 +302,7 @@
    "sentence": "Oaks support more than 950 species of caterpillars, an important food source for many birds.",
    "section": "Ecology"
   },
-  "f40": {
+  "f32": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
@@ -372,84 +310,84 @@
    "sentence": "Introgression has caused different species in the same populations to share up to 50% of their genetic information.",
    "section": "Ecology"
   },
-  "f41": {
+  "f33": {
    "kind": "number",
    "value": 423,
    "surface": "423",
    "sentence": "For instance, Q. robur and Q. petraea in Britain host 423 insect species.",
    "section": "Ecology"
   },
-  "f42": {
+  "f34": {
    "kind": "number",
    "value": 106,
    "surface": "106",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f43": {
+  "f35": {
    "kind": "number",
    "value": 83,
    "surface": "83",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f44": {
+  "f36": {
    "kind": "number",
    "value": 67,
    "surface": "67",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f45": {
+  "f37": {
    "kind": "number",
    "value": 53,
    "surface": "53",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f46": {
+  "f38": {
    "kind": "number",
    "value": 38,
    "surface": "38",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f47": {
+  "f39": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f48": {
+  "f40": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f49": {
+  "f41": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "This diversity includes 106 macro-moths, 83 micro-moths, 67 beetles, 53 cynipoidean wasps, 38 heteropteran bugs, 21 auchenorrhynchan bugs, 17 sawflies, and 15 aphids.",
    "section": "Ecology"
   },
-  "f50": {
+  "f42": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "Another significant threat, the oak processionary moth (Thaumetopoea processionea), has emerged in the UK since 2006.",
+   "sentence": "Another significant threat, the oak processionary moth, has emerged in the UK since 2006.",
    "section": "Ecology"
   },
-  "f51": {
+  "f43": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "A little-understood disease of mature oaks, acute oak decline, has affected the UK since 2009.",
    "section": "Ecology"
   },
-  "f52": {
+  "f44": {
    "kind": "measure",
    "value": 31,
    "unit": "%",
@@ -457,7 +395,7 @@
    "sentence": "An estimated 31% of the world's oak species are threatened with extinction, while 41% of oak species are considered to be of conservation concern.",
    "section": "Conservation"
   },
-  "f53": {
+  "f45": {
    "kind": "measure",
    "value": 41,
    "unit": "%",
@@ -465,46 +403,39 @@
    "sentence": "An estimated 31% of the world's oak species are threatened with extinction, while 41% of oak species are considered to be of conservation concern.",
    "section": "Conservation"
   },
-  "f54": {
-   "kind": "date",
-   "value": "2020",
-   "surface": "2020",
-   "sentence": "The countries with the highest numbers of threatened oak species (as of 2020) are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
-   "section": "Conservation"
-  },
-  "f55": {
+  "f46": {
    "kind": "measure",
    "value": 36,
    "unit": "species",
    "surface": "36 species",
-   "sentence": "The countries with the highest numbers of threatened oak species (as of 2020) are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
+   "sentence": "The countries with the highest numbers of threatened oak species are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
    "section": "Conservation"
   },
-  "f56": {
+  "f47": {
    "kind": "measure",
    "value": 32,
    "unit": "species",
    "surface": "32 species",
-   "sentence": "The countries with the highest numbers of threatened oak species (as of 2020) are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
+   "sentence": "The countries with the highest numbers of threatened oak species are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
    "section": "Conservation"
   },
-  "f57": {
+  "f48": {
    "kind": "measure",
    "value": 20,
    "unit": "species",
    "surface": "20 species",
-   "sentence": "The countries with the highest numbers of threatened oak species (as of 2020) are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
+   "sentence": "The countries with the highest numbers of threatened oak species are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
    "section": "Conservation"
   },
-  "f58": {
+  "f49": {
    "kind": "measure",
    "value": 16,
    "unit": "species",
    "surface": "16 species",
-   "sentence": "The countries with the highest numbers of threatened oak species (as of 2020) are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
+   "sentence": "The countries with the highest numbers of threatened oak species are China with 36 species, Mexico with 32 species, Vietnam with 20 species, and the US with 16 species.",
    "section": "Conservation"
   },
-  "f59": {
+  "f50": {
    "kind": "measure",
    "value": 200,
    "unit": "years",

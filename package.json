@@ -18,7 +18,8 @@
     "content:prepare": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/prepare.ts",
     "content:bake": "NODE_NO_WARNINGS=1 tsx scripts/content/bake.ts",
     "content:verify": "NODE_NO_WARNINGS=1 tsx scripts/content/verify.ts",
-    "content:preview": "NODE_NO_WARNINGS=1 tsx scripts/content/preview.ts"
+    "content:preview": "NODE_NO_WARNINGS=1 tsx scripts/content/preview.ts",
+    "content:quality": "NODE_NO_WARNINGS=1 tsx scripts/content/quality.ts"
   },
   "dependencies": {
     "react": "^19.3.0",

@@ -140,114 +140,77 @@
   },
   "f12": {
    "kind": "number",
-   "value": 0.2,
-   "surface": "0,2",
-   "sentence": "Die feinen Röhren (0,2–0,7 mm im Durchmesser) sind 10–40 mm lang und wie die Poren zunächst weiß gefärbt; sie können vor allem im Alter den Hutrand überragen.",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Die feinen Röhren sind 10–40 mm lang und wie die Poren zunächst weiß gefärbt; sie können vor allem im Alter den Hutrand überragen.",
    "section": "Merkmale"
   },
   "f13": {
-   "kind": "measure",
-   "value": 0.7,
-   "unit": "mm",
-   "surface": "0,7 mm",
-   "sentence": "Die feinen Röhren (0,2–0,7 mm im Durchmesser) sind 10–40 mm lang und wie die Poren zunächst weiß gefärbt; sie können vor allem im Alter den Hutrand überragen.",
+   "kind": "number",
+   "value": 12.5,
+   "surface": "12,5",
+   "sentence": "Die Sporen haben bei einer Größe von 12,5–17 × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
    "section": "Merkmale"
   },
   "f14": {
    "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Die feinen Röhren (0,2–0,7 mm im Durchmesser) sind 10–40 mm lang und wie die Poren zunächst weiß gefärbt; sie können vor allem im Alter den Hutrand überragen.",
+   "value": 17,
+   "surface": "17",
+   "sentence": "Die Sporen haben bei einer Größe von 12,5–17 × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
    "section": "Merkmale"
   },
   "f15": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "mm",
-   "surface": "40 mm",
-   "sentence": "Die feinen Röhren (0,2–0,7 mm im Durchmesser) sind 10–40 mm lang und wie die Poren zunächst weiß gefärbt; sie können vor allem im Alter den Hutrand überragen.",
-   "section": "Merkmale"
-  },
-  "f16": {
-   "kind": "number",
-   "value": 12.5,
-   "surface": "12,5",
-   "sentence": "Die Sporen haben bei einer Größe von 12,5–17(19) × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
-   "section": "Merkmale"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 17,
-   "surface": "17",
-   "sentence": "Die Sporen haben bei einer Größe von 12,5–17(19) × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
-   "section": "Merkmale"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 19,
-   "surface": "19",
-   "sentence": "Die Sporen haben bei einer Größe von 12,5–17(19) × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
-   "section": "Merkmale"
-  },
-  "f19": {
    "kind": "number",
    "value": 4.5,
    "surface": "4,5",
-   "sentence": "Die Sporen haben bei einer Größe von 12,5–17(19) × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
+   "sentence": "Die Sporen haben bei einer Größe von 12,5–17 × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
    "section": "Merkmale"
   },
-  "f20": {
+  "f16": {
    "kind": "measure",
    "value": 5.5,
    "unit": "μm",
    "surface": "5,5 μm",
-   "sentence": "Die Sporen haben bei einer Größe von 12,5–17(19) × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
+   "sentence": "Die Sporen haben bei einer Größe von 12,5–17 × 4,5–5,5 μm eine spindelig-elliptische Form und eine glatte Oberfläche.",
    "section": "Merkmale"
   },
-  "f21": {
+  "f17": {
    "kind": "number",
    "value": 2.7,
    "surface": "2,7",
-   "sentence": "Ihr Sporenkoeffizient (Verhältnis von Sporenlänge zu -breite) liegt zwischen 2,7 und 3,5; das mittlere Volumen beträgt 172 μm³.",
+   "sentence": "Ihr Sporenkoeffizient liegt zwischen 2,7 und 3,5; das mittlere Volumen beträgt 172 μm³.",
    "section": "Merkmale"
   },
-  "f22": {
+  "f18": {
    "kind": "number",
    "value": 3.5,
    "surface": "3,5",
-   "sentence": "Ihr Sporenkoeffizient (Verhältnis von Sporenlänge zu -breite) liegt zwischen 2,7 und 3,5; das mittlere Volumen beträgt 172 μm³.",
+   "sentence": "Ihr Sporenkoeffizient liegt zwischen 2,7 und 3,5; das mittlere Volumen beträgt 172 μm³.",
    "section": "Merkmale"
   },
-  "f23": {
+  "f19": {
    "kind": "measure",
    "value": 172,
    "unit": "μm",
    "surface": "172 μm",
-   "sentence": "Ihr Sporenkoeffizient (Verhältnis von Sporenlänge zu -breite) liegt zwischen 2,7 und 3,5; das mittlere Volumen beträgt 172 μm³.",
+   "sentence": "Ihr Sporenkoeffizient liegt zwischen 2,7 und 3,5; das mittlere Volumen beträgt 172 μm³.",
    "section": "Merkmale"
   },
-  "f24": {
+  "f20": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Die Basidien sind keulig geformt und messen 30–47 × 8–10 μm.",
    "section": "Merkmale"
   },
-  "f25": {
-   "kind": "number",
-   "value": 47,
-   "surface": "47",
-   "sentence": "Die Basidien sind keulig geformt und messen 30–47 × 8–10 μm.",
-   "section": "Merkmale"
-  },
-  "f26": {
+  "f21": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Die Basidien sind keulig geformt und messen 30–47 × 8–10 μm.",
    "section": "Merkmale"
   },
-  "f27": {
+  "f22": {
    "kind": "measure",
    "value": 10,
    "unit": "μm",
@@ -255,28 +218,21 @@
    "sentence": "Die Basidien sind keulig geformt und messen 30–47 × 8–10 μm.",
    "section": "Merkmale"
   },
-  "f28": {
+  "f23": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Die Fruchtkörper besitzen Cheilo- und Pleurozystiden in der Größe von 35–70 × 5,5–10 μm.",
    "section": "Merkmale"
   },
-  "f29": {
-   "kind": "number",
-   "value": 70,
-   "surface": "70",
-   "sentence": "Die Fruchtkörper besitzen Cheilo- und Pleurozystiden in der Größe von 35–70 × 5,5–10 μm.",
-   "section": "Merkmale"
-  },
-  "f30": {
+  "f24": {
    "kind": "number",
    "value": 5.5,
    "surface": "5,5",
    "sentence": "Die Fruchtkörper besitzen Cheilo- und Pleurozystiden in der Größe von 35–70 × 5,5–10 μm.",
    "section": "Merkmale"
   },
-  "f31": {
+  "f25": {
    "kind": "measure",
    "value": 10,
    "unit": "μm",
@@ -284,14 +240,14 @@
    "sentence": "Die Fruchtkörper besitzen Cheilo- und Pleurozystiden in der Größe von 35–70 × 5,5–10 μm.",
    "section": "Merkmale"
   },
-  "f32": {
+  "f26": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Die Hutdeckschicht besteht aus braun pigmentierten, unregelmäßig verwobenen Hyphen, teilweise stehen 3–6 μm breite Hyphenenden hervor, die sich bald niederlegen.",
    "section": "Merkmale"
   },
-  "f33": {
+  "f27": {
    "kind": "measure",
    "value": 6,
    "unit": "μm",
@@ -299,14 +255,14 @@
    "sentence": "Die Hutdeckschicht besteht aus braun pigmentierten, unregelmäßig verwobenen Hyphen, teilweise stehen 3–6 μm breite Hyphenenden hervor, die sich bald niederlegen.",
    "section": "Merkmale"
   },
-  "f34": {
+  "f28": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Die Hyphen darunter sind flockig und 8 bis 15 μm breit.",
    "section": "Merkmale"
   },
-  "f35": {
+  "f29": {
    "kind": "measure",
    "value": 15,
    "unit": "μm",
@@ -314,14 +270,14 @@
    "sentence": "Die Hyphen darunter sind flockig und 8 bis 15 μm breit.",
    "section": "Merkmale"
   },
-  "f36": {
+  "f30": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Das Myzel bildet bei der Ektomykorrhiza einen zweischichtigen Mantel mit einer Dicke von je 16 bis 20 μm um die Pflanzenwurzeln.",
    "section": "Merkmale"
   },
-  "f37": {
+  "f31": {
    "kind": "measure",
    "value": 20,
    "unit": "μm",
@@ -329,7 +285,7 @@
    "sentence": "Das Myzel bildet bei der Ektomykorrhiza einen zweischichtigen Mantel mit einer Dicke von je 16 bis 20 μm um die Pflanzenwurzeln.",
    "section": "Merkmale"
   },
-  "f38": {
+  "f32": {
    "kind": "measure",
    "value": 20,
    "unit": "μm",
@@ -337,7 +293,7 @@
    "sentence": "Er ist häufig mit 20 μm langen flaschenförmigen Zystiden besetzt, die an der erweiterten Basis bis zu 6 μm breit sein können; sie sind einzeln oder in Gruppen angeordnet.",
    "section": "Merkmale"
   },
-  "f39": {
+  "f33": {
    "kind": "measure",
    "value": 6,
    "unit": "μm",
@@ -345,14 +301,14 @@
    "sentence": "Er ist häufig mit 20 μm langen flaschenförmigen Zystiden besetzt, die an der erweiterten Basis bis zu 6 μm breit sein können; sie sind einzeln oder in Gruppen angeordnet.",
    "section": "Merkmale"
   },
-  "f40": {
+  "f34": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Der Pilz bevorzugt ältere Wälder mit einem Alter zwischen 20 und 40 Jahren.",
    "section": "Ökologie"
   },
-  "f41": {
+  "f35": {
    "kind": "measure",
    "value": 40,
    "unit": "jahren",
@@ -360,7 +316,7 @@
    "sentence": "Der Pilz bevorzugt ältere Wälder mit einem Alter zwischen 20 und 40 Jahren.",
    "section": "Ökologie"
   },
-  "f42": {
+  "f36": {
    "kind": "measure",
    "value": 60,
    "unit": "jahre",
@@ -368,7 +324,7 @@
    "sentence": "Seltener kommt er in über 60 Jahre alten Beständen vor.",
    "section": "Ökologie"
   },
-  "f43": {
+  "f37": {
    "kind": "measure",
    "value": 20,
    "unit": "cm",
@@ -376,35 +332,35 @@
    "sentence": "Der pH-Wert des Substrates beträgt für die obersten 20 cm durchschnittlich etwa 4,2; Extremwerte liegen bei circa 3,5.",
    "section": "Ökologie"
   },
-  "f44": {
+  "f38": {
    "kind": "number",
    "value": 4.2,
    "surface": "4,2",
    "sentence": "Der pH-Wert des Substrates beträgt für die obersten 20 cm durchschnittlich etwa 4,2; Extremwerte liegen bei circa 3,5.",
    "section": "Ökologie"
   },
-  "f45": {
+  "f39": {
    "kind": "number",
    "value": 3.5,
    "surface": "3,5",
    "sentence": "Der pH-Wert des Substrates beträgt für die obersten 20 cm durchschnittlich etwa 4,2; Extremwerte liegen bei circa 3,5.",
    "section": "Ökologie"
   },
-  "f46": {
+  "f40": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "Im Jahr 1991 blieb die Fruktifikation nach einem trockenen Sommer und einem frühen, trockenen Herbst weitgehend aus.",
    "section": "Ökologie"
   },
-  "f47": {
+  "f41": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
    "sentence": "Im neuseeländischen Christchurch, wo die Fruktifikation von Ende Februar bis Mitte Mai andauert, wurde die Fruchtkörperbildung 1994 durch einen trockenen Herbst unterbrochen.",
    "section": "Ökologie"
   },
-  "f48": {
+  "f42": {
    "kind": "measure",
    "value": 2,
    "unit": "cm",
@@ -412,7 +368,7 @@
    "sentence": "Der Durchmesser des Hutes kann an einem Tag über 2 cm zunehmen; durchschnittlich beträgt der tägliche Zuwachs etwa 0,9 cm.",
    "section": "Ökologie"
   },
-  "f49": {
+  "f43": {
    "kind": "measure",
    "value": 0.9,
    "unit": "cm",
@@ -420,7 +376,7 @@
    "sentence": "Der Durchmesser des Hutes kann an einem Tag über 2 cm zunehmen; durchschnittlich beträgt der tägliche Zuwachs etwa 0,9 cm.",
    "section": "Ökologie"
   },
-  "f50": {
+  "f44": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -428,7 +384,7 @@
    "sentence": "Die optimale relative Luftfeuchtigkeit für das Wachstum der Fruchtkörper beträgt etwa 60 % oder mehr, wobei die Zuwachsraten umso höher sind, je höher die Luftfeuchtigkeit ist.",
    "section": "Ökologie"
   },
-  "f51": {
+  "f45": {
    "kind": "measure",
    "value": 40,
    "unit": "%",
@@ -436,7 +392,7 @@
    "sentence": "Bei Feuchtigkeitswerten unter 40 % wird das Wachstum unterbrochen.",
    "section": "Ökologie"
   },
-  "f52": {
+  "f46": {
    "kind": "measure",
    "value": 0,
    "unit": "°c",
@@ -444,14 +400,14 @@
    "sentence": "Die Entwicklung der Fruchtkörper verhindern außerdem längere Trockenperioden, plötzliche Temperaturabfälle auf Werte um und unter 0 °C.",
    "section": "Ökologie"
   },
-  "f53": {
+  "f47": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Die Fruchtkörper wachsen meist in einem Abstand von 1 bis 2,5 m vom Stamm der Wirtspflanze entfernt.",
    "section": "Ökologie"
   },
-  "f54": {
+  "f48": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
@@ -459,7 +415,7 @@
    "sentence": "Die Fruchtkörper wachsen meist in einem Abstand von 1 bis 2,5 m vom Stamm der Wirtspflanze entfernt.",
    "section": "Ökologie"
   },
-  "f55": {
+  "f49": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",

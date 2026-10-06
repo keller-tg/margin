@@ -178,21 +178,13 @@
    "section": "Aufbau des Vulkans"
   },
   "f14": {
-   "kind": "measure",
-   "value": 750,
-   "unit": "jahren",
-   "surface": "750 Jahren",
-   "sentence": "Diese Caldera hat den hawaiischen Namen Mokuʻāweoweo und ist vermutlich vor 600–750 Jahren eingestürzt, und zwar in einer älteren, 6 × 8 km großen Caldera.",
-   "section": "Aufbau des Vulkans"
-  },
-  "f15": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Diese Caldera hat den hawaiischen Namen Mokuʻāweoweo und ist vermutlich vor 600–750 Jahren eingestürzt, und zwar in einer älteren, 6 × 8 km großen Caldera.",
    "section": "Aufbau des Vulkans"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 8,
    "unit": "km",
@@ -200,14 +192,14 @@
    "sentence": "Diese Caldera hat den hawaiischen Namen Mokuʻāweoweo und ist vermutlich vor 600–750 Jahren eingestürzt, und zwar in einer älteren, 6 × 8 km großen Caldera.",
    "section": "Aufbau des Vulkans"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Mauna Loa befindet sich derzeit noch im 2. Aufbaustadium von vulkanischen Ozeaninseln, dem Schildstadium.",
    "section": "Aufbau des Vulkans"
   },
-  "f18": {
+  "f17": {
    "kind": "measure",
    "value": 1000000,
    "unit": "jahre",
@@ -215,21 +207,21 @@
    "sentence": "Der untere Teil des Vulkans ist bis ca. 1.000.000 Jahre alt und stammt aus dem 1. Aufbaustadium, dem Seamountstadium.",
    "section": "Aufbau des Vulkans"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Der untere Teil des Vulkans ist bis ca. 1.000.000 Jahre alt und stammt aus dem 1. Aufbaustadium, dem Seamountstadium.",
    "section": "Aufbau des Vulkans"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 1000000,
    "surface": "1.000.000",
    "sentence": "Es wird vermutet, dass die ersten Eruptionen im System vor 1.000.000 bis 700.000 Jahren stattfanden.",
    "section": "Eruptionsgeschichte"
   },
-  "f21": {
+  "f20": {
    "kind": "measure",
    "value": 700000,
    "unit": "jahren",
@@ -237,7 +229,7 @@
    "sentence": "Es wird vermutet, dass die ersten Eruptionen im System vor 1.000.000 bis 700.000 Jahren stattfanden.",
    "section": "Eruptionsgeschichte"
   },
-  "f22": {
+  "f21": {
    "kind": "measure",
    "value": 400000,
    "unit": "jahren",
@@ -245,7 +237,7 @@
    "sentence": "Vor geschätzten 400.000 Jahren hat der Vulkan das Seamount-Stadium überwunden und Laven bzw. Tephra gefördert, wobei aber die ältesten tatsächlich bisher eindeutig datierbaren Gesteine ein Alter von ca. 200.000 Jahren aufweisen.",
    "section": "Eruptionsgeschichte"
   },
-  "f23": {
+  "f22": {
    "kind": "measure",
    "value": 200000,
    "unit": "jahren",
@@ -253,21 +245,21 @@
    "sentence": "Vor geschätzten 400.000 Jahren hat der Vulkan das Seamount-Stadium überwunden und Laven bzw. Tephra gefördert, wobei aber die ältesten tatsächlich bisher eindeutig datierbaren Gesteine ein Alter von ca. 200.000 Jahren aufweisen.",
    "section": "Eruptionsgeschichte"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "Als Archibald Menzies als erster Europäer 1794 den Berggipfel erreichte, gab es wohl keine Aktivität.",
    "section": "Eruptionsgeschichte"
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "Aus dem Jahre 1832 verfügt man über den Bericht eines Missionars über einen Ausbruch des Mauna Loa, allerdings befand sich der Berichterstatter auf der Nachbarinsel Maui, ca. 190 km entfernt.",
    "section": "Eruptionsgeschichte"
   },
-  "f26": {
+  "f25": {
    "kind": "measure",
    "value": 190,
    "unit": "km",
@@ -275,70 +267,70 @@
    "sentence": "Aus dem Jahre 1832 verfügt man über den Bericht eines Missionars über einen Ausbruch des Mauna Loa, allerdings befand sich der Berichterstatter auf der Nachbarinsel Maui, ca. 190 km entfernt.",
    "section": "Eruptionsgeschichte"
   },
-  "f27": {
+  "f26": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "Seither sind mindestens 34 Eruptionen des Mauna Loa dokumentiert, davon 17 Ausbrüche im 19. Jahrhundert und 15 im 20. Jahrhundert, der jüngste im Jahr 2022.",
    "section": "Eruptionsgeschichte"
   },
-  "f28": {
+  "f27": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Seither sind mindestens 34 Eruptionen des Mauna Loa dokumentiert, davon 17 Ausbrüche im 19. Jahrhundert und 15 im 20. Jahrhundert, der jüngste im Jahr 2022.",
    "section": "Eruptionsgeschichte"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Seither sind mindestens 34 Eruptionen des Mauna Loa dokumentiert, davon 17 Ausbrüche im 19. Jahrhundert und 15 im 20. Jahrhundert, der jüngste im Jahr 2022.",
    "section": "Eruptionsgeschichte"
   },
-  "f30": {
+  "f29": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Seither sind mindestens 34 Eruptionen des Mauna Loa dokumentiert, davon 17 Ausbrüche im 19. Jahrhundert und 15 im 20. Jahrhundert, der jüngste im Jahr 2022.",
    "section": "Eruptionsgeschichte"
   },
-  "f31": {
+  "f30": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Seither sind mindestens 34 Eruptionen des Mauna Loa dokumentiert, davon 17 Ausbrüche im 19. Jahrhundert und 15 im 20. Jahrhundert, der jüngste im Jahr 2022.",
    "section": "Eruptionsgeschichte"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Seither sind mindestens 34 Eruptionen des Mauna Loa dokumentiert, davon 17 Ausbrüche im 19. Jahrhundert und 15 im 20. Jahrhundert, der jüngste im Jahr 2022.",
    "section": "Eruptionsgeschichte"
   },
-  "f33": {
+  "f32": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Ein Ausbruch im 19. Jahrhundert dauerte ein ganzes Jahr, von August 1871 bis August 1872.",
    "section": "Eruptionsgeschichte"
   },
-  "f34": {
+  "f33": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "Ein Ausbruch im 19. Jahrhundert dauerte ein ganzes Jahr, von August 1871 bis August 1872.",
    "section": "Eruptionsgeschichte"
   },
-  "f35": {
+  "f34": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "Ein Ausbruch im 19. Jahrhundert dauerte ein ganzes Jahr, von August 1871 bis August 1872.",
    "section": "Eruptionsgeschichte"
   },
-  "f36": {
+  "f35": {
    "kind": "measure",
    "value": 4.1,
    "unit": "km",
@@ -346,42 +338,42 @@
    "sentence": "Dabei wurden insgesamt 4,1 km³ Laven gefördert.",
    "section": "Eruptionsgeschichte"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
    "sentence": "In der Vossischen Zeitung wurde im Frühjahr 1887 über einen weiteren Vulkanausbruch berichtet.",
    "section": "Eruptionsgeschichte"
   },
-  "f38": {
+  "f37": {
    "kind": "date",
    "value": "1907",
    "surface": "1907",
    "sentence": "Nach Ausbrüchen in den Jahren 1907, 1919 und 1926 kam es 1950 zum spektakulärsten Ausbruch des Vulkans Mauna Loa in historischer Zeit.",
    "section": "Eruptionsgeschichte"
   },
-  "f39": {
+  "f38": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
    "sentence": "Nach Ausbrüchen in den Jahren 1907, 1919 und 1926 kam es 1950 zum spektakulärsten Ausbruch des Vulkans Mauna Loa in historischer Zeit.",
    "section": "Eruptionsgeschichte"
   },
-  "f40": {
+  "f39": {
    "kind": "date",
    "value": "1926",
    "surface": "1926",
    "sentence": "Nach Ausbrüchen in den Jahren 1907, 1919 und 1926 kam es 1950 zum spektakulärsten Ausbruch des Vulkans Mauna Loa in historischer Zeit.",
    "section": "Eruptionsgeschichte"
   },
-  "f41": {
+  "f40": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "Nach Ausbrüchen in den Jahren 1907, 1919 und 1926 kam es 1950 zum spektakulärsten Ausbruch des Vulkans Mauna Loa in historischer Zeit.",
    "section": "Eruptionsgeschichte"
   },
-  "f42": {
+  "f41": {
    "kind": "measure",
    "value": 20,
    "unit": "km",
@@ -389,14 +381,14 @@
    "sentence": "Der Ausbruch konzentrierte sich auf die Südwestflanke des Berges, wobei sich eine 20 km lange Eruptionsspalte über die Riftzone zog.",
    "section": "Eruptionsgeschichte"
   },
-  "f43": {
+  "f42": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Dabei folgten die Ausbrüche dem am Mauna Loa festgestellten Rhythmus, wobei eine Gipfeleruption meist nach etwa 1–2 Jahren einen Flankenausbruch nach sich zieht.",
    "section": "Eruptionsgeschichte"
   },
-  "f44": {
+  "f43": {
    "kind": "measure",
    "value": 2,
    "unit": "jahren",
@@ -404,7 +396,7 @@
    "sentence": "Dabei folgten die Ausbrüche dem am Mauna Loa festgestellten Rhythmus, wobei eine Gipfeleruption meist nach etwa 1–2 Jahren einen Flankenausbruch nach sich zieht.",
    "section": "Eruptionsgeschichte"
   },
-  "f45": {
+  "f44": {
    "kind": "measure",
    "value": 3200,
    "unit": "m",
@@ -412,7 +404,7 @@
    "sentence": "Obwohl die Eruptionsstellen in einer Höhe von ca. 3200 m über dem Pazifik lagen, erreichten die Laven diesen in weniger als vier Stunden.",
    "section": "Eruptionsgeschichte"
   },
-  "f46": {
+  "f45": {
    "kind": "measure",
    "value": 48,
    "unit": "km/h",
@@ -420,35 +412,35 @@
    "sentence": "Die ʻAʻā-Laven eines Lavastroms strömten mit einer Geschwindigkeit von bis zu 48 km/h zu Tal.",
    "section": "Eruptionsgeschichte"
   },
-  "f47": {
+  "f46": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Während der 23 Tage lang anhaltenden Ausbrüche hatte der Vulkan schließlich 376 Mio. m³ an Laven produziert, wobei es sich um den Ausbruch mit der größten bisher bekannten Abflussrate auf Hawaii handelt.",
    "section": "Eruptionsgeschichte"
   },
-  "f48": {
+  "f47": {
    "kind": "number",
    "value": 376000000,
    "surface": "376 Mio",
    "sentence": "Während der 23 Tage lang anhaltenden Ausbrüche hatte der Vulkan schließlich 376 Mio. m³ an Laven produziert, wobei es sich um den Ausbruch mit der größten bisher bekannten Abflussrate auf Hawaii handelt.",
    "section": "Eruptionsgeschichte"
   },
-  "f49": {
+  "f48": {
    "kind": "date",
    "value": "1975",
    "surface": "1975",
    "sentence": "Seit der Ausbruchsserie von 1975 hatte man im Vulkan Mauna Loa zunehmende Aufwölbung festgestellt.",
    "section": "Eruptionsgeschichte"
   },
-  "f50": {
+  "f49": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "Hierzu gesellten sich im Frühjahr 1984 Erdbebenschwärme, wovon die tiefst gelegenen Erdbeben bei 13 km geortet wurden und die heftigsten eine Stärke von 6,6 erreichten.",
    "section": "Eruptionsgeschichte"
   },
-  "f51": {
+  "f50": {
    "kind": "measure",
    "value": 13,
    "unit": "km",
@@ -456,28 +448,28 @@
    "sentence": "Hierzu gesellten sich im Frühjahr 1984 Erdbebenschwärme, wovon die tiefst gelegenen Erdbeben bei 13 km geortet wurden und die heftigsten eine Stärke von 6,6 erreichten.",
    "section": "Eruptionsgeschichte"
   },
-  "f52": {
+  "f51": {
    "kind": "number",
    "value": 6.6,
    "surface": "6,6",
    "sentence": "Hierzu gesellten sich im Frühjahr 1984 Erdbebenschwärme, wovon die tiefst gelegenen Erdbeben bei 13 km geortet wurden und die heftigsten eine Stärke von 6,6 erreichten.",
    "section": "Eruptionsgeschichte"
   },
-  "f53": {
+  "f52": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Kurz vor dem Beginn der Ausbrüche am 24. März 1984 steigerte sich die Zahl der Mikrobeben und Vulkanischer Tremor setzte ein, so dass man auf dem 42 km entfernten Mauna Kea die empfindlichen Teleskope nicht mehr ruhig halten konnte.",
    "section": "Eruptionsgeschichte"
   },
-  "f54": {
+  "f53": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "Kurz vor dem Beginn der Ausbrüche am 24. März 1984 steigerte sich die Zahl der Mikrobeben und Vulkanischer Tremor setzte ein, so dass man auf dem 42 km entfernten Mauna Kea die empfindlichen Teleskope nicht mehr ruhig halten konnte.",
    "section": "Eruptionsgeschichte"
   },
-  "f55": {
+  "f54": {
    "kind": "measure",
    "value": 42,
    "unit": "km",
@@ -485,28 +477,28 @@
    "sentence": "Kurz vor dem Beginn der Ausbrüche am 24. März 1984 steigerte sich die Zahl der Mikrobeben und Vulkanischer Tremor setzte ein, so dass man auf dem 42 km entfernten Mauna Kea die empfindlichen Teleskope nicht mehr ruhig halten konnte.",
    "section": "Eruptionsgeschichte"
   },
-  "f56": {
+  "f55": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Am 25. März setzten die eigentlichen Ausbrüche zunächst mit Lavafontänen im Südwesten der Gipfelcaldera ein.",
    "section": "Eruptionsgeschichte"
   },
-  "f57": {
+  "f56": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Schon nach 2–3 Stunden war ein Großteil der Caldera mit Lava bedeckt.",
    "section": "Eruptionsgeschichte"
   },
-  "f58": {
+  "f57": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Schon nach 2–3 Stunden war ein Großteil der Caldera mit Lava bedeckt.",
    "section": "Eruptionsgeschichte"
   },
-  "f59": {
+  "f58": {
    "kind": "measure",
    "value": 650,
    "unit": "m",
@@ -514,42 +506,42 @@
    "sentence": "Am Spätnachmittag verlagerte sich die Aktivität auf die nordöstliche Riftzone ca. 650 m unterhalb des Gipfels.",
    "section": "Eruptionsgeschichte"
   },
-  "f60": {
+  "f59": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Am 15. April war die Ausbruchsserie beendet.",
    "section": "Eruptionsgeschichte"
   },
-  "f61": {
+  "f60": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Seit Anfang Juli 2004 wurde in der Tiefe des Mauna Loa eine steigende Anzahl vulkanischer Tremoren registriert.",
    "section": "Eruptionsgeschichte"
   },
-  "f62": {
+  "f61": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Alleine in der ersten Septemberwoche des Jahres 2004 waren es mehr als 350 Erdbeben in 35 bis 50 km Tiefe.",
    "section": "Eruptionsgeschichte"
   },
-  "f63": {
+  "f62": {
    "kind": "number",
    "value": 350,
    "surface": "350",
    "sentence": "Alleine in der ersten Septemberwoche des Jahres 2004 waren es mehr als 350 Erdbeben in 35 bis 50 km Tiefe.",
    "section": "Eruptionsgeschichte"
   },
-  "f64": {
+  "f63": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Alleine in der ersten Septemberwoche des Jahres 2004 waren es mehr als 350 Erdbeben in 35 bis 50 km Tiefe.",
    "section": "Eruptionsgeschichte"
   },
-  "f65": {
+  "f64": {
    "kind": "measure",
    "value": 50,
    "unit": "km",
@@ -557,168 +549,133 @@
    "sentence": "Alleine in der ersten Septemberwoche des Jahres 2004 waren es mehr als 350 Erdbeben in 35 bis 50 km Tiefe.",
    "section": "Eruptionsgeschichte"
   },
-  "f66": {
+  "f65": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",
    "sentence": "Dies war seit dem Beginn der Aufzeichnungen im Jahre 1960 noch nicht vorgekommen.",
    "section": "Eruptionsgeschichte"
   },
-  "f67": {
+  "f66": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Die Veröffentlichung einer geophysikalischen Studie führte im Mai 2007 zu einem starken Medienecho.",
    "section": "Eruptionsgeschichte"
   },
-  "f68": {
+  "f67": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Das Hawaiian Volcano Observatory stellte in einem Bericht am 21. Mai fest, dass es keine signifikanten Veränderungen gäbe.",
    "section": "Eruptionsgeschichte"
   },
-  "f69": {
+  "f68": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "So stellte man unmittelbar nach der Ausbruchsserie von 1984 eine beginnende Auswölbung fest, die sich aber dann für etliche Jahre ins Gegenteil kehrte.",
    "section": "Eruptionsgeschichte"
   },
-  "f70": {
+  "f69": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
    "sentence": "Erst ab 2002 begann der Vulkan sich neuerlich aufzuwölben, was aber bis 2009 wieder abgebremst wurde.",
    "section": "Eruptionsgeschichte"
   },
-  "f71": {
+  "f70": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Erst ab 2002 begann der Vulkan sich neuerlich aufzuwölben, was aber bis 2009 wieder abgebremst wurde.",
    "section": "Eruptionsgeschichte"
   },
-  "f72": {
+  "f71": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Seit 2010 ist nur eine sehr langsame Aufwölbung zu verzeichnen.",
    "section": "Eruptionsgeschichte"
   },
-  "f73": {
+  "f72": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Im Herbst 2012 erwies sich der Vulkan als ruhig, es wurde keine signifikante Aufwölbung festgestellt und nur wenige oberflächennahe Erdbeben, auch keine auffallenden Gasemissionen.",
    "section": "Eruptionsgeschichte"
   },
-  "f74": {
+  "f73": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 (Ortszeit Hawaii) begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
+   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
    "section": "Eruptionsgeschichte"
   },
-  "f75": {
+  "f74": {
    "kind": "number",
    "value": 28,
    "surface": "28",
-   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 (Ortszeit Hawaii) begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
+   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
    "section": "Eruptionsgeschichte"
   },
-  "f76": {
+  "f75": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 (Ortszeit Hawaii) begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
+   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
+   "section": "Eruptionsgeschichte"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 4.2,
+   "surface": "4,2",
+   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
    "section": "Eruptionsgeschichte"
   },
   "f77": {
    "kind": "number",
-   "value": 4.2,
-   "surface": "4,2",
-   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 (Ortszeit Hawaii) begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
+   "value": 4,
+   "surface": "4,0",
+   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
    "section": "Eruptionsgeschichte"
   },
   "f78": {
    "kind": "number",
-   "value": 4,
-   "surface": "4,0",
-   "sentence": "Kurz vor Mitternacht vom 27. auf den 28. November 2022 (Ortszeit Hawaii) begann eine starke Phase mit Erdbeben, darunter zwei sehr flache Erdbeben direkt am Mauna Loa der Stärke 4,2 und 4,0.",
+   "value": 9,
+   "surface": "09",
+   "sentence": "Um 09:45:38 UTC setzten die Behörden die Warnstufe des Vulkans auf Rot.",
    "section": "Eruptionsgeschichte"
   },
   "f79": {
    "kind": "number",
-   "value": 9,
-   "surface": "09",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
+   "value": 45,
+   "surface": "45",
+   "sentence": "Um 09:45:38 UTC setzten die Behörden die Warnstufe des Vulkans auf Rot.",
    "section": "Eruptionsgeschichte"
   },
   "f80": {
    "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
+   "value": 38,
+   "surface": "38",
+   "sentence": "Um 09:45:38 UTC setzten die Behörden die Warnstufe des Vulkans auf Rot.",
    "section": "Eruptionsgeschichte"
   },
   "f81": {
-   "kind": "number",
-   "value": 38,
-   "surface": "38",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
-   "section": "Eruptionsgeschichte"
-  },
-  "f82": {
-   "kind": "number",
-   "value": 23,
-   "surface": "23",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
-   "section": "Eruptionsgeschichte"
-  },
-  "f83": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
-   "section": "Eruptionsgeschichte"
-  },
-  "f84": {
-   "kind": "number",
-   "value": 38,
-   "surface": "38",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
-   "section": "Eruptionsgeschichte"
-  },
-  "f85": {
-   "kind": "number",
-   "value": 27,
-   "surface": "27",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
-   "section": "Eruptionsgeschichte"
-  },
-  "f86": {
-   "kind": "date",
-   "value": "2022",
-   "surface": "2022",
-   "sentence": "Um 09:45:38 UTC (23:45:38 Ortszeit Hawaii, 27. November 2022) setzten die Behörden die Warnstufe des Vulkans auf Rot.",
-   "section": "Eruptionsgeschichte"
-  },
-  "f87": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "Am 29. November wurde die Straße zum NOAA Observatory durch einen Lavafluss abgeschnitten.",
    "section": "Eruptionsgeschichte"
   },
-  "f88": {
+  "f82": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Am 7. Dezember näherte sich die Spitze des Hauptstromes bis auf 2,9 Kilometer dem Daniel K. Inouye Highway, der den westlichen Teil mit dem östlichen Teil der Insel verbindet.",
    "section": "Eruptionsgeschichte"
   },
-  "f89": {
+  "f83": {
    "kind": "measure",
    "value": 2.9,
    "unit": "kilometer",
@@ -726,37 +683,29 @@
    "sentence": "Am 7. Dezember näherte sich die Spitze des Hauptstromes bis auf 2,9 Kilometer dem Daniel K. Inouye Highway, der den westlichen Teil mit dem östlichen Teil der Insel verbindet.",
    "section": "Eruptionsgeschichte"
   },
-  "f90": {
+  "f84": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Das Hawaiian Volcano Observatory erklärte am 13. Dezember, dass der Mauna Loa nicht mehr aktiv sei.",
    "section": "Eruptionsgeschichte"
   },
-  "f91": {
+  "f85": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Im Jahre 1997 wurden am Mauna Loa Untersuchungen an sechs verschiedenen Orten zum Wachstum von Eisenhölzern durchgeführt, einem blühenden Strauch, der dem Rhododendron ähnelt und für den Pazifikraum typisch ist.",
    "section": "Untersuchungen zur Vegetation am Vulkan Mauna Loa"
   },
-  "f92": {
-   "kind": "measure",
-   "value": 700,
-   "unit": "m",
-   "surface": "700 m",
-   "sentence": "Wie zu erwarten, stellte sich heraus, dass die in unteren Lagen angesiedelten Pflanzen (auf ca. 700 m) besser gediehen als die in ca. 1600 m Höhe.",
-   "section": "Untersuchungen zur Vegetation am Vulkan Mauna Loa"
-  },
-  "f93": {
+  "f86": {
    "kind": "measure",
    "value": 1600,
    "unit": "m",
    "surface": "1600 m",
-   "sentence": "Wie zu erwarten, stellte sich heraus, dass die in unteren Lagen angesiedelten Pflanzen (auf ca. 700 m) besser gediehen als die in ca. 1600 m Höhe.",
+   "sentence": "Wie zu erwarten, stellte sich heraus, dass die in unteren Lagen angesiedelten Pflanzen besser gediehen als die in ca. 1600 m Höhe.",
    "section": "Untersuchungen zur Vegetation am Vulkan Mauna Loa"
   },
-  "f94": {
+  "f87": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",

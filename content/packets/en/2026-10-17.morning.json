@@ -58,259 +58,152 @@
    "value": 7088,
    "unit": "kilometers",
    "surface": "7,088 kilometers",
-   "sentence": "At 7,088 kilometers (4,404 mi) long, it is the longest river in the world, although the volume of water it carries is much smaller than other major rivers such as the Amazon or the Congo."
+   "sentence": "At 7,088 kilometers long, it is the longest river in the world, although the volume of water it carries is much smaller than other major rivers such as the Amazon or the Congo."
   },
   "f2": {
-   "kind": "measure",
-   "value": 4404,
-   "unit": "mi",
-   "surface": "4,404 mi",
-   "sentence": "At 7,088 kilometers (4,404 mi) long, it is the longest river in the world, although the volume of water it carries is much smaller than other major rivers such as the Amazon or the Congo."
-  },
-  "f3": {
    "kind": "measure",
    "value": 15000,
    "unit": "years",
    "surface": "15,000 years",
    "sentence": "Geologically, the Nile is a young river, having followed its present course for about 15,000 years."
   },
-  "f4": {
+  "f3": {
    "kind": "measure",
    "value": 2927843,
    "unit": "km2",
    "surface": "2,927,843 km2",
-   "sentence": "The Nile Basin is all land that drains into the Nile, and it covers 2,927,843 km2 – about 10% of the African continent (see adjacent map).",
+   "sentence": "The Nile Basin is all land that drains into the Nile, and it covers 2,927,843 km2 – about 10% of the African continent.",
    "section": "Geography"
   },
-  "f5": {
+  "f4": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
    "surface": "10%",
-   "sentence": "The Nile Basin is all land that drains into the Nile, and it covers 2,927,843 km2 – about 10% of the African continent (see adjacent map).",
+   "sentence": "The Nile Basin is all land that drains into the Nile, and it covers 2,927,843 km2 – about 10% of the African continent.",
    "section": "Geography"
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 40,
    "unit": "meters",
    "surface": "40 meters",
-   "sentence": "Although it is a large lake – the second-largest freshwater lake in the world – Lake Victoria is relatively shallow, with an average depth of 40 meters (130 ft).",
+   "sentence": "Although it is a large lake – the second-largest freshwater lake in the world – Lake Victoria is relatively shallow, with an average depth of 40 meters.",
    "section": "Geography"
   },
-  "f7": {
-   "kind": "measure",
-   "value": 130,
-   "unit": "ft",
-   "surface": "130 ft",
-   "sentence": "Although it is a large lake – the second-largest freshwater lake in the world – Lake Victoria is relatively shallow, with an average depth of 40 meters (130 ft).",
-   "section": "Geography"
-  },
-  "f8": {
+  "f6": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "The incline of the ground in the Sudd is only 1:13,000 rise over run, so the river slows down and widens.",
    "section": "Geography"
   },
-  "f9": {
+  "f7": {
    "kind": "number",
    "value": 13000,
    "surface": "13,000",
    "sentence": "The incline of the ground in the Sudd is only 1:13,000 rise over run, so the river slows down and widens.",
    "section": "Geography"
   },
-  "f10": {
+  "f8": {
    "kind": "number",
    "value": 860000,
    "surface": "860,000",
    "sentence": "A major tributary in the Mountain Nile region is Bahr el Ghazal which arrives from west Sudan and joins the White Nile at Lake No. The drainage basin of the Bahr el Ghazal River is large – about 860,000 square km – and receives a relatively large amount of rain, but its contribution to the Nile is small compared to other tributaries.",
    "section": "Geography"
   },
-  "f11": {
+  "f9": {
    "kind": "measure",
    "value": 800,
    "unit": "kilometers",
    "surface": "800 kilometers",
-   "sentence": "Continuing downstream, the third region of the Nile Basin is the White Nile region which includes an 800 kilometers (500 mi) stretch of river from near Malakal to Khartoum, the capital of Sudan.",
+   "sentence": "Continuing downstream, the third region of the Nile Basin is the White Nile region which includes an 800 kilometers stretch of river from near Malakal to Khartoum, the capital of Sudan.",
    "section": "Geography"
   },
-  "f12": {
-   "kind": "measure",
-   "value": 500,
-   "unit": "mi",
-   "surface": "500 mi",
-   "sentence": "Continuing downstream, the third region of the Nile Basin is the White Nile region which includes an 800 kilometers (500 mi) stretch of river from near Malakal to Khartoum, the capital of Sudan.",
-   "section": "Geography"
-  },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 225000,
    "surface": "225,000",
    "sentence": "Its basin – which includes the Machar Marshes – covers about 225,000 square km.",
    "section": "Geography"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 500,
    "unit": "meters",
    "surface": "500 meters",
-   "sentence": "This stretch has a relatively uniform width and depth: about 500 meters (1,600 ft) wide and 10 meters (33 ft) deep at its deepest point (when not in flood).",
+   "sentence": "This stretch has a relatively uniform width and depth: about 500 meters wide and 10 meters deep at its deepest point.",
    "section": "Geography"
   },
-  "f15": {
-   "kind": "measure",
-   "value": 1600,
-   "unit": "ft",
-   "surface": "1,600 ft",
-   "sentence": "This stretch has a relatively uniform width and depth: about 500 meters (1,600 ft) wide and 10 meters (33 ft) deep at its deepest point (when not in flood).",
-   "section": "Geography"
-  },
-  "f16": {
+  "f12": {
    "kind": "measure",
    "value": 10,
    "unit": "meters",
    "surface": "10 meters",
-   "sentence": "This stretch has a relatively uniform width and depth: about 500 meters (1,600 ft) wide and 10 meters (33 ft) deep at its deepest point (when not in flood).",
+   "sentence": "This stretch has a relatively uniform width and depth: about 500 meters wide and 10 meters deep at its deepest point.",
    "section": "Geography"
   },
-  "f17": {
-   "kind": "measure",
-   "value": 33,
-   "unit": "ft",
-   "surface": "33 ft",
-   "sentence": "This stretch has a relatively uniform width and depth: about 500 meters (1,600 ft) wide and 10 meters (33 ft) deep at its deepest point (when not in flood).",
-   "section": "Geography"
-  },
-  "f18": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Four more cataracts (numbered 5, 4, 3, and 2) are encountered in this large S-curve, which render the river unnavigable; although ships may travel in certain calm stretches between the cataracts.",
-   "section": "Geography"
-  },
-  "f19": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Four more cataracts (numbered 5, 4, 3, and 2) are encountered in this large S-curve, which render the river unnavigable; although ships may travel in certain calm stretches between the cataracts.",
-   "section": "Geography"
-  },
-  "f20": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Four more cataracts (numbered 5, 4, 3, and 2) are encountered in this large S-curve, which render the river unnavigable; although ships may travel in certain calm stretches between the cataracts.",
-   "section": "Geography"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Four more cataracts (numbered 5, 4, 3, and 2) are encountered in this large S-curve, which render the river unnavigable; although ships may travel in certain calm stretches between the cataracts.",
-   "section": "Geography"
-  },
-  "f22": {
+  "f13": {
    "kind": "measure",
    "value": 480,
    "unit": "kilometers",
    "surface": "480 kilometers",
-   "sentence": "This lake – the world's second-largest human-made lake – was formed when the Aswan High Dam was built in Egypt, and inundates more than 480 kilometers (300 mi) of the Nile.",
+   "sentence": "This lake – the world's second-largest human-made lake – was formed when the Aswan High Dam was built in Egypt, and inundates more than 480 kilometers of the Nile.",
    "section": "Geography"
   },
-  "f23": {
-   "kind": "measure",
-   "value": 300,
-   "unit": "mi",
-   "surface": "300 mi",
-   "sentence": "This lake – the world's second-largest human-made lake – was formed when the Aswan High Dam was built in Egypt, and inundates more than 480 kilometers (300 mi) of the Nile.",
-   "section": "Geography"
-  },
-  "f24": {
+  "f14": {
    "kind": "measure",
    "value": 800,
    "unit": "kilometers",
    "surface": "800 kilometers",
-   "sentence": "From these dams, the Nile flows about 800 kilometers (500 mi) through a limestone plateau, bordered by large amounts of irrigated farmland, until it reaches Cairo.",
+   "sentence": "From these dams, the Nile flows about 800 kilometers through a limestone plateau, bordered by large amounts of irrigated farmland, until it reaches Cairo.",
    "section": "Geography"
   },
-  "f25": {
-   "kind": "measure",
-   "value": 500,
-   "unit": "mi",
-   "surface": "500 mi",
-   "sentence": "From these dams, the Nile flows about 800 kilometers (500 mi) through a limestone plateau, bordered by large amounts of irrigated farmland, until it reaches Cairo.",
-   "section": "Geography"
-  },
-  "f26": {
-   "kind": "measure",
-   "value": 22000,
-   "unit": "km2",
-   "surface": "22,000 km2",
-   "sentence": "The fifth, and final, region encompassing the Nile River is the Nile Delta, a large triangular river delta (about 22,000 km2) that extends from Cairo to the Mediterranean Sea.",
-   "section": "Geography"
-  },
-  "f27": {
+  "f15": {
    "kind": "number",
    "value": 150000,
    "surface": "150,000",
-   "sentence": "The total volume of the delta (including the submerged portions) is about 150,000 km3.",
+   "sentence": "The total volume of the delta is about 150,000 km3.",
    "section": "Geography"
   },
-  "f28": {
+  "f16": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Since the Aswan High Dam was completed in 1970, the delta has begun to shrink because of erosion from currents in the Mediterranean Sea.",
    "section": "Geography"
   },
-  "f29": {
+  "f17": {
    "kind": "measure",
    "value": 2,
    "unit": "kilometers",
    "surface": "2 kilometers",
-   "sentence": "The river then makes a wide loop: first south, then west through a spectacular gorge 2 kilometers (6,600 ft) deep, then north passing through South Sudan into Sudan, where it joins with the White Nile at Khartoum to form the main Nile.",
+   "sentence": "The river then makes a wide loop: first south, then west through a spectacular gorge 2 kilometers deep, then north passing through South Sudan into Sudan, where it joins with the White Nile at Khartoum to form the main Nile.",
    "section": "Geography"
   },
-  "f30": {
-   "kind": "measure",
-   "value": 6600,
-   "unit": "ft",
-   "surface": "6,600 ft",
-   "sentence": "The river then makes a wide loop: first south, then west through a spectacular gorge 2 kilometers (6,600 ft) deep, then north passing through South Sudan into Sudan, where it joins with the White Nile at Khartoum to form the main Nile.",
-   "section": "Geography"
-  },
-  "f31": {
+  "f18": {
    "kind": "number",
    "value": 306000,
    "surface": "306,000",
    "sentence": "The size of the Blue Nile's drainage basin is over 306,000 square km.",
    "section": "Geography"
   },
-  "f32": {
+  "f19": {
    "kind": "measure",
    "value": 320,
    "unit": "kilometers",
    "surface": "320 kilometers",
-   "sentence": "The Atbarah River is a tributary of the Nile which arises in northern Ethiopia, and joins the Nile about 320 kilometers (200 mi) north of Khartoum.",
+   "sentence": "The Atbarah River is a tributary of the Nile which arises in northern Ethiopia, and joins the Nile about 320 kilometers north of Khartoum.",
    "section": "Geography"
   },
-  "f33": {
-   "kind": "measure",
-   "value": 200,
-   "unit": "mi",
-   "surface": "200 mi",
-   "sentence": "The Atbarah River is a tributary of the Nile which arises in northern Ethiopia, and joins the Nile about 320 kilometers (200 mi) north of Khartoum.",
-   "section": "Geography"
-  },
-  "f34": {
+  "f20": {
    "kind": "number",
    "value": 204000,
    "surface": "204,000",
    "sentence": "Its drainage basin covers over 204,000 square km.",
    "section": "Geography"
   },
-  "f35": {
+  "f21": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -318,14 +211,14 @@
    "sentence": "Despite the intermittent nature of the river, it provides more than 10% of the total annual flow of the Nile.",
    "section": "Geography"
   },
-  "f36": {
+  "f22": {
    "kind": "number",
    "value": 87,
    "surface": "87",
    "sentence": "Its flow – about 87 km3 per year – is small compared to other major rivers.",
    "section": "Hydrology"
   },
-  "f37": {
+  "f23": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -333,7 +226,7 @@
    "sentence": "The Nile's discharge is only about 1% of the Amazon, 6% of the Congo, and 12% of the Yangtze.",
    "section": "Hydrology"
   },
-  "f38": {
+  "f24": {
    "kind": "measure",
    "value": 6,
    "unit": "%",
@@ -341,7 +234,7 @@
    "sentence": "The Nile's discharge is only about 1% of the Amazon, 6% of the Congo, and 12% of the Yangtze.",
    "section": "Hydrology"
   },
-  "f39": {
+  "f25": {
    "kind": "measure",
    "value": 12,
    "unit": "%",
@@ -349,31 +242,31 @@
    "sentence": "The Nile's discharge is only about 1% of the Amazon, 6% of the Congo, and 12% of the Yangtze.",
    "section": "Hydrology"
   },
-  "f40": {
+  "f26": {
    "kind": "measure",
    "value": 54,
    "unit": "%",
    "surface": "54%",
-   "sentence": "The annual contributions to the main Nile from the three primary tributaries are: 54% from the Blue Nile, 32% from the White Nile (including contributions from the Bahr el Ghazal and Sobat tributaries), and 14% from the Atbarah.",
+   "sentence": "The annual contributions to the main Nile from the three primary tributaries are: 54% from the Blue Nile, 32% from the White Nile, and 14% from the Atbarah.",
    "section": "Hydrology"
   },
-  "f41": {
+  "f27": {
    "kind": "measure",
    "value": 32,
    "unit": "%",
    "surface": "32%",
-   "sentence": "The annual contributions to the main Nile from the three primary tributaries are: 54% from the Blue Nile, 32% from the White Nile (including contributions from the Bahr el Ghazal and Sobat tributaries), and 14% from the Atbarah.",
+   "sentence": "The annual contributions to the main Nile from the three primary tributaries are: 54% from the Blue Nile, 32% from the White Nile, and 14% from the Atbarah.",
    "section": "Hydrology"
   },
-  "f42": {
+  "f28": {
    "kind": "measure",
    "value": 14,
    "unit": "%",
    "surface": "14%",
-   "sentence": "The annual contributions to the main Nile from the three primary tributaries are: 54% from the Blue Nile, 32% from the White Nile (including contributions from the Bahr el Ghazal and Sobat tributaries), and 14% from the Atbarah.",
+   "sentence": "The annual contributions to the main Nile from the three primary tributaries are: 54% from the Blue Nile, 32% from the White Nile, and 14% from the Atbarah.",
    "section": "Hydrology"
   },
-  "f43": {
+  "f29": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -381,7 +274,7 @@
    "sentence": "During the summer floods, the contributions to the main Nile are about 70% from the Blue Nile, about 20% from the Atbarah, and about 10% from the White Nile.",
    "section": "Hydrology"
   },
-  "f44": {
+  "f30": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
@@ -389,7 +282,7 @@
    "sentence": "During the summer floods, the contributions to the main Nile are about 70% from the Blue Nile, about 20% from the Atbarah, and about 10% from the White Nile.",
    "section": "Hydrology"
   },
-  "f45": {
+  "f31": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -397,174 +290,152 @@
    "sentence": "During the summer floods, the contributions to the main Nile are about 70% from the Blue Nile, about 20% from the Atbarah, and about 10% from the White Nile.",
    "section": "Hydrology"
   },
-  "f46": {
+  "f32": {
    "kind": "number",
    "value": 0.71,
    "surface": "0.71",
    "sentence": "At the peak of the flood, the daily flow into Lake Nasser is about 0.71 km3, about three times the annual daily average of 0.23 km3 per day.",
    "section": "Hydrology"
   },
-  "f47": {
+  "f33": {
    "kind": "number",
    "value": 0.23,
    "surface": "0.23",
    "sentence": "At the peak of the flood, the daily flow into Lake Nasser is about 0.71 km3, about three times the annual daily average of 0.23 km3 per day.",
    "section": "Hydrology"
   },
-  "f48": {
+  "f34": {
    "kind": "measure",
    "value": 30000000,
    "unit": "years",
    "surface": "30 million years",
-   "sentence": "The cumulative amount of rock eroded in the past 30 million years from the Ethiopia headwaters of the Nile is about 102,000 km3, which is roughly comparable to the volume of the soil in the Nile Delta (including the underwater portion) which is about 150,000 km3.",
+   "sentence": "The cumulative amount of rock eroded in the past 30 million years from the Ethiopia headwaters of the Nile is about 102,000 km3, which is roughly comparable to the volume of the soil in the Nile Delta which is about 150,000 km3.",
    "section": "Hydrology"
   },
-  "f49": {
+  "f35": {
    "kind": "number",
    "value": 102000,
    "surface": "102,000",
-   "sentence": "The cumulative amount of rock eroded in the past 30 million years from the Ethiopia headwaters of the Nile is about 102,000 km3, which is roughly comparable to the volume of the soil in the Nile Delta (including the underwater portion) which is about 150,000 km3.",
+   "sentence": "The cumulative amount of rock eroded in the past 30 million years from the Ethiopia headwaters of the Nile is about 102,000 km3, which is roughly comparable to the volume of the soil in the Nile Delta which is about 150,000 km3.",
    "section": "Hydrology"
   },
-  "f50": {
+  "f36": {
    "kind": "number",
    "value": 150000,
    "surface": "150,000",
-   "sentence": "The cumulative amount of rock eroded in the past 30 million years from the Ethiopia headwaters of the Nile is about 102,000 km3, which is roughly comparable to the volume of the soil in the Nile Delta (including the underwater portion) which is about 150,000 km3.",
+   "sentence": "The cumulative amount of rock eroded in the past 30 million years from the Ethiopia headwaters of the Nile is about 102,000 km3, which is roughly comparable to the volume of the soil in the Nile Delta which is about 150,000 km3.",
    "section": "Hydrology"
   },
-  "f51": {
+  "f37": {
    "kind": "measure",
    "value": 7600000,
    "unit": "tonnes",
    "surface": "7.6 million tonnes",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f52": {
+  "f38": {
    "kind": "measure",
    "value": 0.7,
    "unit": "%",
    "surface": "0.7%",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f53": {
+  "f39": {
    "kind": "measure",
    "value": 140000000,
    "unit": "tonnes",
    "surface": "140 million tonnes",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f54": {
+  "f40": {
    "kind": "measure",
    "value": 140000,
    "unit": "tonnes",
    "surface": "0.14 million tonnes",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f55": {
+  "f41": {
    "kind": "measure",
    "value": 28,
    "unit": "%",
    "surface": "28%",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f56": {
+  "f42": {
    "kind": "measure",
    "value": 500000,
    "unit": "tonnes",
    "surface": "0.5 million tonnes",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f57": {
+  "f43": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
    "surface": "20%",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f58": {
+  "f44": {
    "kind": "measure",
    "value": 270000,
    "unit": "tonnes",
    "surface": "0.27 million tonnes",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f59": {
+  "f45": {
    "kind": "measure",
    "value": 27,
    "unit": "%",
    "surface": "27%",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f60": {
+  "f46": {
    "kind": "measure",
    "value": 1500000,
    "unit": "tonnes",
    "surface": "1.5 million tonnes",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f61": {
+  "f47": {
    "kind": "measure",
    "value": 13,
    "unit": "%",
    "surface": "13%",
-   "sentence": "Gilgel Abay, Ethiopia : 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim (at the border of Ethiopia and Sudan): 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
+   "sentence": "Gilgel Abay, Ethiopia: 7.6 million tonnes of suspended, and an additional 0.7% of bedload\nEl Deim: 140 million tonnes\nAswan, Egypt: 0.14 million tonnes of suspended, and an additional 28% of bedload\nBeni Sweif, Egypt: 0.5 million tonnes of suspended, and an additional 20% of bedload\nQena, Egypt: 0.27 million tonnes of suspended, and an additional 27% of bedload\nSohag, Egypt: 1.5 million tonnes of suspended, and an additional 13% of bedload\nAs the river moves downstream, it gains volume in some regions and loses volume in other regions.",
    "section": "Hydrology"
   },
-  "f62": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "For example, the Murchison Falls station (2) is downstream of the Lake Victoria outlet station (1), so the basin between them is named the Murchison Falls basin.",
-   "section": "Hydrology"
-  },
-  "f63": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "For example, the Murchison Falls station (2) is downstream of the Lake Victoria outlet station (1), so the basin between them is named the Murchison Falls basin.",
-   "section": "Hydrology"
-  },
-  "f64": {
+  "f48": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "An ideal flood in Egypt – not too high and not too low – was a 6-meter (20 ft) rise over the non-flood water level.",
+   "sentence": "An ideal flood in Egypt – not too high and not too low – was a 6-meter rise over the non-flood water level.",
    "section": "Hydrology"
   },
-  "f65": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "ft",
-   "surface": "20 ft",
-   "sentence": "An ideal flood in Egypt – not too high and not too low – was a 6-meter (20 ft) rise over the non-flood water level.",
-   "section": "Hydrology"
-  },
-  "f66": {
+  "f49": {
    "kind": "date",
    "value": "622",
    "surface": "622",
    "sentence": "An important nilometer has been in use on Roda Island since at least 622 CE; Egyptians kept records of maximum and minimum river levels from that gauge until 1921.",
    "section": "Hydrology"
   },
-  "f67": {
+  "f50": {
    "kind": "date",
    "value": "1921",
    "surface": "1921",
    "sentence": "An important nilometer has been in use on Roda Island since at least 622 CE; Egyptians kept records of maximum and minimum river levels from that gauge until 1921.",
    "section": "Hydrology"
   },
-  "f68": {
+  "f51": {
    "kind": "date",
    "value": "1900",
    "surface": "1900",

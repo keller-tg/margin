@@ -70,86 +70,64 @@
  },
  "facts": {
   "f1": {
-   "kind": "date",
-   "value": "853",
-   "surface": "853",
-   "sentence": "Europarechtlich bezeichnet der Ausdruck Fleisch nach der Verordnung (EG) Nr. 853/2004 alle genießbaren Teile (einschließlich Blut) von Huftieren (Haustiere der Gattungen Rind, Schwein, Schaf und Ziege sowie als Haustiere gehaltene Einhufer), Geflügel, Hasentieren und frei lebendem Wild.",
-   "section": "Definitionen"
-  },
-  "f2": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "In der Regel ist die Starre nach etwa 24 Stunden beendet, der pH-Wert steigt wieder an und das Fleisch wird zart und saftig.",
    "section": "Produktion, Schlachtung und Verarbeitung"
   },
-  "f3": {
+  "f2": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Weltweit wurde 2018 grenzüberschreitend Fleisch im Gesamtwert von rund 108,5 Milliarden Euro gehandelt.",
    "section": "Handel"
   },
-  "f4": {
+  "f3": {
    "kind": "number",
    "value": 108500000000,
    "surface": "108,5 Milliarden",
    "sentence": "Weltweit wurde 2018 grenzüberschreitend Fleisch im Gesamtwert von rund 108,5 Milliarden Euro gehandelt.",
    "section": "Handel"
   },
-  "f5": {
-   "kind": "number",
-   "value": 85,
-   "surface": "85",
-   "sentence": "Das Nahrungsmittel Fleisch besitzt eine hohe Nährstoffdichte aufgrund seines Gehaltes an hochwertigen Proteinen (biologische Wertigkeit: 85–90 %), Mineralstoffen (unter anderem Selen, Zink, Mangan und Eisen in besonders gut resorbierbarer Form) und Vitaminen (vor allem: Thiamin, Riboflavin, Vitamin B6, B12, D, E).",
-   "section": "Konsum"
-  },
-  "f6": {
-   "kind": "measure",
-   "value": 90,
-   "unit": "%",
-   "surface": "90 %",
-   "sentence": "Das Nahrungsmittel Fleisch besitzt eine hohe Nährstoffdichte aufgrund seines Gehaltes an hochwertigen Proteinen (biologische Wertigkeit: 85–90 %), Mineralstoffen (unter anderem Selen, Zink, Mangan und Eisen in besonders gut resorbierbarer Form) und Vitaminen (vor allem: Thiamin, Riboflavin, Vitamin B6, B12, D, E).",
-   "section": "Konsum"
-  },
-  "f7": {
+  "f4": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“ 1–25 % Fett.",
+   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“1–25 % Fett.",
    "section": "Konsum"
   },
-  "f8": {
+  "f5": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
    "surface": "3 %",
-   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“ 1–25 % Fett.",
+   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“1–25 % Fett.",
    "section": "Konsum"
   },
-  "f9": {
+  "f6": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“ 1–25 % Fett.",
+   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“1–25 % Fett.",
    "section": "Konsum"
   },
-  "f10": {
+  "f7": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %",
-   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“ 1–25 % Fett.",
+   "sentence": "Reines Magerfleisch enthält 1–3 % Fett, Fleisch „wie gewachsen“1–25 % Fett.",
    "section": "Konsum"
   },
-  "f11": {
+  "f8": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Das Fett der wichtigsten Fleischarten besteht zu 5–14 % aus mehrfach ungesättigten Fettsäuren.",
    "section": "Konsum"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 14,
    "unit": "%",
@@ -157,22 +135,14 @@
    "sentence": "Das Fett der wichtigsten Fleischarten besteht zu 5–14 % aus mehrfach ungesättigten Fettsäuren.",
    "section": "Konsum"
   },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 45,
    "surface": "45",
    "sentence": "Der Cholesteringehalt von Muskelfleisch beträgt 45–70 mg pro 100 g, Innereien können bis zu 250 mg pro 100 g enthalten.",
    "section": "Konsum"
   },
-  "f14": {
-   "kind": "measure",
-   "value": 70,
-   "unit": "mg",
-   "surface": "70 mg",
-   "sentence": "Der Cholesteringehalt von Muskelfleisch beträgt 45–70 mg pro 100 g, Innereien können bis zu 250 mg pro 100 g enthalten.",
-   "section": "Konsum"
-  },
-  "f15": {
+  "f11": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
@@ -180,7 +150,7 @@
    "sentence": "Der Cholesteringehalt von Muskelfleisch beträgt 45–70 mg pro 100 g, Innereien können bis zu 250 mg pro 100 g enthalten.",
    "section": "Konsum"
   },
-  "f16": {
+  "f12": {
    "kind": "measure",
    "value": 250,
    "unit": "mg",
@@ -188,7 +158,7 @@
    "sentence": "Der Cholesteringehalt von Muskelfleisch beträgt 45–70 mg pro 100 g, Innereien können bis zu 250 mg pro 100 g enthalten.",
    "section": "Konsum"
   },
-  "f17": {
+  "f13": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
@@ -196,22 +166,14 @@
    "sentence": "Der Cholesteringehalt von Muskelfleisch beträgt 45–70 mg pro 100 g, Innereien können bis zu 250 mg pro 100 g enthalten.",
    "section": "Konsum"
   },
-  "f18": {
+  "f14": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Purine kommen im Muskelfleisch mit 150–160 mg pro 100 g, in den Innereien mit bis zu 380 mg pro 100 g vor.",
    "section": "Konsum"
   },
-  "f19": {
-   "kind": "measure",
-   "value": 160,
-   "unit": "mg",
-   "surface": "160 mg",
-   "sentence": "Purine kommen im Muskelfleisch mit 150–160 mg pro 100 g, in den Innereien mit bis zu 380 mg pro 100 g vor.",
-   "section": "Konsum"
-  },
-  "f20": {
+  "f15": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
@@ -219,7 +181,7 @@
    "sentence": "Purine kommen im Muskelfleisch mit 150–160 mg pro 100 g, in den Innereien mit bis zu 380 mg pro 100 g vor.",
    "section": "Konsum"
   },
-  "f21": {
+  "f16": {
    "kind": "measure",
    "value": 380,
    "unit": "mg",
@@ -227,7 +189,7 @@
    "sentence": "Purine kommen im Muskelfleisch mit 150–160 mg pro 100 g, in den Innereien mit bis zu 380 mg pro 100 g vor.",
    "section": "Konsum"
   },
-  "f22": {
+  "f17": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
@@ -235,7 +197,7 @@
    "sentence": "Purine kommen im Muskelfleisch mit 150–160 mg pro 100 g, in den Innereien mit bis zu 380 mg pro 100 g vor.",
    "section": "Konsum"
   },
-  "f23": {
+  "f18": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -243,36 +205,28 @@
    "sentence": "Der Wassergehalt liegt durchschnittlich bei 75 %, wobei fettreiches Fleisch weniger Wasser enthält als fettarmes.",
    "section": "Konsum"
   },
-  "f24": {
+  "f19": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Der durchschnittliche weltweite Pro-Kopf-Verbrauch betrug im Jahr 2009 47,7 kg.",
    "section": "Konsum"
   },
-  "f25": {
-   "kind": "measure",
-   "value": 47.7,
-   "unit": "kg",
-   "surface": "47,7 kg",
-   "sentence": "Der durchschnittliche weltweite Pro-Kopf-Verbrauch betrug im Jahr 2009 47,7 kg.",
-   "section": "Konsum"
-  },
-  "f26": {
+  "f20": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Erst die Ausrottung der Raubtiere aus den Siedlungsgebieten des Menschen zu Beginn des 20. Jahrhunderts ermöglichte wieder einen zunehmenden Konsum von Fleisch von Wild- und Haustieren.",
    "section": "Konsum"
   },
-  "f27": {
+  "f21": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Nach einer Hochrechnung der Welternährungsorganisation FAO lag der Pro-Kopf-Verbrauch 2013 weltweit im Mittel bei 42,5 Kilogramm pro Jahr.",
    "section": "Konsum"
   },
-  "f28": {
+  "f22": {
    "kind": "number",
    "value": 42.5,
    "surface": "42,5",

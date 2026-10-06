@@ -53,33 +53,26 @@
    "kind": "number",
    "value": 1335000000,
    "surface": "1,335,000,000",
-   "sentence": "Earth's 1,335,000,000 cubic kilometers (320,000,000 mi3) of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
+   "sentence": "Earth's 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
    "section": "Physical science"
   },
   "f2": {
-   "kind": "number",
-   "value": 320000000,
-   "surface": "320,000,000",
-   "sentence": "Earth's 1,335,000,000 cubic kilometers (320,000,000 mi3) of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
-   "section": "Physical science"
-  },
-  "f3": {
    "kind": "measure",
    "value": 97.2,
    "unit": "percent",
    "surface": "97.2 percent",
-   "sentence": "Earth's 1,335,000,000 cubic kilometers (320,000,000 mi3) of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
+   "sentence": "Earth's 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
    "section": "Physical science"
   },
-  "f4": {
+  "f3": {
    "kind": "measure",
    "value": 71,
    "unit": "percent",
    "surface": "71 percent",
-   "sentence": "Earth's 1,335,000,000 cubic kilometers (320,000,000 mi3) of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
+   "sentence": "Earth's 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface.",
    "section": "Physical science"
   },
-  "f5": {
+  "f4": {
    "kind": "measure",
    "value": 2.15,
    "unit": "%",
@@ -87,203 +80,127 @@
    "sentence": "Another 2.15% of Earth's water is frozen, found in the sea ice covering the Arctic Ocean, the ice cap covering Antarctica and its adjacent seas, and various glaciers and surface deposits around the world.",
    "section": "Physical science"
   },
-  "f6": {
-   "kind": "measure",
-   "value": 0.65,
-   "unit": "%",
-   "surface": "0.65%",
-   "sentence": "The remainder (about 0.65% of the whole) form underground reservoirs or various stages of the water cycle, containing the freshwater encountered and used by most terrestrial life: vapor in the air, the clouds it slowly forms, the rain falling from them, and the lakes and rivers spontaneously formed as its waters flow again and again to the sea.",
-   "section": "Physical science"
-  },
-  "f7": {
+  "f5": {
    "kind": "measure",
    "value": 35,
    "unit": "grams",
    "surface": "35 grams",
-   "sentence": "Salinity is usually measured in parts per thousand (‰ or per mil), and the open ocean has about 35 grams (1.2 oz) solids per litre, a salinity of 35 ‰.",
+   "sentence": "Salinity is usually measured in parts per thousand, and the open ocean has about 35 grams solids per litre, a salinity of 35 ‰.",
    "section": "Physical science"
   },
-  "f8": {
-   "kind": "number",
-   "value": 1.2,
-   "surface": "1.2",
-   "sentence": "Salinity is usually measured in parts per thousand (‰ or per mil), and the open ocean has about 35 grams (1.2 oz) solids per litre, a salinity of 35 ‰.",
-   "section": "Physical science"
-  },
-  "f9": {
+  "f6": {
    "kind": "number",
    "value": 35,
    "surface": "35",
-   "sentence": "Salinity is usually measured in parts per thousand (‰ or per mil), and the open ocean has about 35 grams (1.2 oz) solids per litre, a salinity of 35 ‰.",
+   "sentence": "Salinity is usually measured in parts per thousand, and the open ocean has about 35 grams solids per litre, a salinity of 35 ‰.",
    "section": "Physical science"
   },
-  "f10": {
+  "f7": {
    "kind": "number",
    "value": 38,
    "surface": "38",
    "sentence": "The Mediterranean Sea is slightly higher at 38 ‰, while the salinity of the northern Red Sea can reach 41‰.",
    "section": "Physical science"
   },
-  "f11": {
+  "f8": {
    "kind": "number",
    "value": 41,
    "surface": "41",
    "sentence": "The Mediterranean Sea is slightly higher at 38 ‰, while the salinity of the northern Red Sea can reach 41‰.",
    "section": "Physical science"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 300,
    "unit": "grams",
    "surface": "300 grams",
-   "sentence": "In contrast, some landlocked hypersaline lakes have a much higher salinity, for example, the Dead Sea has 300 grams (11 oz) dissolved solids per litre (300 ‰).",
+   "sentence": "In contrast, some landlocked hypersaline lakes have a much higher salinity, for example, the Dead Sea has 300 grams dissolved solids per litre.",
    "section": "Physical science"
   },
-  "f13": {
-   "kind": "number",
-   "value": 11,
-   "surface": "11",
-   "sentence": "In contrast, some landlocked hypersaline lakes have a much higher salinity, for example, the Dead Sea has 300 grams (11 oz) dissolved solids per litre (300 ‰).",
-   "section": "Physical science"
-  },
-  "f14": {
-   "kind": "number",
-   "value": 300,
-   "surface": "300",
-   "sentence": "In contrast, some landlocked hypersaline lakes have a much higher salinity, for example, the Dead Sea has 300 grams (11 oz) dissolved solids per litre (300 ‰).",
-   "section": "Physical science"
-  },
-  "f15": {
+  "f10": {
    "kind": "measure",
    "value": 85,
    "unit": "percent",
    "surface": "85 percent",
-   "sentence": "While the constituents of table salt (sodium and chloride) make up about 85 percent of the solids in solution, there are also other metal ions such as magnesium and calcium, and negative ions including sulphate, carbonate, and bromide.",
+   "sentence": "While the constituents of table salt make up about 85 percent of the solids in solution, there are also other metal ions such as magnesium and calcium, and negative ions including sulphate, carbonate, and bromide.",
    "section": "Physical science"
   },
-  "f16": {
+  "f11": {
    "kind": "measure",
    "value": 30,
    "unit": "°c",
    "surface": "30 °C",
-   "sentence": "In the tropics, with the sun nearly overhead, the temperature of the surface layers can rise to over 30 °C (86 °F) while near the poles the temperature in equilibrium with the sea ice is about −2 °C (28 °F).",
+   "sentence": "In the tropics, with the sun nearly overhead, the temperature of the surface layers can rise to over 30 °C while near the poles the temperature in equilibrium with the sea ice is about −2 °C.",
    "section": "Physical science"
   },
-  "f17": {
-   "kind": "measure",
-   "value": 86,
-   "unit": "°f",
-   "surface": "86 °F",
-   "sentence": "In the tropics, with the sun nearly overhead, the temperature of the surface layers can rise to over 30 °C (86 °F) while near the poles the temperature in equilibrium with the sea ice is about −2 °C (28 °F).",
-   "section": "Physical science"
-  },
-  "f18": {
+  "f12": {
    "kind": "measure",
    "value": 2,
    "unit": "°c",
    "surface": "2 °C",
-   "sentence": "In the tropics, with the sun nearly overhead, the temperature of the surface layers can rise to over 30 °C (86 °F) while near the poles the temperature in equilibrium with the sea ice is about −2 °C (28 °F).",
+   "sentence": "In the tropics, with the sun nearly overhead, the temperature of the surface layers can rise to over 30 °C while near the poles the temperature in equilibrium with the sea ice is about −2 °C.",
    "section": "Physical science"
   },
-  "f19": {
-   "kind": "measure",
-   "value": 28,
-   "unit": "°f",
-   "surface": "28 °F",
-   "sentence": "In the tropics, with the sun nearly overhead, the temperature of the surface layers can rise to over 30 °C (86 °F) while near the poles the temperature in equilibrium with the sea ice is about −2 °C (28 °F).",
-   "section": "Physical science"
-  },
-  "f20": {
+  "f13": {
    "kind": "measure",
    "value": 2,
    "unit": "°c",
    "surface": "2 °C",
-   "sentence": "Deep seawater has a temperature between −2 °C (28 °F) and 5 °C (41 °F) in all parts of the globe.",
+   "sentence": "Deep seawater has a temperature between −2 °C and 5 °C in all parts of the globe.",
    "section": "Physical science"
   },
-  "f21": {
-   "kind": "measure",
-   "value": 28,
-   "unit": "°f",
-   "surface": "28 °F",
-   "sentence": "Deep seawater has a temperature between −2 °C (28 °F) and 5 °C (41 °F) in all parts of the globe.",
-   "section": "Physical science"
-  },
-  "f22": {
+  "f14": {
    "kind": "measure",
    "value": 5,
    "unit": "°c",
    "surface": "5 °C",
-   "sentence": "Deep seawater has a temperature between −2 °C (28 °F) and 5 °C (41 °F) in all parts of the globe.",
+   "sentence": "Deep seawater has a temperature between −2 °C and 5 °C in all parts of the globe.",
    "section": "Physical science"
   },
-  "f23": {
-   "kind": "measure",
-   "value": 41,
-   "unit": "°f",
-   "surface": "41 °F",
-   "sentence": "Deep seawater has a temperature between −2 °C (28 °F) and 5 °C (41 °F) in all parts of the globe.",
-   "section": "Physical science"
-  },
-  "f24": {
+  "f15": {
    "kind": "number",
    "value": 35,
    "surface": "35",
-   "sentence": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C (28.8 °F).",
+   "sentence": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C.",
    "section": "Physical science"
   },
-  "f25": {
+  "f16": {
    "kind": "measure",
    "value": 1.8,
    "unit": "°c",
    "surface": "1.8 °C",
-   "sentence": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C (28.8 °F).",
+   "sentence": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C.",
    "section": "Physical science"
   },
-  "f26": {
-   "kind": "measure",
-   "value": 28.8,
-   "unit": "°f",
-   "surface": "28.8 °F",
-   "sentence": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C (28.8 °F).",
-   "section": "Physical science"
-  },
-  "f27": {
+  "f17": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Nilas may have a salinity of 12–15 ‰, but by the time the sea ice is one year old, this falls to 4–6 ‰.",
    "section": "Physical science"
   },
-  "f28": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "Nilas may have a salinity of 12–15 ‰, but by the time the sea ice is one year old, this falls to 4–6 ‰.",
-   "section": "Physical science"
-  },
-  "f29": {
+  "f18": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Nilas may have a salinity of 12–15 ‰, but by the time the sea ice is one year old, this falls to 4–6 ‰.",
    "section": "Physical science"
   },
-  "f30": {
+  "f19": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Nilas may have a salinity of 12–15 ‰, but by the time the sea ice is one year old, this falls to 4–6 ‰.",
    "section": "Physical science"
   },
-  "f31": {
+  "f20": {
    "kind": "number",
    "value": 8.2,
    "surface": "8.2",
    "sentence": "Seawater is slightly alkaline and had an average pH of about 8.2 over the past 300 million years.",
    "section": "Physical science"
   },
-  "f32": {
+  "f21": {
    "kind": "measure",
    "value": 300000000,
    "unit": "years",
@@ -291,362 +208,214 @@
    "sentence": "Seawater is slightly alkaline and had an average pH of about 8.2 over the past 300 million years.",
    "section": "Physical science"
   },
-  "f33": {
+  "f22": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "More recently, climate change has resulted in an increase of the carbon dioxide content of the atmosphere; about 30–40% of the added CO2 is absorbed by the oceans, forming carbonic acid and lowering the pH (now below 8.1) through a process called ocean acidification.",
+   "sentence": "More recently, climate change has resulted in an increase of the carbon dioxide content of the atmosphere; about 30–40% of the added CO2 is absorbed by the oceans, forming carbonic acid and lowering the pH through a process called ocean acidification.",
    "section": "Physical science"
   },
-  "f34": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "%",
-   "surface": "40%",
-   "sentence": "More recently, climate change has resulted in an increase of the carbon dioxide content of the atmosphere; about 30–40% of the added CO2 is absorbed by the oceans, forming carbonic acid and lowering the pH (now below 8.1) through a process called ocean acidification.",
-   "section": "Physical science"
-  },
-  "f35": {
-   "kind": "number",
-   "value": 8.1,
-   "surface": "8.1",
-   "sentence": "More recently, climate change has resulted in an increase of the carbon dioxide content of the atmosphere; about 30–40% of the added CO2 is absorbed by the oceans, forming carbonic acid and lowering the pH (now below 8.1) through a process called ocean acidification.",
-   "section": "Physical science"
-  },
-  "f36": {
+  "f23": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
    "surface": "10%",
-   "sentence": "Ocean deoxygenation is projected to increase hypoxia by 10%, and triple suboxic waters (oxygen concentrations 98% less than the mean surface concentrations), for each 1 °C of upper-ocean warming.",
+   "sentence": "Ocean deoxygenation is projected to increase hypoxia by 10%, and triple suboxic waters, for each 1 °C of upper-ocean warming.",
    "section": "Physical science"
   },
-  "f37": {
-   "kind": "measure",
-   "value": 98,
-   "unit": "%",
-   "surface": "98%",
-   "sentence": "Ocean deoxygenation is projected to increase hypoxia by 10%, and triple suboxic waters (oxygen concentrations 98% less than the mean surface concentrations), for each 1 °C of upper-ocean warming.",
-   "section": "Physical science"
-  },
-  "f38": {
+  "f24": {
    "kind": "measure",
    "value": 1,
    "unit": "°c",
    "surface": "1 °C",
-   "sentence": "Ocean deoxygenation is projected to increase hypoxia by 10%, and triple suboxic waters (oxygen concentrations 98% less than the mean surface concentrations), for each 1 °C of upper-ocean warming.",
+   "sentence": "Ocean deoxygenation is projected to increase hypoxia by 10%, and triple suboxic waters, for each 1 °C of upper-ocean warming.",
    "section": "Physical science"
   },
-  "f39": {
+  "f25": {
    "kind": "measure",
    "value": 1000,
    "unit": "metres",
    "surface": "1,000 metres",
-   "sentence": "Yellow and green light reach greater depths, and blue and violet light may penetrate as deep as 1,000 metres (3,300 ft).",
+   "sentence": "Yellow and green light reach greater depths, and blue and violet light may penetrate as deep as 1,000 metres.",
    "section": "Physical science"
   },
-  "f40": {
-   "kind": "measure",
-   "value": 3300,
-   "unit": "ft",
-   "surface": "3,300 ft",
-   "sentence": "Yellow and green light reach greater depths, and blue and violet light may penetrate as deep as 1,000 metres (3,300 ft).",
-   "section": "Physical science"
-  },
-  "f41": {
+  "f26": {
    "kind": "measure",
    "value": 200,
    "unit": "metres",
    "surface": "200 metres",
-   "sentence": "There is insufficient light for photosynthesis and plant growth beyond a depth of about 200 metres (660 ft).",
+   "sentence": "There is insufficient light for photosynthesis and plant growth beyond a depth of about 200 metres.",
    "section": "Physical science"
   },
-  "f42": {
-   "kind": "measure",
-   "value": 660,
-   "unit": "ft",
-   "surface": "660 ft",
-   "sentence": "There is insufficient light for photosynthesis and plant growth beyond a depth of about 200 metres (660 ft).",
-   "section": "Physical science"
-  },
-  "f43": {
+  "f27": {
    "kind": "measure",
    "value": 20000,
    "unit": "years",
    "surface": "20,000 years",
-   "sentence": "At the Last Glacial Maximum, some 20,000 years ago, the sea level was about 125 metres (410 ft) lower than in present times (2025).",
+   "sentence": "At the Last Glacial Maximum, some 20,000 years ago, the sea level was about 125 metres lower than in present times.",
    "section": "Physical science"
   },
-  "f44": {
+  "f28": {
    "kind": "measure",
    "value": 125,
    "unit": "metres",
    "surface": "125 metres",
-   "sentence": "At the Last Glacial Maximum, some 20,000 years ago, the sea level was about 125 metres (410 ft) lower than in present times (2025).",
+   "sentence": "At the Last Glacial Maximum, some 20,000 years ago, the sea level was about 125 metres lower than in present times.",
    "section": "Physical science"
   },
-  "f45": {
-   "kind": "measure",
-   "value": 410,
-   "unit": "ft",
-   "surface": "410 ft",
-   "sentence": "At the Last Glacial Maximum, some 20,000 years ago, the sea level was about 125 metres (410 ft) lower than in present times (2025).",
-   "section": "Physical science"
-  },
-  "f46": {
-   "kind": "date",
-   "value": "2025",
-   "surface": "2025",
-   "sentence": "At the Last Glacial Maximum, some 20,000 years ago, the sea level was about 125 metres (410 ft) lower than in present times (2025).",
-   "section": "Physical science"
-  },
-  "f47": {
+  "f29": {
    "kind": "measure",
    "value": 100,
    "unit": "years",
    "surface": "100 years",
-   "sentence": "For at least the last 100 years, sea level has been rising at an average rate of about 1.8 millimetres (0.071 in) per year.",
+   "sentence": "For at least the last 100 years, sea level has been rising at an average rate of about 1.8 millimetres per year.",
    "section": "Physical science"
   },
-  "f48": {
+  "f30": {
    "kind": "measure",
    "value": 1.8,
    "unit": "millimetres",
    "surface": "1.8 millimetres",
-   "sentence": "For at least the last 100 years, sea level has been rising at an average rate of about 1.8 millimetres (0.071 in) per year.",
+   "sentence": "For at least the last 100 years, sea level has been rising at an average rate of about 1.8 millimetres per year.",
    "section": "Physical science"
   },
-  "f49": {
-   "kind": "number",
-   "value": 0.071,
-   "surface": "0.071",
-   "sentence": "For at least the last 100 years, sea level has been rising at an average rate of about 1.8 millimetres (0.071 in) per year.",
-   "section": "Physical science"
-  },
-  "f50": {
+  "f31": {
    "kind": "measure",
    "value": 500,
    "unit": "metres",
    "surface": "500 metres",
-   "sentence": "Most of this rise can be attributed to an increase in the temperature of the sea due to climate change, and the resulting slight thermal expansion of the upper 500 metres (1,600 ft) of water.",
+   "sentence": "Most of this rise can be attributed to an increase in the temperature of the sea due to climate change, and the resulting slight thermal expansion of the upper 500 metres of water.",
    "section": "Physical science"
   },
-  "f51": {
-   "kind": "measure",
-   "value": 1600,
-   "unit": "ft",
-   "surface": "1,600 ft",
-   "sentence": "Most of this rise can be attributed to an increase in the temperature of the sea due to climate change, and the resulting slight thermal expansion of the upper 500 metres (1,600 ft) of water.",
-   "section": "Physical science"
-  },
-  "f52": {
+  "f32": {
    "kind": "measure",
    "value": 3,
    "unit": "m",
    "surface": "3 m",
-   "sentence": "Most waves are less than 3 m (10 ft) high and it is not unusual for strong storms to double or triple that height; offshore construction such as wind farms and oil platforms use metocean statistics from measurements in computing the wave forces (due to for instance the hundred-year wave) they are designed against.",
+   "sentence": "Most waves are less than 3 m high and it is not unusual for strong storms to double or triple that height; offshore construction such as wind farms and oil platforms use metocean statistics from measurements in computing the wave forces they are designed against.",
    "section": "Physical science"
   },
-  "f53": {
-   "kind": "measure",
-   "value": 10,
-   "unit": "ft",
-   "surface": "10 ft",
-   "sentence": "Most waves are less than 3 m (10 ft) high and it is not unusual for strong storms to double or triple that height; offshore construction such as wind farms and oil platforms use metocean statistics from measurements in computing the wave forces (due to for instance the hundred-year wave) they are designed against.",
-   "section": "Physical science"
-  },
-  "f54": {
+  "f33": {
    "kind": "measure",
    "value": 25,
    "unit": "meters",
    "surface": "25 meters",
-   "sentence": "Rogue waves, however, have been documented at heights above 25 meters (82 ft).",
+   "sentence": "Rogue waves, however, have been documented at heights above 25 meters.",
    "section": "Physical science"
   },
-  "f55": {
-   "kind": "measure",
-   "value": 82,
-   "unit": "ft",
-   "surface": "82 ft",
-   "sentence": "Rogue waves, however, have been documented at heights above 25 meters (82 ft).",
-   "section": "Physical science"
-  },
-  "f56": {
+  "f34": {
    "kind": "number",
    "value": 80,
    "surface": "80",
-   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles (130 to 480 km), travel at speeds of over 600 miles per hour (970 km/h) and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
+   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles, travel at speeds of over 600 miles per hour and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
    "section": "Physical science"
   },
-  "f57": {
+  "f35": {
    "kind": "measure",
    "value": 300,
    "unit": "miles",
    "surface": "300 miles",
-   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles (130 to 480 km), travel at speeds of over 600 miles per hour (970 km/h) and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
+   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles, travel at speeds of over 600 miles per hour and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
    "section": "Physical science"
   },
-  "f58": {
-   "kind": "number",
-   "value": 130,
-   "surface": "130",
-   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles (130 to 480 km), travel at speeds of over 600 miles per hour (970 km/h) and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
-   "section": "Physical science"
-  },
-  "f59": {
-   "kind": "measure",
-   "value": 480,
-   "unit": "km",
-   "surface": "480 km",
-   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles (130 to 480 km), travel at speeds of over 600 miles per hour (970 km/h) and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
-   "section": "Physical science"
-  },
-  "f60": {
+  "f36": {
    "kind": "measure",
    "value": 600,
    "unit": "miles",
    "surface": "600 miles",
-   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles (130 to 480 km), travel at speeds of over 600 miles per hour (970 km/h) and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
+   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles, travel at speeds of over 600 miles per hour and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
    "section": "Physical science"
   },
-  "f61": {
-   "kind": "measure",
-   "value": 970,
-   "unit": "km/h",
-   "surface": "970 km/h",
-   "sentence": "In the deep open sea, tsunamis have wavelengths of around 80 to 300 miles (130 to 480 km), travel at speeds of over 600 miles per hour (970 km/h) and usually have a height of less than three feet, so they often pass unnoticed at this stage.",
-   "section": "Physical science"
-  },
-  "f62": {
+  "f37": {
    "kind": "measure",
    "value": 65,
    "unit": "miles",
    "surface": "65 miles",
-   "sentence": "In contrast, ocean surface waves caused by winds have wavelengths of a few hundred feet, travel at up to 65 miles per hour (105 km/h) and are up to 45 feet (14 metres) high.",
+   "sentence": "In contrast, ocean surface waves caused by winds have wavelengths of a few hundred feet, travel at up to 65 miles per hour and are up to 45 feet high.",
    "section": "Physical science"
   },
-  "f63": {
-   "kind": "measure",
-   "value": 105,
-   "unit": "km/h",
-   "surface": "105 km/h",
-   "sentence": "In contrast, ocean surface waves caused by winds have wavelengths of a few hundred feet, travel at up to 65 miles per hour (105 km/h) and are up to 45 feet (14 metres) high.",
-   "section": "Physical science"
-  },
-  "f64": {
+  "f38": {
    "kind": "measure",
    "value": 45,
    "unit": "feet",
    "surface": "45 feet",
-   "sentence": "In contrast, ocean surface waves caused by winds have wavelengths of a few hundred feet, travel at up to 65 miles per hour (105 km/h) and are up to 45 feet (14 metres) high.",
+   "sentence": "In contrast, ocean surface waves caused by winds have wavelengths of a few hundred feet, travel at up to 65 miles per hour and are up to 45 feet high.",
    "section": "Physical science"
   },
-  "f65": {
-   "kind": "measure",
-   "value": 14,
-   "unit": "metres",
-   "surface": "14 metres",
-   "sentence": "In contrast, ocean surface waves caused by winds have wavelengths of a few hundred feet, travel at up to 65 miles per hour (105 km/h) and are up to 45 feet (14 metres) high.",
-   "section": "Physical science"
-  },
-  "f66": {
+  "f39": {
    "kind": "measure",
    "value": 3,
    "unit": "ft",
    "surface": "3 ft",
-   "sentence": "These strong currents can have a velocity of 3 ft (0.9 m) per second, can form at different places at different stages of the tide and can carry away unwary bathers.",
+   "sentence": "These strong currents can have a velocity of 3 ft per second, can form at different places at different stages of the tide and can carry away unwary bathers.",
    "section": "Physical science"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 0.9,
-   "unit": "m",
-   "surface": "0.9 m",
-   "sentence": "These strong currents can have a velocity of 3 ft (0.9 m) per second, can form at different places at different stages of the tide and can carry away unwary bathers.",
-   "section": "Physical science"
-  },
-  "f68": {
+  "f40": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Most places experience two high tides each day, occurring at intervals of about 12 hours and 25 minutes.",
    "section": "Physical science"
   },
-  "f69": {
+  "f41": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Most places experience two high tides each day, occurring at intervals of about 12 hours and 25 minutes.",
    "section": "Physical science"
   },
-  "f70": {
+  "f42": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "This is half the 24 hours and 50 minute period that it takes for the Earth to make a complete revolution and return the Moon to its previous position relative to an observer.",
    "section": "Physical science"
   },
-  "f71": {
+  "f43": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "This is half the 24 hours and 50 minute period that it takes for the Earth to make a complete revolution and return the Moon to its previous position relative to an observer.",
    "section": "Physical science"
   },
-  "f72": {
+  "f44": {
    "kind": "number",
    "value": 27000000,
    "surface": "27 million",
-   "sentence": "The Moon's mass is some 27 million times smaller than the Sun, but it is 400 times closer to the Earth (and the strength of gravity is proportional to the square of the distance between the centres of mass of the objects in question, further compensating for the smaller mass of the Moon).",
+   "sentence": "The Moon's mass is some 27 million times smaller than the Sun, but it is 400 times closer to the Earth.",
    "section": "Physical science"
   },
-  "f73": {
+  "f45": {
    "kind": "number",
    "value": 400,
    "surface": "400",
-   "sentence": "The Moon's mass is some 27 million times smaller than the Sun, but it is 400 times closer to the Earth (and the strength of gravity is proportional to the square of the distance between the centres of mass of the objects in question, further compensating for the smaller mass of the Moon).",
+   "sentence": "The Moon's mass is some 27 million times smaller than the Sun, but it is 400 times closer to the Earth.",
    "section": "Physical science"
   },
-  "f74": {
+  "f46": {
    "kind": "number",
    "value": 90,
    "surface": "90",
    "sentence": "In contrast, when the Sun is at 90° from the Moon as viewed from Earth, the combined gravitational effect on tides is less causing the lower \"neap tides\".",
    "section": "Physical science"
   },
-  "f75": {
+  "f47": {
    "kind": "measure",
    "value": 2500,
    "unit": "kilometres",
    "surface": "2,500 kilometres",
-   "sentence": "The Earth's deepest trench is the Mariana Trench which extends for about 2,500 kilometres (1,600 miles) across the seabed.",
+   "sentence": "The Earth's deepest trench is the Mariana Trench which extends for about 2,500 kilometres across the seabed.",
    "section": "Physical science"
   },
-  "f76": {
-   "kind": "measure",
-   "value": 1600,
-   "unit": "miles",
-   "surface": "1,600 miles",
-   "sentence": "The Earth's deepest trench is the Mariana Trench which extends for about 2,500 kilometres (1,600 miles) across the seabed.",
-   "section": "Physical science"
-  },
-  "f77": {
+  "f48": {
    "kind": "measure",
    "value": 10.994,
    "unit": "kilometres",
    "surface": "10.994 kilometres",
-   "sentence": "Its deepest point is 10.994 kilometres (nearly 7 miles) below the surface of the sea.",
+   "sentence": "Its deepest point is 10.994 kilometres below the surface of the sea.",
    "section": "Physical science"
   },
-  "f78": {
-   "kind": "measure",
-   "value": 7,
-   "unit": "miles",
-   "surface": "7 miles",
-   "sentence": "Its deepest point is 10.994 kilometres (nearly 7 miles) below the surface of the sea.",
-   "section": "Physical science"
-  },
-  "f79": {
+  "f49": {
    "kind": "measure",
    "value": 15,
    "unit": "percent",

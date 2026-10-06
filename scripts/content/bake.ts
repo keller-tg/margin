@@ -8,6 +8,7 @@ import { parseArgs } from 'node:util';
 import { composeExtractive } from '../../src/core/compose/compose';
 import type { Packet } from '../../src/core/compose/packet';
 import type { Slot, Thing } from '../../src/core/schema/thing';
+import { assessThing } from '../../src/core/quality/assess';
 import { stampFor, verifyThing } from '../../src/core/verify/verify';
 import { addDays, dailyPath, loadQueue, loadVerifyContext, p, packetPath, readJson, writeJson } from './lib/store';
 import type { WikiLang } from './lib/wiki';
@@ -45,6 +46,7 @@ for (const lang of LANGS) {
         process.stderr.write(`✗ ${(err as Error).message}\n`);
         continue;
       }
+      thing.qualityScore = assessThing(thing).score; // the independent assessment, not the composer's own estimate
       const issues = verifyThing(thing, packet, ctx);
       report.push({ id: thing.id, title: thing.topic.title, quality: thing.qualityScore, notes, issues: issues.map((i) => `${i.rule} @ ${i.where}: ${i.message}`) });
       if (issues.length) {

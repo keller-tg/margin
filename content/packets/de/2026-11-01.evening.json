@@ -92,71 +92,40 @@
    "value": 24000,
    "unit": "km²",
    "surface": "24.000 km²",
-   "sentence": "Vom großen Tschadsee spricht man, wenn die freie Wasseroberfläche über 24.000 km² bedeckt (Pegel über 284,2 Meter über dem Meeresspiegel).",
+   "sentence": "Vom großen Tschadsee spricht man, wenn die freie Wasseroberfläche über 24.000 km² bedeckt.",
    "section": "Geographie"
   },
   "f6": {
-   "kind": "measure",
-   "value": 284.2,
-   "unit": "meter",
-   "surface": "284,2 Meter",
-   "sentence": "Vom großen Tschadsee spricht man, wenn die freie Wasseroberfläche über 24.000 km² bedeckt (Pegel über 284,2 Meter über dem Meeresspiegel).",
-   "section": "Geographie"
-  },
-  "f7": {
    "kind": "number",
    "value": 18000,
    "surface": "18.000",
-   "sentence": "Der normale Tschadsee bedeckt eine Fläche von 18.000 bis 22.000 km² (Pegel 279 bis 282 Meter über dem Meeresspiegel).",
+   "sentence": "Der normale Tschadsee bedeckt eine Fläche von 18.000 bis 22.000 km².",
    "section": "Geographie"
   },
-  "f8": {
+  "f7": {
    "kind": "measure",
    "value": 22000,
    "unit": "km²",
    "surface": "22.000 km²",
-   "sentence": "Der normale Tschadsee bedeckt eine Fläche von 18.000 bis 22.000 km² (Pegel 279 bis 282 Meter über dem Meeresspiegel).",
+   "sentence": "Der normale Tschadsee bedeckt eine Fläche von 18.000 bis 22.000 km².",
    "section": "Geographie"
   },
-  "f9": {
-   "kind": "number",
-   "value": 279,
-   "surface": "279",
-   "sentence": "Der normale Tschadsee bedeckt eine Fläche von 18.000 bis 22.000 km² (Pegel 279 bis 282 Meter über dem Meeresspiegel).",
-   "section": "Geographie"
-  },
-  "f10": {
-   "kind": "measure",
-   "value": 282,
-   "unit": "meter",
-   "surface": "282 Meter",
-   "sentence": "Der normale Tschadsee bedeckt eine Fläche von 18.000 bis 22.000 km² (Pegel 279 bis 282 Meter über dem Meeresspiegel).",
-   "section": "Geographie"
-  },
-  "f11": {
+  "f8": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Vom kleinen Tschadsee spricht man, wenn die freie Wasserfläche zwischen 2000 und 14.000 km² liegt (Pegel dann unter 278,5 Meter über dem Meeresspiegel).",
+   "sentence": "Vom kleinen Tschadsee spricht man, wenn die freie Wasserfläche zwischen 2000 und 14.000 km² liegt.",
    "section": "Geographie"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 14000,
    "unit": "km²",
    "surface": "14.000 km²",
-   "sentence": "Vom kleinen Tschadsee spricht man, wenn die freie Wasserfläche zwischen 2000 und 14.000 km² liegt (Pegel dann unter 278,5 Meter über dem Meeresspiegel).",
+   "sentence": "Vom kleinen Tschadsee spricht man, wenn die freie Wasserfläche zwischen 2000 und 14.000 km² liegt.",
    "section": "Geographie"
   },
-  "f13": {
-   "kind": "measure",
-   "value": 278.5,
-   "unit": "meter",
-   "surface": "278,5 Meter",
-   "sentence": "Vom kleinen Tschadsee spricht man, wenn die freie Wasserfläche zwischen 2000 und 14.000 km² liegt (Pegel dann unter 278,5 Meter über dem Meeresspiegel).",
-   "section": "Geographie"
-  },
-  "f14": {
+  "f10": {
    "kind": "measure",
    "value": 2000,
    "unit": "km²",
@@ -164,7 +133,7 @@
    "sentence": "Unter der Marke von 2000 km² weist der dann verbleibende Tschadsee die Charakteristiken eines sehr großen Feuchtgebietes auf.",
    "section": "Geographie"
   },
-  "f15": {
+  "f11": {
    "kind": "measure",
    "value": 280,
    "unit": "meter",
@@ -172,28 +141,28 @@
    "sentence": "Das Seebecken des normalen Tschadsees untergliedert sich in ein nördliches und ein südliches Becken, die durch die Altdünenzone der Great Barrier bzw. Grande Barrière getrennt sind, somit können hydrochemische Austauschvorgänge nur bei Wasserständen über 280 Meter stattfinden.",
    "section": "Geographie"
   },
-  "f16": {
+  "f12": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Dieser wird ab einem Pegel von 13 Metern über Seegrund geflutet, dies geschah zuletzt in den Jahren 1962 und 1964, als das Wasser 50 km weit in den Bahr el Ghazal vordrang.",
    "section": "Geographie"
   },
-  "f17": {
+  "f13": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
    "sentence": "Dieser wird ab einem Pegel von 13 Metern über Seegrund geflutet, dies geschah zuletzt in den Jahren 1962 und 1964, als das Wasser 50 km weit in den Bahr el Ghazal vordrang.",
    "section": "Geographie"
   },
-  "f18": {
+  "f14": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
    "sentence": "Dieser wird ab einem Pegel von 13 Metern über Seegrund geflutet, dies geschah zuletzt in den Jahren 1962 und 1964, als das Wasser 50 km weit in den Bahr el Ghazal vordrang.",
    "section": "Geographie"
   },
-  "f19": {
+  "f15": {
    "kind": "measure",
    "value": 50,
    "unit": "km",
@@ -201,21 +170,21 @@
    "sentence": "Dieser wird ab einem Pegel von 13 Metern über Seegrund geflutet, dies geschah zuletzt in den Jahren 1962 und 1964, als das Wasser 50 km weit in den Bahr el Ghazal vordrang.",
    "section": "Geographie"
   },
-  "f20": {
+  "f16": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "Dieses Gebiet steht seit 2008 als die Lake Chad Wetlands unter dem Schutz der Ramsar-Konvention, die größtenteils in Nigeria liegen und dort als Lake Chad Game Reserve (Tschadseewildtierreservat) bezeichnet werden.",
+   "sentence": "Dieses Gebiet steht seit 2008 als die Lake Chad Wetlands unter dem Schutz der Ramsar-Konvention, die größtenteils in Nigeria liegen und dort als Lake Chad Game Reserve bezeichnet werden.",
    "section": "Geographie"
   },
-  "f21": {
+  "f17": {
    "kind": "number",
    "value": 2000000,
    "surface": "2 Mio",
    "sentence": "So konnte eine Ausdehnung des Sees von fast 2 Mio. km² vor ca. 50.000 Jahren festgestellt werden.",
    "section": "Geschichte"
   },
-  "f22": {
+  "f18": {
    "kind": "measure",
    "value": 50000,
    "unit": "jahren",
@@ -223,7 +192,7 @@
    "sentence": "So konnte eine Ausdehnung des Sees von fast 2 Mio. km² vor ca. 50.000 Jahren festgestellt werden.",
    "section": "Geschichte"
   },
-  "f23": {
+  "f19": {
    "kind": "measure",
    "value": 22000,
    "unit": "jahren",
@@ -231,7 +200,7 @@
    "sentence": "Der See trocknete im Zeitalter des Ogolien bzw. Kanemien bis vor ungefähr 22.000 Jahren komplett aus, was bis vor etwa 12.000 Jahren andauerte.",
    "section": "Geschichte"
   },
-  "f24": {
+  "f20": {
    "kind": "measure",
    "value": 12000,
    "unit": "jahren",
@@ -239,14 +208,14 @@
    "sentence": "Der See trocknete im Zeitalter des Ogolien bzw. Kanemien bis vor ungefähr 22.000 Jahren komplett aus, was bis vor etwa 12.000 Jahren andauerte.",
    "section": "Geschichte"
   },
-  "f25": {
+  "f21": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Danach brach die humide Phase des ersten Nigéro-Tschadien an, in der der See eine Tiefe von 15 Metern erreichte, bevor er vor 11.000 Jahren wieder abtrocknete.",
    "section": "Geschichte"
   },
-  "f26": {
+  "f22": {
    "kind": "measure",
    "value": 11000,
    "unit": "jahren",
@@ -254,7 +223,7 @@
    "sentence": "Danach brach die humide Phase des ersten Nigéro-Tschadien an, in der der See eine Tiefe von 15 Metern erreichte, bevor er vor 11.000 Jahren wieder abtrocknete.",
    "section": "Geschichte"
   },
-  "f27": {
+  "f23": {
    "kind": "measure",
    "value": 9000,
    "unit": "jahren",
@@ -262,21 +231,21 @@
    "sentence": "Im Nigéro-Tschadien II, vor 9000 Jahren, konnte sich der See regenerieren und erreichte eine Wassertiefe von 38 Metern, bevor er sich auf eine der heutigen Ausdehnung vergleichbare Größe reduzierte.",
    "section": "Geschichte"
   },
-  "f28": {
+  "f24": {
    "kind": "number",
    "value": 38,
    "surface": "38",
    "sentence": "Im Nigéro-Tschadien II, vor 9000 Jahren, konnte sich der See regenerieren und erreichte eine Wassertiefe von 38 Metern, bevor er sich auf eine der heutigen Ausdehnung vergleichbare Größe reduzierte.",
    "section": "Geschichte"
   },
-  "f29": {
+  "f25": {
    "kind": "number",
    "value": 6000,
    "surface": "6000",
    "sentence": "Die bislang größte Ausdehnung während des Zeitalters der Nigéro-Tschadien erreichte der See unter Einbeziehung der deutlich tiefer gelegenen Bodélé-Depression als Mega-Tschad zwischen 6000 und 4000 Jahren vor heute.",
    "section": "Geschichte"
   },
-  "f30": {
+  "f26": {
    "kind": "measure",
    "value": 4000,
    "unit": "jahren",
@@ -284,14 +253,14 @@
    "sentence": "Die bislang größte Ausdehnung während des Zeitalters der Nigéro-Tschadien erreichte der See unter Einbeziehung der deutlich tiefer gelegenen Bodélé-Depression als Mega-Tschad zwischen 6000 und 4000 Jahren vor heute.",
    "section": "Geschichte"
   },
-  "f31": {
+  "f27": {
    "kind": "number",
    "value": 65,
    "surface": "65",
    "sentence": "Er erreichte eine mittlere Wassertiefe von etwa 65 Metern und eine Ausdehnung von etwa 360.000 km².",
    "section": "Geschichte"
   },
-  "f32": {
+  "f28": {
    "kind": "measure",
    "value": 360000,
    "unit": "km²",
@@ -299,7 +268,7 @@
    "sentence": "Er erreichte eine mittlere Wassertiefe von etwa 65 Metern und eine Ausdehnung von etwa 360.000 km².",
    "section": "Geschichte"
   },
-  "f33": {
+  "f29": {
    "kind": "measure",
    "value": 325,
    "unit": "meter",
@@ -307,7 +276,7 @@
    "sentence": "Der Abfluss aus dem Mega-Tschad erfolgte bei etwa 325 Meter Meereshöhe südwestlich der am Logone gelegenen Stadt Bongor.",
    "section": "Geschichte"
   },
-  "f34": {
+  "f30": {
    "kind": "measure",
    "value": 60000,
    "unit": "km²",
@@ -315,7 +284,7 @@
    "sentence": "Nach dieser maximalen Ausdehnung reduzierte sich seine Wasseroberfläche auf 60.000 km² vor 2000 Jahren und 36.000 km² vor 1000 Jahren.",
    "section": "Geschichte"
   },
-  "f35": {
+  "f31": {
    "kind": "measure",
    "value": 2000,
    "unit": "jahren",
@@ -323,7 +292,7 @@
    "sentence": "Nach dieser maximalen Ausdehnung reduzierte sich seine Wasseroberfläche auf 60.000 km² vor 2000 Jahren und 36.000 km² vor 1000 Jahren.",
    "section": "Geschichte"
   },
-  "f36": {
+  "f32": {
    "kind": "measure",
    "value": 36000,
    "unit": "km²",
@@ -331,7 +300,7 @@
    "sentence": "Nach dieser maximalen Ausdehnung reduzierte sich seine Wasseroberfläche auf 60.000 km² vor 2000 Jahren und 36.000 km² vor 1000 Jahren.",
    "section": "Geschichte"
   },
-  "f37": {
+  "f33": {
    "kind": "measure",
    "value": 1000,
    "unit": "jahren",
@@ -339,21 +308,21 @@
    "sentence": "Nach dieser maximalen Ausdehnung reduzierte sich seine Wasseroberfläche auf 60.000 km² vor 2000 Jahren und 36.000 km² vor 1000 Jahren.",
    "section": "Geschichte"
   },
-  "f38": {
+  "f34": {
    "kind": "date",
    "value": "1908",
    "surface": "1908",
    "sentence": "Die geringste bislang belegbare Größe erreichte der Tschadsee im Jahr 1908, als er bis auf ein paar Feuchtgebiete im nördlichen und südlichen Bassin eintrocknete.",
    "section": "Geschichte"
   },
-  "f39": {
+  "f35": {
    "kind": "number",
    "value": 22900,
    "surface": "22.900",
    "sentence": "Danach regenerierte er sich auf eine Größe von 22.900 bis 25.000 km² im Jahr 1963.",
    "section": "Geschichte"
   },
-  "f40": {
+  "f36": {
    "kind": "measure",
    "value": 25000,
    "unit": "km²",
@@ -361,14 +330,14 @@
    "sentence": "Danach regenerierte er sich auf eine Größe von 22.900 bis 25.000 km² im Jahr 1963.",
    "section": "Geschichte"
   },
-  "f41": {
+  "f37": {
    "kind": "date",
    "value": "1963",
    "surface": "1963",
    "sentence": "Danach regenerierte er sich auf eine Größe von 22.900 bis 25.000 km² im Jahr 1963.",
    "section": "Geschichte"
   },
-  "f42": {
+  "f38": {
    "kind": "measure",
    "value": 4000,
    "unit": "km²",
@@ -376,28 +345,28 @@
    "sentence": "Anfang der 1970er Jahre begann eine Reihe von Trockenperioden, in denen der See immer weiter schrumpfte, bis auf maximal 4000 km² im Jahr 2001.",
    "section": "Geschichte"
   },
-  "f43": {
+  "f39": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",
    "sentence": "Anfang der 1970er Jahre begann eine Reihe von Trockenperioden, in denen der See immer weiter schrumpfte, bis auf maximal 4000 km² im Jahr 2001.",
    "section": "Geschichte"
   },
-  "f44": {
+  "f40": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Im Jahr 2008 hatte er eine minimale Ausdehnung von 30 mal 40 km an der Mündung des Schari, was einer offenen Wasserfläche von 2500 km² entsprach.",
    "section": "Geschichte"
   },
-  "f45": {
+  "f41": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Im Jahr 2008 hatte er eine minimale Ausdehnung von 30 mal 40 km an der Mündung des Schari, was einer offenen Wasserfläche von 2500 km² entsprach.",
    "section": "Geschichte"
   },
-  "f46": {
+  "f42": {
    "kind": "measure",
    "value": 40,
    "unit": "km",
@@ -405,7 +374,7 @@
    "sentence": "Im Jahr 2008 hatte er eine minimale Ausdehnung von 30 mal 40 km an der Mündung des Schari, was einer offenen Wasserfläche von 2500 km² entsprach.",
    "section": "Geschichte"
   },
-  "f47": {
+  "f43": {
    "kind": "measure",
    "value": 2500,
    "unit": "km²",
@@ -413,7 +382,7 @@
    "sentence": "Im Jahr 2008 hatte er eine minimale Ausdehnung von 30 mal 40 km an der Mündung des Schari, was einer offenen Wasserfläche von 2500 km² entsprach.",
    "section": "Geschichte"
   },
-  "f48": {
+  "f44": {
    "kind": "measure",
    "value": 967000,
    "unit": "km²",
@@ -421,29 +390,29 @@
    "sentence": "Das Wassereinzugsgebiet des Tschadsees hat eine Größe von etwa 967.000 km² und wird von der Tschadseebecken-Kommission als konventionelles Bassin bezeichnet.",
    "section": "Hydrologie"
   },
-  "f49": {
+  "f45": {
    "kind": "number",
    "value": 80,
    "surface": "80",
-   "sentence": "Zwischen 80 und 90 Prozent seines Wassers erhält der See aus den Zuflüssen des Schari (frz.",
+   "sentence": "Zwischen 80 und 90 Prozent seines Wassers erhält der See aus den Zuflüssen des Schari und des bei N’Djamena in den Schari mündenden Logone.",
    "section": "Hydrologie"
   },
-  "f50": {
+  "f46": {
    "kind": "measure",
    "value": 90,
    "unit": "prozent",
    "surface": "90 Prozent",
-   "sentence": "Zwischen 80 und 90 Prozent seines Wassers erhält der See aus den Zuflüssen des Schari (frz.",
+   "sentence": "Zwischen 80 und 90 Prozent seines Wassers erhält der See aus den Zuflüssen des Schari und des bei N’Djamena in den Schari mündenden Logone.",
    "section": "Hydrologie"
   },
-  "f51": {
+  "f47": {
    "kind": "number",
    "value": 250,
    "surface": "250",
    "sentence": "Es fallen lediglich zwischen 250 und 450 mm Niederschlag pro Jahr in der Region des Tschadsees.",
    "section": "Hydrologie"
   },
-  "f52": {
+  "f48": {
    "kind": "measure",
    "value": 450,
    "unit": "mm",
@@ -451,7 +420,7 @@
    "sentence": "Es fallen lediglich zwischen 250 und 450 mm Niederschlag pro Jahr in der Region des Tschadsees.",
    "section": "Hydrologie"
   },
-  "f53": {
+  "f49": {
    "kind": "measure",
    "value": 800,
    "unit": "km",
@@ -459,7 +428,7 @@
    "sentence": "Somit ist der Wasserhaushalt des Tschadsees ganz wesentlich von den Niederschlägen im gemeinsamen, rund 800 km weit entfernten Einzugsgebiet von Schari und Logone abhängig.",
    "section": "Hydrologie"
   },
-  "f54": {
+  "f50": {
    "kind": "measure",
    "value": 2022,
    "unit": "mm",
@@ -467,7 +436,7 @@
    "sentence": "Die durchschnittliche Verdunstungsrate unterscheidet sich dabei regional, im südlichen Seebecken beträgt sie ca. 2022 mm/Jahr, im Bereich des Archipelagos 1952 mm/Jahr und im nördlichen Seebecken ca. 2365 mm/Jahr für den Zeitraum von 1900 bis 2010.",
    "section": "Hydrologie"
   },
-  "f55": {
+  "f51": {
    "kind": "measure",
    "value": 1952,
    "unit": "mm",
@@ -475,7 +444,7 @@
    "sentence": "Die durchschnittliche Verdunstungsrate unterscheidet sich dabei regional, im südlichen Seebecken beträgt sie ca. 2022 mm/Jahr, im Bereich des Archipelagos 1952 mm/Jahr und im nördlichen Seebecken ca. 2365 mm/Jahr für den Zeitraum von 1900 bis 2010.",
    "section": "Hydrologie"
   },
-  "f56": {
+  "f52": {
    "kind": "measure",
    "value": 2365,
    "unit": "mm",
@@ -483,21 +452,21 @@
    "sentence": "Die durchschnittliche Verdunstungsrate unterscheidet sich dabei regional, im südlichen Seebecken beträgt sie ca. 2022 mm/Jahr, im Bereich des Archipelagos 1952 mm/Jahr und im nördlichen Seebecken ca. 2365 mm/Jahr für den Zeitraum von 1900 bis 2010.",
    "section": "Hydrologie"
   },
-  "f57": {
+  "f53": {
    "kind": "date",
    "value": "1900",
    "surface": "1900",
    "sentence": "Die durchschnittliche Verdunstungsrate unterscheidet sich dabei regional, im südlichen Seebecken beträgt sie ca. 2022 mm/Jahr, im Bereich des Archipelagos 1952 mm/Jahr und im nördlichen Seebecken ca. 2365 mm/Jahr für den Zeitraum von 1900 bis 2010.",
    "section": "Hydrologie"
   },
-  "f58": {
+  "f54": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Die durchschnittliche Verdunstungsrate unterscheidet sich dabei regional, im südlichen Seebecken beträgt sie ca. 2022 mm/Jahr, im Bereich des Archipelagos 1952 mm/Jahr und im nördlichen Seebecken ca. 2365 mm/Jahr für den Zeitraum von 1900 bis 2010.",
    "section": "Hydrologie"
   },
-  "f59": {
+  "f55": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
@@ -505,7 +474,7 @@
    "sentence": "Diese hohen Verdunstungsraten machen ca. 95 % des natürlichen Wasserverlustes des Sees aus, die restlichen 5 % versickern im Seeboden und füllen die regionale Aquifere auf.",
    "section": "Hydrologie"
   },
-  "f60": {
+  "f56": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -513,7 +482,7 @@
    "sentence": "Diese hohen Verdunstungsraten machen ca. 95 % des natürlichen Wasserverlustes des Sees aus, die restlichen 5 % versickern im Seeboden und füllen die regionale Aquifere auf.",
    "section": "Hydrologie"
   },
-  "f61": {
+  "f57": {
    "kind": "measure",
    "value": 42,
    "unit": "km",
@@ -521,21 +490,21 @@
    "sentence": "Als die vom Schari beförderte durchschnittliche jährliche Wassermenge von 42 km³ sich in der Periode von 1954 bis 1969 auf 21,1 km³ in der Periode von 1988 bis 2010 reduzierte, verringerte sich seine durchschnittlich mit Wasser bedeckte Oberfläche drastisch.",
    "section": "Hydrologie"
   },
-  "f62": {
+  "f58": {
    "kind": "date",
    "value": "1954",
    "surface": "1954",
    "sentence": "Als die vom Schari beförderte durchschnittliche jährliche Wassermenge von 42 km³ sich in der Periode von 1954 bis 1969 auf 21,1 km³ in der Periode von 1988 bis 2010 reduzierte, verringerte sich seine durchschnittlich mit Wasser bedeckte Oberfläche drastisch.",
    "section": "Hydrologie"
   },
-  "f63": {
+  "f59": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "Als die vom Schari beförderte durchschnittliche jährliche Wassermenge von 42 km³ sich in der Periode von 1954 bis 1969 auf 21,1 km³ in der Periode von 1988 bis 2010 reduzierte, verringerte sich seine durchschnittlich mit Wasser bedeckte Oberfläche drastisch.",
    "section": "Hydrologie"
   },
-  "f64": {
+  "f60": {
    "kind": "measure",
    "value": 21.1,
    "unit": "km",
@@ -543,35 +512,35 @@
    "sentence": "Als die vom Schari beförderte durchschnittliche jährliche Wassermenge von 42 km³ sich in der Periode von 1954 bis 1969 auf 21,1 km³ in der Periode von 1988 bis 2010 reduzierte, verringerte sich seine durchschnittlich mit Wasser bedeckte Oberfläche drastisch.",
    "section": "Hydrologie"
   },
-  "f65": {
+  "f61": {
    "kind": "date",
    "value": "1988",
    "surface": "1988",
    "sentence": "Als die vom Schari beförderte durchschnittliche jährliche Wassermenge von 42 km³ sich in der Periode von 1954 bis 1969 auf 21,1 km³ in der Periode von 1988 bis 2010 reduzierte, verringerte sich seine durchschnittlich mit Wasser bedeckte Oberfläche drastisch.",
    "section": "Hydrologie"
   },
-  "f66": {
+  "f62": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Als die vom Schari beförderte durchschnittliche jährliche Wassermenge von 42 km³ sich in der Periode von 1954 bis 1969 auf 21,1 km³ in der Periode von 1988 bis 2010 reduzierte, verringerte sich seine durchschnittlich mit Wasser bedeckte Oberfläche drastisch.",
    "section": "Hydrologie"
   },
-  "f67": {
+  "f63": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "Ob diese seit 1998 zu beobachtende Transgression künftig anhalten wird, ist ungewiss.",
    "section": "Hydrologie"
   },
-  "f68": {
+  "f64": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "1998 betrug die minimale Größe des Sees etwa 1750 km², seine maximale Ausdehnung jedoch etwa 6000 km².",
    "section": "Ökologie"
   },
-  "f69": {
+  "f65": {
    "kind": "measure",
    "value": 1750,
    "unit": "km²",
@@ -579,7 +548,7 @@
    "sentence": "1998 betrug die minimale Größe des Sees etwa 1750 km², seine maximale Ausdehnung jedoch etwa 6000 km².",
    "section": "Ökologie"
   },
-  "f70": {
+  "f66": {
    "kind": "measure",
    "value": 6000,
    "unit": "km²",
@@ -587,14 +556,14 @@
    "sentence": "1998 betrug die minimale Größe des Sees etwa 1750 km², seine maximale Ausdehnung jedoch etwa 6000 km².",
    "section": "Ökologie"
   },
-  "f71": {
+  "f67": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",
    "sentence": "2001 schwankte die Wasseroberfläche zwischen 4000 km² und 19.000 km².",
    "section": "Ökologie"
   },
-  "f72": {
+  "f68": {
    "kind": "measure",
    "value": 4000,
    "unit": "km²",
@@ -602,7 +571,7 @@
    "sentence": "2001 schwankte die Wasseroberfläche zwischen 4000 km² und 19.000 km².",
    "section": "Ökologie"
   },
-  "f73": {
+  "f69": {
    "kind": "measure",
    "value": 19000,
    "unit": "km²",
@@ -610,14 +579,14 @@
    "sentence": "2001 schwankte die Wasseroberfläche zwischen 4000 km² und 19.000 km².",
    "section": "Ökologie"
   },
-  "f74": {
+  "f70": {
    "kind": "number",
    "value": 0.5,
    "surface": "0,5",
    "sentence": "Die Wasserbedeckung im nördlichen Bassin hängt hauptsächlich vom Zufluss des Komadugu Yobe und Ngadda ab, der ungefähr 0,5 bis 0,8 km³ jährlich beträgt.",
    "section": "Ökologie"
   },
-  "f75": {
+  "f71": {
    "kind": "measure",
    "value": 0.8,
    "unit": "km",
@@ -625,7 +594,7 @@
    "sentence": "Die Wasserbedeckung im nördlichen Bassin hängt hauptsächlich vom Zufluss des Komadugu Yobe und Ngadda ab, der ungefähr 0,5 bis 0,8 km³ jährlich beträgt.",
    "section": "Ökologie"
   },
-  "f76": {
+  "f72": {
    "kind": "measure",
    "value": 6000,
    "unit": "km²",
@@ -633,7 +602,7 @@
    "sentence": "In wasserreichen Jahren kann das nördliche Bassin auf bis zu 6000 km² anwachsen, in wasserarmen Jahren liegt es jedoch trocken.",
    "section": "Ökologie"
   },
-  "f77": {
+  "f73": {
    "kind": "measure",
    "value": 38,
    "unit": "%",
@@ -641,7 +610,7 @@
    "sentence": "Der Anteil der freien Wasseroberfläche beträgt typisch nur um die 38 % der Gesamtfläche.",
    "section": "Ökologie"
   },
-  "f78": {
+  "f74": {
    "kind": "measure",
    "value": 62,
    "unit": "%",
@@ -649,7 +618,7 @@
    "sentence": "Die übrigen 62 % sind bewachsen, von Inseln durchsetzt und werden als Archipelag bezeichnet.",
    "section": "Ökologie"
   },
-  "f79": {
+  "f75": {
    "kind": "measure",
    "value": 19000,
    "unit": "km²",
@@ -657,14 +626,14 @@
    "sentence": "Die Ausdehnung dieser Ökoregion beträgt etwa 19.000 km² und schließt die geographisch separierten Hadejia-Nguru-Feuchtgebiete mit ein.",
    "section": "Ökologie"
   },
-  "f80": {
+  "f76": {
    "kind": "number",
    "value": 80000,
    "surface": "80.000",
    "sentence": "Diese Feuchtgebiete in der Massenya-Ebene, Ebene des Bahr Aouk/Salamat, Logoneebene/Toupouri-Senke und des Grand Yaeres haben zusammen eine Ausdehnung von etwa 80.000 bis 90.000 km².",
    "section": "Ökologie"
   },
-  "f81": {
+  "f77": {
    "kind": "measure",
    "value": 90000,
    "unit": "km²",
@@ -672,7 +641,7 @@
    "sentence": "Diese Feuchtgebiete in der Massenya-Ebene, Ebene des Bahr Aouk/Salamat, Logoneebene/Toupouri-Senke und des Grand Yaeres haben zusammen eine Ausdehnung von etwa 80.000 bis 90.000 km².",
    "section": "Ökologie"
   },
-  "f82": {
+  "f78": {
    "kind": "measure",
    "value": 1000,
    "unit": "arten",
@@ -680,28 +649,28 @@
    "sentence": "Das periodische Überfluten und Abtrocknen der Ebenen begünstigt das Wachstum von Algen, Zoo- und Phytoplankton, von denen über 1000 Arten im See nachgewiesen wurden.",
    "section": "Ökologie"
   },
-  "f83": {
+  "f79": {
    "kind": "number",
    "value": 176,
    "surface": "176",
    "sentence": "Die Tschadseebecken-Kommission gibt 176 im See lebende Fischarten an.",
    "section": "Ökologie"
   },
-  "f84": {
+  "f80": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "Zwischen 1972 und 1977 wurden jährliche Fangmengen von über 180.000 Tonnen angegeben.",
    "section": "Ökologie"
   },
-  "f85": {
+  "f81": {
    "kind": "date",
    "value": "1977",
    "surface": "1977",
    "sentence": "Zwischen 1972 und 1977 wurden jährliche Fangmengen von über 180.000 Tonnen angegeben.",
    "section": "Ökologie"
   },
-  "f86": {
+  "f82": {
    "kind": "measure",
    "value": 180000,
    "unit": "tonnen",
@@ -709,7 +678,7 @@
    "sentence": "Zwischen 1972 und 1977 wurden jährliche Fangmengen von über 180.000 Tonnen angegeben.",
    "section": "Ökologie"
   },
-  "f87": {
+  "f83": {
    "kind": "measure",
    "value": 56000,
    "unit": "tonnen",
@@ -717,7 +686,7 @@
    "sentence": "Diese sanken infolge der Trockenperioden und des sinkenden Pegels des Sees auf etwa 56.000 Tonnen Ende der 1980er Jahre und stiegen in den beiden folgenden Dekaden wieder bis auf etwa 120.000 Tonnen/Jahr an.",
    "section": "Ökologie"
   },
-  "f88": {
+  "f84": {
    "kind": "measure",
    "value": 120000,
    "unit": "tonnen",
@@ -725,57 +694,49 @@
    "sentence": "Diese sanken infolge der Trockenperioden und des sinkenden Pegels des Sees auf etwa 56.000 Tonnen Ende der 1980er Jahre und stiegen in den beiden folgenden Dekaden wieder bis auf etwa 120.000 Tonnen/Jahr an.",
    "section": "Ökologie"
   },
-  "f89": {
+  "f85": {
    "kind": "number",
    "value": 23000000,
    "surface": "23 Mio",
    "sentence": "Mit dem Fischfang werden jährlich etwa 23 Mio. US-Dollar erwirtschaftet.",
    "section": "Ökologie"
   },
-  "f90": {
+  "f86": {
    "kind": "number",
    "value": 372,
    "surface": "372",
    "sentence": "Von der Avifauna sind etwa 372 Vogelarten nachgewiesen worden.",
    "section": "Ökologie"
   },
-  "f91": {
+  "f87": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
-   "sentence": "Statistische Erhebungen, die auf Zählungen aus dem Jahr 1984 beruhen, ergaben, dass 61.900 Entenvögel (Anatidae) die Ökoregion des Tschadsees regelmäßig besuchen.",
+   "sentence": "Statistische Erhebungen, die auf Zählungen aus dem Jahr 1984 beruhen, ergaben, dass 61.900 Entenvögel die Ökoregion des Tschadsees regelmäßig besuchen.",
    "section": "Ökologie"
   },
-  "f92": {
+  "f88": {
    "kind": "number",
    "value": 61900,
    "surface": "61.900",
-   "sentence": "Statistische Erhebungen, die auf Zählungen aus dem Jahr 1984 beruhen, ergaben, dass 61.900 Entenvögel (Anatidae) die Ökoregion des Tschadsees regelmäßig besuchen.",
+   "sentence": "Statistische Erhebungen, die auf Zählungen aus dem Jahr 1984 beruhen, ergaben, dass 61.900 Entenvögel die Ökoregion des Tschadsees regelmäßig besuchen.",
    "section": "Ökologie"
   },
-  "f93": {
+  "f89": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "Thor Heyerdahl nutzte das Wissen dreier Buduma-Schilfbootbauer zum Bau der Ra I, die im Jahr 1969 5000 km über den Atlantischen Ozean segeln sollte.",
    "section": "Ökologie"
   },
-  "f94": {
-   "kind": "measure",
-   "value": 5000,
-   "unit": "km",
-   "surface": "5000 km",
-   "sentence": "Thor Heyerdahl nutzte das Wissen dreier Buduma-Schilfbootbauer zum Bau der Ra I, die im Jahr 1969 5000 km über den Atlantischen Ozean segeln sollte.",
-   "section": "Ökologie"
-  },
-  "f95": {
+  "f90": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Der Pflanzenbewuchs der Savanne besteht aus bis zu 2 bis 3 Meter hohen Kräutern und Gräsern wie den Caperonia palustris, Echinochloa colona, Hibiscus asper, Hygrophila auriculata und Schoenfeldia gracilis.",
    "section": "Ökologie"
   },
-  "f96": {
+  "f91": {
    "kind": "measure",
    "value": 3,
    "unit": "meter",
@@ -783,7 +744,7 @@
    "sentence": "Der Pflanzenbewuchs der Savanne besteht aus bis zu 2 bis 3 Meter hohen Kräutern und Gräsern wie den Caperonia palustris, Echinochloa colona, Hibiscus asper, Hygrophila auriculata und Schoenfeldia gracilis.",
    "section": "Ökologie"
   },
-  "f97": {
+  "f92": {
    "kind": "measure",
    "value": 1800,
    "unit": "v",
@@ -791,7 +752,7 @@
    "sentence": "Ab 1800 v. Chr. drangen zunehmend Menschen in die einstigen Lagunengebiete vor, wo Ansiedlungen auf den überschwemmungsfreien sandigen Inseln in der Lehmebene begründet wurden.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f98": {
+  "f93": {
    "kind": "measure",
    "value": 2000,
    "unit": "jahren",
@@ -799,35 +760,35 @@
    "sentence": "Vor ungefähr 2000 Jahren tauchten die ersten archäologischen Zeugnisse von Menschen, die Eisenobjekte produzierten und gebrauchten, südlich des Tschadsees auf.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f99": {
+  "f94": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Hinweise zu einem solchen Handel finden sich bei Herodot und Claudius Ptolemäus; letzterer berichtet über ein Land Agisymba im 2. Jahrhundert, wobei bis heute umstritten ist, wo sich dieses Land eigentlich befand.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f100": {
+  "f95": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Belegbar ist die Sao-Kultur bis in das 17. Jahrhundert.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f101": {
+  "f96": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Laut der allgemein akzeptierten Geschichtsforschung wanderten im 7. Jahrhundert nomadisierende Zaghawa in die heutige Region Kanem, nordöstlich des Tschadsee gelegen, ein.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f102": {
+  "f97": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Laut der Immigrationstheorie des Bayreuther Dierk Lange sollen Flüchtlinge des im 6. Jahrhundert vor Christus untergegangenen Assyrischen Weltreiches die Region des Tschadsees um 600 v. Chr. erreicht haben und maßgeblichen Einfluss auf die Kulturen der Region genommen haben.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f103": {
+  "f98": {
    "kind": "measure",
    "value": 600,
    "unit": "v",
@@ -835,98 +796,70 @@
    "sentence": "Laut der Immigrationstheorie des Bayreuther Dierk Lange sollen Flüchtlinge des im 6. Jahrhundert vor Christus untergegangenen Assyrischen Weltreiches die Region des Tschadsees um 600 v. Chr. erreicht haben und maßgeblichen Einfluss auf die Kulturen der Region genommen haben.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f104": {
+  "f99": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Nachweisen lässt sich die frühe Islamisierung der Region um den See im 10./11.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f105": {
+  "f100": {
    "kind": "number",
    "value": 9,
    "surface": "9",
-   "sentence": "Erste schriftliche Berichte über die Region des Tschadsees finden sich bei al-Yaqubi in seinem Ende des 9. Jahrhunderts erschienenen Kitaab al-Buldaan (Geographie der Welt oder Buch der Länder), in welchem er von dem Lande Kanim berichtet, jedoch ohne Erwähnung des Tschadsees.",
+   "sentence": "Erste schriftliche Berichte über die Region des Tschadsees finden sich bei al-Yaqubi in seinem Ende des 9. Jahrhunderts erschienenen Kitaab al-Buldaan, in welchem er von dem Lande Kanim berichtet, jedoch ohne Erwähnung des Tschadsees.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f106": {
+  "f101": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Über den Tschadsee finden sich erst im 11. Jahrhundert Informationen bei Abū ʿUbaid al-Bakrī.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f107": {
-   "kind": "date",
-   "value": "1256",
-   "surface": "1256",
-   "sentence": "Andere arabische Quellen sind von Al-Dimashqi (1256–1327) aus Damaskus und Abu`l-Fida (1273 bis 1331), ebenfalls aus Damaskus, bekannt.",
-   "section": "Siedlungs- und Forschungsgeschichte"
-  },
-  "f108": {
-   "kind": "date",
-   "value": "1327",
-   "surface": "1327",
-   "sentence": "Andere arabische Quellen sind von Al-Dimashqi (1256–1327) aus Damaskus und Abu`l-Fida (1273 bis 1331), ebenfalls aus Damaskus, bekannt.",
-   "section": "Siedlungs- und Forschungsgeschichte"
-  },
-  "f109": {
-   "kind": "date",
-   "value": "1273",
-   "surface": "1273",
-   "sentence": "Andere arabische Quellen sind von Al-Dimashqi (1256–1327) aus Damaskus und Abu`l-Fida (1273 bis 1331), ebenfalls aus Damaskus, bekannt.",
-   "section": "Siedlungs- und Forschungsgeschichte"
-  },
-  "f110": {
-   "kind": "date",
-   "value": "1331",
-   "surface": "1331",
-   "sentence": "Andere arabische Quellen sind von Al-Dimashqi (1256–1327) aus Damaskus und Abu`l-Fida (1273 bis 1331), ebenfalls aus Damaskus, bekannt.",
-   "section": "Siedlungs- und Forschungsgeschichte"
-  },
-  "f111": {
+  "f102": {
    "kind": "date",
    "value": "1513",
    "surface": "1513",
    "sentence": "Die erste europäische Erwähnung des Tschadsees finden sich bei Leo Africanus, der die Region im Jahre 1513 bereiste und von einem Lande Shary und dem See von Gaoga in seinem Werk Descrittione dell’Africa berichtet.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f112": {
+  "f103": {
    "kind": "date",
    "value": "1571",
    "surface": "1571",
    "sentence": "Dieses Werk erschien zwischen 1571 und 1592 in mehreren Bänden und diente bis ins 19. Jahrhundert zahlreichen Kartographen als Quellliteratur für die Beschreibung der Region.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f113": {
+  "f104": {
    "kind": "date",
    "value": "1592",
    "surface": "1592",
    "sentence": "Dieses Werk erschien zwischen 1571 und 1592 in mehreren Bänden und diente bis ins 19. Jahrhundert zahlreichen Kartographen als Quellliteratur für die Beschreibung der Region.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f114": {
+  "f105": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Dieses Werk erschien zwischen 1571 und 1592 in mehreren Bänden und diente bis ins 19. Jahrhundert zahlreichen Kartographen als Quellliteratur für die Beschreibung der Region.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f115": {
+  "f106": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Da das subsaharische Afrika bis ins 19. Jahrhundert eine Art Terra incognita für den europäischen Kulturraum darstellte, sind dies die einzigen Quellen über die Region des Tschadsees vom Mittelalter bis in die Zeit der Renaissance.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f116": {
+  "f107": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
    "sentence": "Die ersten neuzeitlichen Berichte stammen von dem Deutschen Friedrich Konrad Hornemann, der die Region im Jahre 1800 in britischem Auftrag bereiste; weitere Berichte stammen von Denham, Clapperton und Oudney aus dem Jahre 1822.",
    "section": "Siedlungs- und Forschungsgeschichte"
   },
-  "f117": {
+  "f108": {
    "kind": "date",
    "value": "1822",
    "surface": "1822",

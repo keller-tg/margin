@@ -155,26 +155,18 @@
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "2020 listete die IUCN 33 Arten und damit rund ein Drittel aller Lemurenarten als vom Aussterben bedroht (critically endangered); insgesamt gelten 103 Arten als stark gefährdet oder gefährdet.",
+   "sentence": "2020 listete die IUCN 33 Arten und damit rund ein Drittel aller Lemurenarten als vom Aussterben bedroht; insgesamt gelten 103 Arten als stark gefährdet oder gefährdet.",
    "section": "Lemuren und Menschen"
   },
   "f14": {
    "kind": "measure",
-   "value": 33,
-   "unit": "arten",
-   "surface": "33 Arten",
-   "sentence": "2020 listete die IUCN 33 Arten und damit rund ein Drittel aller Lemurenarten als vom Aussterben bedroht (critically endangered); insgesamt gelten 103 Arten als stark gefährdet oder gefährdet.",
-   "section": "Lemuren und Menschen"
-  },
-  "f15": {
-   "kind": "measure",
    "value": 103,
    "unit": "arten",
    "surface": "103 Arten",
-   "sentence": "2020 listete die IUCN 33 Arten und damit rund ein Drittel aller Lemurenarten als vom Aussterben bedroht (critically endangered); insgesamt gelten 103 Arten als stark gefährdet oder gefährdet.",
+   "sentence": "2020 listete die IUCN 33 Arten und damit rund ein Drittel aller Lemurenarten als vom Aussterben bedroht; insgesamt gelten 103 Arten als stark gefährdet oder gefährdet.",
    "section": "Lemuren und Menschen"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 1500,
    "unit": "jahren",
@@ -182,7 +174,7 @@
    "sentence": "Seitdem die Menschen vor rund 1500 Jahren nach Madagaskar gekommen sind, sind dort mindestens acht Gattungen und mindestens 16 Arten von Lemuren ausgestorben.",
    "section": "Lemuren und Menschen"
   },
-  "f17": {
+  "f16": {
    "kind": "measure",
    "value": 16,
    "unit": "arten",
@@ -190,14 +182,14 @@
    "sentence": "Seitdem die Menschen vor rund 1500 Jahren nach Madagaskar gekommen sind, sind dort mindestens acht Gattungen und mindestens 16 Arten von Lemuren ausgestorben.",
    "section": "Lemuren und Menschen"
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 2500,
    "surface": "2500",
    "sentence": "Die meisten subfossilen Überreste dieser Tiere haben ein Alter von 2500 bis 1000 Jahren; es gibt noch einen Bericht aus dem 17. Jahrhundert, der allerdings auf jede größere Lemurenart zutreffen könnte.",
    "section": "Lemuren und Menschen"
   },
-  "f19": {
+  "f18": {
    "kind": "measure",
    "value": 1000,
    "unit": "jahren",
@@ -205,39 +197,47 @@
    "sentence": "Die meisten subfossilen Überreste dieser Tiere haben ein Alter von 2500 bis 1000 Jahren; es gibt noch einen Bericht aus dem 17. Jahrhundert, der allerdings auf jede größere Lemurenart zutreffen könnte.",
    "section": "Lemuren und Menschen"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Die meisten subfossilen Überreste dieser Tiere haben ein Alter von 2500 bis 1000 Jahren; es gibt noch einen Bericht aus dem 17. Jahrhundert, der allerdings auf jede größere Lemurenart zutreffen könnte.",
    "section": "Lemuren und Menschen"
   },
-  "f21": {
+  "f20": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
    "sentence": "1999 wurden 31 lebende Arten unterschieden, aufgrund mehrerer Neubeschreibungen und der Erhöhung von bislang als Unterarten geführten Populationen zu eigenständigen Arten wurden 2008 bereits 97 lebende Arten unterschieden.",
    "section": "Systematik"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "1999 wurden 31 lebende Arten unterschieden, aufgrund mehrerer Neubeschreibungen und der Erhöhung von bislang als Unterarten geführten Populationen zu eigenständigen Arten wurden 2008 bereits 97 lebende Arten unterschieden.",
    "section": "Systematik"
   },
-  "f23": {
+  "f22": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "1999 wurden 31 lebende Arten unterschieden, aufgrund mehrerer Neubeschreibungen und der Erhöhung von bislang als Unterarten geführten Populationen zu eigenständigen Arten wurden 2008 bereits 97 lebende Arten unterschieden.",
    "section": "Systematik"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 97,
    "surface": "97",
    "sentence": "1999 wurden 31 lebende Arten unterschieden, aufgrund mehrerer Neubeschreibungen und der Erhöhung von bislang als Unterarten geführten Populationen zu eigenständigen Arten wurden 2008 bereits 97 lebende Arten unterschieden.",
+   "section": "Systematik"
+  },
+  "f24": {
+   "kind": "measure",
+   "value": 25,
+   "unit": "arten",
+   "surface": "25 Arten",
+   "sentence": "Die nachfolgende Liste gibt die Systematik bis zur Gattungsebene wieder:\nKatzenmakis\nGabelstreifenmakis: vier Arten\nFettschwanzmakis: zehn Arten\nBüschelohrmaki\nRiesenmausmakis: zwei Arten\nMausmakis: 25 Arten\nLepilemuridae\nWieselmakis: 25 Arten\nMegaladapidae †\nMegaladapis †: drei Arten\nGewöhnliche Makis\nVaris: zwei Arten\nPachylemur †: zwei Arten\nKatta\nGroße Makis: zwölf Arten\nBambuslemuren oder Halbmakis: sechs Arten\nGroßer Bambuslemur\nIndriartige\nWollmakis: neun Arten\nSifakas: neun Arten\nIndri\nPalaeopropithecidae †\nMesopropithecus †: drei Arten\nBabakotia †\nPalaeopropithecus †: zwei Arten\nArchaeoindris †\nArchaeolemuridae †\nArchaeolemur †: zwei Arten\nHadropithecus †\nDie Aufteilung der lebenden Vertreter in fünf Familien ist morphologisch und genetisch gut abgesichert, die Abstammungsverhältnisse sind jedoch nicht restlos geklärt.",
    "section": "Systematik"
   },
   "f25": {
@@ -245,15 +245,7 @@
    "value": 25,
    "unit": "arten",
    "surface": "25 Arten",
-   "sentence": "Die nachfolgende Liste gibt die Systematik bis zur Gattungsebene wieder:\nKatzenmakis (Cheirogaleidae)\nGabelstreifenmakis (Phaner): vier Arten\nFettschwanzmakis (Cheirogaleus): zehn Arten\nBüschelohrmaki (Allocebus trichotis)\nRiesenmausmakis (Mirza): zwei Arten\nMausmakis (Microcebus): 25 Arten\nLepilemuridae\nWieselmakis (Lepilemur): 25 Arten\nMegaladapidae †\nMegaladapis †: drei Arten\nGewöhnliche Makis (Lemuridae)\nVaris (Varecia): zwei Arten\nPachylemur †: zwei Arten\nKatta (Lemur catta)\nGroße Makis (Eulemur): zwölf Arten\nBambuslemuren oder Halbmakis (Hapalemur): sechs Arten\nGroßer Bambuslemur (Prolemur simus)\nIndriartige (Indriidae)\nWollmakis (Avahi): neun Arten\nSifakas (Propithecus): neun Arten\nIndri (Indri indri)\nPalaeopropithecidae (Faultier-Lemuren) †\nMesopropithecus †: drei Arten\nBabakotia †\nPalaeopropithecus †: zwei Arten\nArchaeoindris †\nArchaeolemuridae (Pavian-Lemuren) †\nArchaeolemur †: zwei Arten\nHadropithecus †\nDie Aufteilung der lebenden Vertreter in fünf Familien ist morphologisch und genetisch gut abgesichert, die Abstammungsverhältnisse sind jedoch nicht restlos geklärt.",
-   "section": "Systematik"
-  },
-  "f26": {
-   "kind": "measure",
-   "value": 25,
-   "unit": "arten",
-   "surface": "25 Arten",
-   "sentence": "Die nachfolgende Liste gibt die Systematik bis zur Gattungsebene wieder:\nKatzenmakis (Cheirogaleidae)\nGabelstreifenmakis (Phaner): vier Arten\nFettschwanzmakis (Cheirogaleus): zehn Arten\nBüschelohrmaki (Allocebus trichotis)\nRiesenmausmakis (Mirza): zwei Arten\nMausmakis (Microcebus): 25 Arten\nLepilemuridae\nWieselmakis (Lepilemur): 25 Arten\nMegaladapidae †\nMegaladapis †: drei Arten\nGewöhnliche Makis (Lemuridae)\nVaris (Varecia): zwei Arten\nPachylemur †: zwei Arten\nKatta (Lemur catta)\nGroße Makis (Eulemur): zwölf Arten\nBambuslemuren oder Halbmakis (Hapalemur): sechs Arten\nGroßer Bambuslemur (Prolemur simus)\nIndriartige (Indriidae)\nWollmakis (Avahi): neun Arten\nSifakas (Propithecus): neun Arten\nIndri (Indri indri)\nPalaeopropithecidae (Faultier-Lemuren) †\nMesopropithecus †: drei Arten\nBabakotia †\nPalaeopropithecus †: zwei Arten\nArchaeoindris †\nArchaeolemuridae (Pavian-Lemuren) †\nArchaeolemur †: zwei Arten\nHadropithecus †\nDie Aufteilung der lebenden Vertreter in fünf Familien ist morphologisch und genetisch gut abgesichert, die Abstammungsverhältnisse sind jedoch nicht restlos geklärt.",
+   "sentence": "Die nachfolgende Liste gibt die Systematik bis zur Gattungsebene wieder:\nKatzenmakis\nGabelstreifenmakis: vier Arten\nFettschwanzmakis: zehn Arten\nBüschelohrmaki\nRiesenmausmakis: zwei Arten\nMausmakis: 25 Arten\nLepilemuridae\nWieselmakis: 25 Arten\nMegaladapidae †\nMegaladapis †: drei Arten\nGewöhnliche Makis\nVaris: zwei Arten\nPachylemur †: zwei Arten\nKatta\nGroße Makis: zwölf Arten\nBambuslemuren oder Halbmakis: sechs Arten\nGroßer Bambuslemur\nIndriartige\nWollmakis: neun Arten\nSifakas: neun Arten\nIndri\nPalaeopropithecidae †\nMesopropithecus †: drei Arten\nBabakotia †\nPalaeopropithecus †: zwei Arten\nArchaeoindris †\nArchaeolemuridae †\nArchaeolemur †: zwei Arten\nHadropithecus †\nDie Aufteilung der lebenden Vertreter in fünf Familien ist morphologisch und genetisch gut abgesichert, die Abstammungsverhältnisse sind jedoch nicht restlos geklärt.",
    "section": "Systematik"
   }
  },

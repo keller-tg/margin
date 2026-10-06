@@ -54,279 +54,179 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Gabriel Urbain Fauré [ɡabʁi'ɛl yʁ'bɛ̃ fɔ'ʁe] (* 12. Mai 1845 in Pamiers, Département Ariège, Midi-Pyrénées; † 4. November 1924 in Paris) war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1845",
-   "surface": "1845",
-   "sentence": "Gabriel Urbain Fauré [ɡabʁi'ɛl yʁ'bɛ̃ fɔ'ʁe] (* 12. Mai 1845 in Pamiers, Département Ariège, Midi-Pyrénées; † 4. November 1924 in Paris) war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Gabriel Urbain Fauré [ɡabʁi'ɛl yʁ'bɛ̃ fɔ'ʁe] (* 12. Mai 1845 in Pamiers, Département Ariège, Midi-Pyrénées; † 4. November 1924 in Paris) war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1924",
-   "surface": "1924",
-   "sentence": "Gabriel Urbain Fauré [ɡabʁi'ɛl yʁ'bɛ̃ fɔ'ʁe] (* 12. Mai 1845 in Pamiers, Département Ariège, Midi-Pyrénées; † 4. November 1924 in Paris) war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
-  },
-  "f5": {
    "kind": "date",
    "value": "1905",
    "surface": "1905",
-   "sentence": "Gabriel Urbain Fauré [ɡabʁi'ɛl yʁ'bɛ̃ fɔ'ʁe] (* 12. Mai 1845 in Pamiers, Département Ariège, Midi-Pyrénées; † 4. November 1924 in Paris) war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
+   "sentence": "Gabriel Urbain Fauré war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
-   "sentence": "1877 bescheinigte ihm sein Lehrer Camille Saint-Saëns, mit seiner ersten Sonate für Klavier und Violine (A-Dur, op."
+   "sentence": "1877 bescheinigte ihm sein Lehrer Camille Saint-Saëns, mit seiner ersten Sonate für Klavier und Violine habe er sich in die Riege der Meister eingereiht."
   },
-  "f7": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "13) habe er sich in die Riege der Meister eingereiht."
-  },
-  "f8": {
+  "f3": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "1854 wurde der Neunjährige an Louis Niedermeyers Pariser Schule für Kirchenmusik aufgenommen.",
    "section": "Leben"
   },
-  "f9": {
+  "f4": {
    "kind": "date",
    "value": "1861",
    "surface": "1861",
    "sentence": "Nach dem Tod des Schweizer Komponisten nahm sich ab 1861 der zehn Jahre ältere Camille Saint-Saëns des jungen Fauré an; sie blieben zeitlebens befreundet.",
    "section": "Leben"
   },
-  "f10": {
+  "f5": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "Am Deutsch-Französischen Krieg 1870/1871 war Fauré als Kurier eines Infanterie-Regiments beteiligt.",
    "section": "Leben"
   },
-  "f11": {
+  "f6": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "Heimgekehrt, zählte er 1871 zu den Gründungsmitgliedern der Société Nationale de Musique.",
    "section": "Leben"
   },
-  "f12": {
+  "f7": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "Nach einigen Jahren in Rennes bekam er 1870 eine Organistenstelle in Paris, wo er fortan blieb.",
    "section": "Leben"
   },
-  "f13": {
+  "f8": {
    "kind": "date",
    "value": "1872",
    "surface": "1872",
    "sentence": "1872 wurde er durch Saint-Saëns in den Salon der Familie Viardot eingeführt, wo er die Bekanntschaft von Ernest Renan, George Sand, Gustave Flaubert und Iwan Turgenjew machte.",
    "section": "Leben"
   },
-  "f14": {
+  "f9": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
    "sentence": "1877 wurde seine erste Violinsonate im Leipziger Verlag Breitkopf & Härtel gedruckt.",
    "section": "Leben"
   },
-  "f15": {
+  "f10": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "1885 starb sein Vater, 1887 seine Mutter.",
    "section": "Leben"
   },
-  "f16": {
+  "f11": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
    "sentence": "1885 starb sein Vater, 1887 seine Mutter.",
    "section": "Leben"
   },
-  "f17": {
+  "f12": {
    "kind": "date",
    "value": "1892",
    "surface": "1892",
-   "sentence": "1892 wurde Fauré zum „Inspektor für Musikunterricht“ ernannt.",
+   "sentence": "1892 wurde Fauré zum „Inspektor für Musikunterricht“ernannt.",
    "section": "Leben"
   },
-  "f18": {
+  "f13": {
    "kind": "date",
    "value": "1896",
    "surface": "1896",
-   "sentence": "1896 wurde ihm, als Titularorganist, die große Orgel der Madeleine anvertraut (1896 bis 1905).",
+   "sentence": "1896 wurde ihm, als Titularorganist, die große Orgel der Madeleine anvertraut.",
    "section": "Leben"
   },
-  "f19": {
-   "kind": "date",
-   "value": "1896",
-   "surface": "1896",
-   "sentence": "1896 wurde ihm, als Titularorganist, die große Orgel der Madeleine anvertraut (1896 bis 1905).",
-   "section": "Leben"
-  },
-  "f20": {
-   "kind": "date",
-   "value": "1905",
-   "surface": "1905",
-   "sentence": "1896 wurde ihm, als Titularorganist, die große Orgel der Madeleine anvertraut (1896 bis 1905).",
-   "section": "Leben"
-  },
-  "f21": {
+  "f14": {
    "kind": "date",
    "value": "1896",
    "surface": "1896",
    "sentence": "1896 übernahm er außerdem eine Professur für Komposition am Pariser Konservatorium in der Nachfolge von Jules Massenet.",
    "section": "Leben"
   },
-  "f22": {
+  "f15": {
    "kind": "date",
    "value": "1894",
    "surface": "1894",
    "sentence": "Er reiste zwischen 1894 und 1914 mehrere Male nach London, wo vor allem seine Kammermusikwerke und Lieder aufgeführt wurden.",
    "section": "Leben"
   },
-  "f23": {
+  "f16": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "Er reiste zwischen 1894 und 1914 mehrere Male nach London, wo vor allem seine Kammermusikwerke und Lieder aufgeführt wurden.",
    "section": "Leben"
   },
-  "f24": {
+  "f17": {
    "kind": "date",
    "value": "1901",
    "surface": "1901",
    "sentence": "Ab 1901 lehrte er an der École Niedermeyer.",
    "section": "Leben"
   },
-  "f25": {
+  "f18": {
    "kind": "date",
    "value": "1903",
    "surface": "1903",
    "sentence": "Ab 1903 schrieb Fauré regelmäßig in der renommierten Tageszeitung Le Figaro über Musik.",
    "section": "Leben"
   },
-  "f26": {
+  "f19": {
    "kind": "date",
    "value": "1905",
    "surface": "1905",
    "sentence": "1905 wurde er Direktor des Konservatoriums, was zu einem Skandal führte, weil er dort nicht studiert hatte.",
    "section": "Leben"
   },
-  "f27": {
+  "f20": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "Im Jahr 1920 zwang ihn der völlige Verlust seines Hörvermögens zum Rücktritt als Direktor des Konservatoriums.",
    "section": "Leben"
   },
-  "f28": {
-   "kind": "number",
-   "value": 109,
-   "surface": "109",
-   "sentence": "109, op.",
-   "section": "Leben"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 117,
-   "surface": "117",
-   "sentence": "117) und ein Trio (Trio für Klarinette oder Violine, Cello und Klavier op.",
-   "section": "Leben"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 120,
-   "surface": "120",
-   "sentence": "120).",
-   "section": "Leben"
-  },
-  "f31": {
+  "f21": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
-   "sentence": "Nach einer unglücklichen Verlobung um 1877 heiratete Fauré 1883 die Tochter des Bildhauers Emmanuel Frémiet, Marie (* 1856).",
+   "sentence": "Nach einer unglücklichen Verlobung um 1877 heiratete Fauré 1883 die Tochter des Bildhauers Emmanuel Frémiet, Marie.",
    "section": "Leben"
   },
-  "f32": {
+  "f22": {
    "kind": "date",
    "value": "1883",
    "surface": "1883",
-   "sentence": "Nach einer unglücklichen Verlobung um 1877 heiratete Fauré 1883 die Tochter des Bildhauers Emmanuel Frémiet, Marie (* 1856).",
+   "sentence": "Nach einer unglücklichen Verlobung um 1877 heiratete Fauré 1883 die Tochter des Bildhauers Emmanuel Frémiet, Marie.",
    "section": "Leben"
   },
-  "f33": {
-   "kind": "date",
-   "value": "1856",
-   "surface": "1856",
-   "sentence": "Nach einer unglücklichen Verlobung um 1877 heiratete Fauré 1883 die Tochter des Bildhauers Emmanuel Frémiet, Marie (* 1856).",
-   "section": "Leben"
-  },
-  "f34": {
-   "kind": "date",
-   "value": "1883",
-   "surface": "1883",
-   "sentence": "Das Ehepaar hatte die Söhne Emmanuel (1883–1971) und Philippe (1889–1954).",
-   "section": "Leben"
-  },
-  "f35": {
-   "kind": "date",
-   "value": "1971",
-   "surface": "1971",
-   "sentence": "Das Ehepaar hatte die Söhne Emmanuel (1883–1971) und Philippe (1889–1954).",
-   "section": "Leben"
-  },
-  "f36": {
-   "kind": "date",
-   "value": "1889",
-   "surface": "1889",
-   "sentence": "Das Ehepaar hatte die Söhne Emmanuel (1883–1971) und Philippe (1889–1954).",
-   "section": "Leben"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1954",
-   "surface": "1954",
-   "sentence": "Das Ehepaar hatte die Söhne Emmanuel (1883–1971) und Philippe (1889–1954).",
-   "section": "Leben"
-  },
-  "f38": {
+  "f23": {
    "kind": "date",
    "value": "1900",
    "surface": "1900",
    "sentence": "Um 1900 verliebte sich Fauré in die 24-jährige Pianistin Marguerite Hasselmans.",
    "section": "Leben"
   },
-  "f39": {
+  "f24": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Um 1900 verliebte sich Fauré in die 24-jährige Pianistin Marguerite Hasselmans.",
    "section": "Leben"
   },
-  "f40": {
+  "f25": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "1924 starb Fauré im Alter von 79 Jahren in Paris an einer Lungenentzündung.",
    "section": "Leben"
   },
-  "f41": {
+  "f26": {
    "kind": "measure",
    "value": 79,
    "unit": "jahren",
@@ -334,84 +234,70 @@
    "sentence": "1924 starb Fauré im Alter von 79 Jahren in Paris an einer Lungenentzündung.",
    "section": "Leben"
   },
-  "f42": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "Fauré ruht auf dem Cimetière de Passy (Division 15, ungefähre Grablage: ).",
-   "section": "Leben"
-  },
-  "f43": {
+  "f27": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
-   "sentence": "1913 nahm ihn die Académie royale des Sciences, des Lettres et des Beaux-Arts de Belgique (Classe des Beaux-Arts) als assoziiertes Mitglied auf.",
+   "sentence": "1913 nahm ihn die Académie royale des Sciences, des Lettres et des Beaux-Arts de Belgique als assoziiertes Mitglied auf.",
    "section": "Ehrungen"
   },
-  "f44": {
+  "f28": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "1920 erhielt er das Großkreuz der Ehrenlegion.",
    "section": "Ehrungen"
   },
-  "f45": {
+  "f29": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "In Paris gibt es einen Gabriel-Fauré-Platz im 17. Arrondissement, in seinem Geburtsort eine nach ihm benannte Straße.",
    "section": "Ehrungen"
   },
-  "f46": {
+  "f30": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",
-   "sentence": "2002 wurde der Asteroid (8685) Fauré nach ihm benannt.",
+   "sentence": "2002 wurde der Asteroid Fauré nach ihm benannt.",
    "section": "Ehrungen"
   },
-  "f47": {
-   "kind": "number",
-   "value": 8685,
-   "surface": "8685",
-   "sentence": "2002 wurde der Asteroid (8685) Fauré nach ihm benannt.",
-   "section": "Ehrungen"
-  },
-  "f48": {
+  "f31": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Gabriel Fauré zählt in Frankreich zu den wichtigsten Komponisten in der zweiten Hälfte des 19. Jahrhunderts und zu Beginn des 20. Jahrhunderts.",
    "section": "Fauré als Komponist"
   },
-  "f49": {
+  "f32": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Gabriel Fauré zählt in Frankreich zu den wichtigsten Komponisten in der zweiten Hälfte des 19. Jahrhunderts und zu Beginn des 20. Jahrhunderts.",
    "section": "Fauré als Komponist"
   },
-  "f50": {
+  "f33": {
    "kind": "date",
    "value": "1900",
    "surface": "1900",
    "sentence": "Die Premiere fand im Jahr 1900 vor zehntausend Zuhörern in der Stierkampfarena von Béziers statt, einer Stadt in Faurés südwestfranzösischer Heimat.",
    "section": "Fauré als Komponist"
   },
-  "f51": {
+  "f34": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "An ihr waren mehrere hundert Sänger und Instrumentalisten beteiligt, darunter allein 30 Trompeter.",
    "section": "Fauré als Komponist"
   },
-  "f52": {
+  "f35": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Einer seiner größten Erfolge war die Oper Pénélope, die am 9. Mai 1913 im Rahmen der Eröffnung des Théâtre des Champs-Élysées uraufgeführt wurde.",
    "section": "Fauré als Komponist"
   },
-  "f53": {
+  "f36": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",

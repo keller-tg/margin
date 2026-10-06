@@ -72,124 +72,106 @@
    "value": 24,
    "unit": "kilograms",
    "surface": "24 kilograms",
-   "sentence": "Globally, on average, a person consumes about 24 kilograms (53 pounds) of sugar each year."
+   "sentence": "Globally, on average, a person consumes about 24 kilograms of sugar each year."
   },
   "f3": {
-   "kind": "number",
-   "value": 53,
-   "surface": "53",
-   "sentence": "Globally, on average, a person consumes about 24 kilograms (53 pounds) of sugar each year."
-  },
-  "f4": {
    "kind": "measure",
    "value": 50,
    "unit": "kg",
    "surface": "50 kg",
-   "sentence": "North and South Americans consume up to 50 kg (110 lb), and Africans consume under 20 kg (44 lb)."
+   "sentence": "North and South Americans consume up to 50 kg, and Africans consume under 20 kg."
   },
-  "f5": {
-   "kind": "number",
-   "value": 110,
-   "surface": "110",
-   "sentence": "North and South Americans consume up to 50 kg (110 lb), and Africans consume under 20 kg (44 lb)."
-  },
-  "f6": {
+  "f4": {
    "kind": "measure",
    "value": 20,
    "unit": "kg",
    "surface": "20 kg",
-   "sentence": "North and South Americans consume up to 50 kg (110 lb), and Africans consume under 20 kg (44 lb)."
+   "sentence": "North and South Americans consume up to 50 kg, and Africans consume under 20 kg."
   },
-  "f7": {
-   "kind": "number",
-   "value": 44,
-   "surface": "44",
-   "sentence": "North and South Americans consume up to 50 kg (110 lb), and Africans consume under 20 kg (44 lb)."
-  },
-  "f8": {
+  "f5": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "In 2015 the World Health Organization recommended that adults and children should reduce their intake of free sugars to less than 10% of their total energy intake, encouraging a reduction to below 5%."
   },
-  "f9": {
+  "f6": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
    "surface": "10%",
    "sentence": "In 2015 the World Health Organization recommended that adults and children should reduce their intake of free sugars to less than 10% of their total energy intake, encouraging a reduction to below 5%."
   },
-  "f10": {
+  "f7": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
    "surface": "5%",
    "sentence": "In 2015 the World Health Organization recommended that adults and children should reduce their intake of free sugars to less than 10% of their total energy intake, encouraging a reduction to below 5%."
   },
-  "f11": {
+  "f8": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Beet sugar was first produced industrially in 1801 in Cunern, Prussia.",
    "section": "History"
   },
-  "f12": {
+  "f9": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "World consumption increased more than 100 times from 1850 to 2000, led by the United Kingdom, where it increased from about 2 pounds per head per year in 1650 to 90 pounds by the early 20th century.",
    "section": "History"
   },
-  "f13": {
+  "f10": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
    "sentence": "World consumption increased more than 100 times from 1850 to 2000, led by the United Kingdom, where it increased from about 2 pounds per head per year in 1650 to 90 pounds by the early 20th century.",
    "section": "History"
   },
-  "f14": {
+  "f11": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "World consumption increased more than 100 times from 1850 to 2000, led by the United Kingdom, where it increased from about 2 pounds per head per year in 1650 to 90 pounds by the early 20th century.",
    "section": "History"
   },
-  "f15": {
+  "f12": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "World consumption increased more than 100 times from 1850 to 2000, led by the United Kingdom, where it increased from about 2 pounds per head per year in 1650 to 90 pounds by the early 20th century.",
    "section": "History"
   },
-  "f16": {
+  "f13": {
    "kind": "date",
    "value": "1650",
    "surface": "1650",
    "sentence": "World consumption increased more than 100 times from 1850 to 2000, led by the United Kingdom, where it increased from about 2 pounds per head per year in 1650 to 90 pounds by the early 20th century.",
    "section": "History"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 90,
    "surface": "90",
    "sentence": "World consumption increased more than 100 times from 1850 to 2000, led by the United Kingdom, where it increased from about 2 pounds per head per year in 1650 to 90 pounds by the early 20th century.",
    "section": "History"
   },
-  "f18": {
+  "f15": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Most monosaccharides have a formula that conforms to CnH2nOn with n between 3 and 7 (deoxyribose being an exception).",
+   "sentence": "Most monosaccharides have a formula that conforms to CnH2nOn with n between 3 and 7.",
    "section": "Chemistry"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Most monosaccharides have a formula that conforms to CnH2nOn with n between 3 and 7 (deoxyribose being an exception).",
+   "sentence": "Most monosaccharides have a formula that conforms to CnH2nOn with n between 3 and 7.",
    "section": "Chemistry"
   },
-  "f20": {
+  "f17": {
    "kind": "measure",
    "value": 14,
    "unit": "%",
@@ -197,35 +179,28 @@
    "sentence": "Due to rising demand, sugar production in general increased some 14% over the period 2009 to 2018.",
    "section": "Production"
   },
-  "f21": {
+  "f18": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Due to rising demand, sugar production in general increased some 14% over the period 2009 to 2018.",
    "section": "Production"
   },
-  "f22": {
+  "f19": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Due to rising demand, sugar production in general increased some 14% over the period 2009 to 2018.",
    "section": "Production"
   },
-  "f23": {
+  "f20": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
    "section": "Production"
   },
-  "f24": {
-   "kind": "number",
-   "value": 23,
-   "surface": "23",
-   "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
-   "section": "Production"
-  },
-  "f25": {
+  "f21": {
    "kind": "measure",
    "value": 186000000,
    "unit": "tonnes",
@@ -233,21 +208,14 @@
    "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
    "section": "Production"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
    "section": "Production"
   },
-  "f27": {
-   "kind": "date",
-   "value": "2024",
-   "surface": "2024",
-   "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
-   "section": "Production"
-  },
-  "f28": {
+  "f23": {
    "kind": "measure",
    "value": 194000000,
    "unit": "tonnes",
@@ -255,7 +223,7 @@
    "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
    "section": "Production"
   },
-  "f29": {
+  "f24": {
    "kind": "measure",
    "value": 5000000,
    "unit": "tonnes",
@@ -263,7 +231,7 @@
    "sentence": "In 2022–23 world production of sugar was 186 million tonnes, and in 2023–2024 an estimated 194 million tonnes – a surplus of 5 million tonnes, according to Ragus.",
    "section": "Production"
   },
-  "f30": {
+  "f25": {
    "kind": "measure",
    "value": 21,
    "unit": "%",
@@ -271,126 +239,83 @@
    "sentence": "Sugar cane accounted for around 21% of the global crop production over the 2000–2021 period.",
    "section": "Production"
   },
-  "f31": {
+  "f26": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Sugar cane accounted for around 21% of the global crop production over the 2000–2021 period.",
    "section": "Production"
   },
-  "f32": {
-   "kind": "date",
-   "value": "2021",
-   "surface": "2021",
-   "sentence": "Sugar cane accounted for around 21% of the global crop production over the 2000–2021 period.",
-   "section": "Production"
-  },
-  "f33": {
-   "kind": "measure",
-   "value": 52,
-   "unit": "%",
-   "surface": "52%",
-   "sentence": "The Americas was the leading region in the production of sugar cane (52% of the world total).",
-   "section": "Production"
-  },
-  "f34": {
+  "f27": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23% (table).",
+   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23%.",
    "section": "Production"
   },
-  "f35": {
+  "f28": {
    "kind": "measure",
    "value": 1900000000,
    "unit": "tonnes",
    "surface": "1.9 billion tonnes",
-   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23% (table).",
+   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23%.",
    "section": "Production"
   },
-  "f36": {
+  "f29": {
    "kind": "measure",
    "value": 38,
    "unit": "%",
    "surface": "38%",
-   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23% (table).",
+   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23%.",
    "section": "Production"
   },
-  "f37": {
+  "f30": {
    "kind": "measure",
    "value": 23,
    "unit": "%",
    "surface": "23%",
-   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23% (table).",
+   "sentence": "Global production of sugarcane in 2022 was 1.9 billion tonnes, with Brazil producing 38% of the world total and India 23%.",
    "section": "Production"
   },
-  "f38": {
+  "f31": {
    "kind": "measure",
    "value": 2500,
    "unit": "litres",
    "surface": "2,500 litres",
-   "sentence": "About 2,500 litres (660 US gal) of irrigation water is needed for every one kilogram (2.2 pounds) of sugar produced.",
+   "sentence": "About 2,500 litres of irrigation water is needed for every one kilogram of sugar produced.",
    "section": "Production"
   },
-  "f39": {
-   "kind": "date",
-   "value": "660",
-   "surface": "660",
-   "sentence": "About 2,500 litres (660 US gal) of irrigation water is needed for every one kilogram (2.2 pounds) of sugar produced.",
-   "section": "Production"
-  },
-  "f40": {
-   "kind": "number",
-   "value": 2.2,
-   "surface": "2.2",
-   "sentence": "About 2,500 litres (660 US gal) of irrigation water is needed for every one kilogram (2.2 pounds) of sugar produced.",
-   "section": "Production"
-  },
-  "f41": {
+  "f32": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "In 2022 global production of sugar beets was 260 million tonnes, led by Russia with 18.8% of the world total (table).",
+   "sentence": "In 2022 global production of sugar beets was 260 million tonnes, led by Russia with 18.8% of the world total.",
    "section": "Production"
   },
-  "f42": {
+  "f33": {
    "kind": "measure",
    "value": 260000000,
    "unit": "tonnes",
    "surface": "260 million tonnes",
-   "sentence": "In 2022 global production of sugar beets was 260 million tonnes, led by Russia with 18.8% of the world total (table).",
+   "sentence": "In 2022 global production of sugar beets was 260 million tonnes, led by Russia with 18.8% of the world total.",
    "section": "Production"
   },
-  "f43": {
+  "f34": {
    "kind": "measure",
    "value": 18.8,
    "unit": "%",
    "surface": "18.8%",
-   "sentence": "In 2022 global production of sugar beets was 260 million tonnes, led by Russia with 18.8% of the world total (table).",
+   "sentence": "In 2022 global production of sugar beets was 260 million tonnes, led by Russia with 18.8% of the world total.",
    "section": "Production"
   },
-  "f44": {
-   "kind": "number",
-   "value": 300,
-   "surface": "300",
-   "sentence": "Refined sugar is purer (ICUMSA below 300) than raw sugar (ICUMSA over 1,500).",
-   "section": "Production"
-  },
-  "f45": {
-   "kind": "number",
-   "value": 1500,
-   "surface": "1,500",
-   "sentence": "Refined sugar is purer (ICUMSA below 300) than raw sugar (ICUMSA over 1,500).",
-   "section": "Production"
-  },
-  "f46": {
+  "f35": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Coarse-grain sugar, also known as sanding sugar, composed of reflective crystals with grain size of about 1 to 3 mm, similar to kitchen salt.",
    "section": "Forms and uses"
   },
-  "f47": {
+  "f36": {
    "kind": "measure",
    "value": 3,
    "unit": "mm",
@@ -398,62 +323,39 @@
    "sentence": "Coarse-grain sugar, also known as sanding sugar, composed of reflective crystals with grain size of about 1 to 3 mm, similar to kitchen salt.",
    "section": "Forms and uses"
   },
-  "f48": {
-   "kind": "measure",
-   "value": 0.6,
-   "unit": "mm",
-   "surface": "0.6 mm",
-   "sentence": "Granulated sugar (about 0.6 mm crystals), also known as table sugar or regular sugar, is used at the table, to sprinkle on foods and to sweeten hot drinks (coffee and tea), and in home baking to add sweetness and texture to baked products (cookies and cakes) and desserts (pudding and ice cream).",
-   "section": "Forms and uses"
-  },
-  "f49": {
+  "f37": {
    "kind": "measure",
    "value": 0.8,
    "unit": "g",
    "surface": "0.80 g",
-   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL ( = 620 kg/m^3)\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar (sometimes called sugar lumps) are white or brown granulated sugars lightly steamed and pressed together in block shape.",
+   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar are white or brown granulated sugars lightly steamed and pressed together in block shape.",
    "section": "Forms and uses"
   },
-  "f50": {
+  "f38": {
    "kind": "measure",
    "value": 0.62,
    "unit": "g",
    "surface": "0.62 g",
-   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL ( = 620 kg/m^3)\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar (sometimes called sugar lumps) are white or brown granulated sugars lightly steamed and pressed together in block shape.",
+   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar are white or brown granulated sugars lightly steamed and pressed together in block shape.",
    "section": "Forms and uses"
   },
-  "f51": {
-   "kind": "measure",
-   "value": 620,
-   "unit": "kg",
-   "surface": "620 kg",
-   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL ( = 620 kg/m^3)\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar (sometimes called sugar lumps) are white or brown granulated sugars lightly steamed and pressed together in block shape.",
-   "section": "Forms and uses"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL ( = 620 kg/m^3)\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar (sometimes called sugar lumps) are white or brown granulated sugars lightly steamed and pressed together in block shape.",
-   "section": "Forms and uses"
-  },
-  "f53": {
+  "f39": {
    "kind": "measure",
    "value": 0.7,
    "unit": "g",
    "surface": "0.70 g",
-   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL ( = 620 kg/m^3)\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar (sometimes called sugar lumps) are white or brown granulated sugars lightly steamed and pressed together in block shape.",
+   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar are white or brown granulated sugars lightly steamed and pressed together in block shape.",
    "section": "Forms and uses"
   },
-  "f54": {
+  "f40": {
    "kind": "measure",
    "value": 0.56,
    "unit": "g",
    "surface": "0.56 g",
-   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL ( = 620 kg/m^3)\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar (sometimes called sugar lumps) are white or brown granulated sugars lightly steamed and pressed together in block shape.",
+   "sentence": "The densities of culinary sugars varies owing to differences in particle size and inclusion of moisture:\nBeet sugar 0.80 g/mL\nDextrose sugar 0.62 g/mL\nGranulated sugar 0.70 g/mL\nPowdered sugar 0.56 g/mL\nCube sugar are white or brown granulated sugars lightly steamed and pressed together in block shape.",
    "section": "Forms and uses"
   },
-  "f55": {
+  "f41": {
    "kind": "measure",
    "value": 200,
    "unit": "°c",
@@ -461,28 +363,21 @@
    "sentence": "Heating sugar to near 200 °C for several minutes yields a product called burnt sugar.",
    "section": "Forms and uses"
   },
-  "f56": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Several volatile products evolve in the heating process including butanone, several furans (2-Acetylfuran, furanone, hydroxymethyl furfural), and levoglucosan and more.",
-   "section": "Forms and uses"
-  },
-  "f57": {
+  "f42": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "The 2008 Georgia Imperial sugar refinery explosion, which killed 14 people and injured 36, and destroyed most of the refinery, was caused by the ignition of sugar dust.",
    "section": "Forms and uses"
   },
-  "f58": {
+  "f43": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "The 2008 Georgia Imperial sugar refinery explosion, which killed 14 people and injured 36, and destroyed most of the refinery, was caused by the ignition of sugar dust.",
    "section": "Forms and uses"
   },
-  "f59": {
+  "f44": {
    "kind": "number",
    "value": 36,
    "surface": "36",

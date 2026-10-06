@@ -1,25 +1,15 @@
-# One case-insensitive regular expression per line, matched against visible category names.
-\bwars?\b
-\bbattles?\b
-massacres?
-genocides?
-terroris
-\btortur
-assassinat
-murder
-serial killers
-mass shootings
-\bsexual(ity)?\b
-pornograph
-prostitution
-recreational drugs?
-psychoactive
-drug culture
-entheogens?
-opioids?
-\bsuicides?\b
-elections?\b
-political (scandals|controversies)
-weapons of mass destruction
-nudity|naturism|nude
-nuclear weapons?|atomic bomb
+# Narrow rules (decision of 2026-10-06). One case-insensitive regular expression per line, matched
+# against the topic's visible categories. Only four kinds of content are blocked here:
+#   explicit sexual content · recreational drug use and trafficking ·
+#   graphic violence EVENTS (massacres, genocide, terrorism, executions) · live political controversy
+# Biographical categories ("People of the … War", "… military personnel") and substance classes
+# ("Psychoactive …") do NOT block. Pages that merely mention violence go to the review queue instead
+# (word scan, src/core/review/scan.ts).
+# explicit sexual content
+pornograph|sex industry|sexual acts|sex positions|prostitution|sex work|nudity|naturism
+# recreational drug use and trafficking
+recreational drug use|drug trafficking|illegal drug trade|drug cartels|drug culture|entheogens
+# graphic violence events
+^massacres\b|\bmassacres (in|of|by|during)\b|\bgenocides?\b|terrorist (attacks|incidents)|terrorism (in|by)\b|mass murders?|mass shootings|lynchings|^executions?\b|executions (in|of|by)\b|public executions|war crimes|nuclear weapons|atomic bombings
+# live political controversy
+political scandals|political controversies|^(202\d) (elections|controversies|protests)|\b202\d (elections|protests)\b

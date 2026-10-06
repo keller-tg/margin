@@ -57,543 +57,403 @@
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "The noble gases (historically the inert gases, sometimes referred to as aerogens) are the members of group 18 of the periodic table: helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), radon (Rn) and, in some cases, oganesson (Og)."
+   "sentence": "The noble gases are the members of group 18 of the periodic table: helium, neon, argon, krypton, xenon, radon and, in some cases, oganesson."
   },
   "f2": {
    "kind": "measure",
    "value": 165,
    "unit": "k",
    "surface": "165 K",
-   "sentence": "The intermolecular force between noble gas atoms is the very weak London dispersion force, so their boiling points are all cryogenic, below 165 K (−108 °C; −163 °F)."
+   "sentence": "The intermolecular force between noble gas atoms is the very weak London dispersion force, so their boiling points are all cryogenic, below 165 K.\nThe noble gases' inertness, or tendency not to react with other chemical substances, results from their electron configuration: their outer shell of valence electrons is \"full\", giving them little tendency to participate in chemical reactions."
   },
   "f3": {
-   "kind": "measure",
-   "value": 108,
-   "unit": "°c",
-   "surface": "108 °C",
-   "sentence": "The intermolecular force between noble gas atoms is the very weak London dispersion force, so their boiling points are all cryogenic, below 165 K (−108 °C; −163 °F)."
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "The seventh member of group 18 is oganesson, an unstable synthetic element whose chemistry is still uncertain because only five very short-lived atoms have ever been synthesized."
   },
   "f4": {
-   "kind": "measure",
-   "value": 163,
-   "unit": "°f",
-   "surface": "163 °F",
-   "sentence": "The intermolecular force between noble gas atoms is the very weak London dispersion force, so their boiling points are all cryogenic, below 165 K (−108 °C; −163 °F)."
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "IUPAC uses the term \"noble gas\"interchangeably with \"group 18\"and thus includes oganesson; however, due to relativistic effects, oganesson is predicted to be a solid under standard conditions and reactive enough not to qualify functionally as \"noble\"."
   },
   "f5": {
-   "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "The seventh member of group 18 is oganesson, an unstable synthetic element whose chemistry is still uncertain because only five very short-lived atoms (t1/2 = 0.69 ms) have ever been synthesized (as of 2020)."
-  },
-  "f6": {
-   "kind": "number",
-   "value": 0.69,
-   "surface": "0.69",
-   "sentence": "The seventh member of group 18 is oganesson, an unstable synthetic element whose chemistry is still uncertain because only five very short-lived atoms (t1/2 = 0.69 ms) have ever been synthesized (as of 2020)."
-  },
-  "f7": {
-   "kind": "date",
-   "value": "2020",
-   "surface": "2020",
-   "sentence": "The seventh member of group 18 is oganesson, an unstable synthetic element whose chemistry is still uncertain because only five very short-lived atoms (t1/2 = 0.69 ms) have ever been synthesized (as of 2020)."
-  },
-  "f8": {
-   "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "IUPAC uses the term \"noble gas\" interchangeably with \"group 18\" and thus includes oganesson; however, due to relativistic effects, oganesson is predicted to be a solid under standard conditions and reactive enough not to qualify functionally as \"noble\"."
-  },
-  "f9": {
    "kind": "date",
    "value": "1900",
    "surface": "1900",
    "sentence": "Noble gas is translated from the German noun Edelgas, first used in 1900 by Hugo Erdmann to indicate their extremely low level of reactivity.",
    "section": "History"
   },
-  "f10": {
-   "kind": "measure",
-   "value": 0.94,
-   "unit": "%",
-   "surface": "0.94%",
-   "sentence": "Rare gases is another term that was used, but this is also inaccurate because argon forms a fairly considerable part (0.94% by volume, 1.3% by mass) of the Earth's atmosphere due to decay of radioactive potassium-40.",
-   "section": "History"
-  },
-  "f11": {
-   "kind": "measure",
-   "value": 1.3,
-   "unit": "%",
-   "surface": "1.3%",
-   "sentence": "Rare gases is another term that was used, but this is also inaccurate because argon forms a fairly considerable part (0.94% by volume, 1.3% by mass) of the Earth's atmosphere due to decay of radioactive potassium-40.",
-   "section": "History"
-  },
-  "f12": {
+  "f6": {
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "Pierre Janssen and Joseph Norman Lockyer had discovered a new element on 18 August 1868 while looking at the chromosphere of the Sun, and named it helium after the Greek word for the Sun, ἥλιος (hḗlios).",
+   "sentence": "Pierre Janssen and Joseph Norman Lockyer had discovered a new element on 18 August 1868 while looking at the chromosphere of the Sun, and named it helium after the Greek word for the Sun, ἥλιος.",
    "section": "History"
   },
-  "f13": {
+  "f7": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
-   "sentence": "Pierre Janssen and Joseph Norman Lockyer had discovered a new element on 18 August 1868 while looking at the chromosphere of the Sun, and named it helium after the Greek word for the Sun, ἥλιος (hḗlios).",
+   "sentence": "Pierre Janssen and Joseph Norman Lockyer had discovered a new element on 18 August 1868 while looking at the chromosphere of the Sun, and named it helium after the Greek word for the Sun, ἥλιος.",
    "section": "History"
   },
-  "f14": {
+  "f8": {
    "kind": "date",
    "value": "1784",
    "surface": "1784",
    "sentence": "Before them, in 1784, the English chemist and physicist Henry Cavendish had discovered that air contains a small proportion of a substance less reactive than nitrogen.",
    "section": "History"
   },
-  "f15": {
+  "f9": {
    "kind": "date",
    "value": "1895",
    "surface": "1895",
    "sentence": "A century later, in 1895, Lord Rayleigh discovered that samples of nitrogen from the air were of a different density than nitrogen resulting from chemical reactions.",
    "section": "History"
   },
-  "f16": {
+  "f10": {
    "kind": "date",
    "value": "1902",
    "surface": "1902",
    "sentence": "In 1902, having accepted the evidence for the elements helium and argon, Dmitri Mendeleev included these noble gases as group 0 in his arrangement of the elements, which would later become the periodic table.",
    "section": "History"
   },
-  "f17": {
+  "f11": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "In 1902, having accepted the evidence for the elements helium and argon, Dmitri Mendeleev included these noble gases as group 0 in his arrangement of the elements, which would later become the periodic table.",
    "section": "History"
   },
-  "f18": {
+  "f12": {
    "kind": "date",
    "value": "1898",
    "surface": "1898",
-   "sentence": "In 1898, he discovered the elements krypton, neon, and xenon, and named them after the Greek words κρυπτός (kryptós, \"hidden\"), νέος (néos, \"new\"), and ξένος (ksénos, \"stranger\"), respectively.",
+   "sentence": "In 1898, he discovered the elements krypton, neon, and xenon, and named them after the Greek words κρυπτός, νέος, and ξένος, respectively.",
    "section": "History"
   },
-  "f19": {
+  "f13": {
    "kind": "date",
    "value": "1898",
    "surface": "1898",
    "sentence": "Radon was first identified in 1898 by Friedrich Ernst Dorn, and was named radium emanation, but was not considered a noble gas until 1904 when its characteristics were found to be similar to those of other noble gases.",
    "section": "History"
   },
-  "f20": {
+  "f14": {
    "kind": "date",
    "value": "1904",
    "surface": "1904",
    "sentence": "Radon was first identified in 1898 by Friedrich Ernst Dorn, and was named radium emanation, but was not considered a noble gas until 1904 when its characteristics were found to be similar to those of other noble gases.",
    "section": "History"
   },
-  "f21": {
+  "f15": {
    "kind": "date",
    "value": "1904",
    "surface": "1904",
    "sentence": "Rayleigh and Ramsay received the 1904 Nobel Prizes in Physics and in Chemistry, respectively, for their discovery of the noble gases; in the words of J. E. Cederblom, then president of the Royal Swedish Academy of Sciences, \"the discovery of an entirely new group of elements, of which no single representative had been known with any certainty, is something utterly unique in the history of chemistry, being intrinsically an advance in science of peculiar significance\".",
    "section": "History"
   },
-  "f22": {
+  "f16": {
    "kind": "date",
    "value": "1895",
    "surface": "1895",
    "sentence": "In 1895, French chemist Henri Moissan attempted to form a reaction between fluorine, the most electronegative element, and argon, one of the noble gases, but failed.",
    "section": "History"
   },
-  "f23": {
+  "f17": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
    "sentence": "Learning from these experiments, Danish physicist Niels Bohr proposed in 1913 that the electrons in atoms are arranged in shells surrounding the nucleus, and that for all noble gases except helium the outermost shell always contains eight electrons.",
    "section": "History"
   },
-  "f24": {
+  "f18": {
    "kind": "date",
    "value": "1916",
    "surface": "1916",
    "sentence": "In 1916, Gilbert N. Lewis formulated the octet rule, which concluded an octet of electrons in the outer shell was the most stable arrangement for any atom; this arrangement caused them to be unreactive with other elements since they did not require any more electrons to complete their outer shell.",
    "section": "History"
   },
-  "f25": {
+  "f19": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
    "sentence": "In 1962, Neil Bartlett discovered the first chemical compound of a noble gas, xenon hexafluoroplatinate.",
    "section": "History"
   },
-  "f26": {
+  "f20": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
-   "sentence": "Compounds of other noble gases were discovered soon after: in 1962 for radon, radon difluoride (RnF2), which was identified by radiotracer techniques and in 1963 for krypton, krypton difluoride (KrF2).",
+   "sentence": "Compounds of other noble gases were discovered soon after: in 1962 for radon, radon difluoride, which was identified by radiotracer techniques and in 1963 for krypton, krypton difluoride.",
    "section": "History"
   },
-  "f27": {
+  "f21": {
    "kind": "date",
    "value": "1963",
    "surface": "1963",
-   "sentence": "Compounds of other noble gases were discovered soon after: in 1962 for radon, radon difluoride (RnF2), which was identified by radiotracer techniques and in 1963 for krypton, krypton difluoride (KrF2).",
+   "sentence": "Compounds of other noble gases were discovered soon after: in 1962 for radon, radon difluoride, which was identified by radiotracer techniques and in 1963 for krypton, krypton difluoride.",
    "section": "History"
   },
-  "f28": {
+  "f22": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride (HArF) was formed at a temperature of 40 K (−233.2 °C; −387.7 °F).",
+   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride was formed at a temperature of 40 K.\nIn October 2006, scientists from the Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory successfully created synthetically oganesson, the seventh element in group 18, by bombarding californium with calcium.",
    "section": "History"
   },
-  "f29": {
+  "f23": {
    "kind": "measure",
    "value": 40,
    "unit": "k",
    "surface": "40 K",
-   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride (HArF) was formed at a temperature of 40 K (−233.2 °C; −387.7 °F).",
+   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride was formed at a temperature of 40 K.\nIn October 2006, scientists from the Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory successfully created synthetically oganesson, the seventh element in group 18, by bombarding californium with calcium.",
    "section": "History"
   },
-  "f30": {
-   "kind": "measure",
-   "value": 233.2,
-   "unit": "°c",
-   "surface": "233.2 °C",
-   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride (HArF) was formed at a temperature of 40 K (−233.2 °C; −387.7 °F).",
-   "section": "History"
-  },
-  "f31": {
-   "kind": "measure",
-   "value": 387.7,
-   "unit": "°f",
-   "surface": "387.7 °F",
-   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride (HArF) was formed at a temperature of 40 K (−233.2 °C; −387.7 °F).",
-   "section": "History"
-  },
-  "f32": {
+  "f24": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "In October 2006, scientists from the Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory successfully created synthetically oganesson, the seventh element in group 18, by bombarding californium with calcium.",
+   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride was formed at a temperature of 40 K.\nIn October 2006, scientists from the Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory successfully created synthetically oganesson, the seventh element in group 18, by bombarding californium with calcium.",
    "section": "History"
   },
-  "f33": {
+  "f25": {
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "In October 2006, scientists from the Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory successfully created synthetically oganesson, the seventh element in group 18, by bombarding californium with calcium.",
+   "sentence": "The first stable compound of argon was reported in 2000 when argon fluorohydride was formed at a temperature of 40 K.\nIn October 2006, scientists from the Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory successfully created synthetically oganesson, the seventh element in group 18, by bombarding californium with calcium.",
    "section": "History"
   },
-  "f34": {
+  "f26": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
+   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure – a pressure of 25 standard atmospheres must be applied at a temperature of 0.95 K to convert it to a solid while a pressure of about 113,500 atm is required at room temperature.",
    "section": "Physical and atomic properties"
   },
-  "f35": {
+  "f27": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
+   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure – a pressure of 25 standard atmospheres must be applied at a temperature of 0.95 K to convert it to a solid while a pressure of about 113,500 atm is required at room temperature.",
    "section": "Physical and atomic properties"
   },
-  "f36": {
-   "kind": "number",
-   "value": 2500,
-   "surface": "2,500",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
-   "section": "Physical and atomic properties"
-  },
-  "f37": {
-   "kind": "number",
-   "value": 370,
-   "surface": "370",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
-   "section": "Physical and atomic properties"
-  },
-  "f38": {
+  "f28": {
    "kind": "measure",
    "value": 0.95,
    "unit": "k",
    "surface": "0.95 K",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
+   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure – a pressure of 25 standard atmospheres must be applied at a temperature of 0.95 K to convert it to a solid while a pressure of about 113,500 atm is required at room temperature.",
    "section": "Physical and atomic properties"
   },
-  "f39": {
-   "kind": "measure",
-   "value": 272.2,
-   "unit": "°c",
-   "surface": "272.200 °C",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
-   "section": "Physical and atomic properties"
-  },
-  "f40": {
-   "kind": "measure",
-   "value": 457.96,
-   "unit": "°f",
-   "surface": "457.960 °F",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
-   "section": "Physical and atomic properties"
-  },
-  "f41": {
+  "f29": {
    "kind": "number",
    "value": 113500,
    "surface": "113,500",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
+   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure – a pressure of 25 standard atmospheres must be applied at a temperature of 0.95 K to convert it to a solid while a pressure of about 113,500 atm is required at room temperature.",
    "section": "Physical and atomic properties"
   },
-  "f42": {
-   "kind": "number",
-   "value": 11500000,
-   "surface": "11,500,000",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
-   "section": "Physical and atomic properties"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 1668000,
-   "surface": "1,668,000",
-   "sentence": "Helium has several unique qualities when compared with other elements: its boiling point at 1 atm is lower than those of any other known substance; it is the only element known to exhibit superfluidity; and, it is the only element that cannot be solidified by cooling at atmospheric pressure (an effect explained by quantum mechanics as its zero point energy is too high to permit freezing) – a pressure of 25 standard atmospheres (2,500 kPa; 370 psi) must be applied at a temperature of 0.95 K (−272.200 °C; −457.960 °F) to convert it to a solid while a pressure of about 113,500 atm (11,500,000 kPa; 1,668,000 psi) is required at room temperature.",
-   "section": "Physical and atomic properties"
-  },
-  "f44": {
-   "kind": "measure",
-   "value": 1021,
-   "unit": "years",
-   "surface": "1021 years",
-   "sentence": "The noble gases up to xenon have multiple stable isotopes; krypton and xenon also have naturally occurring radioisotopes, namely 78Kr, 124Xe, and 136Xe, all have very long lives ( 1021 years) and can undergo double electron capture or double beta decay.",
-   "section": "Physical and atomic properties"
-  },
-  "f45": {
+  "f30": {
    "kind": "number",
    "value": 3.8,
    "surface": "3.8",
    "sentence": "Radon has no stable isotopes; its longest-lived isotope, 222Rn, has a half-life of 3.8 days and decays to form helium and polonium, which ultimately decays to lead.",
    "section": "Physical and atomic properties"
   },
-  "f46": {
-   "kind": "number",
-   "value": 0.7,
-   "surface": "0.7",
-   "sentence": "Oganesson also has no stable isotopes, and its only known isotope 294Og is very short-lived (half-life 0.7 ms).",
-   "section": "Physical and atomic properties"
-  },
-  "f47": {
+  "f31": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "This results in systematic group trends: as one goes down group 18, the atomic radius increases, and with it the interatomic forces increase, resulting in an increasing melting point, boiling point, enthalpy of vaporization, and solubility.",
    "section": "Physical and atomic properties"
   },
-  "f48": {
+  "f32": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "The Lennard-Jones potential, often used to model intermolecular interactions, was deduced in 1924 by John Lennard-Jones from experimental data on argon before the development of quantum mechanics provided the tools for understanding intermolecular forces from first principles.",
    "section": "Physical and atomic properties"
   },
-  "f49": {
+  "f33": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "They were once labeled group 0 in the periodic table because it was believed they had a valence of zero, meaning their atoms cannot combine with those of other elements to form compounds.",
    "section": "Chemical properties"
   },
-  "f50": {
+  "f34": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "This causes some inconsistencies in trends across the table, and on those grounds some chemists have proposed that helium should be moved to group 2 to be with other s2 elements, but this change has not generally been adopted.",
    "section": "Chemical properties"
   },
-  "f51": {
+  "f35": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "In 1933, Linus Pauling predicted that the heavier noble gases could form compounds with fluorine and oxygen.",
    "section": "Chemical properties"
   },
-  "f52": {
+  "f36": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride (XeF2), xenon tetrafluoride (XeF4), xenon hexafluoride (XeF6), xenon tetroxide (XeO4), and sodium perxenate (Na4XeO6).",
+   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride, xenon tetrafluoride, xenon hexafluoride, xenon tetroxide, and sodium perxenate.",
    "section": "Chemical properties"
   },
-  "f53": {
+  "f37": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride (XeF2), xenon tetrafluoride (XeF4), xenon hexafluoride (XeF6), xenon tetroxide (XeO4), and sodium perxenate (Na4XeO6).",
+   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride, xenon tetrafluoride, xenon hexafluoride, xenon tetroxide, and sodium perxenate.",
    "section": "Chemical properties"
   },
-  "f54": {
+  "f38": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride (XeF2), xenon tetrafluoride (XeF4), xenon hexafluoride (XeF6), xenon tetroxide (XeO4), and sodium perxenate (Na4XeO6).",
+   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride, xenon tetrafluoride, xenon hexafluoride, xenon tetroxide, and sodium perxenate.",
    "section": "Chemical properties"
   },
-  "f55": {
+  "f39": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride (XeF2), xenon tetrafluoride (XeF4), xenon hexafluoride (XeF6), xenon tetroxide (XeO4), and sodium perxenate (Na4XeO6).",
+   "sentence": "Most of them have the xenon atom in the oxidation state of +2, +4, +6, or +8 bonded to highly electronegative atoms such as fluorine or oxygen, as in xenon difluoride, xenon tetrafluoride, xenon hexafluoride, xenon tetroxide, and sodium perxenate.",
    "section": "Chemical properties"
   },
-  "f56": {
+  "f40": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Xenon reacts with fluorine to form numerous xenon fluorides according to the following equations:\nXe + F2 → XeF2\nXe + 2 F2 → XeF4\nXe + 3 F2 → XeF6\nSome of these compounds have found use in chemical synthesis as oxidizing agents; XeF2, in particular, is commercially available and can be used as a fluorinating agent.",
    "section": "Chemical properties"
   },
-  "f57": {
+  "f41": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Xenon reacts with fluorine to form numerous xenon fluorides according to the following equations:\nXe + F2 → XeF2\nXe + 2 F2 → XeF4\nXe + 3 F2 → XeF6\nSome of these compounds have found use in chemical synthesis as oxidizing agents; XeF2, in particular, is commercially available and can be used as a fluorinating agent.",
    "section": "Chemical properties"
   },
-  "f58": {
+  "f42": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
-   "sentence": "As of 2007, about five hundred compounds of xenon bonded to other elements have been identified, including organoxenon compounds (containing xenon bonded to carbon), and xenon bonded to nitrogen, chlorine, gold, mercury, and xenon itself.",
+   "sentence": "As of 2007, about five hundred compounds of xenon bonded to other elements have been identified, including organoxenon compounds, and xenon bonded to nitrogen, chlorine, gold, mercury, and xenon itself.",
    "section": "Chemical properties"
   },
-  "f59": {
+  "f43": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "For this reason, kinetic hindrance makes it difficult to oxidize radon beyond the +2 state.",
    "section": "Chemical properties"
   },
-  "f60": {
+  "f44": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Krypton is less reactive than xenon, but several compounds have been reported with krypton in the oxidation state of +2.",
    "section": "Chemical properties"
   },
-  "f61": {
+  "f45": {
    "kind": "measure",
    "value": 60,
    "unit": "°c",
    "surface": "60 °C",
-   "sentence": "Under extreme conditions, krypton reacts with fluorine to form KrF2 according to the following equation:\nKr + F2 → KrF2\nCompounds in which krypton forms a single bond to nitrogen and oxygen have also been characterized, but are only stable below −60 °C (−76 °F) and −90 °C (−130 °F) respectively.",
+   "sentence": "Under extreme conditions, krypton reacts with fluorine to form KrF2 according to the following equation:\nKr + F2 → KrF2\nCompounds in which krypton forms a single bond to nitrogen and oxygen have also been characterized, but are only stable below −60 °C and −90 °C respectively.",
    "section": "Chemical properties"
   },
-  "f62": {
-   "kind": "measure",
-   "value": 76,
-   "unit": "°f",
-   "surface": "76 °F",
-   "sentence": "Under extreme conditions, krypton reacts with fluorine to form KrF2 according to the following equation:\nKr + F2 → KrF2\nCompounds in which krypton forms a single bond to nitrogen and oxygen have also been characterized, but are only stable below −60 °C (−76 °F) and −90 °C (−130 °F) respectively.",
-   "section": "Chemical properties"
-  },
-  "f63": {
+  "f46": {
    "kind": "measure",
    "value": 90,
    "unit": "°c",
    "surface": "90 °C",
-   "sentence": "Under extreme conditions, krypton reacts with fluorine to form KrF2 according to the following equation:\nKr + F2 → KrF2\nCompounds in which krypton forms a single bond to nitrogen and oxygen have also been characterized, but are only stable below −60 °C (−76 °F) and −90 °C (−130 °F) respectively.",
+   "sentence": "Under extreme conditions, krypton reacts with fluorine to form KrF2 according to the following equation:\nKr + F2 → KrF2\nCompounds in which krypton forms a single bond to nitrogen and oxygen have also been characterized, but are only stable below −60 °C and −90 °C respectively.",
    "section": "Chemical properties"
   },
-  "f64": {
-   "kind": "measure",
-   "value": 130,
-   "unit": "°f",
-   "surface": "130 °F",
-   "sentence": "Under extreme conditions, krypton reacts with fluorine to form KrF2 according to the following equation:\nKr + F2 → KrF2\nCompounds in which krypton forms a single bond to nitrogen and oxygen have also been characterized, but are only stable below −60 °C (−76 °F) and −90 °C (−130 °F) respectively.",
-   "section": "Chemical properties"
-  },
-  "f65": {
+  "f47": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Similar conditions were used to obtain the first few compounds of argon in 2000, such as argon fluorohydride (HArF), and some bound to the late transition metals copper, silver, and gold.",
+   "sentence": "Similar conditions were used to obtain the first few compounds of argon in 2000, such as argon fluorohydride, and some bound to the late transition metals copper, silver, and gold.",
    "section": "Chemical properties"
   },
-  "f66": {
+  "f48": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "As of 2007, no stable neutral molecules involving covalently bound helium or neon are known.",
    "section": "Chemical properties"
   },
-  "f67": {
+  "f49": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Oganesson is expected to be rather like silicon or tin in group 14: a reactive element with a common +4 and a less common +2 state, which at room temperature and pressure is not a gas but rather a solid semiconductor.",
    "section": "Chemical properties"
   },
-  "f68": {
+  "f50": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Oganesson is expected to be rather like silicon or tin in group 14: a reactive element with a common +4 and a less common +2 state, which at room temperature and pressure is not a gas but rather a solid semiconductor.",
    "section": "Chemical properties"
   },
-  "f69": {
+  "f51": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Oganesson is expected to be rather like silicon or tin in group 14: a reactive element with a common +4 and a less common +2 state, which at room temperature and pressure is not a gas but rather a solid semiconductor.",
    "section": "Chemical properties"
   },
-  "f70": {
-   "kind": "number",
-   "value": 14,
-   "surface": "14",
-   "sentence": "(On the other hand, flerovium, despite being in group 14, is predicted to be unusually volatile, which suggests noble gas-like properties.)",
-   "section": "Chemical properties"
-  },
-  "f71": {
+  "f52": {
    "kind": "date",
    "value": "1925",
    "surface": "1925",
    "sentence": "The simplest is the helium hydride molecular ion, HeH+, discovered in 1925.",
    "section": "Chemical properties"
   },
-  "f72": {
+  "f53": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Because it is composed of the two most abundant elements in the universe, hydrogen and helium, it was believed to occur naturally in the interstellar medium, and it was finally detected in April 2019 using the airborne SOFIA telescope.",
    "section": "Chemical properties"
   },
-  "f73": {
+  "f54": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
    "sentence": "The clathrates, first described in 1949, consist of a noble gas atom trapped within cavities of crystal lattices of certain organic and inorganic substances.",
    "section": "Chemical properties"
   },
-  "f74": {
+  "f55": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
-   "sentence": "In 1993, it was discovered that when C60, a spherical molecule consisting of 60 carbon atoms, is exposed to noble gases at high pressure, complexes such as He@C60 can be formed (the @ notation indicates He is contained inside C60 but not covalently bound to it).",
+   "sentence": "In 1993, it was discovered that when C60, a spherical molecule consisting of 60 carbon atoms, is exposed to noble gases at high pressure, complexes such as He@C60 can be formed.",
    "section": "Chemical properties"
   },
-  "f75": {
+  "f56": {
    "kind": "number",
    "value": 60,
    "surface": "60",
-   "sentence": "In 1993, it was discovered that when C60, a spherical molecule consisting of 60 carbon atoms, is exposed to noble gases at high pressure, complexes such as He@C60 can be formed (the @ notation indicates He is contained inside C60 but not covalently bound to it).",
+   "sentence": "In 1993, it was discovered that when C60, a spherical molecule consisting of 60 carbon atoms, is exposed to noble gases at high pressure, complexes such as He@C60 can be formed.",
    "section": "Chemical properties"
   },
-  "f76": {
+  "f57": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "As of 2008, endohedral complexes with helium, neon, argon, krypton, and xenon have been created.",
    "section": "Chemical properties"
   },
-  "f77": {
+  "f58": {
    "kind": "date",
    "value": "1951",
    "surface": "1951",

@@ -1,0 +1,73 @@
+{
+ "about": "Topics held back for a human to read. Set \"status\" to \"approved\" to let a topic back into the picks, or \"rejected\" to keep it out for good. \"review\" keeps it out until decided.",
+ "items": [
+  {
+   "lang": "de",
+   "qid": "Q132537",
+   "title": "Robert Oppenheimer",
+   "status": "review",
+   "source": "manual",
+   "reasons": [
+    "manual: the owner asked to read the generated pages before deciding (2026-10-06)"
+   ],
+   "pickedFor": {
+    "date": "2026-10-18",
+    "slot": "morning"
+   },
+   "addedAt": "2026-10-06T09:43:26.525527+00:00"
+  },
+  {
+   "lang": "en",
+   "qid": "Q163366",
+   "title": "Ezra Pound",
+   "status": "review",
+   "source": "manual",
+   "reasons": [
+    "manual: the owner asked to read the generated pages before deciding (2026-10-06)"
+   ],
+   "pickedFor": {
+    "date": "2026-10-31",
+    "slot": "morning"
+   },
+   "addedAt": "2026-10-06T09:43:26.525527+00:00"
+  },
+  {
+   "lang": "fr",
+   "qid": "Q5747",
+   "title": "Palmyre",
+   "status": "review",
+   "source": "manual",
+   "reasons": [
+    "manual: the owner asked to read the generated pages before deciding (2026-10-06)"
+   ],
+   "pickedFor": {
+    "date": "2026-10-29",
+    "slot": "morning"
+   },
+   "addedAt": "2026-10-06T09:43:26.525527+00:00"
+  },
+  {
+   "lang": "fr",
+   "qid": "Q25327",
+   "title": "Coccinellidae",
+   "status": "review",
+   "source": "word-scan",
+   "reasons": [
+    "word scan: meurtre"
+   ],
+   "hits": [
+    {
+     "pace": "easy",
+     "page": 2,
+     "word": "meurtre",
+     "text": "Condamné à mort pour un meurtre commis à Paris, un homme."
+    }
+   ],
+   "pickedFor": {
+    "date": "2026-10-28",
+    "slot": "evening"
+   },
+   "addedAt": "2026-10-06T09:47:04.012Z"
+  }
+ ]
+}

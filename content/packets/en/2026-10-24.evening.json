@@ -70,224 +70,135 @@
    "value": 7,
    "unit": "m",
    "surface": "7 m",
-   "sentence": "Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft)."
+   "sentence": "Three species are known: M. birostris, the largest at 7 m in width, M. yarae, which reaches 6 m, and M. alfredi, the smallest at 5.5 m."
   },
   "f2": {
-   "kind": "measure",
-   "value": 23,
-   "unit": "ft",
-   "surface": "23 ft",
-   "sentence": "Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft)."
-  },
-  "f3": {
    "kind": "measure",
    "value": 6,
    "unit": "m",
    "surface": "6 m",
-   "sentence": "Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft)."
+   "sentence": "Three species are known: M. birostris, the largest at 7 m in width, M. yarae, which reaches 6 m, and M. alfredi, the smallest at 5.5 m."
   },
-  "f4": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "ft",
-   "surface": "20 ft",
-   "sentence": "Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft)."
-  },
-  "f5": {
+  "f3": {
    "kind": "measure",
    "value": 5.5,
    "unit": "m",
    "surface": "5.5 m",
-   "sentence": "Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft)."
+   "sentence": "Three species are known: M. birostris, the largest at 7 m in width, M. yarae, which reaches 6 m, and M. alfredi, the smallest at 5.5 m."
   },
-  "f6": {
-   "kind": "measure",
-   "value": 18,
-   "unit": "ft",
-   "surface": "18 ft",
-   "sentence": "Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft)."
-  },
-  "f7": {
+  "f4": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "In 2018, an analysis of DNA, and to a lesser degree, morphology, found that Mobula was paraphyletic with respect to the manta rays; that is, some members of genus Mobula are closer related to the members of the genus Manta than they are to fellow Mobula, and the researchers recommended treating Manta as a junior synonym of Mobula.",
    "section": "Taxonomy"
   },
-  "f8": {
+  "f5": {
    "kind": "date",
    "value": "1829",
    "surface": "1829",
    "sentence": "The genus name Manta was first published in 1829 by Dr Edward Nathaniel Bancroft of Jamaica.",
    "section": "Taxonomy"
   },
-  "f9": {
-   "kind": "date",
-   "value": "1792",
-   "surface": "1792",
-   "sentence": "The specific name birostris is ascribed to Johann Julius Walbaum (1792) by some authorities and to Johann August Donndorff (1798) by others.",
-   "section": "Taxonomy"
-  },
-  "f10": {
-   "kind": "date",
-   "value": "1798",
-   "surface": "1798",
-   "sentence": "The specific name birostris is ascribed to Johann Julius Walbaum (1792) by some authorities and to Johann August Donndorff (1798) by others.",
-   "section": "Taxonomy"
-  },
-  "f11": {
+  "f6": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "A 2009 study analyzed the differences in morphology, including color, meristic variation, spine, dermal denticles (tooth-like scales), and teeth of different populations.",
+   "sentence": "A 2009 study analyzed the differences in morphology, including color, meristic variation, spine, dermal denticles, and teeth of different populations.",
    "section": "Taxonomy"
   },
-  "f12": {
+  "f7": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "A 2010 study on mantas around Japan confirmed the morphological and genetic differences between M. birostris and M. alfredi.",
    "section": "Taxonomy"
   },
-  "f13": {
+  "f8": {
    "kind": "measure",
    "value": 6,
    "unit": "m",
    "surface": "6 m",
-   "sentence": "A third possible species, preliminarily called Manta sp. cf. birostris, reaches at least 6 m (20 ft) in width, and inhabits the tropical West Atlantic, including the Caribbean.",
+   "sentence": "A third possible species, preliminarily called Manta sp. cf. birostris, reaches at least 6 m in width, and inhabits the tropical West Atlantic, including the Caribbean.",
    "section": "Taxonomy"
   },
-  "f14": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "ft",
-   "surface": "20 ft",
-   "sentence": "A third possible species, preliminarily called Manta sp. cf. birostris, reaches at least 6 m (20 ft) in width, and inhabits the tropical West Atlantic, including the Caribbean.",
-   "section": "Taxonomy"
-  },
-  "f15": {
+  "f9": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
-   "sentence": "In 2025, it was formally described as the Atlantic manta ray (Mobula yarae).",
+   "sentence": "In 2025, it was formally described as the Atlantic manta ray.",
    "section": "Taxonomy"
   },
-  "f16": {
+  "f10": {
    "kind": "measure",
    "value": 1350,
    "unit": "kg",
    "surface": "1,350 kg",
-   "sentence": "Mantas can reach 1,350 kg (2,980 lb).",
+   "sentence": "Mantas can reach 1,350 kg.",
    "section": "Characteristics"
   },
-  "f17": {
-   "kind": "number",
-   "value": 2980,
-   "surface": "2,980",
-   "sentence": "Mantas can reach 1,350 kg (2,980 lb).",
-   "section": "Characteristics"
-  },
-  "f18": {
+  "f11": {
    "kind": "number",
    "value": 2.2,
    "surface": "2.2",
-   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m (23 ft) in width, while M. alfredi reaches about 5.5 m (18 ft).",
+   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m in width, while M. alfredi reaches about 5.5 m.",
    "section": "Characteristics"
   },
-  "f19": {
+  "f12": {
    "kind": "measure",
    "value": 7,
    "unit": "m",
    "surface": "7 m",
-   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m (23 ft) in width, while M. alfredi reaches about 5.5 m (18 ft).",
+   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m in width, while M. alfredi reaches about 5.5 m.",
    "section": "Characteristics"
   },
-  "f20": {
-   "kind": "measure",
-   "value": 23,
-   "unit": "ft",
-   "surface": "23 ft",
-   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m (23 ft) in width, while M. alfredi reaches about 5.5 m (18 ft).",
-   "section": "Characteristics"
-  },
-  "f21": {
+  "f13": {
    "kind": "measure",
    "value": 5.5,
    "unit": "m",
    "surface": "5.5 m",
-   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m (23 ft) in width, while M. alfredi reaches about 5.5 m (18 ft).",
+   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m in width, while M. alfredi reaches about 5.5 m.",
    "section": "Characteristics"
   },
-  "f22": {
-   "kind": "measure",
-   "value": 18,
-   "unit": "ft",
-   "surface": "18 ft",
-   "sentence": "In both species, the width is about 2.2 times the length of the body; M. birostris reaches at least 7 m (23 ft) in width, while M. alfredi reaches about 5.5 m (18 ft).",
-   "section": "Characteristics"
-  },
-  "f23": {
+  "f14": {
    "kind": "measure",
    "value": 400,
    "unit": "metres",
    "surface": "400 metres",
-   "sentence": "M. alfredi has been shown to dive to depths over 400 metres (1,300 ft), while the Chilean devil ray, which has a similar structure, dives to nearly 2,000 metres (6,600 ft).",
+   "sentence": "M. alfredi has been shown to dive to depths over 400 metres, while the Chilean devil ray, which has a similar structure, dives to nearly 2,000 metres.",
    "section": "Characteristics"
   },
-  "f24": {
-   "kind": "measure",
-   "value": 1300,
-   "unit": "ft",
-   "surface": "1,300 ft",
-   "sentence": "M. alfredi has been shown to dive to depths over 400 metres (1,300 ft), while the Chilean devil ray, which has a similar structure, dives to nearly 2,000 metres (6,600 ft).",
-   "section": "Characteristics"
-  },
-  "f25": {
+  "f15": {
    "kind": "measure",
    "value": 2000,
    "unit": "metres",
    "surface": "2,000 metres",
-   "sentence": "M. alfredi has been shown to dive to depths over 400 metres (1,300 ft), while the Chilean devil ray, which has a similar structure, dives to nearly 2,000 metres (6,600 ft).",
+   "sentence": "M. alfredi has been shown to dive to depths over 400 metres, while the Chilean devil ray, which has a similar structure, dives to nearly 2,000 metres.",
    "section": "Characteristics"
   },
-  "f26": {
-   "kind": "measure",
-   "value": 6600,
-   "unit": "ft",
-   "surface": "6,600 ft",
-   "sentence": "M. alfredi has been shown to dive to depths over 400 metres (1,300 ft), while the Chilean devil ray, which has a similar structure, dives to nearly 2,000 metres (6,600 ft).",
-   "section": "Characteristics"
-  },
-  "f27": {
+  "f16": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Mantas may travel alone or in groups up to 50.",
    "section": "Behavior and ecology"
   },
-  "f28": {
+  "f17": {
    "kind": "measure",
    "value": 30,
    "unit": "cm",
    "surface": "30 cm",
-   "sentence": "Mantas can remove internal parasites by sticking their intestines up to 30 cm (12 in) out of their cloaca and squeezing them out, often while defecating.",
+   "sentence": "Mantas can remove internal parasites by sticking their intestines up to 30 cm out of their cloaca and squeezing them out, often while defecating.",
    "section": "Behavior and ecology"
   },
-  "f29": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Mantas can remove internal parasites by sticking their intestines up to 30 cm (12 in) out of their cloaca and squeezing them out, often while defecating.",
-   "section": "Behavior and ecology"
-  },
-  "f30": {
+  "f18": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "In 2016, scientists published a study in which manta rays were shown to exhibit behavior associated with self-awareness.",
    "section": "Behavior and ecology"
   },
-  "f31": {
+  "f19": {
    "kind": "measure",
    "value": 180,
    "unit": "degrees",
@@ -295,37 +206,29 @@
    "sentence": "The standard method of feeding for a lone manta is simply swimming horizontally, turning 180 degrees to feed in the other direction.",
    "section": "Behavior and ecology"
   },
-  "f32": {
+  "f20": {
    "kind": "number",
    "value": 360,
    "surface": "360",
    "sentence": "Up and down movements, sideways tilting and 360 degree somersaults are also observed.",
    "section": "Behavior and ecology"
   },
-  "f33": {
+  "f21": {
    "kind": "measure",
    "value": 15,
    "unit": "m",
    "surface": "15 m",
-   "sentence": "With a diameter of 15 m (49 ft), these cyclones consist of up to 150 mantas and last up to an hour.",
+   "sentence": "With a diameter of 15 m, these cyclones consist of up to 150 mantas and last up to an hour.",
    "section": "Behavior and ecology"
   },
-  "f34": {
-   "kind": "measure",
-   "value": 49,
-   "unit": "ft",
-   "surface": "49 ft",
-   "sentence": "With a diameter of 15 m (49 ft), these cyclones consist of up to 150 mantas and last up to an hour.",
-   "section": "Behavior and ecology"
-  },
-  "f35": {
+  "f22": {
    "kind": "number",
    "value": 150,
    "surface": "150",
-   "sentence": "With a diameter of 15 m (49 ft), these cyclones consist of up to 150 mantas and last up to an hour.",
+   "sentence": "With a diameter of 15 m, these cyclones consist of up to 150 mantas and last up to an hour.",
    "section": "Behavior and ecology"
   },
-  "f36": {
+  "f23": {
    "kind": "measure",
    "value": 27,
    "unit": "%",
@@ -333,7 +236,7 @@
    "sentence": "Studies have shown that around 27% of the diet of M. birostris is from the surface, while around 73% is at deeper depths.",
    "section": "Behavior and ecology"
   },
-  "f37": {
+  "f24": {
    "kind": "measure",
    "value": 73,
    "unit": "%",
@@ -341,225 +244,128 @@
    "sentence": "Studies have shown that around 27% of the diet of M. birostris is from the surface, while around 73% is at deeper depths.",
    "section": "Behavior and ecology"
   },
-  "f38": {
+  "f25": {
    "kind": "measure",
    "value": 10,
    "unit": "km/h",
    "surface": "10 km/h",
-   "sentence": "The mating sequence may be triggered by a full moon and seems to be initiated by a male following closely behind a female while she travels at around 10 km/h (6.2 mph).",
+   "sentence": "The mating sequence may be triggered by a full moon and seems to be initiated by a male following closely behind a female while she travels at around 10 km/h.",
    "section": "Behavior and ecology"
   },
-  "f39": {
-   "kind": "number",
-   "value": 6.2,
-   "surface": "6.2",
-   "sentence": "The mating sequence may be triggered by a full moon and seems to be initiated by a male following closely behind a female while she travels at around 10 km/h (6.2 mph).",
-   "section": "Behavior and ecology"
-  },
-  "f40": {
+  "f26": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "He makes repeated efforts to grasp her pectoral fin with his mouth, which may take 20 to 30 minutes.",
    "section": "Behavior and ecology"
   },
-  "f41": {
+  "f27": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "He makes repeated efforts to grasp her pectoral fin with his mouth, which may take 20 to 30 minutes.",
    "section": "Behavior and ecology"
   },
-  "f42": {
+  "f28": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "He then inserts one of his claspers into her cloaca, where it remains for 60–90 seconds.",
    "section": "Behavior and ecology"
   },
-  "f43": {
-   "kind": "number",
-   "value": 90,
-   "surface": "90",
-   "sentence": "He then inserts one of his claspers into her cloaca, where it remains for 60–90 seconds.",
-   "section": "Behavior and ecology"
-  },
-  "f44": {
+  "f29": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "The male continues to grip the female's pectoral fin with his teeth for a further few minutes as both continue to swim, often followed by up to 20 other males.",
    "section": "Behavior and ecology"
   },
-  "f45": {
+  "f30": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "The gestation period is thought to be 12–13 months.",
    "section": "Behavior and ecology"
   },
-  "f46": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "The gestation period is thought to be 12–13 months.",
-   "section": "Behavior and ecology"
-  },
-  "f47": {
+  "f31": {
    "kind": "number",
    "value": 372,
    "surface": "372",
-   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm (76 in) and weight of 70 kg (150 lb).",
+   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm and weight of 70 kg.",
    "section": "Behavior and ecology"
   },
-  "f48": {
+  "f32": {
    "kind": "measure",
    "value": 192,
    "unit": "cm",
    "surface": "192 cm",
-   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm (76 in) and weight of 70 kg (150 lb).",
+   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm and weight of 70 kg.",
    "section": "Behavior and ecology"
   },
-  "f49": {
-   "kind": "number",
-   "value": 76,
-   "surface": "76",
-   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm (76 in) and weight of 70 kg (150 lb).",
-   "section": "Behavior and ecology"
-  },
-  "f50": {
+  "f33": {
    "kind": "measure",
    "value": 70,
    "unit": "kg",
    "surface": "70 kg",
-   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm (76 in) and weight of 70 kg (150 lb).",
+   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm and weight of 70 kg.",
    "section": "Behavior and ecology"
   },
-  "f51": {
-   "kind": "number",
-   "value": 150,
-   "surface": "150",
-   "sentence": "In one of these pregnancies, the gestation period was 372 days and at birth the pup had a width of 192 cm (76 in) and weight of 70 kg (150 lb).",
-   "section": "Behavior and ecology"
-  },
-  "f52": {
+  "f34": {
    "kind": "measure",
    "value": 3.75,
    "unit": "m",
    "surface": "3.75 m",
-   "sentence": "In Indonesia, M. birostris males appear to mature at 3.75 m (12 ft), while female mature around 4 m (13 ft).",
+   "sentence": "In Indonesia, M. birostris males appear to mature at 3.75 m, while female mature around 4 m.",
    "section": "Behavior and ecology"
   },
-  "f53": {
-   "kind": "measure",
-   "value": 12,
-   "unit": "ft",
-   "surface": "12 ft",
-   "sentence": "In Indonesia, M. birostris males appear to mature at 3.75 m (12 ft), while female mature around 4 m (13 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f54": {
+  "f35": {
    "kind": "measure",
    "value": 4,
    "unit": "m",
    "surface": "4 m",
-   "sentence": "In Indonesia, M. birostris males appear to mature at 3.75 m (12 ft), while female mature around 4 m (13 ft).",
+   "sentence": "In Indonesia, M. birostris males appear to mature at 3.75 m, while female mature around 4 m.",
    "section": "Behavior and ecology"
   },
-  "f55": {
-   "kind": "measure",
-   "value": 13,
-   "unit": "ft",
-   "surface": "13 ft",
-   "sentence": "In Indonesia, M. birostris males appear to mature at 3.75 m (12 ft), while female mature around 4 m (13 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f56": {
+  "f36": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
    "surface": "2.5 m",
-   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m (8 ft 2 in), while females mature at 3 m (9.8 ft).",
+   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m, while females mature at 3 m.",
    "section": "Behavior and ecology"
   },
-  "f57": {
-   "kind": "measure",
-   "value": 8,
-   "unit": "ft",
-   "surface": "8 ft",
-   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m (8 ft 2 in), while females mature at 3 m (9.8 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f58": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m (8 ft 2 in), while females mature at 3 m (9.8 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f59": {
+  "f37": {
    "kind": "measure",
    "value": 3,
    "unit": "m",
    "surface": "3 m",
-   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m (8 ft 2 in), while females mature at 3 m (9.8 ft).",
+   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m, while females mature at 3 m.",
    "section": "Behavior and ecology"
   },
-  "f60": {
-   "kind": "measure",
-   "value": 9.8,
-   "unit": "ft",
-   "surface": "9.8 ft",
-   "sentence": "In the Maldives, males of M. alfredi mature at a width of 2.5 m (8 ft 2 in), while females mature at 3 m (9.8 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f61": {
+  "f38": {
    "kind": "measure",
    "value": 2.8,
    "unit": "m",
    "surface": "2.8 m",
-   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m (9 ft 2 in) for males and 3.4 m (11 ft) for females.",
+   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m for males and 3.4 m for females.",
    "section": "Behavior and ecology"
   },
-  "f62": {
-   "kind": "measure",
-   "value": 9,
-   "unit": "ft",
-   "surface": "9 ft",
-   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m (9 ft 2 in) for males and 3.4 m (11 ft) for females.",
-   "section": "Behavior and ecology"
-  },
-  "f63": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m (9 ft 2 in) for males and 3.4 m (11 ft) for females.",
-   "section": "Behavior and ecology"
-  },
-  "f64": {
+  "f39": {
    "kind": "measure",
    "value": 3.4,
    "unit": "m",
    "surface": "3.4 m",
-   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m (9 ft 2 in) for males and 3.4 m (11 ft) for females.",
+   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m for males and 3.4 m for females.",
    "section": "Behavior and ecology"
   },
-  "f65": {
-   "kind": "measure",
-   "value": 11,
-   "unit": "ft",
-   "surface": "11 ft",
-   "sentence": "In Hawaii, M. alfredi matures at a width of 2.8 m (9 ft 2 in) for males and 3.4 m (11 ft) for females.",
-   "section": "Behavior and ecology"
-  },
-  "f66": {
+  "f40": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Female mantas appear to mature at 8–10 years.",
    "section": "Behavior and ecology"
   },
-  "f67": {
+  "f41": {
    "kind": "measure",
    "value": 10,
    "unit": "years",
@@ -567,7 +373,7 @@
    "sentence": "Female mantas appear to mature at 8–10 years.",
    "section": "Behavior and ecology"
   },
-  "f68": {
+  "f42": {
    "kind": "measure",
    "value": 50,
    "unit": "years",
@@ -575,111 +381,73 @@
    "sentence": "Manta rays may live as long as 50 years.",
    "section": "Behavior and ecology"
   },
-  "f69": {
-   "kind": "number",
-   "value": 31,
-   "surface": "31",
-   "sentence": "The furthest from the equator they have been recorded is North Carolina in the United States (31°N) and the North Island of New Zealand (36°S).",
-   "section": "Distribution and habitat"
-  },
-  "f70": {
-   "kind": "number",
-   "value": 36,
-   "surface": "36",
-   "sentence": "The furthest from the equator they have been recorded is North Carolina in the United States (31°N) and the North Island of New Zealand (36°S).",
-   "section": "Distribution and habitat"
-  },
-  "f71": {
+  "f43": {
    "kind": "measure",
    "value": 68,
    "unit": "°f",
    "surface": "68 °F",
-   "sentence": "They prefer water temperatures above 68 °F (20 °C) and M. alfredi is predominantly found in tropical areas.",
+   "sentence": "They prefer water temperatures above 68 °F and M. alfredi is predominantly found in tropical areas.",
    "section": "Distribution and habitat"
   },
-  "f72": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "°c",
-   "surface": "20 °C",
-   "sentence": "They prefer water temperatures above 68 °F (20 °C) and M. alfredi is predominantly found in tropical areas.",
-   "section": "Distribution and habitat"
-  },
-  "f73": {
+  "f44": {
    "kind": "measure",
    "value": 1000,
    "unit": "km",
    "surface": "1,000 km",
-   "sentence": "Fish that have been fitted with radio transmitters have traveled as far as 1,000 km (620 mi) from where they were caught.",
+   "sentence": "Fish that have been fitted with radio transmitters have traveled as far as 1,000 km from where they were caught.",
    "section": "Distribution and habitat"
   },
-  "f74": {
-   "kind": "measure",
-   "value": 620,
-   "unit": "mi",
-   "surface": "620 mi",
-   "sentence": "Fish that have been fitted with radio transmitters have traveled as far as 1,000 km (620 mi) from where they were caught.",
-   "section": "Distribution and habitat"
-  },
-  "f75": {
+  "f45": {
    "kind": "measure",
    "value": 1250,
    "unit": "m",
    "surface": "1,250 m",
-   "sentence": "A satellite-tag project demonstrated they descended to depths of at least 1,250 m (4,100 ft).",
+   "sentence": "A satellite-tag project demonstrated they descended to depths of at least 1,250 m.",
    "section": "Distribution and habitat"
   },
-  "f76": {
-   "kind": "measure",
-   "value": 4100,
-   "unit": "ft",
-   "surface": "4,100 ft",
-   "sentence": "A satellite-tag project demonstrated they descended to depths of at least 1,250 m (4,100 ft).",
-   "section": "Distribution and habitat"
-  },
-  "f77": {
+  "f46": {
    "kind": "date",
    "value": "1000",
    "surface": "1000",
    "sentence": "A fisheries study in Sri Lanka and India estimated that over 1000 were being sold in the country's fish markets each year.",
    "section": "Conservation issues"
   },
-  "f78": {
+  "f47": {
    "kind": "date",
    "value": "1000",
    "surface": "1000",
    "sentence": "By comparison, M. birostris populations at most of the key aggregation sites around the world are estimated to have significantly fewer than 1000 individuals.",
    "section": "Conservation issues"
   },
-  "f79": {
+  "f48": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "The IUCN listed the reef manta as vulnerable in 2019 and the giant manta as endangered in 2020.",
    "section": "Conservation issues"
   },
-  "f80": {
+  "f49": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "The IUCN listed the reef manta as vulnerable in 2019 and the giant manta as endangered in 2020.",
    "section": "Conservation issues"
   },
-  "f81": {
+  "f50": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "In 2011, mantas became strictly protected in international waters because of their inclusion in the Convention on Migratory Species of Wild Animals.",
    "section": "Conservation issues"
   },
-  "f82": {
+  "f51": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2009, Hawaii became the first state in the United States to introduce a ban on the killing or capturing of manta rays.",
    "section": "Conservation issues"
   },
-  "f83": {
+  "f52": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",

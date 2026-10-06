@@ -69,19 +69,12 @@
   },
   "f3": {
    "kind": "number",
-   "value": 28,
-   "surface": "28",
-   "sentence": "Rodent species have 12–28 teeth total, usually fewer than 22, with no canines.",
-   "section": "Characteristics"
-  },
-  "f4": {
-   "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Rodent species have 12–28 teeth total, usually fewer than 22, with no canines.",
    "section": "Characteristics"
   },
-  "f5": {
+  "f4": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -89,7 +82,7 @@
    "sentence": "Among rodents, the masseter muscle plays a key role in chewing, making up 60% – 80% of the total muscle mass among masticatory muscles.",
    "section": "Characteristics"
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 80,
    "unit": "%",
@@ -97,37 +90,23 @@
    "sentence": "Among rodents, the masseter muscle plays a key role in chewing, making up 60% – 80% of the total muscle mass among masticatory muscles.",
    "section": "Characteristics"
   },
-  "f7": {
+  "f6": {
    "kind": "measure",
    "value": 66,
    "unit": "kg",
    "surface": "66 kg",
-   "sentence": "While the largest species, the capybara, can reach 66 kg (146 lb), most species weigh less than 100 g (3.5 oz).",
+   "sentence": "While the largest species, the capybara, can reach 66 kg, most species weigh less than 100 g.",
    "section": "Characteristics"
   },
-  "f8": {
-   "kind": "number",
-   "value": 146,
-   "surface": "146",
-   "sentence": "While the largest species, the capybara, can reach 66 kg (146 lb), most species weigh less than 100 g (3.5 oz).",
-   "section": "Characteristics"
-  },
-  "f9": {
+  "f7": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
    "surface": "100 g",
-   "sentence": "While the largest species, the capybara, can reach 66 kg (146 lb), most species weigh less than 100 g (3.5 oz).",
+   "sentence": "While the largest species, the capybara, can reach 66 kg, most species weigh less than 100 g.",
    "section": "Characteristics"
   },
-  "f10": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3.5",
-   "sentence": "While the largest species, the capybara, can reach 66 kg (146 lb), most species weigh less than 100 g (3.5 oz).",
-   "section": "Characteristics"
-  },
-  "f11": {
+  "f8": {
    "kind": "measure",
    "value": 80,
    "unit": "%",
@@ -135,7 +114,7 @@
    "sentence": "The digestive system is efficient enough to absorb nearly 80% of the energy in their food.",
    "section": "Characteristics"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
@@ -143,7 +122,7 @@
    "sentence": "Marmots do this, and may be 50% heavier in the autumn than in the spring.",
    "section": "Behavior and life history"
   },
-  "f13": {
+  "f10": {
    "kind": "measure",
    "value": 34,
    "unit": "%",
@@ -151,7 +130,7 @@
    "sentence": "Examination of the stomach contents of the North American white-footed mouse showed 34% animal matter.",
    "section": "Behavior and life history"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 20,
    "unit": "percent",

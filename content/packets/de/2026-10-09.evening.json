@@ -91,52 +91,45 @@
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 (–18) Zentimeter hoch und bis 2 Zentimeter dick.",
+   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 Zentimeter hoch und bis 2 Zentimeter dick.",
    "section": "Merkmale"
   },
   "f4": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 (–18) Zentimeter hoch und bis 2 Zentimeter dick.",
+   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 Zentimeter hoch und bis 2 Zentimeter dick.",
    "section": "Merkmale"
   },
   "f5": {
    "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 (–18) Zentimeter hoch und bis 2 Zentimeter dick.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 Zentimeter hoch und bis 2 Zentimeter dick.",
    "section": "Merkmale"
   },
   "f6": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Der jung volle, im Alter markige bis hohle Stiel wird 5 bis 15 (–18) Zentimeter hoch und bis 2 Zentimeter dick.",
-   "section": "Merkmale"
-  },
-  "f7": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Die kugeligen bis breitelliptischen Sporen messen 8–10,5 × 7–9 µm.",
    "section": "Merkmale"
   },
-  "f8": {
+  "f7": {
    "kind": "number",
    "value": 10.5,
    "surface": "10,5",
    "sentence": "Die kugeligen bis breitelliptischen Sporen messen 8–10,5 × 7–9 µm.",
    "section": "Merkmale"
   },
-  "f9": {
+  "f8": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Die kugeligen bis breitelliptischen Sporen messen 8–10,5 × 7–9 µm.",
    "section": "Merkmale"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 9,
    "unit": "µm",
@@ -144,80 +137,87 @@
    "sentence": "Die kugeligen bis breitelliptischen Sporen messen 8–10,5 × 7–9 µm.",
    "section": "Merkmale"
   },
-  "f11": {
+  "f10": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
    "sentence": "Die tödliche Dosis von Amanitin liegt beim Menschen bei 0,1 Milligramm pro Kilogramm Körpergewicht, für eine 70 Kilogramm schwere Person also bei etwa 7 Milligramm.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 70,
    "surface": "70",
    "sentence": "Die tödliche Dosis von Amanitin liegt beim Menschen bei 0,1 Milligramm pro Kilogramm Körpergewicht, für eine 70 Kilogramm schwere Person also bei etwa 7 Milligramm.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f13": {
+  "f12": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Die tödliche Dosis von Amanitin liegt beim Menschen bei 0,1 Milligramm pro Kilogramm Körpergewicht, für eine 70 Kilogramm schwere Person also bei etwa 7 Milligramm.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f14": {
+  "f13": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Diese Substanzmenge ist bereits in weniger als 35 Gramm Frischpilz enthalten.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Da ein ausgewachsener Fruchtkörper durchaus 50 Gramm oder mehr wiegen kann, führt daher schon ein einzelner verspeister Pilz möglicherweise zum Tod.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Die ersten Symptome des durch das Amanitin ausgelösten Amatoxin-Syndroms – choleraartige 6 bis 9 Stunden anhaltende Brechdurchfälle mit unter Umständen bedrohlichem Flüssigkeits- und Salzverlust – treten in der Regel erst 8 bis 12 Stunden nach dem Verzehr auf – zu spät, um noch durch Magenauspumpen wirksam eingreifen zu können.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Die ersten Symptome des durch das Amanitin ausgelösten Amatoxin-Syndroms – choleraartige 6 bis 9 Stunden anhaltende Brechdurchfälle mit unter Umständen bedrohlichem Flüssigkeits- und Salzverlust – treten in der Regel erst 8 bis 12 Stunden nach dem Verzehr auf – zu spät, um noch durch Magenauspumpen wirksam eingreifen zu können.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Die ersten Symptome des durch das Amanitin ausgelösten Amatoxin-Syndroms – choleraartige 6 bis 9 Stunden anhaltende Brechdurchfälle mit unter Umständen bedrohlichem Flüssigkeits- und Salzverlust – treten in der Regel erst 8 bis 12 Stunden nach dem Verzehr auf – zu spät, um noch durch Magenauspumpen wirksam eingreifen zu können.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Die ersten Symptome des durch das Amanitin ausgelösten Amatoxin-Syndroms – choleraartige 6 bis 9 Stunden anhaltende Brechdurchfälle mit unter Umständen bedrohlichem Flüssigkeits- und Salzverlust – treten in der Regel erst 8 bis 12 Stunden nach dem Verzehr auf – zu spät, um noch durch Magenauspumpen wirksam eingreifen zu können.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Seltener erscheinen Symptome schon nach 6 oder erst nach 12 bis 24 Stunden.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f21": {
+  "f20": {
    "kind": "number",
    "value": 12,
    "surface": "12",
+   "sentence": "Seltener erscheinen Symptome schon nach 6 oder erst nach 12 bis 24 Stunden.",
+   "section": "Toxikologische Eigenschaften"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
    "sentence": "Seltener erscheinen Symptome schon nach 6 oder erst nach 12 bis 24 Stunden.",
    "section": "Toxikologische Eigenschaften"
   },
@@ -225,45 +225,38 @@
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "Seltener erscheinen Symptome schon nach 6 oder erst nach 12 bis 24 Stunden.",
-   "section": "Toxikologische Eigenschaften"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 24,
-   "surface": "24",
    "sentence": "Nach einer kurzzeitigen Verbesserung des Allgemeinzustands beginnt etwa 24 bis 48 Stunden nach dem Verzehr die Phase der Leberschädigung mit einem Anstieg der Leberwerte mit Höchstwerten am zweiten bis vierten Tag; bei stärkerer Vergiftung einhergehend mit einer Blutgerinnungsstörung.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 48,
    "surface": "48",
    "sentence": "Nach einer kurzzeitigen Verbesserung des Allgemeinzustands beginnt etwa 24 bis 48 Stunden nach dem Verzehr die Phase der Leberschädigung mit einem Anstieg der Leberwerte mit Höchstwerten am zweiten bis vierten Tag; bei stärkerer Vergiftung einhergehend mit einer Blutgerinnungsstörung.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f25": {
+  "f24": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Anfang des 20. Jahrhunderts führte noch fast jede Vergiftung mit dem Pilz zum Tod.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f26": {
+  "f25": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Bis zu Beginn des 21. Jahrhunderts konnte der Anteil der tödlich verlaufenden Vergiftungen dank Früherkennung und Intensivtherapie auf etwa 10 bis 15 Prozent gesenkt werden.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f27": {
+  "f26": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Bis zu Beginn des 21. Jahrhunderts konnte der Anteil der tödlich verlaufenden Vergiftungen dank Früherkennung und Intensivtherapie auf etwa 10 bis 15 Prozent gesenkt werden.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f28": {
+  "f27": {
    "kind": "measure",
    "value": 15,
    "unit": "prozent",
@@ -271,14 +264,14 @@
    "sentence": "Bis zu Beginn des 21. Jahrhunderts konnte der Anteil der tödlich verlaufenden Vergiftungen dank Früherkennung und Intensivtherapie auf etwa 10 bis 15 Prozent gesenkt werden.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f29": {
+  "f28": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Im Mai 2023 wurde in Nature Communications die Entdeckung eines chinesischen und australischen Forscherteams veröffentlicht, dass der Farbstoff Indocyaningrün die Aufnahme von Amatoxinen in menschliche Körperzellen verhindern kann.",
    "section": "Toxikologische Eigenschaften"
   },
-  "f30": {
+  "f29": {
    "kind": "measure",
    "value": 90,
    "unit": "prozent",
@@ -286,56 +279,56 @@
    "sentence": "Der Grüne Knollenblätterpilz verursacht rund 90 Prozent aller tödlichen Pilzvergiftungen in Deutschland.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f31": {
+  "f30": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Am 8. September 1918 erlitten 33 Jungen auf einem Landverschickungsaufenthalt bei Posen eine Vergiftung mit selbstgesammelten Pilzen, nur zwei der Kinder überlebten.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "Am 8. September 1918 erlitten 33 Jungen auf einem Landverschickungsaufenthalt bei Posen eine Vergiftung mit selbstgesammelten Pilzen, nur zwei der Kinder überlebten.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f33": {
+  "f32": {
    "kind": "number",
    "value": 33,
    "surface": "33",
    "sentence": "Am 8. September 1918 erlitten 33 Jungen auf einem Landverschickungsaufenthalt bei Posen eine Vergiftung mit selbstgesammelten Pilzen, nur zwei der Kinder überlebten.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f34": {
+  "f33": {
    "kind": "date",
    "value": "1946",
    "surface": "1946",
    "sentence": "1946 kam es in Berlin zu einer Massenvergiftung, an der 50 Menschen starben.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f35": {
+  "f34": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "1946 kam es in Berlin zu einer Massenvergiftung, an der 50 Menschen starben.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f36": {
+  "f35": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Im August 2023 starben drei Menschen in Australien nach dem Verzehr eines mit diesem Pilz zubereiteten Gerichtes; die Behörden untersuchten daraufhin die Möglichkeit eines Verbrechens.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Die Person, die das betreffende Gericht zubereitet hatte, wurde im Juli 2025 von einer Jury in Morwell des dreifachen Mordes sowie des versuchten Mordes in einem Fall für schuldig befunden.",
    "section": "Einzelne Vergiftungsfälle"
   },
-  "f38": {
+  "f37": {
    "kind": "date",
    "value": "2002",
    "surface": "2002",

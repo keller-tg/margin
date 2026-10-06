@@ -123,7 +123,7 @@
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "Im 18. Jahrhundert galt die Anwendung von „Pestessig“ oder „Vierräuberessig“, ein Kräuterauszug auf Essigbasis, als Schutz vor ansteckenden Krankheiten.",
+   "sentence": "Im 18. Jahrhundert galt die Anwendung von „Pestessig“oder „Vierräuberessig“, ein Kräuterauszug auf Essigbasis, als Schutz vor ansteckenden Krankheiten.",
    "section": "Geschichte"
   },
   "f11": {
@@ -199,97 +199,90 @@
    "section": "Geschichte"
   },
   "f21": {
-   "kind": "number",
-   "value": 0.65,
-   "surface": "0,65",
-   "sentence": "Die photochemische Reaktion von Tetrachlorethen in Gegenwart von Wasser und Chlor führte zu Trichloressigsäure, einer starken Säure (pKS-Wert: 0,65), die sich mit Natriumamalgam in Essigsäure überführen ließ.",
-   "section": "Geschichte"
-  },
-  "f22": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
    "sentence": "Die Wacker Chemie entwickelte dieses Verfahren 1913.",
    "section": "Geschichte"
   },
-  "f23": {
+  "f22": {
    "kind": "number",
    "value": 2600000,
    "surface": "2,6 Millionen",
    "sentence": "Die installierte Produktionskapazität betrug in den 1970er Jahren etwa 2,6 Millionen Jahrestonnen.",
    "section": "Geschichte"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "1952",
    "surface": "1952",
    "sentence": "Das anfallende Butan und die Butene wurden ab 1952 in der Butanoxidation, die bereits seit 1884 bekannt war, großtechnisch genutzt.",
    "section": "Geschichte"
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1884",
    "surface": "1884",
    "sentence": "Das anfallende Butan und die Butene wurden ab 1952 in der Butanoxidation, die bereits seit 1884 bekannt war, großtechnisch genutzt.",
    "section": "Geschichte"
   },
-  "f26": {
+  "f25": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
    "sentence": "Der BASF-Chemiker Walter Reppe zeigte 1941 die Wirksamkeit der Carbonyle als Katalysatoren für die Herstellung von Carbonylverbindungen.",
    "section": "Geschichte"
   },
-  "f27": {
+  "f26": {
    "kind": "date",
    "value": "1960",
    "surface": "1960",
    "sentence": "1960 wurde der BASF-Prozess erstmals großtechnisch in einer Anlage in Ludwigshafen am Rhein umgesetzt.",
    "section": "Geschichte"
   },
-  "f28": {
+  "f27": {
    "kind": "number",
    "value": 3600,
    "surface": "3600",
    "sentence": "Die BASF steigerte die Kapazität von anfänglich 3600 Jahrestonnen kontinuierlich auf 45.000 Jahrestonnen im Jahr 1981.",
    "section": "Geschichte"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 45000,
    "surface": "45.000",
    "sentence": "Die BASF steigerte die Kapazität von anfänglich 3600 Jahrestonnen kontinuierlich auf 45.000 Jahrestonnen im Jahr 1981.",
    "section": "Geschichte"
   },
-  "f30": {
+  "f29": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "Die BASF steigerte die Kapazität von anfänglich 3600 Jahrestonnen kontinuierlich auf 45.000 Jahrestonnen im Jahr 1981.",
    "section": "Geschichte"
   },
-  "f31": {
+  "f30": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "1966 baute die amerikanische Borden Chemical Co. eine weitere Anlage auf der Basis des BASF-Prozesses mit einer Kapazität von 45.000 Jahrestonnen in Geismar in Louisiana, die bis 1981 auf 64.000 t/a aufgestockt wurde.",
    "section": "Geschichte"
   },
-  "f32": {
+  "f31": {
    "kind": "number",
    "value": 45000,
    "surface": "45.000",
    "sentence": "1966 baute die amerikanische Borden Chemical Co. eine weitere Anlage auf der Basis des BASF-Prozesses mit einer Kapazität von 45.000 Jahrestonnen in Geismar in Louisiana, die bis 1981 auf 64.000 t/a aufgestockt wurde.",
    "section": "Geschichte"
   },
-  "f33": {
+  "f32": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "1966 baute die amerikanische Borden Chemical Co. eine weitere Anlage auf der Basis des BASF-Prozesses mit einer Kapazität von 45.000 Jahrestonnen in Geismar in Louisiana, die bis 1981 auf 64.000 t/a aufgestockt wurde.",
    "section": "Geschichte"
   },
-  "f34": {
+  "f33": {
    "kind": "measure",
    "value": 64000,
    "unit": "t",
@@ -297,70 +290,70 @@
    "sentence": "1966 baute die amerikanische Borden Chemical Co. eine weitere Anlage auf der Basis des BASF-Prozesses mit einer Kapazität von 45.000 Jahrestonnen in Geismar in Louisiana, die bis 1981 auf 64.000 t/a aufgestockt wurde.",
    "section": "Geschichte"
   },
-  "f35": {
+  "f34": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "1970 baute Monsanto die erste Anlage in Texas City mit einer Startkapazität von 135.000 Jahrestonnen, die bis 1975 auf 270.000 Jahrestonnen erhöht wurde.",
    "section": "Geschichte"
   },
-  "f36": {
+  "f35": {
    "kind": "number",
    "value": 135000,
    "surface": "135.000",
    "sentence": "1970 baute Monsanto die erste Anlage in Texas City mit einer Startkapazität von 135.000 Jahrestonnen, die bis 1975 auf 270.000 Jahrestonnen erhöht wurde.",
    "section": "Geschichte"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "1975",
    "surface": "1975",
    "sentence": "1970 baute Monsanto die erste Anlage in Texas City mit einer Startkapazität von 135.000 Jahrestonnen, die bis 1975 auf 270.000 Jahrestonnen erhöht wurde.",
    "section": "Geschichte"
   },
-  "f38": {
+  "f37": {
    "kind": "number",
    "value": 270000,
    "surface": "270.000",
    "sentence": "1970 baute Monsanto die erste Anlage in Texas City mit einer Startkapazität von 135.000 Jahrestonnen, die bis 1975 auf 270.000 Jahrestonnen erhöht wurde.",
    "section": "Geschichte"
   },
-  "f39": {
+  "f38": {
    "kind": "date",
    "value": "1978",
    "surface": "1978",
    "sentence": "1978 baute Celanese die Clear Lake Plant in Seabrook in Texas auf der Basis des Monsanto-Prozesses mit einer Startkapazität von 27.000 Jahrestonnen.",
    "section": "Geschichte"
   },
-  "f40": {
+  "f39": {
    "kind": "number",
    "value": 27000,
    "surface": "27.000",
    "sentence": "1978 baute Celanese die Clear Lake Plant in Seabrook in Texas auf der Basis des Monsanto-Prozesses mit einer Startkapazität von 27.000 Jahrestonnen.",
    "section": "Geschichte"
   },
-  "f41": {
+  "f40": {
    "kind": "number",
    "value": 900000,
    "surface": "900.000",
    "sentence": "Prozessverbesserungen steigerten die Kapazität auf 900.000 Jahrestonnen.",
    "section": "Geschichte"
   },
-  "f42": {
+  "f41": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
    "sentence": "1986 kaufte BP chemicals die Rechte am Monsanto-Prozess ohne die Modifikationen von Celanese und modifizierte ihn mit einem Iridium-Katalysator.",
    "section": "Geschichte"
   },
-  "f43": {
+  "f42": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Acetobacter aceti wächst am besten bei Temperaturen von 25 bis 30 °C und einem pH-Wertbereich von 5,4 bis 6,3.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f44": {
+  "f43": {
    "kind": "measure",
    "value": 30,
    "unit": "°c",
@@ -368,28 +361,28 @@
    "sentence": "Acetobacter aceti wächst am besten bei Temperaturen von 25 bis 30 °C und einem pH-Wertbereich von 5,4 bis 6,3.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f45": {
+  "f44": {
    "kind": "number",
    "value": 5.4,
    "surface": "5,4",
    "sentence": "Acetobacter aceti wächst am besten bei Temperaturen von 25 bis 30 °C und einem pH-Wertbereich von 5,4 bis 6,3.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f46": {
+  "f45": {
    "kind": "number",
    "value": 6.3,
    "surface": "6,3",
    "sentence": "Acetobacter aceti wächst am besten bei Temperaturen von 25 bis 30 °C und einem pH-Wertbereich von 5,4 bis 6,3.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f47": {
+  "f46": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Interstellares Vorkommen von Essigsäure wurde zuerst 1996 in der molekularen Wolke von Sagittarius B2 Nord, genannt die Heimat der großen Moleküle, ungefähr 390 Lichtjahre vom Milchstraßenzentrum und etwa 25.000 Lichtjahre von der Erde entfernt, entdeckt.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f48": {
+  "f47": {
    "kind": "measure",
    "value": 390,
    "unit": "lichtjahre",
@@ -397,7 +390,7 @@
    "sentence": "Interstellares Vorkommen von Essigsäure wurde zuerst 1996 in der molekularen Wolke von Sagittarius B2 Nord, genannt die Heimat der großen Moleküle, ungefähr 390 Lichtjahre vom Milchstraßenzentrum und etwa 25.000 Lichtjahre von der Erde entfernt, entdeckt.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f49": {
+  "f48": {
    "kind": "measure",
    "value": 25000,
    "unit": "lichtjahre",
@@ -405,7 +398,7 @@
    "sentence": "Interstellares Vorkommen von Essigsäure wurde zuerst 1996 in der molekularen Wolke von Sagittarius B2 Nord, genannt die Heimat der großen Moleküle, ungefähr 390 Lichtjahre vom Milchstraßenzentrum und etwa 25.000 Lichtjahre von der Erde entfernt, entdeckt.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f50": {
+  "f49": {
    "kind": "measure",
    "value": 12,
    "unit": "k",
@@ -413,198 +406,80 @@
    "sentence": "Unter Laborbedingungen wurde nachgewiesen, dass Kohlenstoffdioxid und Methan bereits bei 12 K unter dem Einfluss energiereicher Strahlung über einen Radikalmechanismus zu Essigsäure reagieren.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f51": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Die natürlich vorkommenden, aber sehr seltenen Mineralien wie Hoganit [Cu(CH3COO)2·H2O] oder Paceit [CaCu(CH3COO)4·6 H2O] sind Beispiele für Acetatvorkommen in der unbelebten Natur.",
-   "section": "Vorkommen und biologische Bedeutung"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Die natürlich vorkommenden, aber sehr seltenen Mineralien wie Hoganit [Cu(CH3COO)2·H2O] oder Paceit [CaCu(CH3COO)4·6 H2O] sind Beispiele für Acetatvorkommen in der unbelebten Natur.",
-   "section": "Vorkommen und biologische Bedeutung"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Die natürlich vorkommenden, aber sehr seltenen Mineralien wie Hoganit [Cu(CH3COO)2·H2O] oder Paceit [CaCu(CH3COO)4·6 H2O] sind Beispiele für Acetatvorkommen in der unbelebten Natur.",
-   "section": "Vorkommen und biologische Bedeutung"
-  },
-  "f54": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Ein weiterer Vertreter der Acetatmineralien ist das Calclacit [Ca(CH3COO)Cl·5 H2O].",
-   "section": "Vorkommen und biologische Bedeutung"
-  },
-  "f55": {
+  "f50": {
    "kind": "number",
    "value": 31.5,
    "surface": "31,5",
    "sentence": "Die Thioesterbindung ist eine sehr reaktive Bindung, die Hydrolyse ist mit −31,5 kJ/mol exergonisch.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f56": {
+  "f51": {
    "kind": "date",
    "value": "1951",
    "surface": "1951",
    "sentence": "Konrad Bloch und Feodor Lynen, dem 1951 die Isolierung aktivierter Essigsäure, Acetyl-Coenzym A, aus Hefezellen gelang, erhielten 1964 für ihre Entdeckungen, die den Acetyl-CoA- und den Fettsäuremetabolismus verknüpften, den Nobelpreis für Physiologie oder Medizin.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f57": {
+  "f52": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
    "sentence": "Konrad Bloch und Feodor Lynen, dem 1951 die Isolierung aktivierter Essigsäure, Acetyl-Coenzym A, aus Hefezellen gelang, erhielten 1964 für ihre Entdeckungen, die den Acetyl-CoA- und den Fettsäuremetabolismus verknüpften, den Nobelpreis für Physiologie oder Medizin.",
    "section": "Vorkommen und biologische Bedeutung"
   },
-  "f58": {
+  "f53": {
    "kind": "number",
    "value": 7000000,
    "surface": "7 Mio",
    "sentence": "Weltweit bestehen Produktionskapazitäten für Essigsäure in Höhe von etwa 7 Mio. Tonnen pro Jahr.",
    "section": "Herstellung"
   },
-  "f59": {
+  "f54": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
+   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA, Westeuropa und Japan hergestellt werden.",
    "section": "Herstellung"
   },
-  "f60": {
+  "f55": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
+   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA, Westeuropa und Japan hergestellt werden.",
    "section": "Herstellung"
   },
-  "f61": {
+  "f56": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
    "surface": "3 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
+   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA, Westeuropa und Japan hergestellt werden.",
    "section": "Herstellung"
   },
-  "f62": {
+  "f57": {
    "kind": "measure",
    "value": 4,
    "unit": "%",
    "surface": "4 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
+   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA, Westeuropa und Japan hergestellt werden.",
    "section": "Herstellung"
   },
-  "f63": {
+  "f58": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
    "surface": "70 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
+   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA, Westeuropa und Japan hergestellt werden.",
    "section": "Herstellung"
   },
-  "f64": {
-   "kind": "date",
-   "value": "1996",
-   "surface": "1996",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f65": {
-   "kind": "measure",
-   "value": 36,
-   "unit": "%",
-   "surface": "36 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f66": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f67": {
-   "kind": "measure",
-   "value": 32,
-   "unit": "%",
-   "surface": "32 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f68": {
-   "kind": "date",
-   "value": "1996",
-   "surface": "1996",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f69": {
-   "kind": "measure",
-   "value": 24,
-   "unit": "%",
-   "surface": "24 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f70": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f71": {
-   "kind": "measure",
-   "value": 17,
-   "unit": "%",
-   "surface": "17 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f72": {
-   "kind": "date",
-   "value": "1996",
-   "surface": "1996",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f73": {
-   "kind": "measure",
-   "value": 16,
-   "unit": "%",
-   "surface": "16 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f74": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f75": {
-   "kind": "measure",
-   "value": 11,
-   "unit": "%",
-   "surface": "11 %",
-   "sentence": "Zwischen 1998 und 2006 gab es weltweit ein durchschnittliches Wachstum der Produktion von 3 % bis 4 % pro Jahr, wobei etwa 70 % der Jahresproduktion in den USA (1996: 36 %; 2006: 32 %), Westeuropa (1996: 24 %; 2006: 17 %) und Japan (1996: 16 %; 2006: 11 %) hergestellt werden.",
-   "section": "Herstellung"
-  },
-  "f76": {
+  "f59": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "Die ostasiatische Produktion stieg im Vergleich zu diesen Regionen von 1996 mit 14 % auf etwa 18 % im Jahr 2006.",
    "section": "Herstellung"
   },
-  "f77": {
+  "f60": {
    "kind": "measure",
    "value": 14,
    "unit": "%",
@@ -612,7 +487,7 @@
    "sentence": "Die ostasiatische Produktion stieg im Vergleich zu diesen Regionen von 1996 mit 14 % auf etwa 18 % im Jahr 2006.",
    "section": "Herstellung"
   },
-  "f78": {
+  "f61": {
    "kind": "measure",
    "value": 18,
    "unit": "%",
@@ -620,14 +495,14 @@
    "sentence": "Die ostasiatische Produktion stieg im Vergleich zu diesen Regionen von 1996 mit 14 % auf etwa 18 % im Jahr 2006.",
    "section": "Herstellung"
   },
-  "f79": {
+  "f62": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Die ostasiatische Produktion stieg im Vergleich zu diesen Regionen von 1996 mit 14 % auf etwa 18 % im Jahr 2006.",
    "section": "Herstellung"
   },
-  "f80": {
+  "f63": {
    "kind": "measure",
    "value": 190000,
    "unit": "tonnen",
@@ -635,7 +510,7 @@
    "sentence": "Etwa 190.000 Tonnen werden jährlich weltweit fermentativ hergestellt, wobei etwa 70 % des Weltbedarfs an Speiseessig im Submersverfahren in etwa 700 Bioreaktoren produziert werden.",
    "section": "Herstellung"
   },
-  "f81": {
+  "f64": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -643,35 +518,35 @@
    "sentence": "Etwa 190.000 Tonnen werden jährlich weltweit fermentativ hergestellt, wobei etwa 70 % des Weltbedarfs an Speiseessig im Submersverfahren in etwa 700 Bioreaktoren produziert werden.",
    "section": "Herstellung"
   },
-  "f82": {
+  "f65": {
    "kind": "date",
    "value": "700",
    "surface": "700",
    "sentence": "Etwa 190.000 Tonnen werden jährlich weltweit fermentativ hergestellt, wobei etwa 70 % des Weltbedarfs an Speiseessig im Submersverfahren in etwa 700 Bioreaktoren produziert werden.",
    "section": "Herstellung"
   },
-  "f83": {
+  "f66": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Für die C4-Kohlenwasserstoffe Butan, 1-Buten und 2-Buten, die in verschiedenen Raffinerieprozessen anfallen, gab es anfangs weder Verwendung als Kraftstoff noch als Rohstoff für die chemische Industrie.",
    "section": "Herstellung"
   },
-  "f84": {
+  "f67": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Für die C4-Kohlenwasserstoffe Butan, 1-Buten und 2-Buten, die in verschiedenen Raffinerieprozessen anfallen, gab es anfangs weder Verwendung als Kraftstoff noch als Rohstoff für die chemische Industrie.",
    "section": "Herstellung"
   },
-  "f85": {
+  "f68": {
    "kind": "number",
    "value": 170,
    "surface": "170",
    "sentence": "Ab den frühen 1950er Jahren wurden Anlagen für die Flüssigphasenoxidation von Butan bei etwa 170 bis 200 °C und 60 bis 80 bar im Hüls-Butan-Prozess gebaut; ein analoges Verfahren geht von Buten aus.",
    "section": "Herstellung"
   },
-  "f86": {
+  "f69": {
    "kind": "measure",
    "value": 200,
    "unit": "°c",
@@ -679,28 +554,28 @@
    "sentence": "Ab den frühen 1950er Jahren wurden Anlagen für die Flüssigphasenoxidation von Butan bei etwa 170 bis 200 °C und 60 bis 80 bar im Hüls-Butan-Prozess gebaut; ein analoges Verfahren geht von Buten aus.",
    "section": "Herstellung"
   },
-  "f87": {
+  "f70": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Ab den frühen 1950er Jahren wurden Anlagen für die Flüssigphasenoxidation von Butan bei etwa 170 bis 200 °C und 60 bis 80 bar im Hüls-Butan-Prozess gebaut; ein analoges Verfahren geht von Buten aus.",
    "section": "Herstellung"
   },
-  "f88": {
+  "f71": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Ab den frühen 1950er Jahren wurden Anlagen für die Flüssigphasenoxidation von Butan bei etwa 170 bis 200 °C und 60 bis 80 bar im Hüls-Butan-Prozess gebaut; ein analoges Verfahren geht von Buten aus.",
    "section": "Herstellung"
   },
-  "f89": {
+  "f72": {
    "kind": "number",
    "value": 54,
    "surface": "54",
    "sentence": "Der Celanese-n-Butan-LPO-Prozess arbeitet bei 54 bar und 175 °C mit Cobaltacetat als Katalysator.",
    "section": "Herstellung"
   },
-  "f90": {
+  "f73": {
    "kind": "measure",
    "value": 175,
    "unit": "°c",
@@ -708,28 +583,28 @@
    "sentence": "Der Celanese-n-Butan-LPO-Prozess arbeitet bei 54 bar und 175 °C mit Cobaltacetat als Katalysator.",
    "section": "Herstellung"
   },
-  "f91": {
+  "f74": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Neuere Anlagen für die industrielle Synthese der Essigsäure arbeiten mit der katalytischen Umsetzung von Methanol mit Kohlenstoffmonoxid unter einem Druck von 30 bis 60 bar und bei Temperaturen von 150 bis 200 °C im Monsanto-Prozess.",
    "section": "Herstellung"
   },
-  "f92": {
+  "f75": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Neuere Anlagen für die industrielle Synthese der Essigsäure arbeiten mit der katalytischen Umsetzung von Methanol mit Kohlenstoffmonoxid unter einem Druck von 30 bis 60 bar und bei Temperaturen von 150 bis 200 °C im Monsanto-Prozess.",
    "section": "Herstellung"
   },
-  "f93": {
+  "f76": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Neuere Anlagen für die industrielle Synthese der Essigsäure arbeiten mit der katalytischen Umsetzung von Methanol mit Kohlenstoffmonoxid unter einem Druck von 30 bis 60 bar und bei Temperaturen von 150 bis 200 °C im Monsanto-Prozess.",
    "section": "Herstellung"
   },
-  "f94": {
+  "f77": {
    "kind": "measure",
    "value": 200,
    "unit": "°c",
@@ -737,7 +612,7 @@
    "sentence": "Neuere Anlagen für die industrielle Synthese der Essigsäure arbeiten mit der katalytischen Umsetzung von Methanol mit Kohlenstoffmonoxid unter einem Druck von 30 bis 60 bar und bei Temperaturen von 150 bis 200 °C im Monsanto-Prozess.",
    "section": "Herstellung"
   },
-  "f95": {
+  "f78": {
    "kind": "measure",
    "value": 99,
    "unit": "%",
@@ -745,14 +620,14 @@
    "sentence": "Der Prozess verwendet einen Rhodium-Katalysator und hat eine Selektivität von über 99 % bezogen auf Methanol.",
    "section": "Herstellung"
   },
-  "f96": {
+  "f79": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "Eine Verfahrensvariante entwickelte BP Chemicals 1966.",
    "section": "Herstellung"
   },
-  "f97": {
+  "f80": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",

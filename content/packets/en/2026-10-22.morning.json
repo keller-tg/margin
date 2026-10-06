@@ -47,561 +47,455 @@
  "facts": {
   "f1": {
    "kind": "number",
-   "value": 27,
-   "surface": "27",
-   "sentence": "Mary Wollstonecraft (, also UK: ; 27 April 1759 – 10 September 1797) was an English writer and philosopher best known for her advocacy of women's rights."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1759",
-   "surface": "1759",
-   "sentence": "Mary Wollstonecraft (, also UK: ; 27 April 1759 – 10 September 1797) was an English writer and philosopher best known for her advocacy of women's rights."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Mary Wollstonecraft (, also UK: ; 27 April 1759 – 10 September 1797) was an English writer and philosopher best known for her advocacy of women's rights."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1797",
-   "surface": "1797",
-   "sentence": "Mary Wollstonecraft (, also UK: ; 27 April 1759 – 10 September 1797) was an English writer and philosopher best known for her advocacy of women's rights."
-  },
-  "f5": {
-   "kind": "date",
-   "value": "1792",
-   "surface": "1792",
-   "sentence": "Wollstonecraft is best known for A Vindication of the Rights of Woman (1792), in which she argues that women are not naturally inferior to men but appeared to be only because they lack education."
-  },
-  "f6": {
-   "kind": "number",
    "value": 38,
    "surface": "38",
    "sentence": "Wollstonecraft died at the age of 38, leaving behind several unfinished manuscripts."
   },
-  "f7": {
+  "f2": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "She died 11 days after giving birth to her second daughter, Mary Shelley, who became an accomplished writer and the author of Frankenstein."
   },
-  "f8": {
-   "kind": "date",
-   "value": "1798",
-   "surface": "1798",
-   "sentence": "Wollstonecraft's widower published a Memoir (1798) of her life, revealing her unorthodox lifestyle, which inadvertently destroyed her reputation for almost a century."
-  },
-  "f9": {
+  "f3": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Wollstonecraft was born on 27 April 1759 in Spitalfields, London.",
    "section": "Biography"
   },
-  "f10": {
+  "f4": {
    "kind": "date",
    "value": "1759",
    "surface": "1759",
    "sentence": "Wollstonecraft was born on 27 April 1759 in Spitalfields, London.",
    "section": "Biography"
   },
-  "f11": {
+  "f5": {
    "kind": "date",
    "value": "1784",
    "surface": "1784",
    "sentence": "In a defining moment in 1784, she persuaded Eliza, who was suffering from what was probably postpartum depression, to leave her husband and infant; Wollstonecraft made all of the arrangements for Eliza to flee, demonstrating her willingness to challenge social norms.",
    "section": "Biography"
   },
-  "f12": {
+  "f6": {
    "kind": "date",
    "value": "1778",
    "surface": "1778",
    "sentence": "Unhappy with her home life, Wollstonecraft struck out on her own in 1778 and accepted a job as a lady's companion to Sarah Dawson, a widow living in Bath.",
    "section": "Biography"
   },
-  "f13": {
-   "kind": "date",
-   "value": "1787",
-   "surface": "1787",
-   "sentence": "However, Wollstonecraft had trouble getting along with the irascible woman (an experience she drew on when describing the drawbacks of such a position in Thoughts on the Education of Daughters, 1787).",
-   "section": "Biography"
-  },
-  "f14": {
+  "f7": {
    "kind": "date",
    "value": "1780",
    "surface": "1780",
    "sentence": "In 1780 she returned home upon being called back to care for her dying mother.",
    "section": "Biography"
   },
-  "f15": {
+  "f8": {
    "kind": "date",
    "value": "1785",
    "surface": "1785",
    "sentence": "Despite the change of surroundings Blood's health further deteriorated when she became pregnant, and in 1785 Wollstonecraft left the school and followed Blood to nurse her, but to no avail.",
    "section": "Biography"
   },
-  "f16": {
-   "kind": "date",
-   "value": "1788",
-   "surface": "1788",
-   "sentence": "Blood's death devastated Wollstonecraft and was part of the inspiration for her first novel, Mary: A Fiction (1788).",
-   "section": "Biography"
-  },
-  "f17": {
+  "f9": {
    "kind": "date",
    "value": "1785",
    "surface": "1785",
    "sentence": "After Blood's death in 1785, Wollstonecraft's friends helped her obtain a position as governess to the daughters of the Anglo-Irish Kingsborough family in Ireland.",
    "section": "Biography"
   },
-  "f18": {
-   "kind": "date",
-   "value": "1788",
-   "surface": "1788",
-   "sentence": "Some of Wollstonecraft's experiences during this year would make their way into her only children's book, Original Stories from Real Life (1788).",
-   "section": "Biography"
-  },
-  "f19": {
+  "f10": {
    "kind": "date",
    "value": "1787",
    "surface": "1787",
    "sentence": "As she wrote to her sister Everina in 1787, she was trying to become \"the first of a new genus\".",
    "section": "Biography"
   },
-  "f20": {
+  "f11": {
    "kind": "date",
    "value": "1769",
    "surface": "1769",
    "sentence": "In London, Wollstonecraft lived on Dolben Street, in Southwark; an up-and-coming area following the opening of the first Blackfriars Bridge in 1769.",
    "section": "Biography"
   },
-  "f21": {
-   "kind": "date",
-   "value": "1790",
-   "surface": "1790",
-   "sentence": "After Fuseli's rejection, Wollstonecraft decided to travel to France to escape the humiliation of the incident, and to participate in the revolutionary events that she had just celebrated in her recent Vindication of the Rights of Men (1790).",
-   "section": "Biography"
-  },
-  "f22": {
-   "kind": "date",
-   "value": "1790",
-   "surface": "1790",
-   "sentence": "She had written the Rights of Men in response to the Whig MP Edmund Burke's politically conservative critique of the French Revolution in Reflections on the Revolution in France (1790) and it made her famous overnight.",
-   "section": "Biography"
-  },
-  "f23": {
+  "f12": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Reflections on the Revolution in France was published on 1 November 1790, and so angered Wollstonecraft that she spent the rest of the month writing her rebuttal.",
    "section": "Biography"
   },
-  "f24": {
+  "f13": {
    "kind": "date",
    "value": "1790",
    "surface": "1790",
    "sentence": "Reflections on the Revolution in France was published on 1 November 1790, and so angered Wollstonecraft that she spent the rest of the month writing her rebuttal.",
    "section": "Biography"
   },
-  "f25": {
+  "f14": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "A Vindication of the Rights of Men, in a Letter to the Right Honourable Edmund Burke was published on 29 November 1790, initially anonymously; the second edition of A Vindication of the Rights of Men was published on 18 December, and this time the publisher revealed Wollstonecraft as the author.",
    "section": "Biography"
   },
-  "f26": {
+  "f15": {
    "kind": "date",
    "value": "1790",
    "surface": "1790",
    "sentence": "A Vindication of the Rights of Men, in a Letter to the Right Honourable Edmund Burke was published on 29 November 1790, initially anonymously; the second edition of A Vindication of the Rights of Men was published on 18 December, and this time the publisher revealed Wollstonecraft as the author.",
    "section": "Biography"
   },
-  "f27": {
+  "f16": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "A Vindication of the Rights of Men, in a Letter to the Right Honourable Edmund Burke was published on 29 November 1790, initially anonymously; the second edition of A Vindication of the Rights of Men was published on 18 December, and this time the publisher revealed Wollstonecraft as the author.",
    "section": "Biography"
   },
-  "f28": {
+  "f17": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "About the events of 5–6 October 1789, when the royal family was marched from Versailles to Paris by a group of angry housewives, Burke praised Queen Marie Antoinette as a symbol of the refined elegance of the ancien régime, who was surrounded by \"furies from hell, in the abused shape of the vilest of women\".",
    "section": "Biography"
   },
-  "f29": {
+  "f18": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "About the events of 5–6 October 1789, when the royal family was marched from Versailles to Paris by a group of angry housewives, Burke praised Queen Marie Antoinette as a symbol of the refined elegance of the ancien régime, who was surrounded by \"furies from hell, in the abused shape of the vilest of women\".",
    "section": "Biography"
   },
-  "f30": {
+  "f19": {
    "kind": "date",
    "value": "1789",
    "surface": "1789",
    "sentence": "About the events of 5–6 October 1789, when the royal family was marched from Versailles to Paris by a group of angry housewives, Burke praised Queen Marie Antoinette as a symbol of the refined elegance of the ancien régime, who was surrounded by \"furies from hell, in the abused shape of the vilest of women\".",
    "section": "Biography"
   },
-  "f31": {
-   "kind": "date",
-   "value": "1791",
-   "surface": "1791",
-   "sentence": "Wollstonecraft was compared with such leading lights as the theologian and controversialist Joseph Priestley and Paine, whose Rights of Man (1791) would prove to be the most popular of the responses to Burke.",
-   "section": "Biography"
-  },
-  "f32": {
-   "kind": "date",
-   "value": "1792",
-   "surface": "1792",
-   "sentence": "She pursued the ideas she had outlined in Rights of Men in A Vindication of the Rights of Woman (1792), her most famous and influential work.",
-   "section": "Biography"
-  },
-  "f33": {
+  "f20": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
    "sentence": "Wollstonecraft's fame extended across the English channel, for when the French statesman Charles Maurice de Talleyrand-Périgord visited London in 1792, he visited her, during which she asked that French girls be given the same right to an education that French boys were being offered by the new regime in France.",
    "section": "Biography"
   },
-  "f34": {
+  "f21": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
    "sentence": "Wollstonecraft left for Paris in December 1792, and arrived about a month before Louis XVI was guillotined.",
    "section": "Biography"
   },
-  "f35": {
+  "f22": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "It was indicative that when Archibald Hamilton Rowan, the United Irishman, encountered her in the city in 1794 it was at a post-Terror festival in honour of the moderate revolutionary leader Mirabeau, who had been a great hero for Irish and English radicals before his death in April 1791.",
    "section": "Biography"
   },
-  "f36": {
+  "f23": {
    "kind": "date",
    "value": "1791",
    "surface": "1791",
    "sentence": "It was indicative that when Archibald Hamilton Rowan, the United Irishman, encountered her in the city in 1794 it was at a post-Terror festival in honour of the moderate revolutionary leader Mirabeau, who had been a great hero for Irish and English radicals before his death in April 1791.",
    "section": "Biography"
   },
-  "f37": {
+  "f24": {
    "kind": "number",
    "value": 26,
    "surface": "26",
-   "sentence": "On 26 December 1792, Wollstonecraft saw the former king, Louis XVI, being taken to be tried before the National Assembly, and much to her own surprise, found \"the tears flow[ing] insensibly from my eyes, when I saw Louis sitting, with more dignity than I expected from his character, in a hackney coach going to meet death, where so many of his race have triumphed\".",
+   "sentence": "On 26 December 1792, Wollstonecraft saw the former king, Louis XVI, being taken to be tried before the National Assembly, and much to her own surprise, found \"the tears flow insensibly from my eyes, when I saw Louis sitting, with more dignity than I expected from his character, in a hackney coach going to meet death, where so many of his race have triumphed\".",
    "section": "Biography"
   },
-  "f38": {
+  "f25": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
-   "sentence": "On 26 December 1792, Wollstonecraft saw the former king, Louis XVI, being taken to be tried before the National Assembly, and much to her own surprise, found \"the tears flow[ing] insensibly from my eyes, when I saw Louis sitting, with more dignity than I expected from his character, in a hackney coach going to meet death, where so many of his race have triumphed\".",
+   "sentence": "On 26 December 1792, Wollstonecraft saw the former king, Louis XVI, being taken to be tried before the National Assembly, and much to her own surprise, found \"the tears flow insensibly from my eyes, when I saw Louis sitting, with more dignity than I expected from his character, in a hackney coach going to meet death, where so many of his race have triumphed\".",
    "section": "Biography"
   },
-  "f39": {
+  "f26": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
    "sentence": "France declared war on Britain in February 1793.",
    "section": "Biography"
   },
-  "f40": {
+  "f27": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Then, on 12 April 1793, all foreigners were forbidden to leave France.",
    "section": "Biography"
   },
-  "f41": {
+  "f28": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
    "sentence": "Then, on 12 April 1793, all foreigners were forbidden to leave France.",
    "section": "Biography"
   },
-  "f42": {
+  "f29": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "On 16 October 1793, Marie Antoinette was guillotined; among her charges and convictions, she was found guilty of committing incest with her son.",
    "section": "Biography"
   },
-  "f43": {
+  "f30": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
    "sentence": "On 16 October 1793, Marie Antoinette was guillotined; among her charges and convictions, she was found guilty of committing incest with her son.",
    "section": "Biography"
   },
-  "f44": {
+  "f31": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "On 31 October 1793, most Girondin leaders were guillotined; when Imlay broke the news to Wollstonecraft, she fainted.",
    "section": "Biography"
   },
-  "f45": {
+  "f32": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
    "sentence": "On 31 October 1793, most Girondin leaders were guillotined; when Imlay broke the news to Wollstonecraft, she fainted.",
    "section": "Biography"
   },
-  "f46": {
+  "f33": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
-   "sentence": "In a March 1794 letter to her sister Everina, Wollstonecraft wrote:\nIt is impossible for you to have any idea of the impression the sad scenes I have been a witness to have left on my mind ... death and misery, in every shape of terrour, haunts this devoted country—I certainly am glad that I came to France, because I never could have had else a just opinion of the most extraordinary event that has ever been recorded.",
+   "sentence": "In a March 1794 letter to her sister Everina, Wollstonecraft wrote:\nIt is impossible for you to have any idea of the impression the sad scenes I have been a witness to have left on my mind... death and misery, in every shape of terrour, haunts this devoted country—I certainly am glad that I came to France, because I never could have had else a just opinion of the most extraordinary event that has ever been recorded.",
    "section": "Biography"
   },
-  "f47": {
+  "f34": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Wollstonecraft soon became pregnant by Imlay; on 14 May 1794, she gave birth to her first child, Fanny, naming her after perhaps her closest friend.",
    "section": "Biography"
   },
-  "f48": {
+  "f35": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "Wollstonecraft soon became pregnant by Imlay; on 14 May 1794, she gave birth to her first child, Fanny, naming her after perhaps her closest friend.",
    "section": "Biography"
   },
-  "f49": {
+  "f36": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "While at Le Havre in northern France, she wrote a history of the early revolution, An Historical and Moral View of the French Revolution, which was published in London in December 1794.",
    "section": "Biography"
   },
-  "f50": {
+  "f37": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "In July 1794, Wollstonecraft welcomed the fall of the Jacobins, predicting it would be followed with a restoration of freedom of the press in France, which led her to return to Paris.",
    "section": "Biography"
   },
-  "f51": {
+  "f38": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "In August 1794, Imlay departed for London and promised to return soon.",
    "section": "Biography"
   },
-  "f52": {
+  "f39": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
    "sentence": "In 1793, the first Pitt ministry had begun a crackdown on British radicals, suspending civil liberties, imposing drastic censorship and trying anyone suspected of sympathising with the revolution with treason, which led Wollstonecraft to fear she would be imprisoned if she returned to England.",
    "section": "Biography"
   },
-  "f53": {
+  "f40": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "The winter of 1794–1795 was the coldest winter in Europe for over a century, which reduced Wollstonecraft and her daughter Fanny to desperate circumstances.",
    "section": "Biography"
   },
-  "f54": {
-   "kind": "date",
-   "value": "1795",
-   "surface": "1795",
-   "sentence": "The winter of 1794–1795 was the coldest winter in Europe for over a century, which reduced Wollstonecraft and her daughter Fanny to desperate circumstances.",
-   "section": "Biography"
-  },
-  "f55": {
+  "f41": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "After she left France on 7 April 1795, she continued to refer to herself as \"Mrs. Imlay\", even to her sisters, in order to bestow legitimacy upon her child.",
    "section": "Biography"
   },
-  "f56": {
+  "f42": {
    "kind": "date",
    "value": "1795",
    "surface": "1795",
    "sentence": "After she left France on 7 April 1795, she continued to refer to herself as \"Mrs. Imlay\", even to her sisters, in order to bestow legitimacy upon her child.",
    "section": "Biography"
   },
-  "f57": {
+  "f43": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "It was first published in London in 1794, but a second edition did not appear until 1989.",
    "section": "Biography"
   },
-  "f58": {
+  "f44": {
    "kind": "date",
    "value": "1989",
    "surface": "1989",
    "sentence": "It was first published in London in 1794, but a second edition did not appear until 1989.",
    "section": "Biography"
   },
-  "f59": {
+  "f45": {
    "kind": "date",
    "value": "1789",
    "surface": "1789",
    "sentence": "Wollstonecraft argued instead that the revolution arose from a set of social, economic and political conditions that left no other way out of the crisis that gripped France in 1789.",
    "section": "Biography"
   },
-  "f60": {
+  "f46": {
    "kind": "date",
    "value": "1789",
    "surface": "1789",
    "sentence": "She condemned the Jacobin regime and the Reign of Terror, but at same time she argued that the revolution was a great achievement, which led her to stop her history in late 1789 rather than write about the Terror of 1793–94.",
    "section": "Biography"
   },
-  "f61": {
+  "f47": {
    "kind": "date",
    "value": "1793",
    "surface": "1793",
    "sentence": "She condemned the Jacobin regime and the Reign of Terror, but at same time she argued that the revolution was a great achievement, which led her to stop her history in late 1789 rather than write about the Terror of 1793–94.",
    "section": "Biography"
   },
-  "f62": {
-   "kind": "number",
-   "value": 94,
-   "surface": "94",
-   "sentence": "She condemned the Jacobin regime and the Reign of Terror, but at same time she argued that the revolution was a great achievement, which led her to stop her history in late 1789 rather than write about the Terror of 1793–94.",
-   "section": "Biography"
-  },
-  "f63": {
+  "f48": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Edmund Burke had ended his Reflections on the Revolution in France with reference to the events of 5–6 October 1789, when a group of women from Paris forced the French royal family from the Palace of Versailles to Paris.",
    "section": "Biography"
   },
-  "f64": {
+  "f49": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Edmund Burke had ended his Reflections on the Revolution in France with reference to the events of 5–6 October 1789, when a group of women from Paris forced the French royal family from the Palace of Versailles to Paris.",
    "section": "Biography"
   },
-  "f65": {
+  "f50": {
    "kind": "date",
    "value": "1789",
    "surface": "1789",
    "sentence": "Edmund Burke had ended his Reflections on the Revolution in France with reference to the events of 5–6 October 1789, when a group of women from Paris forced the French royal family from the Palace of Versailles to Paris.",
    "section": "Biography"
   },
-  "f66": {
-   "kind": "date",
-   "value": "1799",
-   "surface": "1799",
-   "sentence": "In Biographical Memoirs of the French Revolution (1799), the strongly anti-Jacobin historian John Adolphus condemned Wollstonecraft's work as a \"rhapsody of libellous declamations\" and took particular offence at her depiction of Louis XVI.",
-   "section": "Biography"
-  },
-  "f67": {
+  "f51": {
    "kind": "date",
    "value": "1795",
    "surface": "1795",
    "sentence": "Seeking Imlay, Wollstonecraft returned to London in April 1795, but he rejected her.",
    "section": "Biography"
   },
-  "f68": {
+  "f52": {
    "kind": "date",
    "value": "1795",
    "surface": "1795",
    "sentence": "In May 1795, she attempted to commit suicide, probably with laudanum.",
    "section": "Biography"
   },
-  "f69": {
+  "f53": {
    "kind": "date",
    "value": "1796",
    "surface": "1796",
    "sentence": "She recounted her travels and thoughts in letters to Imlay, many of which were eventually published as Letters Written in Sweden, Norway, and Denmark in 1796.",
    "section": "Biography"
   },
-  "f70": {
+  "f54": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "After their marriage on 29 March 1797, Godwin and Wollstonecraft moved to 29 The Polygon, Somers Town.",
    "section": "Biography"
   },
-  "f71": {
+  "f55": {
    "kind": "date",
    "value": "1797",
    "surface": "1797",
    "sentence": "After their marriage on 29 March 1797, Godwin and Wollstonecraft moved to 29 The Polygon, Somers Town.",
    "section": "Biography"
   },
-  "f72": {
+  "f56": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "After their marriage on 29 March 1797, Godwin and Wollstonecraft moved to 29 The Polygon, Somers Town.",
    "section": "Biography"
   },
-  "f73": {
+  "f57": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Godwin rented an apartment 20 doors away at 17 Evesham Buildings in Chalton Street as a study, so that they could both still retain their independence; they often communicated by letter.",
    "section": "Biography"
   },
-  "f74": {
+  "f58": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Godwin rented an apartment 20 doors away at 17 Evesham Buildings in Chalton Street as a study, so that they could both still retain their independence; they often communicated by letter.",
    "section": "Biography"
   },
-  "f75": {
+  "f59": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "On 30 August 1797, Wollstonecraft gave birth to her second daughter, Mary.",
    "section": "Biography"
   },
-  "f76": {
+  "f60": {
    "kind": "date",
    "value": "1797",
    "surface": "1797",
    "sentence": "On 30 August 1797, Wollstonecraft gave birth to her second daughter, Mary.",
    "section": "Biography"
   },
-  "f77": {
+  "f61": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "After several days of agony, Wollstonecraft died of septicaemia on 10 September.",
    "section": "Biography"
   },
-  "f78": {
+  "f62": {
    "kind": "number",
    "value": 27,
    "surface": "27",
-   "sentence": "She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
+   "sentence": "I have not the least expectation that I can now ever know happiness again.\"She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
    "section": "Biography"
   },
-  "f79": {
+  "f63": {
    "kind": "date",
    "value": "1759",
    "surface": "1759",
-   "sentence": "She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
+   "sentence": "I have not the least expectation that I can now ever know happiness again.\"She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
    "section": "Biography"
   },
-  "f80": {
+  "f64": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
+   "sentence": "I have not the least expectation that I can now ever know happiness again.\"She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
    "section": "Biography"
   },
-  "f81": {
+  "f65": {
    "kind": "date",
    "value": "1797",
    "surface": "1797",
-   "sentence": "She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
+   "sentence": "I have not the least expectation that I can now ever know happiness again.\"She was buried in the churchyard of St Pancras Old Church, where her tombstone reads \"Mary Wollstonecraft Godwin, Author of A Vindication of the Rights of Woman: Born 27 April 1759: Died 10 September 1797.\"",
    "section": "Biography"
   }
  },

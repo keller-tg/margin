@@ -59,124 +59,96 @@
  "facts": {
   "f1": {
    "kind": "date",
-   "value": "1872",
-   "surface": "1872",
-   "sentence": "Die Bakterien (lateinisch Bacteria; Singular: das Bakterium, veraltend auch die Bakterie; von altgriechisch βακτήριον baktḗrion „Stäbchen“, Verkleinerungsform von βάκτρον báktron „Stab“), umgangssprachlich auch Bazillen (Singular Bazille; von Bazillus, geprägt 1872 von Hermann Cohn aus lateinisch bacillum, Verkleinerungsform von mit báktron urverwandtem und gleichbedeutendem baculum, vgl. aber Bazillen), bilden neben den Eukaryoten und Archaeen eine der drei grundlegenden Domänen, in die alle Lebewesen eingeteilt werden."
-  },
-  "f2": {
-   "kind": "date",
    "value": "1676",
    "surface": "1676",
    "sentence": "Bakterien wurden belegbar erstmals von Antoni van Leeuwenhoek mit Hilfe eines selbstgebauten Mikroskops in Gewässern und im menschlichen Speichel beobachtet und 1676 von ihm in Berichten an die Royal Society of London beschrieben.",
    "section": "Erforschung"
   },
-  "f3": {
+  "f2": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
    "sentence": "Im Jahr 1849 sah Alois Pollender erstmals Milzbrandstäbchen im Blut von an Milzbrand erkrankten Tieren.",
    "section": "Erforschung"
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "1873 beschrieb Edwin Klebs Bazillen auf diphtherischen Belägen.",
    "section": "Erforschung"
   },
-  "f5": {
+  "f4": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Bis gegen Ende des 20. Jahrhunderts wurde die Bezeichnung „Bakterien“ in der Mikrobiologie für alle mikroskopisch kleinen, meistens einzelligen Organismen gebraucht, die keinen echten Zellkern besitzen und deshalb zu den Prokaryoten gehören.",
+   "sentence": "Bis gegen Ende des 20. Jahrhunderts wurde die Bezeichnung „Bakterien“in der Mikrobiologie für alle mikroskopisch kleinen, meistens einzelligen Organismen gebraucht, die keinen echten Zellkern besitzen und deshalb zu den Prokaryoten gehören.",
    "section": "Erforschung"
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Jedoch trifft das auch auf die Archaeen zu, die seit etwa 1990 einer separaten Domäne zugeordnet werden.",
    "section": "Erforschung"
   },
-  "f7": {
+  "f6": {
    "kind": "date",
    "value": "1876",
    "surface": "1876",
    "sentence": "Eine klare Trennung der verschiedenen Bakterienarten auf Nährboden gelang 1876 Ferdinand Julius Cohn.",
    "section": "Erforschung"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
    "sentence": "Wundinfektionen führte Robert Koch 1887 auf ganz bestimmte Bakterien zurück.",
    "section": "Erforschung"
   },
-  "f9": {
-   "kind": "number",
-   "value": 95,
-   "surface": "95",
-   "sentence": "Über dreihundert Jahre nach der ersten Beschreibung von Bakterien und trotz unzähliger schon beschriebener und katalogisierter Arten ist nach heutigem Kenntnisstand anzunehmen, dass die große Mehrheit (ca. 95 bis 99 %) aller auf unserem Planeten existierenden Bakterienarten bisher weder näher bekannt ist, noch beschrieben wurde (Stand: 2006).",
-   "section": "Erforschung"
-  },
-  "f10": {
-   "kind": "measure",
-   "value": 99,
-   "unit": "%",
-   "surface": "99 %",
-   "sentence": "Über dreihundert Jahre nach der ersten Beschreibung von Bakterien und trotz unzähliger schon beschriebener und katalogisierter Arten ist nach heutigem Kenntnisstand anzunehmen, dass die große Mehrheit (ca. 95 bis 99 %) aller auf unserem Planeten existierenden Bakterienarten bisher weder näher bekannt ist, noch beschrieben wurde (Stand: 2006).",
-   "section": "Erforschung"
-  },
-  "f11": {
-   "kind": "date",
-   "value": "2006",
-   "surface": "2006",
-   "sentence": "Über dreihundert Jahre nach der ersten Beschreibung von Bakterien und trotz unzähliger schon beschriebener und katalogisierter Arten ist nach heutigem Kenntnisstand anzunehmen, dass die große Mehrheit (ca. 95 bis 99 %) aller auf unserem Planeten existierenden Bakterienarten bisher weder näher bekannt ist, noch beschrieben wurde (Stand: 2006).",
-   "section": "Erforschung"
-  },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "So wurde im Jahr 2022 das größte bislang bekannte Bakterium entdeckt: Das Bakterium Thiomargarita magnifica ist mit einer durchschnittlichen Länge von fast einem Zentimeter ein mit bloßem Auge sichtbares Schwefelbakterium.",
    "section": "Erforschung"
   },
-  "f13": {
+  "f9": {
    "kind": "number",
    "value": 159662,
    "surface": "159.662",
    "sentence": "Es besitzt nur 159.662 Basenpaare und 182 Gene.",
    "section": "Erforschung"
   },
-  "f14": {
+  "f10": {
    "kind": "number",
    "value": 182,
    "surface": "182",
    "sentence": "Es besitzt nur 159.662 Basenpaare und 182 Gene.",
    "section": "Erforschung"
   },
-  "f15": {
+  "f11": {
    "kind": "number",
    "value": 582970,
    "surface": "582.970",
    "sentence": "Das Bakterium mit dem kleinsten Genom, das parasitär lebt, ist Mycoplasma genitalium mit 582.970 Basenpaaren.",
    "section": "Erforschung"
   },
-  "f16": {
+  "f12": {
    "kind": "number",
    "value": 1300000,
    "surface": "1,3 Millionen",
    "sentence": "Das Bakterium mit dem kleinsten Genom, das selbstständig, also weder symbiontisch noch parasitär, lebt, ist Pelagibacter ubique und hat ca. 1,3 Millionen Basenpaare.",
    "section": "Erforschung"
   },
-  "f17": {
+  "f13": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
    "sentence": "Die Größe von Bakterien ist sehr unterschiedlich: Ihr Durchmesser liegt zwischen etwa 0,1 und 700 µm, bei den meisten bekannten Arten beträgt er etwa 0,6 bis 1,0 µm.",
    "section": "Eigenschaften"
   },
-  "f18": {
+  "f14": {
    "kind": "measure",
    "value": 700,
    "unit": "µm",
@@ -184,14 +156,14 @@
    "sentence": "Die Größe von Bakterien ist sehr unterschiedlich: Ihr Durchmesser liegt zwischen etwa 0,1 und 700 µm, bei den meisten bekannten Arten beträgt er etwa 0,6 bis 1,0 µm.",
    "section": "Eigenschaften"
   },
-  "f19": {
+  "f15": {
    "kind": "number",
    "value": 0.6,
    "surface": "0,6",
    "sentence": "Die Größe von Bakterien ist sehr unterschiedlich: Ihr Durchmesser liegt zwischen etwa 0,1 und 700 µm, bei den meisten bekannten Arten beträgt er etwa 0,6 bis 1,0 µm.",
    "section": "Eigenschaften"
   },
-  "f20": {
+  "f16": {
    "kind": "measure",
    "value": 1,
    "unit": "µm",
@@ -199,38 +171,38 @@
    "sentence": "Die Größe von Bakterien ist sehr unterschiedlich: Ihr Durchmesser liegt zwischen etwa 0,1 und 700 µm, bei den meisten bekannten Arten beträgt er etwa 0,6 bis 1,0 µm.",
    "section": "Eigenschaften"
   },
-  "f21": {
+  "f17": {
    "kind": "measure",
    "value": 0.6,
    "unit": "µm",
    "surface": "0,6 µm",
-   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm (bei Kokken) und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
+   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
    "section": "Eigenschaften"
   },
-  "f22": {
+  "f18": {
    "kind": "measure",
    "value": 700,
    "unit": "µm",
    "surface": "700 µm",
-   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm (bei Kokken) und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
+   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
    "section": "Eigenschaften"
   },
-  "f23": {
+  "f19": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm (bei Kokken) und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
+   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
    "section": "Eigenschaften"
   },
-  "f24": {
+  "f20": {
    "kind": "measure",
    "value": 5,
    "unit": "µm",
    "surface": "5 µm",
-   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm (bei Kokken) und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
+   "sentence": "Ihre Länge liegt in einem größeren Bereich: bei Einzelzellen zwischen etwa 0,6 µm und 700 µm, Hyphen können noch länger sein, die meisten Bakterien sind 1 bis 5 µm lang.",
    "section": "Eigenschaften"
   },
-  "f25": {
+  "f21": {
    "kind": "measure",
    "value": 1,
    "unit": "µm",
@@ -238,7 +210,7 @@
    "sentence": "Das Volumen der meisten Bakterien liegt in der Größenordnung von 1 µm³.",
    "section": "Eigenschaften"
   },
-  "f26": {
+  "f22": {
    "kind": "measure",
    "value": 50,
    "unit": "µm",
@@ -246,37 +218,14 @@
    "sentence": "Abgesehen von wenigen Ausnahmen können einzelne Bakterienzellen mit bloßem Auge nicht gesehen werden, da das Auflösungsvermögen des menschlichen Auges um etwa 50 µm liegt.",
    "section": "Eigenschaften"
   },
-  "f27": {
-   "kind": "measure",
-   "value": 0.3,
-   "unit": "µm",
-   "surface": "0,3 µm",
-   "sentence": "Besonders klein sind Mycoplasmen (Durchmesser der kleinsten ca. 0,3 µm) und Ca. Velamenicoccus archaeovorus (Durchmesser 0,2–0,3 µm).",
-   "section": "Eigenschaften"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 0.2,
-   "surface": "0,2",
-   "sentence": "Besonders klein sind Mycoplasmen (Durchmesser der kleinsten ca. 0,3 µm) und Ca. Velamenicoccus archaeovorus (Durchmesser 0,2–0,3 µm).",
-   "section": "Eigenschaften"
-  },
-  "f29": {
-   "kind": "measure",
-   "value": 0.3,
-   "unit": "µm",
-   "surface": "0,3 µm",
-   "sentence": "Besonders klein sind Mycoplasmen (Durchmesser der kleinsten ca. 0,3 µm) und Ca. Velamenicoccus archaeovorus (Durchmesser 0,2–0,3 µm).",
-   "section": "Eigenschaften"
-  },
-  "f30": {
+  "f23": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Besonders groß sind viele Cyanobakterien, ihr Durchmesser liegt meistens zwischen 2 und 8 µm.",
    "section": "Eigenschaften"
   },
-  "f31": {
+  "f24": {
    "kind": "measure",
    "value": 8,
    "unit": "µm",
@@ -284,693 +233,507 @@
    "sentence": "Besonders groß sind viele Cyanobakterien, ihr Durchmesser liegt meistens zwischen 2 und 8 µm.",
    "section": "Eigenschaften"
   },
-  "f32": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "cm",
-   "surface": "2 cm",
-   "sentence": "Das größte bisher bekannte Bakterium ist Ca. Thiomargarita magnifica (fadenförmig mit einer nachweislichen Länge bis zu 2 cm), daneben seine Schwesterart T. namibiensis (etwa kugelförmig mit einem Durchmesser von 300–700 µm), beide sind mit bloßem Auge zu sehen.",
-   "section": "Eigenschaften"
-  },
-  "f33": {
-   "kind": "number",
-   "value": 300,
-   "surface": "300",
-   "sentence": "Das größte bisher bekannte Bakterium ist Ca. Thiomargarita magnifica (fadenförmig mit einer nachweislichen Länge bis zu 2 cm), daneben seine Schwesterart T. namibiensis (etwa kugelförmig mit einem Durchmesser von 300–700 µm), beide sind mit bloßem Auge zu sehen.",
-   "section": "Eigenschaften"
-  },
-  "f34": {
-   "kind": "measure",
-   "value": 700,
-   "unit": "µm",
-   "surface": "700 µm",
-   "sentence": "Das größte bisher bekannte Bakterium ist Ca. Thiomargarita magnifica (fadenförmig mit einer nachweislichen Länge bis zu 2 cm), daneben seine Schwesterart T. namibiensis (etwa kugelförmig mit einem Durchmesser von 300–700 µm), beide sind mit bloßem Auge zu sehen.",
-   "section": "Eigenschaften"
-  },
-  "f35": {
-   "kind": "measure",
-   "value": 700,
-   "unit": "µm",
-   "surface": "700 µm",
-   "sentence": "Das Volumen von T. namibiensis (Durchmesser d ≈ 700 µm, daher Volumen einer Kugel = 0,523 · d3) ist mehr als 10 Milliarden Mal größer als das Volumen des kleinsten Bakteriums (d ≈ 0,3 µm).",
-   "section": "Eigenschaften"
-  },
-  "f36": {
-   "kind": "number",
-   "value": 0.523,
-   "surface": "0,523",
-   "sentence": "Das Volumen von T. namibiensis (Durchmesser d ≈ 700 µm, daher Volumen einer Kugel = 0,523 · d3) ist mehr als 10 Milliarden Mal größer als das Volumen des kleinsten Bakteriums (d ≈ 0,3 µm).",
-   "section": "Eigenschaften"
-  },
-  "f37": {
+  "f25": {
    "kind": "number",
    "value": 10000000000,
    "surface": "10 Milliarden",
-   "sentence": "Das Volumen von T. namibiensis (Durchmesser d ≈ 700 µm, daher Volumen einer Kugel = 0,523 · d3) ist mehr als 10 Milliarden Mal größer als das Volumen des kleinsten Bakteriums (d ≈ 0,3 µm).",
+   "sentence": "Das Volumen von T. namibiensis ist mehr als 10 Milliarden Mal größer als das Volumen des kleinsten Bakteriums.",
    "section": "Eigenschaften"
   },
-  "f38": {
-   "kind": "measure",
-   "value": 0.3,
-   "unit": "µm",
-   "surface": "0,3 µm",
-   "sentence": "Das Volumen von T. namibiensis (Durchmesser d ≈ 700 µm, daher Volumen einer Kugel = 0,523 · d3) ist mehr als 10 Milliarden Mal größer als das Volumen des kleinsten Bakteriums (d ≈ 0,3 µm).",
-   "section": "Eigenschaften"
-  },
-  "f39": {
+  "f26": {
    "kind": "number",
    "value": 4700000,
    "surface": "4,7 Millionen",
    "sentence": "Das Genom des Darmbakteriums Escherichia coli besteht aus knapp 4,7 Millionen Basenpaaren, deren Sequenz vollständig bekannt ist.",
    "section": "Eigenschaften"
   },
-  "f40": {
+  "f27": {
    "kind": "number",
    "value": 1.4,
    "surface": "1,4",
    "sentence": "Das DNA-Molekül ist etwa 1,4 Millimeter lang mit einem Durchmesser von nur 2 Nanometern und enthält rund 4400 Gene.",
    "section": "Eigenschaften"
   },
-  "f41": {
+  "f28": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Das DNA-Molekül ist etwa 1,4 Millimeter lang mit einem Durchmesser von nur 2 Nanometern und enthält rund 4400 Gene.",
    "section": "Eigenschaften"
   },
-  "f42": {
+  "f29": {
    "kind": "number",
    "value": 4400,
    "surface": "4400",
    "sentence": "Das DNA-Molekül ist etwa 1,4 Millimeter lang mit einem Durchmesser von nur 2 Nanometern und enthält rund 4400 Gene.",
    "section": "Eigenschaften"
   },
-  "f43": {
+  "f30": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Sie besitzen nur eine, und die besteht aus nur 5 Untereinheiten (α (2x), β, β' und ω).",
+   "sentence": "Sie besitzen nur eine, und die besteht aus nur 5 Untereinheiten.",
    "section": "Eigenschaften"
   },
-  "f44": {
+  "f31": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Die RNA-Polymerase der Archaeen besteht dagegen aus 11–12 Untereinheiten, und Eukaryoten besitzen mehrere RNA-Polymerasen, die aus bis zu 12 Untereinheiten bestehen.",
    "section": "Eigenschaften"
   },
-  "f45": {
+  "f32": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Die RNA-Polymerase der Archaeen besteht dagegen aus 11–12 Untereinheiten, und Eukaryoten besitzen mehrere RNA-Polymerasen, die aus bis zu 12 Untereinheiten bestehen.",
    "section": "Eigenschaften"
   },
-  "f46": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Die RNA-Polymerase der Archaeen besteht dagegen aus 11–12 Untereinheiten, und Eukaryoten besitzen mehrere RNA-Polymerasen, die aus bis zu 12 Untereinheiten bestehen.",
-   "section": "Eigenschaften"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Soweit Flagellen (Geißeln) vorhanden sind, ist ihre Anzahl (1 bis viele) und ihre Anordnung je nach Bakterienart verschieden.",
-   "section": "Eigenschaften"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Soweit Pili vorhanden sind, ist ihre Anzahl (1 bis viele), Länge und Anordnung verschieden.",
-   "section": "Eigenschaften"
-  },
-  "f49": {
+  "f33": {
    "kind": "number",
    "value": 9,
    "surface": "9",
-   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten (z. B. Protisten) nicht nach dem „9+2-Muster“ aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
+   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten nicht nach dem „9+2-Muster“aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
    "section": "Eigenschaften"
   },
-  "f50": {
+  "f34": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten (z. B. Protisten) nicht nach dem „9+2-Muster“ aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
+   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten nicht nach dem „9+2-Muster“aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
    "section": "Eigenschaften"
   },
-  "f51": {
+  "f35": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten (z. B. Protisten) nicht nach dem „9+2-Muster“ aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
+   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten nicht nach dem „9+2-Muster“aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
    "section": "Eigenschaften"
   },
-  "f52": {
+  "f36": {
    "kind": "measure",
    "value": 20,
    "unit": "nm",
    "surface": "20 nm",
-   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten (z. B. Protisten) nicht nach dem „9+2-Muster“ aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
+   "sentence": "Bakterien bewegen sich meist frei im Flüssigmedium schwimmend durch Flagellen, auch als Geißeln bezeichnet, die anders als die Geißeln der Eukaryoten nicht nach dem „9+2-Muster“aufgebaut sind, sondern aus einem langen, wendelförmigen, etwa 15 bis 20 nm dicken Proteinfaden bestehen.",
    "section": "Eigenschaften"
   },
-  "f53": {
+  "f37": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Diese Organellen zeichnen sich durch eine Doppelmembran aus und enthalten eine eigene zirkuläre DNA, auf der je nach Art 5 bis 62 Gene enthalten sein können.",
    "section": "Eigenschaften"
   },
-  "f54": {
+  "f38": {
    "kind": "number",
    "value": 62,
    "surface": "62",
    "sentence": "Diese Organellen zeichnen sich durch eine Doppelmembran aus und enthalten eine eigene zirkuläre DNA, auf der je nach Art 5 bis 62 Gene enthalten sein können.",
    "section": "Eigenschaften"
   },
-  "f55": {
+  "f39": {
    "kind": "number",
    "value": 10000000000000,
    "surface": "10 Billionen",
-   "sentence": "Ein Mensch besteht aus etwa 10 Billionen (1013) Zellen, die aus der befruchteten Eizelle hervorgegangen sind.",
+   "sentence": "Ein Mensch besteht aus etwa 10 Billionen Zellen, die aus der befruchteten Eizelle hervorgegangen sind.",
    "section": "Bedeutung"
   },
-  "f56": {
-   "kind": "date",
-   "value": "1013",
-   "surface": "1013",
-   "sentence": "Ein Mensch besteht aus etwa 10 Billionen (1013) Zellen, die aus der befruchteten Eizelle hervorgegangen sind.",
-   "section": "Bedeutung"
-  },
-  "f57": {
+  "f40": {
    "kind": "number",
    "value": 10000000000,
    "surface": "10 Milliarden",
-   "sentence": "Im Mund eines Menschen leben insgesamt etwa 10 Milliarden (1010) Bakterien.",
+   "sentence": "Im Mund eines Menschen leben insgesamt etwa 10 Milliarden Bakterien.",
    "section": "Bedeutung"
   },
-  "f58": {
-   "kind": "date",
-   "value": "1010",
-   "surface": "1010",
-   "sentence": "Im Mund eines Menschen leben insgesamt etwa 10 Milliarden (1010) Bakterien.",
-   "section": "Bedeutung"
-  },
-  "f59": {
-   "kind": "date",
-   "value": "1012",
-   "surface": "1012",
-   "sentence": "Auf der menschlichen Haut befinden sich bei durchschnittlicher Hygiene etwa hundertmal so viele Bakterien, nämlich insgesamt etwa eine Billion (1012) allerdings sehr unterschiedlich verteilt: An den Armen sind es nur wenige tausend, in fettigeren Regionen wie der Stirn schon einige Millionen und in feuchten Regionen wie den Achseln mehrere Milliarden pro Quadratzentimeter.",
-   "section": "Bedeutung"
-  },
-  "f60": {
+  "f41": {
    "kind": "measure",
    "value": 99,
    "unit": "%",
    "surface": "99 %",
-   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen (1014) mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
+   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
    "section": "Bedeutung"
   },
-  "f61": {
+  "f42": {
    "kind": "number",
    "value": 100000000000000,
    "surface": "100 Billionen",
-   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen (1014) mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
+   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
    "section": "Bedeutung"
   },
-  "f62": {
-   "kind": "date",
-   "value": "1014",
-   "surface": "1014",
-   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen (1014) mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
-   "section": "Bedeutung"
-  },
-  "f63": {
+  "f43": {
    "kind": "number",
    "value": 400,
    "surface": "400",
-   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen (1014) mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
+   "sentence": "99 % aller im und am menschlichen Körper lebenden Mikroorganismen, nämlich mehr als 100 Billionen mit mindestens 400 verschiedenen Arten, darunter vorwiegend Bakterien, leben im Verdauungstrakt, vor allem im Dickdarm.",
    "section": "Bedeutung"
   },
-  "f64": {
-   "kind": "date",
-   "value": "2007",
-   "surface": "2007",
-   "sentence": "Sogar in der Lunge gesunder Menschen wurden in jüngster Zeit aufgrund einer neuen Untersuchungsmethode im Rahmen des Mikrobiom-Projekts (um 2007) 128 Arten von Bakterien entdeckt.",
-   "section": "Bedeutung"
-  },
-  "f65": {
+  "f44": {
    "kind": "measure",
    "value": 128,
    "unit": "arten",
    "surface": "128 Arten",
-   "sentence": "Sogar in der Lunge gesunder Menschen wurden in jüngster Zeit aufgrund einer neuen Untersuchungsmethode im Rahmen des Mikrobiom-Projekts (um 2007) 128 Arten von Bakterien entdeckt.",
+   "sentence": "Sogar in der Lunge gesunder Menschen wurden in jüngster Zeit aufgrund einer neuen Untersuchungsmethode im Rahmen des Mikrobiom-Projekts 128 Arten von Bakterien entdeckt.",
    "section": "Bedeutung"
   },
-  "f66": {
+  "f45": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Basierend auf den bis heute bekannten 16S-rRNA-Sequenzen vermutet man mehr als 50 verschiedene Bakterien-Phyla.",
    "section": "Klassifikation"
   },
-  "f67": {
+  "f46": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "Abteilung Schizophyta („Spaltpflanzen“, umfasste alle Prokaryoten = „Anucleobionta“)\nKlasse Bacteria (Bakterien = „Spaltpilze“)\nOrdnung Eubacteriales (einzellige unverzweigte Bakterien)\nFamilie Coccaceae (Kugelbakterien)\nFamilie Bacteriaceae (stäbchenförmige Bakterien ohne Sporen)\nFamilie Bacillaceae (stäbchenförmige Bakterien mit Sporen)\nFamilie Spirillaceae („Schraubenbakterien“, wendelförmig)\nOrdnung Chlamydobacteriales (Fadenbakterien in Röhren „Scheiden“)\nOrdnung Mycobacteriales (stäbchenförmige Bakterien mit Verzweigungen, mycelbildende Bakterien „Strahlenpilze“)\nOrdnung Myxobacteriales („Schleimbakterien“, einzellige, schwarmbildende Bakterien)\nOrdnung Spirochaetales (flexible, wendelförmige Bakterien mit aktiver Formveränderung)\nKlasse Cyanophyceae („Blaugrüne Algen“, „Spaltalgen“)\nOrdnung Chroococcales (einzellig, ohne Sporen)\nOrdnung Chamaesiphonales (einzellig oder fadenförmig, mit Sporen)\nOrdnung Hormogonales (fadenförmig, mit Hormogonien, häufig Heterocysten)\nUm der hohen Diversität der Bakterien (wie auch der Archaeen) zu entsprechen, wurden seit dem Jahr 2024 von der List of Prokaryotic names with Standing in Nomenclature (LPSN) Supergruppen und -phyla als neue Prokaryoten-Reiche (englisch kingdoms) eingeführt (eine ähnliche Megataxonomie war bereits einige Jahre zuvor vom International Committee on Taxonomy of Viruses (ICTV) für Viren eingeführt worden); das National Center for Biotechnology Information (NCBI) ist diesen Vorgaben gefolgt.",
+   "sentence": "Abteilung Schizophyta\nKlasse Bacteria\nOrdnung Eubacteriales\nFamilie Coccaceae\nFamilie Bacteriaceae\nFamilie Bacillaceae\nFamilie Spirillaceae\nOrdnung Chlamydobacteriales\nOrdnung Mycobacteriales\nOrdnung Myxobacteriales\nOrdnung Spirochaetales\nKlasse Cyanophyceae\nOrdnung Chroococcales\nOrdnung Chamaesiphonales\nOrdnung Hormogonales\nUm der hohen Diversität der Bakterien zu entsprechen, wurden seit dem Jahr 2024 von der List of Prokaryotic names with Standing in Nomenclature Supergruppen und -phyla als neue Prokaryoten-Reiche eingeführt; das National Center for Biotechnology Information ist diesen Vorgaben gefolgt.",
    "section": "Klassifikation"
   },
-  "f68": {
+  "f47": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Mit Stand 17. Oktober 2025 ist gemäß LPSN:\nDomäne Bacteria Woese et al.",
    "section": "Klassifikation"
   },
-  "f69": {
+  "f48": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Mit Stand 17. Oktober 2025 ist gemäß LPSN:\nDomäne Bacteria Woese et al.",
    "section": "Klassifikation"
   },
-  "f70": {
+  "f49": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "2024 [bzw. „Bacteria“ Woese et al.",
+   "sentence": "2024\nReich Bacillati Oren & Göker 2024Reich\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
    "section": "Klassifikation"
   },
-  "f71": {
-   "kind": "date",
-   "value": "1990",
-   "surface": "1990",
-   "sentence": "1990, „Bacteriobiota“ Luketa 2012]\nReich Bacillati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Terrabacterida“ Luketa 2012] (Terrabakterien)\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
-   "section": "Klassifikation"
-  },
-  "f72": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "1990, „Bacteriobiota“ Luketa 2012]\nReich Bacillati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Terrabacterida“ Luketa 2012] (Terrabakterien)\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
-   "section": "Klassifikation"
-  },
-  "f73": {
-   "kind": "date",
-   "value": "1978",
-   "surface": "1978",
-   "sentence": "1990, „Bacteriobiota“ Luketa 2012]\nReich Bacillati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Terrabacterida“ Luketa 2012] (Terrabakterien)\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
-   "section": "Klassifikation"
-  },
-  "f74": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "1990, „Bacteriobiota“ Luketa 2012]\nReich Bacillati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Terrabacterida“ Luketa 2012] (Terrabakterien)\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
-   "section": "Klassifikation"
-  },
-  "f75": {
+  "f50": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "1990, „Bacteriobiota“ Luketa 2012]\nReich Bacillati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Terrabacterida“ Luketa 2012] (Terrabakterien)\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
+   "sentence": "2024\nReich Bacillati Oren & Göker 2024Reich\nPhylum Actinomycetota Goodfellow 2021\nPhylum Armatimonadota Tamaki et al.",
    "section": "Klassifikation"
   },
-  "f76": {
+  "f51": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Bacillota Gibbons & Murray 2021\nPhylum Chloroflexota Garrity & Holt 2021\nPhylum Cyanobacteriota Oren et al.",
    "section": "Klassifikation"
   },
-  "f77": {
+  "f52": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Bacillota Gibbons & Murray 2021\nPhylum Chloroflexota Garrity & Holt 2021\nPhylum Cyanobacteriota Oren et al.",
    "section": "Klassifikation"
   },
-  "f78": {
+  "f53": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Bacillota Gibbons & Murray 2021\nPhylum Chloroflexota Garrity & Holt 2021\nPhylum Cyanobacteriota Oren et al.",
    "section": "Klassifikation"
   },
-  "f79": {
+  "f54": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "2022\nPhylum „Candidatus Lithacetigenota“ Nobu et al.",
+   "sentence": "2022\nPhylum „Candidatus Lithacetigenota“Nobu et al.",
    "section": "Klassifikation"
   },
-  "f80": {
+  "f55": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "2023\nPhylum Minisyncoccota Nakajima et al.",
    "section": "Klassifikation"
   },
-  "f81": {
+  "f56": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
-   "sentence": "2025 [„Ca. Pacebacteria“ Brown et al.",
+   "sentence": "2025\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati Oren & Göker 2024Reich\nPhylum Abditibacteriota Tahon et al.",
    "section": "Klassifikation"
   },
-  "f82": {
-   "kind": "date",
-   "value": "2015",
-   "surface": "2015",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
-   "section": "Klassifikation"
-  },
-  "f83": {
+  "f57": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
+   "sentence": "2025\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati Oren & Göker 2024Reich\nPhylum Abditibacteriota Tahon et al.",
    "section": "Klassifikation"
   },
-  "f84": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
-   "section": "Klassifikation"
-  },
-  "f85": {
+  "f58": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
+   "sentence": "2025\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati Oren & Göker 2024Reich\nPhylum Abditibacteriota Tahon et al.",
    "section": "Klassifikation"
   },
-  "f86": {
-   "kind": "date",
-   "value": "1978",
-   "surface": "1978",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
-   "section": "Klassifikation"
-  },
-  "f87": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
-   "section": "Klassifikation"
-  },
-  "f88": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "2015]\nPhylum Mycoplasmatota Murray 2021\nReich Fusobacteriati Battistuzzi & Hedges 2024Reich [„Fusobacterida“ Luketa 2012]\nPhylum Fusobacteriota Garrity & Holt 2021\nReich Pseudomonadati (Gibbons & Murray 1978) Oren & Göker 2024Reich [„Aquificida“ Luketa 2012, „Hydrobacterida“ Luketa 2012] (Proteobakterien i. w.",
-   "section": "Klassifikation"
-  },
-  "f89": {
+  "f59": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
-   "sentence": "2023\nPhylum Acidobacteriota Thrash & Coates 2021\nPhylum Aquificota Reysenbach 2021 (Aquificales etc.)\nPhylum Atribacterota Katayama et al.",
+   "sentence": "2023\nPhylum Acidobacteriota Thrash & Coates 2021\nPhylum Aquificota Reysenbach 2021\nPhylum Atribacterota Katayama et al.",
    "section": "Klassifikation"
   },
-  "f90": {
+  "f60": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2023\nPhylum Acidobacteriota Thrash & Coates 2021\nPhylum Aquificota Reysenbach 2021 (Aquificales etc.)\nPhylum Atribacterota Katayama et al.",
+   "sentence": "2023\nPhylum Acidobacteriota Thrash & Coates 2021\nPhylum Aquificota Reysenbach 2021\nPhylum Atribacterota Katayama et al.",
    "section": "Klassifikation"
   },
-  "f91": {
+  "f61": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2023\nPhylum Acidobacteriota Thrash & Coates 2021\nPhylum Aquificota Reysenbach 2021 (Aquificales etc.)\nPhylum Atribacterota Katayama et al.",
+   "sentence": "2023\nPhylum Acidobacteriota Thrash & Coates 2021\nPhylum Aquificota Reysenbach 2021\nPhylum Atribacterota Katayama et al.",
    "section": "Klassifikation"
   },
-  "f92": {
+  "f62": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Bacteroidota Krieg et al.",
    "section": "Klassifikation"
   },
-  "f93": {
+  "f63": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Balneolota Hahnke et al.",
    "section": "Klassifikation"
   },
-  "f94": {
+  "f64": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Caldisericota Mori et al.",
    "section": "Klassifikation"
   },
-  "f95": {
+  "f65": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Calditrichota Kublanov et al.",
    "section": "Klassifikation"
   },
-  "f96": {
+  "f66": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Chlamydiota Garrity & Holt 2021\nPhylum Chlorobiota Iino et al.",
    "section": "Klassifikation"
   },
-  "f97": {
+  "f67": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Chlamydiota Garrity & Holt 2021\nPhylum Chlorobiota Iino et al.",
    "section": "Klassifikation"
   },
-  "f98": {
+  "f68": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Chrysiogenota Garrity & Holt 2021\nPhylum „Candidatus Cloacimonadota“ corrig.",
+   "sentence": "2021\nPhylum Chrysiogenota Garrity & Holt 2021\nPhylum „Candidatus Cloacimonadota“corrig.",
    "section": "Klassifikation"
   },
-  "f99": {
+  "f69": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Chrysiogenota Garrity & Holt 2021\nPhylum „Candidatus Cloacimonadota“ corrig.",
+   "sentence": "2021\nPhylum Chrysiogenota Garrity & Holt 2021\nPhylum „Candidatus Cloacimonadota“corrig.",
    "section": "Klassifikation"
   },
-  "f100": {
+  "f70": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "2013\nPhylum Coprothermobacterota Pavan et al.",
    "section": "Klassifikation"
   },
-  "f101": {
+  "f71": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Deferribacterota Garrity & Holt 2021\nPhylum Dictyoglomerota corrig.",
    "section": "Klassifikation"
   },
-  "f102": {
+  "f72": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Deferribacterota Garrity & Holt 2021\nPhylum Dictyoglomerota corrig.",
    "section": "Klassifikation"
   },
-  "f103": {
+  "f73": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "Patel 2021\nPhylum Elusimicrobiota Geissinger et al.",
    "section": "Klassifikation"
   },
-  "f104": {
+  "f74": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Elsusimicrobium etc.)\nPhylum Fibrobacterota Garrity & Holt 2021\nPhylum Gemmatimonadota Zhang et al.",
+   "sentence": "2021\nPhylum Fibrobacterota Garrity & Holt 2021\nPhylum Gemmatimonadota Zhang et al.",
    "section": "Klassifikation"
   },
-  "f105": {
+  "f75": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Elsusimicrobium etc.)\nPhylum Fibrobacterota Garrity & Holt 2021\nPhylum Gemmatimonadota Zhang et al.",
+   "sentence": "2021\nPhylum Fibrobacterota Garrity & Holt 2021\nPhylum Gemmatimonadota Zhang et al.",
    "section": "Klassifikation"
   },
-  "f106": {
+  "f76": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Kiritimatiellota Spring et al.",
    "section": "Klassifikation"
   },
-  "f107": {
+  "f77": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Kiritimatiellia etc.)\nPhylum „Candidatus Latescibacterota“ corrig.",
+   "sentence": "2021\nPhylum „Candidatus Latescibacterota“corrig.",
    "section": "Klassifikation"
   },
-  "f108": {
+  "f78": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "2013\nPhylum Lentisphaerota Cho et al.",
    "section": "Klassifikation"
   },
-  "f109": {
+  "f79": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Nitrospinota Lücker et al.",
    "section": "Klassifikation"
   },
-  "f110": {
+  "f80": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Nitrospirota Garrity & Holt 2021 (Nitrospira etc.)\nPhylum Planctomycetota Garrity & Holt 2021\nPhylum Pseudomonadota Garrity et al.",
+   "sentence": "2021\nPhylum Nitrospirota Garrity & Holt 2021\nPhylum Planctomycetota Garrity & Holt 2021\nPhylum Pseudomonadota Garrity et al.",
    "section": "Klassifikation"
   },
-  "f111": {
+  "f81": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Nitrospirota Garrity & Holt 2021 (Nitrospira etc.)\nPhylum Planctomycetota Garrity & Holt 2021\nPhylum Pseudomonadota Garrity et al.",
+   "sentence": "2021\nPhylum Nitrospirota Garrity & Holt 2021\nPhylum Planctomycetota Garrity & Holt 2021\nPhylum Pseudomonadota Garrity et al.",
    "section": "Klassifikation"
   },
-  "f112": {
+  "f82": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Nitrospirota Garrity & Holt 2021 (Nitrospira etc.)\nPhylum Planctomycetota Garrity & Holt 2021\nPhylum Pseudomonadota Garrity et al.",
+   "sentence": "2021\nPhylum Nitrospirota Garrity & Holt 2021\nPhylum Planctomycetota Garrity & Holt 2021\nPhylum Pseudomonadota Garrity et al.",
    "section": "Klassifikation"
   },
-  "f113": {
+  "f83": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Rhodothermota Munoz et al.",
    "section": "Klassifikation"
   },
-  "f114": {
+  "f84": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Rhodothermaceae etc.)\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“ Lian et al.",
+   "sentence": "2021\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“Lian et al.",
    "section": "Klassifikation"
   },
-  "f115": {
+  "f85": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Rhodothermaceae etc.)\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“ Lian et al.",
+   "sentence": "2021\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“Lian et al.",
    "section": "Klassifikation"
   },
-  "f116": {
+  "f86": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Rhodothermaceae etc.)\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“ Lian et al.",
+   "sentence": "2021\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“Lian et al.",
    "section": "Klassifikation"
   },
-  "f117": {
+  "f87": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Rhodothermaceae etc.)\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“ Lian et al.",
+   "sentence": "2021\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“Lian et al.",
    "section": "Klassifikation"
   },
-  "f118": {
+  "f88": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021 (Rhodothermaceae etc.)\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“ Lian et al.",
+   "sentence": "2021\nPhylum Spirochaetota Garrity & Holt 2021\nPhylum Thermodesulfobacteriota Garrity & Holt 2021\nPhylum Thermomicrobiota Garrity & Holt 2021\nPhylum Verrucomicrobiota Hedlund 2021\nPhylum „Candidatus Zhuqueibacterota“Lian et al.",
    "section": "Klassifikation"
   },
-  "f119": {
+  "f89": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "2024\nReich Thermotogati Battistuzzi & Hedges 2024 (Gruppe Deinococcus-Thermus)Reich [„Thermotogida“ Luketa 2012]\nPhylum „Candidatus Acetithermota“ corrig.",
+   "sentence": "2024\nReich Thermotogati Battistuzzi & Hedges 2024Reich\nPhylum „Candidatus Acetithermota“corrig.",
    "section": "Klassifikation"
   },
-  "f120": {
-   "kind": "date",
-   "value": "2024",
-   "surface": "2024",
-   "sentence": "2024\nReich Thermotogati Battistuzzi & Hedges 2024 (Gruppe Deinococcus-Thermus)Reich [„Thermotogida“ Luketa 2012]\nPhylum „Candidatus Acetithermota“ corrig.",
-   "section": "Klassifikation"
-  },
-  "f121": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "2024\nReich Thermotogati Battistuzzi & Hedges 2024 (Gruppe Deinococcus-Thermus)Reich [„Thermotogida“ Luketa 2012]\nPhylum „Candidatus Acetithermota“ corrig.",
-   "section": "Klassifikation"
-  },
-  "f122": {
+  "f90": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
-   "sentence": "2013\nPhylum „Candidatus Bipolaricaulota“ Hao et al.",
+   "sentence": "2013\nPhylum „Candidatus Bipolaricaulota“Hao et al.",
    "section": "Klassifikation"
   },
-  "f123": {
+  "f91": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "2018\nPhylum Deinococcota Weisburg et al.",
    "section": "Klassifikation"
   },
-  "f124": {
+  "f92": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021\nPhylum Synergistota Jumas-Bilak et al.",
    "section": "Klassifikation"
   },
-  "f125": {
+  "f93": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Thermotogota Reysenbach 2021 (Thermotogales etc.)\nAus praktischen Gründen werden Bakterien bisweilen in Anlehnung an die früheren „klassischen“ Systeme nach ihrer Form und ihrer Organisation unterteilt.",
+   "sentence": "2021\nPhylum Thermotogota Reysenbach 2021\nAus praktischen Gründen werden Bakterien bisweilen in Anlehnung an die früheren „klassischen“Systeme nach ihrer Form und ihrer Organisation unterteilt.",
    "section": "Klassifikation"
   },
-  "f126": {
+  "f94": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "2021\nPhylum Thermotogota Reysenbach 2021 (Thermotogales etc.)\nAus praktischen Gründen werden Bakterien bisweilen in Anlehnung an die früheren „klassischen“ Systeme nach ihrer Form und ihrer Organisation unterteilt.",
+   "sentence": "2021\nPhylum Thermotogota Reysenbach 2021\nAus praktischen Gründen werden Bakterien bisweilen in Anlehnung an die früheren „klassischen“Systeme nach ihrer Form und ihrer Organisation unterteilt.",
    "section": "Klassifikation"
   },
-  "f127": {
+  "f95": {
    "kind": "date",
    "value": "1875",
    "surface": "1875",
    "sentence": "Ab 1875 wurden durch Carl Weigert neue Methoden des Nachweises von Bakterien im Gewebe mit Anilinfarben eingeführt.",
    "section": "Klassifikation"
   },
-  "f128": {
-   "kind": "date",
-   "value": "1884",
-   "surface": "1884",
-   "sentence": "Die so genannte Gramfärbung (eingeführt 1884 vom dänischen Bakteriologen Gram) lässt Rückschlüsse auf die Zusammensetzung und Struktur der Zellwand zu; die so genannten grampositiven Bakterien bilden wahrscheinlich sogar eine natürliche Verwandtschaftsgruppe, ein monophyletisches Taxon.",
-   "section": "Klassifikation"
-  },
-  "f129": {
+  "f96": {
    "kind": "measure",
    "value": 2400000000,
    "unit": "jahren",
@@ -978,26 +741,20 @@
    "sentence": "Theoretische Überlegungen legen nahe, dass der Urahn aller Bakterien anaerob gewesen sein sollte, da die Erdatmosphäre damals noch keinen Sauerstoff enthielt – dieser wurde in nennenswerten Maß erst von Cyanobakterien während der Großen Sauerstoffkatastrophe vor ca. 2,4 Milliarden Jahren erzeugt.",
    "section": "Klassifikation"
   },
-  "f130": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3,5",
-   "sentence": "Es wird weiter angenommen, dass dieses Urbakterium (d. h. der letzte gemeinsame Ahn aller Bakterien, englisch last bacterial common ancestor, LBCA) bereits vor 3,5 (bis vielleicht 3,7) Milliarden Jahren in hydrothermalen Schloten im Ozean entstanden ist.",
-   "section": "Klassifikation"
-  },
-  "f131": {
-   "kind": "number",
-   "value": 3.7,
-   "surface": "3,7",
-   "sentence": "Es wird weiter angenommen, dass dieses Urbakterium (d. h. der letzte gemeinsame Ahn aller Bakterien, englisch last bacterial common ancestor, LBCA) bereits vor 3,5 (bis vielleicht 3,7) Milliarden Jahren in hydrothermalen Schloten im Ozean entstanden ist.",
-   "section": "Klassifikation"
-  },
-  "f132": {
+  "f97": {
    "kind": "measure",
    "value": 3500000000,
    "unit": "jahren",
    "surface": "3,5 Milliarden Jahren",
-   "sentence": "Die Linie, die zu den heutigen Cyanobakterien führt, hat sich von den übrigen Bakterien dann bereits sehr früh vor (knapp) 3,5 Milliarden Jahren abgespalten.",
+   "sentence": "Es wird weiter angenommen, dass dieses Urbakterium bereits vor 3,5 Milliarden Jahren in hydrothermalen Schloten im Ozean entstanden ist.",
+   "section": "Klassifikation"
+  },
+  "f98": {
+   "kind": "measure",
+   "value": 3500000000,
+   "unit": "jahren",
+   "surface": "3,5 Milliarden Jahren",
+   "sentence": "Die Linie, die zu den heutigen Cyanobakterien führt, hat sich von den übrigen Bakterien dann bereits sehr früh vor 3,5 Milliarden Jahren abgespalten.",
    "section": "Klassifikation"
   }
  },

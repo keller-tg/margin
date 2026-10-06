@@ -61,140 +61,127 @@
    "kind": "number",
    "value": 120500,
    "surface": "120.500",
-   "sentence": "Der Saturn (IPA: [zaˈtʊʁn] ) ist von der Sonne aus gesehen der sechste Planet des Sonnensystems und mit einem Äquatordurchmesser von etwa 120.500 Kilometern (9,5-facher Erddurchmesser) nach Jupiter der zweitgrößte."
+   "sentence": "Der Saturn ist von der Sonne aus gesehen der sechste Planet des Sonnensystems und mit einem Äquatordurchmesser von etwa 120.500 Kilometern nach Jupiter der zweitgrößte."
   },
   "f2": {
-   "kind": "number",
-   "value": 9.5,
-   "surface": "9,5",
-   "sentence": "Der Saturn (IPA: [zaˈtʊʁn] ) ist von der Sonne aus gesehen der sechste Planet des Sonnensystems und mit einem Äquatordurchmesser von etwa 120.500 Kilometern (9,5-facher Erddurchmesser) nach Jupiter der zweitgrößte."
-  },
-  "f3": {
    "kind": "number",
    "value": 95,
    "surface": "95",
    "sentence": "Mit 95 Erdmassen hat er jedoch nur 30 % der Masse Jupiters."
   },
-  "f4": {
+  "f3": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
    "surface": "30 %",
    "sentence": "Mit 95 Erdmassen hat er jedoch nur 30 % der Masse Jupiters."
   },
-  "f5": {
+  "f4": {
    "kind": "number",
    "value": 1430000000,
    "surface": "1,43 Milliarden",
    "sentence": "Der Saturn hat eine durchschnittliche Entfernung zur Sonne von gut 1,43 Milliarden Kilometern, seine Bahn verläuft zwischen der von Jupiter und der des sonnenferneren Uranus."
   },
-  "f6": {
+  "f5": {
    "kind": "measure",
    "value": 96,
    "unit": "%",
    "surface": "96 %",
    "sentence": "Seine oberen Schichten bestehen zu etwa 96 % Stoffanteil aus Wasserstoff."
   },
-  "f7": {
-   "kind": "measure",
-   "value": 0.69,
-   "unit": "g",
-   "surface": "0,69 g",
-   "sentence": "Von allen Planeten des Sonnensystems weist Saturn die geringste mittlere Dichte auf (etwa 0,69 g/cm³)."
-  },
-  "f8": {
+  "f6": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Der scheinbare Winkeldurchmesser des Planetenkörpers beträgt je nach Erdentfernung zwischen 15″ und 20″, jener der Ringe zwischen 37″ und 46″."
   },
-  "f9": {
+  "f7": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Der scheinbare Winkeldurchmesser des Planetenkörpers beträgt je nach Erdentfernung zwischen 15″ und 20″, jener der Ringe zwischen 37″ und 46″."
   },
-  "f10": {
+  "f8": {
    "kind": "number",
    "value": 37,
    "surface": "37",
    "sentence": "Der scheinbare Winkeldurchmesser des Planetenkörpers beträgt je nach Erdentfernung zwischen 15″ und 20″, jener der Ringe zwischen 37″ und 46″."
   },
-  "f11": {
+  "f9": {
    "kind": "number",
    "value": 46,
    "surface": "46",
    "sentence": "Der scheinbare Winkeldurchmesser des Planetenkörpers beträgt je nach Erdentfernung zwischen 15″ und 20″, jener der Ringe zwischen 37″ und 46″."
   },
-  "f12": {
+  "f10": {
    "kind": "number",
    "value": 293,
    "surface": "293",
    "sentence": "Bisher wurden 293 Monde des Saturns entdeckt."
   },
-  "f13": {
+  "f11": {
    "kind": "number",
    "value": 5150,
    "surface": "5150",
    "sentence": "Der mit Abstand größte Saturnmond ist Titan mit 5150 Kilometern Durchmesser."
   },
-  "f14": {
+  "f12": {
    "kind": "number",
    "value": 0.054,
    "surface": "0,054",
    "sentence": "Der Saturn läuft auf einer annähernd kreisförmigen Umlaufbahn mit einer Exzentrizität von 0,054 um die Sonne.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f15": {
+  "f13": {
    "kind": "number",
    "value": 9.04,
    "surface": "9,04",
    "sentence": "Sein sonnennächster Punkt, das Perihel, liegt bei 9,04 AE und sein sonnenfernster Punkt, das Aphel, bei 10,12 AE.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f16": {
+  "f14": {
    "kind": "number",
    "value": 10.12,
    "surface": "10,12",
    "sentence": "Sein sonnennächster Punkt, das Perihel, liegt bei 9,04 AE und sein sonnenfernster Punkt, das Aphel, bei 10,12 AE.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f17": {
+  "f15": {
    "kind": "number",
    "value": 2.48,
    "surface": "2,48",
    "sentence": "Seine Umlaufbahn ist mit 2,48° leicht gegen die Ekliptik geneigt.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f18": {
+  "f16": {
    "kind": "number",
    "value": 113.72,
    "surface": "113,72",
    "sentence": "Weitere Bahndaten sind die Länge des aufsteigenden Knotens mit 113,72°, die Länge des Perihels mit 92,43° und die mittlere Anomalie mit 49,94° zur Epoche J2000.0.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f19": {
+  "f17": {
    "kind": "number",
    "value": 92.43,
    "surface": "92,43",
    "sentence": "Weitere Bahndaten sind die Länge des aufsteigenden Knotens mit 113,72°, die Länge des Perihels mit 92,43° und die mittlere Anomalie mit 49,94° zur Epoche J2000.0.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f20": {
+  "f18": {
    "kind": "number",
    "value": 49.94,
    "surface": "49,94",
    "sentence": "Weitere Bahndaten sind die Länge des aufsteigenden Knotens mit 113,72°, die Länge des Perihels mit 92,43° und die mittlere Anomalie mit 49,94° zur Epoche J2000.0.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f21": {
+  "f19": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "Weitere Bahndaten sind die Länge des aufsteigenden Knotens mit 113,72°, die Länge des Perihels mit 92,43° und die mittlere Anomalie mit 49,94° zur Epoche J2000.0.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f22": {
+  "f20": {
    "kind": "measure",
    "value": 29,
    "unit": "jahre",
@@ -202,161 +189,119 @@
    "sentence": "Für einen Umlauf um die Sonne benötigt der Saturn ungefähr 29 Jahre und 163 Tage.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f23": {
+  "f21": {
    "kind": "number",
    "value": 163,
    "surface": "163",
    "sentence": "Für einen Umlauf um die Sonne benötigt der Saturn ungefähr 29 Jahre und 163 Tage.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f24": {
+  "f22": {
    "kind": "number",
    "value": 26.73,
    "surface": "26,73",
    "sentence": "Die Äquatorebene des Saturn ist 26,73° gegen die Bahnebene geneigt.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f25": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Er rotiert nicht wie ein starrer Körper, sondern zeigt als Gasplanet eine differentielle Rotation: Die Äquatorregionen rotieren schneller (eine Rotation in 10 Stunden, 13 Minuten und 59 Sekunden) als die Polregionen (10 Stunden, 39 Minuten und 22 Sekunden).",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 13,
-   "surface": "13",
-   "sentence": "Er rotiert nicht wie ein starrer Körper, sondern zeigt als Gasplanet eine differentielle Rotation: Die Äquatorregionen rotieren schneller (eine Rotation in 10 Stunden, 13 Minuten und 59 Sekunden) als die Polregionen (10 Stunden, 39 Minuten und 22 Sekunden).",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 59,
-   "surface": "59",
-   "sentence": "Er rotiert nicht wie ein starrer Körper, sondern zeigt als Gasplanet eine differentielle Rotation: Die Äquatorregionen rotieren schneller (eine Rotation in 10 Stunden, 13 Minuten und 59 Sekunden) als die Polregionen (10 Stunden, 39 Minuten und 22 Sekunden).",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "Er rotiert nicht wie ein starrer Körper, sondern zeigt als Gasplanet eine differentielle Rotation: Die Äquatorregionen rotieren schneller (eine Rotation in 10 Stunden, 13 Minuten und 59 Sekunden) als die Polregionen (10 Stunden, 39 Minuten und 22 Sekunden).",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 39,
-   "surface": "39",
-   "sentence": "Er rotiert nicht wie ein starrer Körper, sondern zeigt als Gasplanet eine differentielle Rotation: Die Äquatorregionen rotieren schneller (eine Rotation in 10 Stunden, 13 Minuten und 59 Sekunden) als die Polregionen (10 Stunden, 39 Minuten und 22 Sekunden).",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 22,
-   "surface": "22",
-   "sentence": "Er rotiert nicht wie ein starrer Körper, sondern zeigt als Gasplanet eine differentielle Rotation: Die Äquatorregionen rotieren schneller (eine Rotation in 10 Stunden, 13 Minuten und 59 Sekunden) als die Polregionen (10 Stunden, 39 Minuten und 22 Sekunden).",
-   "section": "Umlaufbahn und Rotation"
-  },
-  "f31": {
+  "f23": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Aus Messungen des Saturnmagnetfeldes durch Raumsonden wurde für das Saturninnere eine noch etwas langsamere Rotationsperiode von 10 Stunden, 47 Minuten und 6 Sekunden hergeleitet.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f32": {
+  "f24": {
    "kind": "number",
    "value": 47,
    "surface": "47",
    "sentence": "Aus Messungen des Saturnmagnetfeldes durch Raumsonden wurde für das Saturninnere eine noch etwas langsamere Rotationsperiode von 10 Stunden, 47 Minuten und 6 Sekunden hergeleitet.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f33": {
+  "f25": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Aus Messungen des Saturnmagnetfeldes durch Raumsonden wurde für das Saturninnere eine noch etwas langsamere Rotationsperiode von 10 Stunden, 47 Minuten und 6 Sekunden hergeleitet.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f34": {
+  "f26": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f35": {
+  "f27": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f36": {
+  "f28": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f37": {
+  "f29": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f38": {
+  "f30": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f39": {
+  "f31": {
    "kind": "number",
    "value": 32,
    "surface": "32",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f40": {
+  "f32": {
    "kind": "number",
    "value": 35,
    "surface": "35",
    "sentence": "Durch neuere, kombinierte Auswertung von Messdaten, welche die Raumsonden Pioneer 11, Voyager 1 und 2 sowie Cassini-Huygens von der Schwerkraft, den Windgeschwindigkeiten und mittels Radio-Okkultationen geliefert haben, sind zwei US-amerikanische Wissenschaftler 2007 zu dem Ergebnis gekommen, dass der Saturnkern eine Umdrehung in 10 Stunden, 32 Minuten und 35 Sekunden absolviert und somit um sieben Minuten schneller ist, als bislang gedacht.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f41": {
+  "f33": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Anfang 2019 wurde eine nochmals verbesserte Messung der Rotationsgeschwindigkeit des Saturn veröffentlicht, die ebenfalls aus Daten der Cassini-Mission abgeleitet werden konnte.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f42": {
+  "f34": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Danach rotiert der Planet in 10 Stunden, 33 Minuten und 38 Sekunden einmal um seine eigene Achse.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f43": {
+  "f35": {
    "kind": "number",
    "value": 33,
    "surface": "33",
    "sentence": "Danach rotiert der Planet in 10 Stunden, 33 Minuten und 38 Sekunden einmal um seine eigene Achse.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f44": {
+  "f36": {
    "kind": "number",
    "value": 38,
    "surface": "38",
    "sentence": "Danach rotiert der Planet in 10 Stunden, 33 Minuten und 38 Sekunden einmal um seine eigene Achse.",
    "section": "Umlaufbahn und Rotation"
   },
-  "f45": {
+  "f37": {
    "kind": "measure",
    "value": 120000,
    "unit": "km",
@@ -364,22 +309,15 @@
    "sentence": "Mit einem Durchmesser von gut 120.000 km ist er nach Jupiter der zweitgrößte Planet des Sonnensystems.",
    "section": "Physikalische Eigenschaften"
   },
-  "f46": {
+  "f38": {
    "kind": "measure",
    "value": 58,
    "unit": "%",
    "surface": "58 %",
-   "sentence": "Obwohl sein Volumen 58 % des Volumens des Jupiters entspricht, beträgt seine Masse weniger als ein Drittel der Jupitermasse (etwa 95 Erdmassen).",
+   "sentence": "Obwohl sein Volumen 58 % des Volumens des Jupiters entspricht, beträgt seine Masse weniger als ein Drittel der Jupitermasse.",
    "section": "Physikalische Eigenschaften"
   },
-  "f47": {
-   "kind": "number",
-   "value": 95,
-   "surface": "95",
-   "sentence": "Obwohl sein Volumen 58 % des Volumens des Jupiters entspricht, beträgt seine Masse weniger als ein Drittel der Jupitermasse (etwa 95 Erdmassen).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f48": {
+  "f39": {
    "kind": "measure",
    "value": 0.687,
    "unit": "g",
@@ -387,60 +325,44 @@
    "sentence": "Der Saturn hat daher eine sehr geringe mittlere Dichte von nur 0,687 g/cm³.",
    "section": "Physikalische Eigenschaften"
   },
-  "f49": {
+  "f40": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck (dies wird bei Gasplaneten allgemein als „Oberfläche“ definiert) 134 K (−139 °C) und bei 0,1 bar Druck 84 K (−189 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck 134 K und bei 0,1 bar Druck 84 K.\nDer Saturn ist, wie alle Gasplaneten, eine Gaskugel, deren Dichte und Druck wegen der Gravitation von außen nach innen zunimmt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f50": {
+  "f41": {
    "kind": "measure",
    "value": 134,
    "unit": "k",
    "surface": "134 K",
-   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck (dies wird bei Gasplaneten allgemein als „Oberfläche“ definiert) 134 K (−139 °C) und bei 0,1 bar Druck 84 K (−189 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck 134 K und bei 0,1 bar Druck 84 K.\nDer Saturn ist, wie alle Gasplaneten, eine Gaskugel, deren Dichte und Druck wegen der Gravitation von außen nach innen zunimmt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f51": {
-   "kind": "measure",
-   "value": 139,
-   "unit": "°c",
-   "surface": "139 °C",
-   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck (dies wird bei Gasplaneten allgemein als „Oberfläche“ definiert) 134 K (−139 °C) und bei 0,1 bar Druck 84 K (−189 °C).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f52": {
+  "f42": {
    "kind": "number",
    "value": 0.1,
    "surface": "0,1",
-   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck (dies wird bei Gasplaneten allgemein als „Oberfläche“ definiert) 134 K (−139 °C) und bei 0,1 bar Druck 84 K (−189 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck 134 K und bei 0,1 bar Druck 84 K.\nDer Saturn ist, wie alle Gasplaneten, eine Gaskugel, deren Dichte und Druck wegen der Gravitation von außen nach innen zunimmt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f53": {
+  "f43": {
    "kind": "measure",
    "value": 84,
    "unit": "k",
    "surface": "84 K",
-   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck (dies wird bei Gasplaneten allgemein als „Oberfläche“ definiert) 134 K (−139 °C) und bei 0,1 bar Druck 84 K (−189 °C).",
+   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck 134 K und bei 0,1 bar Druck 84 K.\nDer Saturn ist, wie alle Gasplaneten, eine Gaskugel, deren Dichte und Druck wegen der Gravitation von außen nach innen zunimmt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f54": {
-   "kind": "measure",
-   "value": 189,
-   "unit": "°c",
-   "surface": "189 °C",
-   "sentence": "Die Temperatur beträgt bei 1 bar Gasdruck (dies wird bei Gasplaneten allgemein als „Oberfläche“ definiert) 134 K (−139 °C) und bei 0,1 bar Druck 84 K (−189 °C).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f55": {
+  "f44": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Um dennoch eine Oberfläche zu definieren, wird ein Gasdruck von 1 bar als Oberfläche festgelegt und der Bereich außerhalb als Atmosphäre bezeichnet.",
    "section": "Physikalische Eigenschaften"
   },
-  "f56": {
+  "f45": {
    "kind": "measure",
    "value": 93,
    "unit": "%",
@@ -448,7 +370,7 @@
    "sentence": "Der Wasserstoffanteil ist mit etwa 93 % der Masse deutlich höher, der Heliumanteil mit nur knapp 7 % entsprechend geringer.",
    "section": "Physikalische Eigenschaften"
   },
-  "f57": {
+  "f46": {
    "kind": "measure",
    "value": 7,
    "unit": "%",
@@ -456,28 +378,21 @@
    "sentence": "Der Wasserstoffanteil ist mit etwa 93 % der Masse deutlich höher, der Heliumanteil mit nur knapp 7 % entsprechend geringer.",
    "section": "Physikalische Eigenschaften"
   },
-  "f58": {
+  "f47": {
    "kind": "number",
    "value": 0.47,
    "surface": "0,47",
-   "sentence": "So beginnt im Saturn die metallische Schicht erst bei 0,47 Saturnradien (Jupiter: 0,77 Jupiterradien).",
+   "sentence": "So beginnt im Saturn die metallische Schicht erst bei 0,47 Saturnradien.",
    "section": "Physikalische Eigenschaften"
   },
-  "f59": {
-   "kind": "number",
-   "value": 0.77,
-   "surface": "0,77",
-   "sentence": "So beginnt im Saturn die metallische Schicht erst bei 0,47 Saturnradien (Jupiter: 0,77 Jupiterradien).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f60": {
+  "f48": {
    "kind": "number",
    "value": 16,
    "surface": "16",
-   "sentence": "Unterhalb dieser Schicht liegt ein Gesteinskern (genauer: Eis-Silikat-Kern), für den Modellrechnungen eine Masse von circa 16 Erdmassen ergeben.",
+   "sentence": "Unterhalb dieser Schicht liegt ein Gesteinskern, für den Modellrechnungen eine Masse von circa 16 Erdmassen ergeben.",
    "section": "Physikalische Eigenschaften"
   },
-  "f61": {
+  "f49": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -485,7 +400,7 @@
    "sentence": "Damit besitzt der Saturnkern einen Masseanteil von 25 %, der des Jupiter lediglich 4 %.",
    "section": "Physikalische Eigenschaften"
   },
-  "f62": {
+  "f50": {
    "kind": "measure",
    "value": 4,
    "unit": "%",
@@ -493,7 +408,7 @@
    "sentence": "Damit besitzt der Saturnkern einen Masseanteil von 25 %, der des Jupiter lediglich 4 %.",
    "section": "Physikalische Eigenschaften"
   },
-  "f63": {
+  "f51": {
    "kind": "measure",
    "value": 12000,
    "unit": "kelvin",
@@ -501,21 +416,21 @@
    "sentence": "Das Innere des Gesteinskerns ist sehr heiß, es herrscht eine Temperatur von 12.000 Kelvin.",
    "section": "Physikalische Eigenschaften"
   },
-  "f64": {
+  "f52": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
    "sentence": "Dadurch strahlt der Saturn 2,5-mal so viel Energie ab, wie er von der Sonne empfängt.",
    "section": "Physikalische Eigenschaften"
   },
-  "f65": {
+  "f53": {
    "kind": "number",
    "value": 25000,
    "surface": "25.000",
    "sentence": "Der Nordpol ist der Mittelpunkt eines Polarwirbels und einer stabilen Struktur in der Form eines nahezu regelmäßigen Sechsecks mit einem Durchmesser von fast 25.000 Kilometern.",
    "section": "Physikalische Eigenschaften"
   },
-  "f66": {
+  "f54": {
    "kind": "measure",
    "value": 100,
    "unit": "kilometer",
@@ -523,149 +438,120 @@
    "sentence": "Das anscheinend mehrere 100 Kilometer tiefe Hexagon wurde bereits 1980 und 1981 von den Voyager-Sonden aufgenommen; es ist auch auf den von der Saturnsonde Cassini übermittelten Bildern von 2006 wieder zu sehen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f67": {
+  "f55": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
    "sentence": "Das anscheinend mehrere 100 Kilometer tiefe Hexagon wurde bereits 1980 und 1981 von den Voyager-Sonden aufgenommen; es ist auch auf den von der Saturnsonde Cassini übermittelten Bildern von 2006 wieder zu sehen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f68": {
+  "f56": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "Das anscheinend mehrere 100 Kilometer tiefe Hexagon wurde bereits 1980 und 1981 von den Voyager-Sonden aufgenommen; es ist auch auf den von der Saturnsonde Cassini übermittelten Bildern von 2006 wieder zu sehen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f69": {
+  "f57": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Das anscheinend mehrere 100 Kilometer tiefe Hexagon wurde bereits 1980 und 1981 von den Voyager-Sonden aufgenommen; es ist auch auf den von der Saturnsonde Cassini übermittelten Bildern von 2006 wieder zu sehen.",
    "section": "Physikalische Eigenschaften"
   },
-  "f70": {
+  "f58": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Das Hexagon rotiert alle 10 Stunden 39 Minuten und 24 Sekunden einmal um sich selbst.",
    "section": "Physikalische Eigenschaften"
   },
-  "f71": {
+  "f59": {
    "kind": "number",
    "value": 39,
    "surface": "39",
    "sentence": "Das Hexagon rotiert alle 10 Stunden 39 Minuten und 24 Sekunden einmal um sich selbst.",
    "section": "Physikalische Eigenschaften"
   },
-  "f72": {
+  "f60": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Das Hexagon rotiert alle 10 Stunden 39 Minuten und 24 Sekunden einmal um sich selbst.",
    "section": "Physikalische Eigenschaften"
   },
-  "f73": {
+  "f61": {
    "kind": "number",
    "value": 8000,
    "surface": "8000",
    "sentence": "Am Südpol befindet sich ein ortsfester, hurrikanähnlicher Sturm mit einem Durchmesser von etwa 8000 Kilometern.",
    "section": "Physikalische Eigenschaften"
   },
-  "f74": {
+  "f62": {
    "kind": "measure",
    "value": 29,
    "unit": "jahre",
    "surface": "29 Jahre",
-   "sentence": "Auf Saturn wurden weitere Stürme beobachtet, wie zum Beispiel der „Große Weiße Fleck“, ein Effekt, der alle 29 Jahre auf der nördlichen Hemisphäre beobachtet werden kann und mit dem „Großen Roten Fleck“ auf dem Jupiter vergleichbar ist.",
+   "sentence": "Auf Saturn wurden weitere Stürme beobachtet, wie zum Beispiel der „Große Weiße Fleck“, ein Effekt, der alle 29 Jahre auf der nördlichen Hemisphäre beobachtet werden kann und mit dem „Großen Roten Fleck“auf dem Jupiter vergleichbar ist.",
    "section": "Physikalische Eigenschaften"
   },
-  "f75": {
+  "f63": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Wissenschaftler entdeckten 2005 durch Beobachtungen mit dem Keck-Teleskop auf Hawaii einen „Hot Spot“ (eine im Vergleich zur Umgebung warme Stelle) am Südpol des Saturn.",
+   "sentence": "Wissenschaftler entdeckten 2005 durch Beobachtungen mit dem Keck-Teleskop auf Hawaii einen „Hot Spot“am Südpol des Saturn.",
    "section": "Physikalische Eigenschaften"
   },
-  "f76": {
+  "f64": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "Mithilfe des Orbiters Cassini spürten im Januar 2008 Astronomen am Nordpol gleichfalls einen „Hot Spot“ auf, obwohl es dort schon jahrelang dunkel ist.",
+   "sentence": "Mithilfe des Orbiters Cassini spürten im Januar 2008 Astronomen am Nordpol gleichfalls einen „Hot Spot“auf, obwohl es dort schon jahrelang dunkel ist.",
    "section": "Physikalische Eigenschaften"
   },
-  "f77": {
+  "f65": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Die Feldstärke am Äquator beträgt etwa 20 µT und ist damit etwa 20-mal schwächer als das äquatoriale Feld Jupiters (420 µT) und etwas schwächer als das äquatoriale Erdfeld (30 µT).",
+   "sentence": "Die Feldstärke am Äquator beträgt etwa 20 µT und ist damit etwa 20-mal schwächer als das äquatoriale Feld Jupiters und etwas schwächer als das äquatoriale Erdfeld.",
    "section": "Physikalische Eigenschaften"
   },
-  "f78": {
+  "f66": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Die Feldstärke am Äquator beträgt etwa 20 µT und ist damit etwa 20-mal schwächer als das äquatoriale Feld Jupiters (420 µT) und etwas schwächer als das äquatoriale Erdfeld (30 µT).",
+   "sentence": "Die Feldstärke am Äquator beträgt etwa 20 µT und ist damit etwa 20-mal schwächer als das äquatoriale Feld Jupiters und etwas schwächer als das äquatoriale Erdfeld.",
    "section": "Physikalische Eigenschaften"
   },
-  "f79": {
-   "kind": "number",
-   "value": 420,
-   "surface": "420",
-   "sentence": "Die Feldstärke am Äquator beträgt etwa 20 µT und ist damit etwa 20-mal schwächer als das äquatoriale Feld Jupiters (420 µT) und etwas schwächer als das äquatoriale Erdfeld (30 µT).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f80": {
-   "kind": "number",
-   "value": 30,
-   "surface": "30",
-   "sentence": "Die Feldstärke am Äquator beträgt etwa 20 µT und ist damit etwa 20-mal schwächer als das äquatoriale Feld Jupiters (420 µT) und etwas schwächer als das äquatoriale Erdfeld (30 µT).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f81": {
+  "f67": {
    "kind": "number",
    "value": 4.6,
    "surface": "4,6",
-   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde (7,9 · 1015 T·m3).",
+   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde.",
    "section": "Physikalische Eigenschaften"
   },
-  "f82": {
+  "f68": {
    "kind": "date",
    "value": "1018",
    "surface": "1018",
-   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde (7,9 · 1015 T·m3).",
+   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde.",
    "section": "Physikalische Eigenschaften"
   },
-  "f83": {
+  "f69": {
    "kind": "date",
    "value": "580",
    "surface": "580",
-   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde (7,9 · 1015 T·m3).",
+   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde.",
    "section": "Physikalische Eigenschaften"
   },
-  "f84": {
-   "kind": "number",
-   "value": 7.9,
-   "surface": "7,9",
-   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde (7,9 · 1015 T·m3).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f85": {
-   "kind": "measure",
-   "value": 1015,
-   "unit": "t",
-   "surface": "1015 T",
-   "sentence": "Das magnetische Dipolmoment, das ein Maß für die Stärke des Magnetfeldes bei vorgegebenem Abstand vom Zentrum des Planeten ist, ist mit 4,6 · 1018 T·m3 580-mal stärker als das Magnetfeld der Erde (7,9 · 1015 T·m3).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f86": {
+  "f70": {
    "kind": "number",
    "value": 1.55,
    "surface": "1,55",
    "sentence": "Das Dipolmoment Jupiters ist allerdings mit 1,55 · 1020 T·m3 trotz des ähnlich großen Planetendurchmessers etwa 34-mal so groß.",
    "section": "Physikalische Eigenschaften"
   },
-  "f87": {
+  "f71": {
    "kind": "measure",
    "value": 1020,
    "unit": "t",
@@ -673,42 +559,28 @@
    "sentence": "Das Dipolmoment Jupiters ist allerdings mit 1,55 · 1020 T·m3 trotz des ähnlich großen Planetendurchmessers etwa 34-mal so groß.",
    "section": "Physikalische Eigenschaften"
   },
-  "f88": {
+  "f72": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "Das Dipolmoment Jupiters ist allerdings mit 1,55 · 1020 T·m3 trotz des ähnlich großen Planetendurchmessers etwa 34-mal so groß.",
    "section": "Physikalische Eigenschaften"
   },
-  "f89": {
+  "f73": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Während z. B. bei Erde und Jupiter diese Achsen etwa 10° gegeneinander geneigt sind, sind sie bei Saturn parallel (Messfehler zurzeit (2017) kleiner als 0.06°).",
+   "sentence": "Während z. B. bei Erde und Jupiter diese Achsen etwa 10° gegeneinander geneigt sind, sind sie bei Saturn parallel.",
    "section": "Physikalische Eigenschaften"
   },
-  "f90": {
-   "kind": "date",
-   "value": "2017",
-   "surface": "2017",
-   "sentence": "Während z. B. bei Erde und Jupiter diese Achsen etwa 10° gegeneinander geneigt sind, sind sie bei Saturn parallel (Messfehler zurzeit (2017) kleiner als 0.06°).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f91": {
-   "kind": "number",
-   "value": 0.06,
-   "surface": "0.06",
-   "sentence": "Während z. B. bei Erde und Jupiter diese Achsen etwa 10° gegeneinander geneigt sind, sind sie bei Saturn parallel (Messfehler zurzeit (2017) kleiner als 0.06°).",
-   "section": "Physikalische Eigenschaften"
-  },
-  "f92": {
+  "f74": {
    "kind": "date",
    "value": "1610",
    "surface": "1610",
-   "sentence": "Das Ringsystem wurde 1610 von Galileo Galilei entdeckt, der es aber als „Henkel“ deutete.",
+   "sentence": "Das Ringsystem wurde 1610 von Galileo Galilei entdeckt, der es aber als „Henkel“deutete.",
    "section": "Ringsystem"
   },
-  "f93": {
+  "f75": {
    "kind": "measure",
    "value": 45,
    "unit": "jahre",
@@ -716,21 +588,21 @@
    "sentence": "Christiaan Huygens beschrieb die Ringe 45 Jahre später korrekt als Ringsystem.",
    "section": "Ringsystem"
   },
-  "f94": {
+  "f76": {
    "kind": "date",
    "value": "1675",
    "surface": "1675",
    "sentence": "Giovanni Domenico Cassini vermutete als Erster, dass die Ringe aus kleinen Partikeln bestehen und entdeckte 1675 die Cassinische Teilung.",
    "section": "Ringsystem"
   },
-  "f95": {
+  "f77": {
    "kind": "number",
    "value": 100000,
    "surface": "100.000",
    "sentence": "Es gibt mehr als 100.000 einzelne Ringe mit unterschiedlichen Zusammensetzungen und Farbtönen, welche durch scharf umrissene Lücken voneinander abgegrenzt sind.",
    "section": "Ringsystem"
   },
-  "f96": {
+  "f78": {
    "kind": "measure",
    "value": 7000,
    "unit": "km",
@@ -738,7 +610,7 @@
    "sentence": "Der innerste beginnt bereits etwa 7.000 km über der Oberfläche des Saturn und hat einen Durchmesser von 134.000 km, der äußerste hat einen Durchmesser von 960.000 km.",
    "section": "Ringsystem"
   },
-  "f97": {
+  "f79": {
    "kind": "measure",
    "value": 134000,
    "unit": "km",
@@ -746,7 +618,7 @@
    "sentence": "Der innerste beginnt bereits etwa 7.000 km über der Oberfläche des Saturn und hat einen Durchmesser von 134.000 km, der äußerste hat einen Durchmesser von 960.000 km.",
    "section": "Ringsystem"
   },
-  "f98": {
+  "f80": {
    "kind": "measure",
    "value": 960000,
    "unit": "km",
@@ -754,14 +626,14 @@
    "sentence": "Der innerste beginnt bereits etwa 7.000 km über der Oberfläche des Saturn und hat einen Durchmesser von 134.000 km, der äußerste hat einen Durchmesser von 960.000 km.",
    "section": "Ringsystem"
   },
-  "f99": {
+  "f81": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Die Ringteilchen umkreisen den Saturn rechtläufig in dessen Äquatorebene; somit ist das Ringsystem ebenso wie die Äquatorebene um 27° gegen die Bahnebene geneigt.",
    "section": "Ringsystem"
   },
-  "f100": {
+  "f82": {
    "kind": "measure",
    "value": 14.8,
    "unit": "jahre",
@@ -769,49 +641,49 @@
    "sentence": "Alle 14,8 Jahre befindet sich das Ringsystem in der sogenannten „Kantenstellung“, in der der dünne Rand der Ringe genau der Erde zugewandt ist, so dass das Ringsystem nahezu unsichtbar wird.",
    "section": "Ringsystem"
   },
-  "f101": {
+  "f83": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Das hat im Mai 2025 seinen aktuellen Höhepunkt.",
    "section": "Ringsystem"
   },
-  "f102": {
+  "f84": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Mit dem Spitzer-Weltraumteleskop wurde am 6. Oktober 2009 ein wesentlich weiter außen liegender, vom Hauptringsystem unabhängiger Ring anhand seiner Infrarotstrahlung entdeckt, der mit dem Mond Phoebe den Saturn rückläufig umkreist.",
    "section": "Ringsystem"
   },
-  "f103": {
+  "f85": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Mit dem Spitzer-Weltraumteleskop wurde am 6. Oktober 2009 ein wesentlich weiter außen liegender, vom Hauptringsystem unabhängiger Ring anhand seiner Infrarotstrahlung entdeckt, der mit dem Mond Phoebe den Saturn rückläufig umkreist.",
    "section": "Ringsystem"
   },
-  "f104": {
+  "f86": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Der Ring befindet sich im Radius von 6 bis 12 Millionen Kilometern um den Saturn und seine Ringebene ist gegenüber den schon länger bekannten Ringen um 27° geneigt.",
    "section": "Ringsystem"
   },
-  "f105": {
+  "f87": {
    "kind": "number",
    "value": 12000000,
    "surface": "12 Millionen",
    "sentence": "Der Ring befindet sich im Radius von 6 bis 12 Millionen Kilometern um den Saturn und seine Ringebene ist gegenüber den schon länger bekannten Ringen um 27° geneigt.",
    "section": "Ringsystem"
   },
-  "f106": {
+  "f88": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Der Ring befindet sich im Radius von 6 bis 12 Millionen Kilometern um den Saturn und seine Ringebene ist gegenüber den schon länger bekannten Ringen um 27° geneigt.",
    "section": "Ringsystem"
   },
-  "f107": {
+  "f89": {
    "kind": "measure",
    "value": 80,
    "unit": "kelvin",
@@ -819,35 +691,28 @@
    "sentence": "Er verrät sich nur durch seine Wärmestrahlung mit ca. 80 Kelvin.",
    "section": "Ringsystem"
   },
-  "f108": {
-   "kind": "date",
-   "value": "2015",
-   "surface": "2015",
-   "sentence": "Inzwischen (2015) wurde mit dem Weltraumteleskop WISE festgestellt, dass der Ring sogar von 6 Mio. – 16 Mio. km Saturnabstand reicht.",
-   "section": "Ringsystem"
-  },
-  "f109": {
+  "f90": {
    "kind": "number",
    "value": 6000000,
    "surface": "6 Mio",
-   "sentence": "Inzwischen (2015) wurde mit dem Weltraumteleskop WISE festgestellt, dass der Ring sogar von 6 Mio. – 16 Mio. km Saturnabstand reicht.",
+   "sentence": "Inzwischen wurde mit dem Weltraumteleskop WISE festgestellt, dass der Ring sogar von 6 Mio. – 16 Mio. km Saturnabstand reicht.",
    "section": "Ringsystem"
   },
-  "f110": {
+  "f91": {
    "kind": "number",
    "value": 16000000,
    "surface": "16 Mio",
-   "sentence": "Inzwischen (2015) wurde mit dem Weltraumteleskop WISE festgestellt, dass der Ring sogar von 6 Mio. – 16 Mio. km Saturnabstand reicht.",
+   "sentence": "Inzwischen wurde mit dem Weltraumteleskop WISE festgestellt, dass der Ring sogar von 6 Mio. – 16 Mio. km Saturnabstand reicht.",
    "section": "Ringsystem"
   },
-  "f111": {
+  "f92": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Ein weiteres Phänomen sind radiale, speichenartige Strukturen, die sich von innen nach außen über die Ringe erstrecken und hierbei enorme Ausmaße annehmen: bei einer Breite von rund 100 Kilometern können sie bis zu 20.000 Kilometer lang werden.",
    "section": "Ringsystem"
   },
-  "f112": {
+  "f93": {
    "kind": "measure",
    "value": 20000,
    "unit": "kilometer",
@@ -855,49 +720,49 @@
    "sentence": "Ein weiteres Phänomen sind radiale, speichenartige Strukturen, die sich von innen nach außen über die Ringe erstrecken und hierbei enorme Ausmaße annehmen: bei einer Breite von rund 100 Kilometern können sie bis zu 20.000 Kilometer lang werden.",
    "section": "Ringsystem"
   },
-  "f113": {
+  "f94": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Diese „Speichen“ wurden erstmals von der Sonde Voyager 2 bei ihrer Passage im Jahr 1981 entdeckt, später konnte die Beobachtung unter anderem vom Weltraumteleskop Hubble bestätigt werden.",
+   "sentence": "Diese „Speichen“wurden erstmals von der Sonde Voyager 2 bei ihrer Passage im Jahr 1981 entdeckt, später konnte die Beobachtung unter anderem vom Weltraumteleskop Hubble bestätigt werden.",
    "section": "Ringsystem"
   },
-  "f114": {
+  "f95": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
-   "sentence": "Diese „Speichen“ wurden erstmals von der Sonde Voyager 2 bei ihrer Passage im Jahr 1981 entdeckt, später konnte die Beobachtung unter anderem vom Weltraumteleskop Hubble bestätigt werden.",
+   "sentence": "Diese „Speichen“wurden erstmals von der Sonde Voyager 2 bei ihrer Passage im Jahr 1981 entdeckt, später konnte die Beobachtung unter anderem vom Weltraumteleskop Hubble bestätigt werden.",
    "section": "Ringsystem"
   },
-  "f115": {
+  "f96": {
    "kind": "date",
    "value": "1998",
    "surface": "1998",
    "sentence": "Rätselhafterweise verschwanden diese Strukturen ab 1998 allmählich und konnten dann erst wieder ab September 2005 auf Aufnahmen der Raumsonde Cassini nachgewiesen werden.",
    "section": "Ringsystem"
   },
-  "f116": {
+  "f97": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Rätselhafterweise verschwanden diese Strukturen ab 1998 allmählich und konnten dann erst wieder ab September 2005 auf Aufnahmen der Raumsonde Cassini nachgewiesen werden.",
    "section": "Ringsystem"
   },
-  "f117": {
+  "f98": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "US-amerikanische Astronomen fanden 2006 jedoch eine andere Erklärung für das Rätsel um die Speichenstrukturen: demnach bestehen die Speichen aus mikrometergroßen, durch die Ultraviolettstrahlung der Sonne bzw. den äußeren Fotoeffekt geladenen Staubpartikeln, die durch elektrostatische Kräfte aus den Ringen angehoben werden.",
    "section": "Ringsystem"
   },
-  "f118": {
+  "f99": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Nach der von Édouard Albert Roche bereits im 19. Jahrhundert vorgeschlagenen Theorie entstanden die Ringe durch einen Mond, der sich dem Saturn so weit genähert hat, dass er durch Gezeitenkräfte auseinandergebrochen ist.",
    "section": "Ringsystem"
   },
-  "f119": {
+  "f100": {
    "kind": "measure",
    "value": 100000000,
    "unit": "jahren",
@@ -905,35 +770,35 @@
    "sentence": "Diese Theorie spielte lange Zeit keine große Rolle, denn es wurde vermutet, dass die Ringe ein nach astronomischen Maßstäben eher kurzlebiges Phänomen von höchstens einigen 100 Millionen Jahren darstellen.",
    "section": "Ringsystem"
   },
-  "f120": {
+  "f101": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Dies hat sich jedoch im September 2008 relativiert.",
    "section": "Ringsystem"
   },
-  "f121": {
+  "f102": {
    "kind": "number",
    "value": 100000,
    "surface": "100.000",
    "sentence": "Esposito und seine Kollegen haben aber nun das Verhalten von mehr als 100.000 Teilchen in den Saturnringen simuliert.",
    "section": "Ringsystem"
   },
-  "f122": {
+  "f103": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Dies war aufgrund neuer Daten der Raumsonde Cassini, die 2004 den Saturn erreichte, möglich.",
    "section": "Ringsystem"
   },
-  "f123": {
+  "f104": {
    "kind": "number",
    "value": 293,
    "surface": "293",
    "sentence": "Von den heute 293 bekannten Monden des Saturn ist Titan der größte mit einem Durchmesser von 5150 km.",
    "section": "Monde"
   },
-  "f124": {
+  "f105": {
    "kind": "measure",
    "value": 5150,
    "unit": "km",
@@ -941,7 +806,7 @@
    "sentence": "Von den heute 293 bekannten Monden des Saturn ist Titan der größte mit einem Durchmesser von 5150 km.",
    "section": "Monde"
   },
-  "f125": {
+  "f106": {
    "kind": "measure",
    "value": 1050,
    "unit": "km",
@@ -949,7 +814,7 @@
    "sentence": "Die vier Monde Rhea, Dione, Tethys und Iapetus besitzen Durchmesser zwischen 1050 km und 1530 km.",
    "section": "Monde"
   },
-  "f126": {
+  "f107": {
    "kind": "measure",
    "value": 1530,
    "unit": "km",
@@ -957,7 +822,7 @@
    "sentence": "Die vier Monde Rhea, Dione, Tethys und Iapetus besitzen Durchmesser zwischen 1050 km und 1530 km.",
    "section": "Monde"
   },
-  "f127": {
+  "f108": {
    "kind": "measure",
    "value": 60,
    "unit": "grad",
@@ -965,29 +830,22 @@
    "sentence": "Telesto, Tethys und Calypso bewegen sich mit jeweils 60 Grad Versatz auf derselben Bahn um den Saturn.",
    "section": "Monde"
   },
-  "f128": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Ein zweites Gespann von „Trojaner-Monden“ sind Helene (Saturn XII – S/1980 S 6) und Polydeuces, die sich unter je 60 Grad Versatz eine Bahn mit Dione teilen.",
-   "section": "Monde"
-  },
-  "f129": {
+  "f109": {
    "kind": "measure",
    "value": 60,
    "unit": "grad",
    "surface": "60 Grad",
-   "sentence": "Ein zweites Gespann von „Trojaner-Monden“ sind Helene (Saturn XII – S/1980 S 6) und Polydeuces, die sich unter je 60 Grad Versatz eine Bahn mit Dione teilen.",
+   "sentence": "Ein zweites Gespann von „Trojaner-Monden“sind Helene und Polydeuces, die sich unter je 60 Grad Versatz eine Bahn mit Dione teilen.",
    "section": "Monde"
   },
-  "f130": {
+  "f110": {
    "kind": "date",
    "value": "1905",
    "surface": "1905",
    "sentence": "1905 gab William Henry Pickering bekannt, einen weiteren Mond entdeckt zu haben.",
    "section": "Monde"
   },
-  "f131": {
+  "f111": {
    "kind": "measure",
    "value": 61,
    "unit": "km",
@@ -995,71 +853,71 @@
    "sentence": "Pickering schätzte den Durchmesser auf 61 km.",
    "section": "Monde"
   },
-  "f132": {
+  "f112": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Anfang Mai 2005 wurde ein weiterer Mond entdeckt, provisorisch S/2005 S 1 genannt, der mittlerweile den offiziellen Namen Daphnis trägt.",
    "section": "Monde"
   },
-  "f133": {
+  "f113": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Anfang Mai 2005 wurde ein weiterer Mond entdeckt, provisorisch S/2005 S 1 genannt, der mittlerweile den offiziellen Namen Daphnis trägt.",
    "section": "Monde"
   },
-  "f134": {
+  "f114": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Im Juni 2006 wurden mit dem Teleskop auf dem Mauna Kea, auf Hawaii, neun weitere Monde entdeckt, die auf stark elliptischen Bahnen zwischen 17,5 und 23 Millionen Kilometern den Saturn entgegen dessen Rotationsrichtung umkreisen.",
    "section": "Monde"
   },
-  "f135": {
+  "f115": {
    "kind": "number",
    "value": 17.5,
    "surface": "17,5",
    "sentence": "Im Juni 2006 wurden mit dem Teleskop auf dem Mauna Kea, auf Hawaii, neun weitere Monde entdeckt, die auf stark elliptischen Bahnen zwischen 17,5 und 23 Millionen Kilometern den Saturn entgegen dessen Rotationsrichtung umkreisen.",
    "section": "Monde"
   },
-  "f136": {
+  "f116": {
    "kind": "number",
    "value": 23000000,
    "surface": "23 Millionen",
    "sentence": "Im Juni 2006 wurden mit dem Teleskop auf dem Mauna Kea, auf Hawaii, neun weitere Monde entdeckt, die auf stark elliptischen Bahnen zwischen 17,5 und 23 Millionen Kilometern den Saturn entgegen dessen Rotationsrichtung umkreisen.",
    "section": "Monde"
   },
-  "f137": {
+  "f117": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Der 2009 vom Cassini Imaging Science Team entdeckte Mond S/2009 S 1 ist mit einem Durchmesser von ungefähr 300 Metern der bislang kleinste entdeckte Mond des Saturn.",
    "section": "Monde"
   },
-  "f138": {
+  "f118": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Der 2009 vom Cassini Imaging Science Team entdeckte Mond S/2009 S 1 ist mit einem Durchmesser von ungefähr 300 Metern der bislang kleinste entdeckte Mond des Saturn.",
    "section": "Monde"
   },
-  "f139": {
+  "f119": {
    "kind": "number",
    "value": 300,
    "surface": "300",
    "sentence": "Der 2009 vom Cassini Imaging Science Team entdeckte Mond S/2009 S 1 ist mit einem Durchmesser von ungefähr 300 Metern der bislang kleinste entdeckte Mond des Saturn.",
    "section": "Monde"
   },
-  "f140": {
+  "f120": {
    "kind": "measure",
    "value": 100,
    "unit": "m",
    "surface": "100 m",
-   "sentence": "Zum Zeitpunkt des Eintritts der Raumsonde Cassini in den Saturnorbit wurden kleinere Körper mit nur etwa 100 m Durchmesser gefunden, vermutlich Überreste eines ehemals größeren Körpers, die kleine „Möndchen“ beziehungsweise die Saturnringe bilden.",
+   "sentence": "Zum Zeitpunkt des Eintritts der Raumsonde Cassini in den Saturnorbit wurden kleinere Körper mit nur etwa 100 m Durchmesser gefunden, vermutlich Überreste eines ehemals größeren Körpers, die kleine „Möndchen“beziehungsweise die Saturnringe bilden.",
    "section": "Monde"
   },
-  "f141": {
+  "f121": {
    "kind": "number",
    "value": 10000000,
    "surface": "10 Millionen",

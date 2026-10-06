@@ -71,24 +71,12 @@
  "facts": {
   "f1": {
    "kind": "date",
-   "value": "1013",
-   "surface": "1013",
-   "sentence": "Like all animals, humans carry vast numbers (approximately 1013 to 1014) of bacteria."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1014",
-   "surface": "1014",
-   "sentence": "Like all animals, humans carry vast numbers (approximately 1013 to 1014) of bacteria."
-  },
-  "f3": {
-   "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "The word was first used to refer to bacteria in 1828.",
    "section": "Etymology"
   },
-  "f4": {
+  "f2": {
    "kind": "measure",
    "value": 43000,
    "unit": "species",
@@ -96,14 +84,14 @@
    "sentence": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied.",
    "section": "Knowledge of bacteria"
   },
-  "f5": {
+  "f3": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "In fact, just 10 bacterial species account for half of all publications, whereas nearly 75% of all named bacteria have no academic research devoted to them.",
    "section": "Knowledge of bacteria"
   },
-  "f6": {
+  "f4": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -111,14 +99,14 @@
    "sentence": "In fact, just 10 bacterial species account for half of all publications, whereas nearly 75% of all named bacteria have no academic research devoted to them.",
    "section": "Knowledge of bacteria"
   },
-  "f7": {
+  "f5": {
    "kind": "number",
    "value": 300000,
    "surface": "300,000",
    "sentence": "The best-studied species, Escherichia coli, has more than 300,000 studies published on it, but many of these papers likely use it only as a cloning vehicle to study other species, without providing any insight into its own biology.",
    "section": "Knowledge of bacteria"
   },
-  "f8": {
+  "f6": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -126,7 +114,7 @@
    "sentence": "90% of scientific studies on bacteria focus on less than 1% of species, mostly pathogenic bacteria relevant to human health.",
    "section": "Knowledge of bacteria"
   },
-  "f9": {
+  "f7": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -134,21 +122,14 @@
    "sentence": "90% of scientific studies on bacteria focus on less than 1% of species, mostly pathogenic bacteria relevant to human health.",
    "section": "Knowledge of bacteria"
   },
-  "f10": {
+  "f8": {
    "kind": "number",
    "value": 4000,
    "surface": "4000",
    "sentence": "While E. coli is probably the best-studied bacterium, a quarter of its 4000 genes are poorly studied or remain uncharacterized.",
    "section": "Knowledge of bacteria"
   },
-  "f11": {
-   "kind": "date",
-   "value": "600",
-   "surface": "600",
-   "sentence": "Some bacteria with minimal genomes ( 600 genes, e.g. Mycoplasma) usually have a large fraction of their genes functionally characterized, given that most of them are essential and conserved in many other species.",
-   "section": "Knowledge of bacteria"
-  },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 4000000000,
    "unit": "years",
@@ -156,7 +137,7 @@
    "sentence": "The ancestors of bacteria were unicellular microorganisms that were the first forms of life to appear on Earth, about 4 billion years ago.",
    "section": "Origin and early evolution"
   },
-  "f13": {
+  "f10": {
    "kind": "measure",
    "value": 3000000000,
    "unit": "years",
@@ -164,22 +145,22 @@
    "sentence": "For about 3 billion years, most organisms were microscopic, and bacteria and archaea were the dominant forms of life.",
    "section": "Origin and early evolution"
   },
-  "f14": {
+  "f11": {
    "kind": "number",
    "value": 2500000000,
    "surface": "2.5 billion",
-   "sentence": "The most recent common ancestor (MRCA) of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago.",
+   "sentence": "The most recent common ancestor of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago.",
    "section": "Origin and early evolution"
   },
-  "f15": {
+  "f12": {
    "kind": "measure",
    "value": 3200000000,
    "unit": "years",
    "surface": "3.2 billion years",
-   "sentence": "The most recent common ancestor (MRCA) of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago.",
+   "sentence": "The most recent common ancestor of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago.",
    "section": "Origin and early evolution"
   },
-  "f16": {
+  "f13": {
    "kind": "measure",
    "value": 3220000000,
    "unit": "years",
@@ -187,35 +168,35 @@
    "sentence": "The earliest life on land may have been bacteria some 3.22 billion years ago.",
    "section": "Origin and early evolution"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "There are thought to be approximately 2×1030 bacteria on Earth, forming a biomass that is only exceeded by plants.",
    "section": "Habitat"
   },
-  "f18": {
+  "f15": {
    "kind": "date",
    "value": "1030",
    "surface": "1030",
    "sentence": "There are thought to be approximately 2×1030 bacteria on Earth, forming a biomass that is only exceeded by plants.",
    "section": "Habitat"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe.",
    "section": "Habitat"
   },
-  "f20": {
+  "f17": {
    "kind": "date",
    "value": "1026",
    "surface": "1026",
    "sentence": "The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe.",
    "section": "Habitat"
   },
-  "f21": {
+  "f18": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
@@ -223,7 +204,7 @@
    "sentence": "The oceans and seas harbour around 3 × 1026 bacteria which provide up to 50% of the oxygen humans breathe.",
    "section": "Habitat"
   },
-  "f22": {
+  "f19": {
    "kind": "measure",
    "value": 2,
    "unit": "%",
@@ -231,21 +212,21 @@
    "sentence": "Only around 2% of bacterial species have been fully studied.",
    "section": "Habitat"
   },
-  "f23": {
+  "f20": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "Bacterial cells are about one-tenth the size of eukaryotic cells and are typically 0.5–5.0 micrometres in length.",
    "section": "Morphology"
   },
-  "f24": {
+  "f21": {
    "kind": "number",
    "value": 5,
    "surface": "5.0",
    "sentence": "Bacterial cells are about one-tenth the size of eukaryotic cells and are typically 0.5–5.0 micrometres in length.",
    "section": "Morphology"
   },
-  "f25": {
+  "f22": {
    "kind": "measure",
    "value": 0.7,
    "unit": "mm",
@@ -253,7 +234,7 @@
    "sentence": "However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria.",
    "section": "Morphology"
   },
-  "f26": {
+  "f23": {
    "kind": "measure",
    "value": 2,
    "unit": "cm",
@@ -261,60 +242,60 @@
    "sentence": "However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria.",
    "section": "Morphology"
   },
-  "f27": {
+  "f24": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long, Epulopiscium fishelsoni reaches 0.7 mm, and Thiomargarita magnifica can reach even 2 cm in length, which is 50 times larger than other known giant bacteria.",
    "section": "Morphology"
   },
-  "f28": {
+  "f25": {
    "kind": "number",
    "value": 0.3,
    "surface": "0.3",
    "sentence": "Among the smallest bacteria are members of the genus Mycoplasma, which measure only 0.3 micrometres, as small as the largest viruses.",
    "section": "Morphology"
   },
-  "f29": {
+  "f26": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "For example, when starved of amino acids, myxobacteria detect surrounding cells in a process known as quorum sensing, migrate towards each other, and aggregate to form fruiting bodies up to 500 micrometres long and containing approximately 100,000 bacterial cells.",
    "section": "Morphology"
   },
-  "f30": {
+  "f27": {
    "kind": "number",
    "value": 100000,
    "surface": "100,000",
    "sentence": "For example, when starved of amino acids, myxobacteria detect surrounding cells in a process known as quorum sensing, migrate towards each other, and aggregate to form fruiting bodies up to 500 micrometres long and containing approximately 100,000 bacterial cells.",
    "section": "Morphology"
   },
-  "f31": {
+  "f28": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility.",
    "section": "Cellular structure"
   },
-  "f32": {
+  "f29": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility.",
    "section": "Cellular structure"
   },
-  "f33": {
+  "f30": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Fimbriae (sometimes called \"attachment pili\") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length.",
+   "sentence": "Fimbriae are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length.",
    "section": "Cellular structure"
   },
-  "f34": {
+  "f31": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "Fimbriae (sometimes called \"attachment pili\") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length.",
+   "sentence": "Fimbriae are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length.",
    "section": "Cellular structure"
   }
  },

@@ -114,158 +114,88 @@
    "kind": "number",
    "value": 18,
    "surface": "18",
-   "sentence": "Aufgrund der als Titius-Bode-Reihe bezeichneten empirischen Formel, die der Ordnung der bis dahin bekannten Planeten entsprach, wurde gegen Ende des 18. Jahrhunderts mit der systematischen Suche nach einem laut der Formel „fehlenden“ Planeten in diesem Bereich begonnen.",
+   "sentence": "Aufgrund der als Titius-Bode-Reihe bezeichneten empirischen Formel, die der Ordnung der bis dahin bekannten Planeten entsprach, wurde gegen Ende des 18. Jahrhunderts mit der systematischen Suche nach einem laut der Formel „fehlenden“Planeten in diesem Bereich begonnen.",
    "section": "Entdeckung"
   },
   "f10": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Mit seiner Entdeckung des später als (1) Ceres benannten Zwergplaneten am 1. Januar 1801 glaubte Giuseppe Piazzi, den Planeten gefunden zu haben.",
+   "sentence": "Mit seiner Entdeckung des später als Ceres benannten Zwergplaneten am 1. Januar 1801 glaubte Giuseppe Piazzi, den Planeten gefunden zu haben.",
    "section": "Entdeckung"
   },
   "f11": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Mit seiner Entdeckung des später als (1) Ceres benannten Zwergplaneten am 1. Januar 1801 glaubte Giuseppe Piazzi, den Planeten gefunden zu haben.",
+   "kind": "date",
+   "value": "1801",
+   "surface": "1801",
+   "sentence": "Mit seiner Entdeckung des später als Ceres benannten Zwergplaneten am 1. Januar 1801 glaubte Giuseppe Piazzi, den Planeten gefunden zu haben.",
    "section": "Entdeckung"
   },
   "f12": {
    "kind": "date",
-   "value": "1801",
-   "surface": "1801",
-   "sentence": "Mit seiner Entdeckung des später als (1) Ceres benannten Zwergplaneten am 1. Januar 1801 glaubte Giuseppe Piazzi, den Planeten gefunden zu haben.",
+   "value": "1802",
+   "surface": "1802",
+   "sentence": "Bereits 1802 entdeckte Heinrich Wilhelm Olbers mit Pallas ein zweites Objekt, das die Sonne zwischen Mars und Jupiter umkreist.",
    "section": "Entdeckung"
   },
   "f13": {
-   "kind": "date",
-   "value": "1802",
-   "surface": "1802",
-   "sentence": "Bereits 1802 entdeckte Heinrich Wilhelm Olbers mit (2) Pallas ein zweites Objekt, das die Sonne zwischen Mars und Jupiter umkreist.",
-   "section": "Entdeckung"
-  },
-  "f14": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Bereits 1802 entdeckte Heinrich Wilhelm Olbers mit (2) Pallas ein zweites Objekt, das die Sonne zwischen Mars und Jupiter umkreist.",
-   "section": "Entdeckung"
-  },
-  "f15": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
-   "section": "Entdeckung"
-  },
-  "f16": {
-   "kind": "date",
-   "value": "1804",
-   "surface": "1804",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
-   "section": "Entdeckung"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
-   "section": "Entdeckung"
-  },
-  "f18": {
-   "kind": "date",
-   "value": "1807",
-   "surface": "1807",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
-   "section": "Entdeckung"
-  },
-  "f19": {
    "kind": "measure",
    "value": 38,
    "unit": "jahre",
    "surface": "38 Jahre",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
+   "sentence": "Es folgten die Entdeckungen der Juno, Vesta und 38 Jahre später die der Astraea.",
    "section": "Entdeckung"
   },
-  "f20": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
-   "section": "Entdeckung"
-  },
-  "f21": {
-   "kind": "date",
-   "value": "1845",
-   "surface": "1845",
-   "sentence": "Es folgten die Entdeckungen der (3) Juno (1804), (4) Vesta (1807) und 38 Jahre später die der (5) Astraea (1845).",
-   "section": "Entdeckung"
-  },
-  "f22": {
+  "f14": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "So kam es, dass der Planet Neptun bei seiner Entdeckung im Jahre 1846 als dreizehnter Planet gezählt wurde.",
    "section": "Entdeckung"
   },
-  "f23": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Mit der Entdeckung der (6) Hebe im Jahr 1847 setzte eine Flut von Neuentdeckungen von Asteroiden ein.",
-   "section": "Entdeckung"
-  },
-  "f24": {
+  "f15": {
    "kind": "date",
    "value": "1847",
    "surface": "1847",
-   "sentence": "Mit der Entdeckung der (6) Hebe im Jahr 1847 setzte eine Flut von Neuentdeckungen von Asteroiden ein.",
+   "sentence": "Mit der Entdeckung der Hebe im Jahr 1847 setzte eine Flut von Neuentdeckungen von Asteroiden ein.",
    "section": "Entdeckung"
   },
-  "f25": {
+  "f16": {
    "kind": "date",
    "value": "1851",
    "surface": "1851",
-   "sentence": "Daher wurde auf Vorschlag von Alexander von Humboldt im Jahr 1851 die Zahl der (großen) Planeten auf acht begrenzt und die neue Objektklasse der Asteroiden (auch: Planetoiden oder Kleinplaneten genannt) geschaffen.",
+   "sentence": "Daher wurde auf Vorschlag von Alexander von Humboldt im Jahr 1851 die Zahl der Planeten auf acht begrenzt und die neue Objektklasse der Asteroiden geschaffen.",
    "section": "Entdeckung"
   },
-  "f26": {
+  "f17": {
    "kind": "date",
    "value": "1890",
    "surface": "1890",
-   "sentence": "Bis 1890 waren schon 300 Asteroiden in dieser „Planetenlücke“ bekannt.",
+   "sentence": "Bis 1890 waren schon 300 Asteroiden in dieser „Planetenlücke“bekannt.",
    "section": "Entdeckung"
   },
-  "f27": {
+  "f18": {
    "kind": "number",
    "value": 300,
    "surface": "300",
-   "sentence": "Bis 1890 waren schon 300 Asteroiden in dieser „Planetenlücke“ bekannt.",
+   "sentence": "Bis 1890 waren schon 300 Asteroiden in dieser „Planetenlücke“bekannt.",
    "section": "Entdeckung"
   },
-  "f28": {
+  "f19": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Bis April 2022 wurden ca. 600.000 solcher Objekte erfasst, darunter auch solche, die einen eigenen kleinen Mond haben, wie z. B. (243) Ida und ihr Begleiter Dactyl.",
+   "sentence": "Bis April 2022 wurden ca. 600.000 solcher Objekte erfasst, darunter auch solche, die einen eigenen kleinen Mond haben, wie z. B. Ida und ihr Begleiter Dactyl.",
    "section": "Entdeckung"
   },
-  "f29": {
+  "f20": {
    "kind": "number",
    "value": 600000,
    "surface": "600.000",
-   "sentence": "Bis April 2022 wurden ca. 600.000 solcher Objekte erfasst, darunter auch solche, die einen eigenen kleinen Mond haben, wie z. B. (243) Ida und ihr Begleiter Dactyl.",
+   "sentence": "Bis April 2022 wurden ca. 600.000 solcher Objekte erfasst, darunter auch solche, die einen eigenen kleinen Mond haben, wie z. B. Ida und ihr Begleiter Dactyl.",
    "section": "Entdeckung"
   },
-  "f30": {
-   "kind": "number",
-   "value": 243,
-   "surface": "243",
-   "sentence": "Bis April 2022 wurden ca. 600.000 solcher Objekte erfasst, darunter auch solche, die einen eigenen kleinen Mond haben, wie z. B. (243) Ida und ihr Begleiter Dactyl.",
-   "section": "Entdeckung"
-  },
-  "f31": {
+  "f21": {
    "kind": "measure",
    "value": 1.3,
    "unit": "prozent",
@@ -273,70 +203,28 @@
    "sentence": "Es handelt sich bei den Asteroiden um Objekte in der Größe von kleinen, unregelmäßig geformten Brocken bis zu dem Zwergplaneten im Hauptgürtel, Ceres, deren Durchmesser gut einem Viertel von dem des Mondes und deren Masse ca. 1,3 Prozent von der des Mondes entspricht, was der Relation zwischen Mond und Erde nahekommt.",
    "section": "Objekte"
   },
-  "f32": {
+  "f22": {
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "Im Zuge der Neudefinition des Begriffes Planet durch die IAU am 24. August 2006 wurde der größte, nahezu kugelförmige Asteroid (1) Ceres, der einen planetenartigen Aufbau besitzt, zur neuen Objektklasse der Zwergplaneten hochgestuft.",
+   "sentence": "Im Zuge der Neudefinition des Begriffes Planet durch die IAU am 24. August 2006 wurde der größte, nahezu kugelförmige Asteroid Ceres, der einen planetenartigen Aufbau besitzt, zur neuen Objektklasse der Zwergplaneten hochgestuft.",
    "section": "Objekte"
   },
-  "f33": {
+  "f23": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "Im Zuge der Neudefinition des Begriffes Planet durch die IAU am 24. August 2006 wurde der größte, nahezu kugelförmige Asteroid (1) Ceres, der einen planetenartigen Aufbau besitzt, zur neuen Objektklasse der Zwergplaneten hochgestuft.",
+   "sentence": "Im Zuge der Neudefinition des Begriffes Planet durch die IAU am 24. August 2006 wurde der größte, nahezu kugelförmige Asteroid Ceres, der einen planetenartigen Aufbau besitzt, zur neuen Objektklasse der Zwergplaneten hochgestuft.",
    "section": "Objekte"
   },
-  "f34": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Im Zuge der Neudefinition des Begriffes Planet durch die IAU am 24. August 2006 wurde der größte, nahezu kugelförmige Asteroid (1) Ceres, der einen planetenartigen Aufbau besitzt, zur neuen Objektklasse der Zwergplaneten hochgestuft.",
-   "section": "Objekte"
-  },
-  "f35": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2,0",
-   "sentence": "Im inneren Bereich (zwischen 2,0 und 2,5 AE) dominieren helle Objekte der Spektralklassen E (Albedo ~ 0,4) und S (Albedo ~ 0,2), auch die V-Klasse ist dort angesiedelt.",
-   "section": "Objekte"
-  },
-  "f36": {
+  "f24": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
-   "sentence": "Im inneren Bereich (zwischen 2,0 und 2,5 AE) dominieren helle Objekte der Spektralklassen E (Albedo ~ 0,4) und S (Albedo ~ 0,2), auch die V-Klasse ist dort angesiedelt.",
+   "sentence": "Ab einem Abstand von etwa 2,5 AE dominieren die dunklen, kohlenstoffhaltigen Asteroiden der Spektralklasse C. Ihre Zusammensetzung unterscheidet sich deutlich von den Asteroiden im inneren Bereich des Hauptgürtels: Sie dürften aus einer Mischung von Eis und Gestein hervorgegangen sein, die nur mäßig erhitzt wurde.",
    "section": "Objekte"
   },
-  "f37": {
-   "kind": "number",
-   "value": 0.4,
-   "surface": "0,4",
-   "sentence": "Im inneren Bereich (zwischen 2,0 und 2,5 AE) dominieren helle Objekte der Spektralklassen E (Albedo ~ 0,4) und S (Albedo ~ 0,2), auch die V-Klasse ist dort angesiedelt.",
-   "section": "Objekte"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 0.2,
-   "surface": "0,2",
-   "sentence": "Im inneren Bereich (zwischen 2,0 und 2,5 AE) dominieren helle Objekte der Spektralklassen E (Albedo ~ 0,4) und S (Albedo ~ 0,2), auch die V-Klasse ist dort angesiedelt.",
-   "section": "Objekte"
-  },
-  "f39": {
-   "kind": "number",
-   "value": 2.5,
-   "surface": "2,5",
-   "sentence": "Ab einem Abstand von etwa 2,5 AE dominieren die dunklen, kohlenstoffhaltigen Asteroiden der Spektralklasse C (Albedo ~ 0,05).",
-   "section": "Objekte"
-  },
-  "f40": {
-   "kind": "number",
-   "value": 0.05,
-   "surface": "0,05",
-   "sentence": "Ab einem Abstand von etwa 2,5 AE dominieren die dunklen, kohlenstoffhaltigen Asteroiden der Spektralklasse C (Albedo ~ 0,05).",
-   "section": "Objekte"
-  },
-  "f41": {
+  "f25": {
    "kind": "measure",
    "value": 70,
    "unit": "prozent",
@@ -344,154 +232,112 @@
    "sentence": "Die Asteroiden zwischen Mars und Jupiter sind nicht gleichmäßig verteilt, da die Gravitation des Planeten Jupiter – er vereint rund 70 Prozent der Gesamtmasse der Planeten des Sonnensystems in sich – Bahnstörungen verursacht.",
    "section": "Verteilung"
   },
-  "f42": {
+  "f26": {
    "kind": "date",
    "value": "1866",
    "surface": "1866",
    "sentence": "Nach dem Astronomen Daniel Kirkwood, der diese Lücken bereits 1866 festgestellt hatte, wurden sie Kirkwoodlücken genannt.",
    "section": "Verteilung"
   },
-  "f43": {
+  "f27": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
+   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke, die 5:2-Resonanz-Zone und die Hecuba-Lücke, die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
    "section": "Verteilung"
   },
-  "f44": {
+  "f28": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
+   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke, die 5:2-Resonanz-Zone und die Hecuba-Lücke, die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
    "section": "Verteilung"
   },
-  "f45": {
+  "f29": {
    "kind": "number",
    "value": 2.06,
    "surface": "2,06",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
+   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke, die 5:2-Resonanz-Zone und die Hecuba-Lücke, die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
    "section": "Verteilung"
   },
-  "f46": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
-   "section": "Verteilung"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
-   "section": "Verteilung"
-  },
-  "f48": {
+  "f30": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
+   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke, die 5:2-Resonanz-Zone und die Hecuba-Lücke, die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
    "section": "Verteilung"
   },
-  "f49": {
+  "f31": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
+   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke, die 5:2-Resonanz-Zone und die Hecuba-Lücke, die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
    "section": "Verteilung"
   },
-  "f50": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
-   "section": "Verteilung"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
-   "section": "Verteilung"
-  },
-  "f52": {
+  "f32": {
    "kind": "number",
    "value": 3.3,
    "surface": "3,3",
-   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke (3:1), die 5:2-Resonanz-Zone und die Hecuba-Lücke (2:1), die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
+   "sentence": "Auffällig sind die 4:1-Resonanz bei 2,06 AE, die den Hauptgürtel nach innen begrenzt, die Hestia-Lücke, die 5:2-Resonanz-Zone und die Hecuba-Lücke, die die äußere Grenze des Hauptgürtels bei 3,3 AE bildet.",
    "section": "Verteilung"
   },
-  "f53": {
+  "f33": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Zwischen der 4:1- und 2:1-Resonanz befindet sich die überwiegende Mehrzahl der Objekte zwischen Mars- und Jupiterbahn.",
    "section": "Verteilung"
   },
-  "f54": {
+  "f34": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Zwischen der 4:1- und 2:1-Resonanz befindet sich die überwiegende Mehrzahl der Objekte zwischen Mars- und Jupiterbahn.",
    "section": "Verteilung"
   },
-  "f55": {
+  "f35": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Zwischen der 4:1- und 2:1-Resonanz befindet sich die überwiegende Mehrzahl der Objekte zwischen Mars- und Jupiterbahn.",
    "section": "Verteilung"
   },
-  "f56": {
+  "f36": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Zwischen der 4:1- und 2:1-Resonanz befindet sich die überwiegende Mehrzahl der Objekte zwischen Mars- und Jupiterbahn.",
    "section": "Verteilung"
   },
-  "f57": {
+  "f37": {
    "kind": "number",
    "value": 600000,
    "surface": "600.000",
    "sentence": "Tatsächlich sind aufwändige Kursberechnungen nötig, um einen Asteroiden zu treffen, da sich die große Zahl von mehr als 600.000 auf einen immensen Raum verteilt.",
    "section": "Verteilung"
   },
-  "f58": {
-   "kind": "number",
-   "value": 2.15,
-   "surface": "2,15",
-   "sentence": "Innerer Hauptgürtel:\nDie Flora-Familie ist eine relativ große Gruppe von Asteroiden der S-Klasse im inneren Gürtel (2,15 – 2,35 AE).",
-   "section": "Verteilung"
-  },
-  "f59": {
-   "kind": "number",
-   "value": 2.35,
-   "surface": "2,35",
-   "sentence": "Innerer Hauptgürtel:\nDie Flora-Familie ist eine relativ große Gruppe von Asteroiden der S-Klasse im inneren Gürtel (2,15 – 2,35 AE).",
-   "section": "Verteilung"
-  },
-  "f60": {
+  "f38": {
    "kind": "number",
    "value": 1.5,
    "surface": "1,5",
    "sentence": "Ihre Bahnen weisen eine Neigung von 1,5 – 8° auf.",
    "section": "Verteilung"
   },
-  "f61": {
+  "f39": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Ihre Bahnen weisen eine Neigung von 1,5 – 8° auf.",
    "section": "Verteilung"
   },
-  "f62": {
+  "f40": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Etwa 4 – 5 % aller Hauptgürtelasteroiden gehören zu dieser Gruppe.",
    "section": "Verteilung"
   },
-  "f63": {
+  "f41": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -499,49 +345,35 @@
    "sentence": "Etwa 4 – 5 % aller Hauptgürtelasteroiden gehören zu dieser Gruppe.",
    "section": "Verteilung"
   },
-  "f64": {
+  "f42": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE (außerhalb der 7:2-Resonanz).",
+   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE.",
    "section": "Verteilung"
   },
-  "f65": {
+  "f43": {
    "kind": "number",
    "value": 8,
    "surface": "8",
-   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE (außerhalb der 7:2-Resonanz).",
+   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE.",
    "section": "Verteilung"
   },
-  "f66": {
+  "f44": {
    "kind": "number",
    "value": 2.25,
    "surface": "2,25",
-   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE (außerhalb der 7:2-Resonanz).",
+   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE.",
    "section": "Verteilung"
   },
-  "f67": {
+  "f45": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
-   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE (außerhalb der 7:2-Resonanz).",
+   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE.",
    "section": "Verteilung"
   },
-  "f68": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE (außerhalb der 7:2-Resonanz).",
-   "section": "Verteilung"
-  },
-  "f69": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Zur Vesta-Gruppe gehören Planetoiden mit Bahnneigungen von 5…8° in einer Entfernung von 2,25 – 2,5 AE (außerhalb der 7:2-Resonanz).",
-   "section": "Verteilung"
-  },
-  "f70": {
+  "f46": {
    "kind": "measure",
    "value": 6,
    "unit": "%",
@@ -549,70 +381,70 @@
    "sentence": "Etwa 6 % aller Hauptgürtelasteroiden gehören zu dieser Familie, deren bekanntestes und größtes Mitglied der Namensgeber Vesta ist.",
    "section": "Verteilung"
   },
-  "f71": {
+  "f47": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Die Nysa-Gruppe liegt in einer ähnlichen Entfernung wie die Vesta-Asteroiden, jedoch weisen ihre Mitglieder Bahnneigungen von nur 1 – 5° auf.",
    "section": "Verteilung"
   },
-  "f72": {
+  "f48": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Die Nysa-Gruppe liegt in einer ähnlichen Entfernung wie die Vesta-Asteroiden, jedoch weisen ihre Mitglieder Bahnneigungen von nur 1 – 5° auf.",
    "section": "Verteilung"
   },
-  "f73": {
+  "f49": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "In der Nähe befinden sich auch Objekte der Massalia-Gruppe, deren Bahnen nur um 0 – 2,5° geneigt sind.",
    "section": "Verteilung"
   },
-  "f74": {
+  "f50": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
    "sentence": "In der Nähe befinden sich auch Objekte der Massalia-Gruppe, deren Bahnen nur um 0 – 2,5° geneigt sind.",
    "section": "Verteilung"
   },
-  "f75": {
+  "f51": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
    "sentence": "Mittlerer Hauptgürtel:\nEine weitere große Gruppe wurde nach dem Asteroiden Eunomia benannt und erstreckt sich hinter der Hestia-Lücke mit Bahnhalbachsen von 2,5 – 2,8 AE.",
    "section": "Verteilung"
   },
-  "f76": {
+  "f52": {
    "kind": "number",
    "value": 2.8,
    "surface": "2,8",
    "sentence": "Mittlerer Hauptgürtel:\nEine weitere große Gruppe wurde nach dem Asteroiden Eunomia benannt und erstreckt sich hinter der Hestia-Lücke mit Bahnhalbachsen von 2,5 – 2,8 AE.",
    "section": "Verteilung"
   },
-  "f77": {
+  "f53": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Die Objekte gehören meist der S-Klasse an und besitzen Bahnneigungen von 11 – 16°.",
    "section": "Verteilung"
   },
-  "f78": {
+  "f54": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Die Objekte gehören meist der S-Klasse an und besitzen Bahnneigungen von 11 – 16°.",
    "section": "Verteilung"
   },
-  "f79": {
+  "f55": {
    "kind": "number",
    "value": 4600,
    "surface": "4600",
    "sentence": "Mit über 4600 Mitgliedern gehören etwa 5 % aller Hauptgürtelasteroiden zu dieser Familie.",
    "section": "Verteilung"
   },
-  "f80": {
+  "f56": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -620,147 +452,126 @@
    "sentence": "Mit über 4600 Mitgliedern gehören etwa 5 % aller Hauptgürtelasteroiden zu dieser Familie.",
    "section": "Verteilung"
   },
-  "f81": {
+  "f57": {
    "kind": "number",
    "value": 2.7,
    "surface": "2,7",
    "sentence": "Die Gefion-Familie befindet sich in Entfernungen von 2,7 – 2,8 AE.",
    "section": "Verteilung"
   },
-  "f82": {
+  "f58": {
    "kind": "number",
    "value": 2.8,
    "surface": "2,8",
    "sentence": "Die Gefion-Familie befindet sich in Entfernungen von 2,7 – 2,8 AE.",
    "section": "Verteilung"
   },
-  "f83": {
+  "f59": {
    "kind": "number",
    "value": 7.5,
    "surface": "7,5",
    "sentence": "Die Bahnneigung der Mitglieder, die meist zur S-Klasse gehören, beträgt 7,5 – 10,5°.",
    "section": "Verteilung"
   },
-  "f84": {
+  "f60": {
    "kind": "number",
    "value": 10.5,
    "surface": "10,5",
    "sentence": "Die Bahnneigung der Mitglieder, die meist zur S-Klasse gehören, beträgt 7,5 – 10,5°.",
    "section": "Verteilung"
   },
-  "f85": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
-   "section": "Verteilung"
-  },
-  "f86": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3,5",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
-   "section": "Verteilung"
-  },
-  "f87": {
+  "f61": {
    "kind": "number",
    "value": 2.8,
    "surface": "2,8",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
+   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen, sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
    "section": "Verteilung"
   },
-  "f88": {
+  "f62": {
    "kind": "number",
    "value": 2.95,
    "surface": "2,95",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
+   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen, sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
    "section": "Verteilung"
   },
-  "f89": {
+  "f63": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
+   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen, sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
    "section": "Verteilung"
   },
-  "f90": {
+  "f64": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
+   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen, sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
    "section": "Verteilung"
   },
-  "f91": {
+  "f65": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
+   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen, sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
    "section": "Verteilung"
   },
-  "f92": {
+  "f66": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen (0 – 3,5°), sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
+   "sentence": "Äußerer Hauptgürtel:\nDie Objekte der Koronis-Gruppe besitzen geringe Bahnneigungen, sie stellen die Mehrheit der Asteroiden, die sich in einer Entfernung von 2,8 – 2,95 AE befinden, und werden von den Zonen, auf denen eine 5:2- bzw. 7:3-Resonanz zu Jupiter herrscht, begrenzt.",
    "section": "Verteilung"
   },
-  "f93": {
-   "kind": "number",
-   "value": 243,
-   "surface": "243",
-   "sentence": "Das bekannteste Mitglied der Familie ist der Asteroid (243) Ida.",
-   "section": "Verteilung"
-  },
-  "f94": {
+  "f67": {
    "kind": "number",
    "value": 2.99,
    "surface": "2,99",
    "sentence": "Die Eos-Gruppe liegt in einer Entfernung von 2,99 – 3,03 AE und weist Bahnneigungen von 8 – 12° auf.",
    "section": "Verteilung"
   },
-  "f95": {
+  "f68": {
    "kind": "number",
    "value": 3.03,
    "surface": "3,03",
    "sentence": "Die Eos-Gruppe liegt in einer Entfernung von 2,99 – 3,03 AE und weist Bahnneigungen von 8 – 12° auf.",
    "section": "Verteilung"
   },
-  "f96": {
+  "f69": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Die Eos-Gruppe liegt in einer Entfernung von 2,99 – 3,03 AE und weist Bahnneigungen von 8 – 12° auf.",
    "section": "Verteilung"
   },
-  "f97": {
+  "f70": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Die Eos-Gruppe liegt in einer Entfernung von 2,99 – 3,03 AE und weist Bahnneigungen von 8 – 12° auf.",
    "section": "Verteilung"
   },
-  "f98": {
+  "f71": {
    "kind": "number",
    "value": 3.08,
    "surface": "3,08",
    "sentence": "Die Themis-Familie enthält Asteroiden mit Bahnhalbachsen von 3,08 – 3,24 AE und Bahnneigungen mit weniger als 3°.",
    "section": "Verteilung"
   },
-  "f99": {
+  "f72": {
    "kind": "number",
    "value": 3.24,
    "surface": "3,24",
    "sentence": "Die Themis-Familie enthält Asteroiden mit Bahnhalbachsen von 3,08 – 3,24 AE und Bahnneigungen mit weniger als 3°.",
    "section": "Verteilung"
   },
-  "f100": {
+  "f73": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Die Themis-Familie enthält Asteroiden mit Bahnhalbachsen von 3,08 – 3,24 AE und Bahnneigungen mit weniger als 3°.",
    "section": "Verteilung"
   },
-  "f101": {
+  "f74": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -768,21 +579,7 @@
    "sentence": "Zur Hygiea-Gruppe zählt ca. 1 % der Hauptgürtelasteroiden.",
    "section": "Verteilung"
   },
-  "f102": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Sie befinden sich in ähnlicher Entfernung wie Asteroiden der Themis-Gruppe, haben allerdings eine stärkere Bahnneigung (4 – 6°).",
-   "section": "Verteilung"
-  },
-  "f103": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Sie befinden sich in ähnlicher Entfernung wie Asteroiden der Themis-Gruppe, haben allerdings eine stärkere Bahnneigung (4 – 6°).",
-   "section": "Verteilung"
-  },
-  "f104": {
+  "f75": {
    "kind": "measure",
    "value": 1000,
    "unit": "km",

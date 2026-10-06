@@ -65,7 +65,7 @@
    "kind": "number",
    "value": 51,
    "surface": "51",
-   "sentence": "Antimony is a chemical element with the symbol Sb (from Latin stibium) and atomic number 51."
+   "sentence": "Antimony is a chemical element with the symbol Sb and atomic number 51."
   },
   "f2": {
    "kind": "number",
@@ -93,17 +93,10 @@
    "value": 90,
    "unit": "°c",
    "surface": "90 °C",
-   "sentence": "A yellow allotrope of antimony, assumed to be analogous to yellow arsenic, forms by oxidation of stibine (SbH3) with air or oxygen at −90 °C.",
+   "sentence": "A yellow allotrope of antimony, assumed to be analogous to yellow arsenic, forms by oxidation of stibine with air or oxygen at −90 °C.",
    "section": "Characteristics"
   },
   "f6": {
-   "kind": "number",
-   "value": 166,
-   "surface": "166",
-   "sentence": "Elemental antimony adopts a layered structure (space group R3m No. 166) whose layers consist of fused, ruffled, six-membered rings.",
-   "section": "Characteristics"
-  },
-  "f7": {
    "kind": "measure",
    "value": 6.697,
    "unit": "g",
@@ -111,7 +104,7 @@
    "sentence": "This relatively close packing leads to a high density of 6.697 g/cm3, but the weak bonding between the layers leads to the low hardness and brittleness of antimony.",
    "section": "Characteristics"
   },
-  "f8": {
+  "f7": {
    "kind": "measure",
    "value": 57.21,
    "unit": "%",
@@ -119,7 +112,7 @@
    "sentence": "Antimony has two stable isotopes: 121Sb with a natural abundance of 57.21% and 123Sb with a natural abundance of 42.79%.",
    "section": "Characteristics"
   },
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 42.79,
    "unit": "%",
@@ -127,28 +120,28 @@
    "sentence": "Antimony has two stable isotopes: 121Sb with a natural abundance of 57.21% and 123Sb with a natural abundance of 42.79%.",
    "section": "Characteristics"
   },
-  "f10": {
+  "f9": {
    "kind": "number",
    "value": 37,
    "surface": "37",
    "sentence": "There are 37 artificial radioactive isotopes known with mass numbers 104 to 142, of which the longest-lived is the fission product 125Sb with a half-life of 2.758 years.",
    "section": "Characteristics"
   },
-  "f11": {
+  "f10": {
    "kind": "number",
    "value": 104,
    "surface": "104",
    "sentence": "There are 37 artificial radioactive isotopes known with mass numbers 104 to 142, of which the longest-lived is the fission product 125Sb with a half-life of 2.758 years.",
    "section": "Characteristics"
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 142,
    "surface": "142",
    "sentence": "There are 37 artificial radioactive isotopes known with mass numbers 104 to 142, of which the longest-lived is the fission product 125Sb with a half-life of 2.758 years.",
    "section": "Characteristics"
   },
-  "f13": {
+  "f12": {
    "kind": "measure",
    "value": 2.758,
    "unit": "years",
@@ -156,323 +149,259 @@
    "sentence": "There are 37 artificial radioactive isotopes known with mass numbers 104 to 142, of which the longest-lived is the fission product 125Sb with a half-life of 2.758 years.",
    "section": "Characteristics"
   },
-  "f14": {
+  "f13": {
    "kind": "number",
    "value": 5.76,
    "surface": "5.76",
    "sentence": "Numerous meta states are known, of which the most stable is 120m1Sb with a half-life of 5.76 days.",
    "section": "Characteristics"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 0.2,
    "surface": "0.2",
    "sentence": "The abundance of antimony in the Earth's crust is estimated at 0.2 parts per million, comparable to thallium at 0.5 ppm and silver at 0.07 ppm.",
    "section": "Characteristics"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "The abundance of antimony in the Earth's crust is estimated at 0.2 parts per million, comparable to thallium at 0.5 ppm and silver at 0.07 ppm.",
    "section": "Characteristics"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 0.07,
    "surface": "0.07",
    "sentence": "The abundance of antimony in the Earth's crust is estimated at 0.2 parts per million, comparable to thallium at 0.5 ppm and silver at 0.07 ppm.",
    "section": "Characteristics"
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Even though this element is not abundant, it is found in more than 100 mineral species.",
    "section": "Characteristics"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "The +5 oxidation state is more common.",
    "section": "Compounds"
   },
-  "f20": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Antimonous acid Sb(OH)3 is unknown, but the conjugate base sodium antimonite ([Na3SbO3]4) forms upon fusing sodium oxide and Sb4O6.",
-   "section": "Compounds"
-  },
-  "f21": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Antimonous acid Sb(OH)3 is unknown, but the conjugate base sodium antimonite ([Na3SbO3]4) forms upon fusing sodium oxide and Sb4O6.",
-   "section": "Compounds"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Antimonic acid exists only as the hydrate HSb(OH)6, forming salts as the antimonate anion [Sb(OH)]6−.",
-   "section": "Compounds"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Antimonic acid exists only as the hydrate HSb(OH)6, forming salts as the antimonate anion [Sb(OH)]6−.",
-   "section": "Compounds"
-  },
-  "f24": {
+  "f19": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Antimony pentasulfide is non-stoichiometric, which features antimony in the +3 oxidation state and S–S bonds.",
    "section": "Compounds"
   },
-  "f25": {
+  "f20": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "The trifluoride is prepared by the reaction of antimony trioxide with hydrofluoric acid:\nSb2O3 + 6 HF → 2 SbF3 + 3 H2O\nIt is Lewis acidic and readily accepts fluoride ions to form the complex anions SbF4− and SbF52−.",
+   "section": "Compounds"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "The trifluoride is prepared by the reaction of antimony trioxide with hydrofluoric acid:\nSb2O3 + 6 HF → 2 SbF3 + 3 H2O\nIt is Lewis acidic and readily accepts fluoride ions to form the complex anions SbF4− and SbF52−.",
+   "section": "Compounds"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "The trifluoride is prepared by the reaction of antimony trioxide with hydrofluoric acid:\nSb2O3 + 6 HF → 2 SbF3 + 3 H2O\nIt is Lewis acidic and readily accepts fluoride ions to form the complex anions SbF4− and SbF52−.",
+   "section": "Compounds"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "The trichloride is prepared by dissolving stibnite in hydrochloric acid:\nSb2S3 + 6 HCl → 2 SbCl3 + 3 H2S\nArsenic sulfides are not readily attacked by the hydrochloric acid, so this method offers a route to As-free Sb.",
+   "section": "Compounds"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "The trichloride is prepared by dissolving stibnite in hydrochloric acid:\nSb2S3 + 6 HCl → 2 SbCl3 + 3 H2S\nArsenic sulfides are not readily attacked by the hydrochloric acid, so this method offers a route to As-free Sb.",
+   "section": "Compounds"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "The trichloride is prepared by dissolving stibnite in hydrochloric acid:\nSb2S3 + 6 HCl → 2 SbCl3 + 3 H2S\nArsenic sulfides are not readily attacked by the hydrochloric acid, so this method offers a route to As-free Sb.",
    "section": "Compounds"
   },
   "f26": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The trifluoride is prepared by the reaction of antimony trioxide with hydrofluoric acid:\nSb2O3 + 6 HF → 2 SbF3 + 3 H2O\nIt is Lewis acidic and readily accepts fluoride ions to form the complex anions SbF4− and SbF52−.",
-   "section": "Compounds"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The trifluoride is prepared by the reaction of antimony trioxide with hydrofluoric acid:\nSb2O3 + 6 HF → 2 SbF3 + 3 H2O\nIt is Lewis acidic and readily accepts fluoride ions to form the complex anions SbF4− and SbF52−.",
-   "section": "Compounds"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "The trichloride is prepared by dissolving stibnite in hydrochloric acid:\nSb2S3 + 6 HCl → 2 SbCl3 + 3 H2S\nArsenic sulfides are not readily attacked by the hydrochloric acid, so this method offers a route to As-free Sb.",
-   "section": "Compounds"
-  },
-  "f29": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The trichloride is prepared by dissolving stibnite in hydrochloric acid:\nSb2S3 + 6 HCl → 2 SbCl3 + 3 H2S\nArsenic sulfides are not readily attacked by the hydrochloric acid, so this method offers a route to As-free Sb.",
-   "section": "Compounds"
-  },
-  "f30": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "The trichloride is prepared by dissolving stibnite in hydrochloric acid:\nSb2S3 + 6 HCl → 2 SbCl3 + 3 H2S\nArsenic sulfides are not readily attacked by the hydrochloric acid, so this method offers a route to As-free Sb.",
-   "section": "Compounds"
-  },
-  "f31": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Treating these antimonides with acid produces the highly unstable gas stibine, SbH3:\nSb3− + 3 H+ → SbH3\nStibine can also be produced by treating Sb3+ salts with hydride reagents such as sodium borohydride.",
    "section": "Compounds"
   },
-  "f32": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Examples include triphenylstibine (Sb(C6H5)3) and pentaphenylantimony (Sb(C6H5)5).",
-   "section": "Compounds"
-  },
-  "f33": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Examples include triphenylstibine (Sb(C6H5)3) and pentaphenylantimony (Sb(C6H5)5).",
-   "section": "Compounds"
-  },
-  "f34": {
+  "f27": {
    "kind": "number",
    "value": 3100,
    "surface": "3100",
-   "sentence": "Antimony(III) sulfide, Sb2S3, was recognized in predynastic Egypt as an eye cosmetic (kohl) as early as about 3100 BC, when the cosmetic palette was invented.",
+   "sentence": "Antimony sulfide, Sb2S3, was recognized in predynastic Egypt as an eye cosmetic as early as about 3100 BC, when the cosmetic palette was invented.",
    "section": "History"
   },
-  "f35": {
+  "f28": {
    "kind": "number",
    "value": 3000,
    "surface": "3000",
-   "sentence": "An artifact, said to be part of a vase, made of antimony dating to about 3000 BC was found at Telloh, Chaldea (part of present-day Iraq), and a copper object plated with antimony dating between 2500 BC and 2200 BC has been found in Egypt.",
+   "sentence": "An artifact, said to be part of a vase, made of antimony dating to about 3000 BC was found at Telloh, Chaldea, and a copper object plated with antimony dating between 2500 BC and 2200 BC has been found in Egypt.",
    "section": "History"
   },
-  "f36": {
+  "f29": {
    "kind": "number",
    "value": 2500,
    "surface": "2500",
-   "sentence": "An artifact, said to be part of a vase, made of antimony dating to about 3000 BC was found at Telloh, Chaldea (part of present-day Iraq), and a copper object plated with antimony dating between 2500 BC and 2200 BC has been found in Egypt.",
+   "sentence": "An artifact, said to be part of a vase, made of antimony dating to about 3000 BC was found at Telloh, Chaldea, and a copper object plated with antimony dating between 2500 BC and 2200 BC has been found in Egypt.",
    "section": "History"
   },
-  "f37": {
+  "f30": {
    "kind": "number",
    "value": 2200,
    "surface": "2200",
-   "sentence": "An artifact, said to be part of a vase, made of antimony dating to about 3000 BC was found at Telloh, Chaldea (part of present-day Iraq), and a copper object plated with antimony dating between 2500 BC and 2200 BC has been found in Egypt.",
+   "sentence": "An artifact, said to be part of a vase, made of antimony dating to about 3000 BC was found at Telloh, Chaldea, and a copper object plated with antimony dating between 2500 BC and 2200 BC has been found in Egypt.",
    "section": "History"
   },
-  "f38": {
+  "f31": {
    "kind": "date",
    "value": "1892",
    "surface": "1892",
-   "sentence": "Austen, at a lecture by Herbert Gladstone in 1892, commented that \"we only know of antimony at the present day as a highly brittle and crystalline metal, which could hardly be fashioned into a useful vase, and therefore this remarkable 'find' (artifact mentioned above) must represent the lost art of rendering antimony malleable.\"",
+   "sentence": "Austen, at a lecture by Herbert Gladstone in 1892, commented that \"we only know of antimony at the present day as a highly brittle and crystalline metal, which could hardly be fashioned into a useful vase, and therefore this remarkable 'find' must represent the lost art of rendering antimony malleable.\"",
    "section": "History"
   },
-  "f39": {
-   "kind": "date",
-   "value": "1975",
-   "surface": "1975",
-   "sentence": "The British archaeologist Roger Moorey was unconvinced the artifact was indeed a vase, mentioning that Selimkhanov, after his analysis of the Tello object (published in 1975), \"attempted to relate the metal to Transcaucasian natural antimony\" (i.e. native metal) and that \"the antimony objects from Transcaucasia are all small personal ornaments.\"",
-   "section": "History"
-  },
-  "f40": {
+  "f32": {
    "kind": "number",
    "value": 77,
    "surface": "77",
    "sentence": "The Roman scholar Pliny the Elder described several ways of preparing antimony sulfide for medical purposes in his treatise Natural History, around 77 AD.",
    "section": "History"
   },
-  "f41": {
+  "f33": {
    "kind": "date",
    "value": "1540",
    "surface": "1540",
    "sentence": "A description of a procedure for isolating antimony is later given in the 1540 book De la pirotechnia by Vannoccio Biringuccio, predating the more famous 1556 book by Agricola, De re metallica.",
    "section": "History"
   },
-  "f42": {
+  "f34": {
    "kind": "date",
    "value": "1556",
    "surface": "1556",
    "sentence": "A description of a procedure for isolating antimony is later given in the 1540 book De la pirotechnia by Vannoccio Biringuccio, predating the more famous 1556 book by Agricola, De re metallica.",
    "section": "History"
   },
-  "f43": {
+  "f35": {
    "kind": "date",
    "value": "1604",
    "surface": "1604",
-   "sentence": "The book Currus Triumphalis Antimonii (The Triumphal Chariot of Antimony), describing the preparation of metallic antimony, was published in Germany in 1604.",
+   "sentence": "The book Currus Triumphalis Antimonii, describing the preparation of metallic antimony, was published in Germany in 1604.",
    "section": "History"
   },
-  "f44": {
+  "f36": {
    "kind": "date",
    "value": "1615",
    "surface": "1615",
    "sentence": "The metal antimony was known to German chemist Andreas Libavius in 1615 who obtained it by adding iron to a molten mixture of antimony sulfide, salt, and potassium tartrate.",
    "section": "History"
   },
-  "f45": {
+  "f37": {
    "kind": "date",
    "value": "1783",
    "surface": "1783",
    "sentence": "The first discovery of naturally occurring pure antimony in the Earth's crust was described by the Swedish scientist and local mine district engineer Anton von Swab in 1783; the type-sample was collected from the Sala Silver Mine in the Bergslagen mining district of Sala, Västmanland, Sweden.",
    "section": "History"
   },
-  "f46": {
+  "f38": {
    "kind": "date",
    "value": "1931",
    "surface": "1931",
    "sentence": "Coins of antimony were issued in China's Guizhou in 1931; durability was poor, and minting was soon discontinued because of its softness and toxicity.",
    "section": "History"
   },
-  "f47": {
+  "f39": {
    "kind": "date",
    "value": "1050",
    "surface": "1050",
    "sentence": "The early uses of antimonium include the translations, in 1050–1100, by Constantine the African of Arabic medical treatises.",
    "section": "History"
   },
-  "f48": {
-   "kind": "date",
-   "value": "1100",
-   "surface": "1100",
-   "sentence": "The early uses of antimonium include the translations, in 1050–1100, by Constantine the African of Arabic medical treatises.",
-   "section": "History"
-  },
-  "f49": {
+  "f40": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "Most antimony is mined as the sulfide; lower-grade ores are concentrated by froth flotation, while higher-grade ores are heated to 500–600 °C, the temperature at which stibnite melts and separates from the gangue minerals.",
    "section": "Production"
   },
-  "f50": {
-   "kind": "measure",
-   "value": 600,
-   "unit": "°c",
-   "surface": "600 °C",
-   "sentence": "Most antimony is mined as the sulfide; lower-grade ores are concentrated by froth flotation, while higher-grade ores are heated to 500–600 °C, the temperature at which stibnite melts and separates from the gangue minerals.",
-   "section": "Production"
-  },
-  "f51": {
+  "f41": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Antimony can be isolated from the crude antimony sulfide by reduction with scrap iron:\nSb2S3 + 3 Fe → 2 Sb + 3 FeS\nThe sulfide is converted to an oxide by roasting.",
    "section": "Production"
   },
-  "f52": {
+  "f42": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Antimony can be isolated from the crude antimony sulfide by reduction with scrap iron:\nSb2S3 + 3 Fe → 2 Sb + 3 FeS\nThe sulfide is converted to an oxide by roasting.",
    "section": "Production"
   },
-  "f53": {
+  "f43": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Antimony can be isolated from the crude antimony sulfide by reduction with scrap iron:\nSb2S3 + 3 Fe → 2 Sb + 3 FeS\nThe sulfide is converted to an oxide by roasting.",
    "section": "Production"
   },
-  "f54": {
+  "f44": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Antimony is isolated from the oxide by a carbothermal reduction:\n2 Sb2O3 + 3 C → 4 Sb + 3 CO2\nThe lower-grade ores are reduced in blast furnaces while the higher-grade ores are reduced in reverberatory furnaces.",
    "section": "Production"
   },
-  "f55": {
+  "f45": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Antimony is isolated from the oxide by a carbothermal reduction:\n2 Sb2O3 + 3 C → 4 Sb + 3 CO2\nThe lower-grade ores are reduced in blast furnaces while the higher-grade ores are reduced in reverberatory furnaces.",
    "section": "Production"
   },
-  "f56": {
+  "f46": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Antimony is isolated from the oxide by a carbothermal reduction:\n2 Sb2O3 + 3 C → 4 Sb + 3 CO2\nThe lower-grade ores are reduced in blast furnaces while the higher-grade ores are reduced in reverberatory furnaces.",
    "section": "Production"
   },
-  "f57": {
+  "f47": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Antimony is isolated from the oxide by a carbothermal reduction:\n2 Sb2O3 + 3 C → 4 Sb + 3 CO2\nThe lower-grade ores are reduced in blast furnaces while the higher-grade ores are reduced in reverberatory furnaces.",
    "section": "Production"
   },
-  "f58": {
+  "f48": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "In 2022, according to the US Geological Survey, China accounted for 54.5% of total antimony production, followed in second place by Russia with 18.2% and Tajikistan with 15.5%.",
    "section": "Production"
   },
-  "f59": {
+  "f49": {
    "kind": "measure",
    "value": 54.5,
    "unit": "%",
@@ -480,7 +409,7 @@
    "sentence": "In 2022, according to the US Geological Survey, China accounted for 54.5% of total antimony production, followed in second place by Russia with 18.2% and Tajikistan with 15.5%.",
    "section": "Production"
   },
-  "f60": {
+  "f50": {
    "kind": "measure",
    "value": 18.2,
    "unit": "%",
@@ -488,7 +417,7 @@
    "sentence": "In 2022, according to the US Geological Survey, China accounted for 54.5% of total antimony production, followed in second place by Russia with 18.2% and Tajikistan with 15.5%.",
    "section": "Production"
   },
-  "f61": {
+  "f51": {
    "kind": "measure",
    "value": 15.5,
    "unit": "%",
@@ -496,112 +425,57 @@
    "sentence": "In 2022, according to the US Geological Survey, China accounted for 54.5% of total antimony production, followed in second place by Russia with 18.2% and Tajikistan with 15.5%.",
    "section": "Production"
   },
-  "f62": {
+  "f52": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
-   "sentence": "Especially due to an environmental protection law having gone into effect in January 2015 and revised \"Emission standards of pollutants for stannum, antimony and mercury industries\" having gone into effect, hurdles for economic production are higher.",
+   "sentence": "Especially due to an environmental protection law having gone into effect in January 2015 and revised \"Emission standards of pollutants for stannum, antimony and mercury industries\"having gone into effect, hurdles for economic production are higher.",
    "section": "Production"
   },
-  "f63": {
+  "f53": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "With global production (in 2019) coming mainly from China (74%), Tajikistan (8%), and Russia (4%), these sources are critical to supply.",
+   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey, Bolivia, and Guatemala.",
    "section": "Production"
   },
-  "f64": {
-   "kind": "measure",
-   "value": 74,
-   "unit": "%",
-   "surface": "74%",
-   "sentence": "With global production (in 2019) coming mainly from China (74%), Tajikistan (8%), and Russia (4%), these sources are critical to supply.",
-   "section": "Production"
-  },
-  "f65": {
-   "kind": "measure",
-   "value": 8,
-   "unit": "%",
-   "surface": "8%",
-   "sentence": "With global production (in 2019) coming mainly from China (74%), Tajikistan (8%), and Russia (4%), these sources are critical to supply.",
-   "section": "Production"
-  },
-  "f66": {
-   "kind": "measure",
-   "value": 4,
-   "unit": "%",
-   "surface": "4%",
-   "sentence": "With global production (in 2019) coming mainly from China (74%), Tajikistan (8%), and Russia (4%), these sources are critical to supply.",
-   "section": "Production"
-  },
-  "f67": {
-   "kind": "date",
-   "value": "2019",
-   "surface": "2019",
-   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey (62%), Bolivia (20%), and Guatemala (7%).",
-   "section": "Production"
-  },
-  "f68": {
+  "f54": {
    "kind": "measure",
    "value": 100,
    "unit": "%",
    "surface": "100%",
-   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey (62%), Bolivia (20%), and Guatemala (7%).",
+   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey, Bolivia, and Guatemala.",
    "section": "Production"
   },
-  "f69": {
-   "kind": "measure",
-   "value": 62,
-   "unit": "%",
-   "surface": "62%",
-   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey (62%), Bolivia (20%), and Guatemala (7%).",
-   "section": "Production"
-  },
-  "f70": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "%",
-   "surface": "20%",
-   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey (62%), Bolivia (20%), and Guatemala (7%).",
-   "section": "Production"
-  },
-  "f71": {
-   "kind": "measure",
-   "value": 7,
-   "unit": "%",
-   "surface": "7%",
-   "sentence": "In 2019, the E.U. sources were 100% imported, coming mainly from Turkey (62%), Bolivia (20%), and Guatemala (7%).",
-   "section": "Production"
-  },
-  "f72": {
+  "f55": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
-   "sentence": "United Kingdom\nThe British Geological Survey's 2015 risk list ranked antimony second highest (after rare-earth elements) on the relative supply risk index.",
+   "sentence": "United Kingdom\nThe British Geological Survey's 2015 risk list ranked antimony second highest on the relative supply risk index.",
    "section": "Production"
   },
-  "f73": {
+  "f56": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "In 2021, no antimony was mined in the U.S.\nIn December 2024, the PR China has banned export of critical minerals.",
    "section": "Production"
   },
-  "f74": {
+  "f57": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "In 2021, no antimony was mined in the U.S.\nIn December 2024, the PR China has banned export of critical minerals.",
    "section": "Production"
   },
-  "f75": {
+  "f58": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "In 2017, approximately 48% of antimony was consumed in flame retardants, 33% in lead–acid batteries, and 8% in plastics.",
    "section": "Applications"
   },
-  "f76": {
+  "f59": {
    "kind": "measure",
    "value": 48,
    "unit": "%",
@@ -609,7 +483,7 @@
    "sentence": "In 2017, approximately 48% of antimony was consumed in flame retardants, 33% in lead–acid batteries, and 8% in plastics.",
    "section": "Applications"
   },
-  "f77": {
+  "f60": {
    "kind": "measure",
    "value": 33,
    "unit": "%",
@@ -617,7 +491,7 @@
    "sentence": "In 2017, approximately 48% of antimony was consumed in flame retardants, 33% in lead–acid batteries, and 8% in plastics.",
    "section": "Applications"
   },
-  "f78": {
+  "f61": {
    "kind": "measure",
    "value": 8,
    "unit": "%",
@@ -625,21 +499,14 @@
    "sentence": "In 2017, approximately 48% of antimony was consumed in flame retardants, 33% in lead–acid batteries, and 8% in plastics.",
    "section": "Applications"
   },
-  "f79": {
-   "kind": "number",
-   "value": 94,
-   "surface": "94",
-   "sentence": "Antimony trioxide is also used as a synergist with brominated flame retardants in housings and plastic parts for electrical and electronic equipment (e.g., HIPS/ABS enclosures) to meet flammability standards such as UL 94.",
-   "section": "Applications"
-  },
-  "f80": {
+  "f62": {
    "kind": "date",
    "value": "600",
    "surface": "600",
    "sentence": "For sailboats, lead keels are used to provide righting moment, ranging from 600 lbs to over 200 tons for the largest sailing superyachts; to improve hardness and tensile strength of the lead keel, antimony is mixed with lead between 2% and 5% by volume.",
    "section": "Applications"
   },
-  "f81": {
+  "f63": {
    "kind": "measure",
    "value": 200,
    "unit": "tons",
@@ -647,7 +514,7 @@
    "sentence": "For sailboats, lead keels are used to provide righting moment, ranging from 600 lbs to over 200 tons for the largest sailing superyachts; to improve hardness and tensile strength of the lead keel, antimony is mixed with lead between 2% and 5% by volume.",
    "section": "Applications"
   },
-  "f82": {
+  "f64": {
    "kind": "measure",
    "value": 2,
    "unit": "%",
@@ -655,7 +522,7 @@
    "sentence": "For sailboats, lead keels are used to provide righting moment, ranging from 600 lbs to over 200 tons for the largest sailing superyachts; to improve hardness and tensile strength of the lead keel, antimony is mixed with lead between 2% and 5% by volume.",
    "section": "Applications"
   },
-  "f83": {
+  "f65": {
    "kind": "measure",
    "value": 5,
    "unit": "%",
@@ -663,29 +530,21 @@
    "sentence": "For sailboats, lead keels are used to provide righting moment, ranging from 600 lbs to over 200 tons for the largest sailing superyachts; to improve hardness and tensile strength of the lead keel, antimony is mixed with lead between 2% and 5% by volume.",
    "section": "Applications"
   },
-  "f84": {
-   "kind": "measure",
-   "value": 5,
-   "unit": "%",
-   "surface": "5%",
-   "sentence": "Antimony is used in antifriction alloys (such as Babbitt metal), in bullets and lead shot, electrical cable sheathing, type metal (for example, for Linotype machines), solder (some \"lead-free\" solders contain 5% Sb), in pewter, and in hardening alloys with low tin content in the manufacturing of organ pipes.",
-   "section": "Applications"
-  },
-  "f85": {
+  "f66": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
    "sentence": "Potassium antimonyl tartrate, or tartar emetic, was once used as an anti-schistosomal drug from 1919 on.",
    "section": "Applications"
   },
-  "f86": {
+  "f67": {
    "kind": "date",
    "value": "1922",
    "surface": "1922",
-   "sentence": "Early treatments used antimony(III) species (trivalent antimonials), but in 1922 Upendranath Brahmachari invented a much safer antimony(V) drug and, since then, so-called pentavalent antimonials have been the standard first-line treatment.",
+   "sentence": "Early treatments used antimony species, but in 1922 Upendranath Brahmachari invented a much safer antimony drug and, since then, so-called pentavalent antimonials have been the standard first-line treatment.",
    "section": "Applications"
   },
-  "f87": {
+  "f68": {
    "kind": "number",
    "value": 24,
    "surface": "24",

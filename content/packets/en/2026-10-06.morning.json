@@ -54,451 +54,315 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Caspar David Friedrich (German: [ˌkaspaʁ ˌdaːvɪt ˈfʁiːdʁɪç] ; 5 September 1774 – 7 May 1840) was a German Romantic landscape painter, generally considered the most important German artist of his generation, whose often symbolic, and anti-classical work, conveys a subjective, emotional response to the natural world."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1774",
-   "surface": "1774",
-   "sentence": "Caspar David Friedrich (German: [ˌkaspaʁ ˌdaːvɪt ˈfʁiːdʁɪç] ; 5 September 1774 – 7 May 1840) was a German Romantic landscape painter, generally considered the most important German artist of his generation, whose often symbolic, and anti-classical work, conveys a subjective, emotional response to the natural world."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Caspar David Friedrich (German: [ˌkaspaʁ ˌdaːvɪt ˈfʁiːdʁɪç] ; 5 September 1774 – 7 May 1840) was a German Romantic landscape painter, generally considered the most important German artist of his generation, whose often symbolic, and anti-classical work, conveys a subjective, emotional response to the natural world."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1840",
-   "surface": "1840",
-   "sentence": "Caspar David Friedrich (German: [ˌkaspaʁ ˌdaːvɪt ˈfʁiːdʁɪç] ; 5 September 1774 – 7 May 1840) was a German Romantic landscape painter, generally considered the most important German artist of his generation, whose often symbolic, and anti-classical work, conveys a subjective, emotional response to the natural world."
-  },
-  "f5": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "He studied in Copenhagen from 1794 to 1798, before settling in Dresden."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1798",
    "surface": "1798",
    "sentence": "He studied in Copenhagen from 1794 to 1798, before settling in Dresden."
   },
-  "f7": {
+  "f3": {
    "kind": "date",
    "value": "1906",
    "surface": "1906",
    "sentence": "The early 20th century brought a renewed appreciation of his art, beginning in 1906 with an exhibition of thirty-two of his paintings in Berlin."
   },
-  "f8": {
+  "f4": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Caspar David Friedrich was born on 5 September 1774, in Greifswald, Swedish Pomerania, on the Baltic coast of Germany.",
    "section": "Life"
   },
-  "f9": {
+  "f5": {
    "kind": "date",
    "value": "1774",
    "surface": "1774",
    "sentence": "Caspar David Friedrich was born on 5 September 1774, in Greifswald, Swedish Pomerania, on the Baltic coast of Germany.",
    "section": "Life"
   },
-  "f10": {
+  "f6": {
    "kind": "date",
    "value": "1781",
    "surface": "1781",
    "sentence": "His mother, Sophie, died in 1781 when he was seven.",
    "section": "Life"
   },
-  "f11": {
+  "f7": {
    "kind": "date",
    "value": "1791",
    "surface": "1791",
    "sentence": "A year later, his sister Elisabeth died, and a second sister, Maria, succumbed to typhus in 1791.",
    "section": "Life"
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1787",
    "surface": "1787",
    "sentence": "Arguably the greatest tragedy of his childhood happened in 1787 when his brother Johann Christoffer died: at the age of thirteen, Caspar David witnessed his younger brother fall through the ice of a frozen lake and drown.",
    "section": "Life"
   },
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1790",
    "surface": "1790",
    "sentence": "Friedrich began his formal study of art in 1790 as a private student of artist Johann Gottfried Quistorp at the University of Greifswald in his home city, at which the art department is now named Caspar-David-Friedrich-Institut in his honour.",
    "section": "Life"
   },
-  "f14": {
+  "f10": {
    "kind": "date",
    "value": "1798",
    "surface": "1798",
    "sentence": "Friedrich settled permanently in Dresden in 1798.",
    "section": "Life"
   },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1804",
    "surface": "1804",
    "sentence": "By 1804 he had produced 18 etchings and four woodcuts; they were apparently made in small numbers and only distributed to friends.",
    "section": "Life"
   },
-  "f16": {
+  "f12": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "By 1804 he had produced 18 etchings and four woodcuts; they were apparently made in small numbers and only distributed to friends.",
    "section": "Life"
   },
-  "f17": {
-   "kind": "date",
-   "value": "1797",
-   "surface": "1797",
-   "sentence": "With the exception of a few early pieces, such as Landscape with Temple in Ruins (1797), he did not work extensively with oils until his reputation was more established.",
-   "section": "Life"
-  },
-  "f18": {
+  "f13": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Landscapes were his preferred subject, inspired by frequent trips, beginning in 1801, to the Baltic coast, Bohemia, the Krkonoše and the Harz Mountains.",
    "section": "Life"
   },
-  "f19": {
+  "f14": {
    "kind": "date",
    "value": "1805",
    "surface": "1805",
    "sentence": "His reputation as an artist was established when he won a prize in 1805 at the Weimar competition organised by Johann Wolfgang von Goethe.",
    "section": "Life"
   },
-  "f20": {
+  "f15": {
    "kind": "date",
    "value": "1808",
    "surface": "1808",
    "sentence": "Friedrich completed the first of his major paintings in 1808, at the age of 34.",
    "section": "Life"
   },
-  "f21": {
+  "f16": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "Friedrich completed the first of his major paintings in 1808, at the age of 34.",
    "section": "Life"
   },
-  "f22": {
+  "f17": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Friedrich responded with a programme describing his intentions in 1809, comparing the rays of the evening sun to the light of the Holy Father.",
    "section": "Life"
   },
-  "f23": {
+  "f18": {
    "kind": "date",
    "value": "1810",
    "surface": "1810",
    "sentence": "Following the purchase of two of his paintings by the Prussian Crown Prince, Friedrich was elected a member of the Berlin Academy in 1810.",
    "section": "Life"
   },
-  "f24": {
+  "f19": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
    "sentence": "Yet in 1816, he sought to distance himself from Prussian authority and applied that June for Saxon citizenship.",
    "section": "Life"
   },
-  "f25": {
+  "f20": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Nevertheless, with the aid of his Dresden-based friend Graf Vitzthum von Eckstädt, Friedrich attained citizenship, and in 1818, membership in the Saxon Academy with a yearly dividend of 150 thalers.",
    "section": "Life"
   },
-  "f26": {
+  "f21": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Nevertheless, with the aid of his Dresden-based friend Graf Vitzthum von Eckstädt, Friedrich attained citizenship, and in 1818, membership in the Saxon Academy with a yearly dividend of 150 thalers.",
    "section": "Life"
   },
-  "f27": {
+  "f22": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "On 21 January 1818, Friedrich married Caroline Bommer, the twenty-five-year-old daughter of a dyer from Dresden.",
    "section": "Life"
   },
-  "f28": {
+  "f23": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "On 21 January 1818, Friedrich married Caroline Bommer, the twenty-five-year-old daughter of a dyer from Dresden.",
    "section": "Life"
   },
-  "f29": {
+  "f24": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "The couple had three children, with their first, Emma, arriving in 1820.",
    "section": "Life"
   },
-  "f30": {
+  "f25": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "In 1820, the Grand Duke Nikolai Pavlovich, at the behest of his wife Alexandra Feodorovna, visited Friedrich's studio and returned to Saint Petersburg with a number of his paintings, an exchange that began a patronage that continued for many years.",
    "section": "Life"
   },
-  "f31": {
+  "f26": {
    "kind": "date",
    "value": "1821",
    "surface": "1821",
-   "sentence": "Not long thereafter, the poet Vasily Zhukovsky, tutor to the Grand Duke's son (later Tsar Alexander II), met Friedrich in 1821 and found in him a kindred spirit.",
+   "sentence": "Not long thereafter, the poet Vasily Zhukovsky, tutor to the Grand Duke's son, met Friedrich in 1821 and found in him a kindred spirit.",
    "section": "Life"
   },
-  "f32": {
-   "kind": "date",
-   "value": "1788",
-   "surface": "1788",
-   "sentence": "He was also a friend of Georg Friedrich Kersting, and painted him at work in his unadorned studio, and of the Norwegian painter Johan Christian Clausen Dahl (1788–1857).",
-   "section": "Life"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "1857",
-   "surface": "1857",
-   "sentence": "He was also a friend of Georg Friedrich Kersting, and painted him at work in his unadorned studio, and of the Norwegian painter Johan Christian Clausen Dahl (1788–1857).",
-   "section": "Life"
-  },
-  "f34": {
+  "f27": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "By 1820, he was living as a recluse and was described by friends as the \"most solitary of the solitary\".",
    "section": "Later life"
   },
-  "f35": {
+  "f28": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "He suffered his first stroke in June 1835, which left him with minor limb paralysis and greatly reduced his ability to paint.",
    "section": "Later life"
   },
-  "f36": {
-   "kind": "date",
-   "value": "1835",
-   "surface": "1835",
-   "sentence": "Yet he was able to produce a final 'black painting', Seashore by Moonlight (1835–1836), described by Vaughan as the \"darkest of all his shorelines, in which richness of tonality compensates for the lack of his former finesse\".",
-   "section": "Later life"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1836",
-   "surface": "1836",
-   "sentence": "Yet he was able to produce a final 'black painting', Seashore by Moonlight (1835–1836), described by Vaughan as the \"darkest of all his shorelines, in which richness of tonality compensates for the lack of his former finesse\".",
-   "section": "Later life"
-  },
-  "f38": {
+  "f29": {
    "kind": "date",
    "value": "1819",
    "surface": "1819",
    "sentence": "He is no longer the upright, supportive figure that appeared in Two Men Contemplating the Moon in 1819.",
    "section": "Later life"
   },
-  "f39": {
+  "f30": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "By 1838, he was capable of working in a small format only.",
    "section": "Later life"
   },
-  "f40": {
+  "f31": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Friedrich died in Dresden on 7 May 1840 and was buried in Dresden's Trinitatis-Friedhof (Trinity Cemetery) east of the city centre (the entrance to which he had painted with his Cemetery Entrance in 1825).",
+   "sentence": "Friedrich died in Dresden on 7 May 1840 and was buried in Dresden's Trinitatis-Friedhof east of the city centre.",
    "section": "Later life"
   },
-  "f41": {
+  "f32": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
-   "sentence": "Friedrich died in Dresden on 7 May 1840 and was buried in Dresden's Trinitatis-Friedhof (Trinity Cemetery) east of the city centre (the entrance to which he had painted with his Cemetery Entrance in 1825).",
+   "sentence": "Friedrich died in Dresden on 7 May 1840 and was buried in Dresden's Trinitatis-Friedhof east of the city centre.",
    "section": "Later life"
   },
-  "f42": {
-   "kind": "date",
-   "value": "1825",
-   "surface": "1825",
-   "sentence": "Friedrich died in Dresden on 7 May 1840 and was buried in Dresden's Trinitatis-Friedhof (Trinity Cemetery) east of the city centre (the entrance to which he had painted with his Cemetery Entrance in 1825).",
-   "section": "Later life"
-  },
-  "f43": {
+  "f33": {
    "kind": "date",
    "value": "1847",
    "surface": "1847",
    "sentence": "His wife Caroline died in poverty in 1847.",
    "section": "Later life"
   },
-  "f44": {
-   "kind": "date",
-   "value": "1808",
-   "surface": "1808",
-   "sentence": "Though death finds symbolic expression in boats moving away from a shore, it is referenced more directly in paintings like The Abbey in the Oakwood (1808–1810), in which monks carry a coffin past an open grave, toward a cross, and through the portal of a church in ruins.",
-   "section": "Themes"
-  },
-  "f45": {
-   "kind": "date",
-   "value": "1810",
-   "surface": "1810",
-   "sentence": "Though death finds symbolic expression in boats moving away from a shore, it is referenced more directly in paintings like The Abbey in the Oakwood (1808–1810), in which monks carry a coffin past an open grave, toward a cross, and through the portal of a church in ruins.",
-   "section": "Themes"
-  },
-  "f46": {
-   "kind": "date",
-   "value": "1822",
-   "surface": "1822",
-   "sentence": "Bare oak trees and tree stumps, such as those in Raven Tree (c. 1822), Man and Woman Contemplating the Moon (c. 1824), and Willow Bush under a Setting Sun (c. 1835), are recurring elements of his paintings, and usually symbolise death.",
-   "section": "Themes"
-  },
-  "f47": {
-   "kind": "date",
-   "value": "1824",
-   "surface": "1824",
-   "sentence": "Bare oak trees and tree stumps, such as those in Raven Tree (c. 1822), Man and Woman Contemplating the Moon (c. 1824), and Willow Bush under a Setting Sun (c. 1835), are recurring elements of his paintings, and usually symbolise death.",
-   "section": "Themes"
-  },
-  "f48": {
-   "kind": "date",
-   "value": "1835",
-   "surface": "1835",
-   "sentence": "Bare oak trees and tree stumps, such as those in Raven Tree (c. 1822), Man and Woman Contemplating the Moon (c. 1824), and Willow Bush under a Setting Sun (c. 1835), are recurring elements of his paintings, and usually symbolise death.",
-   "section": "Themes"
-  },
-  "f49": {
-   "kind": "date",
-   "value": "1823",
-   "surface": "1823",
-   "sentence": "The Wreck of the Hope—also known as The Polar Sea or The Sea of Ice (1823–1824)—perhaps best summarises Friedrich's ideas and aims at this point, though in such a radical way that the painting was not well received.",
-   "section": "Themes"
-  },
-  "f50": {
-   "kind": "date",
-   "value": "1824",
-   "surface": "1824",
-   "sentence": "The Wreck of the Hope—also known as The Polar Sea or The Sea of Ice (1823–1824)—perhaps best summarises Friedrich's ideas and aims at this point, though in such a radical way that the painting was not well received.",
-   "section": "Themes"
-  },
-  "f51": {
+  "f34": {
    "kind": "date",
    "value": "1824",
    "surface": "1824",
    "sentence": "Completed in 1824, it depicted a grim subject, a shipwreck in the Arctic Ocean; \"the image he produced, with its grinding slabs of travertine-colored floe ice chewing up a wooden ship, goes beyond documentary into allegory: the frail bark of human aspiration crushed by the world's immense and glacial indifference.\"",
    "section": "Themes"
   },
-  "f52": {
+  "f35": {
    "kind": "date",
    "value": "1830",
    "surface": "1830",
    "sentence": "Friedrich's written commentary on aesthetics was limited to a collection of aphorisms set down in 1830, in which he explained the need for the artist to match natural observation with an introspective scrutiny of his own personality.",
    "section": "Themes"
   },
-  "f53": {
+  "f36": {
    "kind": "date",
    "value": "1799",
    "surface": "1799",
    "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
    "section": "Themes"
   },
-  "f54": {
+  "f37": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
    "section": "Themes"
   },
-  "f55": {
-   "kind": "date",
-   "value": "1805",
-   "surface": "1805",
-   "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
-   "section": "Themes"
-  },
-  "f56": {
+  "f38": {
    "kind": "date",
    "value": "1813",
    "surface": "1813",
    "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
    "section": "Themes"
   },
-  "f57": {
+  "f39": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
    "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
    "section": "Themes"
   },
-  "f58": {
+  "f40": {
    "kind": "date",
    "value": "1824",
    "surface": "1824",
    "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
    "section": "Themes"
   },
-  "f59": {
+  "f41": {
    "kind": "date",
    "value": "1826",
    "surface": "1826",
    "sentence": "Friedrich suffered depressive episodes in 1799, 1803–1805, c. 1813, in 1816 and between 1824 and 1826.",
    "section": "Themes"
   },
-  "f60": {
+  "f42": {
    "kind": "date",
    "value": "1826",
    "surface": "1826",
    "sentence": "From 1826, these motifs became a permanent feature of his output, while his use of colour became darker and muted.",
    "section": "Themes"
   },
-  "f61": {
+  "f43": {
    "kind": "date",
    "value": "1829",
    "surface": "1829",
    "sentence": "Carus wrote in 1829 that Friedrich \"is surrounded by a thick, gloomy cloud of spiritual uncertainty\", though the noted art historian and curator Hubertus Gassner disagrees with such notions, seeing in Friedrich's work a positive and life-affirming subtext inspired by Freemasonry and religion.",
    "section": "Themes"
   },
-  "f62": {
+  "f44": {
    "kind": "date",
    "value": "1813",
    "surface": "1813",
    "sentence": "Reflecting Friedrich's patriotism and resentment of the 1813 French occupation of Pomerania, motifs from German folklore became increasingly prominent in his work.",
    "section": "Themes"
   },
-  "f63": {
+  "f45": {
    "kind": "date",
    "value": "1808",
    "surface": "1808",
    "sentence": "Moved by the deaths of three friends killed in battle against France, as well as by Kleist's 1808 drama Die Hermannsschlacht, Friedrich undertook a number of paintings in which he intended to convey political symbols solely by means of the landscape—a first in the history of art.",
-   "section": "Themes"
-  },
-  "f64": {
-   "kind": "date",
-   "value": "1812",
-   "surface": "1812",
-   "sentence": "In Old Heroes' Graves (1812), a dilapidated monument inscribed \"Arminius\" invokes the Germanic chieftain, a symbol of nationalism, while the four tombs of fallen heroes are slightly ajar, freeing their spirits for eternity.",
-   "section": "Themes"
-  },
-  "f65": {
-   "kind": "date",
-   "value": "1813",
-   "surface": "1813",
-   "sentence": "A second political painting, Fir Forest with the French Dragoon and the Raven (c. 1813), depicts a lost French soldier dwarfed by a dense forest, while on a tree stump a raven is perched—a prophet of doom, symbolizing the anticipated defeat of France.",
    "section": "Themes"
   }
  },

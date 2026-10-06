@@ -139,7 +139,7 @@
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "A 2020 mitochondrial DNA (mDNA) (mother-inherited) study concluded that Mediterranean sharks show closer affinity with Australia/New Zealand and Northeastern Pacific sharks than with sharks from South Africa and the Northwestern Atlantic.",
+   "sentence": "A 2020 mitochondrial DNA study concluded that Mediterranean sharks show closer affinity with Australia/New Zealand and Northeastern Pacific sharks than with sharks from South Africa and the Northwestern Atlantic.",
    "section": "Taxonomy and evolution"
   },
   "f13": {
@@ -205,7 +205,7 @@
    "kind": "number",
    "value": 4.6,
    "surface": "4.6",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "sentence": "Female white sharks are mature at 4.6–4.9 m while males are mature at 3.4–4.0 m.",
    "section": "Appearance and anatomy"
   },
   "f22": {
@@ -213,391 +213,206 @@
    "value": 4.9,
    "unit": "m",
    "surface": "4.9 m",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "sentence": "Female white sharks are mature at 4.6–4.9 m while males are mature at 3.4–4.0 m.",
    "section": "Appearance and anatomy"
   },
   "f23": {
    "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "value": 3.4,
+   "surface": "3.4",
+   "sentence": "Female white sharks are mature at 4.6–4.9 m while males are mature at 3.4–4.0 m.",
    "section": "Appearance and anatomy"
   },
   "f24": {
    "kind": "measure",
-   "value": 16,
-   "unit": "ft",
-   "surface": "16 ft",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "value": 4,
+   "unit": "m",
+   "surface": "4.0 m",
+   "sentence": "Female white sharks are mature at 4.6–4.9 m while males are mature at 3.4–4.0 m.",
    "section": "Appearance and anatomy"
   },
   "f25": {
    "kind": "number",
-   "value": 3.4,
-   "surface": "3.4",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "value": 1000,
+   "surface": "1,000",
+   "sentence": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg.",
    "section": "Appearance and anatomy"
   },
   "f26": {
    "kind": "measure",
-   "value": 4,
-   "unit": "m",
-   "surface": "4.0 m",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "value": 1900,
+   "unit": "kg",
+   "surface": "1,900 kg",
+   "sentence": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg.",
    "section": "Appearance and anatomy"
   },
   "f27": {
-   "kind": "number",
-   "value": 11,
-   "surface": "11",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "kind": "date",
+   "value": "680",
+   "surface": "680",
+   "sentence": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg.",
    "section": "Appearance and anatomy"
   },
   "f28": {
    "kind": "measure",
-   "value": 13,
-   "unit": "ft",
-   "surface": "13 ft",
-   "sentence": "Female white sharks are mature at 4.6–4.9 m (15–16 ft) while males are mature at 3.4–4.0 m (11–13 ft).",
+   "value": 11,
+   "unit": "m",
+   "surface": "11 m",
+   "sentence": "Its reputation has led to exaggerated and discredited claims of specimens reaching over 11 m during the 19th and 20th centuries.",
    "section": "Appearance and anatomy"
   },
   "f29": {
-   "kind": "number",
-   "value": 1000,
-   "surface": "1,000",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
+   "kind": "date",
+   "value": "2014",
+   "surface": "2014",
+   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m and the heaviest to be 2,530 kg.",
    "section": "Appearance and anatomy"
   },
   "f30": {
    "kind": "measure",
-   "value": 1900,
-   "unit": "kg",
-   "surface": "1,900 kg",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f31": {
-   "kind": "number",
-   "value": 2200,
-   "surface": "2,200",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f32": {
-   "kind": "number",
-   "value": 4200,
-   "surface": "4,200",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "680",
-   "surface": "680",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f34": {
-   "kind": "measure",
-   "value": 1000,
-   "unit": "kg",
-   "surface": "1,000 kg",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f35": {
-   "kind": "number",
-   "value": 1500,
-   "surface": "1,500",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f36": {
-   "kind": "number",
-   "value": 2200,
-   "surface": "2,200",
-   "sentence": "Females weigh 1,000–1,900 kg (2,200–4,200 lb) while males weigh 680–1,000 kg (1,500–2,200 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f37": {
-   "kind": "measure",
-   "value": 11,
-   "unit": "m",
-   "surface": "11 m",
-   "sentence": "Its reputation has led to exaggerated and discredited claims of specimens reaching over 11 m (36 ft) during the 19th and 20th centuries.",
-   "section": "Appearance and anatomy"
-  },
-  "f38": {
-   "kind": "measure",
-   "value": 36,
-   "unit": "ft",
-   "surface": "36 ft",
-   "sentence": "Its reputation has led to exaggerated and discredited claims of specimens reaching over 11 m (36 ft) during the 19th and 20th centuries.",
-   "section": "Appearance and anatomy"
-  },
-  "f39": {
-   "kind": "date",
-   "value": "2014",
-   "surface": "2014",
-   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m (19.8 ft) and the heaviest to be 2,530 kg (5,580 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f40": {
-   "kind": "measure",
    "value": 6.02,
    "unit": "m",
    "surface": "6.02 m",
-   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m (19.8 ft) and the heaviest to be 2,530 kg (5,580 lb).",
+   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m and the heaviest to be 2,530 kg.",
    "section": "Appearance and anatomy"
   },
-  "f41": {
-   "kind": "measure",
-   "value": 19.8,
-   "unit": "ft",
-   "surface": "19.8 ft",
-   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m (19.8 ft) and the heaviest to be 2,530 kg (5,580 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f42": {
+  "f31": {
    "kind": "measure",
    "value": 2530,
    "unit": "kg",
    "surface": "2,530 kg",
-   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m (19.8 ft) and the heaviest to be 2,530 kg (5,580 lb).",
+   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m and the heaviest to be 2,530 kg.",
    "section": "Appearance and anatomy"
   },
-  "f43": {
-   "kind": "number",
-   "value": 5580,
-   "surface": "5,580",
-   "sentence": "A 2014 study of catch records in the northwest Pacific found the longest reliably measured shark to be 6.02 m (19.8 ft) and the heaviest to be 2,530 kg (5,580 lb).",
-   "section": "Appearance and anatomy"
-  },
-  "f44": {
+  "f32": {
    "kind": "measure",
    "value": 5.94,
    "unit": "m",
    "surface": "5.94 m",
-   "sentence": "Prior to this, shark expert John Ernest Randall wrote that the largest white shark reliably measured was a 5.94 m (19.5 ft) specimen reported from Ledge Point, Western Australia, in 1984.",
+   "sentence": "Prior to this, shark expert John Ernest Randall wrote that the largest white shark reliably measured was a 5.94 m specimen reported from Ledge Point, Western Australia, in 1984.",
    "section": "Appearance and anatomy"
   },
-  "f45": {
-   "kind": "measure",
-   "value": 19.5,
-   "unit": "ft",
-   "surface": "19.5 ft",
-   "sentence": "Prior to this, shark expert John Ernest Randall wrote that the largest white shark reliably measured was a 5.94 m (19.5 ft) specimen reported from Ledge Point, Western Australia, in 1984.",
-   "section": "Appearance and anatomy"
-  },
-  "f46": {
+  "f33": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
-   "sentence": "Prior to this, shark expert John Ernest Randall wrote that the largest white shark reliably measured was a 5.94 m (19.5 ft) specimen reported from Ledge Point, Western Australia, in 1984.",
+   "sentence": "Prior to this, shark expert John Ernest Randall wrote that the largest white shark reliably measured was a 5.94 m specimen reported from Ledge Point, Western Australia, in 1984.",
    "section": "Appearance and anatomy"
   },
-  "f47": {
+  "f34": {
    "kind": "measure",
    "value": 6,
    "unit": "m",
    "surface": "6 m",
-   "sentence": "Randall argued that the species can likely grow larger than 6 m (20 ft) in length.",
+   "sentence": "Randall argued that the species can likely grow larger than 6 m in length.",
    "section": "Appearance and anatomy"
   },
-  "f48": {
-   "kind": "measure",
-   "value": 20,
-   "unit": "ft",
-   "surface": "20 ft",
-   "sentence": "Randall argued that the species can likely grow larger than 6 m (20 ft) in length.",
-   "section": "Appearance and anatomy"
-  },
-  "f49": {
+  "f35": {
    "kind": "date",
    "value": "1956",
    "surface": "1956",
-   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m (19.1 ft) long (with upper tail lobe stretched along midline) and had an estimated weight of 2,000 kg (4,410 lb), making it the largest preserved specimen.",
+   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m long and had an estimated weight of 2,000 kg, making it the largest preserved specimen.",
    "section": "Appearance and anatomy"
   },
-  "f50": {
+  "f36": {
    "kind": "measure",
    "value": 5.83,
    "unit": "m",
    "surface": "5.83 m",
-   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m (19.1 ft) long (with upper tail lobe stretched along midline) and had an estimated weight of 2,000 kg (4,410 lb), making it the largest preserved specimen.",
+   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m long and had an estimated weight of 2,000 kg, making it the largest preserved specimen.",
    "section": "Appearance and anatomy"
   },
-  "f51": {
-   "kind": "measure",
-   "value": 19.1,
-   "unit": "ft",
-   "surface": "19.1 ft",
-   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m (19.1 ft) long (with upper tail lobe stretched along midline) and had an estimated weight of 2,000 kg (4,410 lb), making it the largest preserved specimen.",
-   "section": "Appearance and anatomy"
-  },
-  "f52": {
+  "f37": {
    "kind": "measure",
    "value": 2000,
    "unit": "kg",
    "surface": "2,000 kg",
-   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m (19.1 ft) long (with upper tail lobe stretched along midline) and had an estimated weight of 2,000 kg (4,410 lb), making it the largest preserved specimen.",
+   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m long and had an estimated weight of 2,000 kg, making it the largest preserved specimen.",
    "section": "Appearance and anatomy"
   },
-  "f53": {
-   "kind": "number",
-   "value": 4410,
-   "surface": "4,410",
-   "sentence": "A female specimen caught in the Mediterranean in 1956 and displayed in Lausanne, Switzerland measured 5.83 m (19.1 ft) long (with upper tail lobe stretched along midline) and had an estimated weight of 2,000 kg (4,410 lb), making it the largest preserved specimen.",
-   "section": "Appearance and anatomy"
-  },
-  "f54": {
+  "f38": {
    "kind": "measure",
    "value": 7.5,
    "unit": "cm",
    "surface": "7.5 cm",
-   "sentence": "The triangular teeth can reach 7.5 cm (3.0 in).",
+   "sentence": "The triangular teeth can reach 7.5 cm.",
    "section": "Appearance and anatomy"
   },
-  "f55": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3.0",
-   "sentence": "The triangular teeth can reach 7.5 cm (3.0 in).",
-   "section": "Appearance and anatomy"
-  },
-  "f56": {
+  "f39": {
    "kind": "number",
    "value": 300,
    "surface": "300",
    "sentence": "A total of around 300 teeth are arranged in rows like a conveyor belt, with teeth at the back moving to replace those at the front.",
    "section": "Appearance and anatomy"
   },
-  "f57": {
+  "f40": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
+   "sentence": "A 2008 study using a computer scan of a 2.5 m long and 240 kg juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons in the front and 3,131 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f58": {
+  "f41": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
    "surface": "2.5 m",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
+   "sentence": "A 2008 study using a computer scan of a 2.5 m long and 240 kg juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons in the front and 3,131 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f59": {
-   "kind": "measure",
-   "value": 8.2,
-   "unit": "ft",
-   "surface": "8.2 ft",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f60": {
+  "f42": {
    "kind": "measure",
    "value": 240,
    "unit": "kg",
    "surface": "240 kg",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
+   "sentence": "A 2008 study using a computer scan of a 2.5 m long and 240 kg juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons in the front and 3,131 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f61": {
-   "kind": "date",
-   "value": "530",
-   "surface": "530",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f62": {
+  "f43": {
    "kind": "number",
    "value": 1602,
    "surface": "1,602",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
+   "sentence": "A 2008 study using a computer scan of a 2.5 m long and 240 kg juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons in the front and 3,131 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f63": {
-   "kind": "number",
-   "value": 360,
-   "surface": "360",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f64": {
+  "f44": {
    "kind": "number",
    "value": 3131,
    "surface": "3,131",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
+   "sentence": "A 2008 study using a computer scan of a 2.5 m long and 240 kg juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons in the front and 3,131 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f65": {
-   "kind": "date",
-   "value": "704",
-   "surface": "704",
-   "sentence": "A 2008 study using a computer scan of a 2.5 m (8.2 ft) long and 240 kg (530 lb) juvenile white shark determined that the specimen could exert a bite force of 1,602 newtons (360 lbf) in the front and 3,131 newtons (704 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f66": {
+  "f45": {
    "kind": "measure",
    "value": 6.4,
    "unit": "m",
    "surface": "6.4 m",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
+   "sentence": "From this, the researchers calculated that a specimen 6.4 m long and weighing 3,324 kg could exert a bite force of 9,320 newtons in the front and 18,216 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 21,
-   "unit": "ft",
-   "surface": "21 ft",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f68": {
+  "f46": {
    "kind": "measure",
    "value": 3324,
    "unit": "kg",
    "surface": "3,324 kg",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
+   "sentence": "From this, the researchers calculated that a specimen 6.4 m long and weighing 3,324 kg could exert a bite force of 9,320 newtons in the front and 18,216 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f69": {
-   "kind": "number",
-   "value": 7328,
-   "surface": "7,328",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f70": {
+  "f47": {
    "kind": "number",
    "value": 9320,
    "surface": "9,320",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
+   "sentence": "From this, the researchers calculated that a specimen 6.4 m long and weighing 3,324 kg could exert a bite force of 9,320 newtons in the front and 18,216 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f71": {
-   "kind": "number",
-   "value": 2100,
-   "surface": "2,100",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f72": {
+  "f48": {
    "kind": "number",
    "value": 18216,
    "surface": "18,216",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
+   "sentence": "From this, the researchers calculated that a specimen 6.4 m long and weighing 3,324 kg could exert a bite force of 9,320 newtons in the front and 18,216 newtons in the back.",
    "section": "Appearance and anatomy"
   },
-  "f73": {
-   "kind": "number",
-   "value": 4095,
-   "surface": "4,095",
-   "sentence": "From this, the researchers calculated that a specimen 6.4 m (21 ft) long and weighing 3,324 kg (7,328 lb) could exert a bite force of 9,320 newtons (2,100 lbf) in the front and 18,216 newtons (4,095 lbf) in the back.",
-   "section": "Appearance and anatomy"
-  },
-  "f74": {
+  "f49": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
@@ -605,7 +420,7 @@
    "sentence": "Over 95% of the shark's musculature is white, fast-twitch muscles, which allows it to move in quick sprints, particularly when ambushing prey.",
    "section": "Appearance and anatomy"
   },
-  "f75": {
+  "f50": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -613,560 +428,356 @@
    "sentence": "The white shark has a large, double-lobed liver that can be almost 30% of its body weight and stores lipids, fatty acids, and oils.",
    "section": "Appearance and anatomy"
   },
-  "f76": {
+  "f51": {
    "kind": "number",
    "value": 24.7,
    "surface": "24.7",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
+   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C in waters 12.9–16.1 °C.",
    "section": "Appearance and anatomy"
   },
-  "f77": {
+  "f52": {
    "kind": "measure",
    "value": 26.8,
    "unit": "°c",
    "surface": "26.8 °C",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
+   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C in waters 12.9–16.1 °C.",
    "section": "Appearance and anatomy"
   },
-  "f78": {
-   "kind": "number",
-   "value": 76,
-   "surface": "76",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
-   "section": "Appearance and anatomy"
-  },
-  "f79": {
-   "kind": "measure",
-   "value": 80,
-   "unit": "°f",
-   "surface": "80 °F",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
-   "section": "Appearance and anatomy"
-  },
-  "f80": {
+  "f53": {
    "kind": "number",
    "value": 12.9,
    "surface": "12.9",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
+   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C in waters 12.9–16.1 °C.",
    "section": "Appearance and anatomy"
   },
-  "f81": {
+  "f54": {
    "kind": "measure",
    "value": 16.1,
    "unit": "°c",
    "surface": "16.1 °C",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
+   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C in waters 12.9–16.1 °C.",
    "section": "Appearance and anatomy"
   },
-  "f82": {
-   "kind": "number",
-   "value": 55,
-   "surface": "55",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
-   "section": "Appearance and anatomy"
-  },
-  "f83": {
-   "kind": "measure",
-   "value": 61,
-   "unit": "°f",
-   "surface": "61 °F",
-   "sentence": "One study found that stomach temperatures ranged from 24.7–26.8 °C (76–80 °F) in waters 12.9–16.1 °C (55–61 °F).",
-   "section": "Appearance and anatomy"
-  },
-  "f84": {
+  "f55": {
    "kind": "measure",
    "value": 1300,
    "unit": "m",
    "surface": "1,300 m",
-   "sentence": "They are typically close to the surface but may dive to depths of up to 1,300 m (4,300 ft).",
+   "sentence": "They are typically close to the surface but may dive to depths of up to 1,300 m.",
    "section": "Distribution and habitat"
   },
-  "f85": {
-   "kind": "measure",
-   "value": 4300,
-   "unit": "ft",
-   "surface": "4,300 ft",
-   "sentence": "They are typically close to the surface but may dive to depths of up to 1,300 m (4,300 ft).",
-   "section": "Distribution and habitat"
-  },
-  "f86": {
+  "f56": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "A 2018 study indicated that white sharks will congregate in patches of warm water in the open ocean.",
    "section": "Distribution and habitat"
   },
-  "f87": {
+  "f57": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Juvenile white sharks are more limited to shallow coastal waters with temperatures between 14 and 24 °C (57 and 75 °F).",
+   "sentence": "Juvenile white sharks are more limited to shallow coastal waters with temperatures between 14 and 24 °C.",
    "section": "Distribution and habitat"
   },
-  "f88": {
+  "f58": {
    "kind": "measure",
    "value": 24,
    "unit": "°c",
    "surface": "24 °C",
-   "sentence": "Juvenile white sharks are more limited to shallow coastal waters with temperatures between 14 and 24 °C (57 and 75 °F).",
+   "sentence": "Juvenile white sharks are more limited to shallow coastal waters with temperatures between 14 and 24 °C.",
    "section": "Distribution and habitat"
   },
-  "f89": {
-   "kind": "number",
-   "value": 57,
-   "surface": "57",
-   "sentence": "Juvenile white sharks are more limited to shallow coastal waters with temperatures between 14 and 24 °C (57 and 75 °F).",
-   "section": "Distribution and habitat"
-  },
-  "f90": {
-   "kind": "measure",
-   "value": 75,
-   "unit": "°f",
-   "surface": "75 °F",
-   "sentence": "Juvenile white sharks are more limited to shallow coastal waters with temperatures between 14 and 24 °C (57 and 75 °F).",
-   "section": "Distribution and habitat"
-  },
-  "f91": {
+  "f59": {
    "kind": "measure",
    "value": 20000,
    "unit": "km",
    "surface": "20,000 km",
-   "sentence": "Another white shark from South Africa was tracked swimming to Australia's northwestern coast and back, a journey of 20,000 km (12,000 mi; 11,000 nmi) in under nine months.",
+   "sentence": "Another white shark from South Africa was tracked swimming to Australia's northwestern coast and back, a journey of 20,000 km in under nine months.",
    "section": "Distribution and habitat"
   },
-  "f92": {
-   "kind": "measure",
-   "value": 12000,
-   "unit": "mi",
-   "surface": "12,000 mi",
-   "sentence": "Another white shark from South Africa was tracked swimming to Australia's northwestern coast and back, a journey of 20,000 km (12,000 mi; 11,000 nmi) in under nine months.",
-   "section": "Distribution and habitat"
-  },
-  "f93": {
-   "kind": "number",
-   "value": 11000,
-   "surface": "11,000",
-   "sentence": "Another white shark from South Africa was tracked swimming to Australia's northwestern coast and back, a journey of 20,000 km (12,000 mi; 11,000 nmi) in under nine months.",
-   "section": "Distribution and habitat"
-  },
-  "f94": {
+  "f60": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "In May 2024, a satellite tag was recovered from an Indonesian fisherman, which was determined to have come from a subadult female white shark tagged off the South African coast in May 2012, which swam to and was killed off the Indonesian coast in November 2016.",
    "section": "Distribution and habitat"
   },
-  "f95": {
+  "f61": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "In May 2024, a satellite tag was recovered from an Indonesian fisherman, which was determined to have come from a subadult female white shark tagged off the South African coast in May 2012, which swam to and was killed off the Indonesian coast in November 2016.",
    "section": "Distribution and habitat"
   },
-  "f96": {
+  "f62": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "In May 2024, a satellite tag was recovered from an Indonesian fisherman, which was determined to have come from a subadult female white shark tagged off the South African coast in May 2012, which swam to and was killed off the Indonesian coast in November 2016.",
    "section": "Distribution and habitat"
   },
-  "f97": {
+  "f63": {
    "kind": "number",
    "value": 2.88,
    "surface": "2.88",
-   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h (1.79–3.02 mph) but can sprint up to 24.12 km/h (14.99 mph).",
+   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h but can sprint up to 24.12 km/h.",
    "section": "Behavior and ecology"
   },
-  "f98": {
+  "f64": {
    "kind": "measure",
    "value": 4.86,
    "unit": "km/h",
    "surface": "4.86 km/h",
-   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h (1.79–3.02 mph) but can sprint up to 24.12 km/h (14.99 mph).",
+   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h but can sprint up to 24.12 km/h.",
    "section": "Behavior and ecology"
   },
-  "f99": {
-   "kind": "number",
-   "value": 1.79,
-   "surface": "1.79",
-   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h (1.79–3.02 mph) but can sprint up to 24.12 km/h (14.99 mph).",
-   "section": "Behavior and ecology"
-  },
-  "f100": {
-   "kind": "number",
-   "value": 3.02,
-   "surface": "3.02",
-   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h (1.79–3.02 mph) but can sprint up to 24.12 km/h (14.99 mph).",
-   "section": "Behavior and ecology"
-  },
-  "f101": {
+  "f65": {
    "kind": "measure",
    "value": 24.12,
    "unit": "km/h",
    "surface": "24.12 km/h",
-   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h (1.79–3.02 mph) but can sprint up to 24.12 km/h (14.99 mph).",
+   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h but can sprint up to 24.12 km/h.",
    "section": "Behavior and ecology"
   },
-  "f102": {
-   "kind": "number",
-   "value": 14.99,
-   "surface": "14.99",
-   "sentence": "White sharks are estimated to swim 2.88–4.86 km/h (1.79–3.02 mph) but can sprint up to 24.12 km/h (14.99 mph).",
-   "section": "Behavior and ecology"
-  },
-  "f103": {
+  "f66": {
    "kind": "measure",
    "value": 4.7,
    "unit": "km/h",
    "surface": "4.7 km/h",
-   "sentence": "One individual was recorded cruising at a sustained speed of 4.7 km/h (2.9 mph) while migrating, which is fast for a shark and more similar to fast-swimming tuna.",
+   "sentence": "One individual was recorded cruising at a sustained speed of 4.7 km/h while migrating, which is fast for a shark and more similar to fast-swimming tuna.",
    "section": "Behavior and ecology"
   },
-  "f104": {
-   "kind": "number",
-   "value": 2.9,
-   "surface": "2.9",
-   "sentence": "One individual was recorded cruising at a sustained speed of 4.7 km/h (2.9 mph) while migrating, which is fast for a shark and more similar to fast-swimming tuna.",
-   "section": "Behavior and ecology"
-  },
-  "f105": {
+  "f67": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "A 2016 study of sharks around Mossel Bay, South Africa, concluded that white shark associations are generally random with few social interactions.",
    "section": "Behavior and ecology"
   },
-  "f106": {
+  "f68": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "By contrast, a 2019 study found that sharks around Neptune Islands gathered in non-random aggregations.",
    "section": "Behavior and ecology"
   },
-  "f107": {
+  "f69": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Similarly, a 2022 study of white sharks at Guadalupe Island suggested that individuals may associate so that they can learn from others where to find prey or carcasses to scavenge.",
    "section": "Behavior and ecology"
   },
-  "f108": {
+  "f70": {
    "kind": "measure",
    "value": 3,
    "unit": "m",
    "surface": "3 m",
-   "sentence": "Diet differs based on size and age; individuals over 3 m (10 ft) can feed on marine mammals, while juveniles are limited to smaller prey like fish and cephalopods.",
+   "sentence": "Diet differs based on size and age; individuals over 3 m can feed on marine mammals, while juveniles are limited to smaller prey like fish and cephalopods.",
    "section": "Behavior and ecology"
   },
-  "f109": {
-   "kind": "measure",
-   "value": 10,
-   "unit": "ft",
-   "surface": "10 ft",
-   "sentence": "Diet differs based on size and age; individuals over 3 m (10 ft) can feed on marine mammals, while juveniles are limited to smaller prey like fish and cephalopods.",
-   "section": "Behavior and ecology"
-  },
-  "f110": {
+  "f71": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "In 1984, Timothy Tricas and John McCosker suggested that white sharks bite seals, release them, and then wait for them to bleed to death before eating based on observations at Dangerous Reef, South Australia.",
    "section": "Behavior and ecology"
   },
-  "f111": {
+  "f72": {
    "kind": "measure",
    "value": 20,
    "unit": "m",
    "surface": "20 m",
-   "sentence": "To breach, a shark starts at around 20 m (66 ft) below the surface and ascends quickly towards its target while tilting its body vertically.",
+   "sentence": "To breach, a shark starts at around 20 m below the surface and ascends quickly towards its target while tilting its body vertically.",
    "section": "Behavior and ecology"
   },
-  "f112": {
-   "kind": "measure",
-   "value": 66,
-   "unit": "ft",
-   "surface": "66 ft",
-   "sentence": "To breach, a shark starts at around 20 m (66 ft) below the surface and ascends quickly towards its target while tilting its body vertically.",
-   "section": "Behavior and ecology"
-  },
-  "f113": {
+  "f73": {
    "kind": "measure",
    "value": 3,
    "unit": "m",
    "surface": "3 m",
-   "sentence": "Sharks may breach partially or entirely out of the water at different angles, clearing up to around 3 m (10 ft) when airborne.",
+   "sentence": "Sharks may breach partially or entirely out of the water at different angles, clearing up to around 3 m when airborne.",
    "section": "Behavior and ecology"
   },
-  "f114": {
-   "kind": "measure",
-   "value": 10,
-   "unit": "ft",
-   "surface": "10 ft",
-   "sentence": "Sharks may breach partially or entirely out of the water at different angles, clearing up to around 3 m (10 ft) when airborne.",
-   "section": "Behavior and ecology"
-  },
-  "f115": {
+  "f74": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "One 2023 study found that juvenile and subadult white sharks off the east coast of Australia fed primarily on ray-finned fishes, particularly flathead grey mullets, Japanese scads, and various species of porgies, mackerels, and tuna.",
    "section": "Behavior and ecology"
   },
-  "f116": {
+  "f75": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
    "surface": "2.5 m",
-   "sentence": "Off South Africa, white sharks under 2.5 m (8.2 ft) were found with remains of coastal and bottom-dwelling species like certain octopus species, as well as species of the genera Sepia and Loligo, while larger sharks seem to prefer more open-ocean species like those of the genera Ancistrocheirus, Octopoteuthis, Lycoteuthis, Ornithoteuthis, Chiroteuthis, and Argonauta.",
+   "sentence": "Off South Africa, white sharks under 2.5 m were found with remains of coastal and bottom-dwelling species like certain octopus species, as well as species of the genera Sepia and Loligo, while larger sharks seem to prefer more open-ocean species like those of the genera Ancistrocheirus, Octopoteuthis, Lycoteuthis, Ornithoteuthis, Chiroteuthis, and Argonauta.",
    "section": "Behavior and ecology"
   },
-  "f117": {
-   "kind": "measure",
-   "value": 8.2,
-   "unit": "ft",
-   "surface": "8.2 ft",
-   "sentence": "Off South Africa, white sharks under 2.5 m (8.2 ft) were found with remains of coastal and bottom-dwelling species like certain octopus species, as well as species of the genera Sepia and Loligo, while larger sharks seem to prefer more open-ocean species like those of the genera Ancistrocheirus, Octopoteuthis, Lycoteuthis, Ornithoteuthis, Chiroteuthis, and Argonauta.",
-   "section": "Behavior and ecology"
-  },
-  "f118": {
+  "f76": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "At least 20 unique forms of body language are known, most of which consist of two sharks swimming in passing, parallel, or circular patterns to ritualistically examine one another.",
    "section": "Behavior and ecology"
   },
-  "f119": {
+  "f77": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Observations by Sperone and colleagues in 2010 found display behaviors to be more common between individuals of similar size where differences are not immediately obvious.",
    "section": "Behavior and ecology"
   },
-  "f120": {
+  "f78": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "There are two anecdotal accounts of the species possibly mating, one in 1991 and another in 1997, both off New Zealand.",
    "section": "Behavior and ecology"
   },
-  "f121": {
+  "f79": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "There are two anecdotal accounts of the species possibly mating, one in 1991 and another in 1997, both off New Zealand.",
    "section": "Behavior and ecology"
   },
-  "f122": {
+  "f80": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "In 2013, it was proposed that whale carcasses are an important location for sexually mature sharks to meet for mating, especially with the frenzied excitement.",
    "section": "Behavior and ecology"
   },
-  "f123": {
+  "f81": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "After around 12 months, the female gives live birth to two to ten pups.",
    "section": "Behavior and ecology"
   },
-  "f124": {
+  "f82": {
    "kind": "number",
    "value": 15.7,
    "surface": "15.7",
-   "sentence": "White sharks generally give birth during spring and summer in shallow waters surrounding islands with temperatures between 15.7 and 23.1 °C (60 and 74 °F).",
+   "sentence": "White sharks generally give birth during spring and summer in shallow waters surrounding islands with temperatures between 15.7 and 23.1 °C.",
    "section": "Behavior and ecology"
   },
-  "f125": {
+  "f83": {
    "kind": "measure",
    "value": 23.1,
    "unit": "°c",
    "surface": "23.1 °C",
-   "sentence": "White sharks generally give birth during spring and summer in shallow waters surrounding islands with temperatures between 15.7 and 23.1 °C (60 and 74 °F).",
+   "sentence": "White sharks generally give birth during spring and summer in shallow waters surrounding islands with temperatures between 15.7 and 23.1 °C.",
    "section": "Behavior and ecology"
   },
-  "f126": {
-   "kind": "number",
-   "value": 60,
-   "surface": "60",
-   "sentence": "White sharks generally give birth during spring and summer in shallow waters surrounding islands with temperatures between 15.7 and 23.1 °C (60 and 74 °F).",
-   "section": "Behavior and ecology"
-  },
-  "f127": {
-   "kind": "measure",
-   "value": 74,
-   "unit": "°f",
-   "surface": "74 °F",
-   "sentence": "White sharks generally give birth during spring and summer in shallow waters surrounding islands with temperatures between 15.7 and 23.1 °C (60 and 74 °F).",
-   "section": "Behavior and ecology"
-  },
-  "f128": {
+  "f84": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "White sharks are born at a length of 1–1.6 m (3–5 ft).",
+   "sentence": "White sharks are born at a length of 1–1.6 m.",
    "section": "Behavior and ecology"
   },
-  "f129": {
+  "f85": {
    "kind": "measure",
    "value": 1.6,
    "unit": "m",
    "surface": "1.6 m",
-   "sentence": "White sharks are born at a length of 1–1.6 m (3–5 ft).",
+   "sentence": "White sharks are born at a length of 1–1.6 m.",
    "section": "Behavior and ecology"
   },
-  "f130": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "White sharks are born at a length of 1–1.6 m (3–5 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f131": {
-   "kind": "measure",
-   "value": 5,
-   "unit": "ft",
-   "surface": "5 ft",
-   "sentence": "White sharks are born at a length of 1–1.6 m (3–5 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f132": {
+  "f86": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
-   "sentence": "In July 2023, a possible newborn white shark was filmed for the first time, off the coast of southern California (just off Carpinteria), measuring an estimated 1.5 m (5 ft) and with a pale complexion attributed to histotrophy.",
+   "sentence": "In July 2023, a possible newborn white shark was filmed for the first time, off the coast of southern California, measuring an estimated 1.5 m and with a pale complexion attributed to histotrophy.",
    "section": "Behavior and ecology"
   },
-  "f133": {
+  "f87": {
    "kind": "measure",
    "value": 1.5,
    "unit": "m",
    "surface": "1.5 m",
-   "sentence": "In July 2023, a possible newborn white shark was filmed for the first time, off the coast of southern California (just off Carpinteria), measuring an estimated 1.5 m (5 ft) and with a pale complexion attributed to histotrophy.",
+   "sentence": "In July 2023, a possible newborn white shark was filmed for the first time, off the coast of southern California, measuring an estimated 1.5 m and with a pale complexion attributed to histotrophy.",
    "section": "Behavior and ecology"
   },
-  "f134": {
-   "kind": "measure",
-   "value": 5,
-   "unit": "ft",
-   "surface": "5 ft",
-   "sentence": "In July 2023, a possible newborn white shark was filmed for the first time, off the coast of southern California (just off Carpinteria), measuring an estimated 1.5 m (5 ft) and with a pale complexion attributed to histotrophy.",
-   "section": "Behavior and ecology"
-  },
-  "f135": {
+  "f88": {
    "kind": "date",
    "value": "1985",
    "surface": "1985",
-   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m (12–14 ft).",
+   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m.",
    "section": "Behavior and ecology"
   },
-  "f136": {
+  "f89": {
    "kind": "number",
    "value": 3.7,
    "surface": "3.7",
-   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m (12–14 ft).",
+   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m.",
    "section": "Behavior and ecology"
   },
-  "f137": {
+  "f90": {
    "kind": "measure",
    "value": 4.3,
    "unit": "m",
    "surface": "4.3 m",
-   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m (12–14 ft).",
+   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m.",
    "section": "Behavior and ecology"
   },
-  "f138": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m (12–14 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f139": {
-   "kind": "measure",
-   "value": 14,
-   "unit": "ft",
-   "surface": "14 ft",
-   "sentence": "Early studies determined that the species grows relatively quickly; a 1985 study concluded that white sharks reach maturity nine to ten years of age at a length of 3.7–4.3 m (12–14 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f140": {
+  "f91": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Conversely, a 2015 study concluded that white sharks are a slow-growing and long-lived species.",
    "section": "Behavior and ecology"
   },
-  "f141": {
+  "f92": {
    "kind": "measure",
    "value": 26,
    "unit": "years",
    "surface": "26 years",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
+   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m, while females take 33 years to reach maturity at a length of around 4.6–4.9 m.",
    "section": "Behavior and ecology"
   },
-  "f142": {
+  "f93": {
    "kind": "measure",
    "value": 3.4,
    "unit": "m",
    "surface": "3.4 m",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
+   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m, while females take 33 years to reach maturity at a length of around 4.6–4.9 m.",
    "section": "Behavior and ecology"
   },
-  "f143": {
-   "kind": "measure",
-   "value": 11,
-   "unit": "ft",
-   "surface": "11 ft",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f144": {
+  "f94": {
    "kind": "measure",
    "value": 33,
    "unit": "years",
    "surface": "33 years",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
+   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m, while females take 33 years to reach maturity at a length of around 4.6–4.9 m.",
    "section": "Behavior and ecology"
   },
-  "f145": {
+  "f95": {
    "kind": "number",
    "value": 4.6,
    "surface": "4.6",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
+   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m, while females take 33 years to reach maturity at a length of around 4.6–4.9 m.",
    "section": "Behavior and ecology"
   },
-  "f146": {
+  "f96": {
    "kind": "measure",
    "value": 4.9,
    "unit": "m",
    "surface": "4.9 m",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
+   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m, while females take 33 years to reach maturity at a length of around 4.6–4.9 m.",
    "section": "Behavior and ecology"
   },
-  "f147": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f148": {
-   "kind": "measure",
-   "value": 16,
-   "unit": "ft",
-   "surface": "16 ft",
-   "sentence": "Males reach maturity at approximately 26 years and a length of around 3.4 m (11 ft), while females take 33 years to reach maturity at a length of around 4.6–4.9 m (15–16 ft).",
-   "section": "Behavior and ecology"
-  },
-  "f149": {
+  "f97": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Their growth rate levels off after the age of 40.",
    "section": "Behavior and ecology"
   },
-  "f150": {
+  "f98": {
    "kind": "measure",
    "value": 70,
    "unit": "years",
@@ -1174,14 +785,14 @@
    "sentence": "White sharks are estimated to reach over 70 years of age.",
    "section": "Behavior and ecology"
   },
-  "f151": {
+  "f99": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "A 2018 study of sharks off eastern Australia and New Zealand found that juveniles had an annual survival rate of over 70%, while adults exceeded 90%.",
    "section": "Behavior and ecology"
   },
-  "f152": {
+  "f100": {
    "kind": "measure",
    "value": 70,
    "unit": "%",
@@ -1189,7 +800,7 @@
    "sentence": "A 2018 study of sharks off eastern Australia and New Zealand found that juveniles had an annual survival rate of over 70%, while adults exceeded 90%.",
    "section": "Behavior and ecology"
   },
-  "f153": {
+  "f101": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -1197,102 +808,72 @@
    "sentence": "A 2018 study of sharks off eastern Australia and New Zealand found that juveniles had an annual survival rate of over 70%, while adults exceeded 90%.",
    "section": "Behavior and ecology"
   },
-  "f154": {
+  "f102": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
+   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m female orca killed an estimated 3–4 m white shark.",
    "section": "Behavior and ecology"
   },
-  "f155": {
+  "f103": {
    "kind": "number",
    "value": 4.7,
    "surface": "4.7",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
+   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m female orca killed an estimated 3–4 m white shark.",
    "section": "Behavior and ecology"
   },
-  "f156": {
+  "f104": {
    "kind": "measure",
    "value": 5.3,
    "unit": "m",
    "surface": "5.3 m",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
+   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m female orca killed an estimated 3–4 m white shark.",
    "section": "Behavior and ecology"
   },
-  "f157": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
-   "section": "Behavior and ecology"
-  },
-  "f158": {
-   "kind": "measure",
-   "value": 17,
-   "unit": "ft",
-   "surface": "17 ft",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
-   "section": "Behavior and ecology"
-  },
-  "f159": {
+  "f105": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
+   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m female orca killed an estimated 3–4 m white shark.",
    "section": "Behavior and ecology"
   },
-  "f160": {
+  "f106": {
    "kind": "measure",
    "value": 4,
    "unit": "m",
    "surface": "4 m",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
+   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m female orca killed an estimated 3–4 m white shark.",
    "section": "Behavior and ecology"
   },
-  "f161": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
-   "section": "Behavior and ecology"
-  },
-  "f162": {
-   "kind": "measure",
-   "value": 13,
-   "unit": "ft",
-   "surface": "13 ft",
-   "sentence": "The first recorded orca predation occurred at the Farallon Islands in 1997 when an estimated 4.7–5.3 m (15–17 ft) female orca killed an estimated 3–4 m (10–13 ft) white shark.",
-   "section": "Behavior and ecology"
-  },
-  "f163": {
+  "f107": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "Another similar attack apparently occurred there in 2000, but its outcome is not clear.",
    "section": "Behavior and ecology"
   },
-  "f164": {
+  "f108": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "In 2017, a live white shark was sighted with purported orca teeth marks, providing the first evidence of the species surviving such an attack.",
    "section": "Behavior and ecology"
   },
-  "f165": {
+  "f109": {
    "kind": "date",
    "value": "2026",
    "surface": "2026",
    "sentence": "However, a 2026 study near Neptune Islands concluded that orcas alone are unlikely to cause white sharks to leave an area long-term.",
    "section": "Behavior and ecology"
   },
-  "f166": {
+  "f110": {
    "kind": "number",
    "value": 116,
    "surface": "116",
    "sentence": "As many as 116 parasite species infest white sharks, including copepod crustaceans—such as Nesippus orientalis, Nemesis lamna, and Dinemoura latifolia—which attach to the skin, fins, mouth, and gills.",
    "section": "Behavior and ecology"
   },
-  "f167": {
+  "f111": {
    "kind": "number",
    "value": 2533,
    "surface": "2,533",

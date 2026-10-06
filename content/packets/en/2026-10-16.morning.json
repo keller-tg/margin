@@ -90,346 +90,331 @@
    "sentence": "For various reasons, its distance has been quite difficult to measure; current best estimates are of the order of 400–600 light-years from the Sun – a comparatively wide uncertainty for a relatively nearby star."
   },
   "f7": {
-   "kind": "measure",
-   "value": 600,
-   "unit": "light-years",
-   "surface": "600 light-years",
-   "sentence": "For various reasons, its distance has been quite difficult to measure; current best estimates are of the order of 400–600 light-years from the Sun – a comparatively wide uncertainty for a relatively nearby star."
-  },
-  "f8": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Its absolute magnitude is about −6."
   },
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 10000000,
    "unit": "years",
    "surface": "10 million years",
    "sentence": "With an age of less than 10 million years, Betelgeuse has evolved rapidly because of its large mass, and is expected to end its evolution with a supernova explosion, most likely within 100,000 years."
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 100000,
    "unit": "years",
    "surface": "100,000 years",
    "sentence": "With an age of less than 10 million years, Betelgeuse has evolved rapidly because of its large mass, and is expected to end its evolution with a supernova explosion, most likely within 100,000 years."
   },
-  "f11": {
+  "f10": {
    "kind": "measure",
    "value": 30,
    "unit": "km/s",
    "surface": "30 km/s",
    "sentence": "Having been ejected from its birthplace in the Orion OB1 association – which includes the stars in Orion's Belt – this runaway star has been observed to be moving through the interstellar medium at a speed of 30 km/s, creating a bow shock over four light-years wide."
   },
-  "f12": {
+  "f11": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
-   "sentence": "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured in 1920, and subsequent studies have reported an angular diameter (i.e., apparent size) ranging from 0.042 to 0.056 arcseconds; that range of determinations is ascribed to non-sphericity, limb darkening, pulsations and varying appearance at different wavelengths."
+   "sentence": "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured in 1920, and subsequent studies have reported an angular diameter ranging from 0.042 to 0.056 arcseconds; that range of determinations is ascribed to non-sphericity, limb darkening, pulsations and varying appearance at different wavelengths."
   },
-  "f13": {
+  "f12": {
    "kind": "number",
    "value": 0.042,
    "surface": "0.042",
-   "sentence": "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured in 1920, and subsequent studies have reported an angular diameter (i.e., apparent size) ranging from 0.042 to 0.056 arcseconds; that range of determinations is ascribed to non-sphericity, limb darkening, pulsations and varying appearance at different wavelengths."
+   "sentence": "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured in 1920, and subsequent studies have reported an angular diameter ranging from 0.042 to 0.056 arcseconds; that range of determinations is ascribed to non-sphericity, limb darkening, pulsations and varying appearance at different wavelengths."
   },
-  "f14": {
+  "f13": {
    "kind": "number",
    "value": 0.056,
    "surface": "0.056",
-   "sentence": "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured in 1920, and subsequent studies have reported an angular diameter (i.e., apparent size) ranging from 0.042 to 0.056 arcseconds; that range of determinations is ascribed to non-sphericity, limb darkening, pulsations and varying appearance at different wavelengths."
+   "sentence": "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured in 1920, and subsequent studies have reported an angular diameter ranging from 0.042 to 0.056 arcseconds; that range of determinations is ascribed to non-sphericity, limb darkening, pulsations and varying appearance at different wavelengths."
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 250,
    "surface": "250",
    "sentence": "It is also surrounded by a complex, asymmetric envelope, roughly 250 times the size of the star, caused by mass loss from the star itself."
   },
-  "f16": {
+  "f15": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Starting in October 2019, Betelgeuse began to dim noticeably, and by mid-February 2020 its brightness had dropped by a factor of approximately 3, from magnitude 0.5 to 1.7."
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Starting in October 2019, Betelgeuse began to dim noticeably, and by mid-February 2020 its brightness had dropped by a factor of approximately 3, from magnitude 0.5 to 1.7."
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Starting in October 2019, Betelgeuse began to dim noticeably, and by mid-February 2020 its brightness had dropped by a factor of approximately 3, from magnitude 0.5 to 1.7."
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "Starting in October 2019, Betelgeuse began to dim noticeably, and by mid-February 2020 its brightness had dropped by a factor of approximately 3, from magnitude 0.5 to 1.7."
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 1.7,
    "surface": "1.7",
    "sentence": "Starting in October 2019, Betelgeuse began to dim noticeably, and by mid-February 2020 its brightness had dropped by a factor of approximately 3, from magnitude 0.5 to 1.7."
   },
-  "f21": {
+  "f20": {
    "kind": "number",
    "value": 0,
    "surface": "0.0",
    "sentence": "It then returned to a more normal brightness range, reaching a peak of 0.0 visual and 0.1 V-band magnitude in April 2023."
   },
-  "f22": {
+  "f21": {
    "kind": "measure",
    "value": 0.1,
    "unit": "v",
    "surface": "0.1 V",
    "sentence": "It then returned to a more normal brightness range, reaching a peak of 0.0 visual and 0.1 V-band magnitude in April 2023."
   },
-  "f23": {
+  "f22": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "It then returned to a more normal brightness range, reaching a peak of 0.0 visual and 0.1 V-band magnitude in April 2023."
   },
-  "f24": {
+  "f23": {
    "kind": "measure",
    "value": 50,
    "unit": "years",
    "surface": "50 years",
    "sentence": "Infrared observations found no significant change in luminosity over the last 50 years, suggesting that the dimming was due to a change in extinction around the star rather than a more fundamental change."
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1603",
    "surface": "1603",
-   "sentence": "The star's Bayer designation is α Orionis (Alpha Orionis), given by Johann Bayer in 1603.",
+   "sentence": "The star's Bayer designation is α Orionis, given by Johann Bayer in 1603.",
+   "section": "Nomenclature and etymology"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1988",
+   "surface": "1988",
+   "sentence": "These have become common due to the pronunciation to the name of the character Beetlejuice in the 1988 film Beetlejuice.",
    "section": "Nomenclature and etymology"
   },
   "f26": {
    "kind": "date",
-   "value": "1988",
-   "surface": "1988",
-   "sentence": "These have become common due to the pronunciation to the name of the character Beetlejuice in the 1988 film Beetlejuice.\n;\n;\n;\n,\nOther pronunciations that utilize a \"hard g\" (/g/) also exist, but have become less common over time.\n;\n,\nIn 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars.",
+   "value": "2016",
+   "surface": "2016",
+   "sentence": "In 2016, the International Astronomical Union organized a Working Group on Star Names to catalog and standardize proper names for stars.",
    "section": "Nomenclature and etymology"
   },
   "f27": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
-   "sentence": "These have become common due to the pronunciation to the name of the character Beetlejuice in the 1988 film Beetlejuice.\n;\n;\n;\n,\nOther pronunciations that utilize a \"hard g\" (/g/) also exist, but have become less common over time.\n;\n,\nIn 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars.",
-   "section": "Nomenclature and etymology"
-  },
-  "f28": {
-   "kind": "date",
-   "value": "2016",
-   "surface": "2016",
    "sentence": "The WGSN's first bulletin, issued July 2016, included a table of the first two batches of names approved by the WGSN, which included Betelgeuse for this star.",
    "section": "Nomenclature and etymology"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "The name Siwarha has been officially recognized by the WGSN since 22 September 2025.",
    "section": "Nomenclature and etymology"
   },
-  "f30": {
+  "f29": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "The name Siwarha has been officially recognized by the WGSN since 22 September 2025.",
    "section": "Nomenclature and etymology"
   },
-  "f31": {
+  "f30": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "The variation in Betelgeuse's brightness was described in 1836 by Sir John Herschel in Outlines of Astronomy.",
    "section": "Observational history"
   },
-  "f32": {
+  "f31": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "From 1836 to 1840, he noticed significant changes in magnitude when Betelgeuse outshone Rigel in October 1837 and again in November 1839.",
    "section": "Observational history"
   },
-  "f33": {
+  "f32": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "From 1836 to 1840, he noticed significant changes in magnitude when Betelgeuse outshone Rigel in October 1837 and again in November 1839.",
    "section": "Observational history"
   },
-  "f34": {
+  "f33": {
    "kind": "date",
    "value": "1837",
    "surface": "1837",
    "sentence": "From 1836 to 1840, he noticed significant changes in magnitude when Betelgeuse outshone Rigel in October 1837 and again in November 1839.",
    "section": "Observational history"
   },
-  "f35": {
+  "f34": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "From 1836 to 1840, he noticed significant changes in magnitude when Betelgeuse outshone Rigel in October 1837 and again in November 1839.",
    "section": "Observational history"
   },
-  "f36": {
+  "f35": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "A 10-year quiescent period followed; then in 1849, Herschel noted another short cycle of variability, which peaked in 1852.",
    "section": "Observational history"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "1849",
    "surface": "1849",
    "sentence": "A 10-year quiescent period followed; then in 1849, Herschel noted another short cycle of variability, which peaked in 1852.",
    "section": "Observational history"
   },
-  "f38": {
+  "f37": {
    "kind": "date",
    "value": "1852",
    "surface": "1852",
    "sentence": "A 10-year quiescent period followed; then in 1849, Herschel noted another short cycle of variability, which peaked in 1852.",
    "section": "Observational history"
   },
-  "f39": {
+  "f38": {
    "kind": "date",
    "value": "1957",
    "surface": "1957",
    "sentence": "Later observers recorded unusually high maxima with an interval of years, but only small variations from 1957 to 1967.",
    "section": "Observational history"
   },
-  "f40": {
+  "f39": {
    "kind": "date",
    "value": "1967",
    "surface": "1967",
    "sentence": "Later observers recorded unusually high maxima with an interval of years, but only small variations from 1957 to 1967.",
    "section": "Observational history"
   },
-  "f41": {
+  "f40": {
    "kind": "number",
    "value": 0.2,
    "surface": "0.2",
-   "sentence": "The records of the American Association of Variable Star Observers (AAVSO) show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "sentence": "The records of the American Association of Variable Star Observers show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "section": "Observational history"
+  },
+  "f41": {
+   "kind": "date",
+   "value": "1933",
+   "surface": "1933",
+   "sentence": "The records of the American Association of Variable Star Observers show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
    "section": "Observational history"
   },
   "f42": {
    "kind": "date",
-   "value": "1933",
-   "surface": "1933",
-   "sentence": "The records of the American Association of Variable Star Observers (AAVSO) show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "The records of the American Association of Variable Star Observers show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
    "section": "Observational history"
   },
   "f43": {
-   "kind": "date",
-   "value": "1942",
-   "surface": "1942",
-   "sentence": "The records of the American Association of Variable Star Observers (AAVSO) show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
-   "section": "Observational history"
-  },
-  "f44": {
    "kind": "number",
    "value": 1.2,
    "surface": "1.2",
-   "sentence": "The records of the American Association of Variable Star Observers (AAVSO) show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "sentence": "The records of the American Association of Variable Star Observers show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "section": "Observational history"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "1927",
+   "surface": "1927",
+   "sentence": "The records of the American Association of Variable Star Observers show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
    "section": "Observational history"
   },
   "f45": {
    "kind": "date",
-   "value": "1927",
-   "surface": "1927",
-   "sentence": "The records of the American Association of Variable Star Observers (AAVSO) show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "value": "1941",
+   "surface": "1941",
+   "sentence": "The records of the American Association of Variable Star Observers show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
    "section": "Observational history"
   },
   "f46": {
    "kind": "date",
-   "value": "1941",
-   "surface": "1941",
-   "sentence": "The records of the American Association of Variable Star Observers (AAVSO) show a maximum brightness of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.",
+   "value": "1603",
+   "surface": "1603",
+   "sentence": "This variability in brightness may explain why Johann Bayer, with the publication of his Uranometria in 1603, designated the star alpha, as it probably rivaled the usually brighter Rigel.",
    "section": "Observational history"
   },
   "f47": {
-   "kind": "date",
-   "value": "1603",
-   "surface": "1603",
-   "sentence": "This variability in brightness may explain why Johann Bayer, with the publication of his Uranometria in 1603, designated the star alpha, as it probably rivaled the usually brighter Rigel (beta).",
-   "section": "Observational history"
-  },
-  "f48": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "In 1920, Albert A. Michelson and Francis G. Pease mounted a six-meter interferometer on the front of the 2.5-meter telescope at Mount Wilson Observatory, helped by John August Anderson.",
    "section": "Observational history"
   },
-  "f49": {
+  "f48": {
    "kind": "number",
    "value": 2.5,
    "surface": "2.5",
    "sentence": "In 1920, Albert A. Michelson and Francis G. Pease mounted a six-meter interferometer on the front of the 2.5-meter telescope at Mount Wilson Observatory, helped by John August Anderson.",
    "section": "Observational history"
   },
-  "f50": {
+  "f49": {
    "kind": "number",
    "value": 0.047,
    "surface": "0.047",
-   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km (2.58 AU) based on the parallax value of 0.018″.",
+   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km based on the parallax value of 0.018″.",
    "section": "Observational history"
   },
-  "f51": {
+  "f50": {
    "kind": "number",
    "value": 3.84,
    "surface": "3.84",
-   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km (2.58 AU) based on the parallax value of 0.018″.",
+   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km based on the parallax value of 0.018″.",
    "section": "Observational history"
   },
-  "f52": {
+  "f51": {
    "kind": "measure",
    "value": 108,
    "unit": "km",
    "surface": "108 km",
-   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km (2.58 AU) based on the parallax value of 0.018″.",
+   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km based on the parallax value of 0.018″.",
    "section": "Observational history"
   },
-  "f53": {
-   "kind": "measure",
-   "value": 2.58,
-   "unit": "au",
-   "surface": "2.58 AU",
-   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km (2.58 AU) based on the parallax value of 0.018″.",
-   "section": "Observational history"
-  },
-  "f54": {
+  "f52": {
    "kind": "number",
    "value": 0.018,
    "surface": "0.018",
-   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km (2.58 AU) based on the parallax value of 0.018″.",
+   "sentence": "The trio measured the angular diameter of Betelgeuse at 0.047″, a figure that resulted in a diameter of 3.84×108 km based on the parallax value of 0.018″.",
    "section": "Observational history"
   },
-  "f55": {
+  "f53": {
    "kind": "date",
    "value": "1958",
    "surface": "1958",
    "sentence": "The 1950s and 1960s saw two developments that affected stellar convection theory in red supergiants: the Stratoscope projects and the 1958 publication of Structure and Evolution of the Stars, principally the work of Martin Schwarzschild and his colleague at Princeton University, Richard Härm.",
    "section": "Observational history"
   },
-  "f56": {
+  "f54": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "In 1995, the Hubble Space Telescope's Faint Object Camera captured an ultraviolet image with a resolution superior to that obtained by ground-based interferometers—the first conventional-telescope image (or \"direct-image\" in NASA terminology) of the disk of another star.",
+   "sentence": "In 1995, the Hubble Space Telescope's Faint Object Camera captured an ultraviolet image with a resolution superior to that obtained by ground-based interferometers—the first conventional-telescope image of the disk of another star.",
    "section": "Observational history"
   },
-  "f57": {
+  "f55": {
    "kind": "measure",
    "value": 2000,
    "unit": "k",
@@ -437,56 +422,56 @@
    "sentence": "This image, like earlier pictures, contained a bright patch indicating a region in the southwestern quadrant 2,000 K hotter than the stellar surface.",
    "section": "Observational history"
   },
-  "f58": {
+  "f56": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "This would give the rotational axis an inclination of about 20° to the direction of Earth, and a position angle from celestial North of about 55°.",
    "section": "Observational history"
   },
-  "f59": {
+  "f57": {
    "kind": "number",
    "value": 55,
    "surface": "55",
    "sentence": "This would give the rotational axis an inclination of about 20° to the direction of Earth, and a position angle from celestial North of about 55°.",
    "section": "Observational history"
   },
-  "f60": {
+  "f58": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "In a study published in December 2000, the star's diameter was measured with the Infrared Spatial Interferometer (ISI) at mid-infrared wavelengths producing a limb-darkened estimate of 55.2±0.5 mas – a figure entirely consistent with Michelson's findings eighty years earlier.",
+   "sentence": "In a study published in December 2000, the star's diameter was measured with the Infrared Spatial Interferometer at mid-infrared wavelengths producing a limb-darkened estimate of 55.2±0.5 mas – a figure entirely consistent with Michelson's findings eighty years earlier.",
    "section": "Observational history"
   },
-  "f61": {
+  "f59": {
    "kind": "number",
    "value": 55.2,
    "surface": "55.2",
-   "sentence": "In a study published in December 2000, the star's diameter was measured with the Infrared Spatial Interferometer (ISI) at mid-infrared wavelengths producing a limb-darkened estimate of 55.2±0.5 mas – a figure entirely consistent with Michelson's findings eighty years earlier.",
+   "sentence": "In a study published in December 2000, the star's diameter was measured with the Infrared Spatial Interferometer at mid-infrared wavelengths producing a limb-darkened estimate of 55.2±0.5 mas – a figure entirely consistent with Michelson's findings eighty years earlier.",
    "section": "Observational history"
   },
-  "f62": {
+  "f60": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
-   "sentence": "In a study published in December 2000, the star's diameter was measured with the Infrared Spatial Interferometer (ISI) at mid-infrared wavelengths producing a limb-darkened estimate of 55.2±0.5 mas – a figure entirely consistent with Michelson's findings eighty years earlier.",
+   "sentence": "In a study published in December 2000, the star's diameter was measured with the Infrared Spatial Interferometer at mid-infrared wavelengths producing a limb-darkened estimate of 55.2±0.5 mas – a figure entirely consistent with Michelson's findings eighty years earlier.",
    "section": "Observational history"
   },
-  "f63": {
+  "f61": {
    "kind": "number",
    "value": 7.63,
    "surface": "7.63",
    "sentence": "At the time of its publication, the estimated parallax from the Hipparcos mission was 7.63±1.64 mas, yielding an estimated radius for Betelgeuse of 3.6 AU.",
    "section": "Observational history"
   },
-  "f64": {
+  "f62": {
    "kind": "number",
    "value": 1.64,
    "surface": "1.64",
    "sentence": "At the time of its publication, the estimated parallax from the Hipparcos mission was 7.63±1.64 mas, yielding an estimated radius for Betelgeuse of 3.6 AU.",
    "section": "Observational history"
   },
-  "f65": {
+  "f63": {
    "kind": "measure",
    "value": 3.6,
    "unit": "au",
@@ -494,14 +479,14 @@
    "sentence": "At the time of its publication, the estimated parallax from the Hipparcos mission was 7.63±1.64 mas, yielding an estimated radius for Betelgeuse of 3.6 AU.",
    "section": "Observational history"
   },
-  "f66": {
+  "f64": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "However, an infrared interferometric study published in 2009 announced that the star had shrunk by 15% since 1993 at an increasing rate without a significant diminution in magnitude.",
    "section": "Observational history"
   },
-  "f67": {
+  "f65": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -509,128 +494,128 @@
    "sentence": "However, an infrared interferometric study published in 2009 announced that the star had shrunk by 15% since 1993 at an increasing rate without a significant diminution in magnitude.",
    "section": "Observational history"
   },
-  "f68": {
+  "f66": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "However, an infrared interferometric study published in 2009 announced that the star had shrunk by 15% since 1993 at an increasing rate without a significant diminution in magnitude.",
    "section": "Observational history"
   },
-  "f69": {
+  "f67": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Images released by the European Southern Observatory in July 2009, taken by the ground-based Very Large Telescope Interferometer (VLTI), showed a vast “plume” of gas extending 30 AU from the star into the surrounding atmosphere.",
+   "sentence": "Images released by the European Southern Observatory in July 2009, taken by the ground-based Very Large Telescope Interferometer, showed a vast “plume” of gas extending 30 AU from the star into the surrounding atmosphere.",
    "section": "Observational history"
   },
-  "f70": {
+  "f68": {
    "kind": "measure",
    "value": 30,
    "unit": "au",
    "surface": "30 AU",
-   "sentence": "Images released by the European Southern Observatory in July 2009, taken by the ground-based Very Large Telescope Interferometer (VLTI), showed a vast “plume” of gas extending 30 AU from the star into the surrounding atmosphere.",
+   "sentence": "Images released by the European Southern Observatory in July 2009, taken by the ground-based Very Large Telescope Interferometer, showed a vast “plume” of gas extending 30 AU from the star into the surrounding atmosphere.",
    "section": "Observational history"
   },
-  "f71": {
+  "f69": {
    "kind": "number",
    "value": 5.9,
    "surface": "5.9",
    "sentence": "The astronomers who first noted the dimming of Betelgeuse, Villanova University astronomers Richard Wasatonic and Edward Guinan, and amateur Thomas Calderwood, theorize that a coincidence of a normal 5.9-year light-cycle minimum and a deeper-than-normal 425-day period are the driving factors.",
    "section": "Observational history"
   },
-  "f72": {
+  "f70": {
    "kind": "number",
    "value": 425,
    "surface": "425",
    "sentence": "The astronomers who first noted the dimming of Betelgeuse, Villanova University astronomers Richard Wasatonic and Edward Guinan, and amateur Thomas Calderwood, theorize that a coincidence of a normal 5.9-year light-cycle minimum and a deeper-than-normal 425-day period are the driving factors.",
    "section": "Observational history"
   },
-  "f73": {
+  "f71": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Other possible causes hypothesized by late 2019 were an eruption of gas or dust or fluctuations in the star's surface brightness.",
    "section": "Observational history"
   },
-  "f74": {
+  "f72": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "By August 2020, long-term and extensive studies of Betelgeuse, primarily using ultraviolet observations by the Hubble Space Telescope, had suggested that the unexpected dimming was probably caused by an immense amount of superhot material ejected into space.",
    "section": "Observational history"
   },
-  "f75": {
+  "f73": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Hubble captured signs of dense, heated material moving through the star's atmosphere in September, October and November before several telescopes observed the more marked dimming in December and the first few months of 2020.",
    "section": "Observational history"
   },
-  "f76": {
+  "f74": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\" in the 25 years of their studies and also calculating a decrease in radius.",
+   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\"in the 25 years of their studies and also calculating a decrease in radius.",
+   "section": "Observational history"
+  },
+  "f75": {
+   "kind": "number",
+   "value": 2.5,
+   "surface": "2.5",
+   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\"in the 25 years of their studies and also calculating a decrease in radius.",
+   "section": "Observational history"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 0.5,
+   "surface": "0.5",
+   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\"in the 25 years of their studies and also calculating a decrease in radius.",
    "section": "Observational history"
   },
   "f77": {
    "kind": "number",
-   "value": 2.5,
-   "surface": "2.5",
-   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\" in the 25 years of their studies and also calculating a decrease in radius.",
+   "value": 1.5,
+   "surface": "1.5",
+   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\"in the 25 years of their studies and also calculating a decrease in radius.",
    "section": "Observational history"
   },
   "f78": {
    "kind": "number",
-   "value": 0.5,
-   "surface": "0.5",
-   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\" in the 25 years of their studies and also calculating a decrease in radius.",
+   "value": 1.614,
+   "surface": "1.614",
+   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\"in the 25 years of their studies and also calculating a decrease in radius.",
    "section": "Observational history"
   },
   "f79": {
-   "kind": "number",
-   "value": 1.5,
-   "surface": "1.5",
-   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\" in the 25 years of their studies and also calculating a decrease in radius.",
-   "section": "Observational history"
-  },
-  "f80": {
-   "kind": "number",
-   "value": 1.614,
-   "surface": "1.614",
-   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\" in the 25 years of their studies and also calculating a decrease in radius.",
-   "section": "Observational history"
-  },
-  "f81": {
    "kind": "measure",
    "value": 25,
    "unit": "years",
    "surface": "25 years",
-   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\" in the 25 years of their studies and also calculating a decrease in radius.",
+   "sentence": "By January 2020, Betelgeuse had dimmed by a factor of approximately 2.5 from magnitude 0.5 to 1.5 and was reported still fainter in February in The Astronomer's Telegram at a record minimum of +1.614, noting that the star is currently the \"least luminous and coolest\"in the 25 years of their studies and also calculating a decrease in radius.",
    "section": "Observational history"
   },
-  "f82": {
+  "f80": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "This dropped Betelgeuse from one of the top 10 brightest stars in the sky to outside the top 20, noticeably dimmer than its near neighbor Aldebaran.",
    "section": "Observational history"
   },
-  "f83": {
+  "f81": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "This dropped Betelgeuse from one of the top 10 brightest stars in the sky to outside the top 20, noticeably dimmer than its near neighbor Aldebaran.",
    "section": "Observational history"
   },
-  "f84": {
+  "f82": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "2019 mainstream media reports discussed speculation that Betelgeuse might be about to explode as a supernova,\nbut astronomers note that the supernova is expected to occur within approximately the next 100,000 years and is thus unlikely to be imminent.",
    "section": "Observational history"
   },
-  "f85": {
+  "f83": {
    "kind": "measure",
    "value": 100000,
    "unit": "years",
@@ -638,56 +623,56 @@
    "sentence": "2019 mainstream media reports discussed speculation that Betelgeuse might be about to explode as a supernova,\nbut astronomers note that the supernova is expected to occur within approximately the next 100,000 years and is thus unlikely to be imminent.",
    "section": "Observational history"
   },
-  "f86": {
+  "f84": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "By 17 February 2020, Betelgeuse's brightness had remained constant for about 10 days, and the star showed signs of rebrightening.",
    "section": "Observational history"
   },
-  "f87": {
+  "f85": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "By 17 February 2020, Betelgeuse's brightness had remained constant for about 10 days, and the star showed signs of rebrightening.",
    "section": "Observational history"
   },
-  "f88": {
+  "f86": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "By 17 February 2020, Betelgeuse's brightness had remained constant for about 10 days, and the star showed signs of rebrightening.",
    "section": "Observational history"
   },
-  "f89": {
+  "f87": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "On 22 February 2020, Betelgeuse may have stopped dimming altogether, all but ending the dimming episode.",
    "section": "Observational history"
   },
-  "f90": {
+  "f88": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "On 22 February 2020, Betelgeuse may have stopped dimming altogether, all but ending the dimming episode.",
    "section": "Observational history"
   },
-  "f91": {
+  "f89": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "On 24 February 2020, no significant change in the infrared over the last 50 years was detected; this seemed unrelated to the recent visual fading and suggested that an impending core collapse may be unlikely.",
    "section": "Observational history"
   },
-  "f92": {
+  "f90": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "On 24 February 2020, no significant change in the infrared over the last 50 years was detected; this seemed unrelated to the recent visual fading and suggested that an impending core collapse may be unlikely.",
    "section": "Observational history"
   },
-  "f93": {
+  "f91": {
    "kind": "measure",
    "value": 50,
    "unit": "years",
@@ -695,140 +680,133 @@
    "sentence": "On 24 February 2020, no significant change in the infrared over the last 50 years was detected; this seemed unrelated to the recent visual fading and suggested that an impending core collapse may be unlikely.",
    "section": "Observational history"
   },
-  "f94": {
+  "f92": {
    "kind": "number",
    "value": 24,
    "surface": "24",
-   "sentence": "Also on 24 February 2020, further studies suggested that occluding \"large-grain circumstellar dust\" may be the most likely explanation for the dimming of the star.",
+   "sentence": "Also on 24 February 2020, further studies suggested that occluding \"large-grain circumstellar dust\"may be the most likely explanation for the dimming of the star.",
    "section": "Observational history"
   },
-  "f95": {
+  "f93": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "Also on 24 February 2020, further studies suggested that occluding \"large-grain circumstellar dust\" may be the most likely explanation for the dimming of the star.",
+   "sentence": "Also on 24 February 2020, further studies suggested that occluding \"large-grain circumstellar dust\"may be the most likely explanation for the dimming of the star.",
    "section": "Observational history"
   },
-  "f96": {
+  "f94": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Followup studies, reported on 31 March 2020 in The Astronomer's Telegram, found a rapid rise in the brightness of Betelgeuse.",
    "section": "Observational history"
   },
-  "f97": {
+  "f95": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Followup studies, reported on 31 March 2020 in The Astronomer's Telegram, found a rapid rise in the brightness of Betelgeuse.",
    "section": "Observational history"
   },
-  "f98": {
+  "f96": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "Before entering its 2020 conjunction with the Sun, Betelgeuse had reached a brightness of +0.4 .",
+   "sentence": "Before entering its 2020 conjunction with the Sun, Betelgeuse had reached a brightness of +0.4.",
    "section": "Observational history"
   },
-  "f99": {
+  "f97": {
    "kind": "number",
    "value": 0.4,
    "surface": "0.4",
-   "sentence": "Before entering its 2020 conjunction with the Sun, Betelgeuse had reached a brightness of +0.4 .",
+   "sentence": "Before entering its 2020 conjunction with the Sun, Betelgeuse had reached a brightness of +0.4.",
    "section": "Observational history"
   },
-  "f100": {
+  "f98": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Observations with the STEREO-A spacecraft made in June and July 2020 showed that the star had dimmed by 0.5 since the last ground-based observation in April.",
    "section": "Observational history"
   },
-  "f101": {
+  "f99": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "Observations with the STEREO-A spacecraft made in June and July 2020 showed that the star had dimmed by 0.5 since the last ground-based observation in April.",
    "section": "Observational history"
   },
-  "f102": {
+  "f100": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Because a maximum was expected for August/September 2020, and the next minimum should occur around April 2021.",
    "section": "Observational history"
   },
-  "f103": {
+  "f101": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "Because a maximum was expected for August/September 2020, and the next minimum should occur around April 2021.",
    "section": "Observational history"
   },
-  "f104": {
+  "f102": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "On 30 August 2020, astronomers reported the detection of a second dust cloud emitted from Betelgeuse, and associated with recent substantial dimming (a secondary minimum on 3 August) in luminosity of the star.",
+   "sentence": "On 30 August 2020, astronomers reported the detection of a second dust cloud emitted from Betelgeuse, and associated with recent substantial dimming in luminosity of the star.",
    "section": "Observational history"
   },
-  "f105": {
+  "f103": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "On 30 August 2020, astronomers reported the detection of a second dust cloud emitted from Betelgeuse, and associated with recent substantial dimming (a secondary minimum on 3 August) in luminosity of the star.",
+   "sentence": "On 30 August 2020, astronomers reported the detection of a second dust cloud emitted from Betelgeuse, and associated with recent substantial dimming in luminosity of the star.",
    "section": "Observational history"
   },
-  "f106": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "On 30 August 2020, astronomers reported the detection of a second dust cloud emitted from Betelgeuse, and associated with recent substantial dimming (a secondary minimum on 3 August) in luminosity of the star.",
-   "section": "Observational history"
-  },
-  "f107": {
+  "f104": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "In June 2021, the dust was explained as possibly caused by a cool patch on its photosphere\nand in August a second independent group confirmed these results.",
    "section": "Observational history"
   },
-  "f108": {
+  "f105": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "An August 2022\nstudy using the Hubble Space Telescope confirmed previous research and suggested the dust could have been created by a surface mass ejection.",
    "section": "Observational history"
   },
-  "f109": {
+  "f106": {
    "kind": "number",
    "value": 416,
    "surface": "416",
    "sentence": "It conjectured as well that the dimming could have come from a short-term minimum coinciding with a long-term minimum producing a grand minimum, a 416-day cycle and 2,010-day cycle respectively, a mechanism first suggested by astronomer L. Goldberg.",
    "section": "Observational history"
   },
-  "f110": {
+  "f107": {
    "kind": "number",
    "value": 2010,
    "surface": "2,010",
    "sentence": "It conjectured as well that the dimming could have come from a short-term minimum coinciding with a long-term minimum producing a grand minimum, a 416-day cycle and 2,010-day cycle respectively, a mechanism first suggested by astronomer L. Goldberg.",
    "section": "Observational history"
   },
-  "f111": {
+  "f108": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "In April 2023, astronomers reported the star reached a peak of 0.0 visual and 0.1 V-band magnitude.",
    "section": "Observational history"
   },
-  "f112": {
+  "f109": {
    "kind": "number",
    "value": 0,
    "surface": "0.0",
    "sentence": "In April 2023, astronomers reported the star reached a peak of 0.0 visual and 0.1 V-band magnitude.",
    "section": "Observational history"
   },
-  "f113": {
+  "f110": {
    "kind": "measure",
    "value": 0.1,
    "unit": "v",
@@ -836,56 +814,56 @@
    "sentence": "In April 2023, astronomers reported the star reached a peak of 0.0 visual and 0.1 V-band magnitude.",
    "section": "Observational history"
   },
-  "f114": {
+  "f111": {
    "kind": "number",
    "value": 82,
    "surface": "82",
-   "sentence": "Between mid-September and mid-March (best in mid-December), it is visible to virtually every inhabited region of the globe, except in Antarctica at latitudes south of 82°.",
+   "sentence": "Between mid-September and mid-March, it is visible to virtually every inhabited region of the globe, except in Antarctica at latitudes south of 82°.",
+   "section": "Observation"
+  },
+  "f112": {
+   "kind": "number",
+   "value": 70,
+   "surface": "70",
+   "sentence": "In the intermediate period, it is invisible to the naked eye, except around midday low in the north in Antarctic regions between 70° and 80° south latitude.",
+   "section": "Observation"
+  },
+  "f113": {
+   "kind": "number",
+   "value": 80,
+   "surface": "80",
+   "sentence": "In the intermediate period, it is invisible to the naked eye, except around midday low in the north in Antarctic regions between 70° and 80° south latitude.",
+   "section": "Observation"
+  },
+  "f114": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0.0",
+   "sentence": "Betelgeuse is a variable star whose visual magnitude ranges between 0.0 and +1.6.",
    "section": "Observation"
   },
   "f115": {
    "kind": "number",
-   "value": 70,
-   "surface": "70",
-   "sentence": "In the intermediate period (June–July, centered around mid June), it is invisible to the naked eye (visible only with a telescope in daylight), except around midday low in the north in Antarctic regions between 70° and 80° south latitude (during midday twilight in polar night, when the Sun is below the horizon).",
+   "value": 1.6,
+   "surface": "1.6",
+   "sentence": "Betelgeuse is a variable star whose visual magnitude ranges between 0.0 and +1.6.",
    "section": "Observation"
   },
   "f116": {
-   "kind": "number",
-   "value": 80,
-   "surface": "80",
-   "sentence": "In the intermediate period (June–July, centered around mid June), it is invisible to the naked eye (visible only with a telescope in daylight), except around midday low in the north in Antarctic regions between 70° and 80° south latitude (during midday twilight in polar night, when the Sun is below the horizon).",
-   "section": "Observation"
-  },
-  "f117": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0.0",
-   "sentence": "Betelgeuse is a variable star whose visual magnitude ranges between 0.0 and +1.6 .",
-   "section": "Observation"
-  },
-  "f118": {
-   "kind": "number",
-   "value": 1.6,
-   "surface": "1.6",
-   "sentence": "Betelgeuse is a variable star whose visual magnitude ranges between 0.0 and +1.6 .",
-   "section": "Observation"
-  },
-  "f119": {
    "kind": "number",
    "value": 1.85,
    "surface": "1.85",
    "sentence": "Betelgeuse has a B–V color index of 1.85 – a figure which points to its pronounced \"redness\".",
    "section": "Observation"
   },
-  "f120": {
+  "f117": {
    "kind": "number",
    "value": 2.99,
    "surface": "2.99",
    "sentence": "Betelgeuse is the brightest near-infrared source in the sky with a J band magnitude of −2.99; only about 13% of the star's radiant energy is emitted as visible light.",
    "section": "Observation"
   },
-  "f121": {
+  "f118": {
    "kind": "measure",
    "value": 13,
    "unit": "%",
@@ -893,434 +871,406 @@
    "sentence": "Betelgeuse is the brightest near-infrared source in the sky with a J band magnitude of −2.99; only about 13% of the star's radiant energy is emitted as visible light.",
    "section": "Observation"
   },
-  "f122": {
+  "f119": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "Since the first successful parallax measurement by Friedrich Bessel in 1838, astronomers have been puzzled by Betelgeuse's apparent distance.",
    "section": "Observation"
   },
-  "f123": {
+  "f120": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "When the first interferometric studies were performed on the star's diameter in 1920, the assumed parallax was 0.0180″.",
    "section": "Observation"
   },
-  "f124": {
+  "f121": {
    "kind": "number",
    "value": 0.018,
    "surface": "0.0180",
    "sentence": "When the first interferometric studies were performed on the star's diameter in 1920, the assumed parallax was 0.0180″.",
    "section": "Observation"
   },
-  "f125": {
+  "f122": {
    "kind": "number",
    "value": 56,
    "surface": "56",
    "sentence": "This equated to a distance of 56 pc or roughly 180 ly, producing not only an inaccurate radius for the star but every other stellar characteristic.",
    "section": "Observation"
   },
-  "f126": {
+  "f123": {
    "kind": "number",
    "value": 180,
    "surface": "180",
    "sentence": "This equated to a distance of 56 pc or roughly 180 ly, producing not only an inaccurate radius for the star but every other stellar characteristic.",
    "section": "Observation"
   },
-  "f127": {
+  "f124": {
    "kind": "number",
    "value": 400,
    "surface": "400",
    "sentence": "Since then, there has been ongoing work to measure the distance of Betelgeuse, with proposed distances as high as 400 pc or about 1,300 ly.",
    "section": "Observation"
   },
-  "f128": {
+  "f125": {
    "kind": "number",
    "value": 1300,
    "surface": "1,300",
    "sentence": "Since then, there has been ongoing work to measure the distance of Betelgeuse, with proposed distances as high as 400 pc or about 1,300 ly.",
    "section": "Observation"
   },
-  "f129": {
-   "kind": "date",
-   "value": "1997",
-   "surface": "1997",
-   "sentence": "Before the publication of the Hipparcos Catalogue (1997), there were two slightly conflicting parallax measurements for Betelgeuse.",
-   "section": "Observation"
-  },
-  "f130": {
+  "f126": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "The first, in 1991, gave a parallax of 9.8±4.7 mas, yielding a distance of roughly 102 pc or 330 ly.",
    "section": "Observation"
   },
-  "f131": {
+  "f127": {
    "kind": "number",
    "value": 9.8,
    "surface": "9.8",
    "sentence": "The first, in 1991, gave a parallax of 9.8±4.7 mas, yielding a distance of roughly 102 pc or 330 ly.",
    "section": "Observation"
   },
-  "f132": {
+  "f128": {
    "kind": "number",
    "value": 4.7,
    "surface": "4.7",
    "sentence": "The first, in 1991, gave a parallax of 9.8±4.7 mas, yielding a distance of roughly 102 pc or 330 ly.",
    "section": "Observation"
   },
-  "f133": {
+  "f129": {
    "kind": "number",
    "value": 102,
    "surface": "102",
    "sentence": "The first, in 1991, gave a parallax of 9.8±4.7 mas, yielding a distance of roughly 102 pc or 330 ly.",
    "section": "Observation"
   },
-  "f134": {
+  "f130": {
    "kind": "number",
    "value": 330,
    "surface": "330",
    "sentence": "The first, in 1991, gave a parallax of 9.8±4.7 mas, yielding a distance of roughly 102 pc or 330 ly.",
    "section": "Observation"
   },
-  "f135": {
-   "kind": "date",
-   "value": "1993",
-   "surface": "1993",
-   "sentence": "The second was the Hipparcos Input Catalogue (1993) with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
-   "section": "Observation"
-  },
-  "f136": {
+  "f131": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "The second was the Hipparcos Input Catalogue (1993) with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
+   "sentence": "The second was the Hipparcos Input Catalogue with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
    "section": "Observation"
   },
-  "f137": {
+  "f132": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "The second was the Hipparcos Input Catalogue (1993) with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
+   "sentence": "The second was the Hipparcos Input Catalogue with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
    "section": "Observation"
   },
-  "f138": {
+  "f133": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "The second was the Hipparcos Input Catalogue (1993) with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
+   "sentence": "The second was the Hipparcos Input Catalogue with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
    "section": "Observation"
   },
-  "f139": {
+  "f134": {
    "kind": "date",
    "value": "650",
    "surface": "650",
-   "sentence": "The second was the Hipparcos Input Catalogue (1993) with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
+   "sentence": "The second was the Hipparcos Input Catalogue with a trigonometric parallax of 5±4 mas, a distance of 200 pc or 650 ly.",
    "section": "Observation"
   },
-  "f140": {
+  "f135": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "The results from the Hipparcos mission were released in 1997.",
    "section": "Observation"
   },
-  "f141": {
+  "f136": {
    "kind": "number",
    "value": 7.63,
    "surface": "7.63",
    "sentence": "The measured parallax of Betelgeuse was 7.63±1.64 mas, which equated to a distance of roughly 131 pc or 427 ly, and had a smaller reported error than previous measurements.",
    "section": "Observation"
   },
-  "f142": {
+  "f137": {
    "kind": "number",
    "value": 1.64,
    "surface": "1.64",
    "sentence": "The measured parallax of Betelgeuse was 7.63±1.64 mas, which equated to a distance of roughly 131 pc or 427 ly, and had a smaller reported error than previous measurements.",
    "section": "Observation"
   },
-  "f143": {
+  "f138": {
    "kind": "number",
    "value": 131,
    "surface": "131",
    "sentence": "The measured parallax of Betelgeuse was 7.63±1.64 mas, which equated to a distance of roughly 131 pc or 427 ly, and had a smaller reported error than previous measurements.",
    "section": "Observation"
   },
-  "f144": {
+  "f139": {
    "kind": "number",
    "value": 427,
    "surface": "427",
    "sentence": "The measured parallax of Betelgeuse was 7.63±1.64 mas, which equated to a distance of roughly 131 pc or 427 ly, and had a smaller reported error than previous measurements.",
    "section": "Observation"
   },
-  "f145": {
+  "f140": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f146": {
+  "f141": {
    "kind": "number",
    "value": 6.55,
    "surface": "6.55",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f147": {
+  "f142": {
    "kind": "number",
    "value": 0.83,
    "surface": "0.83",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f148": {
+  "f143": {
    "kind": "number",
    "value": 152,
    "surface": "152",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f149": {
+  "f144": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f150": {
+  "f145": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f151": {
+  "f146": {
    "kind": "number",
    "value": 65,
    "surface": "65",
    "sentence": "In 2007, an improved figure of 6.55±0.83 was calculated, hence a much tighter error factor yielding a distance of roughly 152±20 pc or 500±65 ly.",
    "section": "Observation"
   },
-  "f152": {
+  "f147": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "section": "Observation"
+  },
+  "f148": {
+   "kind": "number",
+   "value": 5.07,
+   "surface": "5.07",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "section": "Observation"
+  },
+  "f149": {
+   "kind": "number",
+   "value": 1.1,
+   "surface": "1.10",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "section": "Observation"
+  },
+  "f150": {
+   "kind": "number",
+   "value": 197,
+   "surface": "197",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "section": "Observation"
+  },
+  "f151": {
+   "kind": "number",
+   "value": 45,
+   "surface": "45",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "section": "Observation"
+  },
+  "f152": {
+   "kind": "date",
+   "value": "643",
+   "surface": "643",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
    "section": "Observation"
   },
   "f153": {
    "kind": "number",
-   "value": 5.07,
-   "surface": "5.07",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "value": 146,
+   "surface": "146",
+   "sentence": "In 2008, measurements using the Very Large Array produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
    "section": "Observation"
   },
   "f154": {
    "kind": "number",
-   "value": 1.1,
-   "surface": "1.10",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
+   "value": 2.4,
+   "surface": "2.4",
+   "sentence": "As the researcher, Harper, points out: \"The revised Hipparcos parallax leads to a larger distance than the original; however, the astrometric solution still requires a significant cosmic noise of 2.4 mas.",
    "section": "Observation"
   },
   "f155": {
-   "kind": "number",
-   "value": 197,
-   "surface": "197",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
-   "section": "Observation"
-  },
-  "f156": {
-   "kind": "number",
-   "value": 45,
-   "surface": "45",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
-   "section": "Observation"
-  },
-  "f157": {
-   "kind": "date",
-   "value": "643",
-   "surface": "643",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
-   "section": "Observation"
-  },
-  "f158": {
-   "kind": "number",
-   "value": 146,
-   "surface": "146",
-   "sentence": "In 2008, measurements using the Very Large Array (VLA) produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.",
-   "section": "Observation"
-  },
-  "f159": {
-   "kind": "number",
-   "value": 152,
-   "surface": "152",
-   "sentence": "As the researcher, Harper, points out: \"The revised Hipparcos parallax leads to a larger distance (152±20 pc) than the original; however, the astrometric solution still requires a significant cosmic noise of 2.4 mas.",
-   "section": "Observation"
-  },
-  "f160": {
-   "kind": "number",
-   "value": 20,
-   "surface": "20",
-   "sentence": "As the researcher, Harper, points out: \"The revised Hipparcos parallax leads to a larger distance (152±20 pc) than the original; however, the astrometric solution still requires a significant cosmic noise of 2.4 mas.",
-   "section": "Observation"
-  },
-  "f161": {
-   "kind": "number",
-   "value": 2.4,
-   "surface": "2.4",
-   "sentence": "As the researcher, Harper, points out: \"The revised Hipparcos parallax leads to a larger distance (152±20 pc) than the original; however, the astrometric solution still requires a significant cosmic noise of 2.4 mas.",
-   "section": "Observation"
-  },
-  "f162": {
    "kind": "number",
    "value": 4.51,
    "surface": "4.51",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f163": {
+  "f156": {
    "kind": "number",
    "value": 0.8,
    "surface": "0.8",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f164": {
+  "f157": {
    "kind": "number",
    "value": 222,
    "surface": "222",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f165": {
+  "f158": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f166": {
+  "f159": {
    "kind": "number",
    "value": 48,
    "surface": "48",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f167": {
+  "f160": {
    "kind": "date",
    "value": "724",
    "surface": "724",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f168": {
+  "f161": {
    "kind": "number",
    "value": 111,
    "surface": "111",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f169": {
+  "f162": {
    "kind": "number",
    "value": 156,
    "surface": "156",
    "sentence": "An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222+34−48 pc or 724+111−156 ly.",
    "section": "Observation"
   },
-  "f170": {
+  "f163": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f171": {
+  "f164": {
    "kind": "number",
    "value": 5.95,
    "surface": "5.95",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f172": {
+  "f165": {
    "kind": "number",
    "value": 0.58,
    "surface": "0.58",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f173": {
+  "f166": {
    "kind": "number",
    "value": 0.8,
    "surface": "0.8",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f174": {
+  "f167": {
    "kind": "date",
    "value": "764",
    "surface": "764",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f175": {
+  "f168": {
    "kind": "number",
    "value": 116,
    "surface": "116",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f176": {
+  "f169": {
    "kind": "number",
    "value": 62,
    "surface": "62",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f177": {
+  "f170": {
    "kind": "number",
    "value": 168.1,
    "surface": "168.1",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f178": {
+  "f171": {
    "kind": "number",
    "value": 27.5,
    "surface": "27.5",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f179": {
+  "f172": {
    "kind": "number",
    "value": 14.4,
    "surface": "14.4",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f180": {
+  "f173": {
    "kind": "date",
    "value": "548",
    "surface": "548",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f181": {
+  "f174": {
    "kind": "number",
    "value": 90,
    "surface": "90",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f182": {
+  "f175": {
    "kind": "number",
    "value": 49,
    "surface": "49",
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f183": {
+  "f176": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -1328,7 +1278,7 @@
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f184": {
+  "f177": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -1336,149 +1286,141 @@
    "sentence": "In 2020, new observational data from the space-based Solar Mass Ejection Imager aboard the Coriolis satellite and three different modeling techniques produced a refined parallax of 5.95+0.58−0.8 mas, a radius of 764+116−62 R☉, and a distance of 168.1+27.5−14.4 pc or 548+90−49 ly, which would imply Betelgeuse is nearly 25% smaller and 25% closer to Earth than previously thought.",
    "section": "Observation"
   },
-  "f185": {
+  "f178": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Another study in 2022 suggests Betelgeuse to be smaller and closer than previously thought based on historical records which revealed Betelgeuse changed in color from yellow to red in the last thousand years.",
    "section": "Observation"
   },
-  "f186": {
+  "f179": {
    "kind": "measure",
    "value": 14,
    "unit": "m",
    "surface": "14 M",
-   "sentence": "This color change suggests an initial mass of 14 M☉, considerably less than previous estimates, and the best-fit evolutionary track gives an estimate as low as 125 parsecs (410 light-years), consistent with the Hipparcos data.",
+   "sentence": "This color change suggests an initial mass of 14 M☉, considerably less than previous estimates, and the best-fit evolutionary track gives an estimate as low as 125 parsecs, consistent with the Hipparcos data.",
    "section": "Observation"
   },
-  "f187": {
+  "f180": {
    "kind": "number",
    "value": 125,
    "surface": "125",
-   "sentence": "This color change suggests an initial mass of 14 M☉, considerably less than previous estimates, and the best-fit evolutionary track gives an estimate as low as 125 parsecs (410 light-years), consistent with the Hipparcos data.",
+   "sentence": "This color change suggests an initial mass of 14 M☉, considerably less than previous estimates, and the best-fit evolutionary track gives an estimate as low as 125 parsecs, consistent with the Hipparcos data.",
    "section": "Observation"
   },
-  "f188": {
-   "kind": "measure",
-   "value": 410,
-   "unit": "light-years",
-   "surface": "410 light-years",
-   "sentence": "This color change suggests an initial mass of 14 M☉, considerably less than previous estimates, and the best-fit evolutionary track gives an estimate as low as 125 parsecs (410 light-years), consistent with the Hipparcos data.",
-   "section": "Observation"
-  },
-  "f189": {
+  "f181": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "The European Space Agency's Gaia mission was unable to produce good parallax results for stars like Betelgeuse which are brighter than the approximately V=6 saturation limit of the mission's instruments.",
    "section": "Observation"
   },
-  "f190": {
+  "f182": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Because of this limitation, there was no data on Betelgeuse in Gaia Data Release 2, from 2018 or Data Release 3 from 2022.",
    "section": "Observation"
   },
-  "f191": {
+  "f183": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Because of this limitation, there was no data on Betelgeuse in Gaia Data Release 2, from 2018 or Data Release 3 from 2022.",
    "section": "Observation"
   },
-  "f192": {
+  "f184": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Because of this limitation, there was no data on Betelgeuse in Gaia Data Release 2, from 2018 or Data Release 3 from 2022.",
    "section": "Observation"
   },
-  "f193": {
+  "f185": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Because of this limitation, there was no data on Betelgeuse in Gaia Data Release 2, from 2018 or Data Release 3 from 2022.",
    "section": "Observation"
   },
-  "f194": {
+  "f186": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "Betelgeuse typically shows only small brightness changes near to magnitude +0.5, although at its extremes it can become as bright as magnitude 0.0 or as faint as magnitude +1.6.",
    "section": "Observation"
   },
-  "f195": {
+  "f187": {
    "kind": "number",
    "value": 0,
    "surface": "0.0",
    "sentence": "Betelgeuse typically shows only small brightness changes near to magnitude +0.5, although at its extremes it can become as bright as magnitude 0.0 or as faint as magnitude +1.6.",
    "section": "Observation"
   },
-  "f196": {
+  "f188": {
    "kind": "number",
    "value": 1.6,
    "surface": "1.6",
    "sentence": "Betelgeuse typically shows only small brightness changes near to magnitude +0.5, although at its extremes it can become as bright as magnitude 0.0 or as faint as magnitude +1.6.",
    "section": "Observation"
   },
-  "f197": {
+  "f189": {
    "kind": "number",
    "value": 2335,
    "surface": "2,335",
    "sentence": "Betelgeuse is listed in the General Catalogue of Variable Stars with a possible period of 2,335 days.",
    "section": "Observation"
   },
-  "f198": {
+  "f190": {
    "kind": "number",
    "value": 400,
    "surface": "400",
    "sentence": "More detailed analyses have shown a main period near 400 days, a short period of 185 days, and a longer secondary period around 2,100 days.",
    "section": "Observation"
   },
-  "f199": {
+  "f191": {
    "kind": "number",
    "value": 185,
    "surface": "185",
    "sentence": "More detailed analyses have shown a main period near 400 days, a short period of 185 days, and a longer secondary period around 2,100 days.",
    "section": "Observation"
   },
-  "f200": {
+  "f192": {
    "kind": "number",
    "value": 2100,
    "surface": "2,100",
    "sentence": "More detailed analyses have shown a main period near 400 days, a short period of 185 days, and a longer secondary period around 2,100 days.",
    "section": "Observation"
   },
-  "f201": {
+  "f193": {
    "kind": "number",
    "value": 1.614,
    "surface": "1.614",
    "sentence": "The lowest reliably-recorded V-band magnitude of +1.614 was reported in February 2020.",
    "section": "Observation"
   },
-  "f202": {
+  "f194": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "The lowest reliably-recorded V-band magnitude of +1.614 was reported in February 2020.",
    "section": "Observation"
   },
-  "f203": {
+  "f195": {
    "kind": "number",
    "value": 185,
    "surface": "185",
    "sentence": "First overtone pulsations of 185 days have been observed, and the ratio of the fundamental to overtone periods gives valuable information about the internal structure of the star and its age.",
    "section": "Observation"
   },
-  "f204": {
+  "f196": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Interferometric observations of Betelgeuse have shown hotspots that are thought to be created by massive convection cells, a significant fraction of the diameter of the star and each emitting 5–10% of the total light of the star.",
    "section": "Observation"
   },
-  "f205": {
+  "f197": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -1486,28 +1428,28 @@
    "sentence": "Interferometric observations of Betelgeuse have shown hotspots that are thought to be created by massive convection cells, a significant fraction of the diameter of the star and each emitting 5–10% of the total light of the star.",
    "section": "Observation"
   },
-  "f206": {
+  "f198": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "On 13 December 1920, Betelgeuse became the first star outside the Solar System to have the angular size of its photosphere measured.",
    "section": "Observation"
   },
-  "f207": {
+  "f199": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "On 13 December 1920, Betelgeuse became the first star outside the Solar System to have the angular size of its photosphere measured.",
    "section": "Observation"
   },
-  "f208": {
+  "f200": {
    "kind": "number",
    "value": 0.047,
    "surface": "0.047",
    "sentence": "The researchers, using a uniform disk model, determined that Betelgeuse had a diameter of 0.047″, although the stellar disk was likely 17% larger due to the limb darkening, resulting in an estimate for its angular diameter of about 0.055\".",
    "section": "Observation"
   },
-  "f209": {
+  "f201": {
    "kind": "measure",
    "value": 17,
    "unit": "%",
@@ -1515,49 +1457,49 @@
    "sentence": "The researchers, using a uniform disk model, determined that Betelgeuse had a diameter of 0.047″, although the stellar disk was likely 17% larger due to the limb darkening, resulting in an estimate for its angular diameter of about 0.055\".",
    "section": "Observation"
   },
-  "f210": {
+  "f202": {
    "kind": "number",
    "value": 0.055,
    "surface": "0.055",
    "sentence": "The researchers, using a uniform disk model, determined that Betelgeuse had a diameter of 0.047″, although the stellar disk was likely 17% larger due to the limb darkening, resulting in an estimate for its angular diameter of about 0.055\".",
    "section": "Observation"
   },
-  "f211": {
+  "f203": {
    "kind": "number",
    "value": 0.042,
    "surface": "0.042",
    "sentence": "Since then, other studies have produced angular diameters that range from 0.042 to 0.069″.",
    "section": "Observation"
   },
-  "f212": {
+  "f204": {
    "kind": "number",
    "value": 0.069,
    "surface": "0.069",
    "sentence": "Since then, other studies have produced angular diameters that range from 0.042 to 0.069″.",
    "section": "Observation"
   },
-  "f213": {
+  "f205": {
    "kind": "number",
    "value": 180,
    "surface": "180",
    "sentence": "Combining these data with historical distance estimates of 180 to 815 ly yields a projected radius of the stellar disk of anywhere from 1.2 to 8.9 AU.",
    "section": "Observation"
   },
-  "f214": {
+  "f206": {
    "kind": "date",
    "value": "815",
    "surface": "815",
    "sentence": "Combining these data with historical distance estimates of 180 to 815 ly yields a projected radius of the stellar disk of anywhere from 1.2 to 8.9 AU.",
    "section": "Observation"
   },
-  "f215": {
+  "f207": {
    "kind": "number",
    "value": 1.2,
    "surface": "1.2",
    "sentence": "Combining these data with historical distance estimates of 180 to 815 ly yields a projected radius of the stellar disk of anywhere from 1.2 to 8.9 AU.",
    "section": "Observation"
   },
-  "f216": {
+  "f208": {
    "kind": "measure",
    "value": 8.9,
    "unit": "au",
@@ -1565,7 +1507,7 @@
    "sentence": "Combining these data with historical distance estimates of 180 to 815 ly yields a projected radius of the stellar disk of anywhere from 1.2 to 8.9 AU.",
    "section": "Observation"
   },
-  "f217": {
+  "f209": {
    "kind": "measure",
    "value": 1.5,
    "unit": "au",
@@ -1573,7 +1515,7 @@
    "sentence": "Using the Solar System for comparison, the orbit of Mars is about 1.5 AU, Ceres in the asteroid belt 2.7 AU, Jupiter 5.5 AU—so, assuming Betelgeuse occupying the place of the Sun, its photosphere might extend beyond the Jovian orbit, not quite reaching Saturn at 9.5 AU.",
    "section": "Observation"
   },
-  "f218": {
+  "f210": {
    "kind": "measure",
    "value": 2.7,
    "unit": "au",
@@ -1581,7 +1523,7 @@
    "sentence": "Using the Solar System for comparison, the orbit of Mars is about 1.5 AU, Ceres in the asteroid belt 2.7 AU, Jupiter 5.5 AU—so, assuming Betelgeuse occupying the place of the Sun, its photosphere might extend beyond the Jovian orbit, not quite reaching Saturn at 9.5 AU.",
    "section": "Observation"
   },
-  "f219": {
+  "f211": {
    "kind": "measure",
    "value": 5.5,
    "unit": "au",
@@ -1589,7 +1531,7 @@
    "sentence": "Using the Solar System for comparison, the orbit of Mars is about 1.5 AU, Ceres in the asteroid belt 2.7 AU, Jupiter 5.5 AU—so, assuming Betelgeuse occupying the place of the Sun, its photosphere might extend beyond the Jovian orbit, not quite reaching Saturn at 9.5 AU.",
    "section": "Observation"
   },
-  "f220": {
+  "f212": {
    "kind": "measure",
    "value": 9.5,
    "unit": "au",
@@ -1597,106 +1539,98 @@
    "sentence": "Using the Solar System for comparison, the orbit of Mars is about 1.5 AU, Ceres in the asteroid belt 2.7 AU, Jupiter 5.5 AU—so, assuming Betelgeuse occupying the place of the Sun, its photosphere might extend beyond the Jovian orbit, not quite reaching Saturn at 9.5 AU.",
    "section": "Observation"
   },
-  "f221": {
+  "f213": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "The precise diameter has been hard to define for several reasons:\nBetelgeuse is a pulsating star, so its diameter changes with time;\nThe star has no definable \"edge\" as limb darkening causes the optical emissions to vary in color and decrease the farther one extends out from the center;\nBetelgeuse is surrounded by a circumstellar envelope composed of matter ejected from the star—matter which absorbs and emits light—making it difficult to define the photosphere of the star;\nMeasurements can be taken at varying wavelengths within the electromagnetic spectrum and the difference in reported diameters can be as much as 30–35%, yet comparing one finding with another is difficult as the star's apparent size differs depending on the wavelength used.",
+   "sentence": "The precise diameter has been hard to define for several reasons:\nBetelgeuse is a pulsating star, so its diameter changes with time;\nThe star has no definable \"edge\"as limb darkening causes the optical emissions to vary in color and decrease the farther one extends out from the center;\nBetelgeuse is surrounded by a circumstellar envelope composed of matter ejected from the star—matter which absorbs and emits light—making it difficult to define the photosphere of the star;\nMeasurements can be taken at varying wavelengths within the electromagnetic spectrum and the difference in reported diameters can be as much as 30–35%, yet comparing one finding with another is difficult as the star's apparent size differs depending on the wavelength used.",
    "section": "Observation"
   },
-  "f222": {
-   "kind": "measure",
-   "value": 35,
-   "unit": "%",
-   "surface": "35%",
-   "sentence": "The precise diameter has been hard to define for several reasons:\nBetelgeuse is a pulsating star, so its diameter changes with time;\nThe star has no definable \"edge\" as limb darkening causes the optical emissions to vary in color and decrease the farther one extends out from the center;\nBetelgeuse is surrounded by a circumstellar envelope composed of matter ejected from the star—matter which absorbs and emits light—making it difficult to define the photosphere of the star;\nMeasurements can be taken at varying wavelengths within the electromagnetic spectrum and the difference in reported diameters can be as much as 30–35%, yet comparing one finding with another is difficult as the star's apparent size differs depending on the wavelength used.",
-   "section": "Observation"
-  },
-  "f223": {
+  "f214": {
    "kind": "number",
    "value": 55.6,
    "surface": "55.6",
-   "sentence": "For example, a measured angular diameter of 55.6 milliarcseconds (mas) would correspond to a Rosseland mean diameter of 56.2 mas, while further corrections for the existence of surrounding dust and gas shells would give a diameter of 41.9 mas.",
+   "sentence": "For example, a measured angular diameter of 55.6 milliarcseconds would correspond to a Rosseland mean diameter of 56.2 mas, while further corrections for the existence of surrounding dust and gas shells would give a diameter of 41.9 mas.",
    "section": "Observation"
   },
-  "f224": {
+  "f215": {
    "kind": "number",
    "value": 56.2,
    "surface": "56.2",
-   "sentence": "For example, a measured angular diameter of 55.6 milliarcseconds (mas) would correspond to a Rosseland mean diameter of 56.2 mas, while further corrections for the existence of surrounding dust and gas shells would give a diameter of 41.9 mas.",
+   "sentence": "For example, a measured angular diameter of 55.6 milliarcseconds would correspond to a Rosseland mean diameter of 56.2 mas, while further corrections for the existence of surrounding dust and gas shells would give a diameter of 41.9 mas.",
    "section": "Observation"
   },
-  "f225": {
+  "f216": {
    "kind": "number",
    "value": 41.9,
    "surface": "41.9",
-   "sentence": "For example, a measured angular diameter of 55.6 milliarcseconds (mas) would correspond to a Rosseland mean diameter of 56.2 mas, while further corrections for the existence of surrounding dust and gas shells would give a diameter of 41.9 mas.",
+   "sentence": "For example, a measured angular diameter of 55.6 milliarcseconds would correspond to a Rosseland mean diameter of 56.2 mas, while further corrections for the existence of surrounding dust and gas shells would give a diameter of 41.9 mas.",
    "section": "Observation"
   },
-  "f226": {
+  "f217": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
    "sentence": "Astronomical interferometry, first conceived by Hippolyte Fizeau in 1868, was the seminal concept that has enabled major improvements in modern telescopy and led to the creation of the Michelson interferometer in the 1880s, and the first successful measurement of Betelgeuse.",
    "section": "Observation"
   },
-  "f227": {
+  "f218": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
    "sentence": "In 1996, Betelgeuse was shown to have a uniform disk of 56.6±1.0 mas.",
    "section": "Observation"
   },
-  "f228": {
+  "f219": {
    "kind": "number",
    "value": 56.6,
    "surface": "56.6",
    "sentence": "In 1996, Betelgeuse was shown to have a uniform disk of 56.6±1.0 mas.",
    "section": "Observation"
   },
-  "f229": {
+  "f220": {
    "kind": "number",
    "value": 1,
    "surface": "1.0",
    "sentence": "In 1996, Betelgeuse was shown to have a uniform disk of 56.6±1.0 mas.",
    "section": "Observation"
   },
-  "f230": {
+  "f221": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
    "sentence": "In 2000, a Space Sciences Laboratory team measured a diameter of 54.7±0.3 mas, ignoring any possible contribution from hotspots, which are less noticeable in the mid-infrared.",
    "section": "Observation"
   },
-  "f231": {
+  "f222": {
    "kind": "number",
    "value": 54.7,
    "surface": "54.7",
    "sentence": "In 2000, a Space Sciences Laboratory team measured a diameter of 54.7±0.3 mas, ignoring any possible contribution from hotspots, which are less noticeable in the mid-infrared.",
    "section": "Observation"
   },
-  "f232": {
+  "f223": {
    "kind": "number",
    "value": 0.3,
    "surface": "0.3",
    "sentence": "In 2000, a Space Sciences Laboratory team measured a diameter of 54.7±0.3 mas, ignoring any possible contribution from hotspots, which are less noticeable in the mid-infrared.",
    "section": "Observation"
   },
-  "f233": {
+  "f224": {
    "kind": "number",
    "value": 55.2,
    "surface": "55.2",
    "sentence": "Also included was a theoretical allowance for limb darkening, yielding a diameter of 55.2±0.5 mas.",
    "section": "Observation"
   },
-  "f234": {
+  "f225": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "Also included was a theoretical allowance for limb darkening, yielding a diameter of 55.2±0.5 mas.",
    "section": "Observation"
   },
-  "f235": {
+  "f226": {
    "kind": "measure",
    "value": 5.6,
    "unit": "au",
@@ -1704,35 +1638,35 @@
    "sentence": "The earlier estimate equates to a radius of roughly 5.6 AU or 1,200 R☉, assuming the 2008 Harper distance of 197.0±45 pc,\na figure roughly the size of the Jovian orbit of 5.5 AU.",
    "section": "Observation"
   },
-  "f236": {
+  "f227": {
    "kind": "number",
    "value": 1200,
    "surface": "1,200",
    "sentence": "The earlier estimate equates to a radius of roughly 5.6 AU or 1,200 R☉, assuming the 2008 Harper distance of 197.0±45 pc,\na figure roughly the size of the Jovian orbit of 5.5 AU.",
    "section": "Observation"
   },
-  "f237": {
+  "f228": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "The earlier estimate equates to a radius of roughly 5.6 AU or 1,200 R☉, assuming the 2008 Harper distance of 197.0±45 pc,\na figure roughly the size of the Jovian orbit of 5.5 AU.",
    "section": "Observation"
   },
-  "f238": {
+  "f229": {
    "kind": "number",
    "value": 197,
    "surface": "197.0",
    "sentence": "The earlier estimate equates to a radius of roughly 5.6 AU or 1,200 R☉, assuming the 2008 Harper distance of 197.0±45 pc,\na figure roughly the size of the Jovian orbit of 5.5 AU.",
    "section": "Observation"
   },
-  "f239": {
+  "f230": {
    "kind": "number",
    "value": 45,
    "surface": "45",
    "sentence": "The earlier estimate equates to a radius of roughly 5.6 AU or 1,200 R☉, assuming the 2008 Harper distance of 197.0±45 pc,\na figure roughly the size of the Jovian orbit of 5.5 AU.",
    "section": "Observation"
   },
-  "f240": {
+  "f231": {
    "kind": "measure",
    "value": 5.5,
    "unit": "au",
@@ -1740,98 +1674,98 @@
    "sentence": "The earlier estimate equates to a radius of roughly 5.6 AU or 1,200 R☉, assuming the 2008 Harper distance of 197.0±45 pc,\na figure roughly the size of the Jovian orbit of 5.5 AU.",
    "section": "Observation"
   },
-  "f241": {
+  "f232": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "In 2004, a team of astronomers working in the near-infrared announced that the more accurate photospheric measurement was 43.33±0.04 mas.",
    "section": "Observation"
   },
-  "f242": {
+  "f233": {
    "kind": "number",
    "value": 43.33,
    "surface": "43.33",
    "sentence": "In 2004, a team of astronomers working in the near-infrared announced that the more accurate photospheric measurement was 43.33±0.04 mas.",
    "section": "Observation"
   },
-  "f243": {
+  "f234": {
    "kind": "number",
    "value": 0.04,
    "surface": "0.04",
    "sentence": "In 2004, a team of astronomers working in the near-infrared announced that the more accurate photospheric measurement was 43.33±0.04 mas.",
    "section": "Observation"
   },
-  "f244": {
+  "f235": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
-   "sentence": "Studies with the IOTA and VLTI published in 2009 brought strong support to the idea of dust shells and a molecular shell (MOLsphere) around Betelgeuse, and yielded diameters ranging from 42.57 to 44.28 mas with comparatively insignificant margins of error.",
+   "sentence": "Studies with the IOTA and VLTI published in 2009 brought strong support to the idea of dust shells and a molecular shell around Betelgeuse, and yielded diameters ranging from 42.57 to 44.28 mas with comparatively insignificant margins of error.",
    "section": "Observation"
   },
-  "f245": {
+  "f236": {
    "kind": "number",
    "value": 42.57,
    "surface": "42.57",
-   "sentence": "Studies with the IOTA and VLTI published in 2009 brought strong support to the idea of dust shells and a molecular shell (MOLsphere) around Betelgeuse, and yielded diameters ranging from 42.57 to 44.28 mas with comparatively insignificant margins of error.",
+   "sentence": "Studies with the IOTA and VLTI published in 2009 brought strong support to the idea of dust shells and a molecular shell around Betelgeuse, and yielded diameters ranging from 42.57 to 44.28 mas with comparatively insignificant margins of error.",
    "section": "Observation"
   },
-  "f246": {
+  "f237": {
    "kind": "number",
    "value": 44.28,
    "surface": "44.28",
-   "sentence": "Studies with the IOTA and VLTI published in 2009 brought strong support to the idea of dust shells and a molecular shell (MOLsphere) around Betelgeuse, and yielded diameters ranging from 42.57 to 44.28 mas with comparatively insignificant margins of error.",
+   "sentence": "Studies with the IOTA and VLTI published in 2009 brought strong support to the idea of dust shells and a molecular shell around Betelgeuse, and yielded diameters ranging from 42.57 to 44.28 mas with comparatively insignificant margins of error.",
    "section": "Observation"
   },
-  "f247": {
+  "f238": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "In 2011, a third estimate in the near-infrared corroborating the 2009 numbers, this time showing a limb-darkened disk diameter of 42.49±0.06 mas.",
    "section": "Observation"
   },
-  "f248": {
+  "f239": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2011, a third estimate in the near-infrared corroborating the 2009 numbers, this time showing a limb-darkened disk diameter of 42.49±0.06 mas.",
    "section": "Observation"
   },
-  "f249": {
+  "f240": {
    "kind": "number",
    "value": 42.49,
    "surface": "42.49",
    "sentence": "In 2011, a third estimate in the near-infrared corroborating the 2009 numbers, this time showing a limb-darkened disk diameter of 42.49±0.06 mas.",
    "section": "Observation"
   },
-  "f250": {
+  "f241": {
    "kind": "number",
    "value": 0.06,
    "surface": "0.06",
    "sentence": "In 2011, a third estimate in the near-infrared corroborating the 2009 numbers, this time showing a limb-darkened disk diameter of 42.49±0.06 mas.",
    "section": "Observation"
   },
-  "f251": {
+  "f242": {
    "kind": "number",
    "value": 43.33,
    "surface": "43.33",
    "sentence": "The near-infrared photospheric diameter of 43.33 mas at the Hipparcos distance of 152±20 pc equates to about 3.4 AU or 730 R☉.",
    "section": "Observation"
   },
-  "f252": {
+  "f243": {
    "kind": "number",
    "value": 152,
    "surface": "152",
    "sentence": "The near-infrared photospheric diameter of 43.33 mas at the Hipparcos distance of 152±20 pc equates to about 3.4 AU or 730 R☉.",
    "section": "Observation"
   },
-  "f253": {
+  "f244": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "The near-infrared photospheric diameter of 43.33 mas at the Hipparcos distance of 152±20 pc equates to about 3.4 AU or 730 R☉.",
    "section": "Observation"
   },
-  "f254": {
+  "f245": {
    "kind": "measure",
    "value": 3.4,
    "unit": "au",
@@ -1839,56 +1773,49 @@
    "sentence": "The near-infrared photospheric diameter of 43.33 mas at the Hipparcos distance of 152±20 pc equates to about 3.4 AU or 730 R☉.",
    "section": "Observation"
   },
-  "f255": {
+  "f246": {
    "kind": "date",
    "value": "730",
    "surface": "730",
    "sentence": "The near-infrared photospheric diameter of 43.33 mas at the Hipparcos distance of 152±20 pc equates to about 3.4 AU or 730 R☉.",
    "section": "Observation"
   },
-  "f256": {
+  "f247": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
-   "sentence": "A 2014 paper derives an angular diameter of 42.28 mas (equivalent to a 41.01 mas uniform disc) using H and K band observations made with the VLTI AMBER instrument.",
+   "sentence": "A 2014 paper derives an angular diameter of 42.28 mas using H and K band observations made with the VLTI AMBER instrument.",
    "section": "Observation"
   },
-  "f257": {
+  "f248": {
    "kind": "number",
    "value": 42.28,
    "surface": "42.28",
-   "sentence": "A 2014 paper derives an angular diameter of 42.28 mas (equivalent to a 41.01 mas uniform disc) using H and K band observations made with the VLTI AMBER instrument.",
+   "sentence": "A 2014 paper derives an angular diameter of 42.28 mas using H and K band observations made with the VLTI AMBER instrument.",
    "section": "Observation"
   },
-  "f258": {
-   "kind": "number",
-   "value": 41.01,
-   "surface": "41.01",
-   "sentence": "A 2014 paper derives an angular diameter of 42.28 mas (equivalent to a 41.01 mas uniform disc) using H and K band observations made with the VLTI AMBER instrument.",
-   "section": "Observation"
-  },
-  "f259": {
+  "f249": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2009 it was announced that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0 mas.",
    "section": "Observation"
   },
-  "f260": {
+  "f250": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "In 2009 it was announced that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0 mas.",
    "section": "Observation"
   },
-  "f261": {
+  "f251": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2009 it was announced that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0 mas.",
    "section": "Observation"
   },
-  "f262": {
+  "f252": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -1896,21 +1823,21 @@
    "sentence": "In 2009 it was announced that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0 mas.",
    "section": "Observation"
   },
-  "f263": {
+  "f253": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "In 2009 it was announced that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0 mas.",
    "section": "Observation"
   },
-  "f264": {
+  "f254": {
    "kind": "number",
    "value": 47,
    "surface": "47.0",
    "sentence": "In 2009 it was announced that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0 mas.",
    "section": "Observation"
   },
-  "f265": {
+  "f255": {
    "kind": "measure",
    "value": 15,
    "unit": "years",
@@ -1918,49 +1845,49 @@
    "sentence": "Unlike most earlier papers, this study used measurements at one specific wavelength over 15 years.",
    "section": "Observation"
   },
-  "f266": {
+  "f256": {
    "kind": "number",
    "value": 56,
    "surface": "56.0",
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f267": {
+  "f257": {
    "kind": "number",
    "value": 0.1,
    "surface": "0.1",
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f268": {
+  "f258": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f269": {
+  "f259": {
    "kind": "number",
    "value": 47,
    "surface": "47.0",
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f270": {
+  "f260": {
    "kind": "number",
    "value": 0.1,
    "surface": "0.1",
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f271": {
+  "f261": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f272": {
+  "f262": {
    "kind": "measure",
    "value": 0.9,
    "unit": "au",
@@ -1968,7 +1895,7 @@
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f273": {
+  "f263": {
    "kind": "measure",
    "value": 15,
    "unit": "years",
@@ -1976,162 +1903,141 @@
    "sentence": "The diminution in Betelgeuse's apparent size equates to a range of values between 56.0±0.1 mas seen in 1993 to 47.0±0.1 mas seen in 2008— a contraction of almost 0.9 AU in 15 years.",
    "section": "Observation"
   },
-  "f274": {
+  "f264": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "The latest models of Betelgeuse adopt a photospheric angular diameter of around 43 mas, with multiple shells out to 50–60 mas.",
    "section": "Observation"
   },
-  "f275": {
+  "f265": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "The latest models of Betelgeuse adopt a photospheric angular diameter of around 43 mas, with multiple shells out to 50–60 mas.",
    "section": "Observation"
   },
-  "f276": {
-   "kind": "number",
-   "value": 60,
-   "surface": "60",
-   "sentence": "The latest models of Betelgeuse adopt a photospheric angular diameter of around 43 mas, with multiple shells out to 50–60 mas.",
-   "section": "Observation"
-  },
-  "f277": {
+  "f266": {
    "kind": "number",
    "value": 197,
    "surface": "197",
    "sentence": "Assuming a distance of 197 pc, this means a stellar diameter of 887±203 R☉.",
    "section": "Observation"
   },
-  "f278": {
+  "f267": {
    "kind": "date",
    "value": "887",
    "surface": "887",
    "sentence": "Assuming a distance of 197 pc, this means a stellar diameter of 887±203 R☉.",
    "section": "Observation"
   },
-  "f279": {
+  "f268": {
    "kind": "number",
    "value": 203,
    "surface": "203",
    "sentence": "Assuming a distance of 197 pc, this means a stellar diameter of 887±203 R☉.",
    "section": "Observation"
   },
-  "f280": {
+  "f269": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "Once considered as having the largest angular diameter of any star in the sky after the Sun, Betelgeuse lost that distinction in 1997 when a group of astronomers measured R Doradus with a diameter of 57.0±0.5 mas, although R Doradus, being much closer to Earth at about 200 ly, has a linear diameter roughly one-third that of Betelgeuse.",
    "section": "Observation"
   },
-  "f281": {
+  "f270": {
    "kind": "number",
    "value": 57,
    "surface": "57.0",
    "sentence": "Once considered as having the largest angular diameter of any star in the sky after the Sun, Betelgeuse lost that distinction in 1997 when a group of astronomers measured R Doradus with a diameter of 57.0±0.5 mas, although R Doradus, being much closer to Earth at about 200 ly, has a linear diameter roughly one-third that of Betelgeuse.",
    "section": "Observation"
   },
-  "f282": {
+  "f271": {
    "kind": "number",
    "value": 0.5,
    "surface": "0.5",
    "sentence": "Once considered as having the largest angular diameter of any star in the sky after the Sun, Betelgeuse lost that distinction in 1997 when a group of astronomers measured R Doradus with a diameter of 57.0±0.5 mas, although R Doradus, being much closer to Earth at about 200 ly, has a linear diameter roughly one-third that of Betelgeuse.",
    "section": "Observation"
   },
-  "f283": {
+  "f272": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "Once considered as having the largest angular diameter of any star in the sky after the Sun, Betelgeuse lost that distinction in 1997 when a group of astronomers measured R Doradus with a diameter of 57.0±0.5 mas, although R Doradus, being much closer to Earth at about 200 ly, has a linear diameter roughly one-third that of Betelgeuse.",
    "section": "Observation"
   },
-  "f284": {
-   "kind": "number",
-   "value": 147857,
-   "surface": "147857",
-   "sentence": "A partial occultation by the 19th magnitude asteroid (147857) 2005 UW381 occurred on 2 January 2012.",
-   "section": "Observation"
-  },
-  "f285": {
+  "f273": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "A partial occultation by the 19th magnitude asteroid (147857) 2005 UW381 occurred on 2 January 2012.",
+   "sentence": "A partial occultation by the 19th magnitude asteroid 2005 UW381 occurred on 2 January 2012.",
    "section": "Observation"
   },
-  "f286": {
+  "f274": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "A partial occultation by the 19th magnitude asteroid (147857) 2005 UW381 occurred on 2 January 2012.",
+   "sentence": "A partial occultation by the 19th magnitude asteroid 2005 UW381 occurred on 2 January 2012.",
    "section": "Observation"
   },
-  "f287": {
+  "f275": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
-   "sentence": "A partial occultation by the 19th magnitude asteroid (147857) 2005 UW381 occurred on 2 January 2012.",
+   "sentence": "A partial occultation by the 19th magnitude asteroid 2005 UW381 occurred on 2 January 2012.",
    "section": "Observation"
   },
-  "f288": {
+  "f276": {
    "kind": "number",
    "value": 0.01,
    "surface": "0.01",
    "sentence": "It was partial because the angular diameter of the star was larger than that of the asteroid; the brightness of Betelgeuse dropped by only about 0.01 magnitudes.",
    "section": "Observation"
   },
-  "f289": {
+  "f277": {
    "kind": "number",
    "value": 319,
    "surface": "319",
    "sentence": "The 14th magnitude asteroid 319 Leona was predicted to occult on 12 December 2023, 01:12 UTC.",
    "section": "Observation"
   },
-  "f290": {
+  "f278": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "The 14th magnitude asteroid 319 Leona was predicted to occult on 12 December 2023, 01:12 UTC.",
    "section": "Observation"
   },
-  "f291": {
+  "f279": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "The 14th magnitude asteroid 319 Leona was predicted to occult on 12 December 2023, 01:12 UTC.",
    "section": "Observation"
   },
-  "f292": {
+  "f280": {
    "kind": "number",
    "value": 1,
    "surface": "01",
    "sentence": "The 14th magnitude asteroid 319 Leona was predicted to occult on 12 December 2023, 01:12 UTC.",
    "section": "Observation"
   },
-  "f293": {
+  "f281": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "The 14th magnitude asteroid 319 Leona was predicted to occult on 12 December 2023, 01:12 UTC.",
    "section": "Observation"
   },
-  "f294": {
+  "f282": {
    "kind": "measure",
    "value": 60,
    "unit": "km",
    "surface": "60 km",
-   "sentence": "Projections were later refined as more data were analyzed for a totality (\"ring of fire\") of approximately five seconds and a 60 km wide path stretching from Tajikistan, Armenia, Turkey, Greece, Italy, Spain, the Atlantic Ocean, Miami, Florida and the Florida Keys to parts of Mexico.",
+   "sentence": "Projections were later refined as more data were analyzed for a totality of approximately five seconds and a 60 km wide path stretching from Tajikistan, Armenia, Turkey, Greece, Italy, Spain, the Atlantic Ocean, Miami, Florida and the Florida Keys to parts of Mexico.",
    "section": "Observation"
   },
-  "f295": {
-   "kind": "number",
-   "value": 319,
-   "surface": "319",
-   "sentence": "(The serendipitous event would also afford detailed observations of 319 Leona itself.)",
-   "section": "Observation"
-  },
-  "f296": {
+  "f283": {
    "kind": "number",
    "value": 80,
    "surface": "80",

@@ -65,13 +65,13 @@
    "kind": "date",
    "value": "1907",
    "surface": "1907",
-   "sentence": "Founded in 1907 as a German administrative outpost, it served as a minor administrative centre until it became the national capital at independence in 1962, shifting the main administrative focus away from Huye (formerly Astrida)."
+   "sentence": "Founded in 1907 as a German administrative outpost, it served as a minor administrative centre until it became the national capital at independence in 1962, shifting the main administrative focus away from Huye."
   },
   "f2": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
-   "sentence": "Founded in 1907 as a German administrative outpost, it served as a minor administrative centre until it became the national capital at independence in 1962, shifting the main administrative focus away from Huye (formerly Astrida)."
+   "sentence": "Founded in 1907 as a German administrative outpost, it served as a minor administrative centre until it became the national capital at independence in 1962, shifting the main administrative focus away from Huye."
   },
   "f3": {
    "kind": "number",
@@ -101,7 +101,7 @@
    "kind": "date",
    "value": "2024",
    "surface": "2024",
-   "sentence": "Also notable, before cancellation in July 2024, the Rwanda asylum plan or \"Rwanda Plan\" was an agreement to accept deported migrants from the United Kingdom."
+   "sentence": "Also notable, before cancellation in July 2024, the Rwanda asylum plan or \"Rwanda Plan\"was an agreement to accept deported migrants from the United Kingdom."
   },
   "f8": {
    "kind": "date",
@@ -113,13 +113,13 @@
    "kind": "number",
    "value": 6000,
    "surface": "6,000",
-   "sentence": "Kigali remained the seat of colonial administration for Rwanda but Ruanda-Urundi's capital was at Usumbura (now Bujumbura) in Burundi and Kigali remained a small city with a population of just 6,000 at the time of independence."
+   "sentence": "Kigali remained the seat of colonial administration for Rwanda but Ruanda-Urundi's capital was at Usumbura in Burundi and Kigali remained a small city with a population of just 6,000 at the time of independence."
   },
   "f10": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "It was not initially directly affected by the Rwandan Civil War between government forces and the rebel Rwandan Patriotic Front (RPF), which began in 1990."
+   "sentence": "It was not initially directly affected by the Rwandan Civil War between government forces and the rebel Rwandan Patriotic Front, which began in 1990."
   },
   "f11": {
    "kind": "date",
@@ -179,323 +179,287 @@
    "section": "History"
   },
   "f20": {
-   "kind": "date",
-   "value": "1500",
-   "surface": "1500",
-   "sentence": "They were followed between 700 BC and AD 1500 by a number of Bantu groups, including the Hutu and Tutsi, who began clearing forests for agriculture.",
-   "section": "History"
-  },
-  "f21": {
    "kind": "measure",
    "value": 40,
    "unit": "kilometres",
    "surface": "40 kilometres",
-   "sentence": "According to oral history, the Kingdom of Rwanda was founded in the 14th century on the shores of Lake Muhazi, around 40 kilometres (25 mi) east of modern Kigali.",
+   "sentence": "According to oral history, the Kingdom of Rwanda was founded in the 14th century on the shores of Lake Muhazi, around 40 kilometres east of modern Kigali.",
    "section": "History"
   },
-  "f22": {
-   "kind": "measure",
-   "value": 25,
-   "unit": "mi",
-   "surface": "25 mi",
-   "sentence": "According to oral history, the Kingdom of Rwanda was founded in the 14th century on the shores of Lake Muhazi, around 40 kilometres (25 mi) east of modern Kigali.",
-   "section": "History"
-  },
-  "f23": {
+  "f21": {
    "kind": "date",
    "value": "1907",
    "surface": "1907",
    "sentence": "The founding of Kigali is generally dated to 1907, when German administrator and explorer Richard Kandt was appointed as the first resident of Rwanda, and established the city as the headquarters.",
    "section": "History"
   },
-  "f24": {
+  "f22": {
    "kind": "date",
    "value": "1884",
    "surface": "1884",
    "sentence": "Rwanda and neighbouring Burundi had been assigned to Germany by the Berlin Conference of 1884, forming part of German East Africa, and Germany established a presence in the country in 1897 with the formation of an alliance with the king, Yuhi V Musinga.",
    "section": "History"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1897",
    "surface": "1897",
    "sentence": "Rwanda and neighbouring Burundi had been assigned to Germany by the Berlin Conference of 1884, forming part of German East Africa, and Germany established a presence in the country in 1897 with the formation of an alliance with the king, Yuhi V Musinga.",
    "section": "History"
   },
-  "f26": {
+  "f24": {
    "kind": "date",
    "value": "1899",
    "surface": "1899",
    "sentence": "Kandt arrived in 1899, to explore Lake Kivu and search for the source of the Nile.",
    "section": "History"
   },
-  "f27": {
+  "f25": {
    "kind": "date",
    "value": "1907",
    "surface": "1907",
    "sentence": "When Germany decided in 1907 to separate the administration of Rwanda from that of Burundi, Kandt was appointed as resident.",
    "section": "History"
   },
-  "f28": {
+  "f26": {
    "kind": "date",
    "value": "1905",
    "surface": "1905",
-   "sentence": "Despite a German ordinance written in 1905, which prohibited \"non-indigenous natives\" from entering Rwanda, Kandt began permitting the entry of foreign traders in 1908, which allowed commercial activity to begin in Rwanda.",
+   "sentence": "Despite a German ordinance written in 1905, which prohibited \"non-indigenous natives\"from entering Rwanda, Kandt began permitting the entry of foreign traders in 1908, which allowed commercial activity to begin in Rwanda.",
    "section": "History"
   },
-  "f29": {
+  "f27": {
    "kind": "date",
    "value": "1908",
    "surface": "1908",
-   "sentence": "Despite a German ordinance written in 1905, which prohibited \"non-indigenous natives\" from entering Rwanda, Kandt began permitting the entry of foreign traders in 1908, which allowed commercial activity to begin in Rwanda.",
+   "sentence": "Despite a German ordinance written in 1905, which prohibited \"non-indigenous natives\"from entering Rwanda, Kandt began permitting the entry of foreign traders in 1908, which allowed commercial activity to begin in Rwanda.",
    "section": "History"
   },
-  "f30": {
+  "f28": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Commercial activity was limited and there were only around 30 firms in the city by 1914.",
    "section": "History"
   },
-  "f31": {
+  "f29": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "Commercial activity was limited and there were only around 30 firms in the city by 1914.",
    "section": "History"
   },
-  "f32": {
+  "f30": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Belgian forces took control of Rwanda and Burundi during World War I, with Kigali being captured by the Northern Brigade led by Colonel Philippe Molitor on 6 May 1916.",
    "section": "History"
   },
-  "f33": {
+  "f31": {
    "kind": "date",
    "value": "1916",
    "surface": "1916",
    "sentence": "Belgian forces took control of Rwanda and Burundi during World War I, with Kigali being captured by the Northern Brigade led by Colonel Philippe Molitor on 6 May 1916.",
    "section": "History"
   },
-  "f34": {
+  "f32": {
    "kind": "date",
    "value": "1922",
    "surface": "1922",
    "sentence": "The Belgians were granted sovereignty by a League of Nations mandate in 1922, forming the mandatory territory of Ruanda-Urundi.",
    "section": "History"
   },
-  "f35": {
+  "f33": {
    "kind": "date",
    "value": "1917",
    "surface": "1917",
    "sentence": "In early 1917, Belgium attempted to assert direct rule on the mandate, placing King Musinga under arrest and sidelining Rwandans in the judiciary.",
    "section": "History"
   },
-  "f36": {
+  "f34": {
    "kind": "date",
    "value": "1917",
    "surface": "1917",
    "sentence": "The famine, combined with the difficulty of governing the complex Rwandan society, prompted the Belgians to re-establish the German-style indirect rule at the end of 1917.",
    "section": "History"
   },
-  "f37": {
+  "f35": {
    "kind": "date",
    "value": "1924",
    "surface": "1924",
    "sentence": "This arrangement persisted until the mid-1920s, but from 1924 the Belgians began once more to sideline the monarchy, this time permanently.",
    "section": "History"
   },
-  "f38": {
+  "f36": {
    "kind": "number",
    "value": 50000,
    "surface": "50,000",
    "sentence": "Usumbura's population exceeded 50,000 during the 1950s and was the mandate's only European-style city, while Kigali's population remained at around 6,000 until independence in 1962.",
    "section": "History"
   },
-  "f39": {
+  "f37": {
    "kind": "number",
    "value": 6000,
    "surface": "6,000",
    "sentence": "Usumbura's population exceeded 50,000 during the 1950s and was the mandate's only European-style city, while Kigali's population remained at around 6,000 until independence in 1962.",
    "section": "History"
   },
-  "f40": {
+  "f38": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
    "sentence": "Usumbura's population exceeded 50,000 during the 1950s and was the mandate's only European-style city, while Kigali's population remained at around 6,000 until independence in 1962.",
    "section": "History"
   },
-  "f41": {
+  "f39": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
    "sentence": "Kigali became the capital upon Rwandan independence in 1962.",
    "section": "History"
   },
-  "f42": {
+  "f40": {
    "kind": "number",
    "value": 25000,
    "surface": "25,000",
    "sentence": "The city grew steadily during the following decades; in the early 1970s the population was 25,000 with only five paved roads, and by 1991 it was around 250,000.",
    "section": "History"
   },
-  "f43": {
+  "f41": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "The city grew steadily during the following decades; in the early 1970s the population was 25,000 with only five paved roads, and by 1991 it was around 250,000.",
    "section": "History"
   },
-  "f44": {
+  "f42": {
    "kind": "number",
    "value": 250000,
    "surface": "250,000",
    "sentence": "The city grew steadily during the following decades; in the early 1970s the population was 25,000 with only five paved roads, and by 1991 it was around 250,000.",
    "section": "History"
   },
-  "f45": {
+  "f43": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "On 5 July 1973 there was a bloodless military coup, in which minister of defence Juvénal Habyarimana overthrew ruling president Grégoire Kayibanda.",
    "section": "History"
   },
-  "f46": {
+  "f44": {
    "kind": "date",
    "value": "1973",
    "surface": "1973",
    "sentence": "On 5 July 1973 there was a bloodless military coup, in which minister of defence Juvénal Habyarimana overthrew ruling president Grégoire Kayibanda.",
    "section": "History"
   },
-  "f47": {
+  "f45": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Military officers had gathered in Kigali for a military tattoo to commemorate Independence Day a few days earlier, and they began occupying government buildings from dawn on 4 July.",
    "section": "History"
   },
-  "f48": {
+  "f46": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "According to a US Department of State diplomatic cable sent shortly afterwards, the disruption following the coup was short-lived and the army had left the streets by 11 July.",
    "section": "History"
   },
-  "f49": {
+  "f47": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
-   "sentence": "Kigali was not directly affected during the first three years of the 1990–1994 Rwandan Civil War, although the rebel Rwandan Patriotic Front (RPF) did come close to attacking the city in February 1993.",
+   "sentence": "Kigali was not directly affected during the first three years of the 1990–1994 Rwandan Civil War, although the rebel Rwandan Patriotic Front did come close to attacking the city in February 1993.",
    "section": "History"
   },
-  "f50": {
-   "kind": "date",
-   "value": "1994",
-   "surface": "1994",
-   "sentence": "Kigali was not directly affected during the first three years of the 1990–1994 Rwandan Civil War, although the rebel Rwandan Patriotic Front (RPF) did come close to attacking the city in February 1993.",
-   "section": "History"
-  },
-  "f51": {
+  "f48": {
    "kind": "date",
    "value": "1993",
    "surface": "1993",
-   "sentence": "Kigali was not directly affected during the first three years of the 1990–1994 Rwandan Civil War, although the rebel Rwandan Patriotic Front (RPF) did come close to attacking the city in February 1993.",
+   "sentence": "Kigali was not directly affected during the first three years of the 1990–1994 Rwandan Civil War, although the rebel Rwandan Patriotic Front did come close to attacking the city in February 1993.",
    "section": "History"
   },
-  "f52": {
+  "f49": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
    "sentence": "In April 1994 President Habyarimana was assassinated when his plane was shot down near Kigali International Airport.",
    "section": "History"
   },
-  "f53": {
+  "f50": {
    "kind": "number",
    "value": 500000,
    "surface": "500,000",
    "sentence": "This was the catalyst for the Rwandan genocide, in which 500,000–800,000 Tutsi and politically moderate Hutu were killed in well-planned attacks on the orders of the interim government.",
    "section": "History"
   },
-  "f54": {
+  "f51": {
    "kind": "number",
    "value": 800000,
    "surface": "800,000",
    "sentence": "This was the catalyst for the Rwandan genocide, in which 500,000–800,000 Tutsi and politically moderate Hutu were killed in well-planned attacks on the orders of the interim government.",
    "section": "History"
   },
-  "f55": {
+  "f52": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "The RPF took control of Kigali on 4 July, a date now commemorated as Liberation Day, a Rwandan national holiday.",
    "section": "History"
   },
-  "f56": {
+  "f53": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "A masterplan, adopted by the city and the government in 2013 and supported by international finance and labour, seeks to establish Kigali as a decentralised modern city by 2040.",
    "section": "History"
   },
-  "f57": {
+  "f54": {
    "kind": "date",
    "value": "2040",
    "surface": "2040",
    "sentence": "A masterplan, adopted by the city and the government in 2013 and supported by international finance and labour, seeks to establish Kigali as a decentralised modern city by 2040.",
    "section": "History"
   },
-  "f58": {
+  "f55": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Kigali is located in the centre of Rwanda, at 1°57′S 30°4′E.",
    "section": "Geography"
   },
-  "f59": {
+  "f56": {
    "kind": "number",
    "value": 57,
    "surface": "57",
    "sentence": "Kigali is located in the centre of Rwanda, at 1°57′S 30°4′E.",
    "section": "Geography"
   },
-  "f60": {
+  "f57": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Kigali is located in the centre of Rwanda, at 1°57′S 30°4′E.",
    "section": "Geography"
   },
-  "f61": {
+  "f58": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Kigali is located in the centre of Rwanda, at 1°57′S 30°4′E.",
    "section": "Geography"
   },
-  "f62": {
-   "kind": "number",
-   "value": 2,
-   "surface": "02",
-   "sentence": "Like the rest of Rwanda it uses Central Africa Time, and is two hours ahead of Coordinated Universal Time (UTC+02:00) throughout the year.",
-   "section": "Geography"
-  },
-  "f63": {
-   "kind": "number",
-   "value": 0,
-   "surface": "00",
-   "sentence": "Like the rest of Rwanda it uses Central Africa Time, and is two hours ahead of Coordinated Universal Time (UTC+02:00) throughout the year.",
-   "section": "Geography"
-  },
-  "f64": {
+  "f59": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
-   "sentence": "The City of Kigali is a province-level administrative unit, one of five top-level subdivisions established in 2006 alongside the country's four provinces (Northern, Southern, Eastern, and Western) as part of a restructuring of local government.",
+   "sentence": "The City of Kigali is a province-level administrative unit, one of five top-level subdivisions established in 2006 alongside the country's four provinces as part of a restructuring of local government.",
    "section": "Geography"
   },
-  "f65": {
+  "f60": {
    "kind": "measure",
    "value": 70,
    "unit": "per cent",
@@ -503,174 +467,112 @@
    "sentence": "The built-up urban area covers about 70 per cent of the municipal boundaries.",
    "section": "Geography"
   },
-  "f66": {
+  "f61": {
    "kind": "measure",
    "value": 1567,
    "unit": "m",
    "surface": "1,567 m",
-   "sentence": "The city has an average elevation of 1,567 m (5,141 ft) above sea level, with the lowest areas, in the valleys, lying at around 1,300 m (4,300 ft).",
+   "sentence": "The city has an average elevation of 1,567 m above sea level, with the lowest areas, in the valleys, lying at around 1,300 m.",
    "section": "Geography"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 5141,
-   "unit": "ft",
-   "surface": "5,141 ft",
-   "sentence": "The city has an average elevation of 1,567 m (5,141 ft) above sea level, with the lowest areas, in the valleys, lying at around 1,300 m (4,300 ft).",
-   "section": "Geography"
-  },
-  "f68": {
+  "f62": {
    "kind": "measure",
    "value": 1300,
    "unit": "m",
    "surface": "1,300 m",
-   "sentence": "The city has an average elevation of 1,567 m (5,141 ft) above sea level, with the lowest areas, in the valleys, lying at around 1,300 m (4,300 ft).",
+   "sentence": "The city has an average elevation of 1,567 m above sea level, with the lowest areas, in the valleys, lying at around 1,300 m.",
    "section": "Geography"
   },
-  "f69": {
-   "kind": "measure",
-   "value": 4300,
-   "unit": "ft",
-   "surface": "4,300 ft",
-   "sentence": "The city has an average elevation of 1,567 m (5,141 ft) above sea level, with the lowest areas, in the valleys, lying at around 1,300 m (4,300 ft).",
-   "section": "Geography"
-  },
-  "f70": {
+  "f63": {
    "kind": "measure",
    "value": 1853,
    "unit": "m",
    "surface": "1,853 m",
-   "sentence": "The city is also flanked by higher peaks, including Mount Kigali, which reaches 1,853 m (6,079 ft), and Mount Jali to its north, which rises to 2,071 m (6,795 ft).",
+   "sentence": "The city is also flanked by higher peaks, including Mount Kigali, which reaches 1,853 m, and Mount Jali to its north, which rises to 2,071 m.",
    "section": "Geography"
   },
-  "f71": {
-   "kind": "measure",
-   "value": 6079,
-   "unit": "ft",
-   "surface": "6,079 ft",
-   "sentence": "The city is also flanked by higher peaks, including Mount Kigali, which reaches 1,853 m (6,079 ft), and Mount Jali to its north, which rises to 2,071 m (6,795 ft).",
-   "section": "Geography"
-  },
-  "f72": {
+  "f64": {
    "kind": "measure",
    "value": 2071,
    "unit": "m",
    "surface": "2,071 m",
-   "sentence": "The city is also flanked by higher peaks, including Mount Kigali, which reaches 1,853 m (6,079 ft), and Mount Jali to its north, which rises to 2,071 m (6,795 ft).",
+   "sentence": "The city is also flanked by higher peaks, including Mount Kigali, which reaches 1,853 m, and Mount Jali to its north, which rises to 2,071 m.",
    "section": "Geography"
   },
-  "f73": {
-   "kind": "measure",
-   "value": 6795,
-   "unit": "ft",
-   "surface": "6,795 ft",
-   "sentence": "The city is also flanked by higher peaks, including Mount Kigali, which reaches 1,853 m (6,079 ft), and Mount Jali to its north, which rises to 2,071 m (6,795 ft).",
-   "section": "Geography"
-  },
-  "f74": {
+  "f65": {
    "kind": "date",
    "value": "1907",
    "surface": "1907",
-   "sentence": "Kigali's central business district (CBD), sometimes known by the Kinyarwanda term mu mujyi (\"in town\"), is on Nyarugenge Hill and was the site of the original city founded by Richard Kandt in 1907.",
+   "sentence": "Kigali's central business district, sometimes known by the Kinyarwanda term mu mujyi, is on Nyarugenge Hill and was the site of the original city founded by Richard Kandt in 1907.",
    "section": "Cityscape"
   },
-  "f75": {
+  "f66": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Several of Rwanda's tallest buildings, including the 20-storey Kigali City Tower, are located in the CBD, as are the headquarters of the country's largest banks and businesses.",
    "section": "Cityscape"
   },
-  "f76": {
+  "f67": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Travel publisher Rough Guides described Nyamirambo in 2015 as \"Kigali's coolest neighbourhood\", citing its multi-cultural status and an active nightlife, which is not found in the rest of the city.",
    "section": "Cityscape"
   },
-  "f77": {
+  "f68": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "The lower part of Kiyovu, north of the main road, consisted until 2008 of informal settlements that had formed after independence, when strict residence rules were relaxed.",
    "section": "Cityscape"
   },
-  "f78": {
+  "f69": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "The houses in lower Kiyovu were expropriated by the government in 2008 with residents compensated or relocated to other areas, including to a purpose-built estate in the Batsinda neighbourhood.",
    "section": "Cityscape"
   },
-  "f79": {
+  "f70": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "The government has plans to create a new business district in lower Kiyovu to complement the existing CBD, although as of late 2017 there had been only a handful of buildings erected there.",
    "section": "Cityscape"
   },
-  "f80": {
+  "f71": {
    "kind": "measure",
    "value": 10,
    "unit": "kilometres",
    "surface": "10 kilometres",
-   "sentence": "Other eastern suburbs include Kacyiru, home to most government departments and the office of the president; Gisozi, where the Kigali Genocide Memorial is located; Nyarutarama, an affluent suburb housing the city's only golf course; Kimihurura; Remera and Kanombe, 10 kilometres (6.2 mi) from the CBD on the eastern edge of the city, where Kigali International Airport is located.",
+   "sentence": "Other eastern suburbs include Kacyiru, home to most government departments and the office of the president; Gisozi, where the Kigali Genocide Memorial is located; Nyarutarama, an affluent suburb housing the city's only golf course; Kimihurura; Remera and Kanombe, 10 kilometres from the CBD on the eastern edge of the city, where Kigali International Airport is located.",
    "section": "Cityscape"
   },
-  "f81": {
-   "kind": "measure",
-   "value": 6.2,
-   "unit": "mi",
-   "surface": "6.2 mi",
-   "sentence": "Other eastern suburbs include Kacyiru, home to most government departments and the office of the president; Gisozi, where the Kigali Genocide Memorial is located; Nyarutarama, an affluent suburb housing the city's only golf course; Kimihurura; Remera and Kanombe, 10 kilometres (6.2 mi) from the CBD on the eastern edge of the city, where Kigali International Airport is located.",
-   "section": "Cityscape"
-  },
-  "f82": {
+  "f72": {
    "kind": "number",
    "value": 15,
    "surface": "15",
-   "sentence": "The city has an average daily temperature range between 15 and 27 °C (59 and 81 °F), with little variation through the year.",
+   "sentence": "The city has an average daily temperature range between 15 and 27 °C, with little variation through the year.",
    "section": "Climate"
   },
-  "f83": {
+  "f73": {
    "kind": "measure",
    "value": 27,
    "unit": "°c",
    "surface": "27 °C",
-   "sentence": "The city has an average daily temperature range between 15 and 27 °C (59 and 81 °F), with little variation through the year.",
+   "sentence": "The city has an average daily temperature range between 15 and 27 °C, with little variation through the year.",
    "section": "Climate"
   },
-  "f84": {
-   "kind": "number",
-   "value": 59,
-   "surface": "59",
-   "sentence": "The city has an average daily temperature range between 15 and 27 °C (59 and 81 °F), with little variation through the year.",
-   "section": "Climate"
-  },
-  "f85": {
-   "kind": "measure",
-   "value": 81,
-   "unit": "°f",
-   "surface": "81 °F",
-   "sentence": "The city has an average daily temperature range between 15 and 27 °C (59 and 81 °F), with little variation through the year.",
-   "section": "Climate"
-  },
-  "f86": {
+  "f74": {
    "kind": "measure",
    "value": 154,
    "unit": "millimetres",
    "surface": "154 millimetres",
-   "sentence": "The wettest month is April, with an average rainfall of 154 millimetres (6.1 in), while the driest month is July.",
+   "sentence": "The wettest month is April, with an average rainfall of 154 millimetres, while the driest month is July.",
    "section": "Climate"
   },
-  "f87": {
-   "kind": "number",
-   "value": 6.1,
-   "surface": "6.1",
-   "sentence": "The wettest month is April, with an average rainfall of 154 millimetres (6.1 in), while the driest month is July.",
-   "section": "Climate"
-  },
-  "f88": {
+  "f75": {
    "kind": "measure",
    "value": 0.7,
    "unit": "°c",
@@ -678,7 +580,7 @@
    "sentence": "Strategic Foresight also characterise Rwanda as a rapidly warming country, with an increase in average temperature of between 0.7 °C to 0.9 °C over the 50 years to 2013.",
    "section": "Climate"
   },
-  "f89": {
+  "f76": {
    "kind": "measure",
    "value": 0.9,
    "unit": "°c",
@@ -686,7 +588,7 @@
    "sentence": "Strategic Foresight also characterise Rwanda as a rapidly warming country, with an increase in average temperature of between 0.7 °C to 0.9 °C over the 50 years to 2013.",
    "section": "Climate"
   },
-  "f90": {
+  "f77": {
    "kind": "measure",
    "value": 50,
    "unit": "years",
@@ -694,7 +596,7 @@
    "sentence": "Strategic Foresight also characterise Rwanda as a rapidly warming country, with an increase in average temperature of between 0.7 °C to 0.9 °C over the 50 years to 2013.",
    "section": "Climate"
   },
-  "f91": {
+  "f78": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",

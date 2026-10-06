@@ -63,786 +63,594 @@
    "kind": "number",
    "value": 110,
    "surface": "110",
-   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
+   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres west of Calgary, Banff encompasses 6,641 square kilometres of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
   },
   "f3": {
-   "kind": "measure",
-   "value": 180,
-   "unit": "kilometres",
-   "surface": "180 kilometres",
-   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
-  },
-  "f4": {
-   "kind": "number",
-   "value": 68,
-   "surface": "68",
-   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
-  },
-  "f5": {
-   "kind": "measure",
-   "value": 112,
-   "unit": "mi",
-   "surface": "112 mi",
-   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
-  },
-  "f6": {
    "kind": "measure",
    "value": 6641,
    "unit": "square kilometres",
    "surface": "6,641 square kilometres",
-   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
+   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres west of Calgary, Banff encompasses 6,641 square kilometres of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
   },
-  "f7": {
-   "kind": "number",
-   "value": 2564,
-   "surface": "2,564",
-   "sentence": "Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes."
-  },
-  "f8": {
+  "f4": {
    "kind": "number",
    "value": 80000000,
    "surface": "80 million",
    "sentence": "The mountains were formed from sedimentary rocks that were pushed east over newer rock strata, between 80 million and 55 million years ago."
   },
-  "f9": {
+  "f5": {
    "kind": "measure",
    "value": 55000000,
    "unit": "years",
    "surface": "55 million years",
    "sentence": "The mountains were formed from sedimentary rocks that were pushed east over newer rock strata, between 80 million and 55 million years ago."
   },
-  "f10": {
+  "f6": {
    "kind": "date",
    "value": "1875",
    "surface": "1875",
    "sentence": "In 1875, the Canadian Pacific Railway began construction of a transcontinental railroad through the park."
   },
-  "f11": {
+  "f7": {
    "kind": "number",
    "value": 5000000,
    "surface": "5 million",
    "sentence": "Since the 1960s, park accommodations have been open all year, with annual tourism visits to Banff increasing to over 5 million in the 1990s."
   },
-  "f12": {
+  "f8": {
    "kind": "number",
    "value": 10300,
    "surface": "10,300",
    "sentence": "Archaeological evidence found at Vermilion Lakes indicates the first human activity in Banff to 10,300 BP.",
    "section": "History"
   },
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1807",
    "surface": "1807",
    "sentence": "As the fur trade expanded westward, David Thompson of the North West Company crossed Howse Pass in 1807.",
    "section": "History"
   },
-  "f14": {
+  "f10": {
    "kind": "date",
    "value": "1841",
    "surface": "1841",
    "sentence": "In 1841, the Hudson's Bay Company governor George Simpson traveled up the Bow Valley and crossed the Simpson Pass.",
    "section": "History"
   },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "Between 1857 and 1860, the Palliser expedition conducted scientific surveys in the region.",
    "section": "History"
   },
-  "f16": {
+  "f12": {
    "kind": "date",
    "value": "1860",
    "surface": "1860",
    "sentence": "Between 1857 and 1860, the Palliser expedition conducted scientific surveys in the region.",
    "section": "History"
   },
-  "f17": {
+  "f13": {
    "kind": "date",
    "value": "1858",
    "surface": "1858",
    "sentence": "In 1858, geologist James Hector explored the Bow Valley, and crossed both the Vermilion Pass and Kicking Horse Pass.",
    "section": "History"
   },
-  "f18": {
+  "f14": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "As a condition for British Columbia joining the Canadian Confederation in 1871, Canada agreed to build a transcontinental railroad to connect the province to eastern Canada.",
    "section": "History"
   },
-  "f19": {
+  "f15": {
    "kind": "date",
    "value": "1875",
    "surface": "1875",
    "sentence": "Construction of the railroad began in 1875, with Kicking Horse Pass chosen, over the more northerly Yellowhead Pass, as the route through the Canadian Rockies.",
    "section": "History"
   },
-  "f20": {
+  "f16": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Ten years later, on November 7, 1885, the last spike was driven in Craigellachie, British Columbia.",
    "section": "History"
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "Ten years later, on November 7, 1885, the last spike was driven in Craigellachie, British Columbia.",
    "section": "History"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1883",
    "surface": "1883",
    "sentence": "In 1883, during construction of the railroad, workers encountered the hot springs and this led to government interest and conflicting claims over the hot springs.",
    "section": "History"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
-   "sentence": "In 1885, Prime Minister John A. Macdonald decided to set aside a small reserve of 26 square kilometres (10 sq mi) around the hot springs at Cave and Basin as a public park known as the Banff Hot Springs Reserve.",
+   "sentence": "In 1885, Prime Minister John A. Macdonald decided to set aside a small reserve of 26 square kilometres around the hot springs at Cave and Basin as a public park known as the Banff Hot Springs Reserve.",
    "section": "History"
   },
-  "f24": {
+  "f20": {
    "kind": "measure",
    "value": 26,
    "unit": "square kilometres",
    "surface": "26 square kilometres",
-   "sentence": "In 1885, Prime Minister John A. Macdonald decided to set aside a small reserve of 26 square kilometres (10 sq mi) around the hot springs at Cave and Basin as a public park known as the Banff Hot Springs Reserve.",
+   "sentence": "In 1885, Prime Minister John A. Macdonald decided to set aside a small reserve of 26 square kilometres around the hot springs at Cave and Basin as a public park known as the Banff Hot Springs Reserve.",
    "section": "History"
   },
-  "f25": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "In 1885, Prime Minister John A. Macdonald decided to set aside a small reserve of 26 square kilometres (10 sq mi) around the hot springs at Cave and Basin as a public park known as the Banff Hot Springs Reserve.",
-   "section": "History"
-  },
-  "f26": {
+  "f21": {
    "kind": "number",
    "value": 23,
    "surface": "23",
-   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 (260 sq mi) and named Rocky Mountains Park.",
+   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 and named Rocky Mountains Park.",
    "section": "History"
   },
-  "f27": {
+  "f22": {
    "kind": "date",
    "value": "1887",
    "surface": "1887",
-   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 (260 sq mi) and named Rocky Mountains Park.",
+   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 and named Rocky Mountains Park.",
    "section": "History"
   },
-  "f28": {
+  "f23": {
    "kind": "measure",
    "value": 674,
    "unit": "km2",
    "surface": "674 km2",
-   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 (260 sq mi) and named Rocky Mountains Park.",
+   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 and named Rocky Mountains Park.",
    "section": "History"
   },
-  "f29": {
-   "kind": "number",
-   "value": 260,
-   "surface": "260",
-   "sentence": "Under the Rocky Mountains Park Act, enacted on June 23, 1887, the park was expanded to 674 km2 (260 sq mi) and named Rocky Mountains Park.",
-   "section": "History"
-  },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "1890",
    "surface": "1890",
    "sentence": "The Stoney Nakoda First Nation were removed from Banff National Park between the years 1890 and 1920.",
    "section": "History"
   },
-  "f31": {
+  "f25": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "The Stoney Nakoda First Nation were removed from Banff National Park between the years 1890 and 1920.",
    "section": "History"
   },
-  "f32": {
+  "f26": {
    "kind": "date",
    "value": "1906",
    "surface": "1906",
    "sentence": "From 1906, the Alpine Club of Canada organized climbs, hikes and camps in the park.",
    "section": "History"
   },
-  "f33": {
+  "f27": {
    "kind": "date",
    "value": "1911",
    "surface": "1911",
    "sentence": "By 1911, Banff was accessible by automobile from Calgary.",
    "section": "History"
   },
-  "f34": {
+  "f28": {
    "kind": "date",
    "value": "1916",
    "surface": "1916",
    "sentence": "Beginning in 1916, the Brewsters offered motorcoach tours of Banff.",
    "section": "History"
   },
-  "f35": {
+  "f29": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "In 1920, access to Lake Louise by road was available, and the Banff-Windermere Road opened in 1923 to connect Banff with British Columbia.",
    "section": "History"
   },
-  "f36": {
+  "f30": {
    "kind": "date",
    "value": "1923",
    "surface": "1923",
    "sentence": "In 1920, access to Lake Louise by road was available, and the Banff-Windermere Road opened in 1923 to connect Banff with British Columbia.",
    "section": "History"
   },
-  "f37": {
+  "f31": {
    "kind": "date",
    "value": "1902",
    "surface": "1902",
-   "sentence": "In 1902, the park was expanded to cover 11,400 km2 (4,400 sq mi), encompassing areas around Lake Louise, and the Bow, Red Deer, Kananaskis, and Spray rivers.",
+   "sentence": "In 1902, the park was expanded to cover 11,400 km2, encompassing areas around Lake Louise, and the Bow, Red Deer, Kananaskis, and Spray rivers.",
    "section": "History"
   },
-  "f38": {
+  "f32": {
    "kind": "measure",
    "value": 11400,
    "unit": "km2",
    "surface": "11,400 km2",
-   "sentence": "In 1902, the park was expanded to cover 11,400 km2 (4,400 sq mi), encompassing areas around Lake Louise, and the Bow, Red Deer, Kananaskis, and Spray rivers.",
+   "sentence": "In 1902, the park was expanded to cover 11,400 km2, encompassing areas around Lake Louise, and the Bow, Red Deer, Kananaskis, and Spray rivers.",
    "section": "History"
   },
-  "f39": {
-   "kind": "number",
-   "value": 4400,
-   "surface": "4,400",
-   "sentence": "In 1902, the park was expanded to cover 11,400 km2 (4,400 sq mi), encompassing areas around Lake Louise, and the Bow, Red Deer, Kananaskis, and Spray rivers.",
-   "section": "History"
-  },
-  "f40": {
+  "f33": {
    "kind": "date",
    "value": "1911",
    "surface": "1911",
-   "sentence": "Bowing to pressure from grazing and logging interests, the size of the park was reduced in 1911 to 4,663 km2 (1,800 sq mi), eliminating many eastern foothills areas from the park.",
+   "sentence": "Bowing to pressure from grazing and logging interests, the size of the park was reduced in 1911 to 4,663 km2, eliminating many eastern foothills areas from the park.",
    "section": "History"
   },
-  "f41": {
+  "f34": {
    "kind": "measure",
    "value": 4663,
    "unit": "km2",
    "surface": "4,663 km2",
-   "sentence": "Bowing to pressure from grazing and logging interests, the size of the park was reduced in 1911 to 4,663 km2 (1,800 sq mi), eliminating many eastern foothills areas from the park.",
+   "sentence": "Bowing to pressure from grazing and logging interests, the size of the park was reduced in 1911 to 4,663 km2, eliminating many eastern foothills areas from the park.",
    "section": "History"
   },
-  "f42": {
-   "kind": "number",
-   "value": 1800,
-   "surface": "1,800",
-   "sentence": "Bowing to pressure from grazing and logging interests, the size of the park was reduced in 1911 to 4,663 km2 (1,800 sq mi), eliminating many eastern foothills areas from the park.",
-   "section": "History"
-  },
-  "f43": {
+  "f35": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
-   "sentence": "Park boundaries changed several more times up until 1930, when the area of Banff was fixed at 6,697 km2 (2,586 sq mi), with the passage of the National Parks Act.",
+   "sentence": "Park boundaries changed several more times up until 1930, when the area of Banff was fixed at 6,697 km2, with the passage of the National Parks Act.",
    "section": "History"
   },
-  "f44": {
+  "f36": {
    "kind": "measure",
    "value": 6697,
    "unit": "km2",
    "surface": "6,697 km2",
-   "sentence": "Park boundaries changed several more times up until 1930, when the area of Banff was fixed at 6,697 km2 (2,586 sq mi), with the passage of the National Parks Act.",
+   "sentence": "Park boundaries changed several more times up until 1930, when the area of Banff was fixed at 6,697 km2, with the passage of the National Parks Act.",
    "section": "History"
   },
-  "f45": {
-   "kind": "number",
-   "value": 2586,
-   "surface": "2,586",
-   "sentence": "Park boundaries changed several more times up until 1930, when the area of Banff was fixed at 6,697 km2 (2,586 sq mi), with the passage of the National Parks Act.",
-   "section": "History"
-  },
-  "f46": {
+  "f37": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "The act, which took effect May 30, 1930, also renamed the park Banff National Park, named for the Canadian Pacific Railway station, which in turn was named after the Banffshire region in Scotland.",
    "section": "History"
   },
-  "f47": {
+  "f38": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "The act, which took effect May 30, 1930, also renamed the park Banff National Park, named for the Canadian Pacific Railway station, which in turn was named after the Banffshire region in Scotland.",
    "section": "History"
   },
-  "f48": {
+  "f39": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
-   "sentence": "With the construction of a new east gate in 1933, Alberta transferred 0.84 km2 (0.32 sq mi) to the park.",
+   "sentence": "With the construction of a new east gate in 1933, Alberta transferred 0.84 km2 to the park.",
    "section": "History"
   },
-  "f49": {
+  "f40": {
    "kind": "measure",
    "value": 0.84,
    "unit": "km2",
    "surface": "0.84 km2",
-   "sentence": "With the construction of a new east gate in 1933, Alberta transferred 0.84 km2 (0.32 sq mi) to the park.",
+   "sentence": "With the construction of a new east gate in 1933, Alberta transferred 0.84 km2 to the park.",
    "section": "History"
   },
-  "f50": {
-   "kind": "number",
-   "value": 0.32,
-   "surface": "0.32",
-   "sentence": "With the construction of a new east gate in 1933, Alberta transferred 0.84 km2 (0.32 sq mi) to the park.",
-   "section": "History"
-  },
-  "f51": {
+  "f41": {
    "kind": "date",
    "value": "1949",
    "surface": "1949",
-   "sentence": "This, along with other minor changes in the park boundaries in 1949, set the area of the park at 6,641 km2 (2,564 sq mi).",
+   "sentence": "This, along with other minor changes in the park boundaries in 1949, set the area of the park at 6,641 km2.",
    "section": "History"
   },
-  "f52": {
+  "f42": {
    "kind": "measure",
    "value": 6641,
    "unit": "km2",
    "surface": "6,641 km2",
-   "sentence": "This, along with other minor changes in the park boundaries in 1949, set the area of the park at 6,641 km2 (2,564 sq mi).",
+   "sentence": "This, along with other minor changes in the park boundaries in 1949, set the area of the park at 6,641 km2.",
    "section": "History"
   },
-  "f53": {
-   "kind": "number",
-   "value": 2564,
-   "surface": "2,564",
-   "sentence": "This, along with other minor changes in the park boundaries in 1949, set the area of the park at 6,641 km2 (2,564 sq mi).",
-   "section": "History"
-  },
-  "f54": {
+  "f43": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
    "sentence": "In 1877, the First Nations of the area signed Treaty 7, which gave Canada rights to explore the land for resources.",
    "section": "History"
   },
-  "f55": {
+  "f44": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "In 1877, the First Nations of the area signed Treaty 7, which gave Canada rights to explore the land for resources.",
    "section": "History"
   },
-  "f56": {
+  "f45": {
    "kind": "date",
    "value": "1904",
    "surface": "1904",
    "sentence": "For a brief period, a mine operated at Anthracite but was shut down in 1904.",
    "section": "History"
   },
-  "f57": {
+  "f46": {
    "kind": "date",
    "value": "1903",
    "surface": "1903",
    "sentence": "The Bankhead mine, at Cascade Mountain, was operated by the Canadian Pacific Railway from 1903 to 1922.",
    "section": "History"
   },
-  "f58": {
+  "f47": {
    "kind": "date",
    "value": "1922",
    "surface": "1922",
    "sentence": "The Bankhead mine, at Cascade Mountain, was operated by the Canadian Pacific Railway from 1903 to 1922.",
    "section": "History"
   },
-  "f59": {
+  "f48": {
    "kind": "date",
    "value": "1926",
    "surface": "1926",
    "sentence": "In 1926, the town was dismantled, with many buildings moved to the town of Banff and elsewhere.",
    "section": "History"
   },
-  "f60": {
+  "f49": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Historical plaques and a statue erected by the Ukrainian Canadian Civil Liberties Association commemorate those interned at Castle Mountain, and at Cave and Basin National Historic Site where an interpretive pavilion dealing with Canada's first national internment operations opened in September 2013.",
    "section": "History"
   },
-  "f61": {
+  "f50": {
    "kind": "date",
    "value": "1931",
    "surface": "1931",
    "sentence": "In 1931, the Government of Canada enacted the Unemployment and Farm Relief Act which provided public works projects in the national parks during the Great Depression.",
    "section": "History"
   },
-  "f62": {
+  "f51": {
    "kind": "date",
    "value": "1934",
    "surface": "1934",
    "sentence": "In 1934, the Public Works Construction Act was passed, providing continued funding for the public works projects.",
    "section": "History"
   },
-  "f63": {
+  "f52": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
    "sentence": "By 1940, the Icefields Parkway reached the Columbia Icefield area of Banff and connected Banff and Jasper.",
    "section": "History"
   },
-  "f64": {
+  "f53": {
    "kind": "date",
    "value": "1917",
    "surface": "1917",
    "sentence": "Winter tourism in Banff began in February 1917, with the first Banff Winter Carnival.",
    "section": "History"
   },
-  "f65": {
+  "f54": {
    "kind": "date",
    "value": "1917",
    "surface": "1917",
    "sentence": "The carnival featured a large ice palace, which in 1917 was built by World War I internees.",
    "section": "History"
   },
-  "f66": {
+  "f55": {
    "kind": "date",
    "value": "1948",
    "surface": "1948",
    "sentence": "Mount Norquay ski area was also developed during the 1930s, with the first chair lift installed there in 1948.",
    "section": "History"
   },
-  "f67": {
+  "f56": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
    "sentence": "Since 1968, when the Banff Springs Hotel was winterized, Banff has been a year-round destination.",
    "section": "History"
   },
-  "f68": {
+  "f57": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
    "sentence": "Canada launched several bids to host the Winter Olympics in Banff, with the first bid for the 1964 Winter Olympics, which were eventually awarded to Innsbruck, Austria.",
    "section": "History"
   },
-  "f69": {
+  "f58": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
    "sentence": "Canada narrowly lost a second bid, for the 1968 Winter Olympics, which were awarded to Grenoble, France.",
    "section": "History"
   },
-  "f70": {
+  "f59": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "Once again, Banff launched a bid to host the 1972 Winter Olympics, with plans to hold the Olympics at Lake Louise.",
    "section": "History"
   },
-  "f71": {
+  "f60": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "The 1972 bid was controversial, as environmental lobby groups strongly opposed the bid, which had sponsorship from Imperial Oil.",
    "section": "History"
   },
-  "f72": {
+  "f61": {
    "kind": "date",
    "value": "1988",
    "surface": "1988",
    "sentence": "When nearby Calgary hosted the 1988 Winter Olympics, the cross-country ski events were held at the Canmore Nordic Centre Provincial Park at Canmore, Alberta, located just outside the eastern gates of Banff National Park on the Trans-Canada Highway.",
    "section": "History"
   },
-  "f73": {
+  "f62": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
    "sentence": "With public sentiment tending towards environmentalism, Parks Canada issued major new policy in 1979, which emphasized conservation.",
    "section": "History"
   },
-  "f74": {
+  "f63": {
    "kind": "date",
    "value": "1988",
    "surface": "1988",
    "sentence": "The National Parks Act was amended in 1988, which made preserving ecological integrity the first priority in all park management decisions.",
    "section": "History"
   },
-  "f75": {
+  "f64": {
    "kind": "date",
    "value": "1984",
    "surface": "1984",
    "sentence": "In 1984, Banff was declared a UNESCO World Heritage Site, Canadian Rocky Mountain Parks World Heritage Site, together with the other national and provincial parks that form the Canadian Rocky Mountain Parks, for the mountain landscapes containing mountain peaks, glaciers, lakes, waterfalls, canyons and limestone caves as well as fossil beds.",
    "section": "History"
   },
-  "f76": {
+  "f65": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "In 1990, the town of Banff was incorporated, giving local residents more say regarding any proposed developments.",
    "section": "History"
   },
-  "f77": {
+  "f66": {
    "kind": "measure",
    "value": 128,
    "unit": "kilometres",
    "surface": "128 kilometres",
-   "sentence": "By road, the town of Banff is 128 kilometres (80 mi) west of Calgary and 401 km (249 mi) southwest of Edmonton.",
+   "sentence": "By road, the town of Banff is 128 kilometres west of Calgary and 401 km southwest of Edmonton.",
    "section": "Geography"
   },
-  "f78": {
-   "kind": "measure",
-   "value": 80,
-   "unit": "mi",
-   "surface": "80 mi",
-   "sentence": "By road, the town of Banff is 128 kilometres (80 mi) west of Calgary and 401 km (249 mi) southwest of Edmonton.",
-   "section": "Geography"
-  },
-  "f79": {
+  "f67": {
    "kind": "measure",
    "value": 401,
    "unit": "km",
    "surface": "401 km",
-   "sentence": "By road, the town of Banff is 128 kilometres (80 mi) west of Calgary and 401 km (249 mi) southwest of Edmonton.",
+   "sentence": "By road, the town of Banff is 128 kilometres west of Calgary and 401 km southwest of Edmonton.",
    "section": "Geography"
   },
-  "f80": {
-   "kind": "measure",
-   "value": 249,
-   "unit": "mi",
-   "surface": "249 mi",
-   "sentence": "By road, the town of Banff is 128 kilometres (80 mi) west of Calgary and 401 km (249 mi) southwest of Edmonton.",
-   "section": "Geography"
-  },
-  "f81": {
+  "f68": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "Banff, established in 1885, is the main commercial centre in Banff National Park, as well as a centre for cultural activities.",
    "section": "Geography"
   },
-  "f82": {
+  "f69": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",
    "sentence": "Throughout its history, Banff has hosted many annual events, including Banff Indian Days which began in 1889, and the Banff Winter Carnival.",
    "section": "Geography"
   },
-  "f83": {
+  "f70": {
    "kind": "date",
    "value": "1976",
    "surface": "1976",
    "sentence": "Since 1976, The Banff Centre has organized the Banff Mountain Film Festival.",
    "section": "Geography"
   },
-  "f84": {
+  "f71": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "In 1990, Banff incorporated as a town of Alberta, though still subject to the National Parks Act and federal authority in regards to planning and development.",
    "section": "Geography"
   },
-  "f85": {
+  "f72": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "In its 2017 census, the town of Banff had a permanent population of 8,865 as well as 793 non-permanent residents for a total population of 9,658.",
    "section": "Geography"
   },
-  "f86": {
+  "f73": {
    "kind": "number",
    "value": 8865,
    "surface": "8,865",
    "sentence": "In its 2017 census, the town of Banff had a permanent population of 8,865 as well as 793 non-permanent residents for a total population of 9,658.",
    "section": "Geography"
   },
-  "f87": {
+  "f74": {
    "kind": "date",
    "value": "793",
    "surface": "793",
    "sentence": "In its 2017 census, the town of Banff had a permanent population of 8,865 as well as 793 non-permanent residents for a total population of 9,658.",
    "section": "Geography"
   },
-  "f88": {
+  "f75": {
    "kind": "number",
    "value": 9658,
    "surface": "9,658",
    "sentence": "In its 2017 census, the town of Banff had a permanent population of 8,865 as well as 793 non-permanent residents for a total population of 9,658.",
    "section": "Geography"
   },
-  "f89": {
+  "f76": {
    "kind": "measure",
    "value": 54,
    "unit": "km",
    "surface": "54 km",
-   "sentence": "Lake Louise, a hamlet 54 km (34 mi) northwest of the town of Banff, is home to the landmark Chateau Lake Louise at the edge of Lake Louise.",
+   "sentence": "Lake Louise, a hamlet 54 km northwest of the town of Banff, is home to the landmark Chateau Lake Louise at the edge of Lake Louise.",
    "section": "Geography"
   },
-  "f90": {
-   "kind": "measure",
-   "value": 34,
-   "unit": "mi",
-   "surface": "34 mi",
-   "sentence": "Lake Louise, a hamlet 54 km (34 mi) northwest of the town of Banff, is home to the landmark Chateau Lake Louise at the edge of Lake Louise.",
-   "section": "Geography"
-  },
-  "f91": {
+  "f77": {
    "kind": "measure",
    "value": 15,
    "unit": "km",
    "surface": "15 km",
-   "sentence": "Located 15 km (9.3 mi) from Lake Louise, Moraine Lake provides a scenic vista of the Valley of the Ten Peaks.",
+   "sentence": "Located 15 km from Lake Louise, Moraine Lake provides a scenic vista of the Valley of the Ten Peaks.",
    "section": "Geography"
   },
-  "f92": {
-   "kind": "measure",
-   "value": 9.3,
-   "unit": "mi",
-   "surface": "9.3 mi",
-   "sentence": "Located 15 km (9.3 mi) from Lake Louise, Moraine Lake provides a scenic vista of the Valley of the Ten Peaks.",
-   "section": "Geography"
-  },
-  "f93": {
+  "f78": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "This scene is on the back of the Canadian $20 bill in the 1969–1979 (\"Scenes of Canada\") series.",
+   "sentence": "This scene is on the back of the Canadian $20 bill in the 1969–1979 series.",
    "section": "Geography"
   },
-  "f94": {
+  "f79": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
-   "sentence": "This scene is on the back of the Canadian $20 bill in the 1969–1979 (\"Scenes of Canada\") series.",
+   "sentence": "This scene is on the back of the Canadian $20 bill in the 1969–1979 series.",
    "section": "Geography"
   },
-  "f95": {
-   "kind": "date",
-   "value": "1979",
-   "surface": "1979",
-   "sentence": "This scene is on the back of the Canadian $20 bill in the 1969–1979 (\"Scenes of Canada\") series.",
-   "section": "Geography"
-  },
-  "f96": {
+  "f80": {
    "kind": "number",
    "value": 230,
    "surface": "230",
-   "sentence": "The Icefields Parkway is a 230-kilometre-long (140 mi) road connecting Lake Louise to Jasper, Alberta.",
+   "sentence": "The Icefields Parkway is a 230-kilometre-long road connecting Lake Louise to Jasper, Alberta.",
    "section": "Geography"
   },
-  "f97": {
-   "kind": "measure",
-   "value": 140,
-   "unit": "mi",
-   "surface": "140 mi",
-   "sentence": "The Icefields Parkway is a 230-kilometre-long (140 mi) road connecting Lake Louise to Jasper, Alberta.",
-   "section": "Geography"
-  },
-  "f98": {
-   "kind": "measure",
-   "value": 2088,
-   "unit": "m",
-   "surface": "2,088 m",
-   "sentence": "The Parkway then crosses Bow Summit (2,088 m (6,850 ft)), and follows the Mistaya River to Saskatchewan Crossing, where it converges with the Howse and North Saskatchewan River.",
-   "section": "Geography"
-  },
-  "f99": {
-   "kind": "measure",
-   "value": 6850,
-   "unit": "ft",
-   "surface": "6,850 ft",
-   "sentence": "The Parkway then crosses Bow Summit (2,088 m (6,850 ft)), and follows the Mistaya River to Saskatchewan Crossing, where it converges with the Howse and North Saskatchewan River.",
-   "section": "Geography"
-  },
-  "f100": {
+  "f81": {
    "kind": "measure",
    "value": 2035,
    "unit": "metres",
    "surface": "2,035 metres",
-   "sentence": "The Parkway crosses into Jasper National Park at Sunwapta Pass at 2,035 metres (6,677 ft) in elevation, and continues on from there to the Jasper townsite.",
+   "sentence": "The Parkway crosses into Jasper National Park at Sunwapta Pass at 2,035 metres in elevation, and continues on from there to the Jasper townsite.",
    "section": "Geography"
   },
-  "f101": {
-   "kind": "measure",
-   "value": 6677,
-   "unit": "ft",
-   "surface": "6,677 ft",
-   "sentence": "The Parkway crosses into Jasper National Park at Sunwapta Pass at 2,035 metres (6,677 ft) in elevation, and continues on from there to the Jasper townsite.",
-   "section": "Geography"
-  },
-  "f102": {
+  "f82": {
    "kind": "measure",
    "value": 3612,
    "unit": "metres",
    "surface": "3,612 metres",
-   "sentence": "Though the tallest peak entirely within the park is Mount Forbes at 3,612 metres (11,850 ft), Mount Assiniboine on the Banff-Mount Assiniboine Provincial Park border is slightly higher at 3,618 m (11,870 ft).",
+   "sentence": "Though the tallest peak entirely within the park is Mount Forbes at 3,612 metres, Mount Assiniboine on the Banff-Mount Assiniboine Provincial Park border is slightly higher at 3,618 m.",
    "section": "Geology"
   },
-  "f103": {
-   "kind": "measure",
-   "value": 11850,
-   "unit": "ft",
-   "surface": "11,850 ft",
-   "sentence": "Though the tallest peak entirely within the park is Mount Forbes at 3,612 metres (11,850 ft), Mount Assiniboine on the Banff-Mount Assiniboine Provincial Park border is slightly higher at 3,618 m (11,870 ft).",
-   "section": "Geology"
-  },
-  "f104": {
+  "f83": {
    "kind": "measure",
    "value": 3618,
    "unit": "m",
    "surface": "3,618 m",
-   "sentence": "Though the tallest peak entirely within the park is Mount Forbes at 3,612 metres (11,850 ft), Mount Assiniboine on the Banff-Mount Assiniboine Provincial Park border is slightly higher at 3,618 m (11,870 ft).",
+   "sentence": "Though the tallest peak entirely within the park is Mount Forbes at 3,612 metres, Mount Assiniboine on the Banff-Mount Assiniboine Provincial Park border is slightly higher at 3,618 m.",
    "section": "Geology"
   },
-  "f105": {
-   "kind": "measure",
-   "value": 11870,
-   "unit": "ft",
-   "surface": "11,870 ft",
-   "sentence": "Though the tallest peak entirely within the park is Mount Forbes at 3,612 metres (11,850 ft), Mount Assiniboine on the Banff-Mount Assiniboine Provincial Park border is slightly higher at 3,618 m (11,870 ft).",
-   "section": "Geology"
-  },
-  "f106": {
-   "kind": "date",
-   "value": "600",
-   "surface": "600",
-   "sentence": "The vast majority of geologic formations in Banff range in age from Precambrian to the Jurassic periods (600–145 m.y.a.).",
-   "section": "Geology"
-  },
-  "f107": {
-   "kind": "measure",
-   "value": 145,
-   "unit": "m",
-   "surface": "145 m",
-   "sentence": "The vast majority of geologic formations in Banff range in age from Precambrian to the Jurassic periods (600–145 m.y.a.).",
-   "section": "Geology"
-  },
-  "f108": {
-   "kind": "number",
-   "value": 145,
-   "surface": "145",
-   "sentence": "However, rocks as young as the lower Cretaceous (145–66 m.y.a.) can be found near the east entrance and on Cascade Mountain above the Banff townsite.",
-   "section": "Geology"
-  },
-  "f109": {
-   "kind": "measure",
-   "value": 66,
-   "unit": "m",
-   "surface": "66 m",
-   "sentence": "However, rocks as young as the lower Cretaceous (145–66 m.y.a.) can be found near the east entrance and on Cascade Mountain above the Banff townsite.",
-   "section": "Geology"
-  },
-  "f110": {
+  "f84": {
    "kind": "date",
    "value": "600",
    "surface": "600",
    "sentence": "These sedimentary rocks formed at the bottom of shallow seas between 600 and 175 m.y.a. and were pushed east during the Laramide orogeny.",
    "section": "Geology"
   },
-  "f111": {
+  "f85": {
    "kind": "measure",
    "value": 175,
    "unit": "m",
@@ -850,39 +658,31 @@
    "sentence": "These sedimentary rocks formed at the bottom of shallow seas between 600 and 175 m.y.a. and were pushed east during the Laramide orogeny.",
    "section": "Geology"
   },
-  "f112": {
+  "f86": {
    "kind": "measure",
    "value": 55,
    "unit": "m",
    "surface": "55 m",
-   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres (26,000 ft) approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
+   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
    "section": "Geology"
   },
-  "f113": {
+  "f87": {
    "kind": "measure",
    "value": 8000,
    "unit": "metres",
    "surface": "8,000 metres",
-   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres (26,000 ft) approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
+   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
    "section": "Geology"
   },
-  "f114": {
-   "kind": "measure",
-   "value": 26000,
-   "unit": "ft",
-   "surface": "26,000 ft",
-   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres (26,000 ft) approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
-   "section": "Geology"
-  },
-  "f115": {
+  "f88": {
    "kind": "measure",
    "value": 70,
    "unit": "m",
    "surface": "70 m",
-   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres (26,000 ft) approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
+   "sentence": "Mountain building in Banff National Park ended approximately 55 m.y.a.\nThe Canadian Rockies may have risen up to 8,000 metres approximately 70 m.y.a. Once mountain formation ceased, erosion carved the mountains into their present rugged shape.",
    "section": "Geology"
   },
-  "f116": {
+  "f89": {
    "kind": "measure",
    "value": 2500000,
    "unit": "years",
@@ -890,301 +690,232 @@
    "sentence": "The erosion was first due to water, then was greatly accelerated by the Quaternary glaciation 2.5 million years ago.",
    "section": "Geology"
   },
-  "f117": {
+  "f90": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Many of the mountain ranges trend northwest to southeast, with sedimentary layering dipping down to the west at 40–60 degrees.",
    "section": "Geology"
   },
-  "f118": {
-   "kind": "measure",
-   "value": 60,
-   "unit": "degrees",
-   "surface": "60 degrees",
-   "sentence": "Many of the mountain ranges trend northwest to southeast, with sedimentary layering dipping down to the west at 40–60 degrees.",
-   "section": "Geology"
-  },
-  "f119": {
+  "f91": {
    "kind": "number",
    "value": 100,
    "surface": "100",
    "sentence": "Banff National Park has numerous large glaciers and icefields, 100 of which can be observed from the Icefields Parkway.",
    "section": "Geology"
   },
-  "f120": {
+  "f92": {
    "kind": "number",
    "value": 150,
    "surface": "150",
-   "sentence": "Estimates are that 150 glaciers disappeared in the Canadian Rockies (areas both inside and outside Banff National Park) between 1920 and 1985.",
+   "sentence": "Estimates are that 150 glaciers disappeared in the Canadian Rockies between 1920 and 1985.",
    "section": "Geology"
   },
-  "f121": {
+  "f93": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
-   "sentence": "Estimates are that 150 glaciers disappeared in the Canadian Rockies (areas both inside and outside Banff National Park) between 1920 and 1985.",
+   "sentence": "Estimates are that 150 glaciers disappeared in the Canadian Rockies between 1920 and 1985.",
    "section": "Geology"
   },
-  "f122": {
+  "f94": {
    "kind": "date",
    "value": "1985",
    "surface": "1985",
-   "sentence": "Estimates are that 150 glaciers disappeared in the Canadian Rockies (areas both inside and outside Banff National Park) between 1920 and 1985.",
+   "sentence": "Estimates are that 150 glaciers disappeared in the Canadian Rockies between 1920 and 1985.",
    "section": "Geology"
   },
-  "f123": {
+  "f95": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Another 150 glaciers disappeared between 1985 and 2005, indicating that the retreat and disappearance of glaciers is accelerating.",
    "section": "Geology"
   },
-  "f124": {
+  "f96": {
    "kind": "date",
    "value": "1985",
    "surface": "1985",
    "sentence": "Another 150 glaciers disappeared between 1985 and 2005, indicating that the retreat and disappearance of glaciers is accelerating.",
    "section": "Geology"
   },
-  "f125": {
+  "f97": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Another 150 glaciers disappeared between 1985 and 2005, indicating that the retreat and disappearance of glaciers is accelerating.",
    "section": "Geology"
   },
-  "f126": {
+  "f98": {
    "kind": "date",
    "value": "1985",
    "surface": "1985",
    "sentence": "In Banff National Park alone, in 1985 there were 365 glaciers but by 2005, 29 glaciers had disappeared.",
    "section": "Geology"
   },
-  "f127": {
+  "f99": {
    "kind": "number",
    "value": 365,
    "surface": "365",
    "sentence": "In Banff National Park alone, in 1985 there were 365 glaciers but by 2005, 29 glaciers had disappeared.",
    "section": "Geology"
   },
-  "f128": {
+  "f100": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "In Banff National Park alone, in 1985 there were 365 glaciers but by 2005, 29 glaciers had disappeared.",
    "section": "Geology"
   },
-  "f129": {
+  "f101": {
    "kind": "number",
    "value": 29,
    "surface": "29",
    "sentence": "In Banff National Park alone, in 1985 there were 365 glaciers but by 2005, 29 glaciers had disappeared.",
    "section": "Geology"
   },
-  "f130": {
+  "f102": {
    "kind": "date",
    "value": "625",
    "surface": "625",
-   "sentence": "The total glaciated area dropped from 625 to 500 square kilometres (241 to 193 sq mi) in that time period.",
+   "sentence": "The total glaciated area dropped from 625 to 500 square kilometres in that time period.",
    "section": "Geology"
   },
-  "f131": {
+  "f103": {
    "kind": "measure",
    "value": 500,
    "unit": "square kilometres",
    "surface": "500 square kilometres",
-   "sentence": "The total glaciated area dropped from 625 to 500 square kilometres (241 to 193 sq mi) in that time period.",
+   "sentence": "The total glaciated area dropped from 625 to 500 square kilometres in that time period.",
    "section": "Geology"
   },
-  "f132": {
-   "kind": "number",
-   "value": 241,
-   "surface": "241",
-   "sentence": "The total glaciated area dropped from 625 to 500 square kilometres (241 to 193 sq mi) in that time period.",
-   "section": "Geology"
-  },
-  "f133": {
-   "kind": "number",
-   "value": 193,
-   "surface": "193",
-   "sentence": "The total glaciated area dropped from 625 to 500 square kilometres (241 to 193 sq mi) in that time period.",
-   "section": "Geology"
-  },
-  "f134": {
+  "f104": {
    "kind": "measure",
    "value": 1100,
    "unit": "m",
    "surface": "1,100 m",
-   "sentence": "Bow Glacier retreated an estimated 1,100 m (3,600 ft) between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
+   "sentence": "Bow Glacier retreated an estimated 1,100 m between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
    "section": "Geology"
   },
-  "f135": {
-   "kind": "measure",
-   "value": 3600,
-   "unit": "ft",
-   "surface": "3,600 ft",
-   "sentence": "Bow Glacier retreated an estimated 1,100 m (3,600 ft) between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
-   "section": "Geology"
-  },
-  "f136": {
+  "f105": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
-   "sentence": "Bow Glacier retreated an estimated 1,100 m (3,600 ft) between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
+   "sentence": "Bow Glacier retreated an estimated 1,100 m between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
    "section": "Geology"
   },
-  "f137": {
+  "f106": {
    "kind": "date",
    "value": "1953",
    "surface": "1953",
-   "sentence": "Bow Glacier retreated an estimated 1,100 m (3,600 ft) between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
+   "sentence": "Bow Glacier retreated an estimated 1,100 m between the years 1850 and 1953, and since that period, there has been further retreat which has left a newly formed lake at the terminal moraine.",
    "section": "Geology"
   },
-  "f138": {
+  "f107": {
    "kind": "measure",
    "value": 70,
    "unit": "percent",
    "surface": "70 percent",
-   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre (0.62 mi) between 1999 and 2021.",
+   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre between 1999 and 2021.",
    "section": "Geology"
   },
-  "f139": {
+  "f108": {
    "kind": "measure",
    "value": 1,
    "unit": "kilometre",
    "surface": "1 kilometre",
-   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre (0.62 mi) between 1999 and 2021.",
+   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre between 1999 and 2021.",
    "section": "Geology"
   },
-  "f140": {
-   "kind": "measure",
-   "value": 0.62,
-   "unit": "mi",
-   "surface": "0.62 mi",
-   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre (0.62 mi) between 1999 and 2021.",
-   "section": "Geology"
-  },
-  "f141": {
+  "f109": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
-   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre (0.62 mi) between 1999 and 2021.",
+   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre between 1999 and 2021.",
    "section": "Geology"
   },
-  "f142": {
+  "f110": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
-   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre (0.62 mi) between 1999 and 2021.",
+   "sentence": "Peyto Glacier has lost 70 percent of its volume since record keeping began and retreated approximately 1 kilometre between 1999 and 2021.",
    "section": "Geology"
   },
-  "f143": {
+  "f111": {
    "kind": "number",
    "value": 80,
    "surface": "80",
    "sentence": "Peyto Glacier is at risk of losing 80-90% of its current mass by 2100.",
    "section": "Geology"
   },
-  "f144": {
+  "f112": {
    "kind": "date",
    "value": "2100",
    "surface": "2100",
    "sentence": "Peyto Glacier is at risk of losing 80-90% of its current mass by 2100.",
    "section": "Geology"
   },
-  "f145": {
+  "f113": {
    "kind": "measure",
    "value": 13,
    "unit": "km",
    "surface": "13 km",
-   "sentence": "Saskatchewan Glacier, which is approximately 13 km (8 mi) in length and 30 km2 (12 sq mi) in area, is the major outlet of the Columbia Icefield that flows into Banff National Park.",
+   "sentence": "Saskatchewan Glacier, which is approximately 13 km in length and 30 km2 in area, is the major outlet of the Columbia Icefield that flows into Banff National Park.",
    "section": "Geology"
   },
-  "f146": {
-   "kind": "measure",
-   "value": 8,
-   "unit": "mi",
-   "surface": "8 mi",
-   "sentence": "Saskatchewan Glacier, which is approximately 13 km (8 mi) in length and 30 km2 (12 sq mi) in area, is the major outlet of the Columbia Icefield that flows into Banff National Park.",
-   "section": "Geology"
-  },
-  "f147": {
+  "f114": {
    "kind": "measure",
    "value": 30,
    "unit": "km2",
    "surface": "30 km2",
-   "sentence": "Saskatchewan Glacier, which is approximately 13 km (8 mi) in length and 30 km2 (12 sq mi) in area, is the major outlet of the Columbia Icefield that flows into Banff National Park.",
+   "sentence": "Saskatchewan Glacier, which is approximately 13 km in length and 30 km2 in area, is the major outlet of the Columbia Icefield that flows into Banff National Park.",
    "section": "Geology"
   },
-  "f148": {
-   "kind": "number",
-   "value": 12,
-   "surface": "12",
-   "sentence": "Saskatchewan Glacier, which is approximately 13 km (8 mi) in length and 30 km2 (12 sq mi) in area, is the major outlet of the Columbia Icefield that flows into Banff National Park.",
-   "section": "Geology"
-  },
-  "f149": {
+  "f115": {
    "kind": "date",
    "value": "1893",
    "surface": "1893",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
+   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m, with the rate of retreat between 1948 and 1953 averaging 55 m per year.",
    "section": "Geology"
   },
-  "f150": {
+  "f116": {
    "kind": "date",
    "value": "1953",
    "surface": "1953",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
+   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m, with the rate of retreat between 1948 and 1953 averaging 55 m per year.",
    "section": "Geology"
   },
-  "f151": {
+  "f117": {
    "kind": "measure",
    "value": 1364,
    "unit": "m",
    "surface": "1,364 m",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
+   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m, with the rate of retreat between 1948 and 1953 averaging 55 m per year.",
    "section": "Geology"
   },
-  "f152": {
-   "kind": "measure",
-   "value": 4475,
-   "unit": "ft",
-   "surface": "4,475 ft",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
-   "section": "Geology"
-  },
-  "f153": {
+  "f118": {
    "kind": "date",
    "value": "1948",
    "surface": "1948",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
+   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m, with the rate of retreat between 1948 and 1953 averaging 55 m per year.",
    "section": "Geology"
   },
-  "f154": {
+  "f119": {
    "kind": "date",
    "value": "1953",
    "surface": "1953",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
+   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m, with the rate of retreat between 1948 and 1953 averaging 55 m per year.",
    "section": "Geology"
   },
-  "f155": {
+  "f120": {
    "kind": "measure",
    "value": 55,
    "unit": "m",
    "surface": "55 m",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
+   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m, with the rate of retreat between 1948 and 1953 averaging 55 m per year.",
    "section": "Geology"
   },
-  "f156": {
-   "kind": "measure",
-   "value": 180,
-   "unit": "ft",
-   "surface": "180 ft",
-   "sentence": "Between the years 1893 and 1953, Saskatchewan Glacier had retreated a distance of 1,364 m (4,475 ft), with the rate of retreat between 1948 and 1953 averaging 55 m (180 ft) per year.",
-   "section": "Geology"
-  },
-  "f157": {
+  "f121": {
    "kind": "measure",
    "value": 25,
    "unit": "percent",

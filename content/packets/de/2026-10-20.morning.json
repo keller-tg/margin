@@ -166,7 +166,7 @@
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "Auch die Ostinsel selbst wird von einem langen Fjord (bei Darwin) beinahe in zwei Hälften geteilt; an ihrer zum Atlantik blickenden Ostküste liegt die Hauptstadt Stanley mit rund 2000 Einwohnern.",
+   "sentence": "Auch die Ostinsel selbst wird von einem langen Fjord beinahe in zwei Hälften geteilt; an ihrer zum Atlantik blickenden Ostküste liegt die Hauptstadt Stanley mit rund 2000 Einwohnern.",
    "section": "Geographie"
   },
   "f12": {
@@ -270,7 +270,7 @@
    "value": 5,
    "unit": "°c",
    "surface": "5 °C",
-   "sentence": "Verglichen mit London oder Köln, die auf derselben (nördlichen) Breite liegen, ist das ein Unterschied von fast 5 °C.",
+   "sentence": "Verglichen mit London oder Köln, die auf derselben Breite liegen, ist das ein Unterschied von fast 5 °C.",
    "section": "Klima"
   },
   "f26": {
@@ -278,7 +278,7 @@
    "value": 20,
    "unit": "°c",
    "surface": "20 °C",
-   "sentence": "Nur im Hochsommer (Dezember bis Februar) steigt die Temperatur auf den Falklandinseln an wenigen Tagen auf annähernd 20 °C.",
+   "sentence": "Nur im Hochsommer steigt die Temperatur auf den Falklandinseln an wenigen Tagen auf annähernd 20 °C.",
    "section": "Klima"
   },
   "f27": {
@@ -354,7 +354,7 @@
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "Er gab der Meeresenge zwischen den beiden Hauptinseln, zu Ehren des „Schatzmeisters der Marine“ und britischen Politikers Anthony Cary, 5. Viscount Falkland, den Namen Falkland Channel.",
+   "sentence": "Er gab der Meeresenge zwischen den beiden Hauptinseln, zu Ehren des „Schatzmeisters der Marine“und britischen Politikers Anthony Cary, 5. Viscount Falkland, den Namen Falkland Channel.",
    "section": "Geschichte"
   },
   "f37": {
@@ -508,14 +508,14 @@
    "kind": "date",
    "value": "2012",
    "surface": "2012",
-   "sentence": "Seitdem ist eine größere Zahl von Soldaten auf den Inseln stationiert, im Jahr 2012 nach Angaben des britischen Verteidigungsministeriums 1.350 Mann unter dem Kommando des „Commander of the British Forces South Atlantic Islands“ (CBFSAI).",
+   "sentence": "Seitdem ist eine größere Zahl von Soldaten auf den Inseln stationiert, im Jahr 2012 nach Angaben des britischen Verteidigungsministeriums 1.350 Mann unter dem Kommando des „Commander of the British Forces South Atlantic Islands“.",
    "section": "Geschichte"
   },
   "f59": {
    "kind": "number",
    "value": 1350,
    "surface": "1.350",
-   "sentence": "Seitdem ist eine größere Zahl von Soldaten auf den Inseln stationiert, im Jahr 2012 nach Angaben des britischen Verteidigungsministeriums 1.350 Mann unter dem Kommando des „Commander of the British Forces South Atlantic Islands“ (CBFSAI).",
+   "sentence": "Seitdem ist eine größere Zahl von Soldaten auf den Inseln stationiert, im Jahr 2012 nach Angaben des britischen Verteidigungsministeriums 1.350 Mann unter dem Kommando des „Commander of the British Forces South Atlantic Islands“.",
    "section": "Geschichte"
   },
   "f60": {
@@ -536,7 +536,7 @@
    "kind": "date",
    "value": "2012",
    "surface": "2012",
-   "sentence": "Die argentinische Regierung trug 2012 ihr Anliegen vor den UN-Ausschuss für Entkolonialisierung, wo Kirchner den Anspruch ihres Landes dadurch begründete, man könne keine Inselgruppe „als britisches Territorium erklären, wenn es 14.000 Kilometer von Großbritannien entfernt“ sei.",
+   "sentence": "Die argentinische Regierung trug 2012 ihr Anliegen vor den UN-Ausschuss für Entkolonialisierung, wo Kirchner den Anspruch ihres Landes dadurch begründete, man könne keine Inselgruppe „als britisches Territorium erklären, wenn es 14.000 Kilometer von Großbritannien entfernt“sei.",
    "section": "Politischer Status"
   },
   "f63": {
@@ -544,7 +544,7 @@
    "value": 14000,
    "unit": "kilometer",
    "surface": "14.000 Kilometer",
-   "sentence": "Die argentinische Regierung trug 2012 ihr Anliegen vor den UN-Ausschuss für Entkolonialisierung, wo Kirchner den Anspruch ihres Landes dadurch begründete, man könne keine Inselgruppe „als britisches Territorium erklären, wenn es 14.000 Kilometer von Großbritannien entfernt“ sei.",
+   "sentence": "Die argentinische Regierung trug 2012 ihr Anliegen vor den UN-Ausschuss für Entkolonialisierung, wo Kirchner den Anspruch ihres Landes dadurch begründete, man könne keine Inselgruppe „als britisches Territorium erklären, wenn es 14.000 Kilometer von Großbritannien entfernt“sei.",
    "section": "Politischer Status"
   },
   "f64": {
@@ -654,178 +654,157 @@
    "kind": "number",
    "value": 3000,
    "surface": "3.000",
-   "sentence": "Zwei Drittel der rund 3.000 Einwohner (ohne das in Mount Pleasant konzentrierte Militär) wohnen in der Hauptstadt Stanley, die auch zugleich Hauptort von Ost-Falkland ist.",
+   "sentence": "Zwei Drittel der rund 3.000 Einwohner wohnen in der Hauptstadt Stanley, die auch zugleich Hauptort von Ost-Falkland ist.",
    "section": "Bevölkerung"
   },
   "f79": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "Die beiden Hauptorte von West-Falkland, Port Howard und Fox Bay, die beide über eine eigene asphaltierte Landebahn verfügen, haben jeweils nur 22 bzw. 30 Einwohner (Stand: Zensus 2012).",
+   "sentence": "Die beiden Hauptorte von West-Falkland, Port Howard und Fox Bay, die beide über eine eigene asphaltierte Landebahn verfügen, haben jeweils nur 22 bzw. 30 Einwohner.",
    "section": "Bevölkerung"
   },
   "f80": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "Die beiden Hauptorte von West-Falkland, Port Howard und Fox Bay, die beide über eine eigene asphaltierte Landebahn verfügen, haben jeweils nur 22 bzw. 30 Einwohner (Stand: Zensus 2012).",
+   "sentence": "Die beiden Hauptorte von West-Falkland, Port Howard und Fox Bay, die beide über eine eigene asphaltierte Landebahn verfügen, haben jeweils nur 22 bzw. 30 Einwohner.",
    "section": "Bevölkerung"
   },
   "f81": {
-   "kind": "date",
-   "value": "2012",
-   "surface": "2012",
-   "sentence": "Die beiden Hauptorte von West-Falkland, Port Howard und Fox Bay, die beide über eine eigene asphaltierte Landebahn verfügen, haben jeweils nur 22 bzw. 30 Einwohner (Stand: Zensus 2012).",
-   "section": "Bevölkerung"
-  },
-  "f82": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Von den übrigen Siedlungen auf den beiden Inseln haben weniger als zehn mehr als 50 Einwohner.",
    "section": "Bevölkerung"
   },
-  "f83": {
+  "f82": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
-   "sentence": "Ein Museum in Stanley, in einem 1981 ursprünglich für die argentinische Fluggesellschaft Líneas Aéreas del Estado (LADE) erbautem Haus, stellt Gegenstände und Dokumente zur Geschichte der Inseln aus.",
+   "sentence": "Ein Museum in Stanley, in einem 1981 ursprünglich für die argentinische Fluggesellschaft Líneas Aéreas del Estado erbautem Haus, stellt Gegenstände und Dokumente zur Geschichte der Inseln aus.",
    "section": "Kultur"
   },
-  "f84": {
+  "f83": {
    "kind": "number",
    "value": 19,
    "surface": "19",
    "sentence": "Im Hafen von Stanley gibt es einen Lehrpfad entlang einer Reihe von Schiffswracks, die dort teilweise seit der ersten Hälfte des 19. Jahrhunderts liegen.",
    "section": "Kultur"
   },
-  "f85": {
+  "f84": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Nationalfeiertag ist der 14. Juni als Befreiungstag von der argentinischen Besetzung.",
    "section": "Kultur"
   },
-  "f86": {
+  "f85": {
    "kind": "date",
    "value": "1985",
    "surface": "1985",
    "sentence": "Seit 1985 haben die Falklandinseln eine eigene Verfassung, die 2008 durch eine neue, am 1. Januar 2009 in Kraft getretene Verfassung ersetzt wurde.",
    "section": "Politik"
   },
-  "f87": {
+  "f86": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Seit 1985 haben die Falklandinseln eine eigene Verfassung, die 2008 durch eine neue, am 1. Januar 2009 in Kraft getretene Verfassung ersetzt wurde.",
    "section": "Politik"
   },
-  "f88": {
+  "f87": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Seit 1985 haben die Falklandinseln eine eigene Verfassung, die 2008 durch eine neue, am 1. Januar 2009 in Kraft getretene Verfassung ersetzt wurde.",
    "section": "Politik"
   },
-  "f89": {
+  "f88": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Seit 1985 haben die Falklandinseln eine eigene Verfassung, die 2008 durch eine neue, am 1. Januar 2009 in Kraft getretene Verfassung ersetzt wurde.",
    "section": "Politik"
   },
-  "f90": {
+  "f89": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Gouverneur war zuletzt seit September 2017 bis Mitte 2022 Nigel Phillips.",
    "section": "Politik"
   },
-  "f91": {
+  "f90": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Gouverneur war zuletzt seit September 2017 bis Mitte 2022 Nigel Phillips.",
    "section": "Politik"
   },
-  "f92": {
+  "f91": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Im Jahr 2012 waren noch etwa 1350 Soldaten aller drei Teilstreitkräfte auf den Inseln stationiert.",
    "section": "Militär"
   },
-  "f93": {
+  "f92": {
    "kind": "date",
    "value": "1350",
    "surface": "1350",
    "sentence": "Im Jahr 2012 waren noch etwa 1350 Soldaten aller drei Teilstreitkräfte auf den Inseln stationiert.",
    "section": "Militär"
   },
-  "f94": {
-   "kind": "date",
-   "value": "2014",
-   "surface": "2014",
-   "sentence": "Bei Port Pleasant hatte die Royal Navy eine Korvette der Castle-Klasse sowie einen Lenkwaffenzerstörer (seit 2014 die HMS Portland) oder eine Fregatte stationiert.",
-   "section": "Militär"
-  },
-  "f95": {
+  "f93": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Von 2007 bis 2019 war das Patrouillenboot HMS Clyde der River-Klasse als Ersatz für die Castle-Klasse-Schiffe HMS Dumbarton Castle und HMS Leeds Castle eingesetzt.",
    "section": "Militär"
   },
-  "f96": {
+  "f94": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Von 2007 bis 2019 war das Patrouillenboot HMS Clyde der River-Klasse als Ersatz für die Castle-Klasse-Schiffe HMS Dumbarton Castle und HMS Leeds Castle eingesetzt.",
    "section": "Militär"
   },
-  "f97": {
+  "f95": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Im März 2010 soll nach Presseberichten ein Angriffs-U-Boot der Swiftsure-Klasse Richtung Falkland-Inseln in Marsch gesetzt worden sein, seit Februar 2012 wurde über ein Boot der Trafalgar-Klasse spekuliert.",
    "section": "Militär"
   },
-  "f98": {
+  "f96": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Im März 2010 soll nach Presseberichten ein Angriffs-U-Boot der Swiftsure-Klasse Richtung Falkland-Inseln in Marsch gesetzt worden sein, seit Februar 2012 wurde über ein Boot der Trafalgar-Klasse spekuliert.",
    "section": "Militär"
   },
+  "f97": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Dieses ist 1:1 an das britische Pfund gebunden.",
+   "section": "Wirtschaft"
+  },
+  "f98": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Dieses ist 1:1 an das britische Pfund gebunden.",
+   "section": "Wirtschaft"
+  },
   "f99": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Dieses ist 1:1 an das britische Pfund gebunden.",
-   "section": "Wirtschaft"
-  },
-  "f100": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Dieses ist 1:1 an das britische Pfund gebunden.",
-   "section": "Wirtschaft"
-  },
-  "f101": {
    "kind": "number",
    "value": 22500,
    "surface": "22.500",
-   "sentence": "Das Bruttoinlandsprodukt pro Kopf liegt bei etwa 22.500 Euro (2016).",
+   "sentence": "Das Bruttoinlandsprodukt pro Kopf liegt bei etwa 22.500 Euro.",
    "section": "Wirtschaft"
   },
-  "f102": {
-   "kind": "date",
-   "value": "2016",
-   "surface": "2016",
-   "sentence": "Das Bruttoinlandsprodukt pro Kopf liegt bei etwa 22.500 Euro (2016).",
-   "section": "Wirtschaft"
-  },
-  "f103": {
+  "f100": {
    "kind": "measure",
    "value": 1.1,
    "unit": "%",
@@ -833,7 +812,7 @@
    "sentence": "Die Arbeitslosigkeit liegt mit 1,1 % unter dem Durchschnitt des Vereinigten Königreichs.",
    "section": "Wirtschaft"
   },
-  "f104": {
+  "f101": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
@@ -841,63 +820,63 @@
    "sentence": "Die Fischindustrie trägt heute über 50 % zum Bruttoinlandsprodukt der Inseln bei.",
    "section": "Wirtschaft"
   },
-  "f105": {
+  "f102": {
    "kind": "number",
    "value": 60000,
    "surface": "60.000",
    "sentence": "Jedes Jahr besuchen rund 60.000 Touristen die Insel.",
    "section": "Wirtschaft"
   },
-  "f106": {
+  "f103": {
    "kind": "date",
    "value": "1600",
    "surface": "1600",
    "sentence": "Die Zahl der jährlich per Flugzeug anreisenden Touristen wird mit rund 1600 angegeben.",
    "section": "Wirtschaft"
   },
-  "f107": {
+  "f104": {
    "kind": "number",
    "value": 4000000,
    "surface": "4 Mio",
    "sentence": "Der Tourismus steuert rund 4 Mio. Pfund zum Bruttoinlandsprodukt bei und hat damit nach der Fischindustrie den zweitgrößten Anteil.",
    "section": "Wirtschaft"
   },
-  "f108": {
+  "f105": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Das britische Unternehmen Desire Petroleum begann am 22. Februar 2010 mit Bohrungen nach Erdöl und Erdgas in den Gewässern der Falklandinseln.",
    "section": "Wirtschaft"
   },
-  "f109": {
+  "f106": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Das britische Unternehmen Desire Petroleum begann am 22. Februar 2010 mit Bohrungen nach Erdöl und Erdgas in den Gewässern der Falklandinseln.",
    "section": "Wirtschaft"
   },
-  "f110": {
+  "f107": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Das erste Öl wurde im Mai 2010 gefunden.",
    "section": "Wirtschaft"
   },
-  "f111": {
+  "f108": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Am 2. April 2025 belegte der US-amerikanische Präsident Donald Trump im Rahmen der Zollpolitik während seiner zweiten Amtszeit Importe von den Inseln in die USA mit einem Strafzoll von 41 %.",
    "section": "Wirtschaft"
   },
-  "f112": {
+  "f109": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Am 2. April 2025 belegte der US-amerikanische Präsident Donald Trump im Rahmen der Zollpolitik während seiner zweiten Amtszeit Importe von den Inseln in die USA mit einem Strafzoll von 41 %.",
    "section": "Wirtschaft"
   },
-  "f113": {
+  "f110": {
    "kind": "measure",
    "value": 41,
    "unit": "%",
@@ -905,39 +884,25 @@
    "sentence": "Am 2. April 2025 belegte der US-amerikanische Präsident Donald Trump im Rahmen der Zollpolitik während seiner zweiten Amtszeit Importe von den Inseln in die USA mit einem Strafzoll von 41 %.",
    "section": "Wirtschaft"
   },
-  "f114": {
+  "f111": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Nach Daten der Weltbank führten die Insel 2022 (letztes am 5. April 2025 aufgeführtes Jahr) Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
+   "sentence": "Nach Daten der Weltbank führten die Insel 2022 Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
    "section": "Wirtschaft"
   },
-  "f115": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Nach Daten der Weltbank führten die Insel 2022 (letztes am 5. April 2025 aufgeführtes Jahr) Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
-   "section": "Wirtschaft"
-  },
-  "f116": {
-   "kind": "date",
-   "value": "2025",
-   "surface": "2025",
-   "sentence": "Nach Daten der Weltbank führten die Insel 2022 (letztes am 5. April 2025 aufgeführtes Jahr) Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
-   "section": "Wirtschaft"
-  },
-  "f117": {
+  "f112": {
    "kind": "number",
    "value": 164090,
    "surface": "164.090",
-   "sentence": "Nach Daten der Weltbank führten die Insel 2022 (letztes am 5. April 2025 aufgeführtes Jahr) Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
+   "sentence": "Nach Daten der Weltbank führten die Insel 2022 Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
    "section": "Wirtschaft"
   },
-  "f118": {
+  "f113": {
    "kind": "number",
    "value": 32108590,
    "surface": "32.108.590",
-   "sentence": "Nach Daten der Weltbank führten die Insel 2022 (letztes am 5. April 2025 aufgeführtes Jahr) Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
+   "sentence": "Nach Daten der Weltbank führten die Insel 2022 Waren im Wert von 164.090 US$ in die USA aus, vor allem Tier- und Halbfertigprodukte, dem standen Importe im Wert von 32.108.590 US$ entgegen.",
    "section": "Wirtschaft"
   }
  },

@@ -62,427 +62,399 @@
    "value": 300,
    "unit": "mi",
    "surface": "300 mi",
-   "sentence": "The principal islands are about 300 mi (500 km) east of South America's southern Patagonian coast and 752 mi (1,210 km) from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
+   "sentence": "The principal islands are about 300 mi east of South America's southern Patagonian coast and 752 mi from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
   },
   "f2": {
-   "kind": "measure",
-   "value": 500,
-   "unit": "km",
-   "surface": "500 km",
-   "sentence": "The principal islands are about 300 mi (500 km) east of South America's southern Patagonian coast and 752 mi (1,210 km) from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
-  },
-  "f3": {
    "kind": "measure",
    "value": 752,
    "unit": "mi",
    "surface": "752 mi",
-   "sentence": "The principal islands are about 300 mi (500 km) east of South America's southern Patagonian coast and 752 mi (1,210 km) from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
+   "sentence": "The principal islands are about 300 mi east of South America's southern Patagonian coast and 752 mi from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
   },
-  "f4": {
-   "kind": "measure",
-   "value": 1210,
-   "unit": "km",
-   "surface": "1,210 km",
-   "sentence": "The principal islands are about 300 mi (500 km) east of South America's southern Patagonian coast and 752 mi (1,210 km) from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
-  },
-  "f5": {
+  "f3": {
    "kind": "number",
    "value": 52,
    "surface": "52",
-   "sentence": "The principal islands are about 300 mi (500 km) east of South America's southern Patagonian coast and 752 mi (1,210 km) from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
+   "sentence": "The principal islands are about 300 mi east of South America's southern Patagonian coast and 752 mi from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
   },
-  "f6": {
+  "f4": {
    "kind": "number",
    "value": 4700,
    "surface": "4,700",
-   "sentence": "The archipelago, with an area of 4,700 sq mi (12,000 km2), comprises East Falkland, West Falkland, and 776 smaller islands."
+   "sentence": "The archipelago, with an area of 4,700 sq mi, comprises East Falkland, West Falkland, and 776 smaller islands."
   },
-  "f7": {
-   "kind": "measure",
-   "value": 12000,
-   "unit": "km2",
-   "surface": "12,000 km2",
-   "sentence": "The archipelago, with an area of 4,700 sq mi (12,000 km2), comprises East Falkland, West Falkland, and 776 smaller islands."
-  },
-  "f8": {
+  "f5": {
    "kind": "date",
    "value": "776",
    "surface": "776",
-   "sentence": "The archipelago, with an area of 4,700 sq mi (12,000 km2), comprises East Falkland, West Falkland, and 776 smaller islands."
+   "sentence": "The archipelago, with an area of 4,700 sq mi, comprises East Falkland, West Falkland, and 776 smaller islands."
   },
-  "f9": {
+  "f6": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "Britain reasserted its rule in 1833, but Argentina maintains its claim to the islands."
   },
-  "f10": {
+  "f7": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "In April 1982, Argentine military forces invaded the islands."
   },
-  "f11": {
+  "f8": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "In a 2013 sovereignty referendum, almost all of the votes cast were in favour of remaining a UK overseas territory."
   },
-  "f12": {
+  "f9": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "The 2021 census recorded a population of 3,662 inhabitants, around 30% of which are temporary residents, on short-term work visas or working at the RAF Mount Pleasant military base."
   },
-  "f13": {
+  "f10": {
    "kind": "number",
    "value": 3662,
    "surface": "3,662",
    "sentence": "The 2021 census recorded a population of 3,662 inhabitants, around 30% of which are temporary residents, on short-term work visas or working at the RAF Mount Pleasant military base."
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
    "surface": "30%",
    "sentence": "The 2021 census recorded a population of 3,662 inhabitants, around 30% of which are temporary residents, on short-term work visas or working at the RAF Mount Pleasant military base."
   },
-  "f15": {
+  "f12": {
    "kind": "date",
    "value": "1983",
    "surface": "1983",
-   "sentence": "Under the British Nationality (Falkland Islands) Act 1983, Falkland Islanders are British citizens."
+   "sentence": "Under the British Nationality Act 1983, Falkland Islanders are British citizens."
   },
-  "f16": {
+  "f13": {
    "kind": "measure",
    "value": 2300,
    "unit": "ft",
    "surface": "2,300 ft",
-   "sentence": "The islands lie at the boundary of the subantarctic oceanic and tundra climate zones, and both major islands have mountain ranges reaching 2,300 ft (700 m)."
+   "sentence": "The islands lie at the boundary of the subantarctic oceanic and tundra climate zones, and both major islands have mountain ranges reaching 2,300 ft. They are home to large bird populations, although many no longer breed on the main islands owing to predation by introduced species."
   },
-  "f17": {
-   "kind": "measure",
-   "value": 700,
-   "unit": "m",
-   "surface": "700 m",
-   "sentence": "The islands lie at the boundary of the subantarctic oceanic and tundra climate zones, and both major islands have mountain ranges reaching 2,300 ft (700 m)."
-  },
-  "f18": {
+  "f14": {
    "kind": "date",
    "value": "1690",
    "surface": "1690",
    "sentence": "The name Falkland was applied to the channel by John Strong, captain of an English expedition that landed on the islands in 1690.",
    "section": "Etymology"
   },
-  "f19": {
+  "f15": {
    "kind": "date",
    "value": "1765",
    "surface": "1765",
    "sentence": "The name Falklands was not applied to the islands until 1765, when British captain John Byron of the Royal Navy claimed them for King George III as \"Falkland's Islands\".",
    "section": "Etymology"
   },
-  "f20": {
+  "f16": {
    "kind": "date",
    "value": "1764",
    "surface": "1764",
    "sentence": "The common Spanish name for the archipelago, Islas Malvinas, derives from the French Îles Malouines—the name given to the islands by French explorer Louis-Antoine de Bougainville in 1764.",
    "section": "Etymology"
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "1965",
    "surface": "1965",
-   "sentence": "In 1965, at the 20th session of the United Nations General Assembly, the Fourth Committee determined that, in all languages other than Spanish, all UN documentation would designate the territory as Falkland Islands (Malvinas).",
+   "sentence": "In 1965, at the 20th session of the United Nations General Assembly, the Fourth Committee determined that, in all languages other than Spanish, all UN documentation would designate the territory as Falkland Islands.",
    "section": "Etymology"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1690",
    "surface": "1690",
    "sentence": "The first undisputed landing on the islands is attributed to English captain John Strong, who, en route to Peru and Chile's littoral in 1690, explored the Falkland Sound and noted the islands' water and game.",
    "section": "History"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1764",
    "surface": "1764",
    "sentence": "The Falklands remained uninhabited until the 1764 establishment of Port Louis on East Falkland by French captain Louis Antoine de Bougainville and the 1765 foundation of Port Egmont on Saunders Island by British captain John Byron; the latter settlement being expanded by British captain John MacBride a year later.",
    "section": "History"
   },
-  "f24": {
+  "f20": {
    "kind": "date",
    "value": "1765",
    "surface": "1765",
    "sentence": "The Falklands remained uninhabited until the 1764 establishment of Port Louis on East Falkland by French captain Louis Antoine de Bougainville and the 1765 foundation of Port Egmont on Saunders Island by British captain John Byron; the latter settlement being expanded by British captain John MacBride a year later.",
    "section": "History"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "1766",
    "surface": "1766",
    "sentence": "In 1766, France surrendered its claim on the Falklands to Spain, which renamed the French colony Puerto Soledad the following year.",
    "section": "History"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1770",
    "surface": "1770",
    "sentence": "Problems began when Spain detected and captured Port Egmont in 1770.",
    "section": "History"
   },
-  "f27": {
+  "f23": {
    "kind": "date",
    "value": "1771",
    "surface": "1771",
    "sentence": "War was narrowly avoided by its restitution to Britain in 1771.",
    "section": "History"
   },
-  "f28": {
+  "f24": {
    "kind": "date",
    "value": "1774",
    "surface": "1774",
    "sentence": "The British and Spanish settlements coexisted in the archipelago until 1774, when Britain's new economic and strategic considerations led it to withdraw the garrison from the islands, leaving a plaque claiming the Falklands for King George III.",
    "section": "History"
   },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "1806",
    "surface": "1806",
    "sentence": "Amid the British invasions of the Río de la Plata during the Napoleonic Wars in Europe, the islands' governor evacuated the archipelago in 1806; Spain's remaining colonial garrison followed suit in 1811, except for gauchos and fishermen who remained voluntarily.",
    "section": "History"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "1811",
    "surface": "1811",
    "sentence": "Amid the British invasions of the Río de la Plata during the Napoleonic Wars in Europe, the islands' governor evacuated the archipelago in 1806; Spain's remaining colonial garrison followed suit in 1811, except for gauchos and fishermen who remained voluntarily.",
    "section": "History"
   },
-  "f31": {
+  "f27": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "Thereafter, the archipelago was visited only by fishing ships; its political status was undisputed until 1820, when Colonel David Jewett, an American privateer working for the United Provinces of the Río de la Plata, informed anchored ships about Buenos Aires' 1816 claim to Spain's territories in the South Atlantic.",
    "section": "History"
   },
-  "f32": {
+  "f28": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
    "sentence": "Thereafter, the archipelago was visited only by fishing ships; its political status was undisputed until 1820, when Colonel David Jewett, an American privateer working for the United Provinces of the Río de la Plata, informed anchored ships about Buenos Aires' 1816 claim to Spain's territories in the South Atlantic.",
    "section": "History"
   },
-  "f33": {
+  "f29": {
    "kind": "date",
    "value": "1823",
    "surface": "1823",
    "sentence": "Since the islands had no permanent inhabitants, in 1823 Buenos Aires granted German-born merchant Luis Vernet permission to conduct fishing activities and exploit feral cattle in the archipelago.",
    "section": "History"
   },
-  "f34": {
+  "f30": {
    "kind": "date",
    "value": "1826",
    "surface": "1826",
    "sentence": "Vernet settled at the ruins of Puerto Soledad in 1826, and accumulated resources on the islands until the venture was secure enough to bring settlers and form a permanent colony.",
    "section": "History"
   },
-  "f35": {
+  "f31": {
    "kind": "date",
    "value": "1829",
    "surface": "1829",
    "sentence": "Buenos Aires named Vernet military and civil commander of the islands in 1829, and he attempted to regulate sealing to stop the activities of foreign whalers and sealers.",
    "section": "History"
   },
-  "f36": {
+  "f32": {
    "kind": "date",
    "value": "1831",
    "surface": "1831",
    "sentence": "Vernet's venture lasted until a dispute related to fishing and hunting rights led to a raid by the American warship USS Lexington in 1831, when United States Navy commander Silas Duncan declared the dissolution of the island's government.",
    "section": "History"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "Buenos Aires attempted to gain influence over the settlement by installing a garrison in October 1832, which mutinied within a month and was followed the next year by the arrival of British forces, who reasserted Britain's rule.",
    "section": "History"
   },
-  "f38": {
+  "f34": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "In 1840, the Falklands became a Crown colony and Scottish settlers subsequently established an official pastoral community.",
    "section": "History"
   },
-  "f39": {
+  "f35": {
    "kind": "date",
    "value": "1845",
    "surface": "1845",
    "sentence": "Stanley, as Port Jackson was soon renamed, officially became the seat of government in 1845.",
    "section": "History"
   },
-  "f40": {
+  "f36": {
    "kind": "date",
    "value": "1851",
    "surface": "1851",
    "sentence": "Economic growth began only after the Falkland Islands Company, which bought out Lafone's failing enterprise in 1851, successfully introduced Cheviot sheep for wool farming, spurring other farms to follow suit.",
    "section": "History"
   },
-  "f41": {
+  "f37": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "After 1870 it declined as the replacement of sail ships by steamships was accelerated by the low cost of coal in South America; by 1914, with the opening of the Panama Canal, the trade effectively ended.",
    "section": "History"
   },
-  "f42": {
+  "f38": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "After 1870 it declined as the replacement of sail ships by steamships was accelerated by the low cost of coal in South America; by 1914, with the opening of the Panama Canal, the trade effectively ended.",
    "section": "History"
   },
-  "f43": {
+  "f39": {
    "kind": "date",
    "value": "1881",
    "surface": "1881",
    "sentence": "In 1881, the Falkland Islands became financially independent of Britain.",
    "section": "History"
   },
-  "f44": {
+  "f40": {
    "kind": "date",
    "value": "1908",
    "surface": "1908",
    "sentence": "The Falklands governed these territories as the Falkland Islands Dependencies starting in 1908 and retained them until their dissolution in 1985.",
    "section": "History"
   },
-  "f45": {
+  "f41": {
    "kind": "date",
    "value": "1985",
    "surface": "1985",
    "sentence": "The Falklands governed these territories as the Falkland Islands Dependencies starting in 1908 and retained them until their dissolution in 1985.",
    "section": "History"
   },
-  "f46": {
+  "f42": {
    "kind": "date",
    "value": "1914",
    "surface": "1914",
    "sentence": "In the Battle of the Falkland Islands in December 1914 during the First World War, a Royal Navy fleet defeated an Imperial German squadron.",
    "section": "History"
   },
-  "f47": {
+  "f43": {
    "kind": "date",
    "value": "1939",
    "surface": "1939",
    "sentence": "In the Second World War, following the December 1939 Battle of the River Plate, the battle-damaged HMS Exeter steamed to the Falklands for repairs.",
    "section": "History"
   },
-  "f48": {
+  "f44": {
    "kind": "date",
    "value": "1942",
    "surface": "1942",
    "sentence": "In 1942, a battalion en route to India was redeployed to the Falklands as a garrison amid fears of a Japanese seizure of the archipelago.",
    "section": "History"
   },
-  "f49": {
+  "f45": {
    "kind": "date",
    "value": "1965",
    "surface": "1965",
    "sentence": "In 1965, the UN General Assembly passed Resolution 2065, calling for both states to conduct bilateral negotiations to reach a peaceful settlement of the dispute.",
    "section": "History"
   },
-  "f50": {
+  "f46": {
    "kind": "date",
    "value": "2065",
    "surface": "2065",
    "sentence": "In 1965, the UN General Assembly passed Resolution 2065, calling for both states to conduct bilateral negotiations to reach a peaceful settlement of the dispute.",
    "section": "History"
   },
-  "f51": {
+  "f47": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "From 1966 until 1968, the UK confidentially discussed with Argentina the transfer of the Falklands, assuming its judgement would be accepted by the islanders.",
    "section": "History"
   },
-  "f52": {
+  "f48": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
    "sentence": "From 1966 until 1968, the UK confidentially discussed with Argentina the transfer of the Falklands, assuming its judgement would be accepted by the islanders.",
    "section": "History"
   },
-  "f53": {
+  "f49": {
    "kind": "date",
    "value": "1971",
    "surface": "1971",
    "sentence": "An agreement on trade ties between the archipelago and the mainland was reached in 1971 and, consequently, Argentina built a temporary airfield at Stanley in 1972.",
    "section": "History"
   },
-  "f54": {
+  "f50": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "An agreement on trade ties between the archipelago and the mainland was reached in 1971 and, consequently, Argentina built a temporary airfield at Stanley in 1972.",
    "section": "History"
   },
-  "f55": {
+  "f51": {
    "kind": "date",
    "value": "1977",
    "surface": "1977",
    "sentence": "Nonetheless, Falklander dissent, as expressed by their strong lobby in the UK Parliament, and tensions between the UK and Argentina effectively limited sovereignty negotiations until 1977.",
    "section": "History"
   },
-  "f56": {
+  "f52": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "Substantive sovereignty talks again ended by 1981, and the dispute escalated with passing time.",
    "section": "History"
   },
-  "f57": {
+  "f53": {
    "kind": "date",
    "value": "1982",
    "surface": "1982",
    "sentence": "In April 1982 the Falklands War began when Argentine military forces invaded the Falklands and other British territories in the South Atlantic, briefly occupying them until a UK expeditionary force retook the territories in June.",
    "section": "History"
   },
-  "f58": {
+  "f54": {
    "kind": "number",
    "value": 117,
    "surface": "117",
    "sentence": "The war also left some 117 minefields containing nearly 20,000 mines of various types, including anti-vehicle and anti-personnel mines.",
    "section": "History"
   },
-  "f59": {
+  "f55": {
    "kind": "number",
    "value": 20000,
    "surface": "20,000",
    "sentence": "The war also left some 117 minefields containing nearly 20,000 mines of various types, including anti-vehicle and anti-personnel mines.",
    "section": "History"
   },
-  "f60": {
+  "f56": {
    "kind": "date",
    "value": "1983",
    "surface": "1983",
    "sentence": "Due to the large number of deminer casualties, initial attempts to clear the mines ceased in 1983.",
    "section": "History"
   },
-  "f61": {
+  "f57": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Landmine clearance work restarted in 2009, in accordance with the UK's obligations under the Ottawa Treaty, and Sapper Hill Corral was cleared of mines in 2012, allowing access to an important historical landmark for the first time in 30 years.",
    "section": "History"
   },
-  "f62": {
+  "f58": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Landmine clearance work restarted in 2009, in accordance with the UK's obligations under the Ottawa Treaty, and Sapper Hill Corral was cleared of mines in 2012, allowing access to an important historical landmark for the first time in 30 years.",
    "section": "History"
   },
-  "f63": {
+  "f59": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
@@ -490,120 +462,112 @@
    "sentence": "Landmine clearance work restarted in 2009, in accordance with the UK's obligations under the Ottawa Treaty, and Sapper Hill Corral was cleared of mines in 2012, allowing access to an important historical landmark for the first time in 30 years.",
    "section": "History"
   },
-  "f64": {
+  "f60": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Demining was completed in October 2020.",
    "section": "History"
   },
-  "f65": {
+  "f61": {
    "kind": "date",
    "value": "1990",
    "surface": "1990",
    "sentence": "Argentina and the UK re-established diplomatic relations in 1990, but neither has agreed on the terms of future sovereignty discussions.",
    "section": "History"
   },
-  "f66": {
+  "f62": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Under the 2009 Constitution, the islands have full internal self-government; the UK is responsible for foreign affairs, retaining the power \"to protect UK interests and to ensure the overall good governance of the territory\".",
    "section": "Government"
   },
-  "f67": {
+  "f63": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Governor Colin Martin-Reynolds was appointed in July 2025 and Chief Executive Andrea Clausen took up the post on 1 April 2025.",
    "section": "Government"
   },
-  "f68": {
+  "f64": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Governor Colin Martin-Reynolds was appointed in July 2025 and Chief Executive Andrea Clausen took up the post on 1 April 2025.",
    "section": "Government"
   },
-  "f69": {
+  "f65": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Governor Colin Martin-Reynolds was appointed in July 2025 and Chief Executive Andrea Clausen took up the post on 1 April 2025.",
    "section": "Government"
   },
-  "f70": {
+  "f66": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "The UK minister responsible for the Falkland Islands since 2024, Stephen Doughty, administers British foreign policy regarding the islands.",
    "section": "Government"
   },
-  "f71": {
+  "f67": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "Since the 2013 general election, members of the Legislative Assembly have received a salary and are expected to work full-time and give up all previously held jobs or business interests.",
    "section": "Government"
   },
-  "f72": {
+  "f68": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "As a territory of the United Kingdom, the Falklands were part of the overseas countries and territories of the European Union until 2020.",
    "section": "Government"
   },
-  "f73": {
+  "f69": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "The Falklands claim an exclusive economic zone (EEZ) extending 200 nmi (370 km) from its coastal baselines, based on the United Nations Convention on the Law of the Sea; this zone overlaps with the EEZ of Argentina.",
+   "sentence": "The Falklands claim an exclusive economic zone extending 200 nmi from its coastal baselines, based on the United Nations Convention on the Law of the Sea; this zone overlaps with the EEZ of Argentina.",
    "section": "Government"
   },
-  "f74": {
-   "kind": "measure",
-   "value": 370,
-   "unit": "km",
-   "surface": "370 km",
-   "sentence": "The Falklands claim an exclusive economic zone (EEZ) extending 200 nmi (370 km) from its coastal baselines, based on the United Nations Convention on the Law of the Sea; this zone overlaps with the EEZ of Argentina.",
-   "section": "Government"
-  },
-  "f75": {
+  "f70": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
    "sentence": "The UK bases its position on its continuous administration of the islands since 1833 and the islanders' \"right to self-determination as set out in the UN Charter\".",
    "section": "Government"
   },
-  "f76": {
+  "f71": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
    "sentence": "Argentina claims that, when it achieved independence in 1816, it acquired the Falklands from Spain.",
    "section": "Government"
   },
-  "f77": {
+  "f72": {
    "kind": "date",
    "value": "1833",
    "surface": "1833",
-   "sentence": "The incident of 1833 is particularly contentious; Argentina considers it proof of \"Britain's usurpation\" whereas the UK discounts it as a mere reassertion of its claim.",
+   "sentence": "The incident of 1833 is particularly contentious; Argentina considers it proof of \"Britain's usurpation\"whereas the UK discounts it as a mere reassertion of its claim.",
    "section": "Government"
   },
-  "f78": {
+  "f73": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2009, the British prime minister, Gordon Brown, had a meeting with the Argentine president, Cristina Fernández de Kirchner, and said that there would be no further talks over the sovereignty of the Falklands.",
    "section": "Government"
   },
-  "f79": {
+  "f74": {
    "kind": "date",
    "value": "2013",
    "surface": "2013",
    "sentence": "In March 2013, the Falkland Islands held a referendum on its political status: 99.8% of votes cast favoured remaining a British overseas territory.",
    "section": "Government"
   },
-  "f80": {
+  "f75": {
    "kind": "measure",
    "value": 99.8,
    "unit": "%",
@@ -611,45 +575,29 @@
    "sentence": "In March 2013, the Falkland Islands held a referendum on its political status: 99.8% of votes cast favoured remaining a British overseas territory.",
    "section": "Government"
   },
-  "f81": {
+  "f76": {
    "kind": "number",
    "value": 4700,
    "surface": "4,700",
-   "sentence": "The Falkland Islands have a land area of 4,700 sq mi (12,000 km2) and a coastline estimated at 800 mi (1,300 km).",
+   "sentence": "The Falkland Islands have a land area of 4,700 sq mi and a coastline estimated at 800 mi.",
    "section": "Geography"
   },
-  "f82": {
-   "kind": "measure",
-   "value": 12000,
-   "unit": "km2",
-   "surface": "12,000 km2",
-   "sentence": "The Falkland Islands have a land area of 4,700 sq mi (12,000 km2) and a coastline estimated at 800 mi (1,300 km).",
-   "section": "Geography"
-  },
-  "f83": {
+  "f77": {
    "kind": "measure",
    "value": 800,
    "unit": "mi",
    "surface": "800 mi",
-   "sentence": "The Falkland Islands have a land area of 4,700 sq mi (12,000 km2) and a coastline estimated at 800 mi (1,300 km).",
+   "sentence": "The Falkland Islands have a land area of 4,700 sq mi and a coastline estimated at 800 mi.",
    "section": "Geography"
   },
-  "f84": {
-   "kind": "measure",
-   "value": 1300,
-   "unit": "km",
-   "surface": "1,300 km",
-   "sentence": "The Falkland Islands have a land area of 4,700 sq mi (12,000 km2) and a coastline estimated at 800 mi (1,300 km).",
-   "section": "Geography"
-  },
-  "f85": {
+  "f78": {
    "kind": "date",
    "value": "776",
    "surface": "776",
    "sentence": "The archipelago consists of two main islands, West Falkland and East Falkland, and 776 smaller islands.",
    "section": "Geography"
   },
-  "f86": {
+  "f79": {
    "kind": "measure",
    "value": 130000000,
    "unit": "years",
@@ -657,169 +605,115 @@
    "sentence": "The Falklands consist of continental crust fragments resulting from the break-up of Gondwana and the opening of the South Atlantic that began 130 million years ago.",
    "section": "Geography"
   },
-  "f87": {
+  "f80": {
    "kind": "measure",
    "value": 300,
    "unit": "mi",
    "surface": "300 mi",
-   "sentence": "The islands are located in the South Atlantic Ocean, on the Patagonian Shelf, about 300 mi (480 km) east of Patagonia in southern Argentina.",
+   "sentence": "The islands are located in the South Atlantic Ocean, on the Patagonian Shelf, about 300 mi east of Patagonia in southern Argentina.",
    "section": "Geography"
   },
-  "f88": {
-   "kind": "measure",
-   "value": 480,
-   "unit": "km",
-   "surface": "480 km",
-   "sentence": "The islands are located in the South Atlantic Ocean, on the Patagonian Shelf, about 300 mi (480 km) east of Patagonia in southern Argentina.",
-   "section": "Geography"
-  },
-  "f89": {
+  "f81": {
    "kind": "number",
    "value": 51,
    "surface": "51",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f90": {
+  "f82": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f91": {
+  "f83": {
    "kind": "number",
    "value": 53,
    "surface": "53",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f92": {
+  "f84": {
    "kind": "number",
    "value": 0,
    "surface": "00",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f93": {
+  "f85": {
    "kind": "number",
    "value": 57,
    "surface": "57",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f94": {
+  "f86": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f95": {
+  "f87": {
    "kind": "number",
    "value": 62,
    "surface": "62",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f96": {
+  "f88": {
    "kind": "number",
    "value": 0,
    "surface": "00",
    "sentence": "The Falklands' approximate location is latitude 51°40′– 53°00′ S and longitude 57°40′– 62°00′ W. The archipelago's two main islands are separated by the Falkland Sound, and its deep coastal indentations form natural harbours.",
    "section": "Geography"
   },
-  "f97": {
+  "f89": {
    "kind": "measure",
    "value": 2313,
    "unit": "ft",
    "surface": "2,313 ft",
-   "sentence": "East Falkland houses Stanley (the capital and largest settlement), the UK military base at RAF Mount Pleasant, and the archipelago's highest point: Mount Usborne, at 2,313 ft (705 m).",
+   "sentence": "East Falkland houses Stanley, the UK military base at RAF Mount Pleasant, and the archipelago's highest point: Mount Usborne, at 2,313 ft. Outside of these significant settlements is the area colloquially known as \"Camp\", which is derived from the Spanish term for countryside.",
    "section": "Geography"
   },
-  "f98": {
-   "kind": "measure",
-   "value": 705,
-   "unit": "m",
-   "surface": "705 m",
-   "sentence": "East Falkland houses Stanley (the capital and largest settlement), the UK military base at RAF Mount Pleasant, and the archipelago's highest point: Mount Usborne, at 2,313 ft (705 m).",
-   "section": "Geography"
-  },
-  "f99": {
+  "f90": {
    "kind": "measure",
    "value": 610,
    "unit": "mm",
    "surface": "610 mm",
-   "sentence": "Rainfall is common over half of the year, averaging 610 mm (24 in) in Stanley, and sporadic light snowfall occurs nearly all year.",
+   "sentence": "Rainfall is common over half of the year, averaging 610 mm in Stanley, and sporadic light snowfall occurs nearly all year.",
    "section": "Geography"
   },
-  "f100": {
-   "kind": "number",
-   "value": 24,
-   "surface": "24",
-   "sentence": "Rainfall is common over half of the year, averaging 610 mm (24 in) in Stanley, and sporadic light snowfall occurs nearly all year.",
-   "section": "Geography"
-  },
-  "f101": {
+  "f91": {
    "kind": "number",
    "value": 21.1,
    "surface": "21.1",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
+   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C in Stanley, with mean monthly temperatures varying from 9 °C in January and February to −1 °C in July.",
    "section": "Geography"
   },
-  "f102": {
+  "f92": {
    "kind": "measure",
    "value": 11.1,
    "unit": "°c",
    "surface": "11.1 °C",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
+   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C in Stanley, with mean monthly temperatures varying from 9 °C in January and February to −1 °C in July.",
    "section": "Geography"
   },
-  "f103": {
-   "kind": "number",
-   "value": 70,
-   "surface": "70.0",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
-   "section": "Geography"
-  },
-  "f104": {
-   "kind": "measure",
-   "value": 12,
-   "unit": "°f",
-   "surface": "12.0 °F",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
-   "section": "Geography"
-  },
-  "f105": {
+  "f93": {
    "kind": "measure",
    "value": 9,
    "unit": "°c",
    "surface": "9 °C",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
+   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C in Stanley, with mean monthly temperatures varying from 9 °C in January and February to −1 °C in July.",
    "section": "Geography"
   },
-  "f106": {
-   "kind": "measure",
-   "value": 48,
-   "unit": "°f",
-   "surface": "48 °F",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
-   "section": "Geography"
-  },
-  "f107": {
+  "f94": {
    "kind": "measure",
    "value": 1,
    "unit": "°c",
    "surface": "1 °C",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
-   "section": "Geography"
-  },
-  "f108": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "°f",
-   "surface": "30 °F",
-   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C (70.0 and 12.0 °F) in Stanley, with mean monthly temperatures varying from 9 °C (48 °F) in January and February (summer) to −1 °C (30 °F) in July (winter).",
+   "sentence": "The temperature has historically stayed between 21.1 and −11.1 °C in Stanley, with mean monthly temperatures varying from 9 °C in January and February to −1 °C in July.",
    "section": "Geography"
   }
  },

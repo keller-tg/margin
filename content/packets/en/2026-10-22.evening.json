@@ -110,7 +110,7 @@
    "kind": "date",
    "value": "2023",
    "surface": "2023",
-   "sentence": "The next planned mission to the Jovian system is the European Space Agency's Jupiter Icy Moons Explorer (Juice), which was launched in 2023."
+   "sentence": "The next planned mission to the Jovian system is the European Space Agency's Jupiter Icy Moons Explorer, which was launched in 2023."
   },
   "f10": {
    "kind": "number",
@@ -152,222 +152,162 @@
    "value": 1070400,
    "unit": "kilometres",
    "surface": "1,070,400 kilometres",
-   "sentence": "Ganymede orbits Jupiter at a distance of 1,070,400 kilometres (665,100 mi), third among the Galilean satellites, and completes a revolution every seven days and three hours (7.155 days).",
+   "sentence": "Ganymede orbits Jupiter at a distance of 1,070,400 kilometres, third among the Galilean satellites, and completes a revolution every seven days and three hours.",
    "section": "Orbit and rotation"
   },
   "f16": {
-   "kind": "measure",
-   "value": 665100,
-   "unit": "mi",
-   "surface": "665,100 mi",
-   "sentence": "Ganymede orbits Jupiter at a distance of 1,070,400 kilometres (665,100 mi), third among the Galilean satellites, and completes a revolution every seven days and three hours (7.155 days).",
-   "section": "Orbit and rotation"
-  },
-  "f17": {
-   "kind": "number",
-   "value": 7.155,
-   "surface": "7.155",
-   "sentence": "Ganymede orbits Jupiter at a distance of 1,070,400 kilometres (665,100 mi), third among the Galilean satellites, and completes a revolution every seven days and three hours (7.155 days).",
-   "section": "Orbit and rotation"
-  },
-  "f18": {
    "kind": "number",
    "value": 0.0009,
    "surface": "0.0009",
    "sentence": "The ranges of change are 0.0009–0.0022 and 0.05–0.32°, respectively.",
    "section": "Orbit and rotation"
   },
-  "f19": {
+  "f17": {
    "kind": "number",
    "value": 0.0022,
    "surface": "0.0022",
    "sentence": "The ranges of change are 0.0009–0.0022 and 0.05–0.32°, respectively.",
    "section": "Orbit and rotation"
   },
-  "f20": {
+  "f18": {
    "kind": "number",
    "value": 0.05,
    "surface": "0.05",
    "sentence": "The ranges of change are 0.0009–0.0022 and 0.05–0.32°, respectively.",
    "section": "Orbit and rotation"
   },
-  "f21": {
+  "f19": {
    "kind": "number",
    "value": 0.32,
    "surface": "0.32",
    "sentence": "The ranges of change are 0.0009–0.0022 and 0.05–0.32°, respectively.",
    "section": "Orbit and rotation"
   },
-  "f22": {
+  "f20": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "These orbital variations cause the axial tilt (the angle between the rotational and orbital axes) to vary between 0 and 0.33°.",
+   "sentence": "These orbital variations cause the axial tilt to vary between 0 and 0.33°.",
    "section": "Orbit and rotation"
   },
-  "f23": {
+  "f21": {
    "kind": "number",
    "value": 0.33,
    "surface": "0.33",
-   "sentence": "These orbital variations cause the axial tilt (the angle between the rotational and orbital axes) to vary between 0 and 0.33°.",
+   "sentence": "These orbital variations cause the axial tilt to vary between 0 and 0.33°.",
    "section": "Orbit and rotation"
   },
-  "f24": {
+  "f22": {
    "kind": "number",
    "value": 0.0013,
    "surface": "0.0013",
    "sentence": "The value of about 0.0013 is probably a remnant from a previous epoch, when such pumping was possible.",
    "section": "Orbit and rotation"
   },
-  "f25": {
+  "f23": {
    "kind": "number",
    "value": 0.0015,
    "surface": "0.0015",
    "sentence": "Because Ganymede's orbital eccentricity is relatively low—on average 0.0015—tidal heating is negligible now.",
    "section": "Orbit and rotation"
   },
-  "f26": {
+  "f24": {
    "kind": "number",
    "value": 0.01,
    "surface": "0.01",
    "sentence": "However, in the past Ganymede may have passed through one or more Laplace-like resonances that were able to pump the orbital eccentricity to a value as high as 0.01–0.02.",
    "section": "Orbit and rotation"
   },
-  "f27": {
+  "f25": {
    "kind": "number",
    "value": 0.02,
    "surface": "0.02",
    "sentence": "However, in the past Ganymede may have passed through one or more Laplace-like resonances that were able to pump the orbital eccentricity to a value as high as 0.01–0.02.",
    "section": "Orbit and rotation"
   },
+  "f26": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
+   "section": "Orbit and rotation"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
+   "section": "Orbit and rotation"
+  },
   "f28": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand (due to conservation of momentum) until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
+   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
    "section": "Orbit and rotation"
   },
   "f29": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand (due to conservation of momentum) until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
+   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
    "section": "Orbit and rotation"
   },
   "f30": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand (due to conservation of momentum) until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
-   "section": "Orbit and rotation"
-  },
-  "f31": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "A possible sequence of events for the latter scenario is as follows: Io raised tides on Jupiter, causing Io's orbit to expand (due to conservation of momentum) until it encountered the 2:1 resonance with Europa; after that, the expansion continued, but some of the angular moment was transferred to Europa as the resonance caused its orbit to expand as well; the process continued until Europa encountered the 2:1 resonance with Ganymede.",
-   "section": "Orbit and rotation"
-  },
-  "f32": {
    "kind": "measure",
    "value": 5270,
    "unit": "kilometres",
    "surface": "5,270 kilometres",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
+   "sentence": "With a diameter of about 5,270 kilometres and a mass of 1.48×1020 tonnes, Ganymede is the largest and most massive moon in the Solar System.",
    "section": "Bulk properties"
   },
-  "f33": {
-   "kind": "measure",
-   "value": 3270,
-   "unit": "mi",
-   "surface": "3,270 mi",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
-   "section": "Bulk properties"
-  },
-  "f34": {
+  "f31": {
    "kind": "number",
    "value": 1.48,
    "surface": "1.48",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
+   "sentence": "With a diameter of about 5,270 kilometres and a mass of 1.48×1020 tonnes, Ganymede is the largest and most massive moon in the Solar System.",
    "section": "Bulk properties"
   },
-  "f35": {
+  "f32": {
    "kind": "measure",
    "value": 1020,
    "unit": "tonnes",
    "surface": "1020 tonnes",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
+   "sentence": "With a diameter of about 5,270 kilometres and a mass of 1.48×1020 tonnes, Ganymede is the largest and most massive moon in the Solar System.",
    "section": "Bulk properties"
   },
-  "f36": {
-   "kind": "number",
-   "value": 1.48,
-   "surface": "1.48",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
-   "section": "Bulk properties"
-  },
-  "f37": {
-   "kind": "measure",
-   "value": 1023,
-   "unit": "kg",
-   "surface": "1023 kg",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
-   "section": "Bulk properties"
-  },
-  "f38": {
-   "kind": "number",
-   "value": 3.26,
-   "surface": "3.26",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
-   "section": "Bulk properties"
-  },
-  "f39": {
-   "kind": "date",
-   "value": "1023",
-   "surface": "1023",
-   "sentence": "With a diameter of about 5,270 kilometres (3,270 mi) and a mass of 1.48×1020 tonnes (1.48×1023 kg; 3.26×1023 lb), Ganymede is the largest and most massive moon in the Solar System.",
-   "section": "Bulk properties"
-  },
-  "f40": {
+  "f33": {
    "kind": "measure",
    "value": 4880,
    "unit": "kilometres",
    "surface": "4,880 kilometres",
-   "sentence": "It is larger than the planet Mercury, which has a diameter of 4,880 kilometres (3,030 mi) but is only 45 percent of Mercury's mass.",
+   "sentence": "It is larger than the planet Mercury, which has a diameter of 4,880 kilometres but is only 45 percent of Mercury's mass.",
    "section": "Bulk properties"
   },
-  "f41": {
-   "kind": "measure",
-   "value": 3030,
-   "unit": "mi",
-   "surface": "3,030 mi",
-   "sentence": "It is larger than the planet Mercury, which has a diameter of 4,880 kilometres (3,030 mi) but is only 45 percent of Mercury's mass.",
-   "section": "Bulk properties"
-  },
-  "f42": {
+  "f34": {
    "kind": "measure",
    "value": 45,
    "unit": "percent",
    "surface": "45 percent",
-   "sentence": "It is larger than the planet Mercury, which has a diameter of 4,880 kilometres (3,030 mi) but is only 45 percent of Mercury's mass.",
+   "sentence": "It is larger than the planet Mercury, which has a diameter of 4,880 kilometres but is only 45 percent of Mercury's mass.",
    "section": "Bulk properties"
   },
-  "f43": {
+  "f35": {
    "kind": "measure",
    "value": 1.936,
    "unit": "g",
    "surface": "1.936 g",
-   "sentence": "The average density of Ganymede, 1.936 g/cm3 (a bit greater than Callisto's), suggests a composition of about equal parts rocky material and mostly water ices.",
+   "sentence": "The average density of Ganymede, 1.936 g/cm3, suggests a composition of about equal parts rocky material and mostly water ices.",
    "section": "Bulk properties"
   },
-  "f44": {
+  "f36": {
    "kind": "number",
    "value": 46,
    "surface": "46",
    "sentence": "The mass fraction of ices is between 46 and 50 percent, which is slightly lower than that in Callisto.",
    "section": "Bulk properties"
   },
-  "f45": {
+  "f37": {
    "kind": "measure",
    "value": 50,
    "unit": "percent",
@@ -375,72 +315,64 @@
    "sentence": "The mass fraction of ices is between 46 and 50 percent, which is slightly lower than that in Callisto.",
    "section": "Bulk properties"
   },
-  "f46": {
+  "f38": {
    "kind": "number",
    "value": 1.05,
    "surface": "1.05",
    "sentence": "The weight ratio of iron to silicon ranges between 1.05 and 1.27 in Ganymede, whereas the solar ratio is around 1.8.",
    "section": "Bulk properties"
   },
-  "f47": {
+  "f39": {
    "kind": "number",
    "value": 1.27,
    "surface": "1.27",
    "sentence": "The weight ratio of iron to silicon ranges between 1.05 and 1.27 in Ganymede, whereas the solar ratio is around 1.8.",
    "section": "Bulk properties"
   },
-  "f48": {
+  "f40": {
    "kind": "number",
    "value": 1.8,
    "surface": "1.8",
    "sentence": "The weight ratio of iron to silicon ranges between 1.05 and 1.27 in Ganymede, whereas the solar ratio is around 1.8.",
    "section": "Bulk properties"
   },
-  "f49": {
+  "f41": {
    "kind": "number",
    "value": 0.31,
    "surface": "0.31",
    "sentence": "Ganymede has the lowest moment of inertia factor, 0.31, among the solid Solar System bodies.",
    "section": "Bulk properties"
   },
-  "f50": {
+  "f42": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
    "sentence": "An analysis published in 2014, taking into account the realistic thermodynamics for water and effects of salt, suggests that Ganymede might have a stack of several ocean layers separated by different phases of ice, with the lowest liquid layer adjacent to the rocky mantle.",
    "section": "Bulk properties"
   },
-  "f51": {
-   "kind": "measure",
-   "value": 800,
-   "unit": "km",
-   "surface": "800 km",
-   "sentence": "The analysis also notes that the extreme depths involved (~800 km to the rocky \"seafloor\") mean that temperatures at the bottom of a convective (adiabatic) ocean can be up to 40 K higher than those at the ice–water interface.",
-   "section": "Bulk properties"
-  },
-  "f52": {
+  "f43": {
    "kind": "measure",
    "value": 40,
    "unit": "k",
    "surface": "40 K",
-   "sentence": "The analysis also notes that the extreme depths involved (~800 km to the rocky \"seafloor\") mean that temperatures at the bottom of a convective (adiabatic) ocean can be up to 40 K higher than those at the ice–water interface.",
+   "sentence": "The analysis also notes that the extreme depths involved mean that temperatures at the bottom of a convective ocean can be up to 40 K higher than those at the ice–water interface.",
    "section": "Bulk properties"
   },
-  "f53": {
+  "f44": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "In March 2015, scientists reported that measurements with the Hubble Space Telescope of how the aurorae moved confirmed that Ganymede has a subsurface ocean.",
    "section": "Bulk properties"
   },
-  "f54": {
+  "f45": {
    "kind": "number",
    "value": 5.5,
    "surface": "5.5",
    "sentence": "The density of the core is 5.5–6 g/cm3 and the silicate mantle is 3.4–3.6 g/cm3.",
    "section": "Bulk properties"
   },
-  "f55": {
+  "f46": {
    "kind": "measure",
    "value": 6,
    "unit": "g",
@@ -448,14 +380,14 @@
    "sentence": "The density of the core is 5.5–6 g/cm3 and the silicate mantle is 3.4–3.6 g/cm3.",
    "section": "Bulk properties"
   },
-  "f56": {
+  "f47": {
    "kind": "number",
    "value": 3.4,
    "surface": "3.4",
    "sentence": "The density of the core is 5.5–6 g/cm3 and the silicate mantle is 3.4–3.6 g/cm3.",
    "section": "Bulk properties"
   },
-  "f57": {
+  "f48": {
    "kind": "measure",
    "value": 3.6,
    "unit": "g",
@@ -463,7 +395,7 @@
    "sentence": "The density of the core is 5.5–6 g/cm3 and the silicate mantle is 3.4–3.6 g/cm3.",
    "section": "Bulk properties"
   },
-  "f58": {
+  "f49": {
    "kind": "measure",
    "value": 500,
    "unit": "km",
@@ -471,57 +403,42 @@
    "sentence": "The radius of this core may be up to 500 km.",
    "section": "Bulk properties"
   },
-  "f59": {
+  "f50": {
    "kind": "date",
    "value": "1500",
    "surface": "1500",
-   "sentence": "The temperature in the core of Ganymede is probably 1500–1700 K and pressure up to 10 GPa (99,000 atm).",
+   "sentence": "The temperature in the core of Ganymede is probably 1500–1700 K and pressure up to 10 GPa.",
    "section": "Bulk properties"
   },
-  "f60": {
-   "kind": "measure",
-   "value": 1700,
-   "unit": "k",
-   "surface": "1700 K",
-   "sentence": "The temperature in the core of Ganymede is probably 1500–1700 K and pressure up to 10 GPa (99,000 atm).",
-   "section": "Bulk properties"
-  },
-  "f61": {
+  "f51": {
    "kind": "number",
    "value": 10,
    "surface": "10",
-   "sentence": "The temperature in the core of Ganymede is probably 1500–1700 K and pressure up to 10 GPa (99,000 atm).",
+   "sentence": "The temperature in the core of Ganymede is probably 1500–1700 K and pressure up to 10 GPa.",
    "section": "Bulk properties"
   },
-  "f62": {
-   "kind": "number",
-   "value": 99000,
-   "surface": "99,000",
-   "sentence": "The temperature in the core of Ganymede is probably 1500–1700 K and pressure up to 10 GPa (99,000 atm).",
-   "section": "Bulk properties"
-  },
-  "f63": {
+  "f52": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "The Galileo craft made six close flybys of Ganymede from 1995 to 2000 (G1, G2, G7, G8, G28 and G29) and discovered that Ganymede has a permanent (intrinsic) magnetic moment independent of the Jovian magnetic field.",
+   "sentence": "The Galileo craft made six close flybys of Ganymede from 1995 to 2000 and discovered that Ganymede has a permanent magnetic moment independent of the Jovian magnetic field.",
    "section": "Bulk properties"
   },
-  "f64": {
+  "f53": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "The Galileo craft made six close flybys of Ganymede from 1995 to 2000 (G1, G2, G7, G8, G28 and G29) and discovered that Ganymede has a permanent (intrinsic) magnetic moment independent of the Jovian magnetic field.",
+   "sentence": "The Galileo craft made six close flybys of Ganymede from 1995 to 2000 and discovered that Ganymede has a permanent magnetic moment independent of the Jovian magnetic field.",
    "section": "Bulk properties"
   },
-  "f65": {
+  "f54": {
    "kind": "number",
    "value": 1.3,
    "surface": "1.3",
    "sentence": "The value of the moment is about 1.3 × 1013 T·m3, which is three times larger than the magnetic moment of Mercury.",
    "section": "Bulk properties"
   },
-  "f66": {
+  "f55": {
    "kind": "measure",
    "value": 1013,
    "unit": "t",
@@ -529,77 +446,77 @@
    "sentence": "The value of the moment is about 1.3 × 1013 T·m3, which is three times larger than the magnetic moment of Mercury.",
    "section": "Bulk properties"
   },
-  "f67": {
+  "f56": {
    "kind": "number",
    "value": 176,
    "surface": "176",
    "sentence": "The magnetic dipole is tilted with respect to the rotational axis of Ganymede by 176°, which means that it is directed against the Jovian magnetic moment.",
    "section": "Bulk properties"
   },
-  "f68": {
+  "f57": {
    "kind": "date",
    "value": "719",
    "surface": "719",
    "sentence": "The dipole magnetic field created by this permanent moment has a strength of 719 ± 2 nT at Ganymede's equator, which should be compared with the Jovian magnetic field at the distance of Ganymede—about 120 nT.",
    "section": "Bulk properties"
   },
-  "f69": {
+  "f58": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "The dipole magnetic field created by this permanent moment has a strength of 719 ± 2 nT at Ganymede's equator, which should be compared with the Jovian magnetic field at the distance of Ganymede—about 120 nT.",
    "section": "Bulk properties"
   },
-  "f70": {
+  "f59": {
    "kind": "number",
    "value": 120,
    "surface": "120",
    "sentence": "The dipole magnetic field created by this permanent moment has a strength of 719 ± 2 nT at Ganymede's equator, which should be compared with the Jovian magnetic field at the distance of Ganymede—about 120 nT.",
    "section": "Bulk properties"
   },
-  "f71": {
+  "f60": {
    "kind": "date",
    "value": "1440",
    "surface": "1440",
    "sentence": "The intrinsic field strength at the poles is two times that at the equator—1440 nT.",
    "section": "Bulk properties"
   },
-  "f72": {
+  "f61": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Its diameter is 4–5 Ganymede radii.",
    "section": "Bulk properties"
   },
-  "f73": {
+  "f62": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Its diameter is 4–5 Ganymede radii.",
    "section": "Bulk properties"
   },
-  "f74": {
+  "f63": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "The Ganymedian magnetosphere has a region of closed field lines located below 30° latitude, where charged particles (electrons and ions) are trapped, creating a kind of radiation belt.",
+   "sentence": "The Ganymedian magnetosphere has a region of closed field lines located below 30° latitude, where charged particles are trapped, creating a kind of radiation belt.",
    "section": "Bulk properties"
   },
-  "f75": {
+  "f64": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "In the polar cap regions, at latitudes higher than 30°, magnetic field lines are open, connecting Ganymede with Jupiter's ionosphere.",
    "section": "Bulk properties"
   },
-  "f76": {
+  "f65": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "The field strength of the induced field at the magnetic equator is about 60 nT—half of that of the ambient Jovian field.",
    "section": "Bulk properties"
   },
-  "f77": {
+  "f66": {
    "kind": "measure",
    "value": 43,
    "unit": "percent",
@@ -607,50 +524,42 @@
    "sentence": "Ganymede's surface has an albedo of about 43 percent.",
    "section": "Surface environment"
   },
-  "f78": {
+  "f67": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Water ice seems to be ubiquitous on its surface, with a mass fraction of 50–90 percent, significantly more than in Ganymede as a whole.",
    "section": "Surface environment"
   },
-  "f79": {
-   "kind": "measure",
-   "value": 90,
-   "unit": "percent",
-   "surface": "90 percent",
-   "sentence": "Water ice seems to be ubiquitous on its surface, with a mass fraction of 50–90 percent, significantly more than in Ganymede as a whole.",
-   "section": "Surface environment"
-  },
-  "f80": {
+  "f68": {
    "kind": "number",
    "value": 1.04,
    "surface": "1.04",
    "sentence": "Near-infrared spectroscopy has revealed the presence of strong water ice absorption bands at wavelengths of 1.04, 1.25, 1.5, 2.0 and 3.0 μm.",
    "section": "Surface environment"
   },
-  "f81": {
+  "f69": {
    "kind": "number",
    "value": 1.25,
    "surface": "1.25",
    "sentence": "Near-infrared spectroscopy has revealed the presence of strong water ice absorption bands at wavelengths of 1.04, 1.25, 1.5, 2.0 and 3.0 μm.",
    "section": "Surface environment"
   },
-  "f82": {
+  "f70": {
    "kind": "number",
    "value": 1.5,
    "surface": "1.5",
    "sentence": "Near-infrared spectroscopy has revealed the presence of strong water ice absorption bands at wavelengths of 1.04, 1.25, 1.5, 2.0 and 3.0 μm.",
    "section": "Surface environment"
   },
-  "f83": {
+  "f71": {
    "kind": "number",
    "value": 2,
    "surface": "2.0",
    "sentence": "Near-infrared spectroscopy has revealed the presence of strong water ice absorption bands at wavelengths of 1.04, 1.25, 1.5, 2.0 and 3.0 μm.",
    "section": "Surface environment"
   },
-  "f84": {
+  "f72": {
    "kind": "measure",
    "value": 3,
    "unit": "μm",
@@ -658,7 +567,7 @@
    "sentence": "Near-infrared spectroscopy has revealed the presence of strong water ice absorption bands at wavelengths of 1.04, 1.25, 1.5, 2.0 and 3.0 μm.",
    "section": "Surface environment"
   },
-  "f85": {
+  "f73": {
    "kind": "measure",
    "value": 70,
    "unit": "percent",
@@ -666,22 +575,22 @@
    "sentence": "The tidal flexing of the ice may have heated the interior and strained the lithosphere, leading to the development of cracks and horst and graben faulting, which erased the old, dark terrain on 70 percent of the surface.",
    "section": "Surface environment"
   },
-  "f86": {
+  "f74": {
    "kind": "measure",
    "value": 4000000000,
    "unit": "years",
    "surface": "4 billion years",
-   "sentence": "The density of cratering indicates an age of 4 billion years for the dark terrain, similar to the highlands of the Moon, and a somewhat younger age for the grooved terrain (but how much younger is uncertain).",
+   "sentence": "The density of cratering indicates an age of 4 billion years for the dark terrain, similar to the highlands of the Moon, and a somewhat younger age for the grooved terrain.",
    "section": "Surface environment"
   },
-  "f87": {
+  "f75": {
    "kind": "number",
    "value": 3.5,
    "surface": "3.5",
    "sentence": "Ganymede may have experienced a period of heavy cratering 3.5 to 4 billion years ago similar to that of the Moon.",
    "section": "Surface environment"
   },
-  "f88": {
+  "f76": {
    "kind": "measure",
    "value": 4000000000,
    "unit": "years",
@@ -689,7 +598,7 @@
    "sentence": "Ganymede may have experienced a period of heavy cratering 3.5 to 4 billion years ago similar to that of the Moon.",
    "section": "Surface environment"
   },
-  "f89": {
+  "f77": {
    "kind": "measure",
    "value": 3,
    "unit": "μm",
@@ -697,63 +606,56 @@
    "sentence": "Ray craters on the trailing hemisphere exhibit significantly lower reflectance at wavelengths longer than 3 μm, indicating the presence of coarser-grained water ice.",
    "section": "Surface environment"
   },
-  "f90": {
+  "f78": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "The frost extends to 40° latitude.",
    "section": "Surface environment"
   },
-  "f91": {
+  "f79": {
    "kind": "number",
    "value": 128,
    "surface": "128",
    "sentence": "By definition, Anat is at 128° longitude.",
    "section": "Surface environment"
   },
-  "f92": {
+  "f80": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "The 0° longitude directly faces Jupiter, and unless stated otherwise longitude increases toward the west.",
    "section": "Surface environment"
   },
-  "f93": {
+  "f81": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "In 1972, a team of Indian, British and American astronomers working in Java, Indonesia and Kavalur, India claimed that they had detected a thin atmosphere during an occultation, when it and Jupiter passed in front of a star.",
    "section": "Surface environment"
   },
-  "f94": {
+  "f82": {
    "kind": "number",
    "value": 0.1,
    "surface": "0.1",
-   "sentence": "They estimated that the surface pressure was around 0.1 Pa (1 microbar).",
+   "sentence": "They estimated that the surface pressure was around 0.1 Pa.",
    "section": "Surface environment"
   },
-  "f95": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "They estimated that the surface pressure was around 0.1 Pa (1 microbar).",
-   "section": "Surface environment"
-  },
-  "f96": {
+  "f83": {
    "kind": "date",
    "value": "1979",
    "surface": "1979",
    "sentence": "However, in 1979, Voyager 1 observed an occultation of the star κ Centauri during its flyby of Jupiter, with differing results.",
    "section": "Surface environment"
   },
-  "f97": {
+  "f84": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "However, in 1979, Voyager 1 observed an occultation of the star κ Centauri during its flyby of Jupiter, with differing results.",
    "section": "Surface environment"
   },
-  "f98": {
+  "f85": {
    "kind": "measure",
    "value": 200,
    "unit": "nm",
@@ -761,64 +663,57 @@
    "sentence": "The occultation measurements were conducted in the far-ultraviolet spectrum at wavelengths shorter than 200 nm, which were much more sensitive to the presence of gases than the 1972 measurements made in the visible spectrum.",
    "section": "Surface environment"
   },
-  "f99": {
+  "f86": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "The occultation measurements were conducted in the far-ultraviolet spectrum at wavelengths shorter than 200 nm, which were much more sensitive to the presence of gases than the 1972 measurements made in the visible spectrum.",
    "section": "Surface environment"
   },
-  "f100": {
+  "f87": {
    "kind": "number",
    "value": 1.5,
    "surface": "1.5",
-   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa (25 picobar).",
+   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa.",
    "section": "Surface environment"
   },
-  "f101": {
+  "f88": {
    "kind": "measure",
    "value": 109,
    "unit": "cm",
    "surface": "109 cm",
-   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa (25 picobar).",
+   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa.",
    "section": "Surface environment"
   },
-  "f102": {
+  "f89": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa (25 picobar).",
+   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa.",
    "section": "Surface environment"
   },
-  "f103": {
+  "f90": {
    "kind": "number",
    "value": 2.5,
    "surface": "2.5",
-   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa (25 picobar).",
+   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa.",
    "section": "Surface environment"
   },
-  "f104": {
-   "kind": "number",
-   "value": 25,
-   "surface": "25",
-   "sentence": "The upper limit on the surface particle number density was found to be 1.5×109 cm−3, which corresponds to a surface pressure of less than 2.5 μPa (25 picobar).",
-   "section": "Surface environment"
-  },
-  "f105": {
+  "f91": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "The latter value is almost five orders of magnitude less than the 1972 estimate.",
    "section": "Surface environment"
   },
-  "f106": {
+  "f92": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "Despite the Voyager data, evidence for a tenuous oxygen atmosphere (exosphere) on Ganymede, very similar to the one found on Europa, was found by the Hubble Space Telescope (HST) in 1995.",
+   "sentence": "Despite the Voyager data, evidence for a tenuous oxygen atmosphere on Ganymede, very similar to the one found on Europa, was found by the Hubble Space Telescope in 1995.",
    "section": "Surface environment"
   },
-  "f107": {
+  "f93": {
    "kind": "measure",
    "value": 130.4,
    "unit": "nm",
@@ -826,7 +721,7 @@
    "sentence": "HST actually observed airglow of atomic oxygen in the far-ultraviolet at the wavelengths 130.4 nm and 135.6 nm.",
    "section": "Surface environment"
   },
-  "f108": {
+  "f94": {
    "kind": "measure",
    "value": 135.6,
    "unit": "nm",
@@ -834,144 +729,114 @@
    "sentence": "HST actually observed airglow of atomic oxygen in the far-ultraviolet at the wavelengths 130.4 nm and 135.6 nm.",
    "section": "Surface environment"
   },
-  "f109": {
-   "kind": "number",
-   "value": 1.2,
-   "surface": "1.2",
-   "sentence": "The surface number density probably lies in the (1.2–7)×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
-   "section": "Surface environment"
-  },
-  "f110": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "The surface number density probably lies in the (1.2–7)×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
-   "section": "Surface environment"
-  },
-  "f111": {
+  "f95": {
    "kind": "measure",
    "value": 108,
    "unit": "cm",
    "surface": "108 cm",
-   "sentence": "The surface number density probably lies in the (1.2–7)×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
+   "sentence": "The surface number density probably lies in the×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
    "section": "Surface environment"
   },
-  "f112": {
+  "f96": {
    "kind": "number",
    "value": 3,
    "surface": "3",
-   "sentence": "The surface number density probably lies in the (1.2–7)×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
+   "sentence": "The surface number density probably lies in the×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
    "section": "Surface environment"
   },
-  "f113": {
+  "f97": {
    "kind": "number",
    "value": 0.2,
    "surface": "0.2",
-   "sentence": "The surface number density probably lies in the (1.2–7)×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
+   "sentence": "The surface number density probably lies in the×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
    "section": "Surface environment"
   },
-  "f114": {
+  "f98": {
    "kind": "number",
    "value": 1.2,
    "surface": "1.2",
-   "sentence": "The surface number density probably lies in the (1.2–7)×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
+   "sentence": "The surface number density probably lies in the×108 cm−3 range, corresponding to the surface pressure of 0.2–1.2 μPa.",
    "section": "Surface environment"
   },
-  "f115": {
+  "f99": {
    "kind": "date",
    "value": "1981",
    "surface": "1981",
    "sentence": "These values are in agreement with Voyager's upper limit set in 1981.",
    "section": "Surface environment"
   },
-  "f116": {
+  "f100": {
    "kind": "number",
    "value": 50,
    "surface": "50",
-   "sentence": "HST observed two bright spots located in the northern and southern hemispheres, near ± 50° latitude, which is exactly the boundary between the open and closed field lines of the Ganymedian magnetosphere (see below).",
+   "sentence": "HST observed two bright spots located in the northern and southern hemispheres, near ± 50° latitude, which is exactly the boundary between the open and closed field lines of the Ganymedian magnetosphere.",
    "section": "Surface environment"
   },
-  "f117": {
+  "f101": {
    "kind": "number",
    "value": 400,
    "surface": "400",
    "sentence": "The electron density near the surface is estimated by different sources to lie in the range 400–2,500 cm−3.",
    "section": "Surface environment"
   },
-  "f118": {
-   "kind": "measure",
-   "value": 2500,
-   "unit": "cm",
-   "surface": "2,500 cm",
-   "sentence": "The electron density near the surface is estimated by different sources to lie in the range 400–2,500 cm−3.",
-   "section": "Surface environment"
-  },
-  "f119": {
+  "f102": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "The electron density near the surface is estimated by different sources to lie in the range 400–2,500 cm−3.",
    "section": "Surface environment"
   },
-  "f120": {
+  "f103": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "As of 2008, the parameters of the ionosphere of Ganymede were not well constrained.",
    "section": "Surface environment"
   },
-  "f121": {
+  "f104": {
    "kind": "date",
    "value": "1996",
    "surface": "1996",
-   "sentence": "The detection of ozone (O3) bands was announced in 1996.",
+   "sentence": "The detection of ozone bands was announced in 1996.",
    "section": "Surface environment"
   },
-  "f122": {
+  "f105": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
-   "sentence": "In 1997 spectroscopic analysis revealed the dimer (or diatomic) absorption features of molecular oxygen.",
+   "sentence": "In 1997 spectroscopic analysis revealed the dimer absorption features of molecular oxygen.",
    "section": "Surface environment"
   },
-  "f123": {
+  "f106": {
    "kind": "measure",
    "value": 100,
    "unit": "k",
    "surface": "100 K",
-   "sentence": "Laboratory work has found that O2 would not cluster or bubble but would dissolve in ice at Ganymede's relatively warm surface temperature of 100 K (−173.15 °C).",
+   "sentence": "Laboratory work has found that O2 would not cluster or bubble but would dissolve in ice at Ganymede's relatively warm surface temperature of 100 K.\nHigh-pressure experiments have since shown that this oxygen-bearing ice can persist as a distinct oxygen hydrate phase at pressures up to at least 2.6 GPa, suggesting that surface-trapped oxygen could in principle be carried to much greater depths within Ganymede's ice shell than previously assumed, rather than being confined to a thin surface layer.",
    "section": "Surface environment"
   },
-  "f124": {
-   "kind": "measure",
-   "value": 173.15,
-   "unit": "°c",
-   "surface": "173.15 °C",
-   "sentence": "Laboratory work has found that O2 would not cluster or bubble but would dissolve in ice at Ganymede's relatively warm surface temperature of 100 K (−173.15 °C).",
-   "section": "Surface environment"
-  },
-  "f125": {
+  "f107": {
    "kind": "number",
    "value": 2.6,
    "surface": "2.6",
-   "sentence": "High-pressure experiments have since shown that this oxygen-bearing ice can persist as a distinct oxygen hydrate phase at pressures up to at least 2.6 GPa, suggesting that surface-trapped oxygen could in principle be carried to much greater depths within Ganymede's ice shell than previously assumed, rather than being confined to a thin surface layer.",
+   "sentence": "Laboratory work has found that O2 would not cluster or bubble but would dissolve in ice at Ganymede's relatively warm surface temperature of 100 K.\nHigh-pressure experiments have since shown that this oxygen-bearing ice can persist as a distinct oxygen hydrate phase at pressures up to at least 2.6 GPa, suggesting that surface-trapped oxygen could in principle be carried to much greater depths within Ganymede's ice shell than previously assumed, rather than being confined to a thin surface layer.",
    "section": "Surface environment"
   },
-  "f126": {
+  "f108": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "A search for sodium in the atmosphere, just after such a finding on Europa, turned up nothing in 1997.",
    "section": "Surface environment"
   },
-  "f127": {
+  "f109": {
    "kind": "number",
    "value": 13,
    "surface": "13",
    "sentence": "Sodium is at least 13 times less abundant around Ganymede than around Europa, possibly because of a relative deficiency at the surface or because the magnetosphere fends off energetic particles.",
    "section": "Surface environment"
   },
-  "f128": {
+  "f110": {
    "kind": "measure",
    "value": 3000,
    "unit": "km",
@@ -979,14 +844,14 @@
    "sentence": "Hydrogen atoms were observed as far as 3,000 km from Ganymede's surface.",
    "section": "Surface environment"
   },
-  "f129": {
+  "f111": {
    "kind": "number",
    "value": 1.5,
    "surface": "1.5",
    "sentence": "Their density on the surface is about 1.5×104 cm−3.",
    "section": "Surface environment"
   },
-  "f130": {
+  "f112": {
    "kind": "measure",
    "value": 104,
    "unit": "cm",
@@ -994,46 +859,25 @@
    "sentence": "Their density on the surface is about 1.5×104 cm−3.",
    "section": "Surface environment"
   },
-  "f131": {
+  "f113": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Their density on the surface is about 1.5×104 cm−3.",
    "section": "Surface environment"
   },
-  "f132": {
+  "f114": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "In 2021, water vapour was detected in the atmosphere of Ganymede.",
    "section": "Surface environment"
   },
-  "f133": {
+  "f115": {
    "kind": "number",
    "value": 50,
    "surface": "50",
-   "sentence": "The radiation level at the surface of Ganymede is considerably lower than on Europa, being 50–80 mSv (5–8 rem) per day, an amount that would cause severe illness or death in human beings exposed for two months.",
-   "section": "Surface environment"
-  },
-  "f134": {
-   "kind": "number",
-   "value": 80,
-   "surface": "80",
-   "sentence": "The radiation level at the surface of Ganymede is considerably lower than on Europa, being 50–80 mSv (5–8 rem) per day, an amount that would cause severe illness or death in human beings exposed for two months.",
-   "section": "Surface environment"
-  },
-  "f135": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "The radiation level at the surface of Ganymede is considerably lower than on Europa, being 50–80 mSv (5–8 rem) per day, an amount that would cause severe illness or death in human beings exposed for two months.",
-   "section": "Surface environment"
-  },
-  "f136": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The radiation level at the surface of Ganymede is considerably lower than on Europa, being 50–80 mSv (5–8 rem) per day, an amount that would cause severe illness or death in human beings exposed for two months.",
+   "sentence": "The radiation level at the surface of Ganymede is considerably lower than on Europa, being 50–80 mSv per day, an amount that would cause severe illness or death in human beings exposed for two months.",
    "section": "Surface environment"
   }
  },

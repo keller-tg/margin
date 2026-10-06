@@ -63,45 +63,27 @@
  "facts": {
   "f1": {
    "kind": "date",
-   "value": "1869",
-   "surface": "1869",
-   "sentence": "Es gibt drei Unterarten:\nResidenter Schwertwal (Orcinus orca ater, Cope in Scammon, 1869)."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1758",
-   "surface": "1758",
-   "sentence": "Gemeiner Schwertwal (Orcinus orca orca, Linnaeus, 1758)."
-  },
-  "f3": {
-   "kind": "date",
-   "value": "1869",
-   "surface": "1869",
-   "sentence": "Bigg-Schwertwal (Orcinus orca rectipinnus, Cope in Scammon, 1869)."
-  },
-  "f4": {
-   "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "Diese wurden lange als Ökotypen angesehen, im Juli 2024 jedoch offiziell als Unterarten anerkannt."
   },
-  "f5": {
+  "f2": {
    "kind": "measure",
    "value": 9.8,
    "unit": "m",
    "surface": "9,8 m",
-   "sentence": "Schwertwalbullen werden bis zu 9,8 m lang, Kühe (die Weibchen) bleiben mit maximal 8,5 m deutlich kleiner.",
+   "sentence": "Schwertwalbullen werden bis zu 9,8 m lang, Kühe bleiben mit maximal 8,5 m deutlich kleiner.",
    "section": "Merkmale"
   },
-  "f6": {
+  "f3": {
    "kind": "measure",
    "value": 8.5,
    "unit": "m",
    "surface": "8,5 m",
-   "sentence": "Schwertwalbullen werden bis zu 9,8 m lang, Kühe (die Weibchen) bleiben mit maximal 8,5 m deutlich kleiner.",
+   "sentence": "Schwertwalbullen werden bis zu 9,8 m lang, Kühe bleiben mit maximal 8,5 m deutlich kleiner.",
    "section": "Merkmale"
   },
-  "f7": {
+  "f4": {
    "kind": "measure",
    "value": 7,
    "unit": "m",
@@ -109,7 +91,7 @@
    "sentence": "Durchschnittslängen betragen 7 m bei Weibchen und 8,2 m bei Männchen.",
    "section": "Merkmale"
   },
-  "f8": {
+  "f5": {
    "kind": "measure",
    "value": 8.2,
    "unit": "m",
@@ -117,7 +99,7 @@
    "sentence": "Durchschnittslängen betragen 7 m bei Weibchen und 8,2 m bei Männchen.",
    "section": "Merkmale"
   },
-  "f9": {
+  "f6": {
    "kind": "measure",
    "value": 6.6,
    "unit": "t",
@@ -125,7 +107,7 @@
    "sentence": "Das größte dokumentierte Gewicht wurde mit 6,6 t bei einem 7,65 m langen Bullen festgestellt.",
    "section": "Merkmale"
   },
-  "f10": {
+  "f7": {
    "kind": "measure",
    "value": 7.65,
    "unit": "m",
@@ -133,15 +115,15 @@
    "sentence": "Das größte dokumentierte Gewicht wurde mit 6,6 t bei einem 7,65 m langen Bullen festgestellt.",
    "section": "Merkmale"
   },
-  "f11": {
+  "f8": {
    "kind": "measure",
    "value": 1.8,
    "unit": "m",
    "surface": "1,8 m",
-   "sentence": "Besonders auffällig ist die bis zu 1,8 m hohe dreieckige Finne der Bullen, die der Art den Namen „Schwertwal“ gab.",
+   "sentence": "Besonders auffällig ist die bis zu 1,8 m hohe dreieckige Finne der Bullen, die der Art den Namen „Schwertwal“gab.",
    "section": "Merkmale"
   },
-  "f12": {
+  "f9": {
    "kind": "measure",
    "value": 1,
    "unit": "m",
@@ -149,7 +131,7 @@
    "sentence": "Die Finne bleibt bei Kühen unter 1 m.",
    "section": "Merkmale"
   },
-  "f13": {
+  "f10": {
    "kind": "measure",
    "value": 2,
    "unit": "m",
@@ -157,7 +139,7 @@
    "sentence": "Die paddelförmigen Flipper werden beim Bullen rund 2 m lang, bei der Kuh 1,5 m.",
    "section": "Merkmale"
   },
-  "f14": {
+  "f11": {
    "kind": "measure",
    "value": 1.5,
    "unit": "m",
@@ -165,7 +147,7 @@
    "sentence": "Die paddelförmigen Flipper werden beim Bullen rund 2 m lang, bei der Kuh 1,5 m.",
    "section": "Merkmale"
   },
-  "f15": {
+  "f12": {
    "kind": "measure",
    "value": 2.8,
    "unit": "m",
@@ -173,14 +155,14 @@
    "sentence": "Die Fluke wird bis zu 2,8 m breit, ist in der Mitte deutlich eingekerbt und an den Innenrändern konkav gebogen.",
    "section": "Merkmale"
   },
-  "f16": {
+  "f13": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Der Blas ist 1–2 m hoch und nicht immer sichtbar.",
    "section": "Merkmale"
   },
-  "f17": {
+  "f14": {
    "kind": "measure",
    "value": 2,
    "unit": "m",
@@ -188,35 +170,28 @@
    "sentence": "Der Blas ist 1–2 m hoch und nicht immer sichtbar.",
    "section": "Merkmale"
   },
-  "f18": {
+  "f15": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "Im Jahr 2020 konnte ein weißer Schwertwal vor Alaska gefilmt werden.",
    "section": "Merkmale"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Jede Kieferhälfte trägt 10–14 konische Zähne von 2,5–5 cm Durchmesser, insgesamt sind es 40–56 Zähne.",
    "section": "Merkmale"
   },
-  "f20": {
-   "kind": "number",
-   "value": 14,
-   "surface": "14",
-   "sentence": "Jede Kieferhälfte trägt 10–14 konische Zähne von 2,5–5 cm Durchmesser, insgesamt sind es 40–56 Zähne.",
-   "section": "Merkmale"
-  },
-  "f21": {
+  "f17": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
    "sentence": "Jede Kieferhälfte trägt 10–14 konische Zähne von 2,5–5 cm Durchmesser, insgesamt sind es 40–56 Zähne.",
    "section": "Merkmale"
   },
-  "f22": {
+  "f18": {
    "kind": "measure",
    "value": 5,
    "unit": "cm",
@@ -224,133 +199,91 @@
    "sentence": "Jede Kieferhälfte trägt 10–14 konische Zähne von 2,5–5 cm Durchmesser, insgesamt sind es 40–56 Zähne.",
    "section": "Merkmale"
   },
-  "f23": {
+  "f19": {
    "kind": "number",
    "value": 40,
    "surface": "40",
    "sentence": "Jede Kieferhälfte trägt 10–14 konische Zähne von 2,5–5 cm Durchmesser, insgesamt sind es 40–56 Zähne.",
    "section": "Merkmale"
   },
-  "f24": {
-   "kind": "number",
-   "value": 56,
-   "surface": "56",
-   "sentence": "Jede Kieferhälfte trägt 10–14 konische Zähne von 2,5–5 cm Durchmesser, insgesamt sind es 40–56 Zähne.",
-   "section": "Merkmale"
-  },
-  "f25": {
+  "f20": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Der Körper des Schwertwals wird von 50 Wirbeln gestützt.",
    "section": "Merkmale"
   },
-  "f26": {
-   "kind": "date",
-   "value": "1869",
-   "surface": "1869",
-   "sentence": "Drei Typen sind inzwischen als Unterarten anerkannt:\nResidenter Schwertwal (Orcinus orca ater, Cope in Scammon, 1869).",
-   "section": "Unterarten und Ökotypen"
-  },
-  "f27": {
-   "kind": "date",
-   "value": "1758",
-   "surface": "1758",
-   "sentence": "Gemeiner Schwertwal (Orcinus orca orca, Linnaeus, 1758).",
-   "section": "Unterarten und Ökotypen"
-  },
-  "f28": {
-   "kind": "date",
-   "value": "1869",
-   "surface": "1869",
-   "sentence": "Bigg-Schwertwal (Orcinus orca rectipinnus, Cope in Scammon, 1869).",
-   "section": "Unterarten und Ökotypen"
-  },
-  "f29": {
+  "f21": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "Man ging bis Juli 2024 von 10 verschiedenen Typen aus, fünf auf der Südhalbkugel und fünf auf der Nordhalbkugel.",
    "section": "Unterarten und Ökotypen"
   },
-  "f30": {
+  "f22": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Man ging bis Juli 2024 von 10 verschiedenen Typen aus, fünf auf der Südhalbkugel und fünf auf der Nordhalbkugel.",
    "section": "Unterarten und Ökotypen"
   },
-  "f31": {
+  "f23": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Schwertwale der südlichen Hemisphäre:\nAntarktischer Typ-A-Schwertwal\nGroßer Typ-B-Schwertwal (Packeis-Schwertwal)\nkleiner Typ-B-Schwertwal (Gerlache-Schwertwal)\nTyp-C-Schwertwal (Rossmeer-Schwertwal)\nTyp-D-Schwertwal\nSchwertwale der nördlichen Hemisphäre:\nResidenter Schwertwal (Orcinus orca ater, besonders bekannt ist die Southern-Resident-Population)\nTransienter Schwertwal / Bigg-Schwertwal (Orcinus orca rectipinnus)\nOffshore-Schwertwal\nSchwertwal des östlichen Nordatlantik Typ 1\nSchwertwal des östlichen Nordatlantik Typ 2\nFür die weltweite Einteilung schlagen Forney & Wade (2007) drei grundlegende Kategorien vor:\nMammal-eaters (Säugetierfresser): Diese Schwertwale jagen insbesondere andere Meeressäuger wie Robben und Wale.",
+   "sentence": "Schwertwale der südlichen Hemisphäre:\nAntarktischer Typ-A-Schwertwal\nGroßer Typ-B-Schwertwal\nkleiner Typ-B-Schwertwal\nTyp-C-Schwertwal\nTyp-D-Schwertwal\nSchwertwale der nördlichen Hemisphäre:\nResidenter Schwertwal\nTransienter Schwertwal / Bigg-Schwertwal\nOffshore-Schwertwal\nSchwertwal des östlichen Nordatlantik Typ 1\nSchwertwal des östlichen Nordatlantik Typ 2\nFür die weltweite Einteilung schlagen Forney & Wade drei grundlegende Kategorien vor:\nMammal-eaters: Diese Schwertwale jagen insbesondere andere Meeressäuger wie Robben und Wale.",
    "section": "Unterarten und Ökotypen"
   },
-  "f32": {
+  "f24": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Schwertwale der südlichen Hemisphäre:\nAntarktischer Typ-A-Schwertwal\nGroßer Typ-B-Schwertwal (Packeis-Schwertwal)\nkleiner Typ-B-Schwertwal (Gerlache-Schwertwal)\nTyp-C-Schwertwal (Rossmeer-Schwertwal)\nTyp-D-Schwertwal\nSchwertwale der nördlichen Hemisphäre:\nResidenter Schwertwal (Orcinus orca ater, besonders bekannt ist die Southern-Resident-Population)\nTransienter Schwertwal / Bigg-Schwertwal (Orcinus orca rectipinnus)\nOffshore-Schwertwal\nSchwertwal des östlichen Nordatlantik Typ 1\nSchwertwal des östlichen Nordatlantik Typ 2\nFür die weltweite Einteilung schlagen Forney & Wade (2007) drei grundlegende Kategorien vor:\nMammal-eaters (Säugetierfresser): Diese Schwertwale jagen insbesondere andere Meeressäuger wie Robben und Wale.",
+   "sentence": "Schwertwale der südlichen Hemisphäre:\nAntarktischer Typ-A-Schwertwal\nGroßer Typ-B-Schwertwal\nkleiner Typ-B-Schwertwal\nTyp-C-Schwertwal\nTyp-D-Schwertwal\nSchwertwale der nördlichen Hemisphäre:\nResidenter Schwertwal\nTransienter Schwertwal / Bigg-Schwertwal\nOffshore-Schwertwal\nSchwertwal des östlichen Nordatlantik Typ 1\nSchwertwal des östlichen Nordatlantik Typ 2\nFür die weltweite Einteilung schlagen Forney & Wade drei grundlegende Kategorien vor:\nMammal-eaters: Diese Schwertwale jagen insbesondere andere Meeressäuger wie Robben und Wale.",
    "section": "Unterarten und Ökotypen"
   },
-  "f33": {
-   "kind": "date",
-   "value": "2007",
-   "surface": "2007",
-   "sentence": "Schwertwale der südlichen Hemisphäre:\nAntarktischer Typ-A-Schwertwal\nGroßer Typ-B-Schwertwal (Packeis-Schwertwal)\nkleiner Typ-B-Schwertwal (Gerlache-Schwertwal)\nTyp-C-Schwertwal (Rossmeer-Schwertwal)\nTyp-D-Schwertwal\nSchwertwale der nördlichen Hemisphäre:\nResidenter Schwertwal (Orcinus orca ater, besonders bekannt ist die Southern-Resident-Population)\nTransienter Schwertwal / Bigg-Schwertwal (Orcinus orca rectipinnus)\nOffshore-Schwertwal\nSchwertwal des östlichen Nordatlantik Typ 1\nSchwertwal des östlichen Nordatlantik Typ 2\nFür die weltweite Einteilung schlagen Forney & Wade (2007) drei grundlegende Kategorien vor:\nMammal-eaters (Säugetierfresser): Diese Schwertwale jagen insbesondere andere Meeressäuger wie Robben und Wale.",
-   "section": "Unterarten und Ökotypen"
-  },
-  "f34": {
+  "f25": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "Sie sind weit weniger an Küsten gebunden als die meisten Populationen und kommen vom Kontinentalschelf bis zu 200 Meilen von der Küste entfernt vor.",
    "section": "Unterarten und Ökotypen"
   },
-  "f35": {
+  "f26": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Schwertwale bewegen sich meist in Gruppen: Mammal-eaters beobachtet man meist in Gruppen von weniger als 10 Exemplaren, Coastal Fish-eaters treten üblicherweise in 5–50 Individuen umfassenden Gruppen auf.",
    "section": "Lebensweise"
   },
-  "f36": {
+  "f27": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Schwertwale bewegen sich meist in Gruppen: Mammal-eaters beobachtet man meist in Gruppen von weniger als 10 Exemplaren, Coastal Fish-eaters treten üblicherweise in 5–50 Individuen umfassenden Gruppen auf.",
    "section": "Lebensweise"
   },
-  "f37": {
+  "f28": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Schwertwale bewegen sich meist in Gruppen: Mammal-eaters beobachtet man meist in Gruppen von weniger als 10 Exemplaren, Coastal Fish-eaters treten üblicherweise in 5–50 Individuen umfassenden Gruppen auf.",
    "section": "Lebensweise"
   },
-  "f38": {
+  "f29": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Oceanic and Neritic Killer Whales bilden Aggregationen von 10–70 Tieren.",
    "section": "Lebensweise"
   },
-  "f39": {
-   "kind": "number",
-   "value": 70,
-   "surface": "70",
-   "sentence": "Oceanic and Neritic Killer Whales bilden Aggregationen von 10–70 Tieren.",
-   "section": "Lebensweise"
-  },
-  "f40": {
+  "f30": {
    "kind": "number",
    "value": 150,
    "surface": "150",
    "sentence": "Seltener kommen Massenansammlungen von bis zu 150 Schwertwalen vor.",
    "section": "Lebensweise"
   },
-  "f41": {
+  "f31": {
    "kind": "measure",
    "value": 10,
    "unit": "km/h",
@@ -358,7 +291,7 @@
    "sentence": "Ziehende Gruppen bewegen sich mit im Schnitt rund 10 km/h fort, erreichen jedoch auch Geschwindigkeiten von über 20 km/h.",
    "section": "Lebensweise"
   },
-  "f42": {
+  "f32": {
    "kind": "measure",
    "value": 20,
    "unit": "km/h",
@@ -366,85 +299,35 @@
    "sentence": "Ziehende Gruppen bewegen sich mit im Schnitt rund 10 km/h fort, erreichen jedoch auch Geschwindigkeiten von über 20 km/h.",
    "section": "Lebensweise"
   },
-  "f43": {
+  "f33": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Rastende Schwertwale bewegen sich sehr langsam, bleiben unter Wasser und tauchen alle 2–5 Minuten auf.",
    "section": "Lebensweise"
   },
-  "f44": {
+  "f34": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Rastende Schwertwale bewegen sich sehr langsam, bleiben unter Wasser und tauchen alle 2–5 Minuten auf.",
    "section": "Lebensweise"
   },
-  "f45": {
+  "f35": {
    "kind": "number",
    "value": 60,
    "surface": "60",
    "sentence": "Neben Rasten und Ziehen verwenden Schwertwale 60–95 % ihrer Zeit zur Nahrungssuche.",
    "section": "Lebensweise"
   },
-  "f46": {
-   "kind": "measure",
-   "value": 95,
-   "unit": "%",
-   "surface": "95 %",
-   "sentence": "Neben Rasten und Ziehen verwenden Schwertwale 60–95 % ihrer Zeit zur Nahrungssuche.",
-   "section": "Lebensweise"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Im NO-Pazifik existieren zum Beispiel drei Gemeinschaften der Residents: southern (1 Klan, 3 Schulen), northern (3 Klans, 16 Schulen) und southern Alaskan (2 Klans, 11 Schulen).",
-   "section": "Lebensweise"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Im NO-Pazifik existieren zum Beispiel drei Gemeinschaften der Residents: southern (1 Klan, 3 Schulen), northern (3 Klans, 16 Schulen) und southern Alaskan (2 Klans, 11 Schulen).",
-   "section": "Lebensweise"
-  },
-  "f49": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Im NO-Pazifik existieren zum Beispiel drei Gemeinschaften der Residents: southern (1 Klan, 3 Schulen), northern (3 Klans, 16 Schulen) und southern Alaskan (2 Klans, 11 Schulen).",
-   "section": "Lebensweise"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 16,
-   "surface": "16",
-   "sentence": "Im NO-Pazifik existieren zum Beispiel drei Gemeinschaften der Residents: southern (1 Klan, 3 Schulen), northern (3 Klans, 16 Schulen) und southern Alaskan (2 Klans, 11 Schulen).",
-   "section": "Lebensweise"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "Im NO-Pazifik existieren zum Beispiel drei Gemeinschaften der Residents: southern (1 Klan, 3 Schulen), northern (3 Klans, 16 Schulen) und southern Alaskan (2 Klans, 11 Schulen).",
-   "section": "Lebensweise"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 11,
-   "surface": "11",
-   "sentence": "Im NO-Pazifik existieren zum Beispiel drei Gemeinschaften der Residents: southern (1 Klan, 3 Schulen), northern (3 Klans, 16 Schulen) und southern Alaskan (2 Klans, 11 Schulen).",
-   "section": "Lebensweise"
-  },
-  "f53": {
+  "f36": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Ein Beispiel ist auch das absichtliche Stranden von Schwertwalen vor Argentinien, um Robben in der Brandung zu fangen: Dies wird 3–5 Jahre alten Kälbern beigebracht, indem sie auf den Strand geführt und wieder ins Wasser gestoßen werden.",
    "section": "Lebensweise"
   },
-  "f54": {
+  "f37": {
    "kind": "measure",
    "value": 5,
    "unit": "jahre",
@@ -452,21 +335,21 @@
    "sentence": "Ein Beispiel ist auch das absichtliche Stranden von Schwertwalen vor Argentinien, um Robben in der Brandung zu fangen: Dies wird 3–5 Jahre alten Kälbern beigebracht, indem sie auf den Strand geführt und wieder ins Wasser gestoßen werden.",
    "section": "Lebensweise"
   },
-  "f55": {
+  "f38": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Dabei nutzen sie je nach Schule 7–17 verschiedene Typen von Lautäußerungen.",
    "section": "Lebensweise"
   },
-  "f56": {
+  "f39": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Dabei nutzen sie je nach Schule 7–17 verschiedene Typen von Lautäußerungen.",
    "section": "Lebensweise"
   },
-  "f57": {
+  "f40": {
    "kind": "measure",
    "value": 140,
    "unit": "arten",
@@ -474,14 +357,14 @@
    "sentence": "Global gesehen umfasst sein Nahrungsspektrum mindestens 140 Arten von Fischen, Meeressäugern, Seevögeln, Kopffüßern und Meeresschildkröten.",
    "section": "Lebensweise"
   },
-  "f58": {
+  "f41": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Die norwegischen Schwertwale ernähren sich vorwiegend von Heringen und jagen diesen in meist bis zu 20, gelegentlich auch bis zu 100 m Tiefe nach.",
    "section": "Lebensweise"
   },
-  "f59": {
+  "f42": {
    "kind": "measure",
    "value": 100,
    "unit": "m",
@@ -489,7 +372,7 @@
    "sentence": "Die norwegischen Schwertwale ernähren sich vorwiegend von Heringen und jagen diesen in meist bis zu 20, gelegentlich auch bis zu 100 m Tiefe nach.",
    "section": "Lebensweise"
   },
-  "f60": {
+  "f43": {
    "kind": "measure",
    "value": 40,
    "unit": "prozent",
@@ -497,21 +380,21 @@
    "sentence": "Zwar tragen je nach Region bis zu 40 Prozent der großen Wale Narben von Schwertwalangriffen, jedoch waren diese meist bereits vor Beginn von Untersuchungen vorhanden.",
    "section": "Lebensweise"
   },
-  "f61": {
+  "f44": {
    "kind": "number",
    "value": 358,
    "surface": "358",
    "sentence": "Ein großer männlicher Schwertwal hat einen täglichen Energiebedarf von rund 358 MJ.",
    "section": "Lebensweise"
   },
-  "f62": {
+  "f45": {
    "kind": "number",
    "value": 50,
    "surface": "50",
    "sentence": "Ein über wenige Jahre erfolgter 50-prozentiger Rückgang einer Königspinguin-Kolonie wird auf Bejagung durch Schwertwale zurückgeführt.",
    "section": "Lebensweise"
   },
-  "f63": {
+  "f46": {
    "kind": "measure",
    "value": 57,
    "unit": "km",
@@ -519,29 +402,21 @@
    "sentence": "Ein Antarktis-B-Wal legt daher im Schnitt rund 57 km/d zurück, der fischfressende Typ C im Schnitt hingegen nur 11–30 km/d.",
    "section": "Lebensweise"
   },
-  "f64": {
+  "f47": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Ein Antarktis-B-Wal legt daher im Schnitt rund 57 km/d zurück, der fischfressende Typ C im Schnitt hingegen nur 11–30 km/d.",
    "section": "Lebensweise"
   },
-  "f65": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "km",
-   "surface": "30 km",
-   "sentence": "Ein Antarktis-B-Wal legt daher im Schnitt rund 57 km/d zurück, der fischfressende Typ C im Schnitt hingegen nur 11–30 km/d.",
-   "section": "Lebensweise"
-  },
-  "f66": {
+  "f48": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Schwertwalkühe sind mit einem Alter von 6–10 Jahren geschlechtsreif und haben einen zyklischen Östrus, der gelegentlich für 3–16 Monate unterbrochen wird.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f67": {
+  "f49": {
    "kind": "measure",
    "value": 10,
    "unit": "jahren",
@@ -549,42 +424,35 @@
    "sentence": "Schwertwalkühe sind mit einem Alter von 6–10 Jahren geschlechtsreif und haben einen zyklischen Östrus, der gelegentlich für 3–16 Monate unterbrochen wird.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f68": {
+  "f50": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Schwertwalkühe sind mit einem Alter von 6–10 Jahren geschlechtsreif und haben einen zyklischen Östrus, der gelegentlich für 3–16 Monate unterbrochen wird.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f69": {
+  "f51": {
    "kind": "number",
    "value": 16,
    "surface": "16",
    "sentence": "Schwertwalkühe sind mit einem Alter von 6–10 Jahren geschlechtsreif und haben einen zyklischen Östrus, der gelegentlich für 3–16 Monate unterbrochen wird.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f70": {
+  "f52": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Die Tragzeit wird je nach Studie auf 12–18 Monate beziffert.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f71": {
-   "kind": "number",
-   "value": 18,
-   "surface": "18",
-   "sentence": "Die Tragzeit wird je nach Studie auf 12–18 Monate beziffert.",
-   "section": "Fortpflanzung und Entwicklung"
-  },
-  "f72": {
+  "f53": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Kälber sind bei der Geburt 2–2,5 m lang und wiegen rund 200 kg.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f73": {
+  "f54": {
    "kind": "measure",
    "value": 2.5,
    "unit": "m",
@@ -592,7 +460,7 @@
    "sentence": "Kälber sind bei der Geburt 2–2,5 m lang und wiegen rund 200 kg.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f74": {
+  "f55": {
    "kind": "measure",
    "value": 200,
    "unit": "kg",
@@ -600,14 +468,14 @@
    "sentence": "Kälber sind bei der Geburt 2–2,5 m lang und wiegen rund 200 kg.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f75": {
+  "f56": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Sie werden nach 1–2 Jahren entwöhnt, nehmen aber vorher bereits feste Nahrung zu sich.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f76": {
+  "f57": {
    "kind": "measure",
    "value": 2,
    "unit": "jahren",
@@ -615,29 +483,21 @@
    "sentence": "Sie werden nach 1–2 Jahren entwöhnt, nehmen aber vorher bereits feste Nahrung zu sich.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f77": {
+  "f58": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Ihr erstes Kalb werfen Kühe meist mit 12–14 Jahren, dann gebären sie alle 2–14 Jahre ein weiteres Kalb, bis sie ein Alter von 40 Jahren erreicht haben.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f78": {
-   "kind": "measure",
-   "value": 14,
-   "unit": "jahren",
-   "surface": "14 Jahren",
-   "sentence": "Ihr erstes Kalb werfen Kühe meist mit 12–14 Jahren, dann gebären sie alle 2–14 Jahre ein weiteres Kalb, bis sie ein Alter von 40 Jahren erreicht haben.",
-   "section": "Fortpflanzung und Entwicklung"
-  },
-  "f79": {
+  "f59": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Ihr erstes Kalb werfen Kühe meist mit 12–14 Jahren, dann gebären sie alle 2–14 Jahre ein weiteres Kalb, bis sie ein Alter von 40 Jahren erreicht haben.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f80": {
+  "f60": {
    "kind": "measure",
    "value": 14,
    "unit": "jahre",
@@ -645,7 +505,7 @@
    "sentence": "Ihr erstes Kalb werfen Kühe meist mit 12–14 Jahren, dann gebären sie alle 2–14 Jahre ein weiteres Kalb, bis sie ein Alter von 40 Jahren erreicht haben.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f81": {
+  "f61": {
    "kind": "measure",
    "value": 40,
    "unit": "jahren",
@@ -653,47 +513,31 @@
    "sentence": "Ihr erstes Kalb werfen Kühe meist mit 12–14 Jahren, dann gebären sie alle 2–14 Jahre ein weiteres Kalb, bis sie ein Alter von 40 Jahren erreicht haben.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f82": {
+  "f62": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Schwertwalkühe werfen in ihrem Leben durchschnittlich 5–6 Kälber.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f83": {
+  "f63": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Schwertwalkühe werfen in ihrem Leben durchschnittlich 5–6 Kälber.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f84": {
+  "f64": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Schwertwalbullen werden mit 12–16 Jahren geschlechtsreif.",
    "section": "Fortpflanzung und Entwicklung"
   },
-  "f85": {
-   "kind": "measure",
-   "value": 16,
-   "unit": "jahren",
-   "surface": "16 Jahren",
-   "sentence": "Schwertwalbullen werden mit 12–16 Jahren geschlechtsreif.",
-   "section": "Fortpflanzung und Entwicklung"
-  },
-  "f86": {
+  "f65": {
    "kind": "number",
    "value": 20,
    "surface": "20",
-   "sentence": "Mit etwa 20–25 Jahren sind Schwertwale ausgewachsen.",
-   "section": "Fortpflanzung und Entwicklung"
-  },
-  "f87": {
-   "kind": "measure",
-   "value": 25,
-   "unit": "jahren",
-   "surface": "25 Jahren",
    "sentence": "Mit etwa 20–25 Jahren sind Schwertwale ausgewachsen.",
    "section": "Fortpflanzung und Entwicklung"
   }

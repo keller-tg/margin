@@ -81,7 +81,8 @@ export function fitToWords(s: string, max: number, lang: Lang): { text: string; 
     const words = countWords(head);
     const lastSeg = head.split(/,\s*/).pop() ?? '';
     const openRelative = /^(whose|which|who|whom|where|that|dont|qui|où|lequel|laquelle|welche[rsn]?|deren|dessen|wo)\b/i.test(lastSeg) && head.includes(',');
-    if (words <= max && words >= 5 && !openRelative && !/\b(the|a|an|of|der|die|das|des|le|la|les|de|du)$/i.test(head)) {
+    const fragment = lacksSubject(head + '.', lang); // the cut must keep the subject ("Placed on sale…, the X was…")
+    if (words <= max && words >= 5 && !openRelative && !fragment && !/\b(the|a|an|of|der|die|das|des|le|la|les|de|du)$/i.test(head)) {
       return { text: head.replace(/[,;:–—\s]+$/, '') + '.', truncated: true };
     }
   }
@@ -91,4 +92,71 @@ export function fitToWords(s: string, max: number, lang: Lang): { text: string; 
 /** "order of cephalopods" → "Order of cephalopods" (descriptions are lower-case by convention). */
 export function capitalizeFirst(s: string): string {
   return s.charAt(0).toLocaleUpperCase() + s.slice(1);
+}
+
+/**
+ * Prose ready for sentence splitting: parentheticals removed paragraph by paragraph *before* splitting,
+ * so abbreviations inside them ("lit. 'ancient wing'") cannot break a sentence apart.
+ * Facts and composer both split this same text, so fact sentences match candidate sentences.
+ */
+export function proseForSplitting(text: string): string {
+  return text
+    .split('\n')
+    .map((para) => tidy(dropParentheticals(para)).replace(/(["“„«])\s+/g, '$1').replace(/\s+(["”“»])(?=[\s.,;:]|$)/g, '$1'))
+    .filter(Boolean)
+    .join('\n');
+}
+
+const ETYMOLOGY: Record<Lang, RegExp> = {
+  en: /\b(etymolog\w*|derives? from|derived from|the name\b.*\b(comes|derives|means)|(ancient )?greek|latin)\b.*\b(meaning|for|word)\b|\bnamed after\b|\bthe (genus|species|word|term) name\b/i,
+  de: /\b(etymolog\w*|leitet sich|abgeleitet|griechisch|lateinisch|altgriechisch)\b|\bder name\b.*\b(bedeutet|stammt)\b|\bbenannt nach\b/i,
+  fr: /\b(étymolog\w*|vient du|dérivé du|provient du|grec ancien|du latin|du grec)\b|\ble nom\b.*\b(signifie|vient)\b|\bnommée? d'après\b/i,
+};
+
+/** A sentence about the name, not the thing ("The genus name derives from the Ancient Greek…"). */
+export function isEtymology(s: string, lang: Lang): boolean {
+  return ETYMOLOGY[lang].test(s);
+}
+
+const COPULA: Record<Lang, RegExp> = {
+  en: /\b(is|are|was|were)\b/i,
+  de: /\b(ist|sind|war|waren|bezeichnet|bildet|gehört)\b/i,
+  fr: /\b(est|sont|était|étaient|désigne|constitue)\b/i,
+};
+
+/** Says what the thing is: names the topic and uses a copula ("Archaeopteryx … is an extinct genus…"). */
+export function isDefinition(s: string, lang: Lang, topic: string): boolean {
+  const head = topic.replace(/\s*\(.*\)$/, '').split(/\s+/)[0]!.toLowerCase().slice(0, 5);
+  return s.toLowerCase().includes(head) && COPULA[lang].test(s);
+}
+
+/** "X, sometimes referred to as Y, is Z." → "X is Z." (drops one appositive between subject and copula). */
+export function dropAppositive(s: string, lang: Lang): string | null {
+  const cop = lang === 'en' ? 'is|are|was|were' : lang === 'de' ? 'ist|sind|war|waren' : 'est|sont|était|étaient';
+  const m = s.match(new RegExp(`^([^,]{2,60}), [^,]{3,90}, ((?:${cop})\\b.*)$`, 'iu'));
+  return m ? `${m[1]} ${m[2]}` : null;
+}
+
+const PARTICIPLE_START: Record<Lang, RegExp> = {
+  en: /^(\p{Lu}\p{Ll}{3,}(ed|ing)|Built|Found|Made|Known|Born|Held|Shown|Seen|Given|Taken|Written|Begun|Sold|Placed|Located|Situated)$/u,
+  de: /^(Ge\p{Ll}{3,}(t|en)|Erbaut|Entdeckt|Beschrieben|Benannt|Errichtet|Erstmals)$/u,
+  fr: /^(\p{Lu}\p{Ll}{2,}(é|ée|és|ées|ant)|Né|Née|Décrit|Décrite|Construit|Construite|Découvert|Découverte)$/u,
+};
+const SUBJECT_PRONOUN: Record<Lang, RegExp> = {
+  en: /^(it|he|she|they|this|these|its|his|her|their)\b/i,
+  de: /^(er|sie|es|dieser|diese|dieses)\b/i,
+  fr: /^(il|elle|ils|elles|ce|cette|ces)\b/i,
+};
+
+/**
+ * A fragment without a proper subject: opens with a participle and never names who/what does it
+ * ("Placed on sale between 1877 and 1881."), or names only a pronoun ("Described in 1884 by Wilhelm Dames, it is…").
+ */
+export function lacksSubject(s: string, lang: Lang): boolean {
+  const first = s.replace(/^[«„“"\s]+/, '').split(/[\s,]+/)[0] ?? '';
+  if (!PARTICIPLE_START[lang].test(first)) return false;
+  const comma = s.indexOf(', ');
+  if (comma < 0) return true;
+  const rest = s.slice(comma + 2).trim();
+  return SUBJECT_PRONOUN[lang].test(rest) || !/^[\p{L}]/u.test(rest);
 }

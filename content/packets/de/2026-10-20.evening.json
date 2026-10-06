@@ -77,211 +77,163 @@
    "kind": "number",
    "value": 93,
    "surface": "93",
-   "sentence": "Neptunium ist ein chemisches Element mit dem Elementsymbol Np und der Ordnungszahl 93. Im Periodensystem steht es in der Gruppe der Actinoide (7. Periode, f-Block)."
+   "sentence": "Neptunium ist ein chemisches Element mit dem Elementsymbol Np und der Ordnungszahl 93. Im Periodensystem steht es in der Gruppe der Actinoide."
   },
   "f2": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Neptunium ist ein chemisches Element mit dem Elementsymbol Np und der Ordnungszahl 93. Im Periodensystem steht es in der Gruppe der Actinoide (7. Periode, f-Block)."
-  },
-  "f3": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
    "sentence": "Das radioaktive Element Neptunium synthetisierten Edwin M. McMillan und Philip H. Abelson erstmals 1940 durch Beschuss von Uran mit Neutronen.",
    "section": "Geschichte"
   },
-  "f4": {
+  "f3": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "section": "Geschichte"
+  },
+  "f4": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f5": {
    "kind": "number",
-   "value": 238,
-   "surface": "238",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f6": {
    "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f7": {
    "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 23,
+   "surface": "23",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f8": {
    "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 93,
+   "surface": "93",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f9": {
    "kind": "number",
-   "value": 239,
-   "surface": "239",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 2,
+   "surface": "2",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f10": {
    "kind": "number",
-   "value": 23,
-   "surface": "23",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 355,
+   "surface": "355",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f11": {
    "kind": "number",
-   "value": 93,
-   "surface": "93",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 94,
+   "surface": "94",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f12": {
    "kind": "number",
-   "value": 239,
-   "surface": "239",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f13": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f14": {
    "kind": "number",
-   "value": 355,
-   "surface": "355",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f15": {
    "kind": "number",
-   "value": 94,
-   "surface": "94",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f16": {
    "kind": "number",
    "value": 239,
    "surface": "239",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f17": {
    "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 93,
+   "surface": "93",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f18": {
    "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 239,
+   "surface": "239",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f19": {
    "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 94,
+   "surface": "94",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f20": {
    "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "value": 239,
+   "surface": "239",
+   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Geschichte"
   },
   "f21": {
-   "kind": "number",
-   "value": 239,
-   "surface": "239",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 23,
-   "surface": "23",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f23": {
-   "kind": "number",
-   "value": 93,
-   "surface": "93",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f24": {
-   "kind": "number",
-   "value": 239,
-   "surface": "239",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f25": {
-   "kind": "number",
-   "value": 2.355,
-   "surface": "2,355",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f26": {
-   "kind": "number",
-   "value": 94,
-   "surface": "94",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 239,
-   "surface": "239",
-   "sentence": "92\n238\nU\n+\n0\n1\nn\n⟶\n92\n239\nU\n→\n23\nm\ni\nn\nβ\n−\n93\n239\nN\np\n→\n2\n,\n355\nd\nβ\n−\n94\n239\nP\nu\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{239}U\\ {\\xrightarrow[{23\\ min}]{\\beta ^{-}}}\\ _{\\ 93}^{239}Np\\ {\\xrightarrow[{2,355\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{239}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Geschichte"
-  },
-  "f28": {
    "kind": "date",
    "value": "1942",
    "surface": "1942",
    "sentence": "Arthur C. Wahl und Glenn T. Seaborg entdeckten 1942 das Neptuniumisotop 237Np.",
    "section": "Geschichte"
   },
-  "f29": {
+  "f22": {
    "kind": "number",
    "value": 7,
    "surface": "7",
-   "sentence": "Es entsteht aus 237U, das ein β-Strahler mit rund 7 Tagen Halbwertszeit ist, oder durch einen (n, 2n)-Prozess aus 238U.",
+   "sentence": "Es entsteht aus 237U, das ein β-Strahler mit rund 7 Tagen Halbwertszeit ist, oder durch einen-Prozess aus 238U.",
    "section": "Geschichte"
   },
-  "f30": {
+  "f23": {
    "kind": "number",
    "value": 2.144,
    "surface": "2,144",
    "sentence": "237Np ist ein α-Strahler mit einer Halbwertszeit von 2,144 · 106 Jahren.",
    "section": "Geschichte"
   },
-  "f31": {
+  "f24": {
    "kind": "measure",
    "value": 106,
    "unit": "jahren",
@@ -289,203 +241,140 @@
    "sentence": "237Np ist ein α-Strahler mit einer Halbwertszeit von 2,144 · 106 Jahren.",
    "section": "Geschichte"
   },
-  "f32": {
+  "f25": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 93,
+   "surface": "93",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 144,
+   "surface": "144",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "section": "Geschichte"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f33": {
    "kind": "number",
-   "value": 238,
-   "surface": "238",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "value": 91,
+   "surface": "91",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f34": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f35": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f36": {
    "kind": "number",
    "value": 237,
    "surface": "237",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f37": {
    "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "value": 93,
+   "surface": "93",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f38": {
    "kind": "number",
-   "value": 93,
-   "surface": "93",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "value": 237,
+   "surface": "237",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f39": {
    "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "value": 91,
+   "surface": "91",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f40": {
    "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "value": 233,
+   "surface": "233",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
   "f41": {
-   "kind": "number",
-   "value": 144,
-   "surface": "144",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f42": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f44": {
-   "kind": "number",
-   "value": 91,
-   "surface": "91",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f45": {
-   "kind": "number",
-   "value": 233,
-   "surface": "233",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f46": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f49": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 93,
-   "surface": "93",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 2.144,
-   "surface": "2,144",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f54": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f55": {
-   "kind": "number",
-   "value": 91,
-   "surface": "91",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f56": {
-   "kind": "number",
-   "value": 233,
-   "surface": "233",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
-   "section": "Geschichte"
-  },
-  "f57": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
-   "sentence": "92\n238\nU\n→\n(\nn\n,\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n,\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow[{}]{(n,\\ 2n)}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow[{7\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow[{2,144\\ \\times \\ 10^{6}\\ a}]{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
+   "sentence": "92\n238\nU\n→\n(\nn\n2\nn\n)\n92\n237\nU\n→\n7\nd\nβ\n−\n93\n237\nN\np\n→\n2\n144\n×\n10\n6\na\nα\n91\n233\nP\na\n_{\\ 92}U\\ {\\xrightarrow{}}\\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np\\ {\\xrightarrow{\\alpha }}\\ _{\\ 91}^{233}Pa} }\nIm Jahr 1950 wurden aus 233U, 235U und 238U durch Beschuss mit Deuteronen die Neptuniumisotope 231Np, 232Np und 233Np erzeugt.",
    "section": "Geschichte"
   },
-  "f58": {
+  "f42": {
    "kind": "date",
    "value": "1958",
    "surface": "1958",
    "sentence": "Im Jahr 1958 wurden aus hochangereichertem 235U durch Beschuss mit Deuteronen die Neptuniumisotope 234Np, 235Np und 236Np erzeugt.",
    "section": "Geschichte"
   },
-  "f59": {
+  "f43": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Die 1-Stunden Neptunium-Aktivität, die zuvor dem 241Np zugewiesen worden ist, gehört hingegen zum Isotop 240Np.",
    "section": "Geschichte"
   },
-  "f60": {
+  "f44": {
    "kind": "measure",
    "value": 500,
    "unit": "g",
@@ -493,252 +382,196 @@
    "sentence": "Eine Tonne abgebrannter Kernbrennstoff kann etwa 500 g Neptunium enthalten.",
    "section": "Gewinnung und Darstellung"
   },
+  "f45": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f47": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f48": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 120,
+   "surface": "120",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 236,
+   "surface": "236",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 236,
+   "surface": "236",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "section": "Gewinnung und Darstellung"
+  },
   "f61": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f62": {
    "kind": "number",
-   "value": 235,
-   "surface": "235",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 6,
+   "surface": "6",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f63": {
    "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 75,
+   "surface": "75",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f64": {
    "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 93,
+   "surface": "93",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f65": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f66": {
    "kind": "number",
-   "value": 236,
-   "surface": "236",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f67": {
    "kind": "number",
-   "value": 120,
-   "surface": "120",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f68": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f69": {
    "kind": "number",
-   "value": 236,
-   "surface": "236",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 237,
+   "surface": "237",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f70": {
    "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 93,
+   "surface": "93",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f71": {
    "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
+   "value": 237,
+   "surface": "237",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
    "section": "Gewinnung und Darstellung"
   },
   "f72": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f73": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f74": {
-   "kind": "number",
-   "value": 236,
-   "surface": "236",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f75": {
-   "kind": "number",
-   "value": 120,
-   "surface": "120",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f76": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f77": {
-   "kind": "number",
-   "value": 236,
-   "surface": "236",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f78": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f79": {
-   "kind": "number",
-   "value": 236,
-   "surface": "236",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f80": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f81": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f82": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f83": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f84": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f85": {
-   "kind": "number",
-   "value": 75,
-   "surface": "75",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f86": {
-   "kind": "number",
-   "value": 93,
-   "surface": "93",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f87": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f88": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f89": {
-   "kind": "number",
-   "value": 0,
-   "surface": "0",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f90": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f91": {
-   "kind": "number",
-   "value": 92,
-   "surface": "92",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f92": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f93": {
-   "kind": "number",
-   "value": 6.75,
-   "surface": "6,75",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f94": {
-   "kind": "number",
-   "value": 93,
-   "surface": "93",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f95": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\nm\n→\n120\nn\ns\nγ\n92\n236\nU\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{236}U_{m}\\ {\\xrightarrow[{120\\ ns}]{\\gamma }}\\ _{\\ 92}^{236}U} }\n92\n236\nU\n+\n0\n1\nn\n⟶\n92\n237\nU\n→\n6\n,\n75\nd\nβ\n−\n93\n237\nN\np\n_{\\ 92}U\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 92}^{237}U\\ {\\xrightarrow[{6,75\\ d}]{\\beta ^{-}}}\\ _{\\ 93}^{237}Np} }\nEine deutlich weniger häufige Möglichkeit ist die (n,2n) Reaktion in 238U. - Ein Neutron trifft auf und zwei Neutronen werden emittiert.",
-   "section": "Gewinnung und Darstellung"
-  },
-  "f96": {
    "kind": "measure",
    "value": 400,
    "unit": "jahren",
@@ -746,57 +579,57 @@
    "sentence": "Angesichts der Halbwertszeit von 241Am von über 400 Jahren sind jedoch, in der Zeit seit Menschen Americium herstellen, nur verhältnismäßig geringe Mengen Neptunium auf diese Weise entstanden.",
    "section": "Gewinnung und Darstellung"
   },
-  "f97": {
+  "f73": {
    "kind": "measure",
    "value": 1200,
    "unit": "°c",
    "surface": "1200 °C",
-   "sentence": "Zuerst wurde Neptunium(III)-fluorid mit elementarem Barium oder Lithium bei 1200 °C zur Reaktion gebracht.",
+   "sentence": "Zuerst wurde Neptunium-fluorid mit elementarem Barium oder Lithium bei 1200 °C zur Reaktion gebracht.",
    "section": "Gewinnung und Darstellung"
   },
-  "f98": {
+  "f74": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "2\nNpF\n3\n+\n3\nBa\n⟶\n2\nNp\n+\n3\nBaF\n2\n}}",
    "section": "Gewinnung und Darstellung"
   },
-  "f99": {
+  "f75": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "2\nNpF\n3\n+\n3\nBa\n⟶\n2\nNp\n+\n3\nBaF\n2\n}}",
    "section": "Gewinnung und Darstellung"
   },
-  "f100": {
+  "f76": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "2\nNpF\n3\n+\n3\nBa\n⟶\n2\nNp\n+\n3\nBaF\n2\n}}",
    "section": "Gewinnung und Darstellung"
   },
-  "f101": {
+  "f77": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "2\nNpF\n3\n+\n3\nBa\n⟶\n2\nNp\n+\n3\nBaF\n2\n}}",
    "section": "Gewinnung und Darstellung"
   },
-  "f102": {
+  "f78": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "2\nNpF\n3\n+\n3\nBa\n⟶\n2\nNp\n+\n3\nBaF\n2\n}}",
    "section": "Gewinnung und Darstellung"
   },
-  "f103": {
+  "f79": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "2\nNpF\n3\n+\n3\nBa\n⟶\n2\nNp\n+\n3\nBaF\n2\n}}",
    "section": "Gewinnung und Darstellung"
   },
-  "f104": {
+  "f80": {
    "kind": "measure",
    "value": 20,
    "unit": "g",
@@ -804,42 +637,42 @@
    "sentence": "Neben Rhenium, Osmium, Iridium und Platin ist es eines der wenigen Elemente, die eine höhere Dichte als 20 g/cm3 besitzen.",
    "section": "Eigenschaften"
   },
-  "f105": {
+  "f81": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Neptunium bildet eine Reihe von Verbindungen, in denen es in den Oxidationsstufen +3 bis +7 vorliegen kann.",
    "section": "Eigenschaften"
   },
-  "f106": {
+  "f82": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Neptunium bildet eine Reihe von Verbindungen, in denen es in den Oxidationsstufen +3 bis +7 vorliegen kann.",
    "section": "Eigenschaften"
   },
-  "f107": {
+  "f83": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Von Neptunium sind insgesamt 20 Isotope und 5 Kernisomere bekannt.",
    "section": "Isotope"
   },
-  "f108": {
+  "f84": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Von Neptunium sind insgesamt 20 Isotope und 5 Kernisomere bekannt.",
    "section": "Isotope"
   },
-  "f109": {
+  "f85": {
    "kind": "number",
    "value": 2144000,
    "surface": "2,144 Mio",
    "sentence": "Die langlebigsten Isotope sind 237Np mit 2,144 Mio. Jahren, 236Np mit 154.000 Jahren und 235Np mit 396,1 Tagen Halbwertszeit.",
    "section": "Isotope"
   },
-  "f110": {
+  "f86": {
    "kind": "measure",
    "value": 154000,
    "unit": "jahren",
@@ -847,35 +680,35 @@
    "sentence": "Die langlebigsten Isotope sind 237Np mit 2,144 Mio. Jahren, 236Np mit 154.000 Jahren und 235Np mit 396,1 Tagen Halbwertszeit.",
    "section": "Isotope"
   },
-  "f111": {
+  "f87": {
    "kind": "number",
    "value": 396.1,
    "surface": "396,1",
    "sentence": "Die langlebigsten Isotope sind 237Np mit 2,144 Mio. Jahren, 236Np mit 154.000 Jahren und 235Np mit 396,1 Tagen Halbwertszeit.",
    "section": "Isotope"
   },
-  "f112": {
+  "f88": {
    "kind": "number",
    "value": 45,
    "surface": "45",
-   "sentence": "Die restlichen Isotope und Kernisomere besitzen Halbwertszeiten zwischen 45 Nanosekunden (237m1Np) und 4,4 Tagen (234Np).",
+   "sentence": "Die restlichen Isotope und Kernisomere besitzen Halbwertszeiten zwischen 45 Nanosekunden und 4,4 Tagen.",
    "section": "Isotope"
   },
-  "f113": {
+  "f89": {
    "kind": "number",
    "value": 4.4,
    "surface": "4,4",
-   "sentence": "Die restlichen Isotope und Kernisomere besitzen Halbwertszeiten zwischen 45 Nanosekunden (237m1Np) und 4,4 Tagen (234Np).",
+   "sentence": "Die restlichen Isotope und Kernisomere besitzen Halbwertszeiten zwischen 45 Nanosekunden und 4,4 Tagen.",
    "section": "Isotope"
   },
-  "f114": {
+  "f90": {
    "kind": "number",
    "value": 396.1,
    "surface": "396,1",
    "sentence": "235Np zerfällt mit 396,1 Tagen Halbwertszeit in 99,99740 % der Fälle durch Elektroneneinfang zu Uran 235U und in 0,00260 % der Fälle durch Alphazerfall zu Protactinium 231Pa, das sich eine Stufe hinter 235U auf der Uran-Actinium-Reihe befindet.",
    "section": "Isotope"
   },
-  "f115": {
+  "f91": {
    "kind": "measure",
    "value": 99.9974,
    "unit": "%",
@@ -883,7 +716,7 @@
    "sentence": "235Np zerfällt mit 396,1 Tagen Halbwertszeit in 99,99740 % der Fälle durch Elektroneneinfang zu Uran 235U und in 0,00260 % der Fälle durch Alphazerfall zu Protactinium 231Pa, das sich eine Stufe hinter 235U auf der Uran-Actinium-Reihe befindet.",
    "section": "Isotope"
   },
-  "f116": {
+  "f92": {
    "kind": "measure",
    "value": 0.0026,
    "unit": "%",
@@ -891,7 +724,7 @@
    "sentence": "235Np zerfällt mit 396,1 Tagen Halbwertszeit in 99,99740 % der Fälle durch Elektroneneinfang zu Uran 235U und in 0,00260 % der Fälle durch Alphazerfall zu Protactinium 231Pa, das sich eine Stufe hinter 235U auf der Uran-Actinium-Reihe befindet.",
    "section": "Isotope"
   },
-  "f117": {
+  "f93": {
    "kind": "measure",
    "value": 154000,
    "unit": "jahren",
@@ -899,7 +732,7 @@
    "sentence": "236Np zerfällt mit 154.000 Jahren Halbwertszeit in 87,3 % der Fälle durch Elektroneneinfang zu Uran 236U, in 12,5 % der Fälle durch Betazerfall zu Plutonium 236Pu und in 0,16 % der Fälle durch Alphazerfall zu Protactinium 232Pa.",
    "section": "Isotope"
   },
-  "f118": {
+  "f94": {
    "kind": "measure",
    "value": 87.3,
    "unit": "%",
@@ -907,7 +740,7 @@
    "sentence": "236Np zerfällt mit 154.000 Jahren Halbwertszeit in 87,3 % der Fälle durch Elektroneneinfang zu Uran 236U, in 12,5 % der Fälle durch Betazerfall zu Plutonium 236Pu und in 0,16 % der Fälle durch Alphazerfall zu Protactinium 232Pa.",
    "section": "Isotope"
   },
-  "f119": {
+  "f95": {
    "kind": "measure",
    "value": 12.5,
    "unit": "%",
@@ -915,7 +748,7 @@
    "sentence": "236Np zerfällt mit 154.000 Jahren Halbwertszeit in 87,3 % der Fälle durch Elektroneneinfang zu Uran 236U, in 12,5 % der Fälle durch Betazerfall zu Plutonium 236Pu und in 0,16 % der Fälle durch Alphazerfall zu Protactinium 232Pa.",
    "section": "Isotope"
   },
-  "f120": {
+  "f96": {
    "kind": "measure",
    "value": 0.16,
    "unit": "%",
@@ -923,28 +756,28 @@
    "sentence": "236Np zerfällt mit 154.000 Jahren Halbwertszeit in 87,3 % der Fälle durch Elektroneneinfang zu Uran 236U, in 12,5 % der Fälle durch Betazerfall zu Plutonium 236Pu und in 0,16 % der Fälle durch Alphazerfall zu Protactinium 232Pa.",
    "section": "Isotope"
   },
-  "f121": {
+  "f97": {
    "kind": "number",
    "value": 2144000,
    "surface": "2,144 Mio",
    "sentence": "237Np zerfällt mit 2,144 Mio. Jahren Halbwertszeit durch Alphazerfall zu Protactinium 233Pa.",
    "section": "Isotope"
   },
-  "f122": {
+  "f98": {
    "kind": "number",
    "value": 2600,
    "surface": "2600",
    "sentence": "Die Isotope mit ungerader Neutronenanzahl im Kern – von den langlebigen also 236Np – haben große Wirkungsquerschnitte für die Spaltung durch thermische Neutronen; beim 236Np beträgt er 2600 Barn, es ist also „leicht spaltbar“.",
    "section": "Spaltbarkeit"
   },
-  "f123": {
+  "f99": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Bei dem im Kernreaktorbrennstoff anfallenden 237Np beträgt dieser Wirkungsquerschnitt nur 20 Millibarn.",
    "section": "Spaltbarkeit"
   },
-  "f124": {
+  "f100": {
    "kind": "measure",
    "value": 60,
    "unit": "kg",
@@ -952,189 +785,161 @@
    "sentence": "Im Los Alamos National Laboratory wurde seine kritische Masse experimentell zu etwa 60 kg bestimmt.",
    "section": "Spaltbarkeit"
   },
-  "f125": {
+  "f101": {
    "kind": "number",
    "value": 93,
    "surface": "93",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f126": {
-   "kind": "number",
-   "value": 237,
-   "surface": "237",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Verwendung"
-  },
-  "f127": {
+  "f102": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f128": {
+  "f103": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f129": {
+  "f104": {
    "kind": "number",
    "value": 93,
    "surface": "93",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f130": {
-   "kind": "number",
-   "value": 238,
-   "surface": "238",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Verwendung"
-  },
-  "f131": {
+  "f105": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f132": {
+  "f106": {
    "kind": "number",
    "value": 117,
    "surface": "117",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f133": {
+  "f107": {
    "kind": "number",
    "value": 94,
    "surface": "94",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f134": {
-   "kind": "number",
-   "value": 238,
-   "surface": "238",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Verwendung"
-  },
-  "f135": {
+  "f108": {
    "kind": "number",
    "value": 93,
    "surface": "93",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f136": {
+  "f109": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f137": {
+  "f110": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f138": {
+  "f111": {
    "kind": "number",
    "value": 93,
    "surface": "93",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f139": {
+  "f112": {
    "kind": "number",
    "value": 238,
    "surface": "238",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f140": {
-   "kind": "number",
-   "value": 2.117,
-   "surface": "2,117",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
-   "section": "Verwendung"
-  },
-  "f141": {
+  "f113": {
    "kind": "number",
    "value": 94,
    "surface": "94",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f142": {
+  "f114": {
    "kind": "number",
    "value": 238,
    "surface": "238",
-   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n,\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow[{2,117\\ d}]{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
+   "sentence": "93\n237\nN\np\n+\n0\n1\nn\n⟶\n93\n238\nN\np\n→\n2\n117\nd\nβ\n−\n94\n238\nP\nu\n_{\\ 93}Np\\ +\\ _{0}^{1}n\\ \\longrightarrow \\ _{\\ 93}^{238}Np\\ {\\xrightarrow{\\beta ^{-}}}\\ _{\\ 94}^{238}Pu} }\nDie angegebenen Zeiten sind Halbwertszeiten.",
    "section": "Verwendung"
   },
-  "f143": {
+  "f115": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "→ Kategorie: Neptuniumverbindung\nBekannt sind Oxide in den Stufen +4 bis +6: Neptunium(IV)-oxid (NpO2), Neptunium(V)-oxid (Np2O5) und Neptunium(VI)-oxid (NpO3 · H2O).",
+   "sentence": "→ Kategorie: Neptuniumverbindung\nBekannt sind Oxide in den Stufen +4 bis +6: Neptunium-oxid, Neptunium-oxid und Neptunium-oxid.",
    "section": "Verbindungen"
   },
-  "f144": {
+  "f116": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "→ Kategorie: Neptuniumverbindung\nBekannt sind Oxide in den Stufen +4 bis +6: Neptunium(IV)-oxid (NpO2), Neptunium(V)-oxid (Np2O5) und Neptunium(VI)-oxid (NpO3 · H2O).",
+   "sentence": "→ Kategorie: Neptuniumverbindung\nBekannt sind Oxide in den Stufen +4 bis +6: Neptunium-oxid, Neptunium-oxid und Neptunium-oxid.",
    "section": "Verbindungen"
   },
-  "f145": {
+  "f117": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Für Neptunium sind Halogenide in den Oxidationsstufen +3 bis +6 bekannt.",
    "section": "Verbindungen"
   },
-  "f146": {
+  "f118": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Für Neptunium sind Halogenide in den Oxidationsstufen +3 bis +6 bekannt.",
    "section": "Verbindungen"
   },
-  "f147": {
+  "f119": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Für die Stufe +3 sind sämtliche Verbindungen der vier Halogene Fluor, Chlor, Brom und Iod bekannt.",
    "section": "Verbindungen"
   },
-  "f148": {
+  "f120": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Darüber hinaus bildet es Halogenide in den Stufen +4 bis +6.",
    "section": "Verbindungen"
   },
-  "f149": {
+  "f121": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Darüber hinaus bildet es Halogenide in den Stufen +4 bis +6.",
    "section": "Verbindungen"
   },
-  "f150": {
+  "f122": {
    "kind": "number",
    "value": 6,
    "surface": "6",
-   "sentence": "In der Oxidationsstufe +6 ist das Neptuniumhexafluorid (NpF6) von besonderer Bedeutung.",
+   "sentence": "In der Oxidationsstufe +6 ist das Neptuniumhexafluorid von besonderer Bedeutung.",
    "section": "Verbindungen"
   },
-  "f151": {
+  "f123": {
    "kind": "measure",
    "value": 56,
    "unit": "°c",

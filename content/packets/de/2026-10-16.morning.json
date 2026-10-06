@@ -47,497 +47,410 @@
  "facts": {
   "f1": {
    "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "Caspar David Friedrich (* 5. September 1774 in Greifswald, Schwedisch-Pommern; † 7. Mai 1840 in Dresden, Königreich Sachsen) war ein deutscher Maler, Grafiker und Zeichner."
-  },
-  "f2": {
-   "kind": "date",
-   "value": "1774",
-   "surface": "1774",
-   "sentence": "Caspar David Friedrich (* 5. September 1774 in Greifswald, Schwedisch-Pommern; † 7. Mai 1840 in Dresden, Königreich Sachsen) war ein deutscher Maler, Grafiker und Zeichner."
-  },
-  "f3": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "Caspar David Friedrich (* 5. September 1774 in Greifswald, Schwedisch-Pommern; † 7. Mai 1840 in Dresden, Königreich Sachsen) war ein deutscher Maler, Grafiker und Zeichner."
-  },
-  "f4": {
-   "kind": "date",
-   "value": "1840",
-   "surface": "1840",
-   "sentence": "Caspar David Friedrich (* 5. September 1774 in Greifswald, Schwedisch-Pommern; † 7. Mai 1840 in Dresden, Königreich Sachsen) war ein deutscher Maler, Grafiker und Zeichner."
-  },
-  "f5": {
-   "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Die Sinnoffenheit der Bilder führte seit der Wiederentdeckung Friedrichs zu Beginn des 20. Jahrhunderts zu einer Vielzahl oft gegensätzlicher Interpretationen sowie zur Theoriebildung aus kunstwissenschaftlicher, philosophischer, literaturwissenschaftlicher, psychologischer oder theologischer Sicht."
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1774",
    "surface": "1774",
    "sentence": "Caspar David Friedrich wurde 1774 als sechstes von zehn Kindern des Talgseifensieders und Talgkerzengießers Adolph Gottlieb Friedrich und dessen Ehefrau, Sophie Dorothea, geborene Bechly, in der damals zu Schwedisch-Pommern gehörenden Hafenstadt Greifswald geboren.",
    "section": "Leben"
   },
-  "f7": {
+  "f3": {
    "kind": "number",
    "value": 28,
    "surface": "28",
    "sentence": "Caspar David wuchs in seinem Greifswalder Elternhaus in der Langen Gasse 28 auf.",
    "section": "Leben"
   },
-  "f8": {
+  "f4": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Der Vater war zumindest in späteren Jahren als Kaufmann erfolgreich und konnte 1809 mit einem erheblichen Kredit den Gutsherrn von Breesen Adolf von Engel vor dem Bankrott retten.",
    "section": "Leben"
   },
-  "f9": {
+  "f5": {
    "kind": "date",
    "value": "1790",
    "surface": "1790",
    "sentence": "Um 1790 bekam er beim Greifswalder Universitätsbaumeister und akademischen Zeichenlehrer Johann Gottfried Quistorp wöchentlich einige Stunden Unterweisung im Zeichnen nach Modellen und nach der Natur sowie im Fertigen von Baurissen bzw. Architekturzeichnungen.",
    "section": "Leben"
   },
-  "f10": {
+  "f6": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Quistorp war mit seinen Schülern auch in der pommerschen Landschaft unterwegs und konnte mit seiner umfangreichen Sammlung Kenntnisse zur barocken Kunst des 17. und 18. Jahrhunderts vermitteln.",
    "section": "Leben"
   },
-  "f11": {
+  "f7": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Quistorp war mit seinen Schülern auch in der pommerschen Landschaft unterwegs und konnte mit seiner umfangreichen Sammlung Kenntnisse zur barocken Kunst des 17. und 18. Jahrhunderts vermitteln.",
    "section": "Leben"
   },
-  "f12": {
+  "f8": {
    "kind": "date",
    "value": "1787",
    "surface": "1787",
    "sentence": "Ein prägendes Kindheitserlebnis war nach Überlieferung ein tödlicher Unfall: Beim Versuch, den ins Wasser gefallenen Caspar David zu retten, ertrank 1787 sein um ein Jahr jüngerer Bruder Christoffer.",
    "section": "Leben"
   },
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1787",
    "surface": "1787",
    "sentence": "Gegen die Eis-Variante spricht ein milder Dezemberanfang 1787.",
    "section": "Leben"
   },
-  "f14": {
+  "f10": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Der Holzschnitt Knabe auf einem Grab schlafend von 1801 gilt als Verarbeitung vom Tod des Bruders Christoffer.",
    "section": "Leben"
   },
-  "f15": {
+  "f11": {
    "kind": "date",
    "value": "1794",
    "surface": "1794",
    "sentence": "1794 begann Friedrich ein Studium an der Königlich Dänischen Kunstakademie in Kopenhagen, die damals als eine der liberalsten Europas galt.",
    "section": "Leben"
   },
-  "f16": {
+  "f12": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Nach der Versetzung in die Gipsklasse am 2. Januar 1796 stand das Zeichnen nach Abgüssen antiker Skulpturen auf dem Lehrplan.",
    "section": "Leben"
   },
-  "f17": {
+  "f13": {
    "kind": "date",
    "value": "1796",
    "surface": "1796",
    "sentence": "Nach der Versetzung in die Gipsklasse am 2. Januar 1796 stand das Zeichnen nach Abgüssen antiker Skulpturen auf dem Lehrplan.",
    "section": "Leben"
   },
-  "f18": {
+  "f14": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Die Arbeit nach dem lebenden Modell vermittelten ab 2. Januar 1798 die Lehrer Andreas Weidenhaupt, Johannes Wiedewelt und Nicolai Abildgaard.",
    "section": "Leben"
   },
-  "f19": {
+  "f15": {
    "kind": "date",
    "value": "1798",
    "surface": "1798",
    "sentence": "Die Arbeit nach dem lebenden Modell vermittelten ab 2. Januar 1798 die Lehrer Andreas Weidenhaupt, Johannes Wiedewelt und Nicolai Abildgaard.",
    "section": "Leben"
   },
-  "f20": {
+  "f16": {
    "kind": "date",
    "value": "1785",
    "surface": "1785",
    "sentence": "Tiefgreifende Wirkung auf die Landschaftsdarstellung im Gesamtwerk hatte die 1785 erschienene, in Kopenhagen populäre Theorie der Gartenkunst des Königlich Dänischen Justizrates, Christian Cay Lorenz Hirschfeld.",
    "section": "Leben"
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "1830",
    "surface": "1830",
    "sentence": "Aus der Perspektive des Jahres 1830 begehrte der Maler gegen die Autorität seiner Lehrer auf.",
    "section": "Leben"
   },
-  "f22": {
+  "f18": {
    "kind": "date",
    "value": "1798",
    "surface": "1798",
    "sentence": "Im Frühjahr 1798 kehrte Friedrich von Kopenhagen nach Greifswald zurück und wählte, vermutlich auf Empfehlung des Zeichenlehrers Quistorp, noch im Sommer seinen Wohnsitz in Dresden, einem Zentrum der Künste.",
    "section": "Leben"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
    "sentence": "Mit Sepiablättern verdiente er ab 1800 seinen Lebensunterhalt, als einer der ersten freien Künstler, die ihre Aufträge nicht mehr aus den Fürstenhäusern erhielten.",
    "section": "Leben"
   },
-  "f24": {
+  "f20": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
    "sentence": "Das 1800 in Aussicht stehende Engagement als Zeichenlehrer bei einem polnischen Fürsten kam nicht zustande.",
    "section": "Leben"
   },
-  "f25": {
+  "f21": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
    "sentence": "Ab 1800 beschäftigte Friedrich das Todes-Thema.",
    "section": "Leben"
   },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
-   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann (Samuel) (1773–1844) in Warlin und (Johann Christian) Adolf (1770–1838) in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
+   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann in Warlin und Adolf in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
    "section": "Leben"
   },
-  "f27": {
-   "kind": "date",
-   "value": "1773",
-   "surface": "1773",
-   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann (Samuel) (1773–1844) in Warlin und (Johann Christian) Adolf (1770–1838) in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
-   "section": "Leben"
-  },
-  "f28": {
-   "kind": "date",
-   "value": "1844",
-   "surface": "1844",
-   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann (Samuel) (1773–1844) in Warlin und (Johann Christian) Adolf (1770–1838) in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
-   "section": "Leben"
-  },
-  "f29": {
-   "kind": "date",
-   "value": "1770",
-   "surface": "1770",
-   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann (Samuel) (1773–1844) in Warlin und (Johann Christian) Adolf (1770–1838) in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
-   "section": "Leben"
-  },
-  "f30": {
-   "kind": "date",
-   "value": "1838",
-   "surface": "1838",
-   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann (Samuel) (1773–1844) in Warlin und (Johann Christian) Adolf (1770–1838) in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
-   "section": "Leben"
-  },
-  "f31": {
+  "f23": {
    "kind": "date",
    "value": "1802",
    "surface": "1802",
-   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann (Samuel) (1773–1844) in Warlin und (Johann Christian) Adolf (1770–1838) in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
+   "sentence": "Anlässe waren im Oktober/November 1801 u. a. die Hochzeiten seiner älteren Brüder Johann in Warlin und Adolf in Woggersin sowie im Juni 1802 die Hochzeit von Franz Christian Boll in Neubrandenburg.",
    "section": "Leben"
   },
-  "f32": {
-   "kind": "date",
-   "value": "1766",
-   "surface": "1766",
-   "sentence": "In dem Dorf war die Schwester Catharina Dorothea, geb. Friedrich (1766–1808) mit dem Pastor (August Jakob) Friedrich Sponholtz (1762–1819) verheiratet und Friedrich wähnte sich dort offenbar in seiner Ersatzfamilie.",
-   "section": "Leben"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "1808",
-   "surface": "1808",
-   "sentence": "In dem Dorf war die Schwester Catharina Dorothea, geb. Friedrich (1766–1808) mit dem Pastor (August Jakob) Friedrich Sponholtz (1762–1819) verheiratet und Friedrich wähnte sich dort offenbar in seiner Ersatzfamilie.",
-   "section": "Leben"
-  },
-  "f34": {
-   "kind": "date",
-   "value": "1762",
-   "surface": "1762",
-   "sentence": "In dem Dorf war die Schwester Catharina Dorothea, geb. Friedrich (1766–1808) mit dem Pastor (August Jakob) Friedrich Sponholtz (1762–1819) verheiratet und Friedrich wähnte sich dort offenbar in seiner Ersatzfamilie.",
-   "section": "Leben"
-  },
-  "f35": {
-   "kind": "date",
-   "value": "1819",
-   "surface": "1819",
-   "sentence": "In dem Dorf war die Schwester Catharina Dorothea, geb. Friedrich (1766–1808) mit dem Pastor (August Jakob) Friedrich Sponholtz (1762–1819) verheiratet und Friedrich wähnte sich dort offenbar in seiner Ersatzfamilie.",
-   "section": "Leben"
-  },
-  "f36": {
+  "f24": {
    "kind": "date",
    "value": "1802",
    "surface": "1802",
    "sentence": "In den Sommern 1802 und 1803 unternahm der Maler ausgedehnte Wanderungen auf der Insel Rügen mit einem umfangreichen künstlerischen Ertrag.",
    "section": "Leben"
   },
-  "f37": {
+  "f25": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "In den Sommern 1802 und 1803 unternahm der Maler ausgedehnte Wanderungen auf der Insel Rügen mit einem umfangreichen künstlerischen Ertrag.",
    "section": "Leben"
   },
-  "f38": {
+  "f26": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Im Juli 1803 bezog Friedrich seine Sommerwohnung in Dresden-Loschwitz.",
    "section": "Leben"
   },
-  "f39": {
+  "f27": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Vermutet wird, dass Friedrich nach 1801 in eine seelische Krise mit schweren depressiven Perioden geriet, die zu einem Suizid-Versuch geführt haben soll, der sich nach unterschiedlichen Angaben 1801 oder zwischen 1803 und 1805 ereignet haben kann.",
    "section": "Leben"
   },
-  "f40": {
+  "f28": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Vermutet wird, dass Friedrich nach 1801 in eine seelische Krise mit schweren depressiven Perioden geriet, die zu einem Suizid-Versuch geführt haben soll, der sich nach unterschiedlichen Angaben 1801 oder zwischen 1803 und 1805 ereignet haben kann.",
    "section": "Leben"
   },
-  "f41": {
+  "f29": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Vermutet wird, dass Friedrich nach 1801 in eine seelische Krise mit schweren depressiven Perioden geriet, die zu einem Suizid-Versuch geführt haben soll, der sich nach unterschiedlichen Angaben 1801 oder zwischen 1803 und 1805 ereignet haben kann.",
    "section": "Leben"
   },
-  "f42": {
+  "f30": {
    "kind": "date",
    "value": "1805",
    "surface": "1805",
    "sentence": "Vermutet wird, dass Friedrich nach 1801 in eine seelische Krise mit schweren depressiven Perioden geriet, die zu einem Suizid-Versuch geführt haben soll, der sich nach unterschiedlichen Angaben 1801 oder zwischen 1803 und 1805 ereignet haben kann.",
    "section": "Leben"
   },
-  "f43": {
+  "f31": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Nach Mitteilung seiner Zeitgenossen war der Maler 1803/04 länger krank gewesen und seine künstlerische Produktion nahezu zum Erliegen gekommen.",
    "section": "Leben"
   },
-  "f44": {
+  "f32": {
    "kind": "date",
    "value": "1804",
    "surface": "1804",
    "sentence": "Die Lebenskrise könnte durch eine unglückliche Liebesbeziehung verschärft worden sein, möglicherweise zu Julia Stoye, der Schwägerin seines Bruders Johann, die Friedrich 1804 in einem Hochzeitskleid zeichnete.",
    "section": "Leben"
   },
-  "f45": {
+  "f33": {
    "kind": "date",
    "value": "1805",
    "surface": "1805",
    "sentence": "Aus seiner offensichtlichen Lebenskrise heraus gelang Friedrich 1805 ein erster bedeutender künstlerischer Erfolg.",
    "section": "Leben"
   },
-  "f46": {
+  "f34": {
    "kind": "date",
    "value": "1805",
    "surface": "1805",
    "sentence": "1805 wurde ihm die Hälfte des ersten Preises der Weimarer Kunstfreunde zugesprochen.",
    "section": "Leben"
   },
-  "f47": {
+  "f35": {
    "kind": "date",
    "value": "1807",
    "surface": "1807",
    "sentence": "1807 entstanden die ersten Ölbilder, die gegenüber den Sepien die gestalterischen Möglichkeiten erweiterten.",
    "section": "Leben"
   },
-  "f48": {
+  "f36": {
    "kind": "date",
    "value": "1808",
    "surface": "1808",
    "sentence": "Mit dem Tetschener Altar oder Das Kreuz im Gebirge gelang 1808 der Durchbruch in der Öltechnik, verbunden mit einem Bruch der Konventionen.",
    "section": "Leben"
   },
-  "f49": {
+  "f37": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
-   "sentence": "In dem 1809 entfachten „Ramdohr-Streit“ erkannten Kritiker und Verteidiger des Kunstwerks die stilistische Neuorientierung in der Landschaftsdarstellung und verhalfen dem Maler zu einer ersten Berühmtheit.",
+   "sentence": "In dem 1809 entfachten „Ramdohr-Streit“erkannten Kritiker und Verteidiger des Kunstwerks die stilistische Neuorientierung in der Landschaftsdarstellung und verhalfen dem Maler zu einer ersten Berühmtheit.",
    "section": "Leben"
   },
-  "f50": {
+  "f38": {
    "kind": "date",
    "value": "1810",
    "surface": "1810",
    "sentence": "Mit Georg Friedrich Kersting unternahm Friedrich 1810 eine Wanderung in das Riesengebirge.",
    "section": "Leben"
   },
-  "f51": {
+  "f39": {
    "kind": "date",
    "value": "1806",
    "surface": "1806",
    "sentence": "Weitere Wanderungen fanden 1806–1811 nach Neubrandenburg, Breesen, Greifswald, Rügen, Nordböhmen und in den Harz statt.",
    "section": "Leben"
   },
-  "f52": {
-   "kind": "date",
-   "value": "1811",
-   "surface": "1811",
-   "sentence": "Weitere Wanderungen fanden 1806–1811 nach Neubrandenburg, Breesen, Greifswald, Rügen, Nordböhmen und in den Harz statt.",
-   "section": "Leben"
-  },
-  "f53": {
+  "f40": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Der Tod seiner Schwester Dorothea am 22. Dezember 1808 und der des Vaters am 6. November 1809 trafen Friedrich schwer.",
    "section": "Leben"
   },
-  "f54": {
+  "f41": {
    "kind": "date",
    "value": "1808",
    "surface": "1808",
    "sentence": "Der Tod seiner Schwester Dorothea am 22. Dezember 1808 und der des Vaters am 6. November 1809 trafen Friedrich schwer.",
    "section": "Leben"
   },
-  "f55": {
+  "f42": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Der Tod seiner Schwester Dorothea am 22. Dezember 1808 und der des Vaters am 6. November 1809 trafen Friedrich schwer.",
    "section": "Leben"
   },
-  "f56": {
+  "f43": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Der Tod seiner Schwester Dorothea am 22. Dezember 1808 und der des Vaters am 6. November 1809 trafen Friedrich schwer.",
    "section": "Leben"
   },
-  "f57": {
+  "f44": {
    "kind": "date",
    "value": "1810",
    "surface": "1810",
    "sentence": "Eine euphorische Besprechung durch Heinrich von Kleist anlässlich der Berliner Akademieausstellung im Oktober 1810 machte die beiden Gemälde umgehend einem größeren Publikum bekannt.",
    "section": "Leben"
   },
-  "f58": {
+  "f45": {
    "kind": "number",
    "value": 15,
    "surface": "15",
    "sentence": "Sie wurden auf Veranlassung des 15-jährigen Kronprinzen Friedrich Wilhelm von Preußen durch den preußischen König erworben.",
    "section": "Leben"
   },
-  "f59": {
+  "f46": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Vor dem Hintergrund dieser Reputation wählte die Berliner Akademie den Maler am 12. November 1810 zu ihrem Mitglied.",
    "section": "Leben"
   },
-  "f60": {
+  "f47": {
    "kind": "date",
    "value": "1810",
    "surface": "1810",
    "sentence": "Vor dem Hintergrund dieser Reputation wählte die Berliner Akademie den Maler am 12. November 1810 zu ihrem Mitglied.",
    "section": "Leben"
   },
-  "f61": {
+  "f48": {
    "kind": "date",
    "value": "1806",
    "surface": "1806",
    "sentence": "Nach dem Sieg Napoleons in der Schlacht bei Jena und Auerstedt 1806 lebte Friedrich in Sachsen, in einem mit Frankreich verbündeten Land.",
    "section": "Leben"
   },
-  "f62": {
+  "f49": {
    "kind": "date",
    "value": "1813",
    "surface": "1813",
    "sentence": "Aus Furcht vor ansteckenden Krankheiten ließ er sich 1813 einige Zeit in Krippen in der Sächsischen Schweiz nieder.",
    "section": "Leben"
   },
-  "f63": {
+  "f50": {
    "kind": "date",
    "value": "1813",
    "surface": "1813",
    "sentence": "Friedrich beteiligte sich 1813 an der Finanzierung der Ausrüstung seines Freundes, des Malers Georg Friedrich Kersting für den Dienst bei den Lützowschen Jägern, verschuldete sich existenziell und schrieb an seinen Bruder Heinrich:\nIm Ergebnis der Verhandlungen auf dem Wiener Kongress wurde Friedrichs Heimat Greifswald, bis dahin Schwedisch-Pommern zugehörig, im Oktober 1815 preußische Provinz Pommern.",
    "section": "Leben"
   },
-  "f64": {
+  "f51": {
    "kind": "date",
    "value": "1815",
    "surface": "1815",
    "sentence": "Friedrich beteiligte sich 1813 an der Finanzierung der Ausrüstung seines Freundes, des Malers Georg Friedrich Kersting für den Dienst bei den Lützowschen Jägern, verschuldete sich existenziell und schrieb an seinen Bruder Heinrich:\nIm Ergebnis der Verhandlungen auf dem Wiener Kongress wurde Friedrichs Heimat Greifswald, bis dahin Schwedisch-Pommern zugehörig, im Oktober 1815 preußische Provinz Pommern.",
    "section": "Leben"
   },
-  "f65": {
+  "f52": {
    "kind": "date",
    "value": "1806",
    "surface": "1806",
    "sentence": "Die Einführung der schwedischen Verfassung in Pommern war zwar 1806 geplant, aber wegen der Napoleonischen Kriege und der Absetzung des schwedischen Königs Gustav IV.",
    "section": "Leben"
   },
-  "f66": {
+  "f53": {
    "kind": "date",
    "value": "1809",
    "surface": "1809",
    "sentence": "Adolf 1809 nicht verwirklicht worden.",
    "section": "Leben"
   },
-  "f67": {
+  "f54": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Als er ab 4. Dezember 1816 als Mitglied der Dresdner Akademie ein Gehalt von 150 Talern bezog, wollte er sich eine Familie leisten, obwohl er von Helene von Kügelgen, der Frau seines Freundes Gerhard von Kügelgen, als der „Unpaarste aller Unpaaren“ gesehen wurde.",
+   "sentence": "Als er ab 4. Dezember 1816 als Mitglied der Dresdner Akademie ein Gehalt von 150 Talern bezog, wollte er sich eine Familie leisten, obwohl er von Helene von Kügelgen, der Frau seines Freundes Gerhard von Kügelgen, als der „Unpaarste aller Unpaaren“gesehen wurde.",
    "section": "Leben"
   },
-  "f68": {
+  "f55": {
    "kind": "date",
    "value": "1816",
    "surface": "1816",
-   "sentence": "Als er ab 4. Dezember 1816 als Mitglied der Dresdner Akademie ein Gehalt von 150 Talern bezog, wollte er sich eine Familie leisten, obwohl er von Helene von Kügelgen, der Frau seines Freundes Gerhard von Kügelgen, als der „Unpaarste aller Unpaaren“ gesehen wurde.",
+   "sentence": "Als er ab 4. Dezember 1816 als Mitglied der Dresdner Akademie ein Gehalt von 150 Talern bezog, wollte er sich eine Familie leisten, obwohl er von Helene von Kügelgen, der Frau seines Freundes Gerhard von Kügelgen, als der „Unpaarste aller Unpaaren“gesehen wurde.",
    "section": "Leben"
   },
-  "f69": {
+  "f56": {
    "kind": "number",
    "value": 150,
    "surface": "150",
-   "sentence": "Als er ab 4. Dezember 1816 als Mitglied der Dresdner Akademie ein Gehalt von 150 Talern bezog, wollte er sich eine Familie leisten, obwohl er von Helene von Kügelgen, der Frau seines Freundes Gerhard von Kügelgen, als der „Unpaarste aller Unpaaren“ gesehen wurde.",
+   "sentence": "Als er ab 4. Dezember 1816 als Mitglied der Dresdner Akademie ein Gehalt von 150 Talern bezog, wollte er sich eine Familie leisten, obwohl er von Helene von Kügelgen, der Frau seines Freundes Gerhard von Kügelgen, als der „Unpaarste aller Unpaaren“gesehen wurde.",
    "section": "Leben"
   },
-  "f70": {
+  "f57": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche.",
    "section": "Leben"
   },
-  "f71": {
+  "f58": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche.",
    "section": "Leben"
   },
-  "f72": {
+  "f59": {
    "kind": "measure",
    "value": 19,
    "unit": "jahre",
@@ -545,161 +458,161 @@
    "sentence": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche.",
    "section": "Leben"
   },
-  "f73": {
+  "f60": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Im Sommer 1818 unternahmen die Eheleute ihre Hochzeitsreise nach Neubrandenburg, Greifswald und Rügen.",
    "section": "Leben"
   },
-  "f74": {
+  "f61": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "Die Familie bezog 1820 eine größere Wohnung in Dresden an der Elbe 33. Auch die berufliche Situation verbesserte sich.",
    "section": "Leben"
   },
-  "f75": {
+  "f62": {
    "kind": "number",
    "value": 33,
    "surface": "33",
    "sentence": "Die Familie bezog 1820 eine größere Wohnung in Dresden an der Elbe 33. Auch die berufliche Situation verbesserte sich.",
    "section": "Leben"
   },
-  "f76": {
+  "f63": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Am 12. Februar 1818 starb Franz Christian Boll in Neubrandenburg.",
    "section": "Leben"
   },
-  "f77": {
+  "f64": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Am 12. Februar 1818 starb Franz Christian Boll in Neubrandenburg.",
    "section": "Leben"
   },
-  "f78": {
+  "f65": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "In den Jahren 1818 und 1819 entstand eine Reihe von Gemälden, die als Gedächtnisbilder für Boll gelesen werden können, wie Der Wanderer über dem Nebelmeer oder die Gartenlaube.",
    "section": "Leben"
   },
-  "f79": {
+  "f66": {
    "kind": "date",
    "value": "1819",
    "surface": "1819",
    "sentence": "In den Jahren 1818 und 1819 entstand eine Reihe von Gemälden, die als Gedächtnisbilder für Boll gelesen werden können, wie Der Wanderer über dem Nebelmeer oder die Gartenlaube.",
    "section": "Leben"
   },
-  "f80": {
+  "f67": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Der Maler hatte 1818 mit dem Universalgelehrten, Maler und späteren Leibarzt des sächsischen Königshauses Carl Gustav Carus einen gesellschaftlich einflussreichen Freund gewonnen, der ihn später immer wieder auch finanziell unterstützte.",
    "section": "Leben"
   },
-  "f81": {
+  "f68": {
    "kind": "date",
    "value": "1820",
    "surface": "1820",
    "sentence": "1820 wurde sein Malerfreund Gerhard von Kügelgen von einem Raubmörder erschlagen, dem Soldaten Johann Gottfried Kaltofen.",
    "section": "Leben"
   },
-  "f82": {
+  "f69": {
    "kind": "date",
    "value": "1822",
    "surface": "1822",
    "sentence": "1822 entstand das Gemälde Kügelgens Grab.",
    "section": "Leben"
   },
-  "f83": {
+  "f70": {
    "kind": "date",
    "value": "1821",
    "surface": "1821",
    "sentence": "Als ein Glücksfall erwies sich der Besuch Wassili Andrejewitsch Schukowskis 1821 im Atelier.",
    "section": "Leben"
   },
-  "f84": {
+  "f71": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Am 17. Januar 1824 wurde der Maler zum außerordentlichen Professor an der Dresdner Akademie ernannt.",
    "section": "Leben"
   },
-  "f85": {
+  "f72": {
    "kind": "date",
    "value": "1824",
    "surface": "1824",
    "sentence": "Am 17. Januar 1824 wurde der Maler zum außerordentlichen Professor an der Dresdner Akademie ernannt.",
    "section": "Leben"
   },
-  "f86": {
+  "f73": {
    "kind": "date",
    "value": "1826",
    "surface": "1826",
    "sentence": "Im Sommer 1826 reiste der Maler zur Kur nach Rügen, um nicht näher zu bezeichnende Beschwerden zu lindern.",
    "section": "Leben"
   },
-  "f87": {
+  "f74": {
    "kind": "date",
    "value": "1828",
    "surface": "1828",
    "sentence": "1828 wurde Friedrich Mitglied des neu gegründeten Sächsischen Kunstvereins.",
    "section": "Leben"
   },
-  "f88": {
+  "f75": {
    "kind": "date",
    "value": "1830",
    "surface": "1830",
    "sentence": "Mit dem Jahr 1830 begann noch einmal eine Zeit zunehmender künstlerischer Produktivität, in der bedeutende Gemälde von hoher Meisterschaft entstanden wie Das Große Gehege oder Die Lebensstufen.",
    "section": "Leben"
   },
-  "f89": {
+  "f76": {
    "kind": "number",
    "value": 26,
    "surface": "26",
    "sentence": "Am 26. Juni 1835 erlitt der Maler einen Schlaganfall mit Lähmungserscheinungen.",
    "section": "Leben"
   },
-  "f90": {
+  "f77": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Am 26. Juni 1835 erlitt der Maler einen Schlaganfall mit Lähmungserscheinungen.",
    "section": "Leben"
   },
-  "f91": {
+  "f78": {
    "kind": "date",
    "value": "1835",
    "surface": "1835",
    "sentence": "Dennoch entstand 1835/36 noch das Ölgemälde Meeresufer bei Mondschein.",
    "section": "Leben"
   },
-  "f92": {
+  "f79": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "Meist entstanden nun bis 1839 Sepiazeichnungen und Aquarelle, weniger Landschaften und mehr Todesallegorien.",
    "section": "Leben"
   },
-  "f93": {
+  "f80": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "Zu den Dresdner Kunstausstellungen 1836 und 1838 schickte Friedrich einige Sepiazeichnungen.",
    "section": "Leben"
   },
-  "f94": {
+  "f81": {
    "kind": "date",
    "value": "1838",
    "surface": "1838",
    "sentence": "Zu den Dresdner Kunstausstellungen 1836 und 1838 schickte Friedrich einige Sepiazeichnungen.",
    "section": "Leben"
   },
-  "f95": {
+  "f82": {
    "kind": "measure",
    "value": 65,
    "unit": "jahren",
@@ -707,42 +620,42 @@
    "sentence": "Friedrich starb mit 65 Jahren am 7. Mai 1840 in Dresden und wurde auf dem Trinitatisfriedhof beigesetzt.",
    "section": "Leben"
   },
-  "f96": {
+  "f83": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Friedrich starb mit 65 Jahren am 7. Mai 1840 in Dresden und wurde auf dem Trinitatisfriedhof beigesetzt.",
    "section": "Leben"
   },
-  "f97": {
+  "f84": {
    "kind": "date",
    "value": "1840",
    "surface": "1840",
    "sentence": "Friedrich starb mit 65 Jahren am 7. Mai 1840 in Dresden und wurde auf dem Trinitatisfriedhof beigesetzt.",
    "section": "Leben"
   },
-  "f98": {
+  "f85": {
    "kind": "number",
    "value": 250,
    "surface": "250",
    "sentence": "Anlässlich des 250.",
    "section": "Leben"
   },
-  "f99": {
+  "f86": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Am 22. November 2024 wurde an der Stelle des ehemaligen Wohnhauses, in dem Caspar David Friederich und Frau und Johann Christian Clausen Dahl wohnten, am heutigen Terrassenufer 15 eine zweisprachige Doppelgedenktafel als Beginn eines neuen geplanten Romantik-Wanderweges enthüllt.",
    "section": "Leben"
   },
-  "f100": {
+  "f87": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "Am 22. November 2024 wurde an der Stelle des ehemaligen Wohnhauses, in dem Caspar David Friederich und Frau und Johann Christian Clausen Dahl wohnten, am heutigen Terrassenufer 15 eine zweisprachige Doppelgedenktafel als Beginn eines neuen geplanten Romantik-Wanderweges enthüllt.",
    "section": "Leben"
   },
-  "f101": {
+  "f88": {
    "kind": "number",
    "value": 15,
    "surface": "15",

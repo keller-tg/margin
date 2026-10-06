@@ -97,7 +97,7 @@
    "kind": "date",
    "value": "1766",
    "surface": "1766",
-   "sentence": "When electric eels were described by Carl Linnaeus in 1766, based on early field research by Europeans in South America and specimens sent back to Europe for study, he used the name Gymnotus electricus, placing it in the same genus as Gymnotus carapo (the banded knifefish).",
+   "sentence": "When electric eels were described by Carl Linnaeus in 1766, based on early field research by Europeans in South America and specimens sent back to Europe for study, he used the name Gymnotus electricus, placing it in the same genus as Gymnotus carapo.",
    "section": "Evolution"
   },
   "f7": {
@@ -151,19 +151,12 @@
   },
   "f14": {
    "kind": "date",
-   "value": "1766",
-   "surface": "1766",
-   "sentence": "There are three described species in the genus, not differing significantly in body shape or coloration:\nElectrophorus electricus (Linnaeus, 1766) This, the type species, has a U-shaped head, with a flattened skull and cleithrum.",
-   "section": "Evolution"
-  },
-  "f15": {
-   "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Electrophorus voltai de Santana, Wosiacki, Crampton, Mark H. Sabaj, Dillman, Castro e Castro, Bastos and Vari, 2019 This species is the strongest bioelectricity generator in nature, capable of 860 V. Like E. electricus, this species has a flattened skull and cleithrum but the head is more egg-shaped.",
    "section": "Evolution"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 860,
    "unit": "v",
@@ -171,94 +164,72 @@
    "sentence": "Electrophorus voltai de Santana, Wosiacki, Crampton, Mark H. Sabaj, Dillman, Castro e Castro, Bastos and Vari, 2019 This species is the strongest bioelectricity generator in nature, capable of 860 V. Like E. electricus, this species has a flattened skull and cleithrum but the head is more egg-shaped.",
    "section": "Evolution"
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Electrophorus varii de Santana, Wosiacki, Crampton, Mark H. Sabaj, Dillman, Mendes-Júnior and Castro e Castro, 2019 Compared to the other two species, this one has a thicker skull and cleithrum but the head shape is more variable.",
    "section": "Evolution"
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 7.1,
    "surface": "7.1",
    "sentence": "E. varii appears to have diverged from the other species around 7.1 mya during the late Miocene, while E. electricus and E. voltai may have split around 3.6 mya during the Pliocene.",
    "section": "Evolution"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 3.6,
    "surface": "3.6",
    "sentence": "E. varii appears to have diverged from the other species around 7.1 mya during the late Miocene, while E. electricus and E. voltai may have split around 3.6 mya during the Pliocene.",
    "section": "Evolution"
   },
-  "f20": {
+  "f19": {
    "kind": "measure",
    "value": 2,
    "unit": "m",
    "surface": "2 m",
-   "sentence": "E. electricus can reach 2 m (6 ft 7 in) in length, and 20 kg (44 lb) in weight.",
+   "sentence": "E. electricus can reach 2 m in length, and 20 kg in weight.",
    "section": "Biology"
   },
-  "f21": {
-   "kind": "measure",
-   "value": 6,
-   "unit": "ft",
-   "surface": "6 ft",
-   "sentence": "E. electricus can reach 2 m (6 ft 7 in) in length, and 20 kg (44 lb) in weight.",
-   "section": "Biology"
-  },
-  "f22": {
-   "kind": "number",
-   "value": 7,
-   "surface": "7",
-   "sentence": "E. electricus can reach 2 m (6 ft 7 in) in length, and 20 kg (44 lb) in weight.",
-   "section": "Biology"
-  },
-  "f23": {
+  "f20": {
    "kind": "measure",
    "value": 20,
    "unit": "kg",
    "surface": "20 kg",
-   "sentence": "E. electricus can reach 2 m (6 ft 7 in) in length, and 20 kg (44 lb) in weight.",
+   "sentence": "E. electricus can reach 2 m in length, and 20 kg in weight.",
    "section": "Biology"
   },
-  "f24": {
-   "kind": "number",
-   "value": 44,
-   "surface": "44",
-   "sentence": "E. electricus can reach 2 m (6 ft 7 in) in length, and 20 kg (44 lb) in weight.",
-   "section": "Biology"
-  },
-  "f25": {
+  "f21": {
    "kind": "number",
    "value": 100,
    "surface": "100",
-   "sentence": "They have over 100 precaudal vertebrae (excluding the tail), whereas other gymnotids have up to 51; in total, there can be as many as 300 vertebrae.",
+   "sentence": "They have over 100 precaudal vertebrae, whereas other gymnotids have up to 51; in total, there can be as many as 300 vertebrae.",
    "section": "Biology"
   },
-  "f26": {
+  "f22": {
    "kind": "number",
    "value": 51,
    "surface": "51",
-   "sentence": "They have over 100 precaudal vertebrae (excluding the tail), whereas other gymnotids have up to 51; in total, there can be as many as 300 vertebrae.",
+   "sentence": "They have over 100 precaudal vertebrae, whereas other gymnotids have up to 51; in total, there can be as many as 300 vertebrae.",
    "section": "Biology"
   },
-  "f27": {
+  "f23": {
    "kind": "number",
    "value": 300,
    "surface": "300",
-   "sentence": "They have over 100 precaudal vertebrae (excluding the tail), whereas other gymnotids have up to 51; in total, there can be as many as 300 vertebrae.",
+   "sentence": "They have over 100 precaudal vertebrae, whereas other gymnotids have up to 51; in total, there can be as many as 300 vertebrae.",
    "section": "Biology"
   },
-  "f28": {
+  "f24": {
    "kind": "number",
    "value": 400,
    "surface": "400",
    "sentence": "There is no clear boundary between the tail fin and the anal fin, which extends much of the length of the body on the underside and has over 400 bony rays.",
    "section": "Biology"
   },
-  "f29": {
+  "f25": {
    "kind": "measure",
    "value": 20,
    "unit": "%",
@@ -266,14 +237,14 @@
    "sentence": "All of the vital organs are packed near the front of the animal, taking up only 20% of space and sequestered from the electric organs.",
    "section": "Biology"
   },
-  "f30": {
+  "f26": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Five different forms of desmin occur in electrocytes, compared to two or three in muscle, but its function in electrocytes remained unknown as of 2017.",
    "section": "Biology"
   },
-  "f31": {
+  "f27": {
    "kind": "measure",
    "value": 600,
    "unit": "volts",
@@ -281,35 +252,35 @@
    "sentence": "The maximum discharge from the main organ is at least 600 volts, making electric eels the most powerful of all electric fishes.",
    "section": "Biology"
   },
-  "f32": {
+  "f28": {
    "kind": "date",
    "value": "500",
    "surface": "500",
    "sentence": "The electric eel produces its strong discharge extremely rapidly, at a rate of as much as 500 Hertz, meaning that each shock lasts only about two milliseconds.",
    "section": "Biology"
   },
-  "f33": {
+  "f29": {
    "kind": "number",
    "value": 6000,
    "surface": "6,000",
-   "sentence": "To generate a high voltage, an electric eel stacks some 6,000 electrocytes in series (longitudinally) in its main organ; the organ contains some 35 such stacks in parallel, on each side of the body.",
+   "sentence": "To generate a high voltage, an electric eel stacks some 6,000 electrocytes in series in its main organ; the organ contains some 35 such stacks in parallel, on each side of the body.",
    "section": "Biology"
   },
-  "f34": {
+  "f30": {
    "kind": "number",
    "value": 35,
    "surface": "35",
-   "sentence": "To generate a high voltage, an electric eel stacks some 6,000 electrocytes in series (longitudinally) in its main organ; the organ contains some 35 such stacks in parallel, on each side of the body.",
+   "sentence": "To generate a high voltage, an electric eel stacks some 6,000 electrocytes in series in its main organ; the organ contains some 35 such stacks in parallel, on each side of the body.",
    "section": "Biology"
   },
-  "f35": {
+  "f31": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "The maximum electric current delivered during each pulse can reach about 1 ampere at 500V.",
    "section": "Biology"
   },
-  "f36": {
+  "f32": {
    "kind": "measure",
    "value": 500,
    "unit": "v",
@@ -317,21 +288,21 @@
    "sentence": "The maximum electric current delivered during each pulse can reach about 1 ampere at 500V.",
    "section": "Biology"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "In 2021, Jun Xu and colleagues stated that Hunter's organ produces a third type of discharge at a middle voltage of 38.5 to 56.5 volts.",
    "section": "Biology"
   },
-  "f38": {
+  "f34": {
    "kind": "number",
    "value": 38.5,
    "surface": "38.5",
    "sentence": "In 2021, Jun Xu and colleagues stated that Hunter's organ produces a third type of discharge at a middle voltage of 38.5 to 56.5 volts.",
    "section": "Biology"
   },
-  "f39": {
+  "f35": {
    "kind": "measure",
    "value": 56.5,
    "unit": "volts",
@@ -339,14 +310,14 @@
    "sentence": "In 2021, Jun Xu and colleagues stated that Hunter's organ produces a third type of discharge at a middle voltage of 38.5 to 56.5 volts.",
    "section": "Biology"
   },
-  "f40": {
+  "f36": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Their measurements indicate that this is produced just once, for less than 2 milliseconds, after the low-voltage discharge of Sachs's organ and before the high-voltage discharge of the main organ.",
    "section": "Biology"
   },
-  "f41": {
+  "f37": {
    "kind": "measure",
    "value": 10,
    "unit": "volts",
@@ -354,7 +325,7 @@
    "sentence": "It has been suggested that Sachs' organ is used for electrolocation; its discharge is of nearly 10 volts at a frequency of around 25 Hz.",
    "section": "Biology"
   },
-  "f42": {
+  "f38": {
    "kind": "measure",
    "value": 25,
    "unit": "hz",
@@ -362,90 +333,46 @@
    "sentence": "It has been suggested that Sachs' organ is used for electrolocation; its discharge is of nearly 10 volts at a frequency of around 25 Hz.",
    "section": "Biology"
   },
-  "f43": {
+  "f39": {
    "kind": "number",
    "value": 1200,
    "surface": "1,200",
    "sentence": "The male makes a nest using his saliva and the female deposits around 1,200 eggs for fertilisation.",
    "section": "Life cycle"
   },
-  "f44": {
+  "f40": {
    "kind": "measure",
    "value": 15,
    "unit": "mm",
    "surface": "15 mm",
-   "sentence": "When they reach 15 mm (0.59 in), the hatched larvae consume any leftover eggs, and after they reach 9 cm (3.5 in) they begin to eat other foods.",
+   "sentence": "When they reach 15 mm, the hatched larvae consume any leftover eggs, and after they reach 9 cm they begin to eat other foods.",
    "section": "Life cycle"
   },
-  "f45": {
-   "kind": "number",
-   "value": 0.59,
-   "surface": "0.59",
-   "sentence": "When they reach 15 mm (0.59 in), the hatched larvae consume any leftover eggs, and after they reach 9 cm (3.5 in) they begin to eat other foods.",
-   "section": "Life cycle"
-  },
-  "f46": {
+  "f41": {
    "kind": "measure",
    "value": 9,
    "unit": "cm",
    "surface": "9 cm",
-   "sentence": "When they reach 15 mm (0.59 in), the hatched larvae consume any leftover eggs, and after they reach 9 cm (3.5 in) they begin to eat other foods.",
+   "sentence": "When they reach 15 mm, the hatched larvae consume any leftover eggs, and after they reach 9 cm they begin to eat other foods.",
    "section": "Life cycle"
   },
-  "f47": {
-   "kind": "number",
-   "value": 3.5,
-   "surface": "3.5",
-   "sentence": "When they reach 15 mm (0.59 in), the hatched larvae consume any leftover eggs, and after they reach 9 cm (3.5 in) they begin to eat other foods.",
-   "section": "Life cycle"
-  },
-  "f48": {
+  "f42": {
    "kind": "measure",
    "value": 1.2,
    "unit": "m",
    "surface": "1.2 m",
-   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m (3 ft 11 in) in length and growing larger than females; females start to reproduce at a body length of around 70 cm (2 ft 4 in).",
+   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m in length and growing larger than females; females start to reproduce at a body length of around 70 cm.",
    "section": "Life cycle"
   },
-  "f49": {
-   "kind": "measure",
-   "value": 3,
-   "unit": "ft",
-   "surface": "3 ft",
-   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m (3 ft 11 in) in length and growing larger than females; females start to reproduce at a body length of around 70 cm (2 ft 4 in).",
-   "section": "Life cycle"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 11,
-   "surface": "11",
-   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m (3 ft 11 in) in length and growing larger than females; females start to reproduce at a body length of around 70 cm (2 ft 4 in).",
-   "section": "Life cycle"
-  },
-  "f51": {
+  "f43": {
    "kind": "measure",
    "value": 70,
    "unit": "cm",
    "surface": "70 cm",
-   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m (3 ft 11 in) in length and growing larger than females; females start to reproduce at a body length of around 70 cm (2 ft 4 in).",
+   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m in length and growing larger than females; females start to reproduce at a body length of around 70 cm.",
    "section": "Life cycle"
   },
-  "f52": {
-   "kind": "measure",
-   "value": 2,
-   "unit": "ft",
-   "surface": "2 ft",
-   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m (3 ft 11 in) in length and growing larger than females; females start to reproduce at a body length of around 70 cm (2 ft 4 in).",
-   "section": "Life cycle"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Electric eels are sexually dimorphic, males becoming reproductively active at 1.2 m (3 ft 11 in) in length and growing larger than females; females start to reproduce at a body length of around 70 cm (2 ft 4 in).",
-   "section": "Life cycle"
-  },
-  "f54": {
+  "f44": {
    "kind": "measure",
    "value": 20,
    "unit": "years",
@@ -453,190 +380,145 @@
    "sentence": "Captive specimens have sometimes lived for over 20 years.",
    "section": "Life cycle"
   },
-  "f55": {
+  "f45": {
    "kind": "measure",
    "value": 23,
    "unit": "cm",
    "surface": "23 cm",
-   "sentence": "All the electric organs are differentiated by the time the body reaches a length of 23 cm (9.1 in).",
+   "sentence": "All the electric organs are differentiated by the time the body reaches a length of 23 cm.",
    "section": "Life cycle"
   },
-  "f56": {
-   "kind": "number",
-   "value": 9.1,
-   "surface": "9.1",
-   "sentence": "All the electric organs are differentiated by the time the body reaches a length of 23 cm (9.1 in).",
-   "section": "Life cycle"
-  },
-  "f57": {
+  "f46": {
    "kind": "measure",
    "value": 7,
    "unit": "cm",
    "surface": "7 cm",
-   "sentence": "Electric eels are able to produce electrical discharges when they are as small as 7 cm (2.8 in).",
+   "sentence": "Electric eels are able to produce electrical discharges when they are as small as 7 cm.",
    "section": "Life cycle"
   },
-  "f58": {
-   "kind": "number",
-   "value": 2.8,
-   "surface": "2.8",
-   "sentence": "Electric eels are able to produce electrical discharges when they are as small as 7 cm (2.8 in).",
-   "section": "Life cycle"
-  },
-  "f59": {
+  "f47": {
    "kind": "date",
    "value": "1583",
    "surface": "1583",
-   "sentence": "The first written mention of the electric eel or puraké ('the one that numbs' in Tupi) is in records by the Jesuit priest Fernão Cardim in 1583.",
+   "sentence": "The first written mention of the electric eel or puraké is in records by the Jesuit priest Fernão Cardim in 1583.",
    "section": "Interactions with humans"
   },
-  "f60": {
+  "f48": {
    "kind": "date",
    "value": "1775",
    "surface": "1775",
-   "sentence": "In 1775, the \"torpedo\" (the electric ray) was studied by John Walsh; both fish were dissected by the surgeon and anatomist John Hunter.",
+   "sentence": "In 1775, the \"torpedo\"was studied by John Walsh; both fish were dissected by the surgeon and anatomist John Hunter.",
    "section": "Interactions with humans"
   },
-  "f61": {
+  "f49": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "He measured the electrocytes as 1⁄17 inch (1.5 mm) thick in the main organ, and 1⁄56 inch (0.45 mm) thick in Hunter's organ.",
+   "sentence": "He described the structure of the organs as \"extremely simple and regular, consisting of two parts; viz. flat partitions or septa, and cross divisions between them.\"He measured the electrocytes as 1⁄17 inch thick in the main organ, and 1⁄56 inch thick in Hunter's organ.",
    "section": "Interactions with humans"
   },
-  "f62": {
+  "f50": {
    "kind": "measure",
    "value": 17,
    "unit": "inch",
    "surface": "17 inch",
-   "sentence": "He measured the electrocytes as 1⁄17 inch (1.5 mm) thick in the main organ, and 1⁄56 inch (0.45 mm) thick in Hunter's organ.",
+   "sentence": "He described the structure of the organs as \"extremely simple and regular, consisting of two parts; viz. flat partitions or septa, and cross divisions between them.\"He measured the electrocytes as 1⁄17 inch thick in the main organ, and 1⁄56 inch thick in Hunter's organ.",
    "section": "Interactions with humans"
   },
-  "f63": {
-   "kind": "measure",
-   "value": 1.5,
-   "unit": "mm",
-   "surface": "1.5 mm",
-   "sentence": "He measured the electrocytes as 1⁄17 inch (1.5 mm) thick in the main organ, and 1⁄56 inch (0.45 mm) thick in Hunter's organ.",
-   "section": "Interactions with humans"
-  },
-  "f64": {
+  "f51": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "He measured the electrocytes as 1⁄17 inch (1.5 mm) thick in the main organ, and 1⁄56 inch (0.45 mm) thick in Hunter's organ.",
+   "sentence": "He described the structure of the organs as \"extremely simple and regular, consisting of two parts; viz. flat partitions or septa, and cross divisions between them.\"He measured the electrocytes as 1⁄17 inch thick in the main organ, and 1⁄56 inch thick in Hunter's organ.",
    "section": "Interactions with humans"
   },
-  "f65": {
+  "f52": {
    "kind": "measure",
    "value": 56,
    "unit": "inch",
    "surface": "56 inch",
-   "sentence": "He measured the electrocytes as 1⁄17 inch (1.5 mm) thick in the main organ, and 1⁄56 inch (0.45 mm) thick in Hunter's organ.",
+   "sentence": "He described the structure of the organs as \"extremely simple and regular, consisting of two parts; viz. flat partitions or septa, and cross divisions between them.\"He measured the electrocytes as 1⁄17 inch thick in the main organ, and 1⁄56 inch thick in Hunter's organ.",
    "section": "Interactions with humans"
   },
-  "f66": {
-   "kind": "measure",
-   "value": 0.45,
-   "unit": "mm",
-   "surface": "0.45 mm",
-   "sentence": "He measured the electrocytes as 1⁄17 inch (1.5 mm) thick in the main organ, and 1⁄56 inch (0.45 mm) thick in Hunter's organ.",
-   "section": "Interactions with humans"
-  },
-  "f67": {
+  "f53": {
    "kind": "date",
    "value": "1775",
    "surface": "1775",
-   "sentence": "Also in 1775, the American physician and politician Hugh Williamson, who had studied with Hunter, presented a paper \"Experiments and observations on the Gymnotus Electricus, or electric eel\" at the Royal Society.",
+   "sentence": "Also in 1775, the American physician and politician Hugh Williamson, who had studied with Hunter, presented a paper \"Experiments and observations on the Gymnotus Electricus, or electric eel\"at the Royal Society.",
    "section": "Interactions with humans"
   },
-  "f68": {
+  "f54": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "He reported a series of experiments, such as \"7.",
    "section": "Interactions with humans"
   },
-  "f69": {
+  "f55": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "[and] gave it a shock, by which it instantly turned up its belly, and continued motionless; at that very instant I felt such a sensation in the joints of my fingers as in experiment 4.\" and \"12.",
+   "sentence": "In order to discover whether the eel killed those fish by an emission of the same fluid with which he affected my hand when I had touched him, I put my hand into the water, at some distance from the eel; another cat-fish was thrown into the water; the eel swam up to it... gave it a shock, by which it instantly turned up its belly, and continued motionless; at that very instant I felt such a sensation in the joints of my fingers as in experiment 4.\"and \"12.",
    "section": "Interactions with humans"
   },
-  "f70": {
+  "f56": {
    "kind": "number",
    "value": 12,
    "surface": "12",
-   "sentence": "[and] gave it a shock, by which it instantly turned up its belly, and continued motionless; at that very instant I felt such a sensation in the joints of my fingers as in experiment 4.\" and \"12.",
+   "sentence": "In order to discover whether the eel killed those fish by an emission of the same fluid with which he affected my hand when I had touched him, I put my hand into the water, at some distance from the eel; another cat-fish was thrown into the water; the eel swam up to it... gave it a shock, by which it instantly turned up its belly, and continued motionless; at that very instant I felt such a sensation in the joints of my fingers as in experiment 4.\"and \"12.",
    "section": "Interactions with humans"
   },
-  "f71": {
+  "f57": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
    "sentence": "In 1800, the explorer Alexander von Humboldt joined a group of indigenous people who went fishing with horses, some thirty of which they chased into the water.",
    "section": "Interactions with humans"
   },
-  "f72": {
+  "f58": {
    "kind": "measure",
    "value": 5,
    "unit": "feet",
    "surface": "5 feet",
-   "sentence": "The pounding of the horses' hooves, he noted, drove the fish, up to 5 feet (1.5 m) long out of the mud and prompted them to attack, rising out of the water and using their electricity to shock the horses.",
+   "sentence": "The pounding of the horses' hooves, he noted, drove the fish, up to 5 feet long out of the mud and prompted them to attack, rising out of the water and using their electricity to shock the horses.",
    "section": "Interactions with humans"
   },
-  "f73": {
-   "kind": "measure",
-   "value": 1.5,
-   "unit": "m",
-   "surface": "1.5 m",
-   "sentence": "The pounding of the horses' hooves, he noted, drove the fish, up to 5 feet (1.5 m) long out of the mud and prompted them to attack, rising out of the water and using their electricity to shock the horses.",
-   "section": "Interactions with humans"
-  },
-  "f74": {
+  "f59": {
    "kind": "date",
    "value": "1839",
    "surface": "1839",
    "sentence": "In 1839, the chemist Michael Faraday extensively tested the electrical properties of an electric eel imported from Surinam.",
    "section": "Interactions with humans"
   },
-  "f75": {
+  "f60": {
    "kind": "number",
    "value": 23000,
    "surface": "23,000",
-   "sentence": "He likened the quantity of electric charge released by the fish to \"the electricity of a Leyden battery of fifteen jars, containing 23,000 cm2 (3,500 sq in) of glass coated on both sides, charged to its highest degree\".",
+   "sentence": "He likened the quantity of electric charge released by the fish to \"the electricity of a Leyden battery of fifteen jars, containing 23,000 cm2 of glass coated on both sides, charged to its highest degree\".",
    "section": "Interactions with humans"
   },
-  "f76": {
-   "kind": "number",
-   "value": 3500,
-   "surface": "3,500",
-   "sentence": "He likened the quantity of electric charge released by the fish to \"the electricity of a Leyden battery of fifteen jars, containing 23,000 cm2 (3,500 sq in) of glass coated on both sides, charged to its highest degree\".",
-   "section": "Interactions with humans"
-  },
-  "f77": {
+  "f61": {
    "kind": "date",
    "value": "1877",
    "surface": "1877",
    "sentence": "He published his research on the fish, including his discovery of what is now called Sachs' organ, in 1877.",
    "section": "Interactions with humans"
   },
-  "f78": {
+  "f62": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "In 2008, Jian Xu and David Lavan designed artificial cells that would be able to replicate the electrical behaviour of electric eel electrocytes.",
    "section": "Interactions with humans"
   },
-  "f79": {
+  "f63": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "In 2009, they made synthetic protocells which can provide about a twentieth of the energy density of a lead–acid battery, and an energy conversion efficiency of 10%.",
    "section": "Interactions with humans"
   },
-  "f80": {
+  "f64": {
    "kind": "measure",
    "value": 10,
    "unit": "%",
@@ -644,7 +526,7 @@
    "sentence": "In 2009, they made synthetic protocells which can provide about a twentieth of the energy density of a lead–acid battery, and an energy conversion efficiency of 10%.",
    "section": "Interactions with humans"
   },
-  "f81": {
+  "f65": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",

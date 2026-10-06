@@ -101,14 +101,14 @@
    "value": 138000,
    "unit": "km²",
    "surface": "138.000 km²",
-   "sentence": "Es bedeckt eine Fläche von 138.000 km² und ist im Nordbecken (nördlich des Vorgebirges Monte Gargano, der Sporn des italienischen Stiefels) zwischen 40 und 200 m tief.",
+   "sentence": "Es bedeckt eine Fläche von 138.000 km² und ist im Nordbecken zwischen 40 und 200 m tief.",
    "section": "Geografie"
   },
   "f6": {
    "kind": "number",
    "value": 40,
    "surface": "40",
-   "sentence": "Es bedeckt eine Fläche von 138.000 km² und ist im Nordbecken (nördlich des Vorgebirges Monte Gargano, der Sporn des italienischen Stiefels) zwischen 40 und 200 m tief.",
+   "sentence": "Es bedeckt eine Fläche von 138.000 km² und ist im Nordbecken zwischen 40 und 200 m tief.",
    "section": "Geografie"
   },
   "f7": {
@@ -116,7 +116,7 @@
    "value": 200,
    "unit": "m",
    "surface": "200 m",
-   "sentence": "Es bedeckt eine Fläche von 138.000 km² und ist im Nordbecken (nördlich des Vorgebirges Monte Gargano, der Sporn des italienischen Stiefels) zwischen 40 und 200 m tief.",
+   "sentence": "Es bedeckt eine Fläche von 138.000 km² und ist im Nordbecken zwischen 40 und 200 m tief.",
    "section": "Geografie"
   },
   "f8": {
@@ -168,31 +168,17 @@
    "kind": "date",
    "value": "1900",
    "surface": "1900",
-   "sentence": "So wird die Angabe in den jugoslawischen Nachfolgestaaten auf den mittleren Pegelstand am Molo Sartorio aus dem Jahr 1900 (Pegel Triest 1900) bezogen, während eine gleichlautende Höhendefinition für Albanien auf den Pegel Durrës, den mittleren Pegelstand in der Stadt Durrës, bezogen ist.",
+   "sentence": "So wird die Angabe in den jugoslawischen Nachfolgestaaten auf den mittleren Pegelstand am Molo Sartorio aus dem Jahr 1900 bezogen, während eine gleichlautende Höhendefinition für Albanien auf den Pegel Durrës, den mittleren Pegelstand in der Stadt Durrës, bezogen ist.",
    "section": "Geografie"
   },
   "f15": {
    "kind": "date",
-   "value": "1900",
-   "surface": "1900",
-   "sentence": "So wird die Angabe in den jugoslawischen Nachfolgestaaten auf den mittleren Pegelstand am Molo Sartorio aus dem Jahr 1900 (Pegel Triest 1900) bezogen, während eine gleichlautende Höhendefinition für Albanien auf den Pegel Durrës, den mittleren Pegelstand in der Stadt Durrës, bezogen ist.",
+   "value": "1875",
+   "surface": "1875",
+   "sentence": "In Österreich wird der Pegel auf einen im Jahre 1875 festgelegten mittleren Pegelstand der Adria am Molo Sartorio von Triest verwendet.",
    "section": "Geografie"
   },
   "f16": {
-   "kind": "date",
-   "value": "1875",
-   "surface": "1875",
-   "sentence": "In Österreich wird der Pegel auf einen im Jahre 1875 festgelegten mittleren Pegelstand der Adria am Molo Sartorio von Triest (Pegel Triest 1875) verwendet.",
-   "section": "Geografie"
-  },
-  "f17": {
-   "kind": "date",
-   "value": "1875",
-   "surface": "1875",
-   "sentence": "In Österreich wird der Pegel auf einen im Jahre 1875 festgelegten mittleren Pegelstand der Adria am Molo Sartorio von Triest (Pegel Triest 1875) verwendet.",
-   "section": "Geografie"
-  },
-  "f18": {
    "kind": "measure",
    "value": 70,
    "unit": "kilometer",
@@ -200,14 +186,14 @@
    "sentence": "Die Adria ist ein lang gestrecktes Becken mit einer etwa 70 Kilometer schmalen Öffnung am südlichen Ende.",
    "section": "Meereskunde"
   },
-  "f19": {
+  "f17": {
    "kind": "number",
    "value": 2.5,
    "surface": "2,5",
    "sentence": "Der Salzgehalt beträgt im Mündungsgebiet der großen Flüsse je nach Jahreszeit und Niederschlag etwa 2,5 bis 3 % an der Oberfläche.",
    "section": "Meereskunde"
   },
-  "f20": {
+  "f18": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
@@ -215,46 +201,30 @@
    "sentence": "Der Salzgehalt beträgt im Mündungsgebiet der großen Flüsse je nach Jahreszeit und Niederschlag etwa 2,5 bis 3 % an der Oberfläche.",
    "section": "Meereskunde"
   },
-  "f21": {
+  "f19": {
    "kind": "measure",
    "value": 3.4,
    "unit": "%",
    "surface": "3,4 %",
-   "sentence": "Abseits von Flussmündungen beträgt der Salzgehalt im Norden um die 3,4 % und nimmt nach Süden hin (durch Konzentration durch Verdunstung) bis auf 3,9 % zu.",
+   "sentence": "Abseits von Flussmündungen beträgt der Salzgehalt im Norden um die 3,4 % und nimmt nach Süden hin bis auf 3,9 % zu.",
    "section": "Meereskunde"
   },
-  "f22": {
+  "f20": {
    "kind": "measure",
    "value": 3.9,
    "unit": "%",
    "surface": "3,9 %",
-   "sentence": "Abseits von Flussmündungen beträgt der Salzgehalt im Norden um die 3,4 % und nimmt nach Süden hin (durch Konzentration durch Verdunstung) bis auf 3,9 % zu.",
+   "sentence": "Abseits von Flussmündungen beträgt der Salzgehalt im Norden um die 3,4 % und nimmt nach Süden hin bis auf 3,9 % zu.",
    "section": "Meereskunde"
   },
-  "f23": {
-   "kind": "measure",
-   "value": 3.8,
-   "unit": "%",
-   "surface": "3,8 %",
-   "sentence": "(Der Salzgehalt des Mittelmeeres liegt im Durchschnitt und im Bereich des an die Adria anschließenden Ionischen Meers bei rund 3,8 %, – ebenfalls wegen Verdunstungskonzentration – deutlich höher als der des Atlantiks mit etwa 3,5 %.)",
-   "section": "Meereskunde"
-  },
-  "f24": {
-   "kind": "measure",
-   "value": 3.5,
-   "unit": "%",
-   "surface": "3,5 %",
-   "sentence": "(Der Salzgehalt des Mittelmeeres liegt im Durchschnitt und im Bereich des an die Adria anschließenden Ionischen Meers bei rund 3,8 %, – ebenfalls wegen Verdunstungskonzentration – deutlich höher als der des Atlantiks mit etwa 3,5 %.)",
-   "section": "Meereskunde"
-  },
-  "f25": {
+  "f21": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Die Wassertemperatur an der Oberfläche erreicht im August 23 bis 28 °C, in Buchten und im Süden kann sie auch über 30 °C erreichen, wobei die italienische Küste allgemein wärmeres Wasser aufweist.",
    "section": "Meereskunde"
   },
-  "f26": {
+  "f22": {
    "kind": "measure",
    "value": 28,
    "unit": "°c",
@@ -262,7 +232,7 @@
    "sentence": "Die Wassertemperatur an der Oberfläche erreicht im August 23 bis 28 °C, in Buchten und im Süden kann sie auch über 30 °C erreichen, wobei die italienische Küste allgemein wärmeres Wasser aufweist.",
    "section": "Meereskunde"
   },
-  "f27": {
+  "f23": {
    "kind": "measure",
    "value": 30,
    "unit": "°c",
@@ -270,7 +240,7 @@
    "sentence": "Die Wassertemperatur an der Oberfläche erreicht im August 23 bis 28 °C, in Buchten und im Süden kann sie auch über 30 °C erreichen, wobei die italienische Küste allgemein wärmeres Wasser aufweist.",
    "section": "Meereskunde"
   },
-  "f28": {
+  "f24": {
    "kind": "measure",
    "value": 7,
    "unit": "°c",
@@ -278,7 +248,7 @@
    "sentence": "Im Februar sinkt die Temperatur im Norden bis auf etwa 7 °C und im Süden auf rund 15 °C, wobei das Wasser an der Ostküste weniger stark auskühlt.",
    "section": "Meereskunde"
   },
-  "f29": {
+  "f25": {
    "kind": "measure",
    "value": 15,
    "unit": "°c",
@@ -286,7 +256,7 @@
    "sentence": "Im Februar sinkt die Temperatur im Norden bis auf etwa 7 °C und im Süden auf rund 15 °C, wobei das Wasser an der Ostküste weniger stark auskühlt.",
    "section": "Meereskunde"
   },
-  "f30": {
+  "f26": {
    "kind": "measure",
    "value": 1.5,
    "unit": "meter",
@@ -294,7 +264,7 @@
    "sentence": "Der Tidenhub beträgt bei Springtide max. etwa 1,5 Meter.",
    "section": "Meereskunde"
   },
-  "f31": {
+  "f27": {
    "kind": "measure",
    "value": 3,
    "unit": "m",
@@ -302,7 +272,7 @@
    "sentence": "Bei bewegter See erreicht der Seegang regelmäßig eine Höhe von etwa zwei Metern, selten über 3 m, wobei an Steilküsten die Brandung eine beachtliche Kraft entfalten kann.",
    "section": "Meereskunde"
   },
-  "f32": {
+  "f28": {
    "kind": "measure",
    "value": 1,
    "unit": "m",
@@ -310,21 +280,21 @@
    "sentence": "Selbst bei ruhiger See ist eine Dünung im Norden nicht besonders ausgeprägt und selten deutlich wahrnehmbar, in der Mitte und im Süden manchmal aber auch über 1 m hoch.",
    "section": "Meereskunde"
   },
-  "f33": {
+  "f29": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
    "sentence": "Die Wasserqualität war im Jahr 2004 bei einem vom ADAC beauftragten Test abseits der Po-Mündung an der italienischen und an der kroatischen Küste weitestgehend gut bis sehr gut.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f34": {
+  "f30": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Im Jahr 2007 warnte der damalige italienische Umweltminister Alfonso Pecoraro Scanio, dass Klimaerwärmung und Umweltverschmutzung „die Adria zu einem geschlossenen Becken machen, in dem es bereits in 150 m Tiefe kein Leben mehr gibt“.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f35": {
+  "f31": {
    "kind": "measure",
    "value": 150,
    "unit": "m",
@@ -332,63 +302,63 @@
    "sentence": "Im Jahr 2007 warnte der damalige italienische Umweltminister Alfonso Pecoraro Scanio, dass Klimaerwärmung und Umweltverschmutzung „die Adria zu einem geschlossenen Becken machen, in dem es bereits in 150 m Tiefe kein Leben mehr gibt“.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f36": {
+  "f32": {
    "kind": "date",
    "value": "2007",
    "surface": "2007",
    "sentence": "Im September 2007 war die Adria ein Thema der ersten nationalen italienischen Konferenz zur Klimaerwärmung in Rom.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "2024",
    "surface": "2024",
    "sentence": "Während den Temperaturanomalien im Jahr 2024 warnten Experten vor den Folgen immer höherer Meerestemperaturen.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f38": {
+  "f34": {
    "kind": "date",
    "value": "2023",
    "surface": "2023",
    "sentence": "Im Jahr 2023 wurden in Kroatien 936 Badegewässer geprüft, davon 894 an der Küste und 42 im Binnenland.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f39": {
+  "f35": {
    "kind": "date",
    "value": "936",
    "surface": "936",
    "sentence": "Im Jahr 2023 wurden in Kroatien 936 Badegewässer geprüft, davon 894 an der Küste und 42 im Binnenland.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f40": {
+  "f36": {
    "kind": "date",
    "value": "894",
    "surface": "894",
    "sentence": "Im Jahr 2023 wurden in Kroatien 936 Badegewässer geprüft, davon 894 an der Küste und 42 im Binnenland.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f41": {
+  "f37": {
    "kind": "number",
    "value": 42,
    "surface": "42",
    "sentence": "Im Jahr 2023 wurden in Kroatien 936 Badegewässer geprüft, davon 894 an der Küste und 42 im Binnenland.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f42": {
+  "f38": {
    "kind": "date",
    "value": "886",
    "surface": "886",
    "sentence": "Von den Küsten-Badegewässern hatten 886 von 894 also ca. 99,1 % die Einstufung „ausgezeichnet“.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f43": {
+  "f39": {
    "kind": "date",
    "value": "894",
    "surface": "894",
    "sentence": "Von den Küsten-Badegewässern hatten 886 von 894 also ca. 99,1 % die Einstufung „ausgezeichnet“.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f44": {
+  "f40": {
    "kind": "measure",
    "value": 99.1,
    "unit": "%",
@@ -396,7 +366,7 @@
    "sentence": "Von den Küsten-Badegewässern hatten 886 von 894 also ca. 99,1 % die Einstufung „ausgezeichnet“.",
    "section": "Umweltschutz und Klimawandel"
   },
-  "f45": {
+  "f41": {
    "kind": "number",
    "value": 15,
    "surface": "15",

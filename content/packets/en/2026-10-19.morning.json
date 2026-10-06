@@ -54,189 +54,182 @@
    "value": 60,
    "unit": "miles",
    "surface": "60 miles",
-   "sentence": "It is across the lake from the Canadian province of Ontario, and is approximately 60 miles (97 kilometers) west of the Ohio–Pennsylvania state line."
+   "sentence": "It is across the lake from the Canadian province of Ontario, and is approximately 60 miles west of the Ohio–Pennsylvania state line."
   },
   "f2": {
-   "kind": "measure",
-   "value": 97,
-   "unit": "kilometers",
-   "surface": "97 kilometers",
-   "sentence": "It is across the lake from the Canadian province of Ontario, and is approximately 60 miles (97 kilometers) west of the Ohio–Pennsylvania state line."
-  },
-  "f3": {
    "kind": "number",
    "value": 372624,
    "surface": "372,624",
-   "sentence": "Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio (after Columbus), and the 53rd-most populous city in the United States, with a population of 372,624 at the 2020 census."
+   "sentence": "Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio, and the 53rd-most populous city in the United States, with a population of 372,624 at the 2020 census."
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio (after Columbus), and the 53rd-most populous city in the United States, with a population of 372,624 at the 2020 census."
+   "sentence": "Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio, and the 53rd-most populous city in the United States, with a population of 372,624 at the 2020 census."
   },
-  "f5": {
+  "f4": {
    "kind": "number",
    "value": 2170000,
    "surface": "2.17 million",
    "sentence": "The Greater Cleveland metropolitan area, with an estimated 2.17 million residents, is the 34th-largest metropolitan area in the U.S.\nCleveland was founded in 1796 near the mouth of the Cuyahoga River as part of the Connecticut Western Reserve in modern-day Northeast Ohio by General Moses Cleaveland, after whom the city was named."
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "1796",
    "surface": "1796",
    "sentence": "The Greater Cleveland metropolitan area, with an estimated 2.17 million residents, is the 34th-largest metropolitan area in the U.S.\nCleveland was founded in 1796 near the mouth of the Cuyahoga River as part of the Connecticut Western Reserve in modern-day Northeast Ohio by General Moses Cleaveland, after whom the city was named."
   },
-  "f7": {
+  "f6": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "It was among the top 10 largest U.S. cities by population for much of the 20th century, a period that saw the development of the city's cultural institutions."
   },
-  "f8": {
+  "f7": {
    "kind": "number",
    "value": 138300000000,
    "surface": "138.3 billion",
    "sentence": "The GDP for Greater Cleveland was US$138.3 billion in 2022."
   },
-  "f9": {
+  "f8": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "The GDP for Greater Cleveland was US$138.3 billion in 2022."
   },
-  "f10": {
+  "f9": {
    "kind": "number",
    "value": 176000000000,
    "surface": "176 billion",
    "sentence": "Combined with the Akron metropolitan area, the eight-county Cleveland–Akron metropolitan economy was $176 billion in 2022, the largest in Ohio."
   },
-  "f11": {
+  "f10": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
    "sentence": "Combined with the Akron metropolitan area, the eight-county Cleveland–Akron metropolitan economy was $176 billion in 2022, the largest in Ohio."
   },
-  "f12": {
+  "f11": {
    "kind": "number",
    "value": 22,
    "surface": "22",
    "sentence": "Cleveland was established on July 22, 1796, by surveyors of the Connecticut Land Company when they laid out Connecticut's Western Reserve into townships and a capital city.",
    "section": "History"
   },
-  "f13": {
+  "f12": {
    "kind": "date",
    "value": "1796",
    "surface": "1796",
    "sentence": "Cleveland was established on July 22, 1796, by surveyors of the Connecticut Land Company when they laid out Connecticut's Western Reserve into townships and a capital city.",
    "section": "History"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "1797",
    "surface": "1797",
    "sentence": "The first permanent European settler in Cleveland was Lorenzo Carter, who arrived in May 1797 and built a cabin on the banks of the Cuyahoga River.",
    "section": "History"
   },
-  "f15": {
+  "f14": {
    "kind": "date",
    "value": "1812",
    "surface": "1812",
    "sentence": "The emerging community served as an important supply post for the U.S. during the Battle of Lake Erie in the War of 1812.",
    "section": "History"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "Largely through the efforts of the settlement's first lawyer, Alfred Kelley, the village of Cleveland was incorporated on December 23, 1814.",
    "section": "History"
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "1814",
    "surface": "1814",
    "sentence": "Largely through the efforts of the settlement's first lawyer, Alfred Kelley, the village of Cleveland was incorporated on December 23, 1814.",
    "section": "History"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "1832",
    "surface": "1832",
    "sentence": "It grew rapidly after the 1832 completion of the Ohio and Erie Canal, which linked the Ohio River and the Great Lakes to the Atlantic Ocean via the Erie Canal and Hudson River, and later via the Saint Lawrence Seaway.",
    "section": "History"
   },
-  "f19": {
+  "f18": {
    "kind": "date",
    "value": "1836",
    "surface": "1836",
    "sentence": "In 1836, Cleveland, then only on the eastern banks of the Cuyahoga, was incorporated as a city; John W. Willey was elected its first mayor.",
    "section": "History"
   },
-  "f20": {
+  "f19": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
    "sentence": "The neighboring municipality of Ohio City was a major rival to Cleveland until its annexation by the city in 1854.",
    "section": "History"
   },
-  "f21": {
+  "f20": {
    "kind": "date",
    "value": "1870",
    "surface": "1870",
    "sentence": "In 1870, John D. Rockefeller founded Standard Oil in Cleveland; in 1885, he moved its headquarters to New York City.",
    "section": "History"
   },
-  "f22": {
+  "f21": {
    "kind": "date",
    "value": "1885",
    "surface": "1885",
    "sentence": "In 1870, John D. Rockefeller founded Standard Oil in Cleveland; in 1885, he moved its headquarters to New York City.",
    "section": "History"
   },
-  "f23": {
+  "f22": {
    "kind": "date",
    "value": "1899",
    "surface": "1899",
    "sentence": "The Cleveland Streetcar Strike of 1899 was one of the more violent instances of labor strife in the city during this period.",
    "section": "History"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
-   "sentence": "By 1910, Cleveland had become known as the \"Sixth City\" due to its status at the time as the sixth-largest U.S. city.",
+   "sentence": "By 1910, Cleveland had become known as the \"Sixth City\"due to its status at the time as the sixth-largest U.S. city.",
    "section": "History"
   },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1916",
    "surface": "1916",
    "sentence": "The era of the City Beautiful movement in Cleveland architecture saw wealthy patrons support the establishment of the city's major cultural institutions including the Cleveland Museum of Art, which opened in 1916, and the Cleveland Orchestra, established in 1918.",
    "section": "History"
   },
-  "f26": {
+  "f25": {
    "kind": "date",
    "value": "1918",
    "surface": "1918",
    "sentence": "The era of the City Beautiful movement in Cleveland architecture saw wealthy patrons support the establishment of the city's major cultural institutions including the Cleveland Museum of Art, which opened in 1916, and the Cleveland Orchestra, established in 1918.",
    "section": "History"
   },
-  "f27": {
+  "f26": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "By 1920 Cleveland had grown into a densely populated metropolis of 796,841, making it the fifth-largest city in the nation, with a foreign-born population of 30%.",
    "section": "History"
   },
-  "f28": {
+  "f27": {
    "kind": "number",
    "value": 796841,
    "surface": "796,841",
    "sentence": "By 1920 Cleveland had grown into a densely populated metropolis of 796,841, making it the fifth-largest city in the nation, with a foreign-born population of 30%.",
    "section": "History"
   },
-  "f29": {
+  "f28": {
    "kind": "measure",
    "value": 30,
    "unit": "%",
@@ -244,175 +237,175 @@
    "sentence": "By 1920 Cleveland had grown into a densely populated metropolis of 796,841, making it the fifth-largest city in the nation, with a foreign-born population of 30%.",
    "section": "History"
   },
-  "f30": {
+  "f29": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
    "sentence": "In 1919, local socialist and IWW demonstrators clashed with anti-socialists in the May Day Riots, which occurred amid the First Red Scare and the strike wave that swept the U.S. that year.",
    "section": "History"
   },
-  "f31": {
+  "f30": {
    "kind": "date",
    "value": "1919",
    "surface": "1919",
-   "sentence": "Prohibition was established in Ohio in May 1919 (although it was not well-enforced in Cleveland), became law with the Volstead Act in 1920, and was repealed nationally by Congress in 1933.",
+   "sentence": "Prohibition was established in Ohio in May 1919, became law with the Volstead Act in 1920, and was repealed nationally by Congress in 1933.",
+   "section": "History"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "1920",
+   "surface": "1920",
+   "sentence": "Prohibition was established in Ohio in May 1919, became law with the Volstead Act in 1920, and was repealed nationally by Congress in 1933.",
    "section": "History"
   },
   "f32": {
    "kind": "date",
-   "value": "1920",
-   "surface": "1920",
-   "sentence": "Prohibition was established in Ohio in May 1919 (although it was not well-enforced in Cleveland), became law with the Volstead Act in 1920, and was repealed nationally by Congress in 1933.",
+   "value": "1933",
+   "surface": "1933",
+   "sentence": "Prohibition was established in Ohio in May 1919, became law with the Volstead Act in 1920, and was repealed nationally by Congress in 1933.",
    "section": "History"
   },
   "f33": {
-   "kind": "date",
-   "value": "1933",
-   "surface": "1933",
-   "sentence": "Prohibition was established in Ohio in May 1919 (although it was not well-enforced in Cleveland), became law with the Volstead Act in 1920, and was repealed nationally by Congress in 1933.",
-   "section": "History"
-  },
-  "f34": {
    "kind": "date",
    "value": "1929",
    "surface": "1929",
    "sentence": "In 1929, Cleveland hosted the first of many National Air Races, and Amelia Earhart flew to the city from Santa Monica, California in the Women's Air Derby.",
    "section": "History"
   },
-  "f35": {
+  "f34": {
    "kind": "date",
    "value": "1926",
    "surface": "1926",
    "sentence": "The Van Sweringen brothers commenced construction of the Terminal Tower skyscraper in 1926 and oversaw its completion in 1927.",
    "section": "History"
   },
-  "f36": {
+  "f35": {
    "kind": "date",
    "value": "1927",
    "surface": "1927",
    "sentence": "The Van Sweringen brothers commenced construction of the Terminal Tower skyscraper in 1926 and oversaw its completion in 1927.",
    "section": "History"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "When the building was dedicated as part of Cleveland Union Terminal in 1930, the city had a population of over 900,000.",
    "section": "History"
   },
-  "f38": {
+  "f37": {
    "kind": "number",
    "value": 900000,
    "surface": "900,000",
    "sentence": "When the building was dedicated as part of Cleveland Union Terminal in 1930, the city had a population of over 900,000.",
    "section": "History"
   },
-  "f39": {
+  "f38": {
    "kind": "date",
    "value": "1929",
    "surface": "1929",
    "sentence": "Cleveland's economy was greatly impacted by the Wall Street Crash of 1929 and the Great Depression.",
    "section": "History"
   },
-  "f40": {
+  "f39": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
    "sentence": "A center of union activity, the city saw significant labor struggles in this period, including strikes by workers against Fisher Body in 1936 and against Republic Steel in 1937.",
    "section": "History"
   },
-  "f41": {
+  "f40": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
    "sentence": "A center of union activity, the city saw significant labor struggles in this period, including strikes by workers against Fisher Body in 1936 and against Republic Steel in 1937.",
    "section": "History"
   },
-  "f42": {
+  "f41": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
    "sentence": "In commemoration of the centennial of Cleveland's incorporation as a city, the Great Lakes Exposition debuted in June 1936 at the city's North Coast Harbor, along the Lake Erie shore north of downtown.",
    "section": "History"
   },
-  "f43": {
+  "f42": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
    "sentence": "Conceived by Cleveland's business leaders as a way to revitalize the city during the Depression, it drew four million visitors in its first season, and seven million by the end of its second and final season in September 1937.",
    "section": "History"
   },
-  "f44": {
+  "f43": {
    "kind": "date",
    "value": "1950",
    "surface": "1950",
    "sentence": "In 1950, its population reached 914,808.",
    "section": "History"
   },
-  "f45": {
+  "f44": {
    "kind": "number",
    "value": 914808,
    "surface": "914,808",
    "sentence": "In 1950, its population reached 914,808.",
    "section": "History"
   },
-  "f46": {
+  "f45": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "The burning of the Cuyahoga River in June 1969 brought national attention to the issue of industrial pollution in Cleveland and catalyzed the American environmental movement.",
    "section": "History"
   },
-  "f47": {
+  "f46": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "The Hough riots erupted from July 18 to 24, 1966, and the Glenville Shootout took place on July 23, 1968.",
    "section": "History"
   },
-  "f48": {
+  "f47": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "The Hough riots erupted from July 18 to 24, 1966, and the Glenville Shootout took place on July 23, 1968.",
    "section": "History"
   },
-  "f49": {
+  "f48": {
    "kind": "date",
    "value": "1966",
    "surface": "1966",
    "sentence": "The Hough riots erupted from July 18 to 24, 1966, and the Glenville Shootout took place on July 23, 1968.",
    "section": "History"
   },
-  "f50": {
+  "f49": {
    "kind": "number",
    "value": 23,
    "surface": "23",
    "sentence": "The Hough riots erupted from July 18 to 24, 1966, and the Glenville Shootout took place on July 23, 1968.",
    "section": "History"
   },
-  "f51": {
+  "f50": {
    "kind": "date",
    "value": "1968",
    "surface": "1968",
    "sentence": "The Hough riots erupted from July 18 to 24, 1966, and the Glenville Shootout took place on July 23, 1968.",
    "section": "History"
   },
-  "f52": {
+  "f51": {
    "kind": "date",
    "value": "1967",
    "surface": "1967",
    "sentence": "In November 1967, Cleveland became the first major American city to elect an African American mayor, Carl B. Stokes, who worked to restore the Cuyahoga River.",
    "section": "History"
   },
-  "f53": {
+  "f52": {
    "kind": "date",
    "value": "1978",
    "surface": "1978",
    "sentence": "In December 1978, Cleveland became the first major American city since the Great Depression to enter a financial default on federal loans.",
    "section": "History"
   },
-  "f54": {
+  "f53": {
    "kind": "measure",
    "value": 13.8,
    "unit": "%",
@@ -420,92 +413,60 @@
    "sentence": "Cleveland's unemployment rate of 13.8% was higher than the national average due to the closure of several steel production centers.",
    "section": "History"
   },
-  "f55": {
+  "f54": {
    "kind": "number",
    "value": 200,
    "surface": "200",
    "sentence": "Downtown saw the construction of the Key Tower and 200 Public Square skyscrapers, as well as the development of the Gateway Sports and Entertainment Complex – consisting of Progressive Field and Rocket Arena – and North Coast Harbor, including the Rock and Roll Hall of Fame, Cleveland Browns Stadium, and the Great Lakes Science Center.",
    "section": "History"
   },
-  "f56": {
+  "f55": {
    "kind": "date",
    "value": "1987",
    "surface": "1987",
    "sentence": "Although the city emerged from default in 1987, it suffered from the impact of the subprime mortgage crisis and the Great Recession.",
    "section": "History"
   },
-  "f57": {
+  "f56": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "Downtown and several other neighborhoods experienced significant population growth since 2010, while overall population decline has slowed.",
    "section": "History"
   },
-  "f58": {
+  "f57": {
    "kind": "measure",
    "value": 82.47,
    "unit": "square miles",
    "surface": "82.47 square miles",
-   "sentence": "Cleveland has a total area of 82.47 square miles (213.6 km2), of which 77.70 square miles (201.2 km2) is land and 4.77 square miles (12.4 km2) is water.",
+   "sentence": "Cleveland has a total area of 82.47 square miles, of which 77.70 square miles is land and 4.77 square miles is water.",
    "section": "Geography"
   },
-  "f59": {
-   "kind": "measure",
-   "value": 213.6,
-   "unit": "km2",
-   "surface": "213.6 km2",
-   "sentence": "Cleveland has a total area of 82.47 square miles (213.6 km2), of which 77.70 square miles (201.2 km2) is land and 4.77 square miles (12.4 km2) is water.",
-   "section": "Geography"
-  },
-  "f60": {
+  "f58": {
    "kind": "measure",
    "value": 77.7,
    "unit": "square miles",
    "surface": "77.70 square miles",
-   "sentence": "Cleveland has a total area of 82.47 square miles (213.6 km2), of which 77.70 square miles (201.2 km2) is land and 4.77 square miles (12.4 km2) is water.",
+   "sentence": "Cleveland has a total area of 82.47 square miles, of which 77.70 square miles is land and 4.77 square miles is water.",
    "section": "Geography"
   },
-  "f61": {
-   "kind": "measure",
-   "value": 201.2,
-   "unit": "km2",
-   "surface": "201.2 km2",
-   "sentence": "Cleveland has a total area of 82.47 square miles (213.6 km2), of which 77.70 square miles (201.2 km2) is land and 4.77 square miles (12.4 km2) is water.",
-   "section": "Geography"
-  },
-  "f62": {
+  "f59": {
    "kind": "measure",
    "value": 4.77,
    "unit": "square miles",
    "surface": "4.77 square miles",
-   "sentence": "Cleveland has a total area of 82.47 square miles (213.6 km2), of which 77.70 square miles (201.2 km2) is land and 4.77 square miles (12.4 km2) is water.",
+   "sentence": "Cleveland has a total area of 82.47 square miles, of which 77.70 square miles is land and 4.77 square miles is water.",
    "section": "Geography"
   },
-  "f63": {
-   "kind": "measure",
-   "value": 12.4,
-   "unit": "km2",
-   "surface": "12.4 km2",
-   "sentence": "Cleveland has a total area of 82.47 square miles (213.6 km2), of which 77.70 square miles (201.2 km2) is land and 4.77 square miles (12.4 km2) is water.",
-   "section": "Geography"
-  },
-  "f64": {
+  "f60": {
    "kind": "measure",
    "value": 569,
    "unit": "feet",
    "surface": "569 feet",
-   "sentence": "The shore of Lake Erie is 569 feet (173 m) above sea level; the city lies on a series of irregular bluffs lying roughly parallel to the lake.",
+   "sentence": "The shore of Lake Erie is 569 feet above sea level; the city lies on a series of irregular bluffs lying roughly parallel to the lake.",
    "section": "Geography"
   },
-  "f65": {
-   "kind": "measure",
-   "value": 173,
-   "unit": "m",
-   "surface": "173 m",
-   "sentence": "The shore of Lake Erie is 569 feet (173 m) above sea level; the city lies on a series of irregular bluffs lying roughly parallel to the lake.",
-   "section": "Geography"
-  },
-  "f66": {
+  "f61": {
    "kind": "measure",
    "value": 569,
    "unit": "feet",
@@ -513,365 +474,269 @@
    "sentence": "The land rises quickly from the lake shore elevation of 569 feet.",
    "section": "Geography"
   },
-  "f67": {
-   "kind": "measure",
-   "value": 1.6,
-   "unit": "km",
-   "surface": "1.6 km",
-   "sentence": "Public Square, less than one mile (1.6 km) inland, sits at an elevation of 650 feet (198 m), and Hopkins Airport, five miles (8.0 km) inland from the lake, is at an elevation of 791 feet (241 m).",
-   "section": "Geography"
-  },
-  "f68": {
+  "f62": {
    "kind": "measure",
    "value": 650,
    "unit": "feet",
    "surface": "650 feet",
-   "sentence": "Public Square, less than one mile (1.6 km) inland, sits at an elevation of 650 feet (198 m), and Hopkins Airport, five miles (8.0 km) inland from the lake, is at an elevation of 791 feet (241 m).",
+   "sentence": "Public Square, less than one mile inland, sits at an elevation of 650 feet, and Hopkins Airport, five miles inland from the lake, is at an elevation of 791 feet.",
    "section": "Geography"
   },
-  "f69": {
-   "kind": "measure",
-   "value": 198,
-   "unit": "m",
-   "surface": "198 m",
-   "sentence": "Public Square, less than one mile (1.6 km) inland, sits at an elevation of 650 feet (198 m), and Hopkins Airport, five miles (8.0 km) inland from the lake, is at an elevation of 791 feet (241 m).",
-   "section": "Geography"
-  },
-  "f70": {
-   "kind": "measure",
-   "value": 8,
-   "unit": "km",
-   "surface": "8.0 km",
-   "sentence": "Public Square, less than one mile (1.6 km) inland, sits at an elevation of 650 feet (198 m), and Hopkins Airport, five miles (8.0 km) inland from the lake, is at an elevation of 791 feet (241 m).",
-   "section": "Geography"
-  },
-  "f71": {
+  "f63": {
    "kind": "measure",
    "value": 791,
    "unit": "feet",
    "surface": "791 feet",
-   "sentence": "Public Square, less than one mile (1.6 km) inland, sits at an elevation of 650 feet (198 m), and Hopkins Airport, five miles (8.0 km) inland from the lake, is at an elevation of 791 feet (241 m).",
+   "sentence": "Public Square, less than one mile inland, sits at an elevation of 650 feet, and Hopkins Airport, five miles inland from the lake, is at an elevation of 791 feet.",
    "section": "Geography"
   },
-  "f72": {
-   "kind": "measure",
-   "value": 241,
-   "unit": "m",
-   "surface": "241 m",
-   "sentence": "Public Square, less than one mile (1.6 km) inland, sits at an elevation of 650 feet (198 m), and Hopkins Airport, five miles (8.0 km) inland from the lake, is at an elevation of 791 feet (241 m).",
-   "section": "Geography"
-  },
-  "f73": {
+  "f64": {
    "kind": "date",
    "value": "1903",
    "surface": "1903",
    "sentence": "They were built in the early 20th century as the result of the 1903 Group Plan.",
    "section": "Geography"
   },
-  "f74": {
+  "f65": {
    "kind": "date",
    "value": "1927",
    "surface": "1927",
    "sentence": "Completed in 1927 and dedicated in 1930 as part of the Cleveland Union Terminal complex, the Terminal Tower is a prototypical Beaux-Arts skyscraper.",
    "section": "Geography"
   },
-  "f75": {
+  "f66": {
    "kind": "date",
    "value": "1930",
    "surface": "1930",
    "sentence": "Completed in 1927 and dedicated in 1930 as part of the Cleveland Union Terminal complex, the Terminal Tower is a prototypical Beaux-Arts skyscraper.",
    "section": "Geography"
   },
-  "f76": {
+  "f67": {
    "kind": "date",
    "value": "1964",
    "surface": "1964",
    "sentence": "It was the tallest building in North America outside New York City until 1964 and the tallest in the city until 1991.",
    "section": "Geography"
   },
-  "f77": {
+  "f68": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
    "sentence": "It was the tallest building in North America outside New York City until 1964 and the tallest in the city until 1991.",
    "section": "Geography"
   },
-  "f78": {
+  "f69": {
    "kind": "number",
    "value": 200,
    "surface": "200",
-   "sentence": "Key Tower (the tallest building in Ohio) and 200 Public Square combine elements of Art Deco architecture with postmodern designs.",
+   "sentence": "Key Tower and 200 Public Square combine elements of Art Deco architecture with postmodern designs.",
    "section": "Geography"
   },
-  "f79": {
+  "f70": {
    "kind": "date",
    "value": "1890",
    "surface": "1890",
-   "sentence": "Nicknamed Cleveland's \"Crystal Palace\", the five-story Cleveland Arcade (also known as the Old Arcade) was built in 1890 and renovated in 2001 as a Hyatt Regency Hotel.",
+   "sentence": "Nicknamed Cleveland's \"Crystal Palace\", the five-story Cleveland Arcade was built in 1890 and renovated in 2001 as a Hyatt Regency Hotel.",
    "section": "Geography"
   },
-  "f80": {
+  "f71": {
    "kind": "date",
    "value": "2001",
    "surface": "2001",
-   "sentence": "Nicknamed Cleveland's \"Crystal Palace\", the five-story Cleveland Arcade (also known as the Old Arcade) was built in 1890 and renovated in 2001 as a Hyatt Regency Hotel.",
+   "sentence": "Nicknamed Cleveland's \"Crystal Palace\", the five-story Cleveland Arcade was built in 1890 and renovated in 2001 as a Hyatt Regency Hotel.",
    "section": "Geography"
   },
-  "f81": {
+  "f72": {
    "kind": "date",
    "value": "1907",
    "surface": "1907",
    "sentence": "Another major landmark, the Cleveland Trust Company Building, was completed in 1907 and renovated in 2015.",
    "section": "Geography"
   },
-  "f82": {
+  "f73": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Another major landmark, the Cleveland Trust Company Building, was completed in 1907 and renovated in 2015.",
    "section": "Geography"
   },
-  "f83": {
+  "f74": {
    "kind": "number",
    "value": 34,
    "surface": "34",
    "sentence": "The Cleveland City Planning Commission has designated 34 neighborhoods in Cleveland.",
    "section": "Geography"
   },
-  "f84": {
+  "f75": {
    "kind": "measure",
    "value": 100,
    "unit": "inches",
    "surface": "100 inches",
-   "sentence": "On the city's far West Side, the Hopkins neighborhood only reached 100 inches (254 cm) of snowfall in a season three times since record-keeping for snow began in 1893.",
+   "sentence": "On the city's far West Side, the Hopkins neighborhood only reached 100 inches of snowfall in a season three times since record-keeping for snow began in 1893.",
    "section": "Geography"
   },
-  "f85": {
-   "kind": "measure",
-   "value": 254,
-   "unit": "cm",
-   "surface": "254 cm",
-   "sentence": "On the city's far West Side, the Hopkins neighborhood only reached 100 inches (254 cm) of snowfall in a season three times since record-keeping for snow began in 1893.",
-   "section": "Geography"
-  },
-  "f86": {
+  "f76": {
    "kind": "date",
    "value": "1893",
    "surface": "1893",
-   "sentence": "On the city's far West Side, the Hopkins neighborhood only reached 100 inches (254 cm) of snowfall in a season three times since record-keeping for snow began in 1893.",
+   "sentence": "On the city's far West Side, the Hopkins neighborhood only reached 100 inches of snowfall in a season three times since record-keeping for snow began in 1893.",
    "section": "Geography"
   },
-  "f87": {
+  "f77": {
    "kind": "measure",
    "value": 100,
    "unit": "inches",
    "surface": "100 inches",
-   "sentence": "By contrast, seasonal totals approaching or exceeding 100 inches (254 cm) are not uncommon as the city ascends into the Heights on the east, where the region known as the \"Snow Belt\" begins.",
+   "sentence": "By contrast, seasonal totals approaching or exceeding 100 inches are not uncommon as the city ascends into the Heights on the east, where the region known as the \"Snow Belt\"begins.",
    "section": "Geography"
   },
-  "f88": {
-   "kind": "measure",
-   "value": 254,
-   "unit": "cm",
-   "surface": "254 cm",
-   "sentence": "By contrast, seasonal totals approaching or exceeding 100 inches (254 cm) are not uncommon as the city ascends into the Heights on the east, where the region known as the \"Snow Belt\" begins.",
-   "section": "Geography"
-  },
-  "f89": {
+  "f78": {
    "kind": "date",
    "value": "1978",
    "surface": "1978",
    "sentence": "The worst winter storm in Cleveland's history was the Great Blizzard of 1978.",
    "section": "Geography"
   },
-  "f90": {
+  "f79": {
    "kind": "measure",
    "value": 104,
    "unit": "°f",
    "surface": "104 °F",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
+   "sentence": "The all-time record high in Cleveland of 104 °F was established on June 25, 1988, and the all-time record low of −20 °F was set on January 19, 1994.",
    "section": "Geography"
   },
-  "f91": {
-   "kind": "measure",
-   "value": 40,
-   "unit": "°c",
-   "surface": "40 °C",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
-   "section": "Geography"
-  },
-  "f92": {
+  "f80": {
    "kind": "number",
    "value": 25,
    "surface": "25",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
+   "sentence": "The all-time record high in Cleveland of 104 °F was established on June 25, 1988, and the all-time record low of −20 °F was set on January 19, 1994.",
    "section": "Geography"
   },
-  "f93": {
+  "f81": {
    "kind": "date",
    "value": "1988",
    "surface": "1988",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
+   "sentence": "The all-time record high in Cleveland of 104 °F was established on June 25, 1988, and the all-time record low of −20 °F was set on January 19, 1994.",
    "section": "Geography"
   },
-  "f94": {
+  "f82": {
    "kind": "measure",
    "value": 20,
    "unit": "°f",
    "surface": "20 °F",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
+   "sentence": "The all-time record high in Cleveland of 104 °F was established on June 25, 1988, and the all-time record low of −20 °F was set on January 19, 1994.",
    "section": "Geography"
   },
-  "f95": {
-   "kind": "measure",
-   "value": 29,
-   "unit": "°c",
-   "surface": "29 °C",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
-   "section": "Geography"
-  },
-  "f96": {
+  "f83": {
    "kind": "number",
    "value": 19,
    "surface": "19",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
+   "sentence": "The all-time record high in Cleveland of 104 °F was established on June 25, 1988, and the all-time record low of −20 °F was set on January 19, 1994.",
    "section": "Geography"
   },
-  "f97": {
+  "f84": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
-   "sentence": "The all-time record high in Cleveland of 104 °F (40 °C) was established on June 25, 1988, and the all-time record low of −20 °F (−29 °C) was set on January 19, 1994.",
+   "sentence": "The all-time record high in Cleveland of 104 °F was established on June 25, 1988, and the all-time record low of −20 °F was set on January 19, 1994.",
    "section": "Geography"
   },
-  "f98": {
+  "f85": {
    "kind": "measure",
    "value": 74.5,
    "unit": "°f",
    "surface": "74.5 °F",
-   "sentence": "On average, July is the warmest month with a mean temperature of 74.5 °F (23.6 °C), and January, with a mean temperature of 29.1 °F (−1.6 °C), is the coldest.",
+   "sentence": "On average, July is the warmest month with a mean temperature of 74.5 °F, and January, with a mean temperature of 29.1 °F, is the coldest.",
    "section": "Geography"
   },
-  "f99": {
-   "kind": "measure",
-   "value": 23.6,
-   "unit": "°c",
-   "surface": "23.6 °C",
-   "sentence": "On average, July is the warmest month with a mean temperature of 74.5 °F (23.6 °C), and January, with a mean temperature of 29.1 °F (−1.6 °C), is the coldest.",
-   "section": "Geography"
-  },
-  "f100": {
+  "f86": {
    "kind": "measure",
    "value": 29.1,
    "unit": "°f",
    "surface": "29.1 °F",
-   "sentence": "On average, July is the warmest month with a mean temperature of 74.5 °F (23.6 °C), and January, with a mean temperature of 29.1 °F (−1.6 °C), is the coldest.",
+   "sentence": "On average, July is the warmest month with a mean temperature of 74.5 °F, and January, with a mean temperature of 29.1 °F, is the coldest.",
    "section": "Geography"
   },
-  "f101": {
-   "kind": "measure",
-   "value": 1.6,
-   "unit": "°c",
-   "surface": "1.6 °C",
-   "sentence": "On average, July is the warmest month with a mean temperature of 74.5 °F (23.6 °C), and January, with a mean temperature of 29.1 °F (−1.6 °C), is the coldest.",
-   "section": "Geography"
-  },
-  "f102": {
+  "f87": {
    "kind": "number",
    "value": 30,
    "surface": "30",
-   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches (1,042 mm).",
+   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches.",
    "section": "Geography"
   },
-  "f103": {
+  "f88": {
    "kind": "date",
    "value": "1991",
    "surface": "1991",
-   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches (1,042 mm).",
+   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches.",
    "section": "Geography"
   },
-  "f104": {
+  "f89": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
-   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches (1,042 mm).",
+   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches.",
    "section": "Geography"
   },
-  "f105": {
+  "f90": {
    "kind": "measure",
    "value": 41.03,
    "unit": "inches",
    "surface": "41.03 inches",
-   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches (1,042 mm).",
+   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches.",
    "section": "Geography"
   },
-  "f106": {
-   "kind": "measure",
-   "value": 1042,
-   "unit": "mm",
-   "surface": "1,042 mm",
-   "sentence": "Normal yearly precipitation based on the 30-year average from 1991 to 2020 is 41.03 inches (1,042 mm).",
-   "section": "Geography"
-  },
-  "f107": {
+  "f91": {
    "kind": "measure",
    "value": 44,
    "unit": "inches",
    "surface": "44 inches",
-   "sentence": "Parts of Geauga County to the east receive over 44 inches (1,100 mm) of liquid precipitation annually.",
+   "sentence": "Parts of Geauga County to the east receive over 44 inches of liquid precipitation annually.",
    "section": "Geography"
   },
-  "f108": {
-   "kind": "measure",
-   "value": 1100,
-   "unit": "mm",
-   "surface": "1,100 mm",
-   "sentence": "Parts of Geauga County to the east receive over 44 inches (1,100 mm) of liquid precipitation annually.",
-   "section": "Geography"
-  },
-  "f109": {
+  "f92": {
    "kind": "number",
    "value": 13,
    "surface": "13",
-   "sentence": "Since the city's industrialization, the Cuyahoga River had become so affected by industrial pollution that it \"caught fire\" a total of 13 times beginning in 1868.",
+   "sentence": "Since the city's industrialization, the Cuyahoga River had become so affected by industrial pollution that it \"caught fire\"a total of 13 times beginning in 1868.",
    "section": "Geography"
   },
-  "f110": {
+  "f93": {
    "kind": "date",
    "value": "1868",
    "surface": "1868",
-   "sentence": "Since the city's industrialization, the Cuyahoga River had become so affected by industrial pollution that it \"caught fire\" a total of 13 times beginning in 1868.",
+   "sentence": "Since the city's industrialization, the Cuyahoga River had become so affected by industrial pollution that it \"caught fire\"a total of 13 times beginning in 1868.",
    "section": "Geography"
   },
-  "f111": {
+  "f94": {
    "kind": "date",
    "value": "1969",
    "surface": "1969",
    "sentence": "It was the river fire of June 1969 that spurred the city to action under Mayor Carl B. Stokes, and played a key role in the passage of the Clean Water Act in 1972 and the National Environmental Policy Act later that year.",
    "section": "Geography"
   },
-  "f112": {
+  "f95": {
    "kind": "date",
    "value": "1972",
    "surface": "1972",
    "sentence": "It was the river fire of June 1969 that spurred the city to action under Mayor Carl B. Stokes, and played a key role in the passage of the Clean Water Act in 1972 and the National Environmental Policy Act later that year.",
    "section": "Geography"
   },
-  "f113": {
+  "f96": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Its climate action plan, updated in December 2018, has a 2050 target of 100% renewable power, along with reduction of greenhouse gases to 80% below the 2010 level.",
    "section": "Geography"
   },
-  "f114": {
+  "f97": {
    "kind": "date",
    "value": "2050",
    "surface": "2050",
    "sentence": "Its climate action plan, updated in December 2018, has a 2050 target of 100% renewable power, along with reduction of greenhouse gases to 80% below the 2010 level.",
    "section": "Geography"
   },
-  "f115": {
+  "f98": {
    "kind": "measure",
    "value": 100,
    "unit": "%",
@@ -879,7 +744,7 @@
    "sentence": "Its climate action plan, updated in December 2018, has a 2050 target of 100% renewable power, along with reduction of greenhouse gases to 80% below the 2010 level.",
    "section": "Geography"
   },
-  "f116": {
+  "f99": {
    "kind": "measure",
    "value": 80,
    "unit": "%",
@@ -887,7 +752,7 @@
    "sentence": "Its climate action plan, updated in December 2018, has a 2050 target of 100% renewable power, along with reduction of greenhouse gases to 80% below the 2010 level.",
    "section": "Geography"
   },
-  "f117": {
+  "f100": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",

@@ -89,7 +89,7 @@
    "kind": "date",
    "value": "1847",
    "surface": "1847",
-   "sentence": "Der Name „Enceladus“ sowie Namen für sieben weitere Saturnmonde wurden von Wilhelm Herschels Sohn, dem Astronomen John Herschel, in der 1847 erschienenen Veröffentlichung Results of Astronomical Observations made at the Cape of Good Hope vorgeschlagen.",
+   "sentence": "Der Name „Enceladus“sowie Namen für sieben weitere Saturnmonde wurden von Wilhelm Herschels Sohn, dem Astronomen John Herschel, in der 1847 erschienenen Veröffentlichung Results of Astronomical Observations made at the Cape of Good Hope vorgeschlagen.",
    "section": "Entdeckung und Benennung"
   },
   "f5": {
@@ -97,39 +97,32 @@
    "value": 238000,
    "unit": "km",
    "surface": "238.000 km",
-   "sentence": "Enceladus umkreist Saturn auf einer prograden, fast perfekt kreisförmigen Umlaufbahn in einem mittleren Abstand von etwa 238.000 km (ca. 4 Saturnradien) von dessen Zentrum (bzw. dem Schwerezentrum), also etwa 177.680 km über dessen Wolkenobergrenze.",
+   "sentence": "Enceladus umkreist Saturn auf einer prograden, fast perfekt kreisförmigen Umlaufbahn in einem mittleren Abstand von etwa 238.000 km von dessen Zentrum, also etwa 177.680 km über dessen Wolkenobergrenze.",
    "section": "Bahneigenschaften"
   },
   "f6": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Enceladus umkreist Saturn auf einer prograden, fast perfekt kreisförmigen Umlaufbahn in einem mittleren Abstand von etwa 238.000 km (ca. 4 Saturnradien) von dessen Zentrum (bzw. dem Schwerezentrum), also etwa 177.680 km über dessen Wolkenobergrenze.",
-   "section": "Bahneigenschaften"
-  },
-  "f7": {
    "kind": "measure",
    "value": 177680,
    "unit": "km",
    "surface": "177.680 km",
-   "sentence": "Enceladus umkreist Saturn auf einer prograden, fast perfekt kreisförmigen Umlaufbahn in einem mittleren Abstand von etwa 238.000 km (ca. 4 Saturnradien) von dessen Zentrum (bzw. dem Schwerezentrum), also etwa 177.680 km über dessen Wolkenobergrenze.",
+   "sentence": "Enceladus umkreist Saturn auf einer prograden, fast perfekt kreisförmigen Umlaufbahn in einem mittleren Abstand von etwa 238.000 km von dessen Zentrum, also etwa 177.680 km über dessen Wolkenobergrenze.",
    "section": "Bahneigenschaften"
   },
-  "f8": {
+  "f7": {
    "kind": "number",
    "value": 0.0045,
    "surface": "0,0045",
    "sentence": "Die Bahnexzentrizität beträgt 0,0045, die Bahn ist 0° gegenüber dem Äquator von Saturn geneigt, liegt also fast in der Äquatorebene des Planeten.",
    "section": "Bahneigenschaften"
   },
-  "f9": {
+  "f8": {
    "kind": "number",
    "value": 0,
    "surface": "0",
    "sentence": "Die Bahnexzentrizität beträgt 0,0045, die Bahn ist 0° gegenüber dem Äquator von Saturn geneigt, liegt also fast in der Äquatorebene des Planeten.",
    "section": "Bahneigenschaften"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 2100,
    "unit": "km",
@@ -137,7 +130,7 @@
    "sentence": "Durch die niedrige Exzentrizität variiert die Bahn in der Entfernung zu Saturn um etwa 2.100 km.",
    "section": "Bahneigenschaften"
   },
-  "f11": {
+  "f10": {
    "kind": "measure",
    "value": 27000,
    "unit": "km",
@@ -145,7 +138,7 @@
    "sentence": "Die Umlaufbahn des nächstinneren Mondes Pallene ist im Mittel etwa 27.000 km vom Orbit von Enceladus entfernt, die Entfernungen der Bahnen der nächstäußeren Monde Tethys sowie deren Trojaner-Monde Telesto und Calypso betragen im Mittel etwa 56.000 km.",
    "section": "Bahneigenschaften"
   },
-  "f12": {
+  "f11": {
    "kind": "measure",
    "value": 56000,
    "unit": "km",
@@ -153,70 +146,70 @@
    "sentence": "Die Umlaufbahn des nächstinneren Mondes Pallene ist im Mittel etwa 27.000 km vom Orbit von Enceladus entfernt, die Entfernungen der Bahnen der nächstäußeren Monde Tethys sowie deren Trojaner-Monde Telesto und Calypso betragen im Mittel etwa 56.000 km.",
    "section": "Bahneigenschaften"
   },
-  "f13": {
+  "f12": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Enceladus umläuft Saturn in etwa 1 Tag, 8 Stunden, 53 Minuten.",
    "section": "Bahneigenschaften"
   },
-  "f14": {
+  "f13": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Enceladus umläuft Saturn in etwa 1 Tag, 8 Stunden, 53 Minuten.",
    "section": "Bahneigenschaften"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 53,
    "surface": "53",
    "sentence": "Enceladus umläuft Saturn in etwa 1 Tag, 8 Stunden, 53 Minuten.",
    "section": "Bahneigenschaften"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Er befindet sich gegenwärtig in einer 2:1-Bahnresonanz mit Dione sowie nahe einer 3:2-Resonanz mit Mimas.",
    "section": "Bahneigenschaften"
   },
-  "f17": {
+  "f16": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Er befindet sich gegenwärtig in einer 2:1-Bahnresonanz mit Dione sowie nahe einer 3:2-Resonanz mit Mimas.",
    "section": "Bahneigenschaften"
   },
-  "f18": {
+  "f17": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Er befindet sich gegenwärtig in einer 2:1-Bahnresonanz mit Dione sowie nahe einer 3:2-Resonanz mit Mimas.",
    "section": "Bahneigenschaften"
   },
-  "f19": {
+  "f18": {
    "kind": "number",
    "value": 2,
    "surface": "2",
    "sentence": "Er befindet sich gegenwärtig in einer 2:1-Bahnresonanz mit Dione sowie nahe einer 3:2-Resonanz mit Mimas.",
    "section": "Bahneigenschaften"
   },
-  "f20": {
+  "f19": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Darüber hinaus läuft Enceladus fast in einer 4:3-Bahnresonanz mit dem nächstäußeren Mond Tethys.",
    "section": "Bahneigenschaften"
   },
-  "f21": {
+  "f20": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Darüber hinaus läuft Enceladus fast in einer 4:3-Bahnresonanz mit dem nächstäußeren Mond Tethys.",
    "section": "Bahneigenschaften"
   },
-  "f22": {
+  "f21": {
    "kind": "measure",
    "value": 4,
    "unit": "km",
@@ -224,29 +217,29 @@
    "sentence": "Außerdem stört er seinen unmittelbar inneren Nachbarn Pallene durch seine Gravitation und verursacht Abweichungen in dessen Bahn in der Größenordnung von etwa 4 km.",
    "section": "Bahneigenschaften"
   },
-  "f23": {
+  "f22": {
    "kind": "number",
    "value": 340000,
    "surface": "340.000",
-   "sentence": "Er ist im Vergleich zu den anderen Ringen des Planeten extrem breit; es handelt sich um eine sehr diffuse Scheibe aus mikroskopisch kleinen Eis- oder Staubteilchen (mit Silikaten, Kohlendioxid und Ammoniak), die sich etwa vom Orbit von Mimas bis zur Bahn von Rhea hinzieht, obschon einige Beobachtungen darauf schließen lassen, dass sie sich sogar bis zur Titan-Bahn fortsetzt, was eine Breite zwischen 340.000 und 1.040.000 km bedeutet.",
+   "sentence": "Er ist im Vergleich zu den anderen Ringen des Planeten extrem breit; es handelt sich um eine sehr diffuse Scheibe aus mikroskopisch kleinen Eis- oder Staubteilchen, die sich etwa vom Orbit von Mimas bis zur Bahn von Rhea hinzieht, obschon einige Beobachtungen darauf schließen lassen, dass sie sich sogar bis zur Titan-Bahn fortsetzt, was eine Breite zwischen 340.000 und 1.040.000 km bedeutet.",
    "section": "Bahneigenschaften"
   },
-  "f24": {
+  "f23": {
    "kind": "measure",
    "value": 1040000,
    "unit": "km",
    "surface": "1.040.000 km",
-   "sentence": "Er ist im Vergleich zu den anderen Ringen des Planeten extrem breit; es handelt sich um eine sehr diffuse Scheibe aus mikroskopisch kleinen Eis- oder Staubteilchen (mit Silikaten, Kohlendioxid und Ammoniak), die sich etwa vom Orbit von Mimas bis zur Bahn von Rhea hinzieht, obschon einige Beobachtungen darauf schließen lassen, dass sie sich sogar bis zur Titan-Bahn fortsetzt, was eine Breite zwischen 340.000 und 1.040.000 km bedeutet.",
+   "sentence": "Er ist im Vergleich zu den anderen Ringen des Planeten extrem breit; es handelt sich um eine sehr diffuse Scheibe aus mikroskopisch kleinen Eis- oder Staubteilchen, die sich etwa vom Orbit von Mimas bis zur Bahn von Rhea hinzieht, obschon einige Beobachtungen darauf schließen lassen, dass sie sich sogar bis zur Titan-Bahn fortsetzt, was eine Breite zwischen 340.000 und 1.040.000 km bedeutet.",
    "section": "Bahneigenschaften"
   },
-  "f25": {
+  "f24": {
    "kind": "number",
    "value": 10000,
    "surface": "10.000",
    "sentence": "Verschiedenen Berechnungen zufolge ist ein solcher Ring instabil und besitzt eine Lebensspanne zwischen 10.000 und einer Million Jahren, daher muss er konstant mit neuem Material gespeist werden.",
    "section": "Bahneigenschaften"
   },
-  "f26": {
+  "f25": {
    "kind": "measure",
    "value": 866,
    "unit": "km/h",
@@ -254,28 +247,28 @@
    "sentence": "Es gibt zwei verschiedene Mechanismen, die den Ring speisen können: Die erste und womöglich wichtigste Quelle sind die kryovulkanischen Regionen am Südpol, die Material ausstoßen, wobei der Großteil davon zwar wieder auf die Oberfläche zurückfällt, doch durch Enceladus’ niedrige Fluchtgeschwindigkeit von 866 km/h Partikel entweichen und in einen Orbit um Saturn gelangen können.",
    "section": "Bahneigenschaften"
   },
-  "f27": {
+  "f26": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Enceladus weist damit, wie der Erdmond und alle großen Trabanten der Gasriesen, eine gebundene Rotation auf, die sich somit ebenfalls binnen 1 Tag, 8 Stunden, 53 Minuten vollzieht.",
    "section": "Bahneigenschaften"
   },
-  "f28": {
+  "f27": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "Enceladus weist damit, wie der Erdmond und alle großen Trabanten der Gasriesen, eine gebundene Rotation auf, die sich somit ebenfalls binnen 1 Tag, 8 Stunden, 53 Minuten vollzieht.",
    "section": "Bahneigenschaften"
   },
-  "f29": {
+  "f28": {
    "kind": "number",
    "value": 53,
    "surface": "53",
    "sentence": "Enceladus weist damit, wie der Erdmond und alle großen Trabanten der Gasriesen, eine gebundene Rotation auf, die sich somit ebenfalls binnen 1 Tag, 8 Stunden, 53 Minuten vollzieht.",
    "section": "Bahneigenschaften"
   },
-  "f30": {
+  "f29": {
    "kind": "measure",
    "value": 504.2,
    "unit": "km",
@@ -283,7 +276,7 @@
    "sentence": "Enceladus ist annähernd kugelförmig mit einem mittleren Durchmesser von 504,2 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f31": {
+  "f30": {
    "kind": "measure",
    "value": 514,
    "unit": "km",
@@ -291,7 +284,7 @@
    "sentence": "Die genauen Abmessungen sind 514 km × 502 km × 496 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f32": {
+  "f31": {
    "kind": "measure",
    "value": 502,
    "unit": "km",
@@ -299,7 +292,7 @@
    "sentence": "Die genauen Abmessungen sind 514 km × 502 km × 496 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f33": {
+  "f32": {
    "kind": "measure",
    "value": 496,
    "unit": "km",
@@ -307,7 +300,7 @@
    "sentence": "Die genauen Abmessungen sind 514 km × 502 km × 496 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f34": {
+  "f33": {
    "kind": "measure",
    "value": 3,
    "unit": "%",
@@ -315,14 +308,14 @@
    "sentence": "Die Abweichung von etwa 3 % ist auf die Gezeitenkräfte von Saturn zurückzuführen, was dem Mond die Form eines Ellipsoids verleiht.",
    "section": "Physikalische Eigenschaften"
   },
-  "f35": {
+  "f34": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Enceladus ist der sechstgrößte Saturnmond und rangiert im gesamten Sonnensystem auf dem 17. Platz bei allen Planetenmonden.",
    "section": "Physikalische Eigenschaften"
   },
-  "f36": {
+  "f35": {
    "kind": "measure",
    "value": 798650,
    "unit": "km²",
@@ -330,7 +323,7 @@
    "sentence": "Die Gesamtfläche von Enceladus beträgt etwa 798.650 km², dies entspricht in etwa der Fläche von Mosambik oder Pakistan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f37": {
+  "f36": {
    "kind": "measure",
    "value": 1.61,
    "unit": "g",
@@ -338,7 +331,7 @@
    "sentence": "Mit 1,61 g/cm3 weist er die drittgrößte Dichte aller großen Saturnmonde auf, dichter sind nur Phoebe und Titan.",
    "section": "Physikalische Eigenschaften"
   },
-  "f38": {
+  "f37": {
    "kind": "measure",
    "value": 99,
    "unit": "%",
@@ -346,7 +339,7 @@
    "sentence": "Enceladus ist außergewöhnlich hell, da er großflächig mit reinem Wassereis bedeckt ist, das 99 % des eingestrahlten Sonnenlichts reflektiert.",
    "section": "Physikalische Eigenschaften"
   },
-  "f39": {
+  "f38": {
    "kind": "measure",
    "value": 200,
    "unit": "°c",
@@ -354,7 +347,7 @@
    "sentence": "Aufgrund der hohen Reflexion des Sonnenlichts herrschen auf Enceladus meist Temperaturen unter −200 °C bzw. unter 70 Kelvin.",
    "section": "Physikalische Eigenschaften"
   },
-  "f40": {
+  "f39": {
    "kind": "measure",
    "value": 70,
    "unit": "kelvin",
@@ -362,7 +355,7 @@
    "sentence": "Aufgrund der hohen Reflexion des Sonnenlichts herrschen auf Enceladus meist Temperaturen unter −200 °C bzw. unter 70 Kelvin.",
    "section": "Physikalische Eigenschaften"
   },
-  "f41": {
+  "f40": {
    "kind": "measure",
    "value": 100000000,
    "unit": "jahren",
@@ -370,7 +363,7 @@
    "sentence": "Ein Teil seiner Oberfläche scheint mit einem geschätzten Alter von 100 Millionen Jahren relativ jung zu sein.",
    "section": "Physikalische Eigenschaften"
   },
-  "f42": {
+  "f41": {
    "kind": "measure",
    "value": 34,
    "unit": "km",
@@ -378,7 +371,7 @@
    "sentence": "Der größte benannte Krater auf Enceladus, Ali Baba, hat einen Durchmesser von lediglich 34 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f43": {
+  "f42": {
    "kind": "measure",
    "value": 360,
    "unit": "km",
@@ -386,21 +379,21 @@
    "sentence": "Das längste Grabensystem, Samarkand Sulci, erstreckt sich über 360 km.",
    "section": "Physikalische Eigenschaften"
   },
-  "f44": {
+  "f43": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Die Raumsonde Cassini untersuchte den Mond bei mehreren nahen Vorbeiflügen ab März 2005.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f45": {
+  "f44": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Überraschenderweise befindet sich am Südpol dieses Mondes eine Zone lokaler Erwärmung, die die Oberfläche dort um etwa 20 bis 25 K stärker aufheizt, als es zu erwarten wäre.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f46": {
+  "f45": {
    "kind": "measure",
    "value": 25,
    "unit": "k",
@@ -408,28 +401,28 @@
    "sentence": "Überraschenderweise befindet sich am Südpol dieses Mondes eine Zone lokaler Erwärmung, die die Oberfläche dort um etwa 20 bis 25 K stärker aufheizt, als es zu erwarten wäre.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f47": {
+  "f46": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "Er umkreist Saturn in einer 2:1-Resonanz mit dem Mond Dione (wie die Monde Io und Europa den Jupiter), wodurch Gezeitenkräfte wirksam werden, die Reibungen im Mondinnern und damit eine Erwärmung bewirken.",
+   "sentence": "Er umkreist Saturn in einer 2:1-Resonanz mit dem Mond Dione, wodurch Gezeitenkräfte wirksam werden, die Reibungen im Mondinnern und damit eine Erwärmung bewirken.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f48": {
+  "f47": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "Er umkreist Saturn in einer 2:1-Resonanz mit dem Mond Dione (wie die Monde Io und Europa den Jupiter), wodurch Gezeitenkräfte wirksam werden, die Reibungen im Mondinnern und damit eine Erwärmung bewirken.",
+   "sentence": "Er umkreist Saturn in einer 2:1-Resonanz mit dem Mond Dione, wodurch Gezeitenkräfte wirksam werden, die Reibungen im Mondinnern und damit eine Erwärmung bewirken.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f49": {
+  "f48": {
    "kind": "date",
    "value": "2009",
    "surface": "2009",
    "sentence": "Waite u. a. veröffentlichten 2009 neue Messdaten von Cassini, bei denen erstmals Ammoniak nachgewiesen werden konnte.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f50": {
+  "f49": {
    "kind": "measure",
    "value": 300,
    "unit": "meter",
@@ -437,21 +430,21 @@
    "sentence": "In der geologisch aktiven Region ist die Oberfläche von parallelen, Hunderte Kilometer langen Streifen durchzogen, die aus bis zu 300 Meter tiefen Spalten bestehen, in denen kristallines Eis bis zur Oberfläche vordringt.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f51": {
+  "f50": {
    "kind": "number",
    "value": 14,
    "surface": "14",
    "sentence": "Am 14. Juli 2005 wurden von der Raumsonde Cassini, die den Mond in nur 175 km Abstand überflog, auf der Oberfläche unzählige Eisbrocken in der Größe eines Einfamilienhauses beobachtet, deren Herkunft nicht ganz klar ist.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f52": {
+  "f51": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
    "sentence": "Am 14. Juli 2005 wurden von der Raumsonde Cassini, die den Mond in nur 175 km Abstand überflog, auf der Oberfläche unzählige Eisbrocken in der Größe eines Einfamilienhauses beobachtet, deren Herkunft nicht ganz klar ist.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f53": {
+  "f52": {
    "kind": "measure",
    "value": 175,
    "unit": "km",
@@ -459,49 +452,49 @@
    "sentence": "Am 14. Juli 2005 wurden von der Raumsonde Cassini, die den Mond in nur 175 km Abstand überflog, auf der Oberfläche unzählige Eisbrocken in der Größe eines Einfamilienhauses beobachtet, deren Herkunft nicht ganz klar ist.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f54": {
+  "f53": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Am 9. März 2006 teilte die NASA mit, dass Aufnahmen von Cassini flüssiges Wasser in der Südpolregion von Enceladus vermuten lassen.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f55": {
+  "f54": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Am 9. März 2006 teilte die NASA mit, dass Aufnahmen von Cassini flüssiges Wasser in der Südpolregion von Enceladus vermuten lassen.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f56": {
+  "f55": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Am 9. Oktober 2008 passierte Cassini Enceladus in einer Distanz von nur 25 Kilometern.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f57": {
+  "f56": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "Am 9. Oktober 2008 passierte Cassini Enceladus in einer Distanz von nur 25 Kilometern.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f58": {
+  "f57": {
    "kind": "number",
    "value": 25,
    "surface": "25",
    "sentence": "Am 9. Oktober 2008 passierte Cassini Enceladus in einer Distanz von nur 25 Kilometern.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f59": {
+  "f58": {
    "kind": "date",
    "value": "2021",
    "surface": "2021",
    "sentence": "2021 berichteten Wissenschaftler große Mengen an Methan, die von Enceladus ausströmen, entdeckt zu haben.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f60": {
+  "f59": {
    "kind": "measure",
    "value": 10,
    "unit": "km",
@@ -509,14 +502,14 @@
    "sentence": "Damit wurde die Schale höherer Dichte und geringerer Festigkeit entdeckt, die als ein Wasserozean mit einer Tiefe von 10 km unter 30 bis 40 km Eis interpretiert wird.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f61": {
+  "f60": {
    "kind": "number",
    "value": 30,
    "surface": "30",
    "sentence": "Damit wurde die Schale höherer Dichte und geringerer Festigkeit entdeckt, die als ein Wasserozean mit einer Tiefe von 10 km unter 30 bis 40 km Eis interpretiert wird.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f62": {
+  "f61": {
    "kind": "measure",
    "value": 40,
    "unit": "km",
@@ -524,63 +517,63 @@
    "sentence": "Damit wurde die Schale höherer Dichte und geringerer Festigkeit entdeckt, die als ein Wasserozean mit einer Tiefe von 10 km unter 30 bis 40 km Eis interpretiert wird.",
    "section": "Erforschung durch die Sonde Cassini"
   },
-  "f63": {
+  "f62": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
    "sentence": "An der FH Aachen entwickelt ein studentisches Team seit 2010 den Kryobot IceMole, der einen Kryovulkan anbohren und das Wasser im Innern untersuchen soll.",
    "section": "Weitere Erforschung"
   },
-  "f64": {
+  "f63": {
    "kind": "date",
    "value": "2040",
    "surface": "2040",
    "sentence": "Realistisch ist eine solche Mission erst ab dem Jahr 2040.",
    "section": "Weitere Erforschung"
   },
-  "f65": {
+  "f64": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Des Weiteren wurde die Mission Enceladus Life Finder im Jahre 2015 vorgeschlagen, aber nicht ausgewählt.",
    "section": "Weitere Erforschung"
   },
-  "f66": {
+  "f65": {
    "kind": "date",
    "value": "2022",
    "surface": "2022",
-   "sentence": "Im April 2022 wurde der NASA durch die National Academies of Sciences, Engineering, and Medicine, einer Dachorganisation US-amerikanischer Wissenschaftsakademien, empfohlen, im Rahmen ihres Flagship-Programms einer Enceladus-Sonde, die zunächst den Mond umkreisen und danach landen soll (Orbilander), nach einem Uranus-Orbiter für die Jahre 2023 bis 2032 die zweithöchste Priorität zu geben.",
+   "sentence": "Im April 2022 wurde der NASA durch die National Academies of Sciences, Engineering, and Medicine, einer Dachorganisation US-amerikanischer Wissenschaftsakademien, empfohlen, im Rahmen ihres Flagship-Programms einer Enceladus-Sonde, die zunächst den Mond umkreisen und danach landen soll, nach einem Uranus-Orbiter für die Jahre 2023 bis 2032 die zweithöchste Priorität zu geben.",
+   "section": "Weitere Erforschung"
+  },
+  "f66": {
+   "kind": "date",
+   "value": "2023",
+   "surface": "2023",
+   "sentence": "Im April 2022 wurde der NASA durch die National Academies of Sciences, Engineering, and Medicine, einer Dachorganisation US-amerikanischer Wissenschaftsakademien, empfohlen, im Rahmen ihres Flagship-Programms einer Enceladus-Sonde, die zunächst den Mond umkreisen und danach landen soll, nach einem Uranus-Orbiter für die Jahre 2023 bis 2032 die zweithöchste Priorität zu geben.",
    "section": "Weitere Erforschung"
   },
   "f67": {
    "kind": "date",
-   "value": "2023",
-   "surface": "2023",
-   "sentence": "Im April 2022 wurde der NASA durch die National Academies of Sciences, Engineering, and Medicine, einer Dachorganisation US-amerikanischer Wissenschaftsakademien, empfohlen, im Rahmen ihres Flagship-Programms einer Enceladus-Sonde, die zunächst den Mond umkreisen und danach landen soll (Orbilander), nach einem Uranus-Orbiter für die Jahre 2023 bis 2032 die zweithöchste Priorität zu geben.",
+   "value": "2032",
+   "surface": "2032",
+   "sentence": "Im April 2022 wurde der NASA durch die National Academies of Sciences, Engineering, and Medicine, einer Dachorganisation US-amerikanischer Wissenschaftsakademien, empfohlen, im Rahmen ihres Flagship-Programms einer Enceladus-Sonde, die zunächst den Mond umkreisen und danach landen soll, nach einem Uranus-Orbiter für die Jahre 2023 bis 2032 die zweithöchste Priorität zu geben.",
    "section": "Weitere Erforschung"
   },
   "f68": {
-   "kind": "date",
-   "value": "2032",
-   "surface": "2032",
-   "sentence": "Im April 2022 wurde der NASA durch die National Academies of Sciences, Engineering, and Medicine, einer Dachorganisation US-amerikanischer Wissenschaftsakademien, empfohlen, im Rahmen ihres Flagship-Programms einer Enceladus-Sonde, die zunächst den Mond umkreisen und danach landen soll (Orbilander), nach einem Uranus-Orbiter für die Jahre 2023 bis 2032 die zweithöchste Priorität zu geben.",
-   "section": "Weitere Erforschung"
-  },
-  "f69": {
    "kind": "date",
    "value": "2050",
    "surface": "2050",
    "sentence": "Auch ein Expertengremium der ESA hat einer Mission zu Enceladus die höchste Priorität im Rahmen des Planungsprogramms Voyage 2050 gegeben.",
    "section": "Weitere Erforschung"
   },
-  "f70": {
+  "f69": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
    "sentence": "Der ESA-Ministerrat 2025 beschloss eine Mission zu Enceladus als vierte L-Klasse Mission.",
    "section": "Weitere Erforschung"
   },
-  "f71": {
+  "f70": {
    "kind": "measure",
    "value": 10,
    "unit": "jahre",

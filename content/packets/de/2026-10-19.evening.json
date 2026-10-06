@@ -66,162 +66,142 @@
  },
  "facts": {
   "f1": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Ceres (IPA: [ˈtseːrεs] ) oder – in der Nomenklatur für Asteroiden – (1) Ceres ist mit einem mittleren Äquatordurchmesser von 964 km das größte Objekt im Asteroidengürtel und der kleinste von der Internationalen Astronomischen Union als Zwergplanet klassifizierte Himmelskörper."
-  },
-  "f2": {
    "kind": "measure",
    "value": 964,
    "unit": "km",
    "surface": "964 km",
-   "sentence": "Ceres (IPA: [ˈtseːrεs] ) oder – in der Nomenklatur für Asteroiden – (1) Ceres ist mit einem mittleren Äquatordurchmesser von 964 km das größte Objekt im Asteroidengürtel und der kleinste von der Internationalen Astronomischen Union als Zwergplanet klassifizierte Himmelskörper."
+   "sentence": "Ceres oder – in der Nomenklatur für Asteroiden – Ceres ist mit einem mittleren Äquatordurchmesser von 964 km das größte Objekt im Asteroidengürtel und der kleinste von der Internationalen Astronomischen Union als Zwergplanet klassifizierte Himmelskörper."
   },
-  "f3": {
+  "f2": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Sie wurde am 1. Januar 1801 von Giuseppe Piazzi an der Sternwarte Palermo als erster Kleinplanet entdeckt."
   },
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Sie wurde am 1. Januar 1801 von Giuseppe Piazzi an der Sternwarte Palermo als erster Kleinplanet entdeckt."
   },
-  "f5": {
+  "f4": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Im ersten halben Jahrhundert nach ihrer Entdeckung wurde sie als Planet, später als Asteroid eingestuft; seit 2006 zählt sie zur Gruppe der Zwergplaneten."
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Die mittlerweile inaktive Dawn umkreist den Zwergplaneten seit März 2015 als ein künstlicher Satellit."
   },
-  "f7": {
+  "f6": {
    "kind": "date",
    "value": "1770",
    "surface": "1770",
-   "sentence": "Schon Johannes Kepler vermutete in der „Lücke“ zwischen den Umlaufbahnen von Mars und Jupiter einen Planeten, und die Entdeckung der Titius-Bode-Reihe um 1770 bestärkte derartige Vermutungen.",
+   "sentence": "Schon Johannes Kepler vermutete in der „Lücke“zwischen den Umlaufbahnen von Mars und Jupiter einen Planeten, und die Entdeckung der Titius-Bode-Reihe um 1770 bestärkte derartige Vermutungen.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1800",
    "surface": "1800",
-   "sentence": "Die von den Astronomen Franz Xaver von Zach und Johann Hieronymus Schroeter gegründete „Himmelspolizey“ machte sich ab 1800 daher gezielt auf die Suche nach dem vermuteten Planeten.",
+   "sentence": "Die von den Astronomen Franz Xaver von Zach und Johann Hieronymus Schroeter gegründete „Himmelspolizey“machte sich ab 1800 daher gezielt auf die Suche nach dem vermuteten Planeten.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f9": {
+  "f8": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Dazu wurde der Bereich um die Ekliptik in 24 Abschnitte geteilt.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Piazzi entdeckte das Objekt, das er zunächst für einen Kometen hielt, allerdings zufällig während der Überprüfung eines Sternkataloges in der Neujahrsnacht 1801.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f11": {
+  "f10": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Damit konnte von Zach Ceres am 7. Dezember 1801 wieder auffinden.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f12": {
+  "f11": {
    "kind": "date",
    "value": "1801",
    "surface": "1801",
    "sentence": "Damit konnte von Zach Ceres am 7. Dezember 1801 wieder auffinden.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f13": {
+  "f12": {
    "kind": "date",
    "value": "1781",
    "surface": "1781",
    "sentence": "Ceres wurde – wie der 1781 entdeckte Uranus – als Planet betrachtet, womit sich die Anzahl der Planeten im Sonnensystem zunächst auf acht erhöhte.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "1850",
    "surface": "1850",
-   "sentence": "Erst als die Zahl der zwischen Mars und Jupiter gefundenen Himmelskörper um 1850 rasch anstieg, setzten sich für diese Objekte die Bezeichnungen „Kleine Planeten“, „Kleinplaneten“, „Planetoiden“ oder „Asteroiden“ durch, womit Ceres ihren Status als Planet verlor.",
+   "sentence": "Erst als die Zahl der zwischen Mars und Jupiter gefundenen Himmelskörper um 1850 rasch anstieg, setzten sich für diese Objekte die Bezeichnungen „Kleine Planeten“, „Kleinplaneten“, „Planetoiden“oder „Asteroiden“durch, womit Ceres ihren Status als Planet verlor.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f15": {
+  "f14": {
    "kind": "number",
    "value": 21,
    "surface": "21",
    "sentence": "Eine Neudefinierung des Planetenbegriffs wurde Anfang des 21. Jahrhunderts aufgrund der Entdeckung mehrerer Himmelskörper in der Größenklasse Plutos nötig.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f16": {
+  "f15": {
    "kind": "number",
    "value": 24,
    "surface": "24",
    "sentence": "Ein Beschluss der IAU vom 24. August 2006 klassifizierte Ceres, Pluto und drei weitere Objekte als Zwergplaneten.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "2006",
    "surface": "2006",
    "sentence": "Ein Beschluss der IAU vom 24. August 2006 klassifizierte Ceres, Pluto und drei weitere Objekte als Zwergplaneten.",
    "section": "Entdeckung und Objektklassifizierung"
   },
-  "f18": {
+  "f17": {
    "kind": "date",
    "value": "1798",
    "surface": "1798",
    "sentence": "Piazzi nannte den von ihm entdeckten Himmelskörper zunächst Ceres Ferdinandea, nach Ceres, der römischen Göttin des Ackerbaus und Patronin der Insel Sizilien, und zu Ehren von König Ferdinand IV. von Neapel, der 1798 nach Palermo geflohen war.",
    "section": "Benennung"
   },
-  "f19": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "In Deutschland schlug Johann Elert Bode den Namen Juno vor (der dann für den dritten Asteroiden, (3) Juno, aufgegriffen wurde); für kurze Zeit war auch der Name Hera in Gebrauch (der später an (103) Hera vergeben wurde).",
-   "section": "Benennung"
-  },
-  "f20": {
-   "kind": "number",
-   "value": 103,
-   "surface": "103",
-   "sentence": "In Deutschland schlug Johann Elert Bode den Namen Juno vor (der dann für den dritten Asteroiden, (3) Juno, aufgegriffen wurde); für kurze Zeit war auch der Name Hera in Gebrauch (der später an (103) Hera vergeben wurde).",
-   "section": "Benennung"
-  },
-  "f21": {
+  "f18": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Im Jahre 1803, also zwei Jahre nach der Entdeckung von Ceres, wurde das chemische Element Cer entdeckt und nach diesem neuen Himmelskörper benannt.",
    "section": "Benennung"
   },
-  "f22": {
+  "f19": {
    "kind": "number",
    "value": 2.77,
    "surface": "2,77",
    "sentence": "Ceres bewegt sich auf einer Ellipse in der Mitte des Asteroidengürtels, in einem mittleren Abstand von 2,77 AE, in 1681 Tagen um die Sonne, was etwa 4,6 Jahren entspricht.",
    "section": "Umlaufbahn"
   },
-  "f23": {
+  "f20": {
    "kind": "date",
    "value": "1681",
    "surface": "1681",
    "sentence": "Ceres bewegt sich auf einer Ellipse in der Mitte des Asteroidengürtels, in einem mittleren Abstand von 2,77 AE, in 1681 Tagen um die Sonne, was etwa 4,6 Jahren entspricht.",
    "section": "Umlaufbahn"
   },
-  "f24": {
+  "f21": {
    "kind": "measure",
    "value": 4.6,
    "unit": "jahren",
@@ -229,70 +209,70 @@
    "sentence": "Ceres bewegt sich auf einer Ellipse in der Mitte des Asteroidengürtels, in einem mittleren Abstand von 2,77 AE, in 1681 Tagen um die Sonne, was etwa 4,6 Jahren entspricht.",
    "section": "Umlaufbahn"
   },
-  "f25": {
+  "f22": {
    "kind": "number",
    "value": 2.56,
    "surface": "2,56",
    "sentence": "Die Periheldistanz beträgt 2,56 AE, die Apheldistanz 2,98 AE.",
    "section": "Umlaufbahn"
   },
-  "f26": {
+  "f23": {
    "kind": "number",
    "value": 2.98,
    "surface": "2,98",
    "sentence": "Die Periheldistanz beträgt 2,56 AE, die Apheldistanz 2,98 AE.",
    "section": "Umlaufbahn"
   },
-  "f27": {
+  "f24": {
    "kind": "number",
    "value": 10.6,
    "surface": "10,6",
    "sentence": "Die Umlaufbahn ist um 10,6° gegen die Ekliptik geneigt, die Bahnexzentrizität beträgt 0,076.",
    "section": "Umlaufbahn"
   },
-  "f28": {
+  "f25": {
    "kind": "number",
    "value": 0.076,
    "surface": "0,076",
    "sentence": "Die Umlaufbahn ist um 10,6° gegen die Ekliptik geneigt, die Bahnexzentrizität beträgt 0,076.",
    "section": "Umlaufbahn"
   },
-  "f29": {
+  "f26": {
    "kind": "number",
    "value": 467,
    "surface": "467",
    "sentence": "Die synodische Periode von Ceres liegt bei 467 Tagen.",
    "section": "Umlaufbahn"
   },
-  "f30": {
+  "f27": {
    "kind": "number",
    "value": 1.59,
    "surface": "1,59",
    "sentence": "Während der Opposition ist sie zwischen 1,59 AE und 2,00 AE von der Erde entfernt und erreicht eine scheinbare Helligkeit von bis zu 6,6 mag; damit liegt sie nur knapp unterhalb der Sichtbarkeitsschwelle mit dem bloßen Auge.",
    "section": "Umlaufbahn"
   },
-  "f31": {
+  "f28": {
    "kind": "number",
    "value": 2,
    "surface": "2,00",
    "sentence": "Während der Opposition ist sie zwischen 1,59 AE und 2,00 AE von der Erde entfernt und erreicht eine scheinbare Helligkeit von bis zu 6,6 mag; damit liegt sie nur knapp unterhalb der Sichtbarkeitsschwelle mit dem bloßen Auge.",
    "section": "Umlaufbahn"
   },
-  "f32": {
+  "f29": {
    "kind": "number",
    "value": 6.6,
    "surface": "6,6",
    "sentence": "Während der Opposition ist sie zwischen 1,59 AE und 2,00 AE von der Erde entfernt und erreicht eine scheinbare Helligkeit von bis zu 6,6 mag; damit liegt sie nur knapp unterhalb der Sichtbarkeitsschwelle mit dem bloßen Auge.",
    "section": "Umlaufbahn"
   },
-  "f33": {
+  "f30": {
    "kind": "number",
    "value": 9.39,
    "surface": "9,39",
    "sentence": "Für die Masse wird ein Wert von 9,39 × 1020 kg angegeben, was dem 6360.",
    "section": "Beschaffenheit"
   },
-  "f34": {
+  "f31": {
    "kind": "measure",
    "value": 1020,
    "unit": "kg",
@@ -300,36 +280,29 @@
    "sentence": "Für die Masse wird ein Wert von 9,39 × 1020 kg angegeben, was dem 6360.",
    "section": "Beschaffenheit"
   },
-  "f35": {
+  "f32": {
    "kind": "number",
    "value": 6360,
    "surface": "6360",
    "sentence": "Für die Masse wird ein Wert von 9,39 × 1020 kg angegeben, was dem 6360.",
    "section": "Beschaffenheit"
   },
-  "f36": {
+  "f33": {
    "kind": "number",
    "value": 3.6,
    "surface": "3,6",
-   "sentence": "Ceres hat damit etwa die 3,6-fache Masse des nächstschwereren Objekts im Asteroidengürtel, (4) Vesta, und vereinigt etwa 25 % der Gesamtmasse dieses Gürtels in sich.",
+   "sentence": "Ceres hat damit etwa die 3,6-fache Masse des nächstschwereren Objekts im Asteroidengürtel, Vesta, und vereinigt etwa 25 % der Gesamtmasse dieses Gürtels in sich.",
    "section": "Beschaffenheit"
   },
-  "f37": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Ceres hat damit etwa die 3,6-fache Masse des nächstschwereren Objekts im Asteroidengürtel, (4) Vesta, und vereinigt etwa 25 % der Gesamtmasse dieses Gürtels in sich.",
-   "section": "Beschaffenheit"
-  },
-  "f38": {
+  "f34": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %",
-   "sentence": "Ceres hat damit etwa die 3,6-fache Masse des nächstschwereren Objekts im Asteroidengürtel, (4) Vesta, und vereinigt etwa 25 % der Gesamtmasse dieses Gürtels in sich.",
+   "sentence": "Ceres hat damit etwa die 3,6-fache Masse des nächstschwereren Objekts im Asteroidengürtel, Vesta, und vereinigt etwa 25 % der Gesamtmasse dieses Gürtels in sich.",
    "section": "Beschaffenheit"
   },
-  "f39": {
+  "f35": {
    "kind": "measure",
    "value": 964,
    "unit": "km",
@@ -337,7 +310,7 @@
    "sentence": "Beobachtungen mit der NASA-Raumsonde Dawn haben gezeigt, dass Ceres die Form eines abgeplatteten Rotationsellipsoids mit einem Äquatordurchmesser von 964 km und einem Polardurchmesser von 892 km hat.",
    "section": "Beschaffenheit"
   },
-  "f40": {
+  "f36": {
    "kind": "measure",
    "value": 892,
    "unit": "km",
@@ -345,7 +318,7 @@
    "sentence": "Beobachtungen mit der NASA-Raumsonde Dawn haben gezeigt, dass Ceres die Form eines abgeplatteten Rotationsellipsoids mit einem Äquatordurchmesser von 964 km und einem Polardurchmesser von 892 km hat.",
    "section": "Beschaffenheit"
   },
-  "f41": {
+  "f37": {
    "kind": "measure",
    "value": 2850000,
    "unit": "km²",
@@ -353,35 +326,35 @@
    "sentence": "Die Oberfläche von Ceres beträgt damit etwa 2.850.000 km², ähnlich der Fläche von Argentinien.",
    "section": "Beschaffenheit"
   },
-  "f42": {
+  "f38": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Die Rotationsperiode beträgt 9:04:27 Stunden, die berechnete mittlere Dichte wird mit 2,077 ± 0,036 g/cm³ angegeben.",
    "section": "Beschaffenheit"
   },
-  "f43": {
+  "f39": {
    "kind": "number",
    "value": 4,
    "surface": "04",
    "sentence": "Die Rotationsperiode beträgt 9:04:27 Stunden, die berechnete mittlere Dichte wird mit 2,077 ± 0,036 g/cm³ angegeben.",
    "section": "Beschaffenheit"
   },
-  "f44": {
+  "f40": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Die Rotationsperiode beträgt 9:04:27 Stunden, die berechnete mittlere Dichte wird mit 2,077 ± 0,036 g/cm³ angegeben.",
    "section": "Beschaffenheit"
   },
-  "f45": {
+  "f41": {
    "kind": "number",
    "value": 2.077,
    "surface": "2,077",
    "sentence": "Die Rotationsperiode beträgt 9:04:27 Stunden, die berechnete mittlere Dichte wird mit 2,077 ± 0,036 g/cm³ angegeben.",
    "section": "Beschaffenheit"
   },
-  "f46": {
+  "f42": {
    "kind": "measure",
    "value": 0.036,
    "unit": "g",
@@ -389,7 +362,7 @@
    "sentence": "Die Rotationsperiode beträgt 9:04:27 Stunden, die berechnete mittlere Dichte wird mit 2,077 ± 0,036 g/cm³ angegeben.",
    "section": "Beschaffenheit"
   },
-  "f47": {
+  "f43": {
    "kind": "measure",
    "value": 2.16,
    "unit": "g",
@@ -397,50 +370,50 @@
    "sentence": "Die Messungen der Raumsonde Dawn ergaben einen etwas höheren Wert von 2,16 g/cm³.",
    "section": "Beschaffenheit"
   },
-  "f48": {
+  "f44": {
    "kind": "number",
    "value": 0.09,
    "surface": "0,09",
    "sentence": "Ceres besitzt eine dunkle kohlenstoffreiche Oberfläche mit einer Albedo von 0,09.",
    "section": "Beschaffenheit"
   },
-  "f49": {
+  "f45": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "Herausragende oder isolierte Oberflächenmerkmale wurden erstmals im Jahr 1995 durch UV-Beobachtungen mit dem Hubble-Weltraumteleskop festgestellt: Es zeigte sich ein dunkler Fleck mit einem Durchmesser von etwa 250 km, der zu Ehren des Entdeckers von Ceres „Piazzi“ benannt wurde.",
+   "sentence": "Herausragende oder isolierte Oberflächenmerkmale wurden erstmals im Jahr 1995 durch UV-Beobachtungen mit dem Hubble-Weltraumteleskop festgestellt: Es zeigte sich ein dunkler Fleck mit einem Durchmesser von etwa 250 km, der zu Ehren des Entdeckers von Ceres „Piazzi“benannt wurde.",
    "section": "Beschaffenheit"
   },
-  "f50": {
+  "f46": {
    "kind": "measure",
    "value": 250,
    "unit": "km",
    "surface": "250 km",
-   "sentence": "Herausragende oder isolierte Oberflächenmerkmale wurden erstmals im Jahr 1995 durch UV-Beobachtungen mit dem Hubble-Weltraumteleskop festgestellt: Es zeigte sich ein dunkler Fleck mit einem Durchmesser von etwa 250 km, der zu Ehren des Entdeckers von Ceres „Piazzi“ benannt wurde.",
+   "sentence": "Herausragende oder isolierte Oberflächenmerkmale wurden erstmals im Jahr 1995 durch UV-Beobachtungen mit dem Hubble-Weltraumteleskop festgestellt: Es zeigte sich ein dunkler Fleck mit einem Durchmesser von etwa 250 km, der zu Ehren des Entdeckers von Ceres „Piazzi“benannt wurde.",
    "section": "Beschaffenheit"
   },
-  "f51": {
+  "f47": {
    "kind": "date",
    "value": "2003",
    "surface": "2003",
-   "sentence": "Weitere Beobachtungen mit Hubble in den Jahren 2003 und 2004 ermöglichten die Erstellung einer Karte, die neben „Piazzi“ und einem auffälligen, hellen Fleck zahlreiche kleinere Oberflächenmerkmale zeigte.",
+   "sentence": "Weitere Beobachtungen mit Hubble in den Jahren 2003 und 2004 ermöglichten die Erstellung einer Karte, die neben „Piazzi“und einem auffälligen, hellen Fleck zahlreiche kleinere Oberflächenmerkmale zeigte.",
    "section": "Beschaffenheit"
   },
-  "f52": {
+  "f48": {
    "kind": "date",
    "value": "2004",
    "surface": "2004",
-   "sentence": "Weitere Beobachtungen mit Hubble in den Jahren 2003 und 2004 ermöglichten die Erstellung einer Karte, die neben „Piazzi“ und einem auffälligen, hellen Fleck zahlreiche kleinere Oberflächenmerkmale zeigte.",
+   "sentence": "Weitere Beobachtungen mit Hubble in den Jahren 2003 und 2004 ermöglichten die Erstellung einer Karte, die neben „Piazzi“und einem auffälligen, hellen Fleck zahlreiche kleinere Oberflächenmerkmale zeigte.",
    "section": "Beschaffenheit"
   },
-  "f53": {
+  "f49": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Nähere Details lieferte 2015 die US-Raumsonde Dawn, sie offenbarte dicht gesäte Einschlagkrater.",
    "section": "Beschaffenheit"
   },
-  "f54": {
+  "f50": {
    "kind": "measure",
    "value": 280,
    "unit": "km",
@@ -448,7 +421,7 @@
    "sentence": "Der größte benannte Krater namens Kerwan hat einen mittleren Durchmesser von 280 km und liegt am Äquator.",
    "section": "Beschaffenheit"
   },
-  "f55": {
+  "f51": {
    "kind": "measure",
    "value": 2000,
    "unit": "meter",
@@ -456,7 +429,7 @@
    "sentence": "Die Wand des Kraters Occator ragt an manchen Stellen fast 2.000 Meter steil in die Höhe, innerhalb des Kraters liegen einige sehr helle Stellen, wobei in der Mitte mit Cerealia Facula der hellste Bereich des gesamten Himmelskörpers liegt.",
    "section": "Beschaffenheit"
   },
-  "f56": {
+  "f52": {
    "kind": "measure",
    "value": 750,
    "unit": "km",
@@ -464,7 +437,7 @@
    "sentence": "Vendimia Planitia hat einen Durchmesser von bis zu 750 km und erstreckt sich bis südlich des Äquators in den Krater Kerwan.",
    "section": "Beschaffenheit"
   },
-  "f57": {
+  "f53": {
    "kind": "measure",
    "value": 15,
    "unit": "kilometer",
@@ -472,7 +445,7 @@
    "sentence": "Die topografischen Höhenunterschiede auf Ceres betragen insgesamt bis zu 15 Kilometer.",
    "section": "Beschaffenheit"
   },
-  "f58": {
+  "f54": {
    "kind": "measure",
    "value": 4000,
    "unit": "meter",
@@ -480,7 +453,7 @@
    "sentence": "Im Rahmen der Dawn-Mission wurde außerdem der kuppelförmige Kryovulkan Ahuna Mons entdeckt, der sich in der Nähe des Äquators etwa 4.000 Meter hoch erhebt und aus einer Mischung von Chloriden, Mineralien und Wassereis besteht.",
    "section": "Beschaffenheit"
   },
-  "f59": {
+  "f55": {
    "kind": "measure",
    "value": 110,
    "unit": "°c",
@@ -488,7 +461,7 @@
    "sentence": "Die Durchschnittstemperatur am Äquator beträgt etwa −110 °C.",
    "section": "Beschaffenheit"
   },
-  "f60": {
+  "f56": {
    "kind": "measure",
    "value": 400,
    "unit": "meter",
@@ -496,14 +469,14 @@
    "sentence": "In der für Ceres erstellten Kartografie verläuft der Nullmeridian durch das Zentrum des 400 Meter breiten Kraters Kait und teilt die Oberfläche in eine Kerwan-Hemisphäre und eine Occator-Hemisphäre.",
    "section": "Beschaffenheit"
   },
-  "f61": {
+  "f57": {
    "kind": "number",
    "value": 3.6,
    "surface": "3,6",
    "sentence": "So wurde beobachtet, dass sich die Menge an eishaltiger Fläche an bestimmten Stellen verändert: Innerhalb eines halben Jahres vergrößerte sich die Eisfläche im Krater Juling von 3,6 auf 5,5 km².",
    "section": "Beschaffenheit"
   },
-  "f62": {
+  "f58": {
    "kind": "measure",
    "value": 5.5,
    "unit": "km²",
@@ -511,21 +484,21 @@
    "sentence": "So wurde beobachtet, dass sich die Menge an eishaltiger Fläche an bestimmten Stellen verändert: Innerhalb eines halben Jahres vergrößerte sich die Eisfläche im Krater Juling von 3,6 auf 5,5 km².",
    "section": "Beschaffenheit"
   },
-  "f63": {
+  "f59": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Insgesamt dürfte Ceres zu 17 bis 27 Gewichtsprozent aus Wasser bestehen.",
    "section": "Beschaffenheit"
   },
-  "f64": {
+  "f60": {
    "kind": "number",
    "value": 27,
    "surface": "27",
    "sentence": "Insgesamt dürfte Ceres zu 17 bis 27 Gewichtsprozent aus Wasser bestehen.",
    "section": "Beschaffenheit"
   },
-  "f65": {
+  "f61": {
    "kind": "measure",
    "value": 6,
    "unit": "kg",
@@ -533,42 +506,42 @@
    "sentence": "Der Wasserausstoß beträgt 6 kg/s und findet an zwei Stellen auf der Oberfläche statt.",
    "section": "Beschaffenheit"
   },
-  "f66": {
+  "f62": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Eine internationale Forschergruppe des italienischen Instituts für Astrophysik INAF gab im Februar 2017 bekannt, mit Hilfe der Raumsonde Dawn aliphatische organische Kohlenstoffverbindungen auf Ceres gefunden zu haben.",
    "section": "Beschaffenheit"
   },
-  "f67": {
+  "f63": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "Die NASA-Raumsonde Dawn erreichte Ceres am 6. März 2015.",
    "section": "Dawn-Mission"
   },
-  "f68": {
+  "f64": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Die NASA-Raumsonde Dawn erreichte Ceres am 6. März 2015.",
    "section": "Dawn-Mission"
   },
-  "f69": {
+  "f65": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Die Primärmission bestand in der Kartografierung der Oberfläche aus einem hohen Ceres-Orbit und endete im Juli 2015.",
    "section": "Dawn-Mission"
   },
-  "f70": {
+  "f66": {
    "kind": "date",
    "value": "2015",
    "surface": "2015",
    "sentence": "Von Juli bis Dezember 2015 näherte sich Dawn in der Sekundärmission in mehreren Schritten spiralförmig bis auf 380 km; dies ermöglichte eine Auflösung von 40 Meter pro Bildpunkt.",
    "section": "Dawn-Mission"
   },
-  "f71": {
+  "f67": {
    "kind": "measure",
    "value": 380,
    "unit": "km",
@@ -576,7 +549,7 @@
    "sentence": "Von Juli bis Dezember 2015 näherte sich Dawn in der Sekundärmission in mehreren Schritten spiralförmig bis auf 380 km; dies ermöglichte eine Auflösung von 40 Meter pro Bildpunkt.",
    "section": "Dawn-Mission"
   },
-  "f72": {
+  "f68": {
    "kind": "measure",
    "value": 40,
    "unit": "meter",
@@ -584,35 +557,35 @@
    "sentence": "Von Juli bis Dezember 2015 näherte sich Dawn in der Sekundärmission in mehreren Schritten spiralförmig bis auf 380 km; dies ermöglichte eine Auflösung von 40 Meter pro Bildpunkt.",
    "section": "Dawn-Mission"
   },
-  "f73": {
+  "f69": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "Die Sekundärmission diente der detaillierten Erfassung der Bodenchemie und sollte Ende Juni 2016 enden.",
    "section": "Dawn-Mission"
   },
-  "f74": {
+  "f70": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "Die NASA genehmigte Anfang Juli 2016 die Finanzierung der Anschlussmission zur fortgesetzten Beobachtung, um weitere Informationen über den Aufbau und die Entwicklung von Ceres zu gewinnen.",
    "section": "Dawn-Mission"
   },
-  "f75": {
+  "f71": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Ceres näherte sich zu dieser Zeit dem Perihel, das sie im April 2018 erreichte, und man gewann neue Erkenntnisse und Entdeckungen durch Langzeitbeobachtung.",
    "section": "Dawn-Mission"
   },
-  "f76": {
+  "f72": {
    "kind": "date",
    "value": "2017",
    "surface": "2017",
    "sentence": "Im Oktober 2017 wurde die letzte Verlängerung der Mission bis zum Treibstoffende bekannt gegeben.",
    "section": "Dawn-Mission"
   },
-  "f77": {
+  "f73": {
    "kind": "measure",
    "value": 200,
    "unit": "km",
@@ -620,49 +593,49 @@
    "sentence": "Dawn wurde auf eine elliptische Umlaufbahn gesteuert, die mit 200 km Höhe näher als zuvor an die Oberfläche heranreichte.",
    "section": "Dawn-Mission"
   },
-  "f78": {
+  "f74": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Diese Bahn behielt die Sonde bei und sammelte wissenschaftliche Daten, bis alle Hydrazinreserven verbraucht waren und stellte dann ihren Betrieb am 1. November 2018 endgültig ein.",
+   "section": "Dawn-Mission"
+  },
+  "f75": {
+   "kind": "date",
+   "value": "2018",
+   "surface": "2018",
+   "sentence": "Diese Bahn behielt die Sonde bei und sammelte wissenschaftliche Daten, bis alle Hydrazinreserven verbraucht waren und stellte dann ihren Betrieb am 1. November 2018 endgültig ein.",
+   "section": "Dawn-Mission"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Die letzten empfangenen Bilder stammen vom 1. September 2018.",
+   "section": "Dawn-Mission"
+  },
+  "f77": {
+   "kind": "date",
+   "value": "2018",
+   "surface": "2018",
+   "sentence": "Die letzten empfangenen Bilder stammen vom 1. September 2018.",
+   "section": "Dawn-Mission"
+  },
+  "f78": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020",
+   "sentence": "Nach den Ergebnissen einer im August 2020 veröffentlichten Studie auf Basis der Daten der Dawn-Mission aus dem Jahr 2018 ist Ceres eine „Ozeanwelt“mit einem großen Salzwasserreservoir unter ihrer Oberfläche.",
    "section": "Dawn-Mission"
   },
   "f79": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
-   "sentence": "Diese Bahn behielt die Sonde bei und sammelte wissenschaftliche Daten, bis alle Hydrazinreserven verbraucht waren und stellte dann ihren Betrieb am 1. November 2018 endgültig ein.",
+   "sentence": "Nach den Ergebnissen einer im August 2020 veröffentlichten Studie auf Basis der Daten der Dawn-Mission aus dem Jahr 2018 ist Ceres eine „Ozeanwelt“mit einem großen Salzwasserreservoir unter ihrer Oberfläche.",
    "section": "Dawn-Mission"
   },
   "f80": {
-   "kind": "number",
-   "value": 1,
-   "surface": "1",
-   "sentence": "Die letzten empfangenen Bilder stammen vom 1. September 2018.",
-   "section": "Dawn-Mission"
-  },
-  "f81": {
-   "kind": "date",
-   "value": "2018",
-   "surface": "2018",
-   "sentence": "Die letzten empfangenen Bilder stammen vom 1. September 2018.",
-   "section": "Dawn-Mission"
-  },
-  "f82": {
-   "kind": "date",
-   "value": "2020",
-   "surface": "2020",
-   "sentence": "Nach den Ergebnissen einer im August 2020 veröffentlichten Studie auf Basis der Daten der Dawn-Mission aus dem Jahr 2018 ist Ceres eine „Ozeanwelt“ mit einem großen Salzwasserreservoir unter ihrer Oberfläche.",
-   "section": "Dawn-Mission"
-  },
-  "f83": {
-   "kind": "date",
-   "value": "2018",
-   "surface": "2018",
-   "sentence": "Nach den Ergebnissen einer im August 2020 veröffentlichten Studie auf Basis der Daten der Dawn-Mission aus dem Jahr 2018 ist Ceres eine „Ozeanwelt“ mit einem großen Salzwasserreservoir unter ihrer Oberfläche.",
-   "section": "Dawn-Mission"
-  },
-  "f84": {
    "kind": "measure",
    "value": 40,
    "unit": "kilometer",

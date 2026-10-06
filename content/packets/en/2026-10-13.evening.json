@@ -77,229 +77,169 @@
    "kind": "date",
    "value": "1937",
    "surface": "1937",
-   "sentence": "In 1937, technetium became the first predominantly artificial element to be produced, hence its name (from the Greek technetos, 'artificial', + -ium)."
+   "sentence": "In 1937, technetium became the first predominantly artificial element to be produced, hence its name."
   },
   "f4": {
-   "kind": "measure",
-   "value": 4210000,
-   "unit": "years",
-   "surface": "4.21 million years",
-   "sentence": "Because even the longest-lived isotope of technetium has a relatively short half-life (4.21 million years), the 1952 detection of technetium in red giants helped to prove that stars can produce heavier elements."
-  },
-  "f5": {
    "kind": "date",
    "value": "1952",
    "surface": "1952",
-   "sentence": "Because even the longest-lived isotope of technetium has a relatively short half-life (4.21 million years), the 1952 detection of technetium in red giants helped to prove that stars can produce heavier elements."
+   "sentence": "Because even the longest-lived isotope of technetium has a relatively short half-life, the 1952 detection of technetium in red giants helped to prove that stars can produce heavier elements."
   },
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
-   "sentence": "From the 1860s through 1871, early forms of the periodic table proposed by Dmitri Mendeleev contained a gap between molybdenum (element 42) and ruthenium (element 44).",
+   "sentence": "From the 1860s through 1871, early forms of the periodic table proposed by Dmitri Mendeleev contained a gap between molybdenum and ruthenium.",
    "section": "History"
   },
-  "f7": {
-   "kind": "number",
-   "value": 42,
-   "surface": "42",
-   "sentence": "From the 1860s through 1871, early forms of the periodic table proposed by Dmitri Mendeleev contained a gap between molybdenum (element 42) and ruthenium (element 44).",
-   "section": "History"
-  },
-  "f8": {
-   "kind": "number",
-   "value": 44,
-   "surface": "44",
-   "sentence": "From the 1860s through 1871, early forms of the periodic table proposed by Dmitri Mendeleev contained a gap between molybdenum (element 42) and ruthenium (element 44).",
-   "section": "History"
-  },
-  "f9": {
+  "f6": {
    "kind": "date",
    "value": "1871",
    "surface": "1871",
    "sentence": "In 1871, Mendeleev predicted this missing element would occupy the empty place below manganese and have similar chemical properties.",
    "section": "History"
   },
-  "f10": {
+  "f7": {
    "kind": "number",
    "value": 75,
    "surface": "75",
-   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium (after Masuria in eastern Prussia, now in Poland, the region where Walter Noddack's family originated).",
+   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium.",
+   "section": "History"
+  },
+  "f8": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium.",
+   "section": "History"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925",
+   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium.",
+   "section": "History"
+  },
+  "f10": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium.",
    "section": "History"
   },
   "f11": {
    "kind": "number",
    "value": 43,
    "surface": "43",
-   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium (after Masuria in eastern Prussia, now in Poland, the region where Walter Noddack's family originated).",
-   "section": "History"
-  },
-  "f12": {
-   "kind": "date",
-   "value": "1925",
-   "surface": "1925",
-   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium (after Masuria in eastern Prussia, now in Poland, the region where Walter Noddack's family originated).",
-   "section": "History"
-  },
-  "f13": {
-   "kind": "number",
-   "value": 43,
-   "surface": "43",
-   "sentence": "German chemists Walter Noddack, Otto Berg, and Ida Tacke reported the discovery of element 75 and element 43 in 1925, and named element 43 masurium (after Masuria in eastern Prussia, now in Poland, the region where Walter Noddack's family originated).",
-   "section": "History"
-  },
-  "f14": {
-   "kind": "number",
-   "value": 43,
-   "surface": "43",
    "sentence": "This name caused significant resentment in the scientific community, because it was interpreted as referring to a series of victories of the German army over the Russian army in the Masuria region during World War I; as the Noddacks remained in their academic positions while the Nazis were in power, suspicions and hostility against their claim for discovering element 43 continued.",
    "section": "History"
   },
-  "f15": {
+  "f12": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "The group bombarded columbite with a beam of electrons and deduced element 43 was present by examining X-ray emission spectrograms.",
    "section": "History"
   },
-  "f16": {
+  "f13": {
    "kind": "date",
    "value": "1913",
    "surface": "1913",
    "sentence": "The wavelength of the X-rays produced is related to the atomic number by a formula derived by Henry Moseley in 1913.",
    "section": "History"
   },
-  "f17": {
+  "f14": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "The team claimed to detect a faint X-ray signal at a wavelength produced by element 43.",
    "section": "History"
   },
-  "f18": {
+  "f15": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "Still, in 1933, a series of articles on the discovery of elements quoted the name masurium for element 43.",
    "section": "History"
   },
-  "f19": {
+  "f16": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "Still, in 1933, a series of articles on the discovery of elements quoted the name masurium for element 43.",
    "section": "History"
   },
-  "f20": {
+  "f17": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "Some more recent attempts have been made to rehabilitate the Noddacks' claims, but they are disproved by Paul Kuroda's study on the amount of technetium that could have been present in the ores they studied: it could not have exceeded 3 × 10−11 μg/kg of ore, and thus would have been undetectable by the Noddacks' methods.",
    "section": "History"
   },
-  "f21": {
+  "f18": {
    "kind": "number",
    "value": 10,
    "surface": "10",
    "sentence": "Some more recent attempts have been made to rehabilitate the Noddacks' claims, but they are disproved by Paul Kuroda's study on the amount of technetium that could have been present in the ores they studied: it could not have exceeded 3 × 10−11 μg/kg of ore, and thus would have been undetectable by the Noddacks' methods.",
    "section": "History"
   },
-  "f22": {
+  "f19": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "Some more recent attempts have been made to rehabilitate the Noddacks' claims, but they are disproved by Paul Kuroda's study on the amount of technetium that could have been present in the ores they studied: it could not have exceeded 3 × 10−11 μg/kg of ore, and thus would have been undetectable by the Noddacks' methods.",
    "section": "History"
   },
-  "f23": {
+  "f20": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "The discovery of element 43 was finally confirmed in a 1937 experiment at the University of Palermo in Sicily by Carlo Perrier and Emilio Segrè.",
    "section": "History"
   },
-  "f24": {
+  "f21": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
    "sentence": "The discovery of element 43 was finally confirmed in a 1937 experiment at the University of Palermo in Sicily by Carlo Perrier and Emilio Segrè.",
    "section": "History"
   },
-  "f25": {
+  "f22": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "Segrè enlisted his colleague Perrier to attempt to prove, through comparative chemistry, that the molybdenum activity was indeed from an element with the atomic number 43, which they did.",
    "section": "History"
   },
-  "f26": {
+  "f23": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
-   "sentence": "In 1947, element 43 was named after the Greek word technetos (τεχνητός), meaning 'artificial', since it was the first element to be artificially produced.",
+   "sentence": "In 1947, element 43 was named after the Greek word technetos, meaning 'artificial', since it was the first element to be artificially produced.",
    "section": "History"
   },
-  "f27": {
+  "f24": {
    "kind": "number",
    "value": 43,
    "surface": "43",
-   "sentence": "In 1947, element 43 was named after the Greek word technetos (τεχνητός), meaning 'artificial', since it was the first element to be artificially produced.",
+   "sentence": "In 1947, element 43 was named after the Greek word technetos, meaning 'artificial', since it was the first element to be artificially produced.",
    "section": "History"
   },
-  "f28": {
+  "f25": {
    "kind": "date",
    "value": "1952",
    "surface": "1952",
-   "sentence": "In 1952, the astronomer Paul W. Merrill detected the spectral signature of technetium (specifically wavelengths of 403.1 nm, 423.8 nm, 426.2 nm, and 429.7 nm) in light from S-type red giants.",
+   "sentence": "In 1952, the astronomer Paul W. Merrill detected the spectral signature of technetium in light from S-type red giants.",
    "section": "History"
   },
-  "f29": {
-   "kind": "measure",
-   "value": 403.1,
-   "unit": "nm",
-   "surface": "403.1 nm",
-   "sentence": "In 1952, the astronomer Paul W. Merrill detected the spectral signature of technetium (specifically wavelengths of 403.1 nm, 423.8 nm, 426.2 nm, and 429.7 nm) in light from S-type red giants.",
-   "section": "History"
-  },
-  "f30": {
-   "kind": "measure",
-   "value": 423.8,
-   "unit": "nm",
-   "surface": "423.8 nm",
-   "sentence": "In 1952, the astronomer Paul W. Merrill detected the spectral signature of technetium (specifically wavelengths of 403.1 nm, 423.8 nm, 426.2 nm, and 429.7 nm) in light from S-type red giants.",
-   "section": "History"
-  },
-  "f31": {
-   "kind": "measure",
-   "value": 426.2,
-   "unit": "nm",
-   "surface": "426.2 nm",
-   "sentence": "In 1952, the astronomer Paul W. Merrill detected the spectral signature of technetium (specifically wavelengths of 403.1 nm, 423.8 nm, 426.2 nm, and 429.7 nm) in light from S-type red giants.",
-   "section": "History"
-  },
-  "f32": {
-   "kind": "measure",
-   "value": 429.7,
-   "unit": "nm",
-   "surface": "429.7 nm",
-   "sentence": "In 1952, the astronomer Paul W. Merrill detected the spectral signature of technetium (specifically wavelengths of 403.1 nm, 423.8 nm, 426.2 nm, and 429.7 nm) in light from S-type red giants.",
-   "section": "History"
-  },
-  "f33": {
+  "f26": {
    "kind": "date",
    "value": "1962",
    "surface": "1962",
-   "sentence": "In 1962, technetium-99 was isolated and identified in pitchblende from the Belgian Congo in very small quantities (about 0.2 ng/kg), where it originates as a spontaneous fission product of uranium-238.",
+   "sentence": "In 1962, technetium-99 was isolated and identified in pitchblende from the Belgian Congo in very small quantities, where it originates as a spontaneous fission product of uranium-238.",
    "section": "History"
   },
-  "f34": {
-   "kind": "number",
-   "value": 0.2,
-   "surface": "0.2",
-   "sentence": "In 1962, technetium-99 was isolated and identified in pitchblende from the Belgian Congo in very small quantities (about 0.2 ng/kg), where it originates as a spontaneous fission product of uranium-238.",
-   "section": "History"
-  },
-  "f35": {
+  "f27": {
    "kind": "measure",
    "value": 363.3,
    "unit": "nm",
@@ -307,7 +247,7 @@
    "sentence": "Atomic technetium has characteristic emission lines at wavelengths of 363.3 nm, 403.1 nm, 426.2 nm, 429.7 nm, and 485.3 nm.",
    "section": "Characteristics"
   },
-  "f36": {
+  "f28": {
    "kind": "measure",
    "value": 403.1,
    "unit": "nm",
@@ -315,7 +255,7 @@
    "sentence": "Atomic technetium has characteristic emission lines at wavelengths of 363.3 nm, 403.1 nm, 426.2 nm, 429.7 nm, and 485.3 nm.",
    "section": "Characteristics"
   },
-  "f37": {
+  "f29": {
    "kind": "measure",
    "value": 426.2,
    "unit": "nm",
@@ -323,7 +263,7 @@
    "sentence": "Atomic technetium has characteristic emission lines at wavelengths of 363.3 nm, 403.1 nm, 426.2 nm, 429.7 nm, and 485.3 nm.",
    "section": "Characteristics"
   },
-  "f38": {
+  "f30": {
    "kind": "measure",
    "value": 429.7,
    "unit": "nm",
@@ -331,7 +271,7 @@
    "sentence": "Atomic technetium has characteristic emission lines at wavelengths of 363.3 nm, 403.1 nm, 426.2 nm, 429.7 nm, and 485.3 nm.",
    "section": "Characteristics"
   },
-  "f39": {
+  "f31": {
    "kind": "measure",
    "value": 485.3,
    "unit": "nm",
@@ -339,199 +279,85 @@
    "sentence": "Atomic technetium has characteristic emission lines at wavelengths of 363.3 nm, 403.1 nm, 426.2 nm, 429.7 nm, and 485.3 nm.",
    "section": "Characteristics"
   },
-  "f40": {
-   "kind": "number",
-   "value": 0.2805,
-   "surface": "0.2805",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f41": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f42": {
-   "kind": "number",
-   "value": 0.4958,
-   "surface": "0.4958",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f43": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f44": {
-   "kind": "number",
-   "value": 0.4474,
-   "surface": "0.4474",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f45": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f46": {
-   "kind": "number",
-   "value": 1.38,
-   "surface": "1.38",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f47": {
-   "kind": "number",
-   "value": 0.2815,
-   "surface": "0.2815",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f48": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f49": {
-   "kind": "number",
-   "value": 0.4963,
-   "surface": "0.4963",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f50": {
-   "kind": "number",
-   "value": 8,
-   "surface": "8",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f51": {
-   "kind": "number",
-   "value": 0.4482,
-   "surface": "0.4482",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f52": {
-   "kind": "number",
-   "value": 5,
-   "surface": "5",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f53": {
-   "kind": "number",
-   "value": 1.96,
-   "surface": "1.96",
-   "sentence": "The unit cell parameters of the orthorhombic Tc metal were reported when Tc is contaminated with carbon (a = 0.2805(4), b = 0.4958(8), c = 0.4474(5)·nm for Tc-C with 1.38 wt% C and a = 0.2815(4), b = 0.4963(8), c = 0.4482(5)·nm for Tc-C with 1.96 wt% C ).",
-   "section": "Characteristics"
-  },
-  "f54": {
+  "f32": {
    "kind": "measure",
    "value": 7.46,
    "unit": "k",
    "surface": "7.46 K",
-   "sentence": "Pure, metallic, single-crystal technetium becomes a type-II superconductor at temperatures below 7.46 K (−265.69 °C; −446.24 °F).",
+   "sentence": "Pure, metallic, single-crystal technetium becomes a type-II superconductor at temperatures below 7.46 K.\nBelow this temperature, technetium has a very high magnetic penetration depth, greater than any other element except niobium.",
    "section": "Characteristics"
   },
-  "f55": {
-   "kind": "measure",
-   "value": 265.69,
-   "unit": "°c",
-   "surface": "265.69 °C",
-   "sentence": "Pure, metallic, single-crystal technetium becomes a type-II superconductor at temperatures below 7.46 K (−265.69 °C; −446.24 °F).",
-   "section": "Characteristics"
-  },
-  "f56": {
-   "kind": "measure",
-   "value": 446.24,
-   "unit": "°f",
-   "surface": "446.24 °F",
-   "sentence": "Pure, metallic, single-crystal technetium becomes a type-II superconductor at temperatures below 7.46 K (−265.69 °C; −446.24 °F).",
-   "section": "Characteristics"
-  },
-  "f57": {
+  "f33": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Technetium is located in group 7 of the periodic table, between rhenium and manganese.",
    "section": "Characteristics"
   },
-  "f58": {
+  "f34": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "This is consistent with the tendency of period 5 elements to resemble their counterparts in period 6 more than period 4 due to the lanthanide contraction.",
    "section": "Characteristics"
   },
-  "f59": {
+  "f35": {
    "kind": "number",
    "value": 6,
    "surface": "6",
    "sentence": "This is consistent with the tendency of period 5 elements to resemble their counterparts in period 6 more than period 4 due to the lanthanide contraction.",
    "section": "Characteristics"
   },
-  "f60": {
+  "f36": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "This is consistent with the tendency of period 5 elements to resemble their counterparts in period 6 more than period 4 due to the lanthanide contraction.",
    "section": "Characteristics"
   },
-  "f61": {
+  "f37": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "Technetium exhibits nine oxidation states from −1 to +7, with +4, +5, and +7 being the most common.",
    "section": "Characteristics"
   },
-  "f62": {
+  "f38": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Technetium exhibits nine oxidation states from −1 to +7, with +4, +5, and +7 being the most common.",
    "section": "Characteristics"
   },
-  "f63": {
+  "f39": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "Technetium exhibits nine oxidation states from −1 to +7, with +4, +5, and +7 being the most common.",
    "section": "Characteristics"
   },
-  "f64": {
+  "f40": {
    "kind": "number",
    "value": 5,
    "surface": "5",
    "sentence": "Technetium exhibits nine oxidation states from −1 to +7, with +4, +5, and +7 being the most common.",
    "section": "Characteristics"
   },
-  "f65": {
+  "f41": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "Technetium exhibits nine oxidation states from −1 to +7, with +4, +5, and +7 being the most common.",
    "section": "Characteristics"
   },
-  "f66": {
+  "f42": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "When reacting with hydrogen at high pressure, it forms the non-stoichiometric hydride TcH1.3 and while reacting with carbon it forms Tc6C, with cell parameter 0.398 nm.",
    "section": "Characteristics"
   },
-  "f67": {
+  "f43": {
    "kind": "measure",
    "value": 0.398,
    "unit": "nm",
@@ -539,140 +365,70 @@
    "sentence": "When reacting with hydrogen at high pressure, it forms the non-stoichiometric hydride TcH1.3 and while reacting with carbon it forms Tc6C, with cell parameter 0.398 nm.",
    "section": "Characteristics"
   },
-  "f68": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The majority of this material is produced by radioactive decay from [99MoO4]2−:\nPertechnetate (TcO−4) is only weakly hydrated in aqueous solutions and behaves analogously to perchlorate anion, both of which are tetrahedral.",
-   "section": "Compounds"
-  },
-  "f69": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "The majority of this material is produced by radioactive decay from [99MoO4]2−:\nPertechnetate (TcO−4) is only weakly hydrated in aqueous solutions and behaves analogously to perchlorate anion, both of which are tetrahedral.",
-   "section": "Compounds"
-  },
-  "f70": {
-   "kind": "number",
-   "value": 4,
-   "surface": "4",
-   "sentence": "Unlike permanganate (MnO−4), it is only a weak oxidizing agent.",
-   "section": "Compounds"
-  },
-  "f71": {
+  "f44": {
    "kind": "number",
    "value": 167,
    "surface": "167",
    "sentence": "It adopts a centrosymmetric structure with two types of Tc–O bonds with 167 and 184 pm bond lengths.",
    "section": "Compounds"
   },
-  "f72": {
+  "f45": {
    "kind": "number",
    "value": 184,
    "surface": "184",
    "sentence": "It adopts a centrosymmetric structure with two types of Tc–O bonds with 167 and 184 pm bond lengths.",
    "section": "Compounds"
   },
-  "f73": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "In concentrated sulfuric acid, [TcO4]− converts to the octahedral form TcO3(OH)(H2O)2, the conjugate base of the hypothetical triaquo complex [TcO3(H2O)3]+.",
-   "section": "Compounds"
-  },
-  "f74": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "In concentrated sulfuric acid, [TcO4]− converts to the octahedral form TcO3(OH)(H2O)2, the conjugate base of the hypothetical triaquo complex [TcO3(H2O)3]+.",
-   "section": "Compounds"
-  },
-  "f75": {
+  "f46": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "Technetium forms the complex TcH2−9.",
    "section": "Compounds"
   },
-  "f76": {
+  "f47": {
    "kind": "number",
    "value": 9,
    "surface": "9",
    "sentence": "The potassium salt is isostructural with ReH2−9.",
    "section": "Compounds"
   },
-  "f77": {
+  "f48": {
    "kind": "number",
    "value": 3,
    "surface": "3",
    "sentence": "At high pressure formation of TcH1.3 from elements was also reported.",
    "section": "Compounds"
   },
-  "f78": {
-   "kind": "number",
-   "value": 2,
-   "surface": "2",
-   "sentence": "The binary tetrahalides can be converted to the hexahalides [TcX6]2− (X = F, Cl, Br, I), which adopt octahedral molecular geometry.",
-   "section": "Compounds"
-  },
-  "f79": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "The binary carbonyl Tc2(CO)10 is a white volatile solid.",
-   "section": "Compounds"
-  },
-  "f80": {
+  "f49": {
    "kind": "number",
    "value": 303,
    "surface": "303",
-   "sentence": "The bond length between technetium atoms, 303 pm, is significantly larger than the distance between two atoms in metallic technetium (272 pm).",
+   "sentence": "The bond length between technetium atoms, 303 pm, is significantly larger than the distance between two atoms in metallic technetium.",
    "section": "Compounds"
   },
-  "f81": {
-   "kind": "number",
-   "value": 272,
-   "surface": "272",
-   "sentence": "The bond length between technetium atoms, 303 pm, is significantly larger than the distance between two atoms in metallic technetium (272 pm).",
-   "section": "Compounds"
-  },
-  "f82": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Technetium also forms aquo-carbonyl complexes, one prominent complex being [Tc(CO)3(H2O)3]+, which are unusual compared to other metal carbonyls.",
-   "section": "Compounds"
-  },
-  "f83": {
-   "kind": "number",
-   "value": 3,
-   "surface": "3",
-   "sentence": "Technetium also forms aquo-carbonyl complexes, one prominent complex being [Tc(CO)3(H2O)3]+, which are unusual compared to other metal carbonyls.",
-   "section": "Compounds"
-  },
-  "f84": {
+  "f50": {
    "kind": "number",
    "value": 43,
    "surface": "43",
    "sentence": "Technetium, with atomic number Z = 43, is the lowest-numbered element in the periodic table for which all isotopes are radioactive.",
    "section": "Isotopes"
   },
-  "f85": {
+  "f51": {
    "kind": "number",
    "value": 61,
    "surface": "61",
    "sentence": "The second-lightest exclusively radioactive element, promethium, has atomic number 61.",
    "section": "Isotopes"
   },
-  "f86": {
+  "f52": {
    "kind": "number",
    "value": 4.21,
    "surface": "4.21",
    "sentence": "The most stable radioactive isotopes are technetium-97 with a half-life of 4.21±0.16 million years and technetium-98 with 4.2±0.3 million years; current measurements of their half-lives give overlapping confidence intervals corresponding to one standard deviation and therefore do not allow a definite assignment of technetium's most stable isotope.",
    "section": "Isotopes"
   },
-  "f87": {
+  "f53": {
    "kind": "measure",
    "value": 160000,
    "unit": "years",
@@ -680,14 +436,14 @@
    "sentence": "The most stable radioactive isotopes are technetium-97 with a half-life of 4.21±0.16 million years and technetium-98 with 4.2±0.3 million years; current measurements of their half-lives give overlapping confidence intervals corresponding to one standard deviation and therefore do not allow a definite assignment of technetium's most stable isotope.",
    "section": "Isotopes"
   },
-  "f88": {
+  "f54": {
    "kind": "number",
    "value": 4.2,
    "surface": "4.2",
    "sentence": "The most stable radioactive isotopes are technetium-97 with a half-life of 4.21±0.16 million years and technetium-98 with 4.2±0.3 million years; current measurements of their half-lives give overlapping confidence intervals corresponding to one standard deviation and therefore do not allow a definite assignment of technetium's most stable isotope.",
    "section": "Isotopes"
   },
-  "f89": {
+  "f55": {
    "kind": "measure",
    "value": 300000,
    "unit": "years",
@@ -695,7 +451,7 @@
    "sentence": "The most stable radioactive isotopes are technetium-97 with a half-life of 4.21±0.16 million years and technetium-98 with 4.2±0.3 million years; current measurements of their half-lives give overlapping confidence intervals corresponding to one standard deviation and therefore do not allow a definite assignment of technetium's most stable isotope.",
    "section": "Isotopes"
   },
-  "f90": {
+  "f56": {
    "kind": "measure",
    "value": 211100,
    "unit": "years",
@@ -703,133 +459,56 @@
    "sentence": "The next most stable isotope is technetium-99, which has a half-life of 211,100 years.",
    "section": "Isotopes"
   },
-  "f91": {
+  "f57": {
    "kind": "number",
    "value": 86,
    "surface": "86",
    "sentence": "Thirty-four other radioisotopes have been characterized with mass numbers ranging from 86 to 122.",
    "section": "Isotopes"
   },
-  "f92": {
+  "f58": {
    "kind": "number",
    "value": 122,
    "surface": "122",
    "sentence": "Thirty-four other radioisotopes have been characterized with mass numbers ranging from 86 to 122.",
    "section": "Isotopes"
   },
-  "f93": {
-   "kind": "number",
-   "value": 2.75,
-   "surface": "2.75",
-   "sentence": "Most of these have half-lives that are less than an hour, the exceptions being technetium-93 (2.75 hours), technetium-94 (4.88 hours), technetium-95 (19.26 hours), and technetium-96 (4.28 days).",
-   "section": "Isotopes"
-  },
-  "f94": {
-   "kind": "number",
-   "value": 4.88,
-   "surface": "4.88",
-   "sentence": "Most of these have half-lives that are less than an hour, the exceptions being technetium-93 (2.75 hours), technetium-94 (4.88 hours), technetium-95 (19.26 hours), and technetium-96 (4.28 days).",
-   "section": "Isotopes"
-  },
-  "f95": {
-   "kind": "number",
-   "value": 19.26,
-   "surface": "19.26",
-   "sentence": "Most of these have half-lives that are less than an hour, the exceptions being technetium-93 (2.75 hours), technetium-94 (4.88 hours), technetium-95 (19.26 hours), and technetium-96 (4.28 days).",
-   "section": "Isotopes"
-  },
-  "f96": {
-   "kind": "number",
-   "value": 4.28,
-   "surface": "4.28",
-   "sentence": "Most of these have half-lives that are less than an hour, the exceptions being technetium-93 (2.75 hours), technetium-94 (4.88 hours), technetium-95 (19.26 hours), and technetium-96 (4.28 days).",
-   "section": "Isotopes"
-  },
-  "f97": {
-   "kind": "number",
-   "value": 42,
-   "surface": "42",
-   "sentence": "The primary decay mode for isotopes lighter than technetium-98 (98Tc) is electron capture, producing molybdenum (Z = 42).",
-   "section": "Isotopes"
-  },
-  "f98": {
-   "kind": "number",
-   "value": 44,
-   "surface": "44",
-   "sentence": "For technetium-98 and heavier isotopes, the primary mode is beta emission (the emission of an electron or positron), producing ruthenium (Z = 44), with the exception that technetium-98 and technetium-100 can decay both by beta emission and electron capture.",
-   "section": "Isotopes"
-  },
-  "f99": {
+  "f59": {
    "kind": "number",
    "value": 91.1,
    "surface": "91.1",
-   "sentence": "Technetium-97m (97mTc; \"m\" stands for metastable) is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m (62.0 days, 0.039 MeV), and technetium-99m (6.01 hours, 0.143 MeV).",
+   "sentence": "Technetium-97m is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m, and technetium-99m.",
    "section": "Isotopes"
   },
-  "f100": {
+  "f60": {
    "kind": "number",
    "value": 0.097,
    "surface": "0.097",
-   "sentence": "Technetium-97m (97mTc; \"m\" stands for metastable) is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m (62.0 days, 0.039 MeV), and technetium-99m (6.01 hours, 0.143 MeV).",
+   "sentence": "Technetium-97m is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m, and technetium-99m.",
    "section": "Isotopes"
   },
-  "f101": {
-   "kind": "number",
-   "value": 62,
-   "surface": "62.0",
-   "sentence": "Technetium-97m (97mTc; \"m\" stands for metastable) is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m (62.0 days, 0.039 MeV), and technetium-99m (6.01 hours, 0.143 MeV).",
-   "section": "Isotopes"
-  },
-  "f102": {
-   "kind": "number",
-   "value": 0.039,
-   "surface": "0.039",
-   "sentence": "Technetium-97m (97mTc; \"m\" stands for metastable) is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m (62.0 days, 0.039 MeV), and technetium-99m (6.01 hours, 0.143 MeV).",
-   "section": "Isotopes"
-  },
-  "f103": {
-   "kind": "number",
-   "value": 6.01,
-   "surface": "6.01",
-   "sentence": "Technetium-97m (97mTc; \"m\" stands for metastable) is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m (62.0 days, 0.039 MeV), and technetium-99m (6.01 hours, 0.143 MeV).",
-   "section": "Isotopes"
-  },
-  "f104": {
-   "kind": "number",
-   "value": 0.143,
-   "surface": "0.143",
-   "sentence": "Technetium-97m (97mTc; \"m\" stands for metastable) is the most stable, with a half-life of 91.1 days and excitation energy 0.097 MeV, followed by technetium-95m (62.0 days, 0.039 MeV), and technetium-99m (6.01 hours, 0.143 MeV).",
-   "section": "Isotopes"
-  },
-  "f105": {
+  "f61": {
    "kind": "number",
    "value": 6.2,
    "surface": "6.2",
-   "sentence": "One gram of technetium-99 produces 6.2 × 108 disintegrations per second (in other words, the specific activity of 99Tc is 0.62 GBq/g).",
+   "sentence": "One gram of technetium-99 produces 6.2 × 108 disintegrations per second.",
    "section": "Isotopes"
   },
-  "f106": {
+  "f62": {
    "kind": "number",
    "value": 108,
    "surface": "108",
-   "sentence": "One gram of technetium-99 produces 6.2 × 108 disintegrations per second (in other words, the specific activity of 99Tc is 0.62 GBq/g).",
+   "sentence": "One gram of technetium-99 produces 6.2 × 108 disintegrations per second.",
    "section": "Isotopes"
   },
-  "f107": {
-   "kind": "number",
-   "value": 0.62,
-   "surface": "0.62",
-   "sentence": "One gram of technetium-99 produces 6.2 × 108 disintegrations per second (in other words, the specific activity of 99Tc is 0.62 GBq/g).",
-   "section": "Isotopes"
-  },
-  "f108": {
+  "f63": {
    "kind": "number",
    "value": 0.003,
    "surface": "0.003",
    "sentence": "Technetium occurs naturally in the Earth's crust in minute concentrations of about 0.003 parts per trillion.",
    "section": "Occurrence and production"
   },
-  "f109": {
+  "f64": {
    "kind": "measure",
    "value": 4200000,
    "unit": "years",
@@ -837,29 +516,14 @@
    "sentence": "Technetium is so rare because the half-lives of 97Tc and 98Tc are only 4.2 million years.",
    "section": "Occurrence and production"
   },
-  "f110": {
+  "f65": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "A kilogram of uranium contains an estimated 1 nanogram (10−9 g), equivalent to ten trillion atoms, of technetium.",
+   "sentence": "A kilogram of uranium contains an estimated 1 nanogram, equivalent to ten trillion atoms, of technetium.",
    "section": "Occurrence and production"
   },
-  "f111": {
-   "kind": "number",
-   "value": 10,
-   "surface": "10",
-   "sentence": "A kilogram of uranium contains an estimated 1 nanogram (10−9 g), equivalent to ten trillion atoms, of technetium.",
-   "section": "Occurrence and production"
-  },
-  "f112": {
-   "kind": "measure",
-   "value": 9,
-   "unit": "g",
-   "surface": "9 g",
-   "sentence": "A kilogram of uranium contains an estimated 1 nanogram (10−9 g), equivalent to ten trillion atoms, of technetium.",
-   "section": "Occurrence and production"
-  },
-  "f113": {
+  "f66": {
    "kind": "measure",
    "value": 27,
    "unit": "mg",
@@ -867,7 +531,7 @@
    "sentence": "The fission of a gram of uranium-235 in nuclear reactors yields 27 mg of technetium-99, giving technetium a fission product yield of 6.1%.",
    "section": "Occurrence and production"
   },
-  "f114": {
+  "f67": {
    "kind": "measure",
    "value": 6.1,
    "unit": "%",
@@ -875,7 +539,7 @@
    "sentence": "The fission of a gram of uranium-235 in nuclear reactors yields 27 mg of technetium-99, giving technetium a fission product yield of 6.1%.",
    "section": "Occurrence and production"
   },
-  "f115": {
+  "f68": {
    "kind": "measure",
    "value": 4.9,
    "unit": "%",
@@ -883,7 +547,7 @@
    "sentence": "Other fissile isotopes produce similar yields of technetium, such as 4.9% from uranium-233 and 6.21% from plutonium-239.",
    "section": "Occurrence and production"
   },
-  "f116": {
+  "f69": {
    "kind": "measure",
    "value": 6.21,
    "unit": "%",
@@ -891,558 +555,399 @@
    "sentence": "Other fissile isotopes produce similar yields of technetium, such as 4.9% from uranium-233 and 6.21% from plutonium-239.",
    "section": "Occurrence and production"
   },
-  "f117": {
+  "f70": {
    "kind": "number",
    "value": 49000,
    "surface": "49,000",
-   "sentence": "An estimated 49,000 TBq (78 metric tons) of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
+   "sentence": "An estimated 49,000 TBq of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
    "section": "Occurrence and production"
   },
-  "f118": {
-   "kind": "number",
-   "value": 78,
-   "surface": "78",
-   "sentence": "An estimated 49,000 TBq (78 metric tons) of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
-   "section": "Occurrence and production"
-  },
-  "f119": {
+  "f71": {
    "kind": "date",
    "value": "1983",
    "surface": "1983",
-   "sentence": "An estimated 49,000 TBq (78 metric tons) of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
+   "sentence": "An estimated 49,000 TBq of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
    "section": "Occurrence and production"
   },
-  "f120": {
+  "f72": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
-   "sentence": "An estimated 49,000 TBq (78 metric tons) of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
+   "sentence": "An estimated 49,000 TBq of technetium was produced in nuclear reactors between 1983 and 1994, by far the dominant source of terrestrial technetium.",
    "section": "Occurrence and production"
   },
-  "f121": {
+  "f73": {
    "kind": "number",
    "value": 104,
    "surface": "104",
    "sentence": "Its decay, measured in becquerels per amount of spent fuel, is the dominant contributor to nuclear waste radioactivity after about 104–106 years after the creation of the nuclear waste.",
    "section": "Occurrence and production"
   },
-  "f122": {
-   "kind": "measure",
-   "value": 106,
-   "unit": "years",
-   "surface": "106 years",
-   "sentence": "Its decay, measured in becquerels per amount of spent fuel, is the dominant contributor to nuclear waste radioactivity after about 104–106 years after the creation of the nuclear waste.",
-   "section": "Occurrence and production"
-  },
-  "f123": {
+  "f74": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
-   "sentence": "From 1945 to 1994, an estimated 160 TBq (about 250 kg) of technetium-99 was released into the environment during atmospheric nuclear tests.",
+   "sentence": "From 1945 to 1994, an estimated 160 TBq of technetium-99 was released into the environment during atmospheric nuclear tests.",
    "section": "Occurrence and production"
   },
-  "f124": {
+  "f75": {
    "kind": "date",
    "value": "1994",
    "surface": "1994",
-   "sentence": "From 1945 to 1994, an estimated 160 TBq (about 250 kg) of technetium-99 was released into the environment during atmospheric nuclear tests.",
+   "sentence": "From 1945 to 1994, an estimated 160 TBq of technetium-99 was released into the environment during atmospheric nuclear tests.",
    "section": "Occurrence and production"
   },
-  "f125": {
+  "f76": {
    "kind": "number",
    "value": 160,
    "surface": "160",
-   "sentence": "From 1945 to 1994, an estimated 160 TBq (about 250 kg) of technetium-99 was released into the environment during atmospheric nuclear tests.",
+   "sentence": "From 1945 to 1994, an estimated 160 TBq of technetium-99 was released into the environment during atmospheric nuclear tests.",
    "section": "Occurrence and production"
   },
-  "f126": {
-   "kind": "measure",
-   "value": 250,
-   "unit": "kg",
-   "surface": "250 kg",
-   "sentence": "From 1945 to 1994, an estimated 160 TBq (about 250 kg) of technetium-99 was released into the environment during atmospheric nuclear tests.",
-   "section": "Occurrence and production"
-  },
-  "f127": {
+  "f77": {
    "kind": "date",
    "value": "1986",
    "surface": "1986",
-   "sentence": "The amount of technetium-99 from nuclear reactors released into the environment up to 1986 is on the order of 1000 TBq (about 1600 kg), primarily by nuclear fuel reprocessing; most of this was discharged into the sea.",
+   "sentence": "The amount of technetium-99 from nuclear reactors released into the environment up to 1986 is on the order of 1000 TBq, primarily by nuclear fuel reprocessing; most of this was discharged into the sea.",
    "section": "Occurrence and production"
   },
-  "f128": {
+  "f78": {
    "kind": "date",
    "value": "1000",
    "surface": "1000",
-   "sentence": "The amount of technetium-99 from nuclear reactors released into the environment up to 1986 is on the order of 1000 TBq (about 1600 kg), primarily by nuclear fuel reprocessing; most of this was discharged into the sea.",
+   "sentence": "The amount of technetium-99 from nuclear reactors released into the environment up to 1986 is on the order of 1000 TBq, primarily by nuclear fuel reprocessing; most of this was discharged into the sea.",
    "section": "Occurrence and production"
   },
-  "f129": {
-   "kind": "measure",
-   "value": 1600,
-   "unit": "kg",
-   "surface": "1600 kg",
-   "sentence": "The amount of technetium-99 from nuclear reactors released into the environment up to 1986 is on the order of 1000 TBq (about 1600 kg), primarily by nuclear fuel reprocessing; most of this was discharged into the sea.",
-   "section": "Occurrence and production"
-  },
-  "f130": {
+  "f79": {
    "kind": "date",
    "value": "2005",
    "surface": "2005",
-   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq (about 900 kg) from 1995 to 1999 into the Irish Sea.",
+   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq from 1995 to 1999 into the Irish Sea.",
    "section": "Occurrence and production"
   },
-  "f131": {
+  "f80": {
    "kind": "date",
    "value": "550",
    "surface": "550",
-   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq (about 900 kg) from 1995 to 1999 into the Irish Sea.",
+   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq from 1995 to 1999 into the Irish Sea.",
    "section": "Occurrence and production"
   },
-  "f132": {
-   "kind": "measure",
-   "value": 900,
-   "unit": "kg",
-   "surface": "900 kg",
-   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq (about 900 kg) from 1995 to 1999 into the Irish Sea.",
-   "section": "Occurrence and production"
-  },
-  "f133": {
+  "f81": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
-   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq (about 900 kg) from 1995 to 1999 into the Irish Sea.",
+   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq from 1995 to 1999 into the Irish Sea.",
    "section": "Occurrence and production"
   },
-  "f134": {
+  "f82": {
    "kind": "date",
    "value": "1999",
    "surface": "1999",
-   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq (about 900 kg) from 1995 to 1999 into the Irish Sea.",
+   "sentence": "Reprocessing methods have reduced emissions since then, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq from 1995 to 1999 into the Irish Sea.",
    "section": "Occurrence and production"
   },
-  "f135": {
+  "f83": {
    "kind": "date",
    "value": "2000",
    "surface": "2000",
-   "sentence": "From 2000 onwards the amount has been limited by regulation to 90 TBq (about 140 kg) per year.",
+   "sentence": "From 2000 onwards the amount has been limited by regulation to 90 TBq per year.",
    "section": "Occurrence and production"
   },
-  "f136": {
+  "f84": {
    "kind": "number",
    "value": 90,
    "surface": "90",
-   "sentence": "From 2000 onwards the amount has been limited by regulation to 90 TBq (about 140 kg) per year.",
+   "sentence": "From 2000 onwards the amount has been limited by regulation to 90 TBq per year.",
    "section": "Occurrence and production"
   },
-  "f137": {
-   "kind": "measure",
-   "value": 140,
-   "unit": "kg",
-   "surface": "140 kg",
-   "sentence": "From 2000 onwards the amount has been limited by regulation to 90 TBq (about 140 kg) per year.",
-   "section": "Occurrence and production"
-  },
-  "f138": {
+  "f85": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "For example, European lobster and fish from west Cumbria contain about 1 Bq/kg of technetium.",
    "section": "Occurrence and production"
   },
-  "f139": {
+  "f86": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f140": {
-   "kind": "number",
-   "value": 238,
-   "surface": "238",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f141": {
+  "f87": {
    "kind": "number",
    "value": 53,
    "surface": "53",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f142": {
-   "kind": "number",
-   "value": 137,
-   "surface": "137",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f143": {
+  "f88": {
    "kind": "number",
    "value": 39,
    "surface": "39",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f144": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f145": {
+  "f89": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f146": {
+  "f90": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f147": {
+  "f91": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f148": {
+  "f92": {
    "kind": "number",
    "value": 92,
    "surface": "92",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f149": {
+  "f93": {
    "kind": "number",
    "value": 137,
    "surface": "137",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f150": {
+  "f94": {
    "kind": "number",
    "value": 53,
    "surface": "53",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f151": {
+  "f95": {
    "kind": "number",
    "value": 99,
    "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f152": {
+  "f96": {
    "kind": "number",
    "value": 39,
    "surface": "39",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f153": {
+  "f97": {
    "kind": "number",
    "value": 2,
    "surface": "2",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f154": {
+  "f98": {
    "kind": "number",
    "value": 1,
    "surface": "1",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f155": {
+  "f99": {
    "kind": "number",
    "value": 0,
    "surface": "0",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f156": {
+  "f100": {
    "kind": "number",
    "value": 39,
    "surface": "39",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f157": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f158": {
+  "f101": {
    "kind": "number",
    "value": 1.47,
    "surface": "1.47",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f159": {
+  "f102": {
    "kind": "number",
    "value": 40,
    "surface": "40",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f160": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f161": {
+  "f103": {
    "kind": "number",
    "value": 2.1,
    "surface": "2.1",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f162": {
+  "f104": {
    "kind": "number",
    "value": 41,
    "surface": "41",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f163": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f164": {
+  "f105": {
    "kind": "number",
    "value": 15,
    "surface": "15.0",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f165": {
+  "f106": {
    "kind": "number",
    "value": 42,
    "surface": "42",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f166": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f167": {
+  "f107": {
    "kind": "number",
    "value": 65.94,
    "surface": "65.94",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f168": {
+  "f108": {
    "kind": "number",
    "value": 43,
    "surface": "43",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f169": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f170": {
+  "f109": {
    "kind": "number",
    "value": 211,
    "surface": "211",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f171": {
-   "kind": "number",
-   "value": 100,
-   "surface": "100",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f172": {
+  "f110": {
    "kind": "number",
    "value": 44,
    "surface": "44",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f173": {
-   "kind": "number",
-   "value": 99,
-   "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f174": {
+  "f111": {
    "kind": "number",
    "value": 39,
    "surface": "39",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f175": {
-   "kind": "number",
-   "value": 1.47,
-   "surface": "1.47",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f176": {
+  "f112": {
    "kind": "number",
    "value": 99,
    "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f177": {
+  "f113": {
    "kind": "number",
    "value": 40,
    "surface": "40",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f178": {
-   "kind": "number",
-   "value": 2.1,
-   "surface": "2.1",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f179": {
+  "f114": {
    "kind": "number",
    "value": 99,
    "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f180": {
+  "f115": {
    "kind": "number",
    "value": 41,
    "surface": "41",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f181": {
-   "kind": "number",
-   "value": 15,
-   "surface": "15.0",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f182": {
+  "f116": {
    "kind": "number",
    "value": 99,
    "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f183": {
+  "f117": {
    "kind": "number",
    "value": 42,
    "surface": "42",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f184": {
-   "kind": "number",
-   "value": 65.94,
-   "surface": "65.94",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f185": {
+  "f118": {
    "kind": "number",
    "value": 99,
    "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f186": {
+  "f119": {
    "kind": "number",
    "value": 43,
    "surface": "43",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f187": {
-   "kind": "number",
-   "value": 211100,
-   "surface": "211,100",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
-   "section": "Occurrence and production"
-  },
-  "f188": {
+  "f120": {
    "kind": "number",
    "value": 99,
    "surface": "99",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f189": {
+  "f121": {
    "kind": "number",
    "value": 44,
    "surface": "44",
-   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U -[{\\ce {sf}}] ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n,\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y -[\\beta^-][1.47\\,{\\ce {s}}] ^{99}_{40}Zr -[\\beta^-][2.1\\,{\\ce {s}}] ^{99}_{41}Nb -[\\beta^-][15.0\\,{\\ce {s}}] ^{99}_{42}Mo -[\\beta^-][65.94\\,{\\ce {h}}] ^{99}_{43}Tc -[\\beta^-][211,100\\,{\\ce {y}}] ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
+   "sentence": "The metastable isotope technetium-99m is continuously produced as a fission product from the fission of uranium or plutonium in nuclear reactors:\nU\n92\n238\n→\nsf\nI\n53\n137\n+\nY\n39\n99\n+\n2\n0\n1\nn\n_{92}U - ^{137}_{53}I + ^{99}_{39}Y + 2^{1}_{0}n}}}\nY\n39\n99\n→\n1.47\ns\nβ\n−\nZr\n40\n99\n→\n2.1\ns\nβ\n−\nNb\n41\n99\n→\n15.0\ns\nβ\n−\nMo\n42\n99\n→\n65.94\nh\nβ\n−\nTc\n43\n99\n→\n211\n100\ny\nβ\n−\nRu\n44\n99\n_{39}Y - ^{99}_{40}Zr - ^{99}_{41}Nb - ^{99}_{42}Mo - ^{99}_{43}Tc - ^{99}_{44}Ru}}}\nBecause used fuel is allowed to stand for several years before reprocessing, all molybdenum-99 and technetium-99m is decayed by the time that the fission products are separated from the major actinides in conventional nuclear reprocessing.",
    "section": "Occurrence and production"
   },
-  "f190": {
+  "f122": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "The liquid left after plutonium–uranium extraction (PUREX) contains a high concentration of technetium as TcO−4 but almost all of this is technetium-99, not technetium-99m.",
+   "sentence": "The liquid left after plutonium–uranium extraction contains a high concentration of technetium as TcO−4 but almost all of this is technetium-99, not technetium-99m.",
    "section": "Occurrence and production"
   },
-  "f191": {
+  "f123": {
    "kind": "number",
    "value": 4,
    "surface": "4",
-   "sentence": "Molybdenum-99 in the form of molybdate MoO2−4 is adsorbed onto acid alumina (Al2O3) in a shielded column chromatograph inside a technetium-99m generator (\"technetium cow\", also occasionally called a \"molybdenum cow\").",
+   "sentence": "Molybdenum-99 in the form of molybdate MoO2−4 is adsorbed onto acid alumina in a shielded column chromatograph inside a technetium-99m generator.",
    "section": "Occurrence and production"
   },
-  "f192": {
+  "f124": {
    "kind": "number",
    "value": 67,
    "surface": "67",
-   "sentence": "Molybdenum-99 has a half-life of 67 hours, so short-lived technetium-99m (half-life: 6 hours), which results from its decay, is being constantly produced.",
+   "sentence": "Molybdenum-99 has a half-life of 67 hours, so short-lived technetium-99m, which results from its decay, is being constantly produced.",
    "section": "Occurrence and production"
   },
-  "f193": {
-   "kind": "number",
-   "value": 6,
-   "surface": "6",
-   "sentence": "Molybdenum-99 has a half-life of 67 hours, so short-lived technetium-99m (half-life: 6 hours), which results from its decay, is being constantly produced.",
-   "section": "Occurrence and production"
-  },
-  "f194": {
+  "f125": {
    "kind": "number",
    "value": 4,
    "surface": "4",
    "sentence": "The soluble pertechnetate TcO−4 can then be chemically extracted by elution using a saline solution.",
    "section": "Occurrence and production"
   },
-  "f195": {
+  "f126": {
    "kind": "measure",
    "value": 200,
    "unit": "%",
@@ -1450,47 +955,25 @@
    "sentence": "The two new Canadian Multipurpose Applied Physics Lattice Experiment reactors planned and built to produce 200% of the demand of technetium-99m relieved all other producers from building their own reactors.",
    "section": "Occurrence and production"
   },
-  "f196": {
+  "f127": {
    "kind": "date",
    "value": "2008",
    "surface": "2008",
    "sentence": "With the cancellation of the already tested reactors in 2008, the future supply of technetium-99m became problematic.",
    "section": "Occurrence and production"
   },
-  "f197": {
-   "kind": "number",
-   "value": 16,
-   "surface": "16",
-   "sentence": "In this process, the technetium (technetium-99 as a metal target) is bombarded with neutrons to form the short-lived technetium-100 (half-life = 16 seconds) which decays by beta decay to stable ruthenium-100.",
-   "section": "Occurrence and production"
-  },
-  "f198": {
-   "kind": "number",
-   "value": 374,
-   "surface": "374",
-   "sentence": "The formation of ruthenium-106 (half-life 374 days) from the 'fresh fission' is likely to increase the activity of the final ruthenium metal, which will then require a longer cooling time after irradiation before the ruthenium can be used.",
-   "section": "Occurrence and production"
-  },
-  "f199": {
+  "f128": {
    "kind": "number",
    "value": 22,
    "surface": "22",
-   "sentence": "The feasibility of technetium-99m production with the 22-MeV-proton bombardment of a molybdenum-100 target in medical cyclotrons following the reaction 100Mo(p,2n)99mTc was demonstrated in 1971.",
+   "sentence": "The feasibility of technetium-99m production with the 22-MeV-proton bombardment of a molybdenum-100 target in medical cyclotrons following the reaction 100Mo99mTc was demonstrated in 1971.",
    "section": "Occurrence and production"
   },
-  "f200": {
+  "f129": {
    "kind": "date",
    "value": "1971",
    "surface": "1971",
-   "sentence": "The feasibility of technetium-99m production with the 22-MeV-proton bombardment of a molybdenum-100 target in medical cyclotrons following the reaction 100Mo(p,2n)99mTc was demonstrated in 1971.",
-   "section": "Occurrence and production"
-  },
-  "f201": {
-   "kind": "measure",
-   "value": 99.5,
-   "unit": "%",
-   "surface": "99.5%",
-   "sentence": "The recent shortages of medical technetium-99m reignited the interest in its production by proton bombardment of isotopically enriched (99.5%) molybdenum-100 targets.",
+   "sentence": "The feasibility of technetium-99m production with the 22-MeV-proton bombardment of a molybdenum-100 target in medical cyclotrons following the reaction 100Mo99mTc was demonstrated in 1971.",
    "section": "Occurrence and production"
   }
  },

@@ -148,21 +148,13 @@
   },
   "f14": {
    "kind": "measure",
-   "value": 35113,
-   "unit": "m",
-   "surface": "35.113 m",
-   "sentence": "Die höchste je aufgezeichnete Abflussmenge bei The Dalles, Oregon, betrug am 6. Juni 1894 35.113 m³/s.",
-   "section": "Geographie"
-  },
-  "f15": {
-   "kind": "measure",
    "value": 1953,
    "unit": "km",
    "surface": "1953 km",
    "sentence": "Von seinem Quellgebiet bis zum Pazifik hat der Fluss eine Länge von 1953 km.",
    "section": "Geographie"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 668217,
    "unit": "km²",
@@ -170,7 +162,7 @@
    "sentence": "Er entwässert ein Gebiet von 668.217 km².",
    "section": "Geographie"
   },
-  "f17": {
+  "f16": {
    "kind": "measure",
    "value": 85,
    "unit": "%",
@@ -178,7 +170,7 @@
    "sentence": "Etwa 85 % des Beckens und 1199 km seiner Länge liegen innerhalb der Vereinigten Staaten.",
    "section": "Geographie"
   },
-  "f18": {
+  "f17": {
    "kind": "measure",
    "value": 1199,
    "unit": "km",
@@ -186,7 +178,7 @@
    "sentence": "Etwa 85 % des Beckens und 1199 km seiner Länge liegen innerhalb der Vereinigten Staaten.",
    "section": "Geographie"
   },
-  "f19": {
+  "f18": {
    "kind": "measure",
    "value": 820,
    "unit": "m",
@@ -194,7 +186,7 @@
    "sentence": "Der Columbia Lake in 820 m Höhe und die angrenzenden Columbia Wetlands bilden das Quellgebiet im südlichen Rocky Mountain Trench, einem breiten, tiefen und sehr langen glazialen Tal zwischen den Canadian Rockies und den Columbia Mountains in British Columbia.",
    "section": "Geographie"
   },
-  "f20": {
+  "f19": {
    "kind": "measure",
    "value": 320,
    "unit": "km",
@@ -202,7 +194,7 @@
    "sentence": "Auf den ersten 320 km strömt der Fluss entlang des Grabens nach Nordwesten und durchfließt so Windermere Lake und die Stadt Invermere – diese Region wird in British Columbia als Columbia Valley bezeichnet – und dann über Golden in den Kinbasket Lake.",
    "section": "Geographie"
   },
-  "f21": {
+  "f20": {
    "kind": "measure",
    "value": 3,
    "unit": "km",
@@ -210,14 +202,14 @@
    "sentence": "Der Pend Oreille River verbindet sich mit dem Columbia River etwa 3 km nördlich der Grenze zwischen Kanada und den Vereinigten Staaten.",
    "section": "Geographie"
   },
-  "f22": {
+  "f21": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Der Bau des Grand Coulee Dam in der Mitte des 20. Jahrhunderts staute den Fluss zurück und in dem früheren Bett entstand Banks Lake.",
    "section": "Geographie"
   },
-  "f23": {
+  "f22": {
    "kind": "measure",
    "value": 40000000,
    "unit": "jahre",
@@ -225,14 +217,14 @@
    "sentence": "Die vulkanische Aktivität in der Region kann bis zu 40 Millionen Jahre zurückverfolgt werden.",
    "section": "Geologie"
   },
-  "f24": {
+  "f23": {
    "kind": "number",
    "value": 17,
    "surface": "17",
    "sentence": "Das landschaftsprägende Ereignis in der Zeit zwischen 17 und 14 Millionen Jahren vor heute war der Ausfluss großer Lavamengen, die den Columbia-Plateaubasalt schufen, eine fast zwei Kilometer mächtige Schicht von Basalt.",
    "section": "Geologie"
   },
-  "f25": {
+  "f24": {
    "kind": "measure",
    "value": 14000000,
    "unit": "jahren",
@@ -240,15 +232,7 @@
    "sentence": "Das landschaftsprägende Ereignis in der Zeit zwischen 17 und 14 Millionen Jahren vor heute war der Ausfluss großer Lavamengen, die den Columbia-Plateaubasalt schufen, eine fast zwei Kilometer mächtige Schicht von Basalt.",
    "section": "Geologie"
   },
-  "f26": {
-   "kind": "measure",
-   "value": 700000,
-   "unit": "jahren",
-   "surface": "700.000 Jahren",
-   "sentence": "Während des Pleistozäns (die Zeit vor der letzten Eiszeit vor zwei Millionen bis vor 700.000 Jahren) durchbrach der Fluss die Kaskadenkette und bildete die Columbia River Gorge.",
-   "section": "Geologie"
-  },
-  "f27": {
+  "f25": {
    "kind": "measure",
    "value": 380,
    "unit": "m",
@@ -256,7 +240,7 @@
    "sentence": "Die Wasserstände reichten nach Schätzungen während dieser Missoula-Fluten an der Wallula Gap 380 m, am Bonneville Dam 250 m und über dem heutigen Portland, Oregon 120 m über das heutige Niveau.",
    "section": "Geologie"
   },
-  "f28": {
+  "f26": {
    "kind": "measure",
    "value": 250,
    "unit": "m",
@@ -264,7 +248,7 @@
    "sentence": "Die Wasserstände reichten nach Schätzungen während dieser Missoula-Fluten an der Wallula Gap 380 m, am Bonneville Dam 250 m und über dem heutigen Portland, Oregon 120 m über das heutige Niveau.",
    "section": "Geologie"
   },
-  "f29": {
+  "f27": {
    "kind": "measure",
    "value": 120,
    "unit": "m",
@@ -272,21 +256,21 @@
    "sentence": "Die Wasserstände reichten nach Schätzungen während dieser Missoula-Fluten an der Wallula Gap 380 m, am Bonneville Dam 250 m und über dem heutigen Portland, Oregon 120 m über das heutige Niveau.",
    "section": "Geologie"
   },
-  "f30": {
+  "f28": {
    "kind": "date",
    "value": "1700",
    "surface": "1700",
    "sentence": "In geologisch jüngerer Vergangenheit wurde der Flusslauf durch einen Bergsturz am nördlichen Ende der Columbia River Gorge gestaut, vermutlich im Jahr 1700 infolge eines Erdbebens.",
    "section": "Geologie"
   },
-  "f31": {
+  "f29": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
    "sentence": "1980 lagerte der Ausbruch des Mount St. Helens große Mengen Sedimente am Unterlauf ab, wodurch die Fahrrinne bis zu 8 m Tiefe einbüßte.",
    "section": "Geologie"
   },
-  "f32": {
+  "f30": {
    "kind": "measure",
    "value": 8,
    "unit": "m",
@@ -294,22 +278,22 @@
    "sentence": "1980 lagerte der Ausbruch des Mount St. Helens große Mengen Sedimente am Unterlauf ab, wodurch die Fahrrinne bis zu 8 m Tiefe einbüßte.",
    "section": "Geologie"
   },
-  "f33": {
+  "f31": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Zu Beginn des 20. Jahrhunderts wurden die Schwierigkeiten bei der Schifffahrt auf dem Fluss als Hindernis für die wirtschaftliche Entwicklung der Region östlich der Kaskadenkette betrachtet.",
    "section": "Staudämme"
   },
-  "f34": {
+  "f32": {
    "kind": "measure",
    "value": 80,
    "unit": "km",
    "surface": "80 km",
-   "sentence": "Zu den Staudämmen am Columbia gehören:\nin Kanada:\nMica-Staudamm (Kinbasket Lake)\nRevelstoke-Talsperre (Revelstoke Lake)\nKeenleyside Dam\nDuncan Dam\nin den Vereinigten Staaten:\nGrand-Coulee-Talsperre in Washington (Franklin Delano Roosevelt Lake)\nBonneville Dam in Nord-Oregon bzw. Süd-Washington\nThe-Dalles-Talsperre ebenfalls in Nord-Oregon und Süd-Washington\nDer längste unverbaute Abschnitt sind die rund 80 km des Hanford Reach im Hanford Reach National Monument, in Benton County, Washington.",
+   "sentence": "Zu den Staudämmen am Columbia gehören:\nin Kanada:\nMica-Staudamm\nRevelstoke-Talsperre\nKeenleyside Dam\nDuncan Dam\nin den Vereinigten Staaten:\nGrand-Coulee-Talsperre in Washington\nBonneville Dam in Nord-Oregon bzw. Süd-Washington\nThe-Dalles-Talsperre ebenfalls in Nord-Oregon und Süd-Washington\nDer längste unverbaute Abschnitt sind die rund 80 km des Hanford Reach im Hanford Reach National Monument, in Benton County, Washington.",
    "section": "Staudämme"
   },
-  "f35": {
+  "f33": {
    "kind": "measure",
    "value": 80,
    "unit": "%",
@@ -317,63 +301,63 @@
    "sentence": "Hier laichen rund 80 % aller Königslachse des oberen Columbia-River-Systems.",
    "section": "Staudämme"
   },
-  "f36": {
+  "f34": {
    "kind": "date",
    "value": "1902",
    "surface": "1902",
    "sentence": "1902 wurde das United States Bureau of Reclamation gegründet, um die wirtschaftliche Entwicklung der ariden Staaten im Westen der Vereinigten Staaten zu fördern.",
    "section": "Staudämme"
   },
-  "f37": {
+  "f35": {
    "kind": "number",
    "value": 600000,
    "surface": "600.000",
    "sentence": "Eines seiner wichtigsten Unternehmungen war der Bau des Grand Coulee Dams zum Zwecke der Bewässerung einer Fläche von 600.000 Acre des Columbia Basin Project im Zentrum des Staates Washington.",
    "section": "Staudämme"
   },
-  "f38": {
+  "f36": {
    "kind": "date",
    "value": "1909",
    "surface": "1909",
    "sentence": "Der Ausbau des Flusses erfolgt im Rahmen des International Boundary Waters Treaty zwischen den Vereinigten Staaten und Kanada von 1909.",
    "section": "Staudämme"
   },
-  "f39": {
+  "f37": {
    "kind": "date",
    "value": "1973",
    "surface": "1973",
    "sentence": "Kanadas Verpflichtung umfasst zwei Stauseen am Columbia River und einen am Duncan River; der letzte davon wurde 1973 fertiggestellt.",
    "section": "Staudämme"
   },
-  "f40": {
+  "f38": {
    "kind": "number",
    "value": 14,
    "surface": "14",
-   "sentence": "Heute gibt es am Hauptarm des Columbia Rivers 14 Staudämme (drei davon in Kanada und elf in den Vereinigten Staaten).",
+   "sentence": "Heute gibt es am Hauptarm des Columbia Rivers 14 Staudämme.",
    "section": "Staudämme"
   },
-  "f41": {
+  "f39": {
    "kind": "number",
    "value": 400,
    "surface": "400",
    "sentence": "Insgesamt gibt es im Flusssystem des Columbia Rivers mehr als 400 Staudämme.",
    "section": "Staudämme"
   },
-  "f42": {
+  "f40": {
    "kind": "number",
    "value": 31,
    "surface": "31",
    "sentence": "Die bundeseigenen Einrichtungen bezeichnet man als Federal Columbia River Power System, wozu 31 Staudämme am Fluss und seinen Nebenflüssen gehören.",
    "section": "Staudämme"
   },
-  "f43": {
+  "f41": {
    "kind": "number",
    "value": 20,
    "surface": "20",
    "sentence": "Zu Beginn des 20. Jahrhunderts entfielen 75 % des jährlichen Abflusses des Flusses auf die Monate April bis September.",
    "section": "Staudämme"
   },
-  "f44": {
+  "f42": {
    "kind": "measure",
    "value": 75,
    "unit": "%",
@@ -381,14 +365,14 @@
    "sentence": "Zu Beginn des 20. Jahrhunderts entfielen 75 % des jährlichen Abflusses des Flusses auf die Monate April bis September.",
    "section": "Staudämme"
   },
-  "f45": {
+  "f43": {
    "kind": "date",
    "value": "1980",
    "surface": "1980",
    "sentence": "Um 1980 war der Anteil der Sommermonate auf rund 50 % gesunken, wodurch der jahreszeitliche Einfluss praktisch eliminiert wurde.",
    "section": "Staudämme"
   },
-  "f46": {
+  "f44": {
    "kind": "measure",
    "value": 50,
    "unit": "%",
@@ -396,14 +380,14 @@
    "sentence": "Um 1980 war der Anteil der Sommermonate auf rund 50 % gesunken, wodurch der jahreszeitliche Einfluss praktisch eliminiert wurde.",
    "section": "Staudämme"
   },
-  "f47": {
+  "f45": {
    "kind": "date",
    "value": "2012",
    "surface": "2012",
    "sentence": "Der bis dahin größte Ankauf ist 2012 eine 372 ha große, ehemalige Farm am Unterlauf bei St. Helens, Oregon die so gelegen ist, dass der Deich zurückverlegt werden kann und so rund 200 ha wiedervernässt und dem Hochwasserregime des Flusses übergeben werden können.",
    "section": "Staudämme"
   },
-  "f48": {
+  "f46": {
    "kind": "measure",
    "value": 372,
    "unit": "ha",
@@ -411,7 +395,7 @@
    "sentence": "Der bis dahin größte Ankauf ist 2012 eine 372 ha große, ehemalige Farm am Unterlauf bei St. Helens, Oregon die so gelegen ist, dass der Deich zurückverlegt werden kann und so rund 200 ha wiedervernässt und dem Hochwasserregime des Flusses übergeben werden können.",
    "section": "Staudämme"
   },
-  "f49": {
+  "f47": {
    "kind": "measure",
    "value": 200,
    "unit": "ha",
@@ -419,63 +403,63 @@
    "sentence": "Der bis dahin größte Ankauf ist 2012 eine 372 ha große, ehemalige Farm am Unterlauf bei St. Helens, Oregon die so gelegen ist, dass der Deich zurückverlegt werden kann und so rund 200 ha wiedervernässt und dem Hochwasserregime des Flusses übergeben werden können.",
    "section": "Staudämme"
   },
-  "f50": {
+  "f48": {
    "kind": "date",
    "value": "1679",
    "surface": "1679",
    "sentence": "Es gibt einige Hinweise, dass spanische Schiffbrüchige 1679 das Ufer erreichten und mit den Clatsop handelten; ob diese tatsächlich die ersten Europäer waren, die den Columbia River sahen, weiß man nicht.",
    "section": "Erforschung des Flusses"
   },
-  "f51": {
+  "f49": {
    "kind": "date",
    "value": "1775",
    "surface": "1775",
    "sentence": "Der erste nachgewiesene Europäer, dessen Auge 1775 die Mündung des Columbia Rivers erblickte, war Bruno de Heceta.",
    "section": "Erforschung des Flusses"
   },
-  "f52": {
+  "f50": {
    "kind": "date",
    "value": "1788",
    "surface": "1788",
    "sentence": "Aufgrund von Hecetas Berichten suchte der Pelzhändler und Kapitän John Meares 1788 nach dem Fluss, interpretierte jedoch die Strömungen falsch und schloss daraus, dass der Fluss nicht existiere.",
    "section": "Erforschung des Flusses"
   },
-  "f53": {
+  "f51": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
    "sentence": "George Vancouver von der britischen Royal Navy segelte im April 1792 an der Mündung vorbei und beobachtete einen Wechsel in der Farbe des Wassers, verließ sich jedoch auf Meares und setzte seine Reise nach Norden fort.",
    "section": "Erforschung des Flusses"
   },
-  "f54": {
+  "f52": {
    "kind": "number",
    "value": 12,
    "surface": "12",
    "sentence": "Gray kehrte nach Süden zurück und war am 12. Mai 1792 der erste Erforscher, der den Fluss befuhr.",
    "section": "Erforschung des Flusses"
   },
-  "f55": {
+  "f53": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
    "sentence": "Gray kehrte nach Süden zurück und war am 12. Mai 1792 der erste Erforscher, der den Fluss befuhr.",
    "section": "Erforschung des Flusses"
   },
-  "f56": {
+  "f54": {
    "kind": "number",
    "value": 18,
    "surface": "18",
    "sentence": "Grays Pelzhandelsmission wurde von Kaufleuten aus Boston in Oregon finanziert, die ihn mit einem Kauffahrtschiff namens Columbia Rediviva ausstatteten; das Schiff war am 18. Mai 1792 der Namensgeber für den Fluss.",
    "section": "Erforschung des Flusses"
   },
-  "f57": {
+  "f55": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
    "sentence": "Grays Pelzhandelsmission wurde von Kaufleuten aus Boston in Oregon finanziert, die ihn mit einem Kauffahrtschiff namens Columbia Rediviva ausstatteten; das Schiff war am 18. Mai 1792 der Namensgeber für den Fluss.",
    "section": "Erforschung des Flusses"
   },
-  "f58": {
+  "f56": {
    "kind": "measure",
    "value": 20,
    "unit": "kilometer",
@@ -483,14 +467,14 @@
    "sentence": "Während dieser Zeit hatte er als entferntesten Punkt eine Stelle etwa 20 Kilometer von der Flussmündung erreicht.",
    "section": "Erforschung des Flusses"
   },
-  "f59": {
+  "f57": {
    "kind": "date",
    "value": "1792",
    "surface": "1792",
    "sentence": "Im Oktober 1792 schickte George Vancouver Leutnant William Robert Broughton, seinen Zweiten Offizier den Fluss hinauf.",
    "section": "Erforschung des Flusses"
   },
-  "f60": {
+  "f58": {
    "kind": "measure",
    "value": 160,
    "unit": "km",
@@ -498,77 +482,70 @@
    "sentence": "Er fuhr bis zur Columbia River Gorge hinauf, etwa 160 km oberhalb der Mündung.",
    "section": "Erforschung des Flusses"
   },
-  "f61": {
+  "f59": {
    "kind": "date",
    "value": "1798",
    "surface": "1798",
    "sentence": "Eine britische Karte von 1798 zeigte eine gepunktete Verbindungslinie vom Columbia River zum Missouri River.",
    "section": "Erforschung des Flusses"
   },
-  "f62": {
+  "f60": {
    "kind": "date",
    "value": "1803",
    "surface": "1803",
    "sentence": "Die amerikanische Expedition von Meriwether Lewis und William Clark erkundete 1803–1805 das bis dahin unbekannte Land im amerikanischen Westen und fand keine Verbindung zwischen beiden Flüssen.",
    "section": "Erforschung des Flusses"
   },
-  "f63": {
-   "kind": "date",
-   "value": "1805",
-   "surface": "1805",
-   "sentence": "Die amerikanische Expedition von Meriwether Lewis und William Clark erkundete 1803–1805 das bis dahin unbekannte Land im amerikanischen Westen und fand keine Verbindung zwischen beiden Flüssen.",
-   "section": "Erforschung des Flusses"
-  },
-  "f64": {
+  "f61": {
    "kind": "date",
    "value": "1807",
    "surface": "1807",
    "sentence": "Der kanadische Entdecker David Thompson von der North West Company verbrachte den Winter 1807/1808 im heutigen Invermere in der Nähe der Quelle des Columbia Rivers in British Columbia.",
    "section": "Erforschung des Flusses"
   },
-  "f65": {
+  "f62": {
    "kind": "date",
    "value": "1811",
    "surface": "1811",
    "sentence": "1811 reiste er den Fluss bis zum Pazifischen Ozean hinab und war somit der erste weiße Amerikaner, der den Fluss in seiner vollen Länge bereiste.",
    "section": "Erforschung des Flusses"
   },
-  "f66": {
+  "f63": {
    "kind": "date",
    "value": "1825",
    "surface": "1825",
-   "sentence": "1825 gründete der Arzt John McLoughlin Fort Vancouver (das heutige Vancouver, Washington) im Namen der Hudson’s Bay Company am Ufer des Flusses.",
+   "sentence": "1825 gründete der Arzt John McLoughlin Fort Vancouver im Namen der Hudson’s Bay Company am Ufer des Flusses.",
    "section": "Erforschung des Flusses"
   },
-  "f67": {
+  "f64": {
    "kind": "date",
    "value": "1818",
    "surface": "1818",
    "sentence": "Die Vereinigten Staaten und Britisch-Nordamerika vereinbarten 1818 die gemeinsame Besiedlung des Oregon-Gebietes.",
    "section": "Erforschung des Flusses"
   },
-  "f68": {
+  "f65": {
    "kind": "date",
    "value": "1846",
    "surface": "1846",
    "sentence": "Der Flusslauf galt während des späteren Oregonstreits als mögliche Grenzlinie; der Oregon-Kompromiss von 1846 legte jedoch den 49. Breitengrad als Grenze zwischen den Vereinigten Staaten und Kanada fest.",
    "section": "Erforschung des Flusses"
   },
-  "f69": {
+  "f66": {
    "kind": "number",
    "value": 49,
    "surface": "49",
    "sentence": "Der Flusslauf galt während des späteren Oregonstreits als mögliche Grenzlinie; der Oregon-Kompromiss von 1846 legte jedoch den 49. Breitengrad als Grenze zwischen den Vereinigten Staaten und Kanada fest.",
    "section": "Erforschung des Flusses"
   },
-  "f70": {
+  "f67": {
    "kind": "date",
    "value": "1857",
    "surface": "1857",
    "sentence": "Oregon wurde 1857 Bundesstaat der Vereinigten Staaten und Washington folgte 1889.",
    "section": "Erforschung des Flusses"
   },
-  "f71": {
+  "f68": {
    "kind": "date",
    "value": "1889",
    "surface": "1889",

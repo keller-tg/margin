@@ -152,635 +152,402 @@
   },
   "f17": {
    "kind": "date",
-   "value": "757",
-   "surface": "757",
-   "sentence": "Before 日本 was adopted in the early 8th century, the country was known in China as Wa (倭, changed in Japan around 757 to 和) and in Japan by the endonym Yamato.",
-   "section": "Etymology"
-  },
-  "f18": {
-   "kind": "date",
    "value": "1577",
    "surface": "1577",
    "sentence": "The first version of the name in English appears in a book published in 1577, which spelled the name as Giapan in a translation of a 1565 Portuguese letter.",
    "section": "Etymology"
   },
-  "f19": {
+  "f18": {
    "kind": "date",
    "value": "1565",
    "surface": "1565",
    "sentence": "The first version of the name in English appears in a book published in 1577, which spelled the name as Giapan in a translation of a 1565 Portuguese letter.",
    "section": "Etymology"
   },
-  "f20": {
+  "f19": {
    "kind": "measure",
    "value": 38000,
    "unit": "years",
    "surface": "38,000 years",
-   "sentence": "Modern humans arrived in Japan around 38,000 years ago (~36,000 BC), marking the beginning of the Japanese Paleolithic.",
+   "sentence": "Modern humans arrived in Japan around 38,000 years ago, marking the beginning of the Japanese Paleolithic.",
    "section": "History"
   },
-  "f21": {
-   "kind": "number",
-   "value": 36000,
-   "surface": "36,000",
-   "sentence": "Modern humans arrived in Japan around 38,000 years ago (~36,000 BC), marking the beginning of the Japanese Paleolithic.",
-   "section": "History"
-  },
-  "f22": {
+  "f20": {
    "kind": "number",
    "value": 14500,
    "surface": "14,500",
-   "sentence": "Around 14,500 BC (the start of the Jōmon period), a Mesolithic to Neolithic semi-sedentary hunter-gatherer culture characterized by pit dwelling and rudimentary agriculture emerged.",
+   "sentence": "Around 14,500 BC, a Mesolithic to Neolithic semi-sedentary hunter-gatherer culture characterized by pit dwelling and rudimentary agriculture emerged.",
    "section": "History"
   },
-  "f23": {
+  "f21": {
    "kind": "date",
    "value": "660",
    "surface": "660",
-   "sentence": "According to legend, Emperor Jimmu (descendant of Amaterasu) founded a kingdom in central Japan in 660 BC, beginning a continuous imperial line.",
+   "sentence": "According to legend, Emperor Jimmu founded a kingdom in central Japan in 660 BC, beginning a continuous imperial line.",
    "section": "History"
   },
-  "f24": {
+  "f22": {
    "kind": "number",
    "value": 111,
    "surface": "111",
    "sentence": "Japan first appears in written history in the Chinese Book of Han, completed in 111 AD, where it is described as having a hundred small kingdoms.",
    "section": "History"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "552",
    "surface": "552",
-   "sentence": "Buddhism was introduced to Japan from Baekje (a Korean kingdom) in 552, but the development of Japanese Buddhism was primarily influenced by China.",
+   "sentence": "Buddhism was introduced to Japan from Baekje in 552, but the development of Japanese Buddhism was primarily influenced by China.",
    "section": "History"
   },
-  "f26": {
-   "kind": "date",
-   "value": "592",
-   "surface": "592",
-   "sentence": "Despite early resistance, Buddhism was promoted by the ruling class, including figures like Prince Shōtoku, and gained widespread acceptance beginning in the Asuka period (592–710).",
-   "section": "History"
-  },
-  "f27": {
-   "kind": "date",
-   "value": "710",
-   "surface": "710",
-   "sentence": "Despite early resistance, Buddhism was promoted by the ruling class, including figures like Prince Shōtoku, and gained widespread acceptance beginning in the Asuka period (592–710).",
-   "section": "History"
-  },
-  "f28": {
+  "f24": {
    "kind": "date",
    "value": "645",
    "surface": "645",
    "sentence": "In 645, the government led by Prince Naka no Ōe and Fujiwara no Kamatari devised and implemented the far-reaching Taika Reforms.",
    "section": "History"
   },
-  "f29": {
+  "f25": {
    "kind": "date",
    "value": "672",
    "surface": "672",
    "sentence": "The Jinshin War of 672, a bloody conflict between Prince Ōama and his nephew Prince Ōtomo, became a major catalyst for further administrative reforms.",
    "section": "History"
   },
-  "f30": {
-   "kind": "date",
-   "value": "710",
-   "surface": "710",
-   "sentence": "The Nara period (710–784) marked the emergence of a Japanese state centered on the Imperial Court in Heijō-kyō (modern Nara).",
-   "section": "History"
-  },
-  "f31": {
-   "kind": "date",
-   "value": "784",
-   "surface": "784",
-   "sentence": "The Nara period (710–784) marked the emergence of a Japanese state centered on the Imperial Court in Heijō-kyō (modern Nara).",
-   "section": "History"
-  },
-  "f32": {
-   "kind": "date",
-   "value": "712",
-   "surface": "712",
-   "sentence": "The period is characterized by the appearance of a nascent literary culture with the completion of the Kojiki (712) and Nihon Shoki (720), as well as the development of Buddhist-inspired artwork and architecture.",
-   "section": "History"
-  },
-  "f33": {
-   "kind": "date",
-   "value": "720",
-   "surface": "720",
-   "sentence": "The period is characterized by the appearance of a nascent literary culture with the completion of the Kojiki (712) and Nihon Shoki (720), as well as the development of Buddhist-inspired artwork and architecture.",
-   "section": "History"
-  },
-  "f34": {
+  "f26": {
    "kind": "date",
    "value": "735",
    "surface": "735",
    "sentence": "A smallpox epidemic in 735–737 is believed to have killed as much as one-third of Japan's population.",
    "section": "History"
   },
-  "f35": {
-   "kind": "date",
-   "value": "737",
-   "surface": "737",
-   "sentence": "A smallpox epidemic in 735–737 is believed to have killed as much as one-third of Japan's population.",
-   "section": "History"
-  },
-  "f36": {
+  "f27": {
    "kind": "date",
    "value": "784",
    "surface": "784",
-   "sentence": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō (modern-day Kyoto) in 794.",
+   "sentence": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō in 794.",
    "section": "History"
   },
-  "f37": {
+  "f28": {
    "kind": "date",
    "value": "794",
    "surface": "794",
-   "sentence": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō (modern-day Kyoto) in 794.",
+   "sentence": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō in 794.",
    "section": "History"
   },
-  "f38": {
-   "kind": "date",
-   "value": "794",
-   "surface": "794",
-   "sentence": "This marked the beginning of the Heian period (794–1185), during which a distinctly indigenous Japanese culture emerged.",
-   "section": "History"
-  },
-  "f39": {
-   "kind": "date",
-   "value": "1185",
-   "surface": "1185",
-   "sentence": "This marked the beginning of the Heian period (794–1185), during which a distinctly indigenous Japanese culture emerged.",
-   "section": "History"
-  },
-  "f40": {
+  "f29": {
    "kind": "date",
    "value": "1185",
    "surface": "1185",
    "sentence": "In 1185, following the defeat of the Taira clan by the Minamoto clan in the Genpei War, samurai Minamoto no Yoritomo established a military government at Kamakura.",
    "section": "History"
   },
-  "f41": {
-   "kind": "date",
-   "value": "1185",
-   "surface": "1185",
-   "sentence": "The Zen school of Buddhism was introduced from China in the Kamakura period (1185–1333) and became popular among the samurai class.",
-   "section": "History"
-  },
-  "f42": {
-   "kind": "date",
-   "value": "1333",
-   "surface": "1333",
-   "sentence": "The Zen school of Buddhism was introduced from China in the Kamakura period (1185–1333) and became popular among the samurai class.",
-   "section": "History"
-  },
-  "f43": {
+  "f30": {
    "kind": "date",
    "value": "1274",
    "surface": "1274",
    "sentence": "The Kamakura shogunate repelled Mongol invasions in 1274 and 1281 but was eventually overthrown by Emperor Go-Daigo.",
    "section": "History"
   },
-  "f44": {
+  "f31": {
    "kind": "date",
    "value": "1281",
    "surface": "1281",
    "sentence": "The Kamakura shogunate repelled Mongol invasions in 1274 and 1281 but was eventually overthrown by Emperor Go-Daigo.",
    "section": "History"
   },
-  "f45": {
+  "f32": {
    "kind": "date",
    "value": "1336",
    "surface": "1336",
-   "sentence": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period (1336–1573).",
+   "sentence": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period.",
    "section": "History"
   },
-  "f46": {
-   "kind": "date",
-   "value": "1336",
-   "surface": "1336",
-   "sentence": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period (1336–1573).",
-   "section": "History"
-  },
-  "f47": {
-   "kind": "date",
-   "value": "1573",
-   "surface": "1573",
-   "sentence": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period (1336–1573).",
-   "section": "History"
-  },
-  "f48": {
+  "f33": {
    "kind": "date",
    "value": "1467",
    "surface": "1467",
-   "sentence": "The succeeding Ashikaga shogunate failed to control the feudal warlords (daimyō) and a civil war began in 1467, opening the century-long Sengoku period ('Warring States').",
+   "sentence": "The succeeding Ashikaga shogunate failed to control the feudal warlords and a civil war began in 1467, opening the century-long Sengoku period.",
    "section": "History"
   },
-  "f49": {
+  "f34": {
    "kind": "date",
    "value": "1582",
    "surface": "1582",
    "sentence": "After the death of Nobunaga in 1582, his successor, Toyotomi Hideyoshi, unified the nation in the early 1590s and launched two unsuccessful invasions of Korea in 1592 and 1597.",
    "section": "History"
   },
-  "f50": {
+  "f35": {
    "kind": "date",
    "value": "1592",
    "surface": "1592",
    "sentence": "After the death of Nobunaga in 1582, his successor, Toyotomi Hideyoshi, unified the nation in the early 1590s and launched two unsuccessful invasions of Korea in 1592 and 1597.",
    "section": "History"
   },
-  "f51": {
+  "f36": {
    "kind": "date",
    "value": "1597",
    "surface": "1597",
    "sentence": "After the death of Nobunaga in 1582, his successor, Toyotomi Hideyoshi, unified the nation in the early 1590s and launched two unsuccessful invasions of Korea in 1592 and 1597.",
    "section": "History"
   },
-  "f52": {
+  "f37": {
    "kind": "date",
    "value": "1600",
    "surface": "1600",
    "sentence": "When open war broke out, Ieyasu defeated rival clans in the Battle of Sekigahara in 1600.",
    "section": "History"
   },
-  "f53": {
+  "f38": {
    "kind": "date",
    "value": "1603",
    "surface": "1603",
-   "sentence": "He was appointed shōgun by Emperor Go-Yōzei in 1603 and established the Tokugawa shogunate at Edo (modern Tokyo).",
+   "sentence": "He was appointed shōgun by Emperor Go-Yōzei in 1603 and established the Tokugawa shogunate at Edo.",
    "section": "History"
   },
-  "f54": {
+  "f39": {
    "kind": "date",
    "value": "1639",
    "surface": "1639",
-   "sentence": "The shogunate enacted measures including Buke shohatto, as a code of conduct to control the autonomous daimyō, and in 1639 the isolationist sakoku ('closed country') policy that spanned the two and a half centuries of tenuous political unity known as the Edo period (1603–1868).",
+   "sentence": "The shogunate enacted measures including Buke shohatto, as a code of conduct to control the autonomous daimyō, and in 1639 the isolationist sakoku policy that spanned the two and a half centuries of tenuous political unity known as the Edo period.",
    "section": "History"
   },
-  "f55": {
-   "kind": "date",
-   "value": "1603",
-   "surface": "1603",
-   "sentence": "The shogunate enacted measures including Buke shohatto, as a code of conduct to control the autonomous daimyō, and in 1639 the isolationist sakoku ('closed country') policy that spanned the two and a half centuries of tenuous political unity known as the Edo period (1603–1868).",
-   "section": "History"
-  },
-  "f56": {
-   "kind": "date",
-   "value": "1868",
-   "surface": "1868",
-   "sentence": "The shogunate enacted measures including Buke shohatto, as a code of conduct to control the autonomous daimyō, and in 1639 the isolationist sakoku ('closed country') policy that spanned the two and a half centuries of tenuous political unity known as the Edo period (1603–1868).",
-   "section": "History"
-  },
-  "f57": {
+  "f40": {
    "kind": "date",
    "value": "1853",
    "surface": "1853",
-   "sentence": "Arriving at Uraga with four \"Black Ships\" in July 1853, the Perry Expedition resulted in the March 1854 Convention of Kanagawa.",
+   "sentence": "Arriving at Uraga with four \"Black Ships\"in July 1853, the Perry Expedition resulted in the March 1854 Convention of Kanagawa.",
    "section": "History"
   },
-  "f58": {
+  "f41": {
    "kind": "date",
    "value": "1854",
    "surface": "1854",
-   "sentence": "Arriving at Uraga with four \"Black Ships\" in July 1853, the Perry Expedition resulted in the March 1854 Convention of Kanagawa.",
+   "sentence": "Arriving at Uraga with four \"Black Ships\"in July 1853, the Perry Expedition resulted in the March 1854 Convention of Kanagawa.",
    "section": "History"
   },
-  "f59": {
-   "kind": "number",
-   "value": 29,
-   "surface": "29",
-   "sentence": "Adopting Western political, judicial, and military institutions, the Cabinet organized the Privy Council, introduced the Meiji Constitution (November 29, 1890), and assembled the Imperial Diet.",
-   "section": "History"
-  },
-  "f60": {
-   "kind": "date",
-   "value": "1890",
-   "surface": "1890",
-   "sentence": "Adopting Western political, judicial, and military institutions, the Cabinet organized the Privy Council, introduced the Meiji Constitution (November 29, 1890), and assembled the Imperial Diet.",
-   "section": "History"
-  },
-  "f61": {
-   "kind": "date",
-   "value": "1868",
-   "surface": "1868",
-   "sentence": "During the Meiji period (1868–1912), the Empire of Japan emerged as the most developed state in Asia and as an industrialized world power that pursued military conflict to expand its sphere of influence.",
-   "section": "History"
-  },
-  "f62": {
-   "kind": "date",
-   "value": "1912",
-   "surface": "1912",
-   "sentence": "During the Meiji period (1868–1912), the Empire of Japan emerged as the most developed state in Asia and as an industrialized world power that pursued military conflict to expand its sphere of influence.",
-   "section": "History"
-  },
-  "f63": {
-   "kind": "date",
-   "value": "1894",
-   "surface": "1894",
-   "sentence": "After victories in the First Sino-Japanese War (1894–1895) and the Russo-Japanese War (1904–1905), Japan gained control of Taiwan, Korea and the southern half of Sakhalin, and annexed Korea in 1910.",
-   "section": "History"
-  },
-  "f64": {
-   "kind": "date",
-   "value": "1895",
-   "surface": "1895",
-   "sentence": "After victories in the First Sino-Japanese War (1894–1895) and the Russo-Japanese War (1904–1905), Japan gained control of Taiwan, Korea and the southern half of Sakhalin, and annexed Korea in 1910.",
-   "section": "History"
-  },
-  "f65": {
-   "kind": "date",
-   "value": "1904",
-   "surface": "1904",
-   "sentence": "After victories in the First Sino-Japanese War (1894–1895) and the Russo-Japanese War (1904–1905), Japan gained control of Taiwan, Korea and the southern half of Sakhalin, and annexed Korea in 1910.",
-   "section": "History"
-  },
-  "f66": {
-   "kind": "date",
-   "value": "1905",
-   "surface": "1905",
-   "sentence": "After victories in the First Sino-Japanese War (1894–1895) and the Russo-Japanese War (1904–1905), Japan gained control of Taiwan, Korea and the southern half of Sakhalin, and annexed Korea in 1910.",
-   "section": "History"
-  },
-  "f67": {
+  "f42": {
    "kind": "date",
    "value": "1910",
    "surface": "1910",
-   "sentence": "After victories in the First Sino-Japanese War (1894–1895) and the Russo-Japanese War (1904–1905), Japan gained control of Taiwan, Korea and the southern half of Sakhalin, and annexed Korea in 1910.",
+   "sentence": "After victories in the First Sino-Japanese War and the Russo-Japanese War, Japan gained control of Taiwan, Korea and the southern half of Sakhalin, and annexed Korea in 1910.",
    "section": "History"
   },
-  "f68": {
+  "f43": {
    "kind": "number",
    "value": 35000000,
    "surface": "35 million",
    "sentence": "The Japanese population doubled from 35 million in 1873 to 70 million by 1935, with a significant shift to urbanization.",
    "section": "History"
   },
-  "f69": {
+  "f44": {
    "kind": "date",
    "value": "1873",
    "surface": "1873",
    "sentence": "The Japanese population doubled from 35 million in 1873 to 70 million by 1935, with a significant shift to urbanization.",
    "section": "History"
   },
-  "f70": {
+  "f45": {
    "kind": "number",
    "value": 70000000,
    "surface": "70 million",
    "sentence": "The Japanese population doubled from 35 million in 1873 to 70 million by 1935, with a significant shift to urbanization.",
    "section": "History"
   },
-  "f71": {
+  "f46": {
    "kind": "date",
    "value": "1935",
    "surface": "1935",
    "sentence": "The Japanese population doubled from 35 million in 1873 to 70 million by 1935, with a significant shift to urbanization.",
    "section": "History"
   },
-  "f72": {
-   "kind": "date",
-   "value": "1912",
-   "surface": "1912",
-   "sentence": "The early 20th century saw a period of Taishō democracy (1912–1926) overshadowed by increasing expansionism and militarization.",
-   "section": "History"
-  },
-  "f73": {
-   "kind": "date",
-   "value": "1926",
-   "surface": "1926",
-   "sentence": "The early 20th century saw a period of Taishō democracy (1912–1926) overshadowed by increasing expansionism and militarization.",
-   "section": "History"
-  },
-  "f74": {
+  "f47": {
    "kind": "date",
    "value": "1920",
    "surface": "1920",
    "sentence": "World War I allowed Japan, which joined the side of the victorious Allies, to capture German possessions in the Pacific and China in 1920.",
    "section": "History"
   },
-  "f75": {
+  "f48": {
    "kind": "date",
    "value": "1923",
    "surface": "1923",
    "sentence": "The 1920s saw a political shift towards statism, a period of lawlessness following the 1923 Great Tokyo Earthquake, the passing of laws against political dissent, and a series of attempted coups.",
    "section": "History"
   },
-  "f76": {
+  "f49": {
    "kind": "date",
    "value": "1931",
    "surface": "1931",
    "sentence": "In 1931, Japan invaded China and occupied Manchuria, which led to the establishment of puppet state of Manchukuo in 1932.",
    "section": "History"
   },
-  "f77": {
+  "f50": {
    "kind": "date",
    "value": "1932",
    "surface": "1932",
    "sentence": "In 1931, Japan invaded China and occupied Manchuria, which led to the establishment of puppet state of Manchukuo in 1932.",
    "section": "History"
   },
-  "f78": {
+  "f51": {
    "kind": "date",
    "value": "1933",
    "surface": "1933",
    "sentence": "Following international condemnation of the occupation, Japan resigned from the League of Nations in 1933.",
    "section": "History"
   },
-  "f79": {
+  "f52": {
    "kind": "date",
    "value": "1936",
    "surface": "1936",
    "sentence": "In 1936, Japan signed the Anti-Comintern Pact with Nazi Germany; the 1940 Tripartite Pact made it one of the Axis powers.",
    "section": "History"
   },
-  "f80": {
+  "f53": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
    "sentence": "In 1936, Japan signed the Anti-Comintern Pact with Nazi Germany; the 1940 Tripartite Pact made it one of the Axis powers.",
    "section": "History"
   },
-  "f81": {
+  "f54": {
    "kind": "date",
    "value": "1937",
    "surface": "1937",
-   "sentence": "The Empire of Japan invaded other parts of China in 1937, precipitating the Second Sino-Japanese War (1937–1945).",
+   "sentence": "The Empire of Japan invaded other parts of China in 1937, precipitating the Second Sino-Japanese War.",
    "section": "History"
   },
-  "f82": {
-   "kind": "date",
-   "value": "1937",
-   "surface": "1937",
-   "sentence": "The Empire of Japan invaded other parts of China in 1937, precipitating the Second Sino-Japanese War (1937–1945).",
-   "section": "History"
-  },
-  "f83": {
-   "kind": "date",
-   "value": "1945",
-   "surface": "1945",
-   "sentence": "The Empire of Japan invaded other parts of China in 1937, precipitating the Second Sino-Japanese War (1937–1945).",
-   "section": "History"
-  },
-  "f84": {
+  "f55": {
    "kind": "date",
    "value": "1940",
    "surface": "1940",
    "sentence": "In 1940, the Empire invaded French Indochina, after which the United States placed an oil embargo on Japan.",
    "section": "History"
   },
-  "f85": {
+  "f56": {
    "kind": "number",
    "value": 7,
    "surface": "7",
    "sentence": "On December 7–8, 1941, Japanese forces carried out surprise attacks on Pearl Harbor, as well as on British forces in Malaya, Singapore, and Hong Kong, among others, beginning World War II in the Pacific.",
    "section": "History"
   },
-  "f86": {
+  "f57": {
    "kind": "number",
    "value": 8,
    "surface": "8",
    "sentence": "On December 7–8, 1941, Japanese forces carried out surprise attacks on Pearl Harbor, as well as on British forces in Malaya, Singapore, and Hong Kong, among others, beginning World War II in the Pacific.",
    "section": "History"
   },
-  "f87": {
+  "f58": {
    "kind": "date",
    "value": "1941",
    "surface": "1941",
    "sentence": "On December 7–8, 1941, Japanese forces carried out surprise attacks on Pearl Harbor, as well as on British forces in Malaya, Singapore, and Hong Kong, among others, beginning World War II in the Pacific.",
    "section": "History"
   },
-  "f88": {
+  "f59": {
    "kind": "date",
    "value": "1945",
    "surface": "1945",
    "sentence": "After Allied victories during the next four years, which culminated in the Soviet invasion of Manchuria and the atomic bombings of Hiroshima and Nagasaki in 1945, Japan agreed to an unconditional surrender.",
    "section": "History"
   },
-  "f89": {
+  "f60": {
    "kind": "date",
    "value": "1947",
    "surface": "1947",
    "sentence": "In 1947, Japan adopted a new constitution emphasizing liberal democratic practices.",
    "section": "History"
   },
-  "f90": {
+  "f61": {
    "kind": "date",
    "value": "1952",
    "surface": "1952",
    "sentence": "The Allied occupation ended with the Treaty of San Francisco in 1952, and Japan was granted membership in the United Nations in 1956.",
    "section": "History"
   },
-  "f91": {
+  "f62": {
    "kind": "date",
    "value": "1956",
    "surface": "1956",
    "sentence": "The Allied occupation ended with the Treaty of San Francisco in 1952, and Japan was granted membership in the United Nations in 1956.",
    "section": "History"
   },
-  "f92": {
+  "f63": {
    "kind": "number",
    "value": 11,
    "surface": "11",
    "sentence": "On March 11, 2011, Japan suffered the Tōhoku earthquake—the largest by magnitude in its recorded history—which, along with the ensuing tsunami, triggered the Fukushima nuclear accident.",
    "section": "History"
   },
-  "f93": {
+  "f64": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "On March 11, 2011, Japan suffered the Tōhoku earthquake—the largest by magnitude in its recorded history—which, along with the ensuing tsunami, triggered the Fukushima nuclear accident.",
    "section": "History"
   },
-  "f94": {
+  "f65": {
    "kind": "number",
    "value": 1,
    "surface": "1",
    "sentence": "On May 1, 2019, after the historic abdication of Emperor Akihito, his son Naruhito became Emperor, beginning the Reiwa era.",
    "section": "History"
   },
-  "f95": {
+  "f66": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "On May 1, 2019, after the historic abdication of Emperor Akihito, his son Naruhito became Emperor, beginning the Reiwa era.",
    "section": "History"
   },
-  "f96": {
+  "f67": {
    "kind": "number",
    "value": 14125,
    "surface": "14,125",
    "sentence": "Japan comprises 14,125 islands that extend along the Pacific coast of Asia.",
    "section": "Geography"
   },
-  "f97": {
+  "f68": {
    "kind": "measure",
    "value": 3000,
    "unit": "km",
    "surface": "3000 km",
-   "sentence": "It stretches over 3000 km (1900 mi) northeast–southwest from the Sea of Okhotsk to the East China Sea.",
+   "sentence": "It stretches over 3000 km northeast–southwest from the Sea of Okhotsk to the East China Sea.",
    "section": "Geography"
   },
-  "f98": {
-   "kind": "measure",
-   "value": 1900,
-   "unit": "mi",
-   "surface": "1900 mi",
-   "sentence": "It stretches over 3000 km (1900 mi) northeast–southwest from the Sea of Okhotsk to the East China Sea.",
-   "section": "Geography"
-  },
-  "f99": {
+  "f69": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
-   "sentence": "As of 2019, Japan's territory is 377,975.24 km2 (145,937.06 sq mi).",
+   "sentence": "As of 2019, Japan's territory is 377,975.24 km2.",
    "section": "Geography"
   },
-  "f100": {
+  "f70": {
    "kind": "measure",
    "value": 377975.24,
    "unit": "km2",
    "surface": "377,975.24 km2",
-   "sentence": "As of 2019, Japan's territory is 377,975.24 km2 (145,937.06 sq mi).",
+   "sentence": "As of 2019, Japan's territory is 377,975.24 km2.",
    "section": "Geography"
   },
-  "f101": {
-   "kind": "number",
-   "value": 145937.06,
-   "surface": "145,937.06",
-   "sentence": "As of 2019, Japan's territory is 377,975.24 km2 (145,937.06 sq mi).",
-   "section": "Geography"
-  },
-  "f102": {
+  "f71": {
    "kind": "measure",
    "value": 29751,
    "unit": "km",
    "surface": "29,751 km",
-   "sentence": "Japan has the sixth-longest coastline in the world at 29,751 km (18,486 mi).",
+   "sentence": "Japan has the sixth-longest coastline in the world at 29,751 km.",
    "section": "Geography"
   },
-  "f103": {
-   "kind": "measure",
-   "value": 18486,
-   "unit": "mi",
-   "surface": "18,486 mi",
-   "sentence": "Japan has the sixth-longest coastline in the world at 29,751 km (18,486 mi).",
-   "section": "Geography"
-  },
-  "f104": {
+  "f72": {
    "kind": "measure",
    "value": 4470000,
    "unit": "km2",
    "surface": "4,470,000 km2",
-   "sentence": "Because of its far-flung outlying islands, Japan's exclusive economic zone is the eighth-largest in the world, covering 4,470,000 km2 (1,730,000 sq mi).",
+   "sentence": "Because of its far-flung outlying islands, Japan's exclusive economic zone is the eighth-largest in the world, covering 4,470,000 km2.",
    "section": "Geography"
   },
-  "f105": {
-   "kind": "number",
-   "value": 1730000,
-   "surface": "1,730,000",
-   "sentence": "Because of its far-flung outlying islands, Japan's exclusive economic zone is the eighth-largest in the world, covering 4,470,000 km2 (1,730,000 sq mi).",
-   "section": "Geography"
-  },
-  "f106": {
+  "f73": {
    "kind": "measure",
    "value": 67,
    "unit": "%",
@@ -788,7 +555,7 @@
    "sentence": "The Japanese archipelago is 67% forests and 14% agricultural.",
    "section": "Geography"
   },
-  "f107": {
+  "f74": {
    "kind": "measure",
    "value": 14,
    "unit": "%",
@@ -796,129 +563,114 @@
    "sentence": "The Japanese archipelago is 67% forests and 14% agricultural.",
    "section": "Geography"
   },
-  "f108": {
+  "f75": {
    "kind": "number",
    "value": 450,
    "surface": "450",
-   "sentence": "Honshu has the highest population density at 450 persons/km2 (1200/sq mi) as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
+   "sentence": "Honshu has the highest population density at 450 persons/km2 as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
    "section": "Geography"
   },
-  "f109": {
-   "kind": "date",
-   "value": "1200",
-   "surface": "1200",
-   "sentence": "Honshu has the highest population density at 450 persons/km2 (1200/sq mi) as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
-   "section": "Geography"
-  },
-  "f110": {
+  "f76": {
    "kind": "date",
    "value": "2010",
    "surface": "2010",
-   "sentence": "Honshu has the highest population density at 450 persons/km2 (1200/sq mi) as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
+   "sentence": "Honshu has the highest population density at 450 persons/km2 as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
    "section": "Geography"
   },
-  "f111": {
+  "f77": {
    "kind": "number",
    "value": 64.5,
    "surface": "64.5",
-   "sentence": "Honshu has the highest population density at 450 persons/km2 (1200/sq mi) as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
+   "sentence": "Honshu has the highest population density at 450 persons/km2 as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
    "section": "Geography"
   },
-  "f112": {
+  "f78": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
-   "sentence": "Honshu has the highest population density at 450 persons/km2 (1200/sq mi) as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
+   "sentence": "Honshu has the highest population density at 450 persons/km2 as of 2010, while Hokkaido has the lowest density of 64.5 persons/km2 as of 2016.",
    "section": "Geography"
   },
-  "f113": {
+  "f79": {
    "kind": "date",
    "value": "2014",
    "surface": "2014",
-   "sentence": "As of 2014, approximately 0.5% of Japan's total area is reclaimed land (umetatechi).",
+   "sentence": "As of 2014, approximately 0.5% of Japan's total area is reclaimed land.",
    "section": "Geography"
   },
-  "f114": {
+  "f80": {
    "kind": "measure",
    "value": 0.5,
    "unit": "%",
    "surface": "0.5%",
-   "sentence": "As of 2014, approximately 0.5% of Japan's total area is reclaimed land (umetatechi).",
+   "sentence": "As of 2014, approximately 0.5% of Japan's total area is reclaimed land.",
    "section": "Geography"
   },
-  "f115": {
+  "f81": {
    "kind": "date",
    "value": "2016",
    "surface": "2016",
    "sentence": "It has the 17th highest natural disaster risk as measured in the 2016 World Risk Index.",
    "section": "Geography"
   },
-  "f116": {
+  "f82": {
    "kind": "number",
    "value": 111,
    "surface": "111",
    "sentence": "Japan has 111 active volcanoes.",
    "section": "Geography"
   },
-  "f117": {
+  "f83": {
    "kind": "date",
    "value": "1923",
    "surface": "1923",
    "sentence": "Destructive earthquakes, often resulting in tsunami, occur several times each century; the 1923 Tokyo earthquake killed over 140,000 people.",
    "section": "Geography"
   },
-  "f118": {
+  "f84": {
    "kind": "number",
    "value": 140000,
    "surface": "140,000",
    "sentence": "Destructive earthquakes, often resulting in tsunami, occur several times each century; the 1923 Tokyo earthquake killed over 140,000 people.",
    "section": "Geography"
   },
-  "f119": {
+  "f85": {
    "kind": "date",
    "value": "1995",
    "surface": "1995",
    "sentence": "More recent major quakes are the 1995 Great Hanshin earthquake and the 2011 Tōhoku earthquake, which triggered a large tsunami.",
    "section": "Geography"
   },
-  "f120": {
+  "f86": {
    "kind": "date",
    "value": "2011",
    "surface": "2011",
    "sentence": "More recent major quakes are the 1995 Great Hanshin earthquake and the 2011 Tōhoku earthquake, which triggered a large tsunami.",
    "section": "Geography"
   },
-  "f121": {
+  "f87": {
    "kind": "measure",
    "value": 41.8,
    "unit": "°c",
    "surface": "41.8 °C",
-   "sentence": "The highest temperature ever measured in Japan, 41.8 °C (107.2 °F), was recorded on August 5, 2025.",
+   "sentence": "The highest temperature ever measured in Japan, 41.8 °C, was recorded on August 5, 2025.",
    "section": "Geography"
   },
-  "f122": {
-   "kind": "measure",
-   "value": 107.2,
-   "unit": "°f",
-   "surface": "107.2 °F",
-   "sentence": "The highest temperature ever measured in Japan, 41.8 °C (107.2 °F), was recorded on August 5, 2025.",
-   "section": "Geography"
-  },
-  "f123": {
+  "f88": {
    "kind": "number",
    "value": 5,
    "surface": "5",
-   "sentence": "The highest temperature ever measured in Japan, 41.8 °C (107.2 °F), was recorded on August 5, 2025.",
+   "sentence": "The highest temperature ever measured in Japan, 41.8 °C, was recorded on August 5, 2025.",
    "section": "Geography"
   },
-  "f124": {
+  "f89": {
    "kind": "date",
    "value": "2025",
    "surface": "2025",
-   "sentence": "The highest temperature ever measured in Japan, 41.8 °C (107.2 °F), was recorded on August 5, 2025.",
+   "sentence": "The highest temperature ever measured in Japan, 41.8 °C, was recorded on August 5, 2025.",
    "section": "Geography"
   },
-  "f125": {
+  "f90": {
    "kind": "measure",
    "value": 90000,
    "unit": "species",
@@ -926,56 +678,56 @@
    "sentence": "Japan has over 90,000 species of wildlife as of 2019, including the brown bear, the Japanese macaque, the Japanese raccoon dog, the small Japanese field mouse, and the Japanese giant salamander.",
    "section": "Geography"
   },
-  "f126": {
+  "f91": {
    "kind": "date",
    "value": "2019",
    "surface": "2019",
    "sentence": "Japan has over 90,000 species of wildlife as of 2019, including the brown bear, the Japanese macaque, the Japanese raccoon dog, the small Japanese field mouse, and the Japanese giant salamander.",
    "section": "Geography"
   },
-  "f127": {
+  "f92": {
    "kind": "number",
    "value": 53,
    "surface": "53",
    "sentence": "There are 53 Ramsar wetland sites in Japan.",
    "section": "Geography"
   },
-  "f128": {
+  "f93": {
    "kind": "date",
    "value": "1970",
    "surface": "1970",
    "sentence": "Responding to rising concerns, the government introduced environmental protection laws in 1970.",
    "section": "Geography"
   },
-  "f129": {
+  "f94": {
    "kind": "date",
    "value": "1973",
    "surface": "1973",
    "sentence": "The oil crisis in 1973 also encouraged the efficient use of energy because of Japan's lack of natural resources.",
    "section": "Geography"
   },
-  "f130": {
+  "f95": {
    "kind": "date",
    "value": "2018",
    "surface": "2018",
    "sentence": "Japan ranks 20th in the 2018 Environmental Performance Index, which measures a country's commitment to environmental sustainability.",
    "section": "Geography"
   },
-  "f131": {
+  "f96": {
    "kind": "date",
    "value": "1997",
    "surface": "1997",
    "sentence": "As the host and signatory of the 1997 Kyoto Protocol, Japan is under treaty obligation to reduce its carbon dioxide emissions and to take other steps to curb climate change.",
    "section": "Geography"
   },
-  "f132": {
+  "f97": {
    "kind": "date",
    "value": "2020",
    "surface": "2020",
    "sentence": "In 2020, the government of Japan announced a target of carbon neutrality by 2050.",
    "section": "Geography"
   },
-  "f133": {
+  "f98": {
    "kind": "date",
    "value": "2050",
    "surface": "2050",
