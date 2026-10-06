@@ -19,7 +19,7 @@ import { join } from 'node:path';
 import { evaluateImage, canonicalFileTitle, type ImageVerdict, type ImageRecord } from '../../src/core/license/license';
 import type { Domain } from '../../src/core/schema/thing';
 import { classify } from './config/domains';
-import { actionApi, actionQueryAll, batches, sparql, stats, type WikiLang } from './lib/wiki';
+import { actionApi, actionQueryAll, batches, sparql, stats, titleBatches, type WikiLang } from './lib/wiki';
 
 const ROOT = join(import.meta.dirname, '../..');
 const LANGS: WikiLang[] = ['en', 'de', 'fr'];
@@ -95,7 +95,7 @@ type PageProps = { title: string; pageid: number; qid: string | null; disambig: 
 
 async function pageProps(lang: WikiLang, titles: string[]): Promise<Map<string, PageProps>> {
   const out = new Map<string, PageProps>();
-  const all = batches(titles, 50);
+  const all = titleBatches(titles);
   let i = 0;
   for (const b of all) {
     if (++i % 20 === 0) progress(`  ${lang} props ${i}/${all.length}  (net ${stats.network}, cache ${stats.cached}, waited ${Math.round(stats.waitedMs / 1000)}s)`);
@@ -163,7 +163,7 @@ const EXTMETA = 'LicenseShortName|LicenseUrl|Artist|Credit|Attribution|Attributi
 
 async function imageVerdicts(files: string[]): Promise<Map<string, ImageVerdict>> {
   const out = new Map<string, ImageVerdict>();
-  const all = batches(files, 50);
+  const all = titleBatches(files);
   let i = 0;
   for (const b of all) {
     if (++i % 20 === 0) progress(`  imageinfo ${i}/${all.length}  (net ${stats.network}, cache ${stats.cached}, waited ${Math.round(stats.waitedMs / 1000)}s)`);

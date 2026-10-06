@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { actionApi, batches, cacheKey } from './wiki';
+import { actionApi, batches, cacheKey, titleBatches } from './wiki';
 
 describe('wiki client', () => {
   it('cache key ignores maxlag and parameter order', () => {
@@ -7,6 +7,14 @@ describe('wiki client', () => {
   });
   it('batches at most 50 titles', () => {
     expect(batches(Array.from({ length: 120 }, (_, i) => i)).map((b) => b.length)).toEqual([50, 50, 20]);
+  });
+  it('splits only batches whose encoded titles are too long', () => {
+    const latin = Array.from({ length: 50 }, (_, i) => `File:Photo ${i}.jpg`);
+    const cyrillic = Array.from({ length: 50 }, (_, i) => `File:Берег Куршского залива ${i}.jpg`);
+    const b = titleBatches([...latin, ...cyrillic]);
+    expect(b[0]).toEqual(latin); // unchanged: cache keys stay stable
+    expect(b.length).toBeGreaterThan(2);
+    for (const x of b) expect(encodeURIComponent(x.join('|')).length).toBeLessThanOrEqual(5000);
   });
   it('refuses live network calls under tests', async () => {
     await expect(actionApi('en', { titles: 'A page that is surely not cached ' + Math.random() })).rejects.toThrow(/live network call attempted under tests/);

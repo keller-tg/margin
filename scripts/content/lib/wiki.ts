@@ -191,6 +191,19 @@ export function sparql(query: string): Promise<any> {
   return cachedGet(url, { headers: { Accept: 'application/sparql-results+json' } });
 }
 
+/**
+ * Batches of at most `n` titles whose encoded `titles=` parameter also stays under `maxEncoded`
+ * characters (non-Latin file names percent-encode to ~6x their length; the servers answer 414 past ~8 KB).
+ * A 50-batch is only split when it is too long, so batch boundaries — and with them cache keys — stay stable.
+ */
+export function titleBatches(titles: readonly string[], n = 50, maxEncoded = 5000): string[][] {
+  const split = (b: string[]): string[][] =>
+    b.length > 1 && encodeURIComponent(b.join('|')).length > maxEncoded
+      ? [...split(b.slice(0, Math.ceil(b.length / 2))), ...split(b.slice(Math.ceil(b.length / 2)))]
+      : [b];
+  return batches(titles, n).flatMap(split);
+}
+
 /** Split into batches of at most `n` (Action API: 50 titles per request). */
 export function batches<T>(xs: readonly T[], n = 50): T[][] {
   const out: T[][] = [];
