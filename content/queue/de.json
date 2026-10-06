@@ -583,6 +583,148 @@
    },
    "pickedAt": "2026-10-06T09:03:01.936Z",
    "attempt": 0
+  },
+  "evening": {
+   "title": "Fleisch",
+   "qid": "Q10990",
+   "pageid": 144679,
+   "domain": "food",
+   "image": {
+    "file": "File:Venison Steaks.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:04:01.390Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-29": {
+  "morning": {
+   "title": "Beutelteufel",
+   "qid": "Q134964",
+   "pageid": 246249,
+   "domain": "animals",
+   "image": {
+    "file": "File:Sarcophilus harrisii taranna.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:04:02.626Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Halbmetalle",
+   "qid": "Q19596",
+   "pageid": 50753,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Boron R105.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T09:04:04.455Z",
+   "attempt": 1
+  }
+ },
+ "2026-10-30": {
+  "morning": {
+   "title": "95 Thesen",
+   "qid": "Q157506",
+   "pageid": 36210,
+   "domain": "literature",
+   "image": {
+    "file": "File:Luther 95 Thesen.png",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:04:05.808Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Fledertiere",
+   "qid": "Q28425",
+   "pageid": 1724,
+   "domain": "animals",
+   "image": {
+    "file": "File:Wikipedia-Bats-001-v01.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T09:04:06.636Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-31": {
+  "morning": {
+   "title": "Joseph Priestley",
+   "qid": "Q159636",
+   "pageid": 72456,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Joseph Priestley (NPG).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:04:07.820Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Kürbisse",
+   "qid": "Q5339301",
+   "pageid": 11788,
+   "domain": "plants",
+   "image": {
+    "file": "File:Icones plantarum medico-oeconomico-technologicarum cum earum fructus ususque descriptione = (Tab. 148) (8096991138).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:05:01.434Z",
+   "attempt": 0
+  }
+ },
+ "2026-11-01": {
+  "morning": {
+   "title": "Rigel",
+   "qid": "Q12126",
+   "pageid": 93843,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:1e10m comparison Rigel, Aldebaran, and smaller - antialiased no transparency.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:05:02.052Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Tschadsee",
+   "qid": "Q125309",
+   "pageid": 100937,
+   "domain": "water",
+   "image": {
+    "file": "File:Lake Chad (MODIS 2018-06-07).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:05:03.538Z",
+   "attempt": 0
+  }
+ },
+ "2026-11-02": {
+  "morning": {
+   "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+   "qid": "Q169226",
+   "pageid": 60079,
+   "domain": "music",
+   "image": {
+    "file": "File:Sgt. Pepper's Lonely Hearts Club Band album art.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:05:07.107Z",
+   "attempt": 2
+  },
+  "evening": {
+   "title": "Asteroidengürtel",
+   "qid": "Q2179",
+   "pageid": 80637,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Asteroid belt positions-en.png",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:05:07.597Z",
+   "attempt": 0
   }
  }
 }
