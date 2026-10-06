@@ -193,6 +193,96 @@
    },
    "pickedAt": "2026-10-06T09:10:02.818Z",
    "attempt": 1
+  },
+  "evening": {
+   "title": "Cygnus X-1",
+   "qid": "Q332674",
+   "pageid": 43241,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Chandra image of Cygnus X-1.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:11:01.454Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-14": {
+  "morning": {
+   "title": "Archaeopteryx",
+   "qid": "Q100196",
+   "pageid": 999553,
+   "domain": "animals",
+   "image": {
+    "file": "File:Archaeopteryx lithographica (Berlin specimen).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:11:02.327Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Nudité",
+   "qid": "Q10791",
+   "pageid": 15490,
+   "domain": "household",
+   "image": {
+    "file": "File:Enfants à la découverte (Joanika Ring, Overlangel 1995).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:11:03.252Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-15": {
+  "morning": {
+   "title": "Projet Manhattan",
+   "qid": "Q127050",
+   "pageid": 26073,
+   "domain": "history",
+   "image": {
+    "file": "File:Trinity shot color.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:11:04.599Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Fregatidae",
+   "qid": "Q203472",
+   "pageid": 122501,
+   "domain": "animals",
+   "image": {
+    "file": "File:Great Frigatebird at Genovesa.JPG",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:11:05.382Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-16": {
+  "morning": {
+   "title": "Sesame Street",
+   "qid": "Q155629",
+   "pageid": 63269,
+   "domain": "film",
+   "image": {
+    "file": "File:BlogHer 08 - Sesame Street Suite (2682321763).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:12:01.156Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Bételgeuse",
+   "qid": "Q12124",
+   "pageid": 24937,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Location of the binary system of Betelgeuse in constellation Orion.png",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T09:12:02.446Z",
+   "attempt": 0
   }
  }
 }
