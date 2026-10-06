@@ -64,8 +64,9 @@
     "text": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre."
    },
    {
-    "type": "sentence",
-    "text": "Après plusieurs jours d’agonie, Mary Wollstonecraft meurt de septicémie le 10 septembre."
+    "type": "image",
+    "image": "img1",
+    "caption": "Mary Wollstonecraft"
    },
    {
     "type": "closing",
@@ -107,7 +108,7 @@
    },
    {
     "type": "sentence",
-    "text": "Mary Wollstonecraft s’embarque pour Paris en décembre 1792 et y arrive environ un mois avant que Louis XVI ne soit guillotiné."
+    "text": "Le père se voit même obligé de contraindre sa fille à lui remettre les sommes dont elle devrait jouir à sa majorité."
    },
    {
     "type": "closing",
@@ -149,19 +150,7 @@
    },
    {
     "type": "sentence",
-    "text": "Après la mort de Fanny Blood, les amis de Mary Wollstonecraft l’aident à obtenir une place de gouvernante en Irlande, auprès des filles d’une famille anglo-irlandaise, les Kingsborough."
-   },
-   {
-    "type": "sentence",
     "text": "Le père se voit même obligé de contraindre sa fille à lui remettre les sommes dont elle devrait jouir à sa majorité."
-   },
-   {
-    "type": "sentence",
-    "text": "Mary Wollstonecraft s’embarque pour Paris en décembre 1792 et y arrive environ un mois avant que Louis XVI ne soit guillotiné."
-   },
-   {
-    "type": "sentence",
-    "text": "Ainsi, lors d’un épisode fondateur survenu en 1784, elle parvient à convaincre Eliza, sans doute victime d’une dépression post-partum, de quitter mari et enfant."
    },
    {
     "type": "sentence",
@@ -169,7 +158,19 @@
    },
    {
     "type": "sentence",
+    "text": "Ainsi, lors d’un épisode fondateur survenu en 1784, elle parvient à convaincre Eliza, sans doute victime d’une dépression post-partum, de quitter mari et enfant."
+   },
+   {
+    "type": "sentence",
     "text": "La France est dans la tourmente, Mary cherche la compagnie d’autres Britanniques, comme Helen Maria Williams, et rejoint le cercle des expatriés résidant dans la capitale française."
+   },
+   {
+    "type": "sentence",
+    "text": "Mary, très tôt, se poste souvent derrière la porte pour protéger sa mère."
+   },
+   {
+    "type": "sentence",
+    "text": "Travailler pour Lady Kingsborough s’avère difficile, mais les enfants ont trouvé un mentor qui sait leur ouvrir l’esprit ; Margaret King dira plus tard qu’elle « avait libéré son esprit de toutes les superstitions »."
    },
    {
     "type": "closing",
@@ -178,9 +179,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.76,
+ "qualityScore": 0.68,
  "verified": {
   "version": 1,
-  "hash": "121cca94d653b5.1cf8f5331ba23e"
+  "hash": "1bdc14dfc97735.1cf8f5331ba23e"
  }
 }

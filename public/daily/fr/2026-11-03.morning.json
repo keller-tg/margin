@@ -56,11 +56,6 @@
    "unit": "ans",
    "surface": "25 ans"
   },
-  "f87": {
-   "kind": "date",
-   "value": "1830",
-   "surface": "1830"
-  },
   "f108": {
    "kind": "date",
    "value": "1847",
@@ -118,10 +113,6 @@
       "label": "Berlioz est promu bachelier ès lettres à Grenoble, le 22 mars 1821."
      },
      {
-      "fact": "f87",
-      "label": "Le chef d’orchestre, François-Antoine Habeneck, la crée au Conservatoire le 5 décembre 1830."
-     },
-     {
       "fact": "f108",
       "label": "La période anglaise de 1847-1848 est particulièrement fertile en aventures."
      },
@@ -137,7 +128,7 @@
    },
    {
     "type": "closing",
-    "text": "C’est en partie pour les dissiper que Berlioz entreprend la rédaction de ses Mémoires, en 1849."
+    "text": "Éminent représentant du romantisme européen, Berlioz se considérait lui-même comme un compositeur classique, prenant comme modèles Gluck, Beethoven et Weber."
    }
   ],
   "deep": [
@@ -168,10 +159,6 @@
      {
       "fact": "f24",
       "label": "Berlioz est promu bachelier ès lettres à Grenoble, le 22 mars 1821."
-     },
-     {
-      "fact": "f87",
-      "label": "Le chef d’orchestre, François-Antoine Habeneck, la crée au Conservatoire le 5 décembre 1830."
      },
      {
       "fact": "f108",
@@ -209,7 +196,7 @@
    },
    {
     "type": "closing",
-    "text": "C’est en partie pour les dissiper que Berlioz entreprend la rédaction de ses Mémoires, en 1849, et rassemble certains de ses articles et nouvelles, dans des ouvrages aux titres volontiers humoristiques."
+    "text": "Éminent représentant du romantisme européen, Berlioz se considérait lui-même comme un compositeur classique, prenant comme modèles Gluck, Beethoven et Weber."
    }
   ]
  },
@@ -217,6 +204,6 @@
  "qualityScore": 0.92,
  "verified": {
   "version": 1,
-  "hash": "05f11d3a826643.07552426c5cf8a"
+  "hash": "1b24ba15617e55.07552426c5cf8a"
  }
 }

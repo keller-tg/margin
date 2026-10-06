@@ -46,21 +46,10 @@
    "unit": "m",
    "surface": "99m"
   },
-  "f23": {
-   "kind": "date",
-   "value": "1925",
-   "surface": "1925"
-  },
-  "f84": {
-   "kind": "measure",
-   "value": 27,
-   "unit": "mg",
-   "surface": "27 mg"
-  },
-  "f114": {
-   "kind": "date",
-   "value": "2000",
-   "surface": "2000"
+  "f52": {
+   "kind": "number",
+   "value": 108,
+   "surface": "108"
   }
  },
  "paces": {
@@ -77,9 +66,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f84",
-    "display": "27 mg",
-    "caption": "La fission d’un gramme d’uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc."
+    "fact": "f52",
+    "display": "108",
+    "caption": "Un gramme de 99Tc produit 6,2×108 désintégrations par seconde."
    },
    {
     "type": "closing",
@@ -109,21 +98,12 @@
     "caption": "Le technétium 99m, un isotope de faible demi-vie, émetteur de rayons γ, est utilisé en médecine nucléaire pour effectuer de nombreux diagnostics."
    },
    {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f23",
-      "label": "La question de l’authenticité de la découverte de l’élément 43 en 1925 reste débattue."
-     },
-     {
-      "fact": "f114",
-      "label": "Depuis l’an 2000, la réglementation limite les rejets à 90 TBq par an."
-     }
-    ]
+    "type": "sentence",
+    "text": "Le technétium est l’élément le plus léger ne possédant pas d’isotope stable."
    },
    {
     "type": "sentence",
-    "text": "Le technétium est l’élément le plus léger ne possédant pas d’isotope stable."
+    "text": "Le technétium est aussi le plus léger des éléments découverts par création artificielle."
    },
    {
     "type": "closing",
@@ -153,17 +133,8 @@
     "caption": "Le technétium 99m, un isotope de faible demi-vie, émetteur de rayons γ, est utilisé en médecine nucléaire pour effectuer de nombreux diagnostics."
    },
    {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f23",
-      "label": "La question de l’authenticité de la découverte de l’élément 43 en 1925 reste débattue."
-     },
-     {
-      "fact": "f114",
-      "label": "Depuis l’an 2000, la réglementation limite les rejets à 90 TBq par an."
-     }
-    ]
+    "type": "sentence",
+    "text": "Le technétium est l’élément le plus léger ne possédant pas d’isotope stable."
    },
    {
     "type": "sentence",
@@ -179,10 +150,6 @@
    },
    {
     "type": "sentence",
-    "text": "C’est l’élément le plus léger présentant cette propriété."
-   },
-   {
-    "type": "sentence",
     "text": "Parmi les 82 premiers éléments chimiques, seuls deux éléments sont exclusivement radioactifs : le technétium est le premier, l’autre est le prométhium."
    },
    {
@@ -190,15 +157,19 @@
     "text": "Dans la classification périodique, le technétium est situé entre les lignes du rhénium et du manganèse, et ses propriétés sont intermédiaires entre celles de ces deux éléments chimiques."
    },
    {
+    "type": "sentence",
+    "text": "En 1908, le chimiste japonais Masataka Ogawa crut trouver des preuves de la présence de l’élément 43 dans un minerai de thorianite."
+   },
+   {
     "type": "closing",
-    "text": "Sur Terre, le technétium existe sous forme de traces en quantité mesurable comme un produit de la fission spontanée d’un alliage d’uranium ou par la capture d’un neutron d’un alliage de molybdène."
+    "text": "Aucun des isotopes du technétium ne possède une demi-vie supérieure à 4,2 millions d’années, donc sa détection dans les géantes rouges en 1952 apporta la preuve que les étoiles peuvent produire des éléments plus lourds lors de la nucléosynthèse stellaire."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.96,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0de1bbdd8400ed.1ae3f62d354285"
+  "hash": "1b9305f178379c.1ae3f62d354285"
  }
 }

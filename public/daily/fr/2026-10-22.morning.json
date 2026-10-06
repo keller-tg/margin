@@ -40,16 +40,11 @@
   }
  },
  "facts": {
-  "f4": {
+  "f18": {
    "kind": "measure",
-   "value": 8.5,
+   "value": 1,
    "unit": "m",
-   "surface": "8,5 m"
-  },
-  "f7": {
-   "kind": "date",
-   "value": "1877",
-   "surface": "1877"
+   "surface": "1 m"
   },
   "f24": {
    "kind": "date",
@@ -60,6 +55,11 @@
    "kind": "date",
    "value": "2020",
    "surface": "2020"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877"
   }
  },
  "paces": {
@@ -72,7 +72,7 @@
    },
    {
     "type": "sentence",
-    "text": "C’est le genre type de la famille des Allosauridae."
+    "text": "Certains paléontologues interprètent Allosaurus comme ayant eu un comportement social coopératif et chassant en meute."
    },
    {
     "type": "sentence",
@@ -80,7 +80,7 @@
    },
    {
     "type": "closing",
-    "text": "Certains paléontologues interprètent Allosaurus comme ayant eu un comportement social coopératif et chassant en meute."
+    "text": "Les proies potentielles incluent les ornithopodes, les stégosauridés et les sauropodes."
    }
   ],
   "medium": [
@@ -100,17 +100,11 @@
     "caption": "Allosaurus"
    },
    {
-    "type": "bignumber",
-    "fact": "f4",
-    "display": "8,5 m",
-    "caption": "L’animal mesure en moyenne 8,5 m de long chez A. fragilis, les plus gros spécimens étant estimés à 9,7 m de long."
-   },
-   {
     "type": "timeline",
     "events": [
      {
-      "fact": "f7",
-      "label": "Othniel Charles Marsh donna à ces restes le nom officiel d’Allosaurus fragilis en 1877."
+      "fact": "f29",
+      "label": "A. fragilis est l’espèce type du genre et fut nommée par Marsh en 1877."
      },
      {
       "fact": "f24",
@@ -125,6 +119,10 @@
    {
     "type": "sentence",
     "text": "Les premiers restes fossiles pouvant être définitivement attribués à ce genre sont décrits en 1877 par le paléontologue américain Othniel Charles Marsh."
+   },
+   {
+    "type": "sentence",
+    "text": "Le genre a une taxonomie très complexe et comprend au moins trois espèces valides, dont la plus connue est A. fragilis."
    },
    {
     "type": "closing",
@@ -149,16 +147,16 @@
    },
    {
     "type": "bignumber",
-    "fact": "f4",
-    "display": "8,5 m",
-    "caption": "L’animal mesure en moyenne 8,5 m de long chez A. fragilis, les plus gros spécimens étant estimés à 9,7 m de long."
+    "fact": "f18",
+    "display": "1 m",
+    "caption": "Les ossements de la carrière appartiennent à des individus de presque tous les âges et de toutes les tailles, de moins de 1 m à 12 m de long."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f7",
-      "label": "Othniel Charles Marsh donna à ces restes le nom officiel d’Allosaurus fragilis en 1877."
+      "fact": "f29",
+      "label": "A. fragilis est l’espèce type du genre et fut nommée par Marsh en 1877."
      },
      {
       "fact": "f24",
@@ -184,15 +182,15 @@
    },
    {
     "type": "sentence",
-    "text": "Hayden envoya l’os à Joseph Leidy, qui l’identifia comme étant la moitié d’une vertèbre caudale et il l’attribua provisoirement à un genre de dinosaures européens Poekilopleuron, créant ainsi Poicilopleuron valens."
-   },
-   {
-    "type": "sentence",
     "text": "La dénomination spécifique fragilis est le mot latin pour « fragile », se référant aux caractéristiques de légèreté des vertèbres."
    },
    {
     "type": "sentence",
     "text": "Marsh et Edward Drinker Cope, qui étaient alors en rivalité, en vinrent à inventer plusieurs autres genres basés sur d’analogues rares pièces qui, plus tard, devaient figurer dans la taxinomie d’Allosaurus."
+   },
+   {
+    "type": "sentence",
+    "text": "En outre, l’un des collecteurs de Cope, H.F. Hubbell, qui en avait trouvé un spécimen dans la région de Como Bluff au Wyoming en 1879, n’avait apparemment pas mentionné cette découverte intégrale, et Cope ne put ainsi jamais le déballer."
    },
    {
     "type": "closing",
@@ -201,9 +199,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "1c4fe783e69a7d.0b48ecb5ed2523"
+  "hash": "1a52a2db3a6191.0b48ecb5ed2523"
  }
 }

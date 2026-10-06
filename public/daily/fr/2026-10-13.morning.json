@@ -51,26 +51,20 @@
    "value": "1848",
    "surface": "1848"
   },
-  "f44": {
-   "kind": "date",
-   "value": "1815",
-   "surface": "1815"
-  },
   "f45": {
    "kind": "date",
    "value": "1862",
    "surface": "1862"
   },
-  "f46": {
+  "f60": {
    "kind": "date",
-   "value": "1866",
-   "surface": "1866"
+   "value": "1919",
+   "surface": "1919"
   },
-  "f66": {
-   "kind": "measure",
-   "value": 88000,
-   "unit": "km2",
-   "surface": "88 000 km2"
+  "f62": {
+   "kind": "date",
+   "value": "1871",
+   "surface": "1871"
   }
  },
  "paces": {
@@ -86,14 +80,12 @@
     "text": "L’Allemagne, en forme longue la République fédérale d’Allemagne, est un État d’Europe centrale."
    },
    {
-    "type": "bignumber",
-    "fact": "f66",
-    "display": "88 000 km2",
-    "caption": "L’Allemagne perd 88 000 km2 et huit millions d’habitants."
+    "type": "sentence",
+    "text": "La langue officielle du pays est principalement l’allemand, à côté d’autres langues régionales ou minoritaires."
    },
    {
     "type": "closing",
-    "text": "Depuis la réunification en octobre 1990, l’Allemagne se divise en seize régions semi-autonomes appelées lands."
+    "text": "L’Allemagne est aussi la première puissance économique d’Europe ainsi que la troisième puissance économique mondiale."
    }
   ],
   "medium": [
@@ -122,10 +114,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f44",
-      "label": "L’Allemagne se retrouve dans la même situation politique qu’en 1815."
-     },
-     {
       "fact": "f42",
       "label": "Les révolutions de l’année 1848 touchent la plupart des États allemands."
      },
@@ -134,8 +122,12 @@
       "label": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier."
      },
      {
-      "fact": "f46",
-      "label": "En 1866, l’armée prussienne écrase l’armée autrichienne à Sadowa."
+      "fact": "f62",
+      "label": "La Alsace-Lorraine, annexée par l’Allemagne en 1871, est restituée à la France."
+     },
+     {
+      "fact": "f60",
+      "label": "Le traité de Versailles est finalement signé le 28 juin 1919."
      }
     ]
    },
@@ -145,7 +137,7 @@
    },
    {
     "type": "closing",
-    "text": "Depuis la réunification en octobre 1990, l’Allemagne se divise en seize régions semi-autonomes appelées lands."
+    "text": "L’Allemagne est parmi les pays les plus appréciés du monde, au 7e rang en 2024 d’après un sondage de U.S. News."
    }
   ],
   "deep": [
@@ -174,10 +166,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f44",
-      "label": "L’Allemagne se retrouve dans la même situation politique qu’en 1815."
-     },
-     {
       "fact": "f42",
       "label": "Les révolutions de l’année 1848 touchent la plupart des États allemands."
      },
@@ -186,8 +174,12 @@
       "label": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier."
      },
      {
-      "fact": "f46",
-      "label": "En 1866, l’armée prussienne écrase l’armée autrichienne à Sadowa."
+      "fact": "f62",
+      "label": "La Alsace-Lorraine, annexée par l’Allemagne en 1871, est restituée à la France."
+     },
+     {
+      "fact": "f60",
+      "label": "Le traité de Versailles est finalement signé le 28 juin 1919."
      }
     ]
    },
@@ -217,14 +209,14 @@
    },
    {
     "type": "closing",
-    "text": "Depuis la réunification en octobre 1990, l’Allemagne se divise en seize régions semi-autonomes appelées lands."
+    "text": "L’Allemagne est parmi les pays les plus appréciés du monde, au 7e rang en 2024 d’après un sondage de U.S. News."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "19f6a134ee6287.1613f072524319"
+  "hash": "0f97f11ad00f49.1613f072524319"
  }
 }

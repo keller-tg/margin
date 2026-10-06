@@ -40,11 +40,6 @@
   }
  },
  "facts": {
-  "f5": {
-   "kind": "date",
-   "value": "2014",
-   "surface": "2014"
-  },
   "f6": {
    "kind": "measure",
    "value": 540,
@@ -71,6 +66,11 @@
    "kind": "date",
    "value": "1947",
    "surface": "1947"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007"
   }
  },
  "paces": {
@@ -93,7 +93,7 @@
    },
    {
     "type": "closing",
-    "text": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana."
+    "text": "Hyderabad liegt im Zentrum der Dekkan-Hochebene am Fluss Musi."
    }
   ],
   "medium": [
@@ -134,8 +134,8 @@
       "label": "Bei den kurzen Kämpfen und Auseinandersetzungen 1947/1948 starben zahlreiche Zivilisten."
      },
      {
-      "fact": "f5",
-      "label": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana."
+      "fact": "f21",
+      "label": "Übergeordnete Verwaltungsbehörde ist die am 16. April 2007 gegründete Greater Hyderabad Municipal Corporation."
      }
     ]
    },
@@ -145,7 +145,7 @@
    },
    {
     "type": "closing",
-    "text": "Im Lal Bahadur Shastri Stadium fanden unter anderem Spiele bei den Women’s Cricket World Cups 1978 und 1997."
+    "text": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana, der aus dem Bundesstaat Andhra Pradesh herausgelöst worden war."
    }
   ],
   "deep": [
@@ -186,14 +186,10 @@
       "label": "Bei den kurzen Kämpfen und Auseinandersetzungen 1947/1948 starben zahlreiche Zivilisten."
      },
      {
-      "fact": "f5",
-      "label": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana."
+      "fact": "f21",
+      "label": "Übergeordnete Verwaltungsbehörde ist die am 16. April 2007 gegründete Greater Hyderabad Municipal Corporation."
      }
     ]
-   },
-   {
-    "type": "sentence",
-    "text": "Übergeordnete Verwaltungsbehörde ist die am 16. April 2007 gegründete Greater Hyderabad Municipal Corporation."
    },
    {
     "type": "sentence",
@@ -216,8 +212,12 @@
     "text": "Vorläuferin der GHMC war die Hyderabad Municipal Corporation, die 1956 durch Zusammenschluss der Stadtverwaltungen von Hyderabad und Secunderabad entstanden war."
    },
    {
+    "type": "sentence",
+    "text": "Bei der Gründung der GHMC wurden 12 municpalities aus den angrenzenden Distrikten Medak und Rangareddy inkorporiert."
+   },
+   {
     "type": "closing",
-    "text": "Hyderabad liegt im Zentrum der Dekkan-Hochebene am Fluss Musi."
+    "text": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana, der aus dem Bundesstaat Andhra Pradesh herausgelöst worden war."
    }
   ]
  },
@@ -225,6 +225,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1de6cfc70741bd.077a769d1b947e"
+  "hash": "10270f58dc3d62.077a769d1b947e"
  }
 }

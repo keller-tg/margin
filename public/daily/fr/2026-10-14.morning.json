@@ -40,11 +40,6 @@
   }
  },
  "facts": {
-  "f13": {
-   "kind": "date",
-   "value": "1863",
-   "surface": "1863"
-  },
   "f35": {
    "kind": "date",
    "value": "2009",
@@ -102,10 +97,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f13",
-      "label": "Richard Owen le décrit en 1863 et rapproche la plume de l’animal."
-     },
-     {
       "fact": "f42",
       "label": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004."
      },
@@ -125,7 +116,7 @@
    },
    {
     "type": "sentence",
-    "text": "Une publication de 2011 par exemple, place l’archéopteryx et les autres Archaeopterygidae plus près des deinonychosaures que des oiseaux."
+    "text": "En 2004, on a en revanche établi que son cerveau était plus volumineux que celui de la plupart des autres dinosaures."
    },
    {
     "type": "closing",
@@ -151,10 +142,6 @@
    {
     "type": "timeline",
     "events": [
-     {
-      "fact": "f13",
-      "label": "Richard Owen le décrit en 1863 et rapproche la plume de l’animal."
-     },
      {
       "fact": "f42",
       "label": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004."
@@ -207,6 +194,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "13b081e9e4c210.064151c9da6953"
+  "hash": "018772c8b47c77.064151c9da6953"
  }
 }

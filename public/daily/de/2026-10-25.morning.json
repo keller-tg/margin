@@ -40,11 +40,6 @@
   }
  },
  "facts": {
-  "f6": {
-   "kind": "date",
-   "value": "1840",
-   "surface": "1840"
-  },
   "f8": {
    "kind": "date",
    "value": "1843",
@@ -70,6 +65,11 @@
    "kind": "date",
    "value": "1879",
    "surface": "1879"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1881",
+   "surface": "1881"
   }
  },
  "paces": {
@@ -85,8 +85,9 @@
     "text": "Alfred Russel Wallace OM war ein weitgehend autodidaktisch gebildeter britischer Naturforscher."
    },
    {
-    "type": "sentence",
-    "text": "Zwischen 1840 und 1843 arbeitete Wallace als Landvermesser im östlichen England und Wales."
+    "type": "image",
+    "image": "img1",
+    "caption": "Alfred Russel Wallace"
    },
    {
     "type": "closing",
@@ -119,10 +120,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f6",
-      "label": "Zwischen 1840 und 1843 arbeitete Wallace als Landvermesser im östlichen England und Wales."
-     },
-     {
       "fact": "f8",
       "label": "Gegen Ende 1843 war das Geschäft von William aufgrund schwieriger wirtschaftlicher Bedingungen zurückgegangen."
      },
@@ -133,6 +130,10 @@
      {
       "fact": "f44",
       "label": "1879 beteiligte sich Wallace engagiert an der Diskussion über Handelsgrundsätze und Landreform."
+     },
+     {
+      "fact": "f45",
+      "label": "1881 wurde Wallace zum Präsidenten der kurz zuvor gegründeten Gesellschaft zur Landverstaatlichung gewählt."
      }
     ]
    },
@@ -171,10 +172,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f6",
-      "label": "Zwischen 1840 und 1843 arbeitete Wallace als Landvermesser im östlichen England und Wales."
-     },
-     {
       "fact": "f8",
       "label": "Gegen Ende 1843 war das Geschäft von William aufgrund schwieriger wirtschaftlicher Bedingungen zurückgegangen."
      },
@@ -185,6 +182,10 @@
      {
       "fact": "f44",
       "label": "1879 beteiligte sich Wallace engagiert an der Diskussion über Handelsgrundsätze und Landreform."
+     },
+     {
+      "fact": "f45",
+      "label": "1881 wurde Wallace zum Präsidenten der kurz zuvor gegründeten Gesellschaft zur Landverstaatlichung gewählt."
      }
     ]
    },
@@ -219,9 +220,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.92,
  "verified": {
   "version": 1,
-  "hash": "0cb3eab32cb952.17f73500988abd"
+  "hash": "014f76c147d36d.17f73500988abd"
  }
 }

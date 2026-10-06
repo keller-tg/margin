@@ -46,11 +46,6 @@
    "unit": "km2",
    "surface": "12 173 km2"
   },
-  "f11": {
-   "kind": "date",
-   "value": "1690",
-   "surface": "1690"
-  },
   "f19": {
    "kind": "date",
    "value": "1833",
@@ -61,16 +56,21 @@
    "value": "1911",
    "surface": "1911"
   },
-  "f27": {
-   "kind": "date",
-   "value": "2009",
-   "surface": "2009"
-  },
   "f33": {
    "kind": "measure",
    "value": 12173,
    "unit": "km2",
    "surface": "12 173 km2"
+  },
+  "f53": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009"
+  },
+  "f78": {
+   "kind": "date",
+   "value": "2016",
+   "surface": "2016"
   }
  },
  "paces": {
@@ -122,10 +122,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
-      "label": "Lors d’une nouvelle exploration en 1690, John Strong."
-     },
-     {
       "fact": "f19",
       "label": "Le Royaume-Uni contrôle cependant l’archipel à partir de 1833."
      },
@@ -134,8 +130,12 @@
       "label": "En 1911, les îles Malouines avaient 3275 habitants."
      },
      {
-      "fact": "f27",
-      "label": "Selon la Constitution de 2009, l’archipel dispose d’une autonomie interne complète."
+      "fact": "f53",
+      "label": "Le tourisme a fortement progressé, avec 60 000 visiteurs en 2009."
+     },
+     {
+      "fact": "f78",
+      "label": "L’île était peuplée de 3 198 habitants en 2016, essentiellement d’origine européenne."
      }
     ]
    },
@@ -174,10 +174,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
-      "label": "Lors d’une nouvelle exploration en 1690, John Strong."
-     },
-     {
       "fact": "f19",
       "label": "Le Royaume-Uni contrôle cependant l’archipel à partir de 1833."
      },
@@ -186,14 +182,22 @@
       "label": "En 1911, les îles Malouines avaient 3275 habitants."
      },
      {
-      "fact": "f27",
-      "label": "Selon la Constitution de 2009, l’archipel dispose d’une autonomie interne complète."
+      "fact": "f53",
+      "label": "Le tourisme a fortement progressé, avec 60 000 visiteurs en 2009."
+     },
+     {
+      "fact": "f78",
+      "label": "L’île était peuplée de 3 198 habitants en 2016, essentiellement d’origine européenne."
      }
     ]
    },
    {
     "type": "sentence",
     "text": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet."
+   },
+   {
+    "type": "sentence",
+    "text": "L’ensemble représente une surface de 12 173 km2."
    },
    {
     "type": "sentence",
@@ -205,15 +209,11 @@
    },
    {
     "type": "sentence",
-    "text": "L’ensemble représente une surface de 12 173 km2."
+    "text": "La pluviométrie annuelle moyenne est 573,6 millimètres, la partie est des îles Malouines étant généralement plus humide que la partie ouest."
    },
    {
     "type": "sentence",
-    "text": "Avec la victoire britannique, le 14 juin 1982, la colonie utilisa son stock de timbres précédents et continua à émettre ses propres timbres dès juillet 1982."
-   },
-   {
-    "type": "sentence",
-    "text": "Les timbres-à-date du bureau de poste de Port Stanley furent retirés et remplacés dès le 6 avril par un cachet argentin libellé « 9409 ISLAS MALVINAS * REPUBLICA ARGENTINA – date – surmonté du drapeau argentin »."
+    "text": "Lors d’une nouvelle exploration en 1690, John Strong, qui dirige l’expédition, les nomme à son tour Falkland Islands, d’après son seigneur, Anthony Cary, 5e vicomte de Falkland."
    },
    {
     "type": "closing",
@@ -225,6 +225,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1b5eadd0d97756.0812e3f8b481c4"
+  "hash": "0baf737715ee43.0812e3f8b481c4"
  }
 }

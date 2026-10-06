@@ -195,10 +195,6 @@
    },
    {
     "type": "sentence",
-    "text": "Vor der Invasion Britanniens durch die Römer lag das heutige Stadtgebiet im Territorium des keltischen Stammes der Briganten."
-   },
-   {
-    "type": "sentence",
     "text": "Das kleine Dorf Manchester stieg im 13. Jahrhundert zu einer Marktsiedlung auf und erhielt im Jahre 1222 das Recht, Jahrmärkte durchzuführen."
    },
    {
@@ -210,6 +206,10 @@
     "text": "Der Manchester City Council ist der Stadtrat von Manchester."
    },
    {
+    "type": "sentence",
+    "text": "Zu den kleineren Städten gehören Heywood, Littleborough, Shaw, Uppermill, Middleton, Stalybridge, Hyde, Mottram-in-Longdendale, Romiley, Wythenshawe, Leigh, Irlam, Urmston, Golborne, Horwich, Prestwich, Radcliffe und Ramsbottom."
+   },
+   {
     "type": "closing",
     "text": "Heute ist Manchester dennoch eines der wichtigsten Wirtschaftszentren des Königreichs und beherbergt zudem zahlreiche Museen, Hochschulen und Orte der Kunst und Kultur."
    }
@@ -219,6 +219,6 @@
  "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "1cb24fbbe692ff.1ce4de0f381e18"
+  "hash": "09e7410f0bd9a6.1ce4de0f381e18"
  }
 }

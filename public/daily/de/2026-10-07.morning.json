@@ -55,10 +55,10 @@
    "value": "1892",
    "surface": "1892"
   },
-  "f18": {
+  "f30": {
    "kind": "date",
-   "value": "1903",
-   "surface": "1903"
+   "value": "2002",
+   "surface": "2002"
   }
  },
  "paces": {
@@ -114,8 +114,8 @@
       "label": "1892 wurde Fauré zum «Inspektor für Musikunterricht»ernannt."
      },
      {
-      "fact": "f18",
-      "label": "Ab 1903 schrieb Fauré regelmässig in der renommierten Tageszeitung Le Figaro über Musik."
+      "fact": "f30",
+      "label": "2002 wurde der Asteroid Fauré nach ihm benannt."
      }
     ]
    },
@@ -164,8 +164,8 @@
       "label": "1892 wurde Fauré zum «Inspektor für Musikunterricht»ernannt."
      },
      {
-      "fact": "f18",
-      "label": "Ab 1903 schrieb Fauré regelmässig in der renommierten Tageszeitung Le Figaro über Musik."
+      "fact": "f30",
+      "label": "2002 wurde der Asteroid Fauré nach ihm benannt."
      }
     ]
    },
@@ -183,19 +183,19 @@
    },
    {
     "type": "sentence",
-    "text": "2002 wurde der Asteroid Fauré nach ihm benannt."
-   },
-   {
-    "type": "sentence",
     "text": "Gabriel Fauré zählt in Frankreich zu den wichtigsten Komponisten in der zweiten Hälfte des 19. Jahrhunderts und zu Beginn des 20. Jahrhunderts."
    },
    {
     "type": "sentence",
-    "text": "Nach einigen Jahren in Rennes bekam er 1870 eine Organistenstelle in Paris, wo er fortan blieb."
+    "text": "Obwohl von deutscher und französischer Romantik beeinflusst, hat Fauré «eine eigenständige, poetisch nuancierte, stark diatonisch gebundene Tonsprache auf der Grundlage einer um mannigfaltige Differenzierungen bereicherten Harmonik»herausgebildet."
    },
    {
     "type": "sentence",
-    "text": "Obwohl von deutscher und französischer Romantik beeinflusst, hat Fauré «eine eigenständige, poetisch nuancierte, stark diatonisch gebundene Tonsprache auf der Grundlage einer um mannigfaltige Differenzierungen bereicherten Harmonik»herausgebildet."
+    "text": "Allerdings wurden die Organisten schlecht bezahlt; Fauré arbeitete auch mit Chören und gab Klavierunterricht."
+   },
+   {
+    "type": "sentence",
+    "text": "Im Vergleich zum Zeitgenossen Claude Debussy oder zu seinem Nachfahren Maurice Ravel ist Fauré im internationalen Musikleben wenig präsent."
    },
    {
     "type": "closing",
@@ -207,6 +207,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1a0fe84f31c0da.132bacbb880e10"
+  "hash": "1701abde491fc5.132bacbb880e10"
  }
 }

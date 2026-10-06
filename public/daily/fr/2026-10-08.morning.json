@@ -40,11 +40,6 @@
   }
  },
  "facts": {
-  "f15": {
-   "kind": "date",
-   "value": "1518",
-   "surface": "1518"
-  },
   "f16": {
    "kind": "date",
    "value": "1519",
@@ -116,10 +111,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f15",
-      "label": "Fin 1518 : appelé comme prédicateur de la collégiale de Zurich."
-     },
-     {
       "fact": "f16",
       "label": "1er janvier 1519 : Zwingli prêche pour la première fois à la Grossmünster de Zurich."
      },
@@ -168,10 +159,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f15",
-      "label": "Fin 1518 : appelé comme prédicateur de la collégiale de Zurich."
-     },
-     {
       "fact": "f16",
       "label": "1er janvier 1519 : Zwingli prêche pour la première fois à la Grossmünster de Zurich."
      },
@@ -199,15 +186,15 @@
    },
    {
     "type": "sentence",
-    "text": "Sous la présidence du landgrave Philippe Ier de Hesse, Zwingli y rencontre Martin Luther pour faire le point de leurs accords et désaccords sur la doctrine eucharistique.En juin, première bataille de Kappel."
-   },
-   {
-    "type": "sentence",
     "text": "La Réforme, grâce à la Ligue évangélique réunissant les cantons de Berne, Saint-Gall, Bâle et Zurich, et sous l’action de Zwingli, s’étend aux bailliages communs après la première paix de Kappel."
    },
    {
     "type": "sentence",
     "text": "Octobre 1531 : les cantons catholiques attaquent les Zurichois et les battent à la 2e bataille de Kappel."
+   },
+   {
+    "type": "sentence",
+    "text": "Zwingli – aumônier des troupes zurichoises – est tué sur ce champ de bataille le 11 octobre 1531 alors qu’il assiste blessés et mourants."
    },
    {
     "type": "closing",
@@ -219,6 +206,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "05f73872b25556.06495548420a94"
+  "hash": "04c1ed8e47535e.06495548420a94"
  }
 }

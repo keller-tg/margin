@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T09:55:18.592Z",
+ "generatedAt": "2026-10-06T10:02:27.601Z",
  "seed": "margin-review-2026-10-06",
  "draws": 1,
  "samples": [
@@ -26,9 +26,9 @@
  ],
  "totals": {
   "short-page": 16,
-  "dense-pages": 30,
-  "opener-not-definition": 16,
-  "image-instead-of-text": 4,
+  "dense-pages": 29,
+  "opener-not-definition": 17,
+  "image-instead-of-text": 6,
   "foreign-script": 1
  },
  "weakest": [
@@ -85,13 +85,19 @@
   {
    "id": "fr-2026-10-29-morning",
    "title": "Mary Wollstonecraft",
-   "score": 0.76,
+   "score": 0.68,
    "findings": [
     {
      "problem": "opener-not-definition",
      "pace": "easy",
      "detail": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre.",
      "page": 2
+    },
+    {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
     },
     {
      "problem": "opener-not-definition",
@@ -104,7 +110,7 @@
   {
    "id": "fr-2026-10-17-morning",
    "title": "Caspar David Friedrich",
-   "score": 0.84,
+   "score": 0.76,
    "findings": [
     {
      "problem": "opener-not-definition",
@@ -113,10 +119,35 @@
      "page": 2
     },
     {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
+    },
+    {
      "problem": "short-page",
      "pace": "easy",
      "detail": "La palette s’éclaircit également.",
      "page": 4
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-16-morning",
+   "title": "Sesame Street",
+   "score": 0.84,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Ji-Young, personnage créé en 2021.",
+     "page": 2
+    },
+    {
+     "problem": "short-page",
+     "pace": "easy",
+     "detail": "Ji-Young, personnage créé en 2021.",
+     "page": 2
     }
    ]
   },
@@ -247,7 +278,7 @@
     {
      "problem": "opener-not-definition",
      "pace": "easy",
-     "detail": "Zhang applied his extensive knowledge of mechanics and gears in several of his inventions.",
+     "detail": "Zhang Heng began his career as a minor civil servant in Nanyang.",
      "page": 2
     }
    ]
@@ -266,32 +297,14 @@
    ]
   },
   {
-   "id": "fr-2026-10-16-morning",
-   "title": "Sesame Street",
-   "score": 0.88,
-   "findings": [
-    {
-     "problem": "image-instead-of-text",
-     "pace": "easy",
-     "detail": "Easygoing uses the image to fill its pages",
-     "page": 3
-    },
-    {
-     "problem": "dense-pages",
-     "pace": "easy",
-     "detail": "average 14 words"
-    }
-   ]
-  },
-  {
-   "id": "fr-2026-10-21-morning",
-   "title": "M87 (galaxie)",
+   "id": "fr-2026-10-22-morning",
+   "title": "Allosaurus",
    "score": 0.88,
    "findings": [
     {
      "problem": "opener-not-definition",
      "pace": "easy",
-     "detail": "Contrairement aux galaxies spirales en forme de disque.",
+     "detail": "Certains paléontologues interprètent Allosaurus comme ayant eu un comportement social coopératif et chassant en meute.",
      "page": 2
     }
    ]
@@ -306,6 +319,19 @@
      "pace": "easy",
      "detail": "Le fleuve mesure environ 2 000 kilomètres et son principal affluent est la Snake.",
      "page": 2
+    }
+   ]
+  },
+  {
+   "id": "de-2026-10-25-morning",
+   "title": "Alfred Russel Wallace",
+   "score": 0.92,
+   "findings": [
+    {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
     }
    ]
   },
@@ -325,19 +351,6 @@
      "pace": "deep",
      "detail": "Rigel ist ein Mehrfachsternsystem.",
      "page": 10
-    }
-   ]
-  },
-  {
-   "id": "en-2026-10-12-morning",
-   "title": "Charles Darwin",
-   "score": 0.92,
-   "findings": [
-    {
-     "problem": "image-instead-of-text",
-     "pace": "easy",
-     "detail": "Easygoing uses the image to fill its pages",
-     "page": 3
     }
    ]
   }
@@ -892,8 +905,10 @@
   },
   {
    "id": "de-2026-10-25-morning",
-   "score": 1,
-   "problems": []
+   "score": 0.92,
+   "problems": [
+    "image-instead-of-text"
+   ]
   },
   {
    "id": "de-2026-10-26-evening",
@@ -1071,17 +1086,13 @@
   },
   {
    "id": "fr-2026-10-10-morning",
-   "score": 0.96,
-   "problems": [
-    "dense-pages"
-   ]
+   "score": 1,
+   "problems": []
   },
   {
    "id": "fr-2026-10-11-evening",
-   "score": 0.96,
-   "problems": [
-    "short-page"
-   ]
+   "score": 1,
+   "problems": []
   },
   {
    "id": "fr-2026-10-11-morning",
@@ -1105,8 +1116,10 @@
   },
   {
    "id": "fr-2026-10-13-morning",
-   "score": 1,
-   "problems": []
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
   },
   {
    "id": "fr-2026-10-14-evening",
@@ -1139,10 +1152,10 @@
   },
   {
    "id": "fr-2026-10-16-morning",
-   "score": 0.88,
+   "score": 0.84,
    "problems": [
-    "image-instead-of-text",
-    "dense-pages"
+    "opener-not-definition",
+    "short-page"
    ]
   },
   {
@@ -1152,9 +1165,10 @@
   },
   {
    "id": "fr-2026-10-17-morning",
-   "score": 0.84,
+   "score": 0.76,
    "problems": [
     "opener-not-definition",
+    "image-instead-of-text",
     "short-page"
    ]
   },
@@ -1202,10 +1216,8 @@
   },
   {
    "id": "fr-2026-10-21-morning",
-   "score": 0.88,
-   "problems": [
-    "opener-not-definition"
-   ]
+   "score": 1,
+   "problems": []
   },
   {
    "id": "fr-2026-10-22-evening",
@@ -1214,8 +1226,10 @@
   },
   {
    "id": "fr-2026-10-22-morning",
-   "score": 1,
-   "problems": []
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
   },
   {
    "id": "fr-2026-10-23-evening",
@@ -1288,9 +1302,10 @@
   },
   {
    "id": "fr-2026-10-29-morning",
-   "score": 0.76,
+   "score": 0.68,
    "problems": [
     "opener-not-definition",
+    "image-instead-of-text",
     "opener-not-definition"
    ]
   },
@@ -1306,10 +1321,8 @@
   },
   {
    "id": "fr-2026-10-31-evening",
-   "score": 0.96,
-   "problems": [
-    "dense-pages"
-   ]
+   "score": 1,
+   "problems": []
   },
   {
    "id": "fr-2026-10-31-morning",
@@ -1318,8 +1331,10 @@
   },
   {
    "id": "fr-2026-11-01-evening",
-   "score": 1,
-   "problems": []
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
   },
   {
    "id": "fr-2026-11-01-morning",

@@ -88,3 +88,24 @@ describe('whole sentences need a verb too', () => {
     expect(hasFiniteVerb('Rigel ist Teil des Wintersechsecks.', 'de')).toBe(true);
   });
 });
+
+describe('weak verb signals after articles/prepositions do not count (M87, fr, 2026-10-06)', () => {
+  it('"en forme de disque" is not a verb', async () => {
+    const { hasFiniteVerb } = await import('./clean');
+    expect(hasFiniteVerb('Contrairement aux galaxies spirales en forme de disque.', 'fr')).toBe(false);
+    expect(hasFiniteVerb('La Lune forme un disque brillant dans le ciel.', 'fr')).toBe(true);
+    expect(hasFiniteVerb('Les Archées vivent à des températures élevées.', 'fr')).toBe(true);
+  });
+  it('the M87 cut is no longer produced', () => {
+    const s = 'Contrairement aux galaxies spirales en forme de disque, M87 ne présente pas de bandes de poussière caractéristiques.';
+    expect(fitToWords(s, 6, 'fr')?.text).not.toBe('Contrairement aux galaxies spirales en forme de disque.');
+  });
+});
+
+describe('a noun is not a copula (M87, fr)', () => {
+  it('does not cut the definition after "en forme"', () => {
+    const s = 'Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique.';
+    expect(cutDefinition(s, 'fr', 15)).toBeNull();
+    expect(isDefinition(s, 'fr', 'M87 (galaxie)')).toBe(false);
+  });
+});

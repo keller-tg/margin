@@ -56,21 +56,10 @@
    "value": "1978",
    "surface": "1978"
   },
-  "f41": {
+  "f63": {
    "kind": "date",
-   "value": "2008",
-   "surface": "2008"
-  },
-  "f42": {
-   "kind": "measure",
-   "value": 76,
-   "unit": "ans",
-   "surface": "76 ans"
-  },
-  "f45": {
-   "kind": "date",
-   "value": "1990",
-   "surface": "1990"
+   "value": "2024",
+   "surface": "2024"
   }
  },
  "paces": {
@@ -86,14 +75,12 @@
     "text": "Miriam Makeba est une chanteuse d’ethno-jazz et une militante politique sud-africaine."
    },
    {
-    "type": "bignumber",
-    "fact": "f42",
-    "display": "76 ans",
-    "caption": "Le 9 novembre 2008, à 76 ans."
+    "type": "sentence",
+    "text": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
    },
    {
     "type": "closing",
-    "text": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
+    "text": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
    }
   ],
   "medium": [
@@ -130,22 +117,18 @@
       "label": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
      },
      {
-      "fact": "f45",
-      "label": "En 1990, Nelson Mandela la persuade de rentrer en Afrique du Sud."
-     },
-     {
-      "fact": "f41",
-      "label": "Le 9 novembre 2008, à 76 ans."
+      "fact": "f63",
+      "label": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Contrainte à l’exil pendant une trentaine d’années, elle parcourt le monde et multiplie les succès musicaux."
+    "text": "Zenzile Makeba Qgwashu Nguvama, dite Miriam Makeba, naît le 4 mars 1932, dans un township de Johannesbourg."
    },
    {
     "type": "closing",
-    "text": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
+    "text": "Décerné pour la première fois en 2018, le Prix Miriam Makeba promeut l’art africain à l’échelle internationale."
    }
   ],
   "deep": [
@@ -182,12 +165,8 @@
       "label": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
      },
      {
-      "fact": "f45",
-      "label": "En 1990, Nelson Mandela la persuade de rentrer en Afrique du Sud."
-     },
-     {
-      "fact": "f41",
-      "label": "Le 9 novembre 2008, à 76 ans."
+      "fact": "f63",
+      "label": "Le 13 août 2024, le cratère mercurien Makeba est ainsi nommé en son honneur."
      }
     ]
    },
@@ -201,14 +180,6 @@
    },
    {
     "type": "sentence",
-    "text": "Le collège Miriam-Makeba de Lille-Moulins à Lille fut inauguré en septembre 2018, le collège Miriam-Makeba à Aubervilliers en Seine-Saint-Denis et le groupe scolaire Miriam-Makeba à Châlette-sur-Loing dans le Loiret en septembre 2019."
-   },
-   {
-    "type": "sentence",
-    "text": "Depuis la rentrée 2024, l’école maternelle et élémentaire Miriam Makeba accueille les enfants du quartier de la plaine de Baud à Rennes."
-   },
-   {
-    "type": "sentence",
     "text": "Prénommée « Zenzi », diminutif d’Uzenzile, qui signifie « tu ne peux t’en prendre qu’à toi-même », elle n’a que quelques jours lorsque sa mère est emprisonnée."
    },
    {
@@ -216,8 +187,16 @@
     "text": "La version la plus connue a été effectuée sous la direction de Jerry Ragovoy en 1967."
    },
    {
+    "type": "sentence",
+    "text": "Au cours de l’une de sa prestation, Makeba fait la rencontre de Nelson Mandela en tant que jeune avocat."
+   },
+   {
+    "type": "sentence",
+    "text": "Mais Miriam est contrainte à un exil de 31 ans, pour son apparition dans le film anti-apartheid Come Back, Africa du cinéaste américain Lionel Rogosin."
+   },
+   {
     "type": "closing",
-    "text": "Contrainte à l’exil pendant une trentaine d’années, elle parcourt le monde et multiplie les succès musicaux."
+    "text": "En janvier 2023, pendant le Championnat d’Afrique des nations de football organisé en Algérie, un hommage a été rendu à Miriam Makeba en reprenant les paroles de sa chanson Ana hourra fi aljazaier, déjà chantée à Alger en 1978."
    }
   ]
  },
@@ -225,6 +204,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0575607e257d0a.16c2effdc9e1a4"
+  "hash": "07e5a9cf85f463.16c2effdc9e1a4"
  }
 }

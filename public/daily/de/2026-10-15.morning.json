@@ -46,11 +46,6 @@
    "unit": "km²",
    "surface": "5.640 km²"
   },
-  "f24": {
-   "kind": "date",
-   "value": "2011",
-   "surface": "2011"
-  },
   "f29": {
    "kind": "date",
    "value": "1959",
@@ -65,6 +60,11 @@
    "kind": "date",
    "value": "2023",
    "surface": "2023"
+  },
+  "f57": {
+   "kind": "date",
+   "value": "2010",
+   "surface": "2010"
   }
  },
  "paces": {
@@ -124,8 +124,8 @@
       "label": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959."
      },
      {
-      "fact": "f24",
-      "label": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat."
+      "fact": "f57",
+      "label": "Die Volkszählung aus dem Jahr 2010 weist eine Gesamtbevölkerung Japans von 128.056.026 Menschen aus."
      },
      {
       "fact": "f53",
@@ -135,7 +135,7 @@
    },
    {
     "type": "sentence",
-    "text": "Die Bildung des japanischen Staatswesens begann im 5. Jahrhundert unter kulturellem Einfluss des chinesischen Kaiserreichs."
+    "text": "De-facto-Hauptstadt und grösste urbane Siedlung ist das als politische Einheit im Zweiten Weltkrieg abgeschaffte Tokio; de jure existiert ein «Hauptstadtgebiet»aus acht Präfekturen inklusive Tokio."
    },
    {
     "type": "closing",
@@ -176,8 +176,8 @@
       "label": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959."
      },
      {
-      "fact": "f24",
-      "label": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat."
+      "fact": "f57",
+      "label": "Die Volkszählung aus dem Jahr 2010 weist eine Gesamtbevölkerung Japans von 128.056.026 Menschen aus."
      },
      {
       "fact": "f53",
@@ -188,10 +188,6 @@
    {
     "type": "sentence",
     "text": "Japan besteht aus insgesamt 14125 Inseln, die sich entlang der Pazifikküste erstrecken."
-   },
-   {
-    "type": "sentence",
-    "text": "Die Volkszählung aus dem Jahr 2010 weist eine Gesamtbevölkerung Japans von 128.056.026 Menschen aus."
    },
    {
     "type": "sentence",
@@ -210,6 +206,10 @@
     "text": "Insgesamt hat Japan eine Küstenlänge von 33.574 km, was zum Vergleich etwa 84 % des Erdumfangs entspricht."
    },
    {
+    "type": "sentence",
+    "text": "2050 soll die Einwohnerzahl noch 107 Millionen betragen, womit Japan bis Mitte des Jahrhunderts 20 Millionen Einwohner verlieren würde."
+   },
+   {
     "type": "closing",
     "text": "Mit der Erforschung und Lehre der Sprache und Kultur Japans in seiner geschichtlichen Entwicklung beschäftigt sich die Japanologie."
    }
@@ -219,6 +219,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "05a2c6cc3248c2.048a0ad626bfa0"
+  "hash": "0ae390d63ec404.048a0ad626bfa0"
  }
 }

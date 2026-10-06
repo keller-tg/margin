@@ -50,7 +50,7 @@
    "value": "1966",
    "surface": "1966"
   },
-  "f9": {
+  "f18": {
    "kind": "date",
    "value": "1967",
    "surface": "1967"
@@ -120,8 +120,8 @@
       "label": "Vom 12. bis zum 29. August 1966 absolvierten die Beatles ihre vierte US-Tournee."
      },
      {
-      "fact": "f9",
-      "label": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status."
+      "fact": "f18",
+      "label": "Am 20. April 1967 wurden die letzten Aufnahmen getätigt."
      },
      {
       "fact": "f51",
@@ -168,8 +168,8 @@
       "label": "Vom 12. bis zum 29. August 1966 absolvierten die Beatles ihre vierte US-Tournee."
      },
      {
-      "fact": "f9",
-      "label": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status."
+      "fact": "f18",
+      "label": "Am 20. April 1967 wurden die letzten Aufnahmen getätigt."
      },
      {
       "fact": "f51",
@@ -191,15 +191,15 @@
    },
    {
     "type": "sentence",
+    "text": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status, der bis dato eher Lennon zugeschrieben worden war."
+   },
+   {
+    "type": "sentence",
     "text": "Die Fotosession fand am 30. März 1967 in den Londoner Chelsea Manor Studios von Michael Cooper statt."
    },
    {
     "type": "sentence",
     "text": "Der kurzsichtige Lennon hatte sich zuvor bereits eine runde Nickelbrille zugelegt, die zu seinem Markenzeichen wurde."
-   },
-   {
-    "type": "sentence",
-    "text": "Das Albumcover ist ein herausragendes Werk in der Geschichte der Coverkunst."
    },
    {
     "type": "closing",
@@ -211,6 +211,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0e3937a1df3664.1a6cb7f85ba1ea"
+  "hash": "06b9b69d97faf0.1a6cb7f85ba1ea"
  }
 }

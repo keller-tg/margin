@@ -46,11 +46,6 @@
    "unit": "ans",
    "surface": "12 ans"
   },
-  "f24": {
-   "kind": "date",
-   "value": "1492",
-   "surface": "1492"
-  },
   "f28": {
    "kind": "date",
    "value": "1499",
@@ -65,6 +60,11 @@
    "kind": "date",
    "value": "1495",
    "surface": "1495"
+  },
+  "f37": {
+   "kind": "date",
+   "value": "700",
+   "surface": "700"
   },
   "f77": {
    "kind": "measure",
@@ -122,8 +122,8 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f24",
-      "label": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne."
+      "fact": "f37",
+      "label": "Sur ce contingent, 700 étaient des soldats."
      },
      {
       "fact": "f35",
@@ -174,8 +174,8 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f24",
-      "label": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne."
+      "fact": "f37",
+      "label": "Sur ce contingent, 700 étaient des soldats."
      },
      {
       "fact": "f35",
@@ -197,15 +197,11 @@
    },
    {
     "type": "sentence",
+    "text": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne, avec le même objectif, mais à travers l’océan Atlantique, découvre quelques îles des Caraïbes, qu’il identifie à tort comme des territoires inconnus des « Indes »."
+   },
+   {
+    "type": "sentence",
     "text": "Mais le traité d’Alcáçovas n’envisageait pas des terres aussi éloignées en longitude de l’Europe."
-   },
-   {
-    "type": "sentence",
-    "text": "La flotte reprend la mer soit le 2 soit le 3 mai 1500 et navigue le long des côtes est de l’Amérique du Sud."
-   },
-   {
-    "type": "sentence",
-    "text": "Dès 1500, devant les promesses du voyage de Vasco de Gama et malgré les difficultés, le roi du Portugal organise un deuxième convoi vers les Indes et place à sa tête Pedro Cabral."
    },
    {
     "type": "sentence",
@@ -214,6 +210,10 @@
    {
     "type": "sentence",
     "text": "Le violet représente la fidélité, et les chèvres évoquent le nom de la famille."
+   },
+   {
+    "type": "sentence",
+    "text": "Les Espagnols sont libres d’agir à l’ouest de ce méridien ; les Portugais à l’est."
    },
    {
     "type": "closing",
@@ -225,6 +225,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "19409bbf97de87.0684210f480ad5"
+  "hash": "0a03ca1a0fbd13.0684210f480ad5"
  }
 }

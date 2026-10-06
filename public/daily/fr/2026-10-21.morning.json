@@ -40,27 +40,11 @@
   }
  },
  "facts": {
-  "f5": {
-   "kind": "measure",
-   "value": 5000,
-   "unit": "années-lumière",
-   "surface": "5 000 années-lumière"
-  },
   "f7": {
    "kind": "measure",
    "value": 490000,
    "unit": "années-lumière",
    "surface": "490 000 années-lumière"
-  },
-  "f37": {
-   "kind": "date",
-   "value": "1056",
-   "surface": "1056"
-  },
-  "f91": {
-   "kind": "date",
-   "value": "2011",
-   "surface": "2011"
   }
  },
  "paces": {
@@ -68,12 +52,12 @@
    {
     "type": "title",
     "title": "M87 (galaxie)",
-    "line": "De disque",
+    "line": "Environ un sixième de la masse totale de M87",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Contrairement aux galaxies spirales en forme de disque."
+    "text": "Les étoiles dans cette galaxie constituent environ un sixième de la masse totale de M87."
    },
    {
     "type": "bignumber",
@@ -83,19 +67,19 @@
    },
    {
     "type": "closing",
-    "text": "Les étoiles dans cette galaxie constituent environ un sixième de la masse totale de M87."
+    "text": "Messier 87 est une galaxie elliptique supergéante."
    }
   ],
   "medium": [
    {
     "type": "title",
     "title": "M87 (galaxie)",
-    "line": "De disque",
+    "line": "Environ un sixième de la masse totale de M87",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
+    "text": "Les étoiles dans cette galaxie constituent environ un sixième de la masse totale de M87."
    },
    {
     "type": "image",
@@ -104,26 +88,17 @@
    },
    {
     "type": "bignumber",
-    "fact": "f5",
-    "display": "5 000 années-lumière",
-    "caption": "Un jet de plasma énergétique émerge du cœur et s’étend sur au moins 5 000 années-lumière."
-   },
-   {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f37",
-      "label": "L’énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV."
-     },
-     {
-      "fact": "f91",
-      "label": "En 2011, une étude de M87 n’a pas trouvé de déplacement statistiquement significatif."
-     }
-    ]
+    "fact": "f7",
+    "display": "490 000 années-lumière",
+    "caption": "L’enveloppe galactique s’étend sur un rayon d’environ 490 000 années-lumière."
    },
    {
     "type": "sentence",
     "text": "Messier 87 est une galaxie elliptique supergéante."
+   },
+   {
+    "type": "sentence",
+    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
    },
    {
     "type": "closing",
@@ -134,12 +109,12 @@
    {
     "type": "title",
     "title": "M87 (galaxie)",
-    "line": "De disque",
+    "line": "Environ un sixième de la masse totale de M87",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
+    "text": "Les étoiles dans cette galaxie constituent environ un sixième de la masse totale de M87."
    },
    {
     "type": "image",
@@ -148,22 +123,13 @@
    },
    {
     "type": "bignumber",
-    "fact": "f5",
-    "display": "5 000 années-lumière",
-    "caption": "Un jet de plasma énergétique émerge du cœur et s’étend sur au moins 5 000 années-lumière."
+    "fact": "f7",
+    "display": "490 000 années-lumière",
+    "caption": "L’enveloppe galactique s’étend sur un rayon d’environ 490 000 années-lumière."
    },
    {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f37",
-      "label": "L’énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV."
-     },
-     {
-      "fact": "f91",
-      "label": "En 2011, une étude de M87 n’a pas trouvé de déplacement statistiquement significatif."
-     }
-    ]
+    "type": "sentence",
+    "text": "Messier 87 est une galaxie elliptique supergéante."
    },
    {
     "type": "sentence",
@@ -175,10 +141,6 @@
    },
    {
     "type": "sentence",
-    "text": "Visuellement, la galaxie s’étend sur une aire angulaire de 7′,2 x 6′,8, et le cœur sur 45″."
-   },
-   {
-    "type": "sentence",
     "text": "Jusqu’en 1990, la seule observation visuelle connue du jet est attribuée à l’astronome russo-américain Otto Struve qui utilisa le télescope Hooker de 254 cm de diamètre."
    },
    {
@@ -187,7 +149,11 @@
    },
    {
     "type": "sentence",
-    "text": "C’est l’une des masses les plus importantes pour ce type d’objet."
+    "text": "Dans la classification de Hubble revue par De Vaucouleurs, Messier 87 est catégorisée comme une galaxie E0p."
+   },
+   {
+    "type": "sentence",
+    "text": "Autour de ce trou noir on trouve un disque d’accrétion de gaz ionisé, qui est orienté perpendiculairement au jet."
    },
    {
     "type": "closing",
@@ -196,9 +162,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.88,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1eafd52148570b.1008159bf4bf2f"
+  "hash": "08200fb8518392.1008159bf4bf2f"
  }
 }

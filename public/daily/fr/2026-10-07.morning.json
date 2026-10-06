@@ -67,10 +67,10 @@
    "value": "1729",
    "surface": "1729"
   },
-  "f74": {
+  "f75": {
    "kind": "date",
-   "value": "1982",
-   "surface": "1982"
+   "value": "1960",
+   "surface": "1960"
   }
  },
  "paces": {
@@ -130,8 +130,8 @@
       "label": "Le canal est prolongé vers la Mersey en 1776."
      },
      {
-      "fact": "f74",
-      "label": "Le trafic décline donc progressivement, et le port finit par fermer en 1982."
+      "fact": "f75",
+      "label": "L’industrie lourde souffre à partir des années 1960."
      },
      {
       "fact": "f8",
@@ -182,8 +182,8 @@
       "label": "Le canal est prolongé vers la Mersey en 1776."
      },
      {
-      "fact": "f74",
-      "label": "Le trafic décline donc progressivement, et le port finit par fermer en 1982."
+      "fact": "f75",
+      "label": "L’industrie lourde souffre à partir des années 1960."
      },
      {
       "fact": "f8",
@@ -205,11 +205,11 @@
    },
    {
     "type": "sentence",
-    "text": "L’espace vert le plus important de la ville est Heaton Park et ses 260 hectares."
+    "text": "Pour l’Office national des statistiques, Manchester constitue la ville la plus peuplée au sein de l’aire urbaine du Grand Manchester, et la troisième conurbation du Royaume-Uni en nombre d’habitants."
    },
    {
     "type": "sentence",
-    "text": "Pour l’Office national des statistiques, Manchester constitue la ville la plus peuplée au sein de l’aire urbaine du Grand Manchester, et la troisième conurbation du Royaume-Uni en nombre d’habitants."
+    "text": "L’espace vert le plus important de la ville est Heaton Park et ses 260 hectares."
    },
    {
     "type": "sentence",
@@ -225,6 +225,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1a87324b58b294.07943aa981c650"
+  "hash": "189680917611e8.07943aa981c650"
  }
 }

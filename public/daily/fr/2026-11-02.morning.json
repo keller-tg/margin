@@ -45,16 +45,17 @@
    "value": "1018",
    "surface": "1018"
   },
-  "f6": {
-   "kind": "date",
-   "value": "1371",
-   "surface": "1371"
-  },
-  "f15": {
+  "f16": {
    "kind": "measure",
-   "value": 1808,
+   "value": 354,
    "unit": "km",
-   "surface": "1 808 km"
+   "surface": "354 km"
+  },
+  "f19": {
+   "kind": "measure",
+   "value": 600,
+   "unit": "mètres",
+   "surface": "600 mètres"
   },
   "f25": {
    "kind": "measure",
@@ -71,6 +72,11 @@
    "kind": "date",
    "value": "1999",
    "surface": "1999"
+  },
+  "f76": {
+   "kind": "date",
+   "value": "864",
+   "surface": "864"
   }
  },
  "paces": {
@@ -93,7 +99,7 @@
    },
    {
     "type": "closing",
-    "text": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
+    "text": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
    }
   ],
   "medium": [
@@ -114,9 +120,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f15",
-    "display": "1 808 km",
-    "caption": "La Bulgarie se trouve dans le Sud-Est de l’Europe, avec 1 808 km de frontières terrestres."
+    "fact": "f19",
+    "display": "600 mètres",
+    "caption": "Plus des deux tiers du pays, constitués de plaines, plateaux et collines, se situent à une altitude inférieure à 600 mètres."
    },
    {
     "type": "timeline",
@@ -126,12 +132,12 @@
       "label": "La Bulgarie a un réseau de 540 rivières, dont la plupart sont plutôt courtes."
      },
      {
-      "fact": "f4",
-      "label": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
+      "fact": "f76",
+      "label": "En 864, Boris Ier de Bulgarie abolit le tengrisme."
      },
      {
-      "fact": "f6",
-      "label": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
+      "fact": "f4",
+      "label": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
      },
      {
       "fact": "f51",
@@ -166,9 +172,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f15",
-    "display": "1 808 km",
-    "caption": "La Bulgarie se trouve dans le Sud-Est de l’Europe, avec 1 808 km de frontières terrestres."
+    "fact": "f16",
+    "display": "354 km",
+    "caption": "La longueur du littoral est de 354 km et l’altitude s’élève de 0 m à 2 925 m. La principale caractéristique du pays est sa division en bandes de montagnes et de plaines orientées est-ouest."
    },
    {
     "type": "timeline",
@@ -178,26 +184,18 @@
       "label": "La Bulgarie a un réseau de 540 rivières, dont la plupart sont plutôt courtes."
      },
      {
-      "fact": "f4",
-      "label": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
+      "fact": "f76",
+      "label": "En 864, Boris Ier de Bulgarie abolit le tengrisme."
      },
      {
-      "fact": "f6",
-      "label": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
+      "fact": "f4",
+      "label": "De 1018 à 1185 le pays devient une partie de l’Empire byzantin."
      },
      {
       "fact": "f51",
       "label": "Depuis 1999, la Bulgarie est subdivisée en 28 oblasti."
      }
     ]
-   },
-   {
-    "type": "sentence",
-    "text": "La longueur du littoral est de 354 km et l’altitude s’élève de 0 m à 2 925 m. La principale caractéristique du pays est sa division en bandes de montagnes et de plaines orientées est-ouest."
-   },
-   {
-    "type": "sentence",
-    "text": "Les plaines représentent 31 % de la surface du pays, les plateaux 41 % de la surface, les montagnes de faible élévation 10 %, les montagnes moyennes 10 % et les montagnes élevées 3 %."
    },
    {
     "type": "sentence",
@@ -209,11 +207,19 @@
    },
    {
     "type": "sentence",
-    "text": "Le climat de la Bulgarie est de type continental et méditerranéen."
+    "text": "Les plaines représentent 31 % de la surface du pays, les plateaux 41 % de la surface, les montagnes de faible élévation 10 %, les montagnes moyennes 10 % et les montagnes élevées 3 %."
    },
    {
     "type": "sentence",
     "text": "Le nom bŭlgar désignait les Proto-Bulgares, peuple cavalier venu de la steppe pontique et dont les origines sont, semble-t-il, multiples, en partie iraniennes avec des composantes alanes, mais surtout turques avec des composantes koutrigoures, outigoures, saragoures, khazares, petchénègues et coumanes."
+   },
+   {
+    "type": "sentence",
+    "text": "Du nord au sud se succèdent le plateau Danubien, le massif des Balkans, la Thrace du Nord, le massif du Rila et le massif des Rhodopes."
+   },
+   {
+    "type": "sentence",
+    "text": "Le climat de la Bulgarie est de type continental et méditerranéen."
    },
    {
     "type": "closing",
@@ -225,6 +231,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "067c4adecfe158.134e89857a2d4e"
+  "hash": "08631397b913a4.134e89857a2d4e"
  }
 }

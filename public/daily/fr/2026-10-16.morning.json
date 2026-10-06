@@ -56,11 +56,6 @@
    "value": "1966",
    "surface": "1966"
   },
-  "f28": {
-   "kind": "date",
-   "value": "1969",
-   "surface": "1969"
-  },
   "f54": {
    "kind": "measure",
    "value": 15,
@@ -77,15 +72,14 @@
     "image": "img1"
    },
    {
+    "type": "sentence",
+    "text": "Ji-Young, personnage créé en 2021."
+   },
+   {
     "type": "bignumber",
     "fact": "f54",
     "display": "15%",
     "caption": "Parmi les courriers que le CTW a reçus, 15% d’avis étaient les protestations."
-   },
-   {
-    "type": "image",
-    "image": "img1",
-    "caption": "Sesame Street"
    },
    {
     "type": "closing",
@@ -122,10 +116,6 @@
       "label": "En février 1966, cette idée parvient à Lloyd Morriset."
      },
      {
-      "fact": "f28",
-      "label": "L’émission commença ainsi le 10 novembre 1969."
-     },
-     {
       "fact": "f18",
       "label": "Ji-Young, personnage créé en 2021."
      }
@@ -133,11 +123,11 @@
    },
    {
     "type": "sentence",
-    "text": "En France, l’émission doublée en français fait son apparition dès 1974 sous la forme d’une séquence intitulée « Bonjour Sésame »."
+    "text": "Puis, l’adaptation française nommée 1, rue Sésame est produite et diffusée de 1978 à 1982 sur TF1."
    },
    {
     "type": "closing",
-    "text": "Puis, l’adaptation française nommée 1, rue Sésame est produite et diffusée de 1978 à 1982 sur TF1."
+    "text": "La communauté des noirs, de la classe moyenne, a protesté, en considérant que ce personnage représentait un stéréotype des noirs, négatif."
    }
   ],
   "deep": [
@@ -170,10 +160,6 @@
       "label": "En février 1966, cette idée parvient à Lloyd Morriset."
      },
      {
-      "fact": "f28",
-      "label": "L’émission commença ainsi le 10 novembre 1969."
-     },
-     {
       "fact": "f18",
       "label": "Ji-Young, personnage créé en 2021."
      }
@@ -193,15 +179,15 @@
    },
    {
     "type": "sentence",
-    "text": "De nombreux journalistes s’intéressaient au programme de Sesame Street."
-   },
-   {
-    "type": "sentence",
     "text": "En effet, le tournage est si strictement contrôlé par les spécialistes que l’émission en devient vraiment coûteuse."
    },
    {
     "type": "sentence",
-    "text": "En outre, entre octobre et décembre 1969, plus de cent articles et éditoriaux sur l’émission sont apparus dans les journaux américains, dans toutes les régions."
+    "text": "De nombreux journalistes s’intéressaient au programme de Sesame Street."
+   },
+   {
+    "type": "sentence",
+    "text": "Bien qu’obligatoire, de nombreux enfants refusent définitivement de retourner à l’école."
    },
    {
     "type": "closing",
@@ -210,9 +196,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.88,
+ "qualityScore": 0.84,
  "verified": {
   "version": 1,
-  "hash": "0339104ab687b8.04473845f33bd7"
+  "hash": "15f72740a98a7d.04473845f33bd7"
  }
 }

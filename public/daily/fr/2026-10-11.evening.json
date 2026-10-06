@@ -50,7 +50,7 @@
    },
    {
     "type": "closing",
-    "text": "C’est un acide faible."
+    "text": "Cet acide coagule le latex et a des propriétés bactériostatiques."
    }
   ],
   "medium": [
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.96,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "089c3152458964.0da8de474626e8"
+  "hash": "0158e90f0bf550.0da8de474626e8"
  }
 }

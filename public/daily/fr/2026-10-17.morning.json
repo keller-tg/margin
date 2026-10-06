@@ -80,8 +80,9 @@
     "text": "En 1809, Runge rédige La Sphère des couleurs."
    },
    {
-    "type": "sentence",
-    "text": "Après quelques portraits, Friedrich s’oriente vers la carrière de paysagiste."
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
    },
    {
     "type": "closing",
@@ -214,9 +215,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.84,
+ "qualityScore": 0.76,
  "verified": {
   "version": 1,
-  "hash": "0c17919b446893.08c100065f3285"
+  "hash": "047f56a3771adb.08c100065f3285"
  }
 }

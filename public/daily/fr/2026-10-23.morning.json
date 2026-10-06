@@ -45,16 +45,6 @@
    "value": 125000,
    "surface": "125 000"
   },
-  "f40": {
-   "kind": "date",
-   "value": "1889",
-   "surface": "1889"
-  },
-  "f50": {
-   "kind": "date",
-   "value": "1915",
-   "surface": "1915"
-  },
   "f66": {
    "kind": "date",
    "value": "1858",
@@ -119,14 +109,6 @@
      {
       "fact": "f83",
       "label": "Dans les années 1880, l’évolution était une idée largement acceptée dans les cercles scientifiques."
-     },
-     {
-      "fact": "f40",
-      "label": "Après avoir lu Looking Backward de Edward Bellamy en 1889, Wallace se déclara socialiste."
-     },
-     {
-      "fact": "f50",
-      "label": "L’inauguration du médaillon eut lieu le 1er novembre 1915."
      }
     ]
    },
@@ -171,24 +153,12 @@
      {
       "fact": "f83",
       "label": "Dans les années 1880, l’évolution était une idée largement acceptée dans les cercles scientifiques."
-     },
-     {
-      "fact": "f40",
-      "label": "Après avoir lu Looking Backward de Edward Bellamy en 1889, Wallace se déclara socialiste."
-     },
-     {
-      "fact": "f50",
-      "label": "L’inauguration du médaillon eut lieu le 1er novembre 1915."
      }
     ]
    },
    {
     "type": "sentence",
     "text": "Wallace naquit dans le village de Llanbadoc, près d’Usk, dans le Pays de Galles."
-   },
-   {
-    "type": "sentence",
-    "text": "À l’âge de cinq ans, Wallace déménagea avec sa famille à Hertford, au nord de Londres."
    },
    {
     "type": "sentence",
@@ -207,6 +177,10 @@
     "text": "Après une brève période de chômage, il obtint un poste de professeur au collège de Leicester où il enseigna le dessin, la cartographie et la topographie."
    },
    {
+    "type": "sentence",
+    "text": "Lorsque William mourut en mars 1845, Wallace démissionna afin de prendre en charge la gestion du cabinet de son frère à Neath mais, malgré l’aide de son frère John, il ne parvint pas à faire marcher les affaires."
+   },
+   {
     "type": "closing",
     "text": "Wallace fut fortement attiré par les idées radicales."
    }
@@ -216,6 +190,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "11e198b13f7a51.18581c5ff62195"
+  "hash": "1cbbf711cbce3f.18581c5ff62195"
  }
 }

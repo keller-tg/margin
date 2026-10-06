@@ -50,7 +50,7 @@
    "lang": "fr",
    "qid": "Q25327",
    "title": "Coccinellidae",
-   "status": "review",
+   "status": "approved",
    "source": "word-scan",
    "reasons": [
     "word scan: meurtre"
@@ -67,13 +67,15 @@
     "date": "2026-10-28",
     "slot": "evening"
    },
-   "addedAt": "2026-10-06T09:47:04.012Z"
+   "addedAt": "2026-10-06T09:47:04.012Z",
+   "decidedAt": "2026-10-06T10:01:08.109265+00:00",
+   "decision": "owner: false positive of the word scan (2026-10-06)"
   },
   {
    "lang": "fr",
    "qid": "Q1361",
    "title": "Hyderabad",
-   "status": "review",
+   "status": "approved",
    "source": "word-scan",
    "reasons": [
     "word scan: bombe"
@@ -96,7 +98,9 @@
     "date": "2026-11-01",
     "slot": "morning"
    },
-   "addedAt": "2026-10-06T09:47:07.365Z"
+   "addedAt": "2026-10-06T09:47:07.365Z",
+   "decidedAt": "2026-10-06T10:01:08.109480+00:00",
+   "decision": "owner: false positive of the word scan (2026-10-06)"
   }
  ]
 }

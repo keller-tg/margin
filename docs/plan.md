@@ -2,6 +2,28 @@
 
 > Status: approved 2026-10-05, with the decisions below. Building milestone by milestone.
 
+## Milestones
+
+From the original brief. Each milestone ends with a review by the owner before the next one starts.
+
+- **a.** Setup, design tokens, notebook paper, fonts, theme, i18n, wordmark. *Done.*
+- **b.** Content pipeline, extractive composer, 14+ days of JSON. *Done: 30 days × en/de/fr, verified.*
+- **c.** The **image step first**: build-time download from Wikimedia, resize, encode to modern formats, store locally with credits, so visitors never load images from Wikimedia. **Then** the pace calibration page and the player with the first three page types (title, sentence, image), including the pen-writing reveal and the 2D page-turn transition, polished.
+- **d.** The remaining page types (bignumber, timeline, map, compare, closing), the END pages, and the evening flow with the margin-note page.
+- **e.** Rabbit Trail.
+- **f.** Notebook and settings (paper, ink, language, pace, motion), plus the entitlements layer (everything unlocked by a flag).
+- **g.** Authoring workflow (prepare / verify / preview) and the first 30-day curated batch in en/de/fr. The curated text replaces the weak extractive openers.
+- **h.** PWA/offline, a nightly GitHub Action (no keys, no AI), deploy config.
+- **i.** Polish pass: motion, typography, a11y, performance, reduced motion.
+- **j.** README, docs, licenses, the /about page, contribution guide.
+
+Rules that hold for every UI milestone:
+- Playwright screenshots at 390 px and 1440 px, in light and dark.
+- A full reduced-motion alternative.
+- Real text always in the DOM.
+
+**Repository history.** `.git` still holds the raw API responses of the first pool build (about 60 MB). It gets squashed and force-pushed only on the owner's word, right before the repository goes public.
+
 ## Decisions (2026-10-05)
 
 These override anything in the plan below that says otherwise.

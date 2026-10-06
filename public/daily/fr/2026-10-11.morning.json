@@ -189,10 +189,6 @@
    },
    {
     "type": "sentence",
-    "text": "Minneapolis se situe dans le nord-ouest du Midwest, région du centre nord des États-Unis."
-   },
-   {
-    "type": "sentence",
     "text": "Pas moins de 16 lacs sont situés à l’intérieur des limites de la ville, la plupart d’entre eux étant néanmoins réduits et peu profonds, mais couverts par la glace en hiver."
    },
    {
@@ -208,6 +204,10 @@
     "text": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2."
    },
    {
+    "type": "sentence",
+    "text": "En 1763, à la suite du traité de Paris découlant de la guerre de Sept Ans, la zone du Minnesota actuel à l’ouest du Mississippi et au sud de la baie d’Hudson fut cédée à l’Espagne."
+   },
+   {
     "type": "closing",
     "text": "En 2023, Minneapolis comptait 425 115 habitants pour la ville seule et 3 712 020 habitants pour l’agglomération de Minneapolis-Saint Paul."
    }
@@ -217,6 +217,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "015b5e2af6de4b.15f20d76182b96"
+  "hash": "17eef9cef26c81.15f20d76182b96"
  }
 }

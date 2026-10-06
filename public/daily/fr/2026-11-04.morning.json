@@ -45,11 +45,6 @@
    "value": "2025",
    "surface": "2025"
   },
-  "f7": {
-   "kind": "date",
-   "value": "1875",
-   "surface": "1875"
-  },
   "f11": {
    "kind": "date",
    "value": "1916",
@@ -59,6 +54,11 @@
    "kind": "date",
    "value": "1927",
    "surface": "1927"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1977",
+   "surface": "1977"
   },
   "f73": {
    "kind": "measure",
@@ -116,16 +116,16 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f7",
-      "label": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain."
-     },
-     {
       "fact": "f11",
       "label": "En 1916, le tout premier tournoi de snooker a été mis en place."
      },
      {
       "fact": "f12",
       "label": "En 1927, la légende du snooker, Joe Davis introduit un championnat du monde professionnel."
+     },
+     {
+      "fact": "f23",
+      "label": "Le classement mondial fut introduit en 1977."
      },
      {
       "fact": "f6",
@@ -168,16 +168,16 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f7",
-      "label": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain."
-     },
-     {
       "fact": "f11",
       "label": "En 1916, le tout premier tournoi de snooker a été mis en place."
      },
      {
       "fact": "f12",
       "label": "En 1927, la légende du snooker, Joe Davis introduit un championnat du monde professionnel."
+     },
+     {
+      "fact": "f23",
+      "label": "Le classement mondial fut introduit en 1977."
      },
      {
       "fact": "f6",
@@ -195,19 +195,19 @@
    },
    {
     "type": "sentence",
-    "text": "Dix ans plus tard, en 1885, à l’occasion d’un voyage en Inde du champion britannique de billard John Roberts, Chamberlain lui présenta ses innovations et introduisit par son biais la pratique du snooker en Angleterre."
-   },
-   {
-    "type": "sentence",
     "text": "Un drap est tendu dessus."
    },
    {
     "type": "sentence",
-    "text": "Les joueurs frappent la bille blanche à l’aide de la queue de billard."
+    "text": "La planéité de la table est due à sa structure : huit pieds soutiennent des plaques d’ardoise placées côte-à-côte et serrées les unes contre les autres."
    },
    {
     "type": "sentence",
-    "text": "La planéité de la table est due à sa structure : huit pieds soutiennent des plaques d’ardoise placées côte-à-côte et serrées les unes contre les autres."
+    "text": "Les bandes et les poches sont ensuite fixées à la table."
+   },
+   {
+    "type": "sentence",
+    "text": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain – homonyme du futur Premier ministre – fut à l’origine de l’invention du jeu de snooker."
    },
    {
     "type": "closing",
@@ -219,6 +219,6 @@
  "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "117fae160d0c36.0f96eecc688a76"
+  "hash": "0daac13c814740.0f96eecc688a76"
  }
 }

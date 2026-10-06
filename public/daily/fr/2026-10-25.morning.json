@@ -67,11 +67,6 @@
    "value": "1879",
    "surface": "1879"
   },
-  "f78": {
-   "kind": "date",
-   "value": "1883",
-   "surface": "1883"
-  },
   "f111": {
    "kind": "date",
    "value": "1886",
@@ -135,10 +130,6 @@
       "label": "Le 18 février 1879, Bartholdi obtient un brevet pour sa statue, le brevet D11,023."
      },
      {
-      "fact": "f78",
-      "label": "L’édification eut lieu entre le 9 octobre 1883 et le 22 août 1886."
-     },
-     {
       "fact": "f111",
       "label": "La statue fonctionna comme phare entre la date de son montage, en 1886."
      }
@@ -146,7 +137,7 @@
    },
    {
     "type": "sentence",
-    "text": "C’est l’un des monuments les plus célèbres des États-Unis."
+    "text": "L’inauguration a lieu le 28 octobre 1886 en présence du président des États-Unis, Grover Cleveland, pour commémorer."
    },
    {
     "type": "closing",
@@ -185,10 +176,6 @@
      {
       "fact": "f68",
       "label": "Le 18 février 1879, Bartholdi obtient un brevet pour sa statue, le brevet D11,023."
-     },
-     {
-      "fact": "f78",
-      "label": "L’édification eut lieu entre le 9 octobre 1883 et le 22 août 1886."
      },
      {
       "fact": "f111",
@@ -230,6 +217,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "17414be6f37add.02d20585e67a1d"
+  "hash": "13984f217977b7.02d20585e67a1d"
  }
 }

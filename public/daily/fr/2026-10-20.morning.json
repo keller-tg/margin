@@ -46,12 +46,6 @@
    "unit": "km",
    "surface": "2 334 km"
   },
-  "f29": {
-   "kind": "measure",
-   "value": 120,
-   "unit": "km",
-   "surface": "120 km"
-  },
   "f36": {
    "kind": "date",
    "value": "2026",
@@ -120,9 +114,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f29",
-    "display": "120 km",
-    "caption": "Un grand estuaire se forme ici avant que le Colorado ne se jette dans le golfe à environ 120 km au sud de Yuma."
+    "fact": "f50",
+    "display": "25 %",
+    "caption": "La base de prélèvement est alors de 25 % supérieur au débit annuel moyen."
    },
    {
     "type": "timeline",
@@ -203,10 +197,6 @@
    },
    {
     "type": "sentence",
-    "text": "Situé à l’ouest de la ligne continentale de partage des eaux d’Amérique du Nord, le fleuve s’écoule vers l’océan Pacifique."
-   },
-   {
-    "type": "sentence",
     "text": "Le 12 février 2008, l’Institut d’océanographie Scripps de San Diego publie une étude dans laquelle est estimé à 50 % les chances d’assèchement total du Lac Mead d’ici l’année 2021, lac artificiel créé en 1935 par la construction du barrage Hoover."
    },
    {
@@ -222,6 +212,10 @@
     "text": "Plus de 40 millions d’Américains et 29 tribus indiennes sont dépendants de l’eau du fleuve, qui est la principale source minérale du Sud-Ouest des États-Unis avec le rio Grande."
    },
    {
+    "type": "sentence",
+    "text": "Plus d’une centaine de barrages ont été construits le long du fleuve."
+   },
+   {
     "type": "closing",
     "text": "L’eau prélevée du fleuve est essentiellement utilisée à des fins d’irrigation pour l’agriculture, mais aussi pour des usages domestiques."
    }
@@ -231,6 +225,6 @@
  "qualityScore": 0.84,
  "verified": {
   "version": 1,
-  "hash": "1134eb20172394.17d9e1f706337e"
+  "hash": "15761641d27386.17d9e1f706337e"
  }
 }
