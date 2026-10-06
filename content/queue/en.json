@@ -141,6 +141,136 @@
    },
    "pickedAt": "2026-10-06T08:41:06.165Z",
    "attempt": 0
+  },
+  "evening": {
+   "title": "Oak",
+   "qid": "Q12004",
+   "pageid": 39696,
+   "domain": "plants",
+   "image": {
+    "file": "File:Quercus robur.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:42:00.844Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-12": {
+  "morning": {
+   "title": "Charles Darwin",
+   "qid": "Q1035",
+   "pageid": 8145410,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Charles Darwin seated crop.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:42:01.536Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Coccinellidae",
+   "qid": "Q25327",
+   "pageid": 18973752,
+   "domain": "animals",
+   "image": {
+    "file": "File:Coccinella-septempunctata-15-fws.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:42:02.557Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-13": {
+  "morning": {
+   "title": "Kigali",
+   "qid": "Q3859",
+   "pageid": 56690,
+   "domain": "cities",
+   "image": {
+    "file": "File:High Angle View Of Kigali City Street on November 29, 2018. Emmanuel Kwizera.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:42:03.689Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Technetium",
+   "qid": "Q1054",
+   "pageid": 30041,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Technetium-sample-cropped.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:42:04.869Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-14": {
+  "morning": {
+   "title": "Japan",
+   "qid": "Q17",
+   "pageid": 15573,
+   "domain": "places",
+   "image": {
+    "file": "File:Satellite image of Japan in May 2003.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:42:05.885Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Rigel",
+   "qid": "Q12126",
+   "pageid": 26463,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:1e10m comparison Rigel, Aldebaran, and smaller - antialiased no transparency.png",
+    "via": "edition:de"
+   },
+   "pickedAt": "2026-10-06T08:43:01.606Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-15": {
+  "morning": {
+   "title": "Xenon",
+   "qid": "Q1106",
+   "pageid": 34139,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:XeTube.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:43:02.207Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Octopus",
+   "qid": "Q40152",
+   "pageid": 22780,
+   "domain": "animals",
+   "image": {
+    "file": "File:Octopus2.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:43:03.288Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-16": {
+  "morning": {
+   "title": "Betelgeuse",
+   "qid": "Q12124",
+   "pageid": 53878,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Location of the binary system of Betelgeuse in constellation Orion.png",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:43:04.703Z",
+   "attempt": 0
   }
  }
 }
