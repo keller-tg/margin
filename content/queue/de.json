@@ -271,6 +271,136 @@
    },
    "pickedAt": "2026-10-06T08:57:04.939Z",
    "attempt": 0
+  },
+  "evening": {
+   "title": "Saturn (Planet)",
+   "qid": "Q193",
+   "pageid": 4661,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Saturn from Cassini Orbiter (2004-10-06).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:58:01.416Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-17": {
+  "morning": {
+   "title": "Allosaurus",
+   "qid": "Q14400",
+   "pageid": 155611,
+   "domain": "animals",
+   "image": {
+    "file": "File:WLA hmns Allosaurus White Background.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:58:02.417Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Tuba",
+   "qid": "Q131168",
+   "pageid": 14339,
+   "domain": "instruments",
+   "image": {
+    "file": "File:Yamaha Bass tuba YFB-822.tif",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:58:03.154Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-18": {
+  "morning": {
+   "title": "Robert Oppenheimer",
+   "qid": "Q132537",
+   "pageid": 57522,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Oppenheimer (cropped).jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:58:04.239Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Triceratops",
+   "qid": "Q14384",
+   "pageid": 112511,
+   "domain": "animals",
+   "image": {
+    "file": "File:Triceratops Skeleton Senckenberg 2.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:58:05.612Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-19": {
+  "morning": {
+   "title": "Nauru",
+   "qid": "Q697",
+   "pageid": 21599,
+   "domain": "places",
+   "image": {
+    "file": "File:Coral reef on Nauru.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:58:07.982Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "(1) Ceres",
+   "qid": "Q596",
+   "pageid": 30371,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:58:08.103Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-20": {
+  "morning": {
+   "title": "Falklandinseln",
+   "qid": "Q9648",
+   "pageid": 10356,
+   "domain": "islands",
+   "image": {
+    "file": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:59:01.447Z",
+   "attempt": 1
+  },
+  "evening": {
+   "title": "Neptunium",
+   "qid": "Q1105",
+   "pageid": 3519,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Neptunium (Element - 93) 3.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:59:02.537Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-21": {
+  "morning": {
+   "title": "Columbia River",
+   "qid": "Q2251",
+   "pageid": 295154,
+   "domain": "water",
+   "image": {
+    "file": "File:ColumbiarivergorgeJRH.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:59:04.724Z",
+   "attempt": 0
   }
  }
 }
