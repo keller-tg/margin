@@ -23,7 +23,8 @@
     "images:build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/images/build-images.ts",
     "content:refs": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/refs.ts",
     "content:trail": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/trail-pool.ts",
-    "content:trail-fixture": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/trail-fixture.ts"
+    "content:trail-fixture": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/trail-fixture.ts",
+    "perf:frames": "tsx scripts/perf/frames.ts"
   },
   "dependencies": {
     "react": "^19.3.0",

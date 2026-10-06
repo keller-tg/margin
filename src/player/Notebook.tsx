@@ -6,7 +6,7 @@ import { usePrefs } from '../app/PrefsContext';
 import { Sheet } from '../paper/Sheet';
 import { useReducedMotion } from './motion';
 import { turnPage, type TurnDirection } from './turn';
-import { writePage, type Writer } from './writing';
+import { cssTimeMs, writePage, type Writer } from './writing';
 import './player.css';
 
 type Turn = { from: number; to: number; dir: TurnDirection };
@@ -77,7 +77,7 @@ export function Notebook({ label, count, index, setIndex, pageKey, leaf, canForw
     const moving = leafRefs.current.get(turn.dir === 'forward' ? turn.from : turn.to);
     const under = leafRefs.current.get(turn.dir === 'forward' ? turn.to : turn.from) ?? null;
     if (!moving) return;
-    const duration = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--dur-turn')) || 560;
+    const duration = cssTimeMs(getComputedStyle(document.documentElement).getPropertyValue('--dur-turn'), 560); // "560ms" in dev, ".56s" once minified
     turnPage({ moving, under, shadow: shadow.current, direction: turn.dir, reduced, durationMs: duration }).then(() => {
       setIndex(turn.to);
       setTurn(null);
@@ -191,10 +191,13 @@ export function Notebook({ label, count, index, setIndex, pageKey, leaf, canForw
               onPointerUp={onPointerUp}
               onClick={onClick}
             >
-              <Sheet as="div" paper={prefs.paper} fill margin={margin}>
-                {body}
-                {foot}
-              </Sheet>
+              {/* the fold: during a turn this box is the slanted, sliding clip (transform only, see turn.ts) */}
+              <div className="leaf-fold">
+                <Sheet as="div" paper={prefs.paper} fill margin={margin}>
+                  {body}
+                  {foot}
+                </Sheet>
+              </div>
               <span
                 className="nib"
                 aria-hidden="true"

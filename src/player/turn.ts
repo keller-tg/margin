@@ -1,26 +1,16 @@
 // The 2D page turn (plan §11). Forward: the current leaf peels away from its right edge along a slightly
 // slanted fold (the top corner leads), uncovering the next leaf, with a soft shadow travelling on the fold.
-// Backward: the previous leaf is laid back down, the same motion in reverse. Reduced motion: a 200 ms
-// crossfade. Only clip-path, transform and opacity are animated (compositor-friendly).
+// Backward: the previous leaf is laid back down, the same motion in reverse. Reduced motion: the dip below.
+//
+// Only transforms are animated, so the compositor runs the turn. The leaf's fold box (.leaf-fold, 10%
+// wider than the page on the left so its slant never cuts the page) is skewed and slides left, clipping
+// the sheet; the sheet inside gets the exact inverse transform, so the page stands still while the fold's
+// edge sweeps across it. (The first version animated clip-path, which Safari repaints on every frame.)
 
 export type TurnDirection = 'forward' | 'back';
 
-const FOLD_SLANT = 0.1; // the fold's top runs ahead of its bottom by 10% of the width
-
-function foldPolygon(p: number): string {
-  // p: 1 = page fully there, 0 = page gone. The fold runs from (top) to (bottom).
-  const top = p * (1 + FOLD_SLANT) - FOLD_SLANT;
-  const bottom = p * (1 + FOLD_SLANT);
-  const pct = (n: number) => `${Math.round(n * 1000) / 10}%`;
-  return `polygon(0% 0%, ${pct(top)} 0%, ${pct(bottom)} 100%, 0% 100%)`;
-}
-
+const FOLD_SLANT = 0.1; // the fold's top runs ahead of its bottom by 10% of the width (= .leaf-fold's extra width)
 const STEPS = 12;
-const frames = (from: number, to: number) =>
-  Array.from({ length: STEPS + 1 }, (_, i) => {
-    const p = from + ((to - from) * i) / STEPS;
-    return { clipPath: foldPolygon(p), offset: i / STEPS };
-  });
 
 /**
  * Animate a turn. `moving` is the leaf on top that peels away (forward) or lays down (back);
@@ -31,14 +21,27 @@ export function turnPage(opts: { moving: HTMLElement; under: HTMLElement | null;
   if (reduced) return dip(direction === 'forward' ? moving : under, direction === 'forward' ? under : moving);
   const easing = 'cubic-bezier(0.32, 0.02, 0.24, 1)';
   const [from, to] = direction === 'forward' ? [1, 0] : [0, 1];
-  const a = moving.animate(
-    frames(from, to).map((f, i, all) => ({ ...f, transform: `translateX(${(direction === 'forward' ? -1 : 1) * 6 * Math.sin((i / (all.length - 1)) * Math.PI)}px)` })),
-    { duration: durationMs, easing, fill: 'forwards' },
+  const fold = moving.querySelector<HTMLElement>(':scope > .leaf-fold');
+  const sheet = fold?.firstElementChild as HTMLElement | null;
+  const w = moving.offsetWidth;
+  const h = moving.offsetHeight;
+  if (!fold || !sheet || !w || !h) return Promise.resolve();
+  const skew = (Math.atan((FOLD_SLANT * w) / h) * 180) / Math.PI;
+  // p: 1 = page fully there, 0 = page gone. The fold's top edge sits at p·(1+s)·w − s·w.
+  const shift = (p: number) => (p - 1) * (1 + FOLD_SLANT) * w;
+  const ps = Array.from({ length: STEPS + 1 }, (_, i) => ({ p: from + ((to - from) * i) / STEPS, i }));
+  // a little lift: the page drifts a few pixels with the fold, as before
+  const lift = (i: number) => (direction === 'forward' ? -1 : 1) * 6 * Math.sin((i / STEPS) * Math.PI);
+  const timing: KeyframeAnimationOptions = { duration: durationMs, easing, fill: 'forwards' };
+  const a = fold.animate(
+    ps.map(({ p, i }) => ({ transform: `translateX(${shift(p)}px) skewX(${skew}deg)`, offset: i / STEPS })),
+    timing,
+  );
+  sheet.animate(
+    ps.map(({ p, i }) => ({ transform: `skewX(${-skew}deg) translateX(${-shift(p) + lift(i)}px)`, offset: i / STEPS })),
+    timing,
   );
   if (shadow) {
-    const w = moving.offsetWidth;
-    const h = moving.offsetHeight;
-    const skew = (Math.atan((FOLD_SLANT * w) / Math.max(h, 1)) * 180) / Math.PI;
     const x = (p: number) => (p * (1 + FOLD_SLANT) - FOLD_SLANT) * w; // the fold's top; skew (origin top) carries the bottom
     shadow.animate(
       [

@@ -1,4 +1,4 @@
-import { useLayoutEffect, useRef } from 'react';
+import { useLayoutEffect, useRef, useState } from 'react';
 import { creditLine } from '../core/license/license';
 import type { ThingImage } from '../core/schema/thing';
 import { usePrefs } from '../app/PrefsContext';
@@ -19,6 +19,9 @@ function tilt(seed: string, max: number): number {
 export function Photo({ image, entry, size, alt }: { image: ThingImage; entry: ManifestEntry | undefined; size: 'title' | 'page'; alt: string }) {
   const { t } = usePrefs();
   const slot = useRef<HTMLDivElement>(null);
+  // A browser that claims AVIF but can't decode a file (Safari picks the AVIF <source>, and <picture>
+  // never falls back on a decode error) gets the picture again without the AVIF source: WebP then.
+  const [avifFailed, setAvifFailed] = useState(false);
   const credit = creditLine(entry?.credit ?? image.credit);
   const ratio = entry ? entry.height / entry.width : image.h / image.w;
   const rotation = tilt(image.file, size === 'title' ? 2.2 : 1.1);
@@ -47,8 +50,8 @@ export function Photo({ image, entry, size, alt }: { image: ThingImage; entry: M
         <div className="photo-print">
           <div className="photo-img" style={{ aspectRatio: `1 / ${ratio}`, background: entry?.color ?? 'var(--photo-blank)' }}>
             {entry ? (
-              <picture>
-                <source type="image/avif" srcSet={srcset('avif')} sizes={sizes} />
+              <picture key={avifFailed ? 'webp' : 'avif'}>
+                {avifFailed ? null : <source type="image/avif" srcSet={srcset('avif')} sizes={sizes} />}
                 <source type="image/webp" srcSet={srcset('webp')} sizes={sizes} />
                 <img
                   src={`/img/${entry.id}/${entry.widths.includes(960) ? 960 : entry.widths[entry.widths.length - 1]}.webp`}
@@ -56,6 +59,9 @@ export function Photo({ image, entry, size, alt }: { image: ThingImage; entry: M
                   width={entry.width}
                   height={entry.height}
                   decoding="async"
+                  onError={(e) => {
+                    if (!avifFailed && e.currentTarget.currentSrc.endsWith('.avif')) setAvifFailed(true);
+                  }}
                 />
               </picture>
             ) : (

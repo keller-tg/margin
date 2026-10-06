@@ -46,12 +46,44 @@
   -webkit-tap-highlight-color: transparent;
   touch-action: pan-y;
 }
+/* the fold box: 10% wider than the page on the left (the fold's slant), the page itself in place */
+.leaf-fold {
+  margin-left: -10%;
+  padding-left: 10%;
+  transform-origin: 0 0;
+}
+.leaf-fold > .sheet {
+  transform-origin: -10% 0; /* the fold box's own origin, so the inverse transform cancels exactly */
+}
+/* while turning: the leaf itself is see-through, the fold box clips, both layers are promoted */
 .leaf[data-moving] {
-  will-change: clip-path, transform;
+  background: transparent;
+}
+.leaf[data-moving] > .leaf-fold {
+  overflow: hidden;
+  will-change: transform;
+}
+.leaf[data-moving] > .leaf-fold > .sheet {
+  will-change: transform;
 }
 /* a leaf laid back down starts out of sight, before its animation's first frame */
-.leaf[data-entering] {
-  clip-path: polygon(0% 0%, -10% 0%, 0% 100%, 0% 100%);
+.leaf[data-entering] > .leaf-fold {
+  transform: translateX(-120%);
+}
+/* the pen's copies of the lines it is writing (writing.ts): composited strips over the page */
+.pen-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+}
+.pen-line {
+  position: absolute;
+  overflow: hidden;
+  will-change: transform;
+}
+.pen-line > * {
+  will-change: transform;
 }
 /* text not yet written is invisible (but in the DOM) until the pen reaches it */
 .leaf[data-unwritten] [data-write] {

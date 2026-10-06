@@ -102,7 +102,7 @@ test('looking for paths: the choice page while Wikipedia is still answering', as
   await setup(page, 'light');
   await page.route(/wikipedia\.org/, () => new Promise(() => undefined)); // never answers (the 6 s timeout is not reached here)
   await page.goto('/trail/en/2026-10-08');
-  await expect(page.getByText('Looking for paths…')).toBeVisible();
+  await expect(page.locator('.trail-finding')).toHaveText('Looking for paths…'); // the real line, not the pen's transient copy
   await page.waitForTimeout(1500);
   await page.screenshot({ path: 'e2e/__shots__/e-finding-mobile-light.png', fullPage: true });
 });

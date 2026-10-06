@@ -20,6 +20,12 @@ import { fetchImageBytes, stats } from '../content/lib/wiki';
 // needs at most 1280 (a 34rem photo at 2x), so these are the ones ever requested.
 const STANDARD = [250, 330, 500, 960, 1280] as const;
 export const OUTPUT_WIDTHS = [480, 960, 1280] as const;
+// AVIF is encoded as AV1 Main profile with 4:2:0 chroma: the AVIF *baseline* profile that Apple's
+// decoder (Safari, iOS) targets. sharp's default (4:4:4, AV1 High profile) is outside it, and <picture>
+// never falls back when the chosen source fails to decode. ENCODING marks how a manifest entry was made:
+// entries from another encoding are re-encoded from the cached download on the next run.
+const AVIF = { quality: 52, effort: 5, chromaSubsampling: '4:2:0' } as const;
+export const ENCODING = 2;
 const CACHE = p('.cache/images');
 const OUT = p('public/img');
 
@@ -30,6 +36,8 @@ export type ManifestEntry = {
   height: number;
   widths: number[];
   formats: ('avif' | 'webp')[];
+  /** How the files were encoded (see ENCODING); absent on entries from before ENCODING existed. */
+  encoding?: number;
   color: string; // average colour, for the placeholder behind the photo
   credit: ImageRecord['credit'];
 };
@@ -57,6 +65,9 @@ async function main() {
   mkdirSync(CACHE, { recursive: true });
   mkdirSync(OUT, { recursive: true });
   const manifest: Record<string, ManifestEntry> = {};
+  const previous: Record<string, ManifestEntry> = existsSync(join(OUT, 'manifest.json')) ? JSON.parse(readFileSync(join(OUT, 'manifest.json'), 'utf8')) : {};
+  // --cached-only: re-encode what is already downloaded, without asking Commons for anything
+  const cachedOnly = process.argv.includes('--cached-only');
   let downloaded = 0;
   let encoded = 0;
   // earliest day first: the next days get their photos first while a throttled download is still running
@@ -75,6 +86,7 @@ async function main() {
     const { url, width } = thumbUrl(rec);
     const cached = join(CACHE, `${id}-${width}`);
     if (!existsSync(cached)) {
+      if (cachedOnly) continue;
       writeFileSync(cached, await fetchImageBytes(url));
       downloaded++;
       log(`  downloaded ${downloaded}: ${firstUse.get(file)} ${file.slice(5, 60)} (waited ${Math.round(stats.waitedMs / 1000)}s so far)`);
@@ -90,16 +102,16 @@ async function main() {
     for (const w of widths) {
       const a = join(dir, `${w}.avif`);
       const b = join(dir, `${w}.webp`);
-      if (existsSync(a) && existsSync(b)) continue;
+      if (existsSync(a) && existsSync(b) && previous[file]?.encoding === ENCODING) continue;
       const resized = sharp(readFileSync(cached)).rotate().resize({ width: w, withoutEnlargement: true });
-      await resized.clone().avif({ quality: 52, effort: 5 }).toFile(a);
+      await resized.clone().avif(AVIF).toFile(a);
       await resized.clone().webp({ quality: 74, effort: 5 }).toFile(b);
       encoded++;
     }
     const { dominant } = await sharp(readFileSync(cached)).resize(32).stats();
     const big = Math.max(...widths);
     manifest[file] = {
-      id, file, width: big, height: Math.round((srcH * big) / srcW), widths: [...widths].sort((x, y) => x - y), formats: ['avif', 'webp'],
+      id, file, width: big, height: Math.round((srcH * big) / srcW), widths: [...widths].sort((x, y) => x - y), formats: ['avif', 'webp'], encoding: ENCODING,
       color: `rgb(${dominant.r} ${dominant.g} ${dominant.b})`, credit: rec.credit,
     };
     // after every image: the app can use what is there while the rest is still downloading
