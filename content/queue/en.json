@@ -271,6 +271,174 @@
    },
    "pickedAt": "2026-10-06T08:43:04.703Z",
    "attempt": 0
+  },
+  "evening": {
+   "title": "Banff National Park",
+   "qid": "Q41858",
+   "pageid": 209131,
+   "domain": "landscapes",
+   "image": {
+    "file": "File:Moraine Lake 17092005.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:01.115Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-17": {
+  "morning": {
+   "title": "Nile",
+   "qid": "Q3392",
+   "pageid": 21244,
+   "domain": "water",
+   "image": {
+    "file": "File:Beautiful nature along Nile River 01.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:01.655Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Amanita phalloides",
+   "qid": "Q188643",
+   "pageid": 184774,
+   "domain": "plants",
+   "image": {
+    "file": "File:Amanita phalloides 1.JPG",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:02.778Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-18": {
+  "morning": {
+   "title": "Richard Wagner",
+   "qid": "Q1511",
+   "pageid": 25452,
+   "domain": "people-arts",
+   "image": {
+    "file": "File:RichardWagner.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:03.904Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Frigatebird",
+   "qid": "Q203472",
+   "pageid": 183143,
+   "domain": "animals",
+   "image": {
+    "file": "File:Fregata magnificens1.jpg",
+    "via": "edition:de"
+   },
+   "pickedAt": "2026-10-06T08:44:04.930Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-19": {
+  "morning": {
+   "title": "Cleveland",
+   "qid": "Q37320",
+   "pageid": 5951,
+   "domain": "cities",
+   "image": {
+    "file": "File:Cleveland skyline from Lakewood Park, January 2026.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:06.054Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Curry",
+   "qid": "Q164606",
+   "pageid": 6597,
+   "domain": "food",
+   "image": {
+    "file": "File:Taj Mahal - Lamb Curry Madras.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:07.139Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-20": {
+  "morning": {
+   "title": "Lion",
+   "qid": "Q140",
+   "pageid": 36896,
+   "domain": "animals",
+   "image": {
+    "file": "File:020 The lion king Snyggve in the Serengeti National Park Photo by Giles Laurent.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:44:08.271Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Barley",
+   "qid": "Q11577",
+   "pageid": 19541428,
+   "domain": "plants",
+   "image": {
+    "file": "File:Barley (Hordeum vulgare) - United States National Arboretum - 24 May 2009.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:45:00.835Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-21": {
+  "morning": {
+   "title": "Empire of Brazil",
+   "qid": "Q217230",
+   "pageid": 269405,
+   "domain": "history",
+   "image": {
+    "file": "File:Paço imperial 1840.png",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:45:01.661Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Mantis",
+   "qid": "Q131250",
+   "pageid": 26977166,
+   "domain": "animals",
+   "image": {
+    "file": "File:Mantis (European).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:45:02.621Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-22": {
+  "morning": {
+   "title": "Mary Wollstonecraft",
+   "qid": "Q101638",
+   "pageid": 19834,
+   "domain": "people-other",
+   "image": {
+    "file": "File:Mary Wollstonecraft Portrait.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:45:03.810Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Ganymede (moon)",
+   "qid": "Q3169",
+   "pageid": 54211,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Ganymede - Perijove 34 Composite.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:45:04.904Z",
+   "attempt": 0
   }
  }
 }
