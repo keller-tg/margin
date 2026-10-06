@@ -32,7 +32,7 @@ function seedFor(id: string, i: number): number {
   return (h >>> 0) % 100000;
 }
 
-export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }) {
+export function Player({ thing, manifest, startAt = 0 }: { thing: Thing; manifest: Manifest; startAt?: number }) {
   const { prefs, setPrefs, t } = usePrefs();
   const navigate = useNavigate();
   const reduced = useReducedMotion(prefs.motion);
@@ -41,7 +41,8 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
   // the app's own pages after the content: the margin note (evenings) and the END page
   const appPages: AppPageKind[] = thing.slot === 'evening' ? ['note', 'end'] : ['end'];
   const count = pages.length + appPages.length;
-  const [index, setIndex] = useState(0);
+  const [index, setIndex] = useState(() => Math.max(0, Math.min(startAt, count - 1)));
+  if (index > count - 1) setIndex(count - 1); // a shorter pace chosen while on a late page
   const [turn, setTurn] = useState<Turn | null>(null);
   const written = useRef(new Set<string>());
   const writer = useRef<Writer | null>(null);
@@ -233,8 +234,6 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
                           </button>
                         ))}
                       </span>
-                    ) : i === count - 1 ? (
-                      <span className="end-hint">{t('player.close')}</span>
                     ) : (
                       <span />
                     )}

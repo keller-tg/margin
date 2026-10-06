@@ -38,7 +38,11 @@ export function Read() {
   }, [params, setPrefs]);
 
   if (!valid) return <Navigate to="/" replace />;
-  if (state.status === 'ready') return <Player thing={state.thing} manifest={state.manifest} />;
+  if (state.status === 'ready') {
+    // ?page=3 opens on page 3 (1-based; used for links to a page and by the screenshots)
+    const page = Number(params.get('page') ?? '1');
+    return <Player thing={state.thing} manifest={state.manifest} startAt={Number.isFinite(page) ? page - 1 : 0} />;
+  }
   return (
     <Sheet paper={prefs.paper}>
       <p className="ink gap-2" aria-live="polite">

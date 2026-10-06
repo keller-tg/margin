@@ -50,7 +50,7 @@ export function NotePage({ thing, onDone }: { thing: Thing; onDone: () => void }
             setText(e.target.value);
             setKept(false);
           }}
-          placeholder="…"
+          placeholder={t('note.placeholder')}
         />
         <p className="ui-line note-hint">{kept ? t('note.kept') : t('note.hint')}</p>
         <p className="ui-line note-actions">

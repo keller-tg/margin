@@ -4,7 +4,7 @@
 
 Margin is a calm notebook that fills itself twice a day: one real thing in the morning, one small thing in the evening. Then it ends. It has no feed, no streaks, no notifications and no tracking. The content is adapted from Wikipedia (CC BY-SA). The site makes no AI calls and holds no API keys.
 
-> **Status:** early development. Milestone (a) is done: paper, ink, fonts, theme, i18n and the wordmark. Milestone (b) is done: the content pipeline (pool, picker, fetcher with a committed cache, image licensing, extractive composer, verifier). See [`docs/content-pipeline.md`](docs/content-pipeline.md). Milestone (c) is done: the image step, the pace calibration page and the player (title, sentence and image pages, pen-writing reveal, page turn). See [`docs/player.md`](docs/player.md). See [`docs/plan.md`](docs/plan.md) for the full plan and the decisions behind it.
+> **Status:** early development. Milestone (a) is done: paper, ink, fonts, theme, i18n and the wordmark. Milestone (b) is done: the content pipeline (pool, picker, fetcher with a committed cache, image licensing, extractive composer, verifier). See [`docs/content-pipeline.md`](docs/content-pipeline.md). Milestone (c) is done: the image step, the pace calibration page and the player (title, sentence and image pages, pen-writing reveal, page turn). Milestone (d) is done: big number, timeline, map, compare and closing pages, the margin note and the END page. See [`docs/player.md`](docs/player.md). See [`docs/plan.md`](docs/plan.md) for the full plan and the decisions behind it.
 
 ## Develop
 

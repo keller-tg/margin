@@ -280,9 +280,6 @@
   text-decoration-thickness: 1.5px;
   text-underline-offset: 4px;
 }
-.end-hint {
-  font-style: italic;
-}
 .attribution {
   --fs: 11.5px;
   opacity: 0.85;
@@ -341,7 +338,7 @@
   width: 100%;
   height: 16px;
   margin-top: calc(var(--rule) * -0.55);
-  margin-bottom: calc(var(--rule) * 0.55 - 16px);
+  margin-bottom: calc(var(--rule) * 1.55 - 16px); /* one empty line before the caption */
   overflow: visible;
 }
 .bignum-underline path {
@@ -357,7 +354,7 @@
 }
 .tl-line {
   position: absolute;
-  left: 6px;
+  left: 1px; /* the path runs at x=5, so the line passes through the dots' centres (6px) */
   top: calc(var(--rule) * 0.45);
   bottom: calc(var(--rule) * 0.6);
   width: 10px;
@@ -401,8 +398,11 @@
 }
 
 /* ---------- map ---------- */
+.map-slot {
+  margin-top: var(--rule);
+}
 .map {
-  margin: var(--rule) 0 0;
+  margin: 0;
   max-width: 34rem;
 }
 .map-svg {
@@ -433,13 +433,16 @@
   text-align: right;
 }
 .map-label {
-  margin-top: calc(var(--rule) * 0.5);
+  margin-top: 0;
 }
 
 /* ---------- compare ---------- */
+.cmp-slot {
+  margin-top: var(--rule);
+}
 .cmp {
   width: min(100%, var(--cmp-w));
-  margin-top: var(--rule);
+  padding-bottom: calc(var(--rule) * 0.4);
 }
 .cmp-bars {
   display: block;
@@ -541,10 +544,35 @@
   outline: none;
 }
 .note-input::placeholder {
-  color: var(--rule-color);
+  color: var(--ink-soft);
+  opacity: 0.45;
 }
-.note-input:focus-visible {
-  box-shadow: 0 2px 0 -0.5px var(--margin-color);
+/* the line to write on: a short red pencil stroke over the rule, full width while writing */
+.note-form {
+  position: relative;
+}
+.note-form::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: calc(var(--rule-offset) - 0.25px); /* on the paper's rule (see paper.css) */
+  width: 40%;
+  height: 1.5px;
+  background: var(--margin-color);
+  opacity: 0.55;
+  transition: width 240ms ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  .note-form::before {
+    transition: none;
+  }
+}
+:root[data-motion='off'] .note-form::before {
+  transition: none;
+}
+.note-form:focus-within::before {
+  width: 100%;
+  opacity: 0.8;
 }
 .note-hint {
   color: var(--ink-soft);

@@ -1,24 +1,48 @@
-# The player (milestone c)
+# The player (milestones c and d)
 
 ```
 npm run images:build   # once per new batch: Commons → public/img/ (AVIF + WebP, credits in manifest.json)
 npm run dev            # http://localhost:5173 → Begin
 npm run shots          # landing/specimen screenshots
 npx playwright test e2e/player.spec.ts   # player + pace screenshots → e2e/__shots__/player-*.png, pace-*.png
+npx playwright test e2e/pages-d.spec.ts  # the (d) pages, note and END → e2e/__shots__/d-*.png
+npm run content:refs   # re-read the compare reference heights from Wikipedia (cached)
 ```
 
 ## Routes
 
 - `/begin` opens today's open slot: the evening once it has opened, otherwise the morning. On the first visit it asks for a pace first.
 - `/pace` is the calibration page. It shows the three paces with the fullest page of today's morning at each pace, plus one tick per page. The paces have equal status, no recommendation and no minutes.
-- `/read/:lang/:date/:slot` plays one day's thing. `?pace=easy|medium|deep` sets the pace (used by the screenshots and for shareable links).
+- `/read/:lang/:date/:slot` plays one day's thing. `?pace=easy|medium|deep` sets the pace (used by the screenshots and for shareable links). `?page=N` (1-based) opens on page N.
 
 ## Reading
 
 - **Turning pages.** Tap or click the right two-thirds of a page, press → / Space / Enter / PageDown, or swipe left. Back works the same way with the left third, ← / PageUp, or a swipe right. Escape closes the notebook. While the pen is writing, the first tap finishes the writing and the next one turns the page.
 - **Pace switch.** The title page has a pace switch. Changing the pace keeps the relative position (page 3 of 7 becomes page 2 of 4).
-- **Last page.** "Next" closes the notebook. The END page comes in milestone (d).
-- **Interim pages.** Big number, timeline, map, compare and closing pages are written as plain lines until milestone (d), so every day is readable from start to end.
+- **App pages.** After the content pages come the app's own pages: on an evening the **margin note**, then on every reading the **END** page. "Next" on END closes the notebook. The page ticks at the bottom count content pages only.
+
+## Page types (milestone d, `src/player/pages.tsx`)
+
+Every page is real text in the DOM. Strokes (`[data-draw]` SVG paths) are drawn by the same pen as the writing, via `stroke-dashoffset`, in document order. `data-draw="together"` draws a group's paths in parallel, e.g. a coastline. The sketches come from `src/ink/sketch.ts` and are seeded per page, so a page looks the same every time.
+
+- **Big number.** The number large in ink, a red double underline drawn under it, the source sentence under that.
+- **Timeline.** A drawn line with a red dot per event. Each event shows the year in red and its sentence in ink.
+- **Map.** A coastline sketch with a red ring round the place. With motion it starts wide and moves closer (1.3 s) once drawn; with reduced motion it is the close view straight away. Projected at bake time (`scripts/content/lib/map.ts`): d3-geo azimuthal equal-area, centred on the place, from the Natural Earth 1:50m land mesh (world-atlas). **Coastlines only, no borders**, so no disputed border is ever drawn. The close view is used only if it still contains coastline (open ocean otherwise). There are about 16 KB of paths per map, and only things with a map page carry `maps`. Coordinates are used only when Wikidata's globe is Earth. Current batch: 30 of 180 things have a map page.
+- **Compare.** Hand-drawn bars for the topic's height next to up to two well-known references (Eiffel Tower, Burj Khalifa, Everest, Great Pyramid). Their heights are taken from each language's own Wikipedia article (`content/refs/`, `npm run content:refs`, and range values like "about 25–30 m" are skipped). The composer is deliberately strict:
+  - only the architecture, landscapes and art domains;
+  - a height word in the sentence and the topic's own head word;
+  - no "highest point / summit / average" style wording;
+  - references within a factor of 8.
+  
+  **The current batch has no qualifying day.** That is the honest result: the earlier false positives (Banff's Mount Forbes, Nauru's highest point, Bulgaria's average altitude) are now regression tests. The screenshots use a clearly marked handmade fixture (`e2e/fixtures/compare-thing.handmade.json`, date 2099-01-01, never shipped) composed by the real composer.
+- **Closing.** The last sentence with a small red flourish under it.
+
+Maps, compare sketches and photos are snapped to a whole number of rules (`src/player/ruleSnap.ts`), so the writing after them lands on the lines again.
+
+## Margin note and END (`src/player/AppPages.tsx`)
+
+- **Margin note (evenings only).** "A line for the margin?": one optional line of up to 90 characters, typed on a red pencil line over the rule. "keep it" saves and turns the page, "not today" just turns it. It is stored only in this browser (`localStorage`, `margin.notes.v1`, keyed `lang:date:slot`). Clearing the line and keeping it deletes the note. The Notebook (milestone f) will list the notes.
+- **END.** "That was this morning." / "That was today." with a flourish, then when the next page opens (the evening at 17:00, the next morning at 05:00, in the reader's locale). On a morning whose evening is already open it links straight to the evening. "close the notebook" goes home.
 
 ## Pen-writing reveal (`src/player/writing.ts`)
 
@@ -36,7 +60,8 @@ npx playwright test e2e/player.spec.ts   # player + pace screenshots → e2e/__s
 ## Reduced motion
 
 `prefers-reduced-motion` or the motion setting `off` switches every animation off:
-- **No writing animation.** All text is shown at once.
+- **No writing animation.** All text and all strokes (underlines, timeline, coastlines, bars, flourishes) are shown at once.
+- **No map move.** The map is shown at its close view straight away.
 - **No peel.** The writing on the page fades out, the identical sheets swap invisibly, and the new writing fades in, 200 ms in all. The rules never move, and two pages of text are never on screen together.
 
 ## Images
@@ -58,3 +83,6 @@ Only Chromium is available in the build environment, so these are unverified:
 5. **Reduced motion.** Settings → Accessibility → Motion → Reduce Motion: no writing animation, and the 200 ms fade between pages.
 6. **Tap targets.** The ← → buttons and the pace switch are reachable with a thumb, and a tap on a credit link opens Commons without turning the page.
 7. **Backdrop and blend.** The paper grain uses `mix-blend-mode`, and the tape a semi-transparent fill. Both should look the same as in Chrome.
+8. **Drawn strokes (d).** `stroke-dashoffset` with `vector-effect: non-scaling-stroke` on the underline, timeline and coastlines. Lines should draw smoothly and end fully drawn, with no dashed remains. Also the map's `viewBox` move closer, which is set per frame.
+9. **Margin note keyboard (d).** Tapping the line on an evening's last page should open the keyboard without zooming the page (the input is ≥ 16 px). "done" on the keyboard should keep the note, and the red line should sit on the rule while typing.
+10. **Private browsing (d).** In a private tab, keeping a note must not crash (storage is guarded); the note simply isn't kept.

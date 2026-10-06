@@ -1,0 +1,218 @@
+{
+ "_FIXTURE": "HANDMADE FIXTURE — a made-up \"Glass Tower\" composed by the real extractive composer from invented text, with the real reference objects of content/refs/refs.json (en). Used only by e2e/pages-d.spec.ts to review the compare page; never served by the app.",
+ "schema": 1,
+ "id": "en-2099-01-01-morning",
+ "date": "2099-01-01",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Glass Tower",
+  "qid": "Q1000001",
+  "pageid": 1001,
+  "revid": 2002,
+  "domain": "architecture",
+  "teaser": "Tower"
+ },
+ "sources": [
+  {
+   "title": "Glass Tower",
+   "url": "https://en.wikipedia.org/w/index.php?title=Glass_Tower&oldid=2002",
+   "revid": 2002,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Euplectella aspergillum.jpg",
+   "w": 2000,
+   "h": 1500,
+   "alt": "Glass sponge",
+   "thumb": null,
+   "sha1": "0",
+   "credit": {
+    "author": "Test Author",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Euplectella_aspergillum.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 240,
+   "unit": "metres",
+   "surface": "240 metres"
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1983",
+   "surface": "1983"
+  },
+  "f4": {
+   "kind": "date",
+   "value": "1987",
+   "surface": "1987"
+  },
+  "ref_eiffel": {
+   "kind": "measure",
+   "value": 330,
+   "unit": "metres",
+   "surface": "330 metres",
+   "ref": "eiffel"
+  },
+  "ref_pyramid": {
+   "kind": "measure",
+   "value": 146.6,
+   "unit": "metres",
+   "surface": "146.6 metres",
+   "ref": "pyramid"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Glass Tower",
+    "line": "Tower",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Glass Tower is a tower in a city by the sea."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "240 metres",
+    "caption": "The Glass Tower is 240 metres tall and was finished in 1987."
+   },
+   {
+    "type": "closing",
+    "text": "The tower is lit in blue on winter evenings."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Glass Tower",
+    "line": "Tower",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Glass Tower is a tower in a city by the sea."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Glass Tower"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "240 metres",
+    "caption": "The Glass Tower is 240 metres tall and was finished in 1987."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f3",
+      "label": "Work on the tower began in 1983 and took four years."
+     },
+     {
+      "fact": "f4",
+      "label": "The last floor was set in the spring of 1987."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The builders used steel from a mill near the harbour."
+   },
+   {
+    "type": "closing",
+    "text": "The tower is lit in blue on winter evenings."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Glass Tower",
+    "line": "Tower",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Glass Tower is a tower in a city by the sea."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Glass Tower"
+   },
+   {
+    "type": "compare",
+    "items": [
+     {
+      "label": "the Great Pyramid",
+      "fact": "ref_pyramid"
+     },
+     {
+      "label": "Glass Tower",
+      "fact": "f1"
+     },
+     {
+      "label": "the Eiffel Tower",
+      "fact": "ref_eiffel"
+     }
+    ],
+    "caption": "The Glass Tower is 240 metres tall and was finished in 1987.",
+    "shape": "heights"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f3",
+      "label": "Work on the tower began in 1983 and took four years."
+     },
+     {
+      "fact": "f4",
+      "label": "The last floor was set in the spring of 1987."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The builders used steel from a mill near the harbour."
+   },
+   {
+    "type": "sentence",
+    "text": "Each floor was lifted into place by a crane on the roof."
+   },
+   {
+    "type": "sentence",
+    "text": "Visitors can ride a lift to a terrace near the top."
+   },
+   {
+    "type": "sentence",
+    "text": "On clear days the terrace looks out over the bay and the hills."
+   },
+   {
+    "type": "sentence",
+    "text": "A small museum on the ground floor tells the story of the build."
+   },
+   {
+    "type": "closing",
+    "text": "The tower is lit in blue on winter evenings."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1
+}

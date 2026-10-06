@@ -9,7 +9,7 @@ From the original brief. Each milestone ends with a review by the owner before t
 - **a.** Setup, design tokens, notebook paper, fonts, theme, i18n, wordmark. *Done.*
 - **b.** Content pipeline, extractive composer, 14+ days of JSON. *Done: 30 days × en/de/fr, verified.*
 - **c.** *Done (see [`player.md`](player.md)).* The **image step first**: build-time download from Wikimedia, resize, encode to modern formats, store locally with credits, so visitors never load images from Wikimedia. **Then** the pace calibration page and the player with the first three page types (title, sentence, image), including the pen-writing reveal and the 2D page-turn transition, polished.
-- **d.** The remaining page types (bignumber, timeline, map, compare, closing), the END pages, and the evening flow with the margin-note page.
+- **d.** *Done (see [`player.md`](player.md)).* The remaining page types (bignumber, timeline, map, compare, closing), the END pages, and the evening flow with the margin-note page.
 - **e.** Rabbit Trail.
 - **f.** Notebook and settings (paper, ink, language, pace, motion), plus the entitlements layer (everything unlocked by a flag).
 - **g.** Authoring workflow (prepare / verify / preview) and the first 30-day curated batch in en/de/fr. The curated text replaces the weak extractive openers.

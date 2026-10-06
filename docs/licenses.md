@@ -20,6 +20,10 @@ All fonts are self-hosted. The source files are in `fonts-src/` together with th
 
 The paper grain and fibres are procedural SVG noise (`feTurbulence`) defined inline in `src/theme/tokens.css`. They are original to Margin, contain no third-party assets, and fall under the MIT license.
 
+## Map data
+
+Map pages draw coastlines from **Natural Earth** 1:50m land (naturalearthdata.com), which is **public domain**. They come via the **world-atlas** package (ISC, © Mike Bostock), which converts Natural Earth to TopoJSON. The projection happens at build time (`scripts/content/lib/map.ts`), so only the projected paths are stored in each thing's JSON, and the map page credits "Natural Earth". No country borders are drawn.
+
 ## npm dependencies
 
 The npm dependencies are listed in `package.json`. They are bundled into the site under their own licenses, and a full license report will be generated before the first public release. Runtime dependencies so far:
@@ -30,7 +34,7 @@ The npm dependencies are listed in `package.json`. They are bundled into the sit
 | react-dom | MIT |
 | react-router | MIT |
 
-Build-time only, not shipped to visitors: **sharp** (Apache-2.0), which bundles libvips (LGPL-3.0) for re-encoding images, plus tsx, zod, Vite, Vitest and Playwright.
+Build-time only, not shipped to visitors: **sharp** (Apache-2.0), which bundles libvips (LGPL-3.0) for re-encoding images; **d3-geo** (ISC), **topojson-client** (ISC) and **world-atlas** (ISC, data public domain) for the map bake; plus tsx, zod, Vite, Vitest and Playwright.
 
 ## Wikimedia content
 
