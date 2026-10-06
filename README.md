@@ -4,7 +4,7 @@
 
 Margin is a calm notebook that fills itself twice a day: one real thing in the morning, one small thing in the evening. Then it ends. It has no feed, no streaks, no notifications and no tracking. The content is adapted from Wikipedia (CC BY-SA). The site makes no AI calls and holds no API keys.
 
-> **Status:** early development. Milestone (a) is done: paper, ink, fonts, theme, i18n and the wordmark. Milestone (b) is done: the content pipeline (pool, picker, fetcher with a committed cache, image licensing, extractive composer, verifier). See [`docs/content-pipeline.md`](docs/content-pipeline.md). See [`docs/plan.md`](docs/plan.md) for the full plan and the decisions behind it.
+> **Status:** early development. Milestone (a) is done: paper, ink, fonts, theme, i18n and the wordmark. Milestone (b) is done: the content pipeline (pool, picker, fetcher with a committed cache, image licensing, extractive composer, verifier). See [`docs/content-pipeline.md`](docs/content-pipeline.md). Milestone (c) is done: the image step, the pace calibration page and the player (title, sentence and image pages, pen-writing reveal, page turn). See [`docs/player.md`](docs/player.md). See [`docs/plan.md`](docs/plan.md) for the full plan and the decisions behind it.
 
 ## Develop
 
@@ -17,6 +17,7 @@ npm run shots        # Playwright screenshot matrix → e2e/__shots__/ (390/1440
 npm run fonts:build  # re-subset fonts, regenerate metrics + wordmark outlines (outputs are committed)
 npm run fonts:check  # assert every DE/FR glyph is drawn by our fonts, not a fallback
 npm run content:bake # compose + verify the daily things from the committed queue and packets (no network)
+npm run images:build # download the used Commons images once, encode AVIF/WebP to public/img/ (build output, not committed)
 ```
 
 ## How the paper works

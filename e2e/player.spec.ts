@@ -61,8 +61,10 @@ test('player reduced motion: no writing, crossfade only', async ({ page }) => {
   await expect(page.locator('h1.ink--title')).toBeVisible();
   expect(await page.locator('[data-writing], .leaf[data-unwritten]').count()).toBe(0);
   await page.keyboard.press('ArrowRight');
-  await page.waitForTimeout(100);
-  await page.screenshot({ path: 'e2e/__shots__/player-reduced-crossfade-mobile-light.png' });
+  await page.waitForTimeout(60);
+  await page.screenshot({ path: 'e2e/__shots__/player-reduced-dip-out-mobile-light.png' });
+  await page.waitForTimeout(90);
+  await page.screenshot({ path: 'e2e/__shots__/player-reduced-dip-in-mobile-light.png' });
   await settled(page);
   await expect(page.locator('.leaf')).toHaveCount(1);
 });

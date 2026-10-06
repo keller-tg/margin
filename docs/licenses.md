@@ -30,10 +30,12 @@ The npm dependencies are listed in `package.json`. They are bundled into the sit
 | react-dom | MIT |
 | react-router | MIT |
 
+Build-time only, not shipped to visitors: **sharp** (Apache-2.0), which bundles libvips (LGPL-3.0) for re-encoding images, plus tsx, zod, Vite, Vitest and Playwright.
+
 ## Wikimedia content
 
 - **Text** is adapted from Wikipedia and licensed CC BY-SA 4.0 (`LICENSE-CONTENT`). Each thing names its source article and links the exact revision it was adapted from (`oldid`).
 - **Descriptions** used as title lines come from Wikidata, which is CC0.
 - **Images** come only from Wikimedia Commons, under CC0, Public domain, CC BY or CC BY-SA. Each image carries a credit with the author (or the uploader's own attribution text, verbatim), the license, the license URL for CC licenses, and always a link to the Commons file page. The rules are in [`content-pipeline.md`](content-pipeline.md), and every evaluated file is listed in `content/images/meta.json`.
-- **Modifications.** Images may be cropped, resized, rotated or animated for display. The /about page says so.
+- **Modifications.** Images may be cropped, resized, rotated or animated for display. The /about page says so. `npm run images:build` downloads each image once from upload.wikimedia.org at a standard thumbnail width (or the original if it is small), then re-encodes it to AVIF and WebP at 480/960/1280 px with metadata stripped. It writes the credit for every file to `public/img/manifest.json`. Visitors load images only from Margin's own origin, and the player shows each image's credit under it.
 - **Pipeline cache.** `content/cache/api/` holds verbatim Wikimedia API responses (CC BY-SA text, CC0 Wikidata data, and file metadata). It is committed so that nothing is fetched twice.

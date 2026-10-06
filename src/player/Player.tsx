@@ -2,6 +2,7 @@ import { useCallback, useEffect, useLayoutEffect, useRef, useState, type Pointer
 import { useNavigate } from 'react-router';
 import { usePrefs } from '../app/PrefsContext';
 import type { PaceId, Thing } from '../core/schema/thing';
+import { normalizeTypography } from '../core/typography/typography';
 import { formatMarginDate } from '../i18n/i18n';
 import { Sheet } from '../paper/Sheet';
 import type { PacePref } from '../theme/prefs';
@@ -41,6 +42,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
   const suppressClick = useRef(false);
 
   const key = (i: number) => `${pace}:${i}`;
+  const topicTitle = normalizeTypography(thing.topic.title, thing.lang); // Swiss "ss" for German, as on the pages
   const date = new Date(`${thing.date}T12:00:00`);
 
   // ---- turning pages
@@ -65,9 +67,10 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
   useLayoutEffect(() => {
     if (!turn) return;
     const moving = leafRefs.current.get(turn.dir === 'forward' ? turn.from : turn.to);
+    const under = leafRefs.current.get(turn.dir === 'forward' ? turn.to : turn.from) ?? null;
     if (!moving) return;
     const duration = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--dur-turn')) || 560;
-    turnPage({ moving, shadow: shadow.current, direction: turn.dir, reduced, durationMs: duration }).then(() => {
+    turnPage({ moving, under, shadow: shadow.current, direction: turn.dir, reduced, durationMs: duration }).then(() => {
       setIndex(turn.to);
       setTurn(null);
     });
@@ -159,7 +162,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
     : [{ i: index, z: 1, moving: false }];
 
   return (
-    <main className="player" aria-roledescription="notebook" aria-label={thing.topic.title}>
+    <main className="player" aria-roledescription="notebook" aria-label={topicTitle}>
       <p ref={live} className="visually-hidden" aria-live="polite" />
       <div className="leaves">
         {shown.map(({ i, z, moving }) => {
@@ -175,7 +178,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
               className="leaf"
               style={{ zIndex: z }}
               data-moving={moving || undefined}
-              data-entering={turn && moving && turn.dir === 'back' ? '' : undefined}
+              data-entering={turn && moving && turn.dir === 'back' && !reduced ? '' : undefined}
               data-unwritten={unwritten || undefined}
               tabIndex={-1}
               aria-label={t('player.pageOf', { n: String(i + 1), total: String(pages.length) })}
@@ -221,7 +224,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
                   <p className="ui-line attribution">
                     {t('player.text')} ·{' '}
                     <a href={thing.sources[0]?.url} target="_blank" rel="noopener noreferrer">
-                      {thing.topic.title}
+                      {topicTitle}
                     </a>{' '}
                     · <span className="nowrap">CC BY-SA 4.0</span>
                   </p>

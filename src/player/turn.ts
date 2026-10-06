@@ -26,16 +26,9 @@ const frames = (from: number, to: number) =>
  * Animate a turn. `moving` is the leaf on top that peels away (forward) or lays down (back);
  * `shadow` is an absolutely positioned strip above both leaves that follows the fold.
  */
-export function turnPage(opts: { moving: HTMLElement; shadow: HTMLElement | null; direction: TurnDirection; reduced: boolean; durationMs: number }): Promise<void> {
-  const { moving, shadow, direction, reduced, durationMs } = opts;
-  if (reduced) {
-    const a = moving.animate(direction === 'forward' ? [{ opacity: 1 }, { opacity: 0 }] : [{ opacity: 0 }, { opacity: 1 }], {
-      duration: 200,
-      easing: 'ease-out',
-      fill: 'forwards',
-    });
-    return a.finished.then(() => undefined, () => undefined);
-  }
+export function turnPage(opts: { moving: HTMLElement; under: HTMLElement | null; shadow: HTMLElement | null; direction: TurnDirection; reduced: boolean; durationMs: number }): Promise<void> {
+  const { moving, under, shadow, direction, reduced, durationMs } = opts;
+  if (reduced) return dip(direction === 'forward' ? moving : under, direction === 'forward' ? under : moving);
   const easing = 'cubic-bezier(0.32, 0.02, 0.24, 1)';
   const [from, to] = direction === 'forward' ? [1, 0] : [0, 1];
   const a = moving.animate(
@@ -58,4 +51,26 @@ export function turnPage(opts: { moving: HTMLElement; shadow: HTMLElement | null
     );
   }
   return a.finished.then(() => undefined, () => undefined);
+}
+
+/**
+ * Reduced motion: the writing fades out, the (identical) sheets swap invisibly, the new writing fades in.
+ * 200 ms in all; the paper and its rules never move and two pages of text are never on screen at once.
+ */
+async function dip(outgoing: HTMLElement | null, incoming: HTMLElement | null): Promise<void> {
+  const ink = (leaf: HTMLElement | null) => (leaf ? [...leaf.querySelectorAll<HTMLElement>('.column, .margin-notes')] : []);
+  const half = { duration: 100, easing: 'linear', fill: 'forwards' as const };
+  if (incoming) {
+    incoming.style.opacity = '0';
+    for (const el of ink(incoming)) el.style.opacity = '0';
+  }
+  await Promise.all(ink(outgoing).map((el) => el.animate([{ opacity: 1 }, { opacity: 0 }], half).finished.catch(() => undefined)));
+  if (outgoing) outgoing.style.opacity = '0';
+  if (incoming) incoming.style.opacity = '';
+  await Promise.all(
+    ink(incoming).map((el) => {
+      el.style.opacity = '';
+      return el.animate([{ opacity: 0 }, { opacity: 1 }], half).finished.catch(() => undefined);
+    }),
+  );
 }
