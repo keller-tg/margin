@@ -1,0 +1,2782 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-31",
+ "slot": "morning",
+ "lang": "de",
+ "topic": {
+  "title": "Joseph Priestley",
+  "qid": "Q159636",
+  "pageid": 72456,
+  "revid": 269874942,
+  "domain": "people-science",
+  "url": "https://de.wikipedia.org/w/index.php?title=Joseph_Priestley&oldid=269874942"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "englisch-US-amerikanischer Theologe, Philosoph, Chemiker und Physiker",
+  "lead": "Joseph Priestley (* 13. Märzjul. / 24. März 1733greg. in Fieldhead/Birstall bei Leeds, England; † 25. Januarjul. / 6. Februar 1804greg. in Northumberland, Pennsylvania) war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker, der 1794 in die Vereinigten Staaten auswanderte.\nPriestley beschrieb 1774 erstmals die Darstellung und Wirkung des von ihm entdeckten Sauerstoffs und 1772 des von ihm entdeckten Lachgases. Er entdeckte Darstellungsmöglichkeiten für zahlreiche weitere Gase: Stickstoffdioxid, Kohlenstoffmonoxid, Chlorwasserstoff, Ammoniak, Schwefelwasserstoff, Schwefeldioxid, Siliziumtetrafluorid. Priestley blieb bis an sein Lebensende Verfechter der Phlogiston-Theorie.",
+  "sections": [
+   {
+    "heading": "Leben",
+    "text": "Priestley war Sohn des Tuchmachers Jonas Priestley (1699–1779) und dessen erster Ehefrau Mary Swift. Seine Mutter starb schon 1739, er wurde von seiner Tante, Sarah Keighley, adoptiert. Priestley wurde meist zu Hause unterrichtet und begann mit 19 Jahren an einer Nonkonformisten-Schule in Daventry Theologie und alte Sprachen zu studieren. Sein Denken entwickelte sich vom Calvinismus zum Unitarismus.\nAb 1755 war er Prediger in einer nonkonformistischen Gemeinde in Needham Market (Suffolk). 1758 übernahm Priestley eine zweite Pfarrerstelle in Nantwich und begann schon mit physikalischen Experimenten (Induktionsmaschine, Luftpumpe).\nVon 1761 an war er als Lehrer an der Warrington Academy in Lancashire, einer privaten Handelsschule, tätig. Ein Jahr später erhielt er die Priesterweihe und heiratete am 23. Juni 1762 die aus Wrexham stammende Mary Wilkinson (1742–1796). Sie war die Tochter des Industriellen Isaac Wilkinson (1695–1784) der zusammen mit John Guest im Jahre 1763 in Wales die „Plymouth Ironworks“ gründete.\n1761 erschien sein Lehrbuch der englischen Sprache (Rudiments of English Grammar), das für Jahrzehnte in Gebrauch bleiben sollte. In den folgenden Jahren verfasste er die Theory of Language and Universal Grammar (1762), Essay on a Course of Liberal Education for Civil and Active Life (1765), und Lectures on History and General Policy (1765, 1788). Mit diesen Schriften förderte er, ganz im Gegensatz zu den damals üblichen Lehrplänen, praktische Bildung seiner Studenten und machte die Warrington Academy zu einer Ausbildungsstätte mit besonders gutem Ruf.\nVon 1763 an nahm er an Chemie-Kursen teil, ab 1765 verbrachte er regelmäßig einige Wochen in London, wo er mit führenden Wissenschaftlern zusammentraf. So auch mit Benjamin Franklin, der ihn zu elektrischen Experimenten ermutigte.\n1767 erschien sein Buch The history and present state of electricity, with original experiments. Im folgenden Jahr wurde er Priester der Mill Hill Chapel in Leeds (Yorkshire). In dieser Zeit entwickelte sich sein Interesse an Chemie, speziell der Erforschung der Gase und der Optik. Er verfasste das Buch The History and Present State of Discoveries Relating to Vision, Light, and Colours.\n1772 wurde er von William Petty, 2. Earl of Shelburne, auf dessen Familiensitz Bowood House als Bibliothekar und Privatlehrer angestellt; diese Stelle behielt er bis 1780. Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786). Seine fortschrittlichen theologischen Ansichten hatten ihm schon in Needham Market Kritik eingetragen. Er näherte sich zunehmend anti-trinitarischen Positionen an und begründete im Jahr 1774 schließlich zusammen mit Theophilus Lindsey in der Essex Street Chapel die erste unitarische Gemeinde Londons. Er wird daher heute als einer der Mitbegründer des britischen Unitarismus angesehen. Seine Hinwendung zum radikal-reformatorischen Unitarismus führte unter anderem dazu, dass eine Einladung, als Astronom an James Cooks zweiter Expedition teilzunehmen, zurückgezogen wurde. Priestley blieb zeitlebens Unitarier und förderte den Bau unitarischer Kirchen in sowohl England als auch in Nordamerika.\nUm 1780 kam es zu einem Streit mit Shelburne, so dass er nach Birmingham zog. In Birmingham wurde Priestley Mitglied der Lunar Society. Wegen seines Eintretens für die Französische Revolution und mehrerer anderer schon lange anhaltender Konflikte um seine Person und die Dissenter kam es 1791 zu den vier Tage anhaltenden Birmingham Riots. Priestley verlor dabei sein Haus mit Labor, Bibliothek und zahlreichen unveröffentlichten Manuskripten.\nEr zog nach Hackney (Middlesex).\nIm Jahr 1794 wanderte er in die Vereinigten Staaten aus, wo er als Wissenschaftler sowie als glühender Verteidiger religiöser und politischer Freiheit willkommen geheißen wurde. In Pennsylvania wurde ihm ein Lehrstuhl in Chemie angeboten, den er jedoch ablehnte; er wollte stattdessen als unitarischer Prediger tätig sein. Zu seinen engen Freunden zählten John Adams und Thomas Jefferson. Den Rest seines Lebens verbrachte er als Schriftsteller in Pennsylvania und starb dort, nachdem sein Gesundheitszustand sich seit 1801 verschlechtert hatte, Anfang 1804 im Alter von 70 Jahren."
+   },
+   {
+    "heading": "Entdeckungen",
+    "text": "Am 1. August 1774 führte Priestley ein Experiment durch, bei dem er zum ersten Mal Sauerstoff darstellte. Beim Erhitzen von Quecksilber(II)-oxid erhielt er reines Quecksilber und ein farbloses Gas, das Verbrennungsvorgänge stark fördert. Dieses Gas war in Wasser unlöslich, wurde es aber zusammen mit Stickoxid-Luft vereinigt, trat eine bedeutsame Gasverminderung – stärker als bei reiner Luft – in Verbindung mit Wasser auf. Er erkannte jedoch nicht, dass er ein bis dahin unbekanntes Element entdeckt hatte; vielmehr nannte er sein Gas „dephlogisticated air“. Später entdeckte er auch die Gewinnung von „dephlogisticated air“ durch Erhitzen von Salpeter (1779).\nDer Däne Ole Borch hatte bereits 1674 von einer Gasentwicklung beim Erhitzen von Salpeter berichtet, er hatte das Gas jedoch nicht isoliert und untersucht. Sauerstoff war von dem Apotheker Carl Wilhelm Scheele mindestens ein Jahr vor Priestley dargestellt worden, doch erschien Scheeles Bericht erst 1777. Der Pariser Chemiker und Pharmazeut Pierre Bayen hatte wie Antoine Laurent de Lavoisier bereits im Februar und April 1774 Versuche veröffentlicht, die auf eine Gewichtszunahme von Metallen durch ein Gas aus der Luft deuteten. Bayen konnte zeigen, dass das Gas in Wasser löslich und schwerer als Luft ist. Ferner konnte er zeigen, dass reines Quecksilber in diesem Gas wieder zu Quecksilberoxid wird. Bayen hat das entstandene Gas jedoch chemisch nicht untersucht und gilt daher nicht als Entdecker des Sauerstoffs. Die Identifizierung als neues Element erfolgte durch Lavoisier, der die Experimente von Priestley und Bayen kannte.\nLavoisier lud Lord Shelburne und Priestley im Oktober nach Paris ein, um sich über die gemachten Entdeckungen auszutauschen. Die Erkenntnis, dass dieses neue Gas in der Luft, das die Verbrennung fördert, ein einzelner Stoff, ein chemisches Element ist, machte Lavoisier nach Wiederholung der Experimente von Bayen und Priestley in einem Vortrag am 26. April 1776 publik. In einem späteren Buch schrieb Lavoisier, dass Priestley und Scheele fast zur gleichen Zeit wie er den Sauerstoff entdeckt hätten. Priestley schrieb später, dass er den Sauerstoff entdeckt, aber dem entdeckten Stoff noch keinen Namen gegeben habe.\nIm 18. Jahrhundert war bekannt, dass Tiere nicht in verschlossenen Glasbehältern überleben konnten. Priestley stellte fest, dass Pflanzen gut in abgeschlossenen Glasbehältern überleben konnten. Priestley untersuchte ab 1779 mit dem Holländer Jan Ingenhousz die Gasbildung in Abhängigkeit von den Lichtverhältnissen (Photosynthese). Er stellte auch Versuche mit dem entstandenen Gas an. Eine Maus überlebte in dieser geschlossenen Gas-Atmosphäre und eine brennende Kerze verlosch nicht. Er atmete das Gas auch selbst ein und fühlte dabei eine Besserung im Brustraum. Priestley erkannte die Gefahr der Atmung von sehr vielen Lebewesen auf der Erde und den Nutzen der Pflanzen: „Der Schaden, der der Atmosphäre ständig durch die Atmung einer solch großen Zahl von Lebewesen […] und durch die Verwesung pflanzlicher und tierischer Stoffen zugefügt wird, wird, zumindest teilweise, durch das Pflanzenwachstum wiedergutgemacht“.\nWährend der sechs Jahre in Leeds stellte er vier gasförmige Verbindungen her: die Stickstoffoxide, die er „nitrous air“, „red nitrous vapor“, „diminished nitrous air“ (Distickstoffmonoxid) und „marine acid air“ (Chlorwasserstoff) nannte.\nBereits 1727 hatte Stephen Hales das Stickstoffoxyd dargestellt. Priestley konnte aber nachweisen, dass sich Luft zu 20–25 % in Stickstoffoxyd umwandeln lässt, da das Stickstoffoxyd aus der Luft durch Kalklösung absorbiert werden kann. Das übrig gebliebene Gas (Luft-Stickstoff) war weder zur Verbrennung noch zur Atmung geeignet.\nPriestley entwickelte ausgeklügelte Geräte, besonders eine erheblich verbesserte Falle, mit der auch wasserlösliche Gase isoliert werden konnten. Priestley wandte bei seinen Untersuchungen besondere Sorgfalt an. So erhitzte er etwa bei seinem berühmten Sauerstoff-Versuch das Quecksilberoxid nicht mit einer Flamme, sondern mittels eines Brennglases. So vermied er Kontamination mit Abgasen.\nNeben den oben genannten Gasen stellte er Ammoniak, Stickstoffdioxid, Schwefeldioxid, Kohlenmonoxid, Schwefelwasserstoff, Siliziumtetrafluorid her und erzeugte künstliche Mineralwässer mit den Gasen.\nEr beobachtete, dass sich ein feuchter Niederschlag bildet, wenn Knallgas explodiert, identifizierte das aber noch nicht mit Wasser (das taten erst Henry Cavendish als er von Priestleys Experiment hörte, und Lavoisier). Damals vertrat er mit Cavendish die Ansicht, Wasserstoff (entflammbare Luft nach Cavendish) wäre das lang gesuchte Phlogiston. 1782 fand er eine weitere vermeintliche Bestätigung dafür: er leitete Wasserstoff über Metallkalke (Metalloxide) und konnte diese wieder zu Metallen reduzieren, wobei der Wasserstoff aus der Luft verschwand. Er glaubte, dies sei durch die Aufnahme des Phlogistons in die Metalle aus der Luft geschehen.\n1799 untersuchte er das seit 1669 als gaz oléfiant bekannte Ethen."
+   },
+   {
+    "heading": "Ehrungen",
+    "text": "Im Jahr 1764 erhielt Priestley von der University of Edinburgh den Titel eines Doktors der Rechte (LL.D.).\nAm 12. Juni 1766 wurde Priestley als Mitglied („Fellow“) in die Royal Society gewählt, die ihm 1772 die Copley-Medaille verlieh. 1782 wurde er Mitglied der American Academy of Arts and Sciences, 1783 der Accademia delle Scienze di Torino, 1785 der American Philosophical Society. und 1786 der Accademia Nazionale delle Scienze.\nDer Mondkrater Priestley sowie der Marskrater Priestley sind nach ihm benannt."
+   },
+   {
+    "heading": "Schriften (Auswahl)",
+    "text": "Bücher\nThe scripture doctrine of remission. Which sheweth that the death of Christ is no proper sacrifice nor satisfaction for sin: but that pardon is dispensed solely on account of repentance, or a personal reformation of the sinner. London 1761 (Digitalisat).\nThe rudiments of English grammar; adapted to the use of schools. With observations on style. London 1761 (Digitalisat).\n3. Auflage, London 1772 (Digitalisat).\n4. Auflage, Dublin 1784 (Digitalisat).\nA course of lectures on the theory of language, and universal grammar. Warrington 1762 (Digitalisat).\nA description of a chart of biography; with a catalogue of all the names inserted in it, and the dates annexed to them. London 1765.\n2. Auflage, London 1765 (Digitalisat).\n6., verbesserte Auflage, London 1777 (Digitalisat).\nNeue, verbesserte Auflage, London 1790 (Digitalisat).\nAn essay on a course of liberal education for civil and active life. London 1765 (Digitalisat).\nThe history and present state of electricity, with original experiments. London 1767 (Digitalisat).\n2., korrigierte und erweiterte Auflage, London 1769 (Digitalisat).\n3., korrigierte und erweiterte Auflage, 2 Bände, London 1775 (Band 1, Band 2).\n4., korrigierte und erweiterte Auflage, London 1775 (Digitalisat).\n5., korrigierte Auflage, London 1794.\nGeschichte und gegenwärtiger Zustand der Elektrizität nebst eigenthümlichen Versuchen. Gottlieb August Lange, Berlin / Stralsund 1772 (Digitalisat) – übersetzt von Johann Georg Krünitz.\nHistoire de l’électricité […] avec des notes critiques. 3 Bände, Paris 1771 (Band 1, Band 2, Band 3).\nA familiar introduction to the study of electricity. London 1768 (Digitalisat).\n2. Auflage, London 1769 (Digitalisat).\n3. Auflage, London 1777 (Digitalisat).\nAn essay on the first principles of government; and on the nature of political, civil, and religious liberty. Dublin 1768 (Digitalisat).\nA description of a new chart of history. London 1769 (nur Diagramm).\n2., korrigierte Auflage, London 1770 (Digitalisat).\n4. Auflage, London 1777 (Digitalisat).\n8., korrigierte Auflage, London 1793 (Digitalisat).\n15., korrigierte Auflage, London 1816 (Digitalisat).\nThe present state of liberty in Great Britain and her colonies. 1769 – anonym.\nNeue, korrigierte Auflage, London 1769 (Digitalisat).\nA familiar introduction to the theory and practice of perspective. London 1770 (Digitalisat).\nAn appeal to the serious and candid professors of Christianity. London 1770.\nNeuauflage, 1791.\nNeuauflage, London 1827 (Digitalisat).\nA familiar illustration of certain passages of Scripture. London 1772 (Digitalisat).\nNeuauflage, London 1812 (Digitalisat).\nHistory and present state of discoveries relating to vision, light, and colours. London 1772 (Digitalisat, Prospectus).\nGeschichte und gegenwärtiger Zustand der Optik, vorzüglich in Absicht auf den physikalischen Theil dieser Wissenschaft. 2 Teile, Junius, Leipzig 1775–1776 (Teil 1, Teil 2) – übersetzt von Georg Simon Klügel.\nDirections for impregnating water with fixed air; in order to communicate to it the peculiar spirit and virtues of Pyrmont water, and other mineral waters of a similar nature. London 1772 (Digitalisat).\nManiere d’impregner l’eau d’air fixe […]. Paris 1772 (Digitalisat) – übersetzt von François Rozier.\nAnweisung wie man das Wasser mit einer fixen Luft schwängern soll […]. In: Auserlesene kleine Werke dreyer berühmter englischer Chymisten, Herrn Priestley, Henry und Black, Die Schwängerung des gemeinen Wassers mit fixer Luft, die Magnesia und Kalkerde, die fäulungswidrige Kraft gewisser Arztneyen und andre erhebliche Gegenstände betreffend. Kopenhagen / Leipzig 1774, S. 9–28 (Digitalisat).\nInstitutes of natural and revealed religion. 3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).\n2. Auflage, 2 Bände, Birmingham 1782 (Band 1, Band 2).\n3. Auflage, 2 Bände, London 1794 (Band 1, Band 2).\nAn examination of Dr. Reid’s inquiry into the human mind on the principles of common sense, Dr. Beattie’s essay on the nature and immutability of truth, and Dr. Oswald’s appeal to common sense in behalf of religion. London 1774.\n2. Auflage, London 1775 (Digitalisat).\nAn address to Protestant dissenters of all denominations, on the approaching election of members of Parliament, with respect to the state of public liberty in general, and of American affairs in particular. London 1774 (Volltext, Digitalisat).\nExperiments and observations on different kinds of air. 3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).\n2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).\nNeuausgabe Band 2, London 1784 (Band 2).\n3. Auflage, 1 Band, London 1781 (Digitalisat).\nHartley’s theory of the human mind, on the principle of the association of ideas; with essays relating to the subject of it. London 1775 (Digitalisat).\nA course of lectures on oratory and criticism. London 1777 (Digitalisat).\nDisquisitions relating to matter and spirit. To which is added, the history of the philosophical doctrine concerning the origin of the soul, and the nature of matter; with its influence on Christianity, especially with respect to the doctrine of the pre-existence of Christ. London 1777 (Digitalisat).\nThe doctrine of philosophical necessity illustrated […]. London 1777 (Digitalisat).\n2., erweiterte Auflage, Birmingham 1782 (Digitalisat).\nA free discussion of the doctrines of materialism, and philosophical necessity, in a correspondence between Dr. Price and Dr. Priestley […]. London 1778 (Digitalisat).\nMiscellaneous observations relating to education. More especially as it respects the conduct of the mind. Bath 1778 (Digitalisat).\n2. Auflage, Birmingham 1788 (Digitalisat).\nExperiments and observations relating to various branches of natural philosophy; with a continuation of the observations on air. 3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).\nLetters to a philosophical unbeliever. Bath 1780 (Teil 1, Teil 2).\n2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).\nBriefe an einen philosophischen Zweifler in Beziehung auf Hume’s Gespräche, das System der Natur, und ähnliche Schriften. Weygand, Leipzig 1782 (Digitalisat).\nAdditional letters to a philosophical unbeliever, in answer to Mr. William Hammon. Birmingham 1782 (Digitalisat).\nA history of the corruptions of Christianity. 2 Bände, 1782 (Band 1, Band 2).\nAn history of early opinions concerning Jesus Christ, compiled from original writers; proving that the Christian church was at first Unitarian. 4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).\nLectures on history, and general policy; to which is prefixed, an essay on a course of liberal education for civil and active life. 1788 (Digitalisat (Dublin), Digitalisat (Birmingham)).\nThe conduct to be observed by Dissenters in order to procure the repeal of the Corporation and Test Acts, recommended in a sermon, preached before the congregations of the old and new meetings, at Birmingham, November 5, 1789. Birmingham 1789 (Digitalisat).\nA general history of the Christian church, from the fall of the western empire to the present time. 2 Bände, Birmingham 1790 (Band 1, Band 2).\nA general history of the Christian church, from the fall of the western empire to the present time. 4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).\nLetters to the Rev. Edward Burn of St. Mary’s chapel, Birmingham, in answer to his, on the infallibility of the apostolic testimony, concerning the person of Christ. 1790 (Digitalisat).\n3., korrigierte Auflage, Birmngham 1791 (Digitalisat).\nExperiments and observations on different kinds of air, and other branches of natural philosophy connected with the subject. 3 Bände, Birmingham 1790 (Band 1, Band 2, Band 3).\nAn appeal to the public, on the subject of the riots in Birmingham. Birmingham 1791 (Digitalisat).\nAn appeal to the public, on the subject of the riots in Birmingham, part II. To which is added, a letter from W. Russell […] to the author. London 1792 (Digitalisat).\nHeads of lecture on a course of experimental philosophy, particularly including chemistry, delivered at the New College in Hackney. London 1794 (Digitalisat).\nSocrates and Jesus compared. Philadelphia 1803 (Digitalisat).\nIndex to the Bible […]. Philadelphia 1804 (Digitalisat).\nThe doctrines of heathen philosophy, compared with those of revelation. Northumberland 1804 (Digitalisat).\nZeitschriftenbeiträge\nAn account of rings consisting of all the prismatic colours, made by electrical explosions on the surface of pieces of metal. In: Philosophical Transactions. Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).\nExperiments on the lateral force of electrical explosions. In: Philosophical Transactions. Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).\nVarious experiments on the force of electrical explosions. In: Philosophical Transactions. Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).\nAn investigation of the lateral explosion, and of the electricity communicated to the electrical circuit, in a discharge. In: Philosophical Transactions. Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).\nExperiments and observations on charcoal. In: Philosophical Transactions. Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).\nObservations on different kinds of air. In: Philosophical Transactions. Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).\nAn account of a new electrometer, contrived by Mr. William Henly, and of several electrical experiments, made by him, in a letter […] to Dr. Franklin, F. R. S. In: Philosophical Transactions. Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).\nOn the noxious quality of the effluvia of putrid marshes. A letter […] to Sir John Pringle. In: Philosophical Transactions. Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).\nAn account of further discoveries in air […] in letter to Sir John Pringle, Bart. P.R.S. and the Rev. Dr. Price, F.R.S. In: Philosophical Transactions. Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).\nObservations on respiration, and the use of the blood. In: Philosophical Transactions of the Royal Society. Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).\nExperiments relating to phlogiston, and the seeming conversion of water into air. In: Philosophical Transactions of the Royal Society. Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).\nExperiments and observations relating to air and water. In: Philosophical Transactions of the Royal Society. Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).\nExperiments and observations relating to the principle of acidity, the composition of water, and phlogiston. In: Philosophical Transactions of the Royal Society. Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).\nAdditional experiments and observations relating to the principle of acidity, the decomposition of water, and phlogiston […] With Letters to him on the subject, by Dr. Withering, and James Keir, Esq. In: Philosophical Transactions of the Royal Society. Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).\nObjections to the experiments and observations relating to the principle of acidity, the composition of water, and phlogiston, considered; with farther experiments and observations on the same subject. In: Philosophical Transactions of the Royal Society. Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).\nExperiments on the phlogistication of spirit of nitre. In: Philosophical Transactions of the Royal Society. Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).\nExperiments on the transmission of the vapour of acids through an hot earthen tube, and further observations relating to phlogiston. In: Philosophical Transactions of the Royal Society. Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).\nObservations on respiration. In: Philosophical Transactions of the Royal Society. Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).\nFarther experiments relating to the decomposition of dephlogisticated and inflammable air. In: Philosophical Transactions of the Royal Society. Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).\nAls Herausgeber\nTheological Repository. 1770–1773 und 1784–1788.\nGesammelte Schriften\nJohn Towill Rutt (Hrsg.) The theological and miscellaneous works of Joseph Priestley. 25 Bände, G. Smallfield, London 1817–1832 (Digitalisate).\nBriefe\nJohn Towill Rutt (Hrsg.): Life and correspondence of Joseph Priestley. 2 Bände, Hunter, London 1831 (Band 1, Band 2)."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "Joseph Priestley (* 13. Märzjul. / 24. März 1733greg. in Fieldhead/Birstall bei Leeds, England; † 25. Januarjul. / 6. Februar 1804greg. in Northumberland, Pennsylvania) war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker, der 1794 in die Vereinigten Staaten auswanderte."
+  },
+  "f2": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "Joseph Priestley (* 13. Märzjul. / 24. März 1733greg. in Fieldhead/Birstall bei Leeds, England; † 25. Januarjul. / 6. Februar 1804greg. in Northumberland, Pennsylvania) war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker, der 1794 in die Vereinigten Staaten auswanderte."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 25,
+   "surface": "25",
+   "sentence": "Joseph Priestley (* 13. Märzjul. / 24. März 1733greg. in Fieldhead/Birstall bei Leeds, England; † 25. Januarjul. / 6. Februar 1804greg. in Northumberland, Pennsylvania) war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker, der 1794 in die Vereinigten Staaten auswanderte."
+  },
+  "f4": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "Joseph Priestley (* 13. Märzjul. / 24. März 1733greg. in Fieldhead/Birstall bei Leeds, England; † 25. Januarjul. / 6. Februar 1804greg. in Northumberland, Pennsylvania) war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker, der 1794 in die Vereinigten Staaten auswanderte."
+  },
+  "f5": {
+   "kind": "date",
+   "value": "1794",
+   "surface": "1794",
+   "sentence": "Joseph Priestley (* 13. Märzjul. / 24. März 1733greg. in Fieldhead/Birstall bei Leeds, England; † 25. Januarjul. / 6. Februar 1804greg. in Northumberland, Pennsylvania) war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker, der 1794 in die Vereinigten Staaten auswanderte."
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Priestley beschrieb 1774 erstmals die Darstellung und Wirkung des von ihm entdeckten Sauerstoffs und 1772 des von ihm entdeckten Lachgases."
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "Priestley beschrieb 1774 erstmals die Darstellung und Wirkung des von ihm entdeckten Sauerstoffs und 1772 des von ihm entdeckten Lachgases."
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1699",
+   "surface": "1699",
+   "sentence": "Priestley war Sohn des Tuchmachers Jonas Priestley (1699–1779) und dessen erster Ehefrau Mary Swift.",
+   "section": "Leben"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1779",
+   "surface": "1779",
+   "sentence": "Priestley war Sohn des Tuchmachers Jonas Priestley (1699–1779) und dessen erster Ehefrau Mary Swift.",
+   "section": "Leben"
+  },
+  "f10": {
+   "kind": "date",
+   "value": "1739",
+   "surface": "1739",
+   "sentence": "Seine Mutter starb schon 1739, er wurde von seiner Tante, Sarah Keighley, adoptiert.",
+   "section": "Leben"
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 19,
+   "unit": "jahren",
+   "surface": "19 Jahren",
+   "sentence": "Priestley wurde meist zu Hause unterrichtet und begann mit 19 Jahren an einer Nonkonformisten-Schule in Daventry Theologie und alte Sprachen zu studieren.",
+   "section": "Leben"
+  },
+  "f12": {
+   "kind": "date",
+   "value": "1755",
+   "surface": "1755",
+   "sentence": "Ab 1755 war er Prediger in einer nonkonformistischen Gemeinde in Needham Market (Suffolk).",
+   "section": "Leben"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1758",
+   "surface": "1758",
+   "sentence": "1758 übernahm Priestley eine zweite Pfarrerstelle in Nantwich und begann schon mit physikalischen Experimenten (Induktionsmaschine, Luftpumpe).",
+   "section": "Leben"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1761",
+   "surface": "1761",
+   "sentence": "Von 1761 an war er als Lehrer an der Warrington Academy in Lancashire, einer privaten Handelsschule, tätig.",
+   "section": "Leben"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 23,
+   "surface": "23",
+   "sentence": "Ein Jahr später erhielt er die Priesterweihe und heiratete am 23. Juni 1762 die aus Wrexham stammende Mary Wilkinson (1742–1796).",
+   "section": "Leben"
+  },
+  "f16": {
+   "kind": "date",
+   "value": "1762",
+   "surface": "1762",
+   "sentence": "Ein Jahr später erhielt er die Priesterweihe und heiratete am 23. Juni 1762 die aus Wrexham stammende Mary Wilkinson (1742–1796).",
+   "section": "Leben"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1742",
+   "surface": "1742",
+   "sentence": "Ein Jahr später erhielt er die Priesterweihe und heiratete am 23. Juni 1762 die aus Wrexham stammende Mary Wilkinson (1742–1796).",
+   "section": "Leben"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1796",
+   "surface": "1796",
+   "sentence": "Ein Jahr später erhielt er die Priesterweihe und heiratete am 23. Juni 1762 die aus Wrexham stammende Mary Wilkinson (1742–1796).",
+   "section": "Leben"
+  },
+  "f19": {
+   "kind": "date",
+   "value": "1695",
+   "surface": "1695",
+   "sentence": "Sie war die Tochter des Industriellen Isaac Wilkinson (1695–1784) der zusammen mit John Guest im Jahre 1763 in Wales die „Plymouth Ironworks“ gründete.",
+   "section": "Leben"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1784",
+   "surface": "1784",
+   "sentence": "Sie war die Tochter des Industriellen Isaac Wilkinson (1695–1784) der zusammen mit John Guest im Jahre 1763 in Wales die „Plymouth Ironworks“ gründete.",
+   "section": "Leben"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1763",
+   "surface": "1763",
+   "sentence": "Sie war die Tochter des Industriellen Isaac Wilkinson (1695–1784) der zusammen mit John Guest im Jahre 1763 in Wales die „Plymouth Ironworks“ gründete.",
+   "section": "Leben"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1761",
+   "surface": "1761",
+   "sentence": "1761 erschien sein Lehrbuch der englischen Sprache (Rudiments of English Grammar), das für Jahrzehnte in Gebrauch bleiben sollte.",
+   "section": "Leben"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1762",
+   "surface": "1762",
+   "sentence": "In den folgenden Jahren verfasste er die Theory of Language and Universal Grammar (1762), Essay on a Course of Liberal Education for Civil and Active Life (1765), und Lectures on History and General Policy (1765, 1788).",
+   "section": "Leben"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1765",
+   "surface": "1765",
+   "sentence": "In den folgenden Jahren verfasste er die Theory of Language and Universal Grammar (1762), Essay on a Course of Liberal Education for Civil and Active Life (1765), und Lectures on History and General Policy (1765, 1788).",
+   "section": "Leben"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1765",
+   "surface": "1765",
+   "sentence": "In den folgenden Jahren verfasste er die Theory of Language and Universal Grammar (1762), Essay on a Course of Liberal Education for Civil and Active Life (1765), und Lectures on History and General Policy (1765, 1788).",
+   "section": "Leben"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788",
+   "sentence": "In den folgenden Jahren verfasste er die Theory of Language and Universal Grammar (1762), Essay on a Course of Liberal Education for Civil and Active Life (1765), und Lectures on History and General Policy (1765, 1788).",
+   "section": "Leben"
+  },
+  "f27": {
+   "kind": "date",
+   "value": "1763",
+   "surface": "1763",
+   "sentence": "Von 1763 an nahm er an Chemie-Kursen teil, ab 1765 verbrachte er regelmäßig einige Wochen in London, wo er mit führenden Wissenschaftlern zusammentraf.",
+   "section": "Leben"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1765",
+   "surface": "1765",
+   "sentence": "Von 1763 an nahm er an Chemie-Kursen teil, ab 1765 verbrachte er regelmäßig einige Wochen in London, wo er mit führenden Wissenschaftlern zusammentraf.",
+   "section": "Leben"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1767",
+   "surface": "1767",
+   "sentence": "1767 erschien sein Buch The history and present state of electricity, with original experiments.",
+   "section": "Leben"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "1772 wurde er von William Petty, 2. Earl of Shelburne, auf dessen Familiensitz Bowood House als Bibliothekar und Privatlehrer angestellt; diese Stelle behielt er bis 1780.",
+   "section": "Leben"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "1772 wurde er von William Petty, 2. Earl of Shelburne, auf dessen Familiensitz Bowood House als Bibliothekar und Privatlehrer angestellt; diese Stelle behielt er bis 1780.",
+   "section": "Leben"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1780",
+   "surface": "1780",
+   "sentence": "1772 wurde er von William Petty, 2. Earl of Shelburne, auf dessen Familiensitz Bowood House als Bibliothekar und Privatlehrer angestellt; diese Stelle behielt er bis 1780.",
+   "section": "Leben"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786).",
+   "section": "Leben"
+  },
+  "f34": {
+   "kind": "date",
+   "value": "1786",
+   "surface": "1786",
+   "sentence": "Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786).",
+   "section": "Leben"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786).",
+   "section": "Leben"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786).",
+   "section": "Leben"
+  },
+  "f37": {
+   "kind": "date",
+   "value": "1779",
+   "surface": "1779",
+   "sentence": "Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786).",
+   "section": "Leben"
+  },
+  "f38": {
+   "kind": "date",
+   "value": "1786",
+   "surface": "1786",
+   "sentence": "Zwischen 1774 und 1786 verfasste er die insgesamt sechs Bände von Experiments and observations on different kinds of air (1774–1777) und der Fortsetzung Experiments and observations relating to various branches of natural philosophy (1779–1786).",
+   "section": "Leben"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Er näherte sich zunehmend anti-trinitarischen Positionen an und begründete im Jahr 1774 schließlich zusammen mit Theophilus Lindsey in der Essex Street Chapel die erste unitarische Gemeinde Londons.",
+   "section": "Leben"
+  },
+  "f40": {
+   "kind": "date",
+   "value": "1780",
+   "surface": "1780",
+   "sentence": "Um 1780 kam es zu einem Streit mit Shelburne, so dass er nach Birmingham zog.",
+   "section": "Leben"
+  },
+  "f41": {
+   "kind": "date",
+   "value": "1791",
+   "surface": "1791",
+   "sentence": "Wegen seines Eintretens für die Französische Revolution und mehrerer anderer schon lange anhaltender Konflikte um seine Person und die Dissenter kam es 1791 zu den vier Tage anhaltenden Birmingham Riots.",
+   "section": "Leben"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1794",
+   "surface": "1794",
+   "sentence": "Im Jahr 1794 wanderte er in die Vereinigten Staaten aus, wo er als Wissenschaftler sowie als glühender Verteidiger religiöser und politischer Freiheit willkommen geheißen wurde.",
+   "section": "Leben"
+  },
+  "f43": {
+   "kind": "date",
+   "value": "1801",
+   "surface": "1801",
+   "sentence": "Den Rest seines Lebens verbrachte er als Schriftsteller in Pennsylvania und starb dort, nachdem sein Gesundheitszustand sich seit 1801 verschlechtert hatte, Anfang 1804 im Alter von 70 Jahren.",
+   "section": "Leben"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "1804",
+   "surface": "1804",
+   "sentence": "Den Rest seines Lebens verbrachte er als Schriftsteller in Pennsylvania und starb dort, nachdem sein Gesundheitszustand sich seit 1801 verschlechtert hatte, Anfang 1804 im Alter von 70 Jahren.",
+   "section": "Leben"
+  },
+  "f45": {
+   "kind": "measure",
+   "value": 70,
+   "unit": "jahren",
+   "surface": "70 Jahren",
+   "sentence": "Den Rest seines Lebens verbrachte er als Schriftsteller in Pennsylvania und starb dort, nachdem sein Gesundheitszustand sich seit 1801 verschlechtert hatte, Anfang 1804 im Alter von 70 Jahren.",
+   "section": "Leben"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Am 1. August 1774 führte Priestley ein Experiment durch, bei dem er zum ersten Mal Sauerstoff darstellte.",
+   "section": "Entdeckungen"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Am 1. August 1774 führte Priestley ein Experiment durch, bei dem er zum ersten Mal Sauerstoff darstellte.",
+   "section": "Entdeckungen"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1779",
+   "surface": "1779",
+   "sentence": "Später entdeckte er auch die Gewinnung von „dephlogisticated air“ durch Erhitzen von Salpeter (1779).",
+   "section": "Entdeckungen"
+  },
+  "f49": {
+   "kind": "date",
+   "value": "1674",
+   "surface": "1674",
+   "sentence": "Der Däne Ole Borch hatte bereits 1674 von einer Gasentwicklung beim Erhitzen von Salpeter berichtet, er hatte das Gas jedoch nicht isoliert und untersucht.",
+   "section": "Entdeckungen"
+  },
+  "f50": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "Sauerstoff war von dem Apotheker Carl Wilhelm Scheele mindestens ein Jahr vor Priestley dargestellt worden, doch erschien Scheeles Bericht erst 1777.",
+   "section": "Entdeckungen"
+  },
+  "f51": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Der Pariser Chemiker und Pharmazeut Pierre Bayen hatte wie Antoine Laurent de Lavoisier bereits im Februar und April 1774 Versuche veröffentlicht, die auf eine Gewichtszunahme von Metallen durch ein Gas aus der Luft deuteten.",
+   "section": "Entdeckungen"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 26,
+   "surface": "26",
+   "sentence": "Die Erkenntnis, dass dieses neue Gas in der Luft, das die Verbrennung fördert, ein einzelner Stoff, ein chemisches Element ist, machte Lavoisier nach Wiederholung der Experimente von Bayen und Priestley in einem Vortrag am 26. April 1776 publik.",
+   "section": "Entdeckungen"
+  },
+  "f53": {
+   "kind": "date",
+   "value": "1776",
+   "surface": "1776",
+   "sentence": "Die Erkenntnis, dass dieses neue Gas in der Luft, das die Verbrennung fördert, ein einzelner Stoff, ein chemisches Element ist, machte Lavoisier nach Wiederholung der Experimente von Bayen und Priestley in einem Vortrag am 26. April 1776 publik.",
+   "section": "Entdeckungen"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "Im 18. Jahrhundert war bekannt, dass Tiere nicht in verschlossenen Glasbehältern überleben konnten.",
+   "section": "Entdeckungen"
+  },
+  "f55": {
+   "kind": "date",
+   "value": "1779",
+   "surface": "1779",
+   "sentence": "Priestley untersuchte ab 1779 mit dem Holländer Jan Ingenhousz die Gasbildung in Abhängigkeit von den Lichtverhältnissen (Photosynthese).",
+   "section": "Entdeckungen"
+  },
+  "f56": {
+   "kind": "date",
+   "value": "1727",
+   "surface": "1727",
+   "sentence": "Bereits 1727 hatte Stephen Hales das Stickstoffoxyd dargestellt.",
+   "section": "Entdeckungen"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Priestley konnte aber nachweisen, dass sich Luft zu 20–25 % in Stickstoffoxyd umwandeln lässt, da das Stickstoffoxyd aus der Luft durch Kalklösung absorbiert werden kann.",
+   "section": "Entdeckungen"
+  },
+  "f58": {
+   "kind": "measure",
+   "value": 25,
+   "unit": "%",
+   "surface": "25 %",
+   "sentence": "Priestley konnte aber nachweisen, dass sich Luft zu 20–25 % in Stickstoffoxyd umwandeln lässt, da das Stickstoffoxyd aus der Luft durch Kalklösung absorbiert werden kann.",
+   "section": "Entdeckungen"
+  },
+  "f59": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "1782 fand er eine weitere vermeintliche Bestätigung dafür: er leitete Wasserstoff über Metallkalke (Metalloxide) und konnte diese wieder zu Metallen reduzieren, wobei der Wasserstoff aus der Luft verschwand.",
+   "section": "Entdeckungen"
+  },
+  "f60": {
+   "kind": "date",
+   "value": "1799",
+   "surface": "1799",
+   "sentence": "1799 untersuchte er das seit 1669 als gaz oléfiant bekannte Ethen.",
+   "section": "Entdeckungen"
+  },
+  "f61": {
+   "kind": "date",
+   "value": "1669",
+   "surface": "1669",
+   "sentence": "1799 untersuchte er das seit 1669 als gaz oléfiant bekannte Ethen.",
+   "section": "Entdeckungen"
+  },
+  "f62": {
+   "kind": "date",
+   "value": "1764",
+   "surface": "1764",
+   "sentence": "Im Jahr 1764 erhielt Priestley von der University of Edinburgh den Titel eines Doktors der Rechte (LL.D.).",
+   "section": "Ehrungen"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "Am 12. Juni 1766 wurde Priestley als Mitglied („Fellow“) in die Royal Society gewählt, die ihm 1772 die Copley-Medaille verlieh.",
+   "section": "Ehrungen"
+  },
+  "f64": {
+   "kind": "date",
+   "value": "1766",
+   "surface": "1766",
+   "sentence": "Am 12. Juni 1766 wurde Priestley als Mitglied („Fellow“) in die Royal Society gewählt, die ihm 1772 die Copley-Medaille verlieh.",
+   "section": "Ehrungen"
+  },
+  "f65": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "Am 12. Juni 1766 wurde Priestley als Mitglied („Fellow“) in die Royal Society gewählt, die ihm 1772 die Copley-Medaille verlieh.",
+   "section": "Ehrungen"
+  },
+  "f66": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "1782 wurde er Mitglied der American Academy of Arts and Sciences, 1783 der Accademia delle Scienze di Torino, 1785 der American Philosophical Society. und 1786 der Accademia Nazionale delle Scienze.",
+   "section": "Ehrungen"
+  },
+  "f67": {
+   "kind": "date",
+   "value": "1783",
+   "surface": "1783",
+   "sentence": "1782 wurde er Mitglied der American Academy of Arts and Sciences, 1783 der Accademia delle Scienze di Torino, 1785 der American Philosophical Society. und 1786 der Accademia Nazionale delle Scienze.",
+   "section": "Ehrungen"
+  },
+  "f68": {
+   "kind": "date",
+   "value": "1785",
+   "surface": "1785",
+   "sentence": "1782 wurde er Mitglied der American Academy of Arts and Sciences, 1783 der Accademia delle Scienze di Torino, 1785 der American Philosophical Society. und 1786 der Accademia Nazionale delle Scienze.",
+   "section": "Ehrungen"
+  },
+  "f69": {
+   "kind": "date",
+   "value": "1786",
+   "surface": "1786",
+   "sentence": "1782 wurde er Mitglied der American Academy of Arts and Sciences, 1783 der Accademia delle Scienze di Torino, 1785 der American Philosophical Society. und 1786 der Accademia Nazionale delle Scienze.",
+   "section": "Ehrungen"
+  },
+  "f70": {
+   "kind": "date",
+   "value": "1761",
+   "surface": "1761",
+   "sentence": "London 1761 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f71": {
+   "kind": "date",
+   "value": "1761",
+   "surface": "1761",
+   "sentence": "London 1761 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3. Auflage, London 1772 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f73": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "3. Auflage, London 1772 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f74": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4. Auflage, Dublin 1784 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f75": {
+   "kind": "date",
+   "value": "1784",
+   "surface": "1784",
+   "sentence": "4. Auflage, Dublin 1784 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f76": {
+   "kind": "date",
+   "value": "1762",
+   "surface": "1762",
+   "sentence": "Warrington 1762 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f77": {
+   "kind": "date",
+   "value": "1765",
+   "surface": "1765",
+   "sentence": "London 1765.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f78": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, London 1765 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f79": {
+   "kind": "date",
+   "value": "1765",
+   "surface": "1765",
+   "sentence": "2. Auflage, London 1765 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f80": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "6., verbesserte Auflage, London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f81": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "6., verbesserte Auflage, London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f82": {
+   "kind": "date",
+   "value": "1790",
+   "surface": "1790",
+   "sentence": "Neue, verbesserte Auflage, London 1790 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f83": {
+   "kind": "date",
+   "value": "1765",
+   "surface": "1765",
+   "sentence": "London 1765 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f84": {
+   "kind": "date",
+   "value": "1767",
+   "surface": "1767",
+   "sentence": "London 1767 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2., korrigierte und erweiterte Auflage, London 1769 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f86": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "2., korrigierte und erweiterte Auflage, London 1769 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f87": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3., korrigierte und erweiterte Auflage, 2 Bände, London 1775 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f88": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3., korrigierte und erweiterte Auflage, 2 Bände, London 1775 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f89": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "3., korrigierte und erweiterte Auflage, 2 Bände, London 1775 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f90": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3., korrigierte und erweiterte Auflage, 2 Bände, London 1775 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f91": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3., korrigierte und erweiterte Auflage, 2 Bände, London 1775 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f92": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4., korrigierte und erweiterte Auflage, London 1775 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f93": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "4., korrigierte und erweiterte Auflage, London 1775 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f94": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "5., korrigierte Auflage, London 1794.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f95": {
+   "kind": "date",
+   "value": "1794",
+   "surface": "1794",
+   "sentence": "5., korrigierte Auflage, London 1794.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f96": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "Gottlieb August Lange, Berlin / Stralsund 1772 (Digitalisat) – übersetzt von Johann Georg Krünitz.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f97": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, Paris 1771 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f98": {
+   "kind": "date",
+   "value": "1771",
+   "surface": "1771",
+   "sentence": "3 Bände, Paris 1771 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f99": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3 Bände, Paris 1771 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3 Bände, Paris 1771 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, Paris 1771 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f102": {
+   "kind": "date",
+   "value": "1768",
+   "surface": "1768",
+   "sentence": "London 1768 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f103": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, London 1769 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f104": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "2. Auflage, London 1769 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3. Auflage, London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f106": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "3. Auflage, London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f107": {
+   "kind": "date",
+   "value": "1768",
+   "surface": "1768",
+   "sentence": "Dublin 1768 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f108": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "London 1769 (nur Diagramm).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f109": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2., korrigierte Auflage, London 1770 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f110": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770",
+   "sentence": "2., korrigierte Auflage, London 1770 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4. Auflage, London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f112": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "4. Auflage, London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f113": {
+   "kind": "number",
+   "value": 8,
+   "surface": "8",
+   "sentence": "8., korrigierte Auflage, London 1793 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f114": {
+   "kind": "date",
+   "value": "1793",
+   "surface": "1793",
+   "sentence": "8., korrigierte Auflage, London 1793 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f115": {
+   "kind": "number",
+   "value": 15,
+   "surface": "15",
+   "sentence": "15., korrigierte Auflage, London 1816 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f116": {
+   "kind": "date",
+   "value": "1816",
+   "surface": "1816",
+   "sentence": "15., korrigierte Auflage, London 1816 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f117": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "1769 – anonym.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f118": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "Neue, korrigierte Auflage, London 1769 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f119": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770",
+   "sentence": "London 1770 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f120": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770",
+   "sentence": "London 1770.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f121": {
+   "kind": "date",
+   "value": "1791",
+   "surface": "1791",
+   "sentence": "Neuauflage, 1791.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f122": {
+   "kind": "date",
+   "value": "1827",
+   "surface": "1827",
+   "sentence": "Neuauflage, London 1827 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f123": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "London 1772 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f124": {
+   "kind": "date",
+   "value": "1812",
+   "surface": "1812",
+   "sentence": "Neuauflage, London 1812 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f125": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "London 1772 (Digitalisat, Prospectus).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f126": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Teile, Junius, Leipzig 1775–1776 (Teil 1, Teil 2) – übersetzt von Georg Simon Klügel.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f127": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "2 Teile, Junius, Leipzig 1775–1776 (Teil 1, Teil 2) – übersetzt von Georg Simon Klügel.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f128": {
+   "kind": "date",
+   "value": "1776",
+   "surface": "1776",
+   "sentence": "2 Teile, Junius, Leipzig 1775–1776 (Teil 1, Teil 2) – übersetzt von Georg Simon Klügel.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f129": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2 Teile, Junius, Leipzig 1775–1776 (Teil 1, Teil 2) – übersetzt von Georg Simon Klügel.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f130": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Teile, Junius, Leipzig 1775–1776 (Teil 1, Teil 2) – übersetzt von Georg Simon Klügel.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f131": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "London 1772 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f132": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "Paris 1772 (Digitalisat) – übersetzt von François Rozier.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f133": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Kopenhagen / Leipzig 1774, S. 9–28 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f134": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "Kopenhagen / Leipzig 1774, S. 9–28 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f135": {
+   "kind": "number",
+   "value": 28,
+   "surface": "28",
+   "sentence": "Kopenhagen / Leipzig 1774, S. 9–28 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f136": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f137": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f138": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f139": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f140": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f141": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, London 1772–1774 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f142": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, 2 Bände, Birmingham 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f143": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, 2 Bände, Birmingham 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f144": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "2. Auflage, 2 Bände, Birmingham 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f145": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2. Auflage, 2 Bände, Birmingham 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f146": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, 2 Bände, Birmingham 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f147": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3. Auflage, 2 Bände, London 1794 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f148": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3. Auflage, 2 Bände, London 1794 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f149": {
+   "kind": "date",
+   "value": "1794",
+   "surface": "1794",
+   "sentence": "3. Auflage, 2 Bände, London 1794 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f150": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3. Auflage, 2 Bände, London 1794 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f151": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3. Auflage, 2 Bände, London 1794 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f152": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "London 1774.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f153": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, London 1775 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f154": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "2. Auflage, London 1775 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f155": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "London 1774 (Volltext, Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f156": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f157": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f158": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f159": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f160": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f161": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, London 1774–1777 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f162": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f163": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f164": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f165": {
+   "kind": "date",
+   "value": "1776",
+   "surface": "1776",
+   "sentence": "2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f166": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f167": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2., korrigierte Auflage, 2 Bände, J. Johnson, London 1775–1776 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f168": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Neuausgabe Band 2, London 1784 (Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f169": {
+   "kind": "date",
+   "value": "1784",
+   "surface": "1784",
+   "sentence": "Neuausgabe Band 2, London 1784 (Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f170": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Neuausgabe Band 2, London 1784 (Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f171": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3. Auflage, 1 Band, London 1781 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f172": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3. Auflage, 1 Band, London 1781 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f173": {
+   "kind": "date",
+   "value": "1781",
+   "surface": "1781",
+   "sentence": "3. Auflage, 1 Band, London 1781 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f174": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "London 1775 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f175": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f176": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f177": {
+   "kind": "date",
+   "value": "1777",
+   "surface": "1777",
+   "sentence": "London 1777 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f178": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2., erweiterte Auflage, Birmingham 1782 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f179": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "2., erweiterte Auflage, Birmingham 1782 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f180": {
+   "kind": "date",
+   "value": "1778",
+   "surface": "1778",
+   "sentence": "London 1778 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f181": {
+   "kind": "date",
+   "value": "1778",
+   "surface": "1778",
+   "sentence": "Bath 1778 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f182": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, Birmingham 1788 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f183": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788",
+   "sentence": "2. Auflage, Birmingham 1788 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f184": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f185": {
+   "kind": "date",
+   "value": "1779",
+   "surface": "1779",
+   "sentence": "3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f186": {
+   "kind": "date",
+   "value": "1786",
+   "surface": "1786",
+   "sentence": "3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f187": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f188": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f189": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, Birmingham 1779–1786 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f190": {
+   "kind": "date",
+   "value": "1780",
+   "surface": "1780",
+   "sentence": "Bath 1780 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f191": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Bath 1780 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f192": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Bath 1780 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f193": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f194": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f195": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f196": {
+   "kind": "date",
+   "value": "1787",
+   "surface": "1787",
+   "sentence": "2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f197": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f198": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2. Auflage, 2 Teile in 1 Band, Birmingham 1787 (Teil 1, Teil 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f199": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "Weygand, Leipzig 1782 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f200": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "Birmingham 1782 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f201": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Bände, 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f202": {
+   "kind": "date",
+   "value": "1782",
+   "surface": "1782",
+   "sentence": "2 Bände, 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f203": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2 Bände, 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f204": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Bände, 1782 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f205": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f206": {
+   "kind": "date",
+   "value": "1786",
+   "surface": "1786",
+   "sentence": "4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f207": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f208": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f209": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f210": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4 Bände, Birmingham 1786 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f211": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788",
+   "sentence": "1788 (Digitalisat (Dublin), Digitalisat (Birmingham)).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f212": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "The conduct to be observed by Dissenters in order to procure the repeal of the Corporation and Test Acts, recommended in a sermon, preached before the congregations of the old and new meetings, at Birmingham, November 5, 1789.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f213": {
+   "kind": "date",
+   "value": "1789",
+   "surface": "1789",
+   "sentence": "The conduct to be observed by Dissenters in order to procure the repeal of the Corporation and Test Acts, recommended in a sermon, preached before the congregations of the old and new meetings, at Birmingham, November 5, 1789.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f214": {
+   "kind": "date",
+   "value": "1789",
+   "surface": "1789",
+   "sentence": "Birmingham 1789 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f215": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Bände, Birmingham 1790 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f216": {
+   "kind": "date",
+   "value": "1790",
+   "surface": "1790",
+   "sentence": "2 Bände, Birmingham 1790 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f217": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2 Bände, Birmingham 1790 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f218": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Bände, Birmingham 1790 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f219": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f220": {
+   "kind": "date",
+   "value": "1802",
+   "surface": "1802",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f221": {
+   "kind": "date",
+   "value": "1803",
+   "surface": "1803",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f222": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f223": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f224": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f225": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4 Bände, Northumberland 1802–1803 (Band 1, Band 2, Band 3, Band 4).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f226": {
+   "kind": "date",
+   "value": "1790",
+   "surface": "1790",
+   "sentence": "1790 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f227": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3., korrigierte Auflage, Birmngham 1791 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f228": {
+   "kind": "date",
+   "value": "1791",
+   "surface": "1791",
+   "sentence": "3., korrigierte Auflage, Birmngham 1791 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f229": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, Birmingham 1790 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f230": {
+   "kind": "date",
+   "value": "1790",
+   "surface": "1790",
+   "sentence": "3 Bände, Birmingham 1790 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f231": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "3 Bände, Birmingham 1790 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f232": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "3 Bände, Birmingham 1790 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f233": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "3 Bände, Birmingham 1790 (Band 1, Band 2, Band 3).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f234": {
+   "kind": "date",
+   "value": "1791",
+   "surface": "1791",
+   "sentence": "Birmingham 1791 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f235": {
+   "kind": "date",
+   "value": "1792",
+   "surface": "1792",
+   "sentence": "London 1792 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f236": {
+   "kind": "date",
+   "value": "1794",
+   "surface": "1794",
+   "sentence": "London 1794 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f237": {
+   "kind": "date",
+   "value": "1803",
+   "surface": "1803",
+   "sentence": "Philadelphia 1803 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f238": {
+   "kind": "date",
+   "value": "1804",
+   "surface": "1804",
+   "sentence": "Philadelphia 1804 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f239": {
+   "kind": "date",
+   "value": "1804",
+   "surface": "1804",
+   "sentence": "Northumberland 1804 (Digitalisat).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f240": {
+   "kind": "number",
+   "value": 58,
+   "surface": "58",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f241": {
+   "kind": "date",
+   "value": "1768",
+   "surface": "1768",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f242": {
+   "kind": "number",
+   "value": 68,
+   "surface": "68",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f243": {
+   "kind": "number",
+   "value": 74,
+   "surface": "74",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f244": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f245": {
+   "kind": "number",
+   "value": 1768.001,
+   "surface": "1768.0010",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f246": {
+   "kind": "number",
+   "value": 105758,
+   "surface": "105758",
+   "sentence": "Band 58, 1768, S. 68–74 (doi:10.1098/rstl.1768.0010, JSTOR:105758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f247": {
+   "kind": "number",
+   "value": 59,
+   "surface": "59",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f248": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f249": {
+   "kind": "number",
+   "value": 57,
+   "surface": "57",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f250": {
+   "kind": "number",
+   "value": 62,
+   "surface": "62",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f251": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f252": {
+   "kind": "number",
+   "value": 1769.0009,
+   "surface": "1769.0009",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f253": {
+   "kind": "number",
+   "value": 105807,
+   "surface": "105807",
+   "sentence": "Band 59, 1769, S. 57–62 (doi:10.1098/rstl.1769.0009, JSTOR:105807).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f254": {
+   "kind": "number",
+   "value": 59,
+   "surface": "59",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f255": {
+   "kind": "date",
+   "value": "1769",
+   "surface": "1769",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f256": {
+   "kind": "number",
+   "value": 63,
+   "surface": "63",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f257": {
+   "kind": "number",
+   "value": 70,
+   "surface": "70",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f258": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f259": {
+   "kind": "number",
+   "value": 1769.001,
+   "surface": "1769.0010",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f260": {
+   "kind": "number",
+   "value": 105808,
+   "surface": "105808",
+   "sentence": "Band 59, 1769, S. 63–70 (doi:10.1098/rstl.1769.0010, JSTOR:105808).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f261": {
+   "kind": "number",
+   "value": 60,
+   "surface": "60",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f262": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f263": {
+   "kind": "number",
+   "value": 192,
+   "surface": "192",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f264": {
+   "kind": "number",
+   "value": 210,
+   "surface": "210",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f265": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f266": {
+   "kind": "number",
+   "value": 1770.0018,
+   "surface": "1770.0018",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f267": {
+   "kind": "number",
+   "value": 105887,
+   "surface": "105887",
+   "sentence": "Band 60, 1770, S. 192–210 (doi:10.1098/rstl.1770.0018, JSTOR:105887).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f268": {
+   "kind": "number",
+   "value": 60,
+   "surface": "60",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f269": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f270": {
+   "kind": "number",
+   "value": 211,
+   "surface": "211",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f271": {
+   "kind": "number",
+   "value": 227,
+   "surface": "227",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f272": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f273": {
+   "kind": "number",
+   "value": 1770.0019,
+   "surface": "1770.0019",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f274": {
+   "kind": "number",
+   "value": 105888,
+   "surface": "105888",
+   "sentence": "Band 60, 1770, S. 211–227 (doi:10.1098/rstl.1770.0019, JSTOR:105888).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f275": {
+   "kind": "number",
+   "value": 62,
+   "surface": "62",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f276": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f277": {
+   "kind": "number",
+   "value": 147,
+   "surface": "147",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f278": {
+   "kind": "number",
+   "value": 264,
+   "surface": "264",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f279": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f280": {
+   "kind": "number",
+   "value": 1772.0021,
+   "surface": "1772.0021",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f281": {
+   "kind": "number",
+   "value": 106051,
+   "surface": "106051",
+   "sentence": "Band 62, 1772, S. 147–264 (doi:10.1098/rstl.1772.0021, JSTOR:106051).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f282": {
+   "kind": "number",
+   "value": 62,
+   "surface": "62",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f283": {
+   "kind": "date",
+   "value": "1772",
+   "surface": "1772",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f284": {
+   "kind": "number",
+   "value": 359,
+   "surface": "359",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f285": {
+   "kind": "number",
+   "value": 364,
+   "surface": "364",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f286": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f287": {
+   "kind": "number",
+   "value": 1772.0027,
+   "surface": "1772.0027",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f288": {
+   "kind": "number",
+   "value": 106057,
+   "surface": "106057",
+   "sentence": "Band 62, 1772, S. 359–364 (doi:10.1098/rstl.1772.0027, JSTOR:106057).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f289": {
+   "kind": "number",
+   "value": 64,
+   "surface": "64",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f290": {
+   "kind": "date",
+   "value": "1774",
+   "surface": "1774",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f291": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f292": {
+   "kind": "number",
+   "value": 95,
+   "surface": "95",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f293": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f294": {
+   "kind": "number",
+   "value": 1774.0008,
+   "surface": "1774.0008",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f295": {
+   "kind": "number",
+   "value": 105987,
+   "surface": "105987",
+   "sentence": "Band 64, 1774, S. 90–95 (doi:10.1098/rstl.1774.0008, JSTOR:105987).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f296": {
+   "kind": "number",
+   "value": 65,
+   "surface": "65",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f297": {
+   "kind": "date",
+   "value": "1775",
+   "surface": "1775",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f298": {
+   "kind": "number",
+   "value": 384,
+   "surface": "384",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f299": {
+   "kind": "number",
+   "value": 394,
+   "surface": "394",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f300": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f301": {
+   "kind": "number",
+   "value": 1775.0039,
+   "surface": "1775.0039",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f302": {
+   "kind": "number",
+   "value": 106209,
+   "surface": "106209",
+   "sentence": "Band 65, 1775, S. 384–394 (doi:10.1098/rstl.1775.0039, JSTOR:106209).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f303": {
+   "kind": "number",
+   "value": 66,
+   "surface": "66",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f304": {
+   "kind": "date",
+   "value": "1776",
+   "surface": "1776",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f305": {
+   "kind": "number",
+   "value": 226,
+   "surface": "226",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f306": {
+   "kind": "number",
+   "value": 248,
+   "surface": "248",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f307": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f308": {
+   "kind": "number",
+   "value": 1776.0014,
+   "surface": "1776.0014",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f309": {
+   "kind": "number",
+   "value": 106277,
+   "surface": "106277",
+   "sentence": "Band 66, 1776, S. 226–248 (doi:10.1098/rstl.1776.0014, JSTOR:106277).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f310": {
+   "kind": "number",
+   "value": 73,
+   "surface": "73",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f311": {
+   "kind": "date",
+   "value": "1783",
+   "surface": "1783",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f312": {
+   "kind": "number",
+   "value": 398,
+   "surface": "398",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f313": {
+   "kind": "number",
+   "value": 434,
+   "surface": "434",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f314": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f315": {
+   "kind": "number",
+   "value": 1783.0023,
+   "surface": "1783.0023",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f316": {
+   "kind": "number",
+   "value": 106498,
+   "surface": "106498",
+   "sentence": "Band 73, 1783, S. 398–434 (doi:10.1098/rstl.1783.0023, JSTOR:106498).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f317": {
+   "kind": "number",
+   "value": 73,
+   "surface": "73",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f318": {
+   "kind": "date",
+   "value": "1783",
+   "surface": "1783",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f319": {
+   "kind": "number",
+   "value": 279,
+   "surface": "279",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f320": {
+   "kind": "number",
+   "value": 309,
+   "surface": "309",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f321": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f322": {
+   "kind": "number",
+   "value": 1785.0015,
+   "surface": "1785.0015",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f323": {
+   "kind": "number",
+   "value": 106758,
+   "surface": "106758",
+   "sentence": "Band 73, 1783, S. 279–309 (doi:10.1098/rstl.1785.0015, JSTOR:106758).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f324": {
+   "kind": "number",
+   "value": 78,
+   "surface": "78",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f325": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f326": {
+   "kind": "number",
+   "value": 147,
+   "surface": "147",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f327": {
+   "kind": "number",
+   "value": 157,
+   "surface": "157",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f328": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f329": {
+   "kind": "number",
+   "value": 1788.0012,
+   "surface": "1788.0012",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f330": {
+   "kind": "number",
+   "value": 106653,
+   "surface": "106653",
+   "sentence": "Band 78, 1788, S. 147–157 (doi:10.1098/rstl.1788.0012, JSTOR:106653).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f331": {
+   "kind": "number",
+   "value": 78,
+   "surface": "78",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f332": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f333": {
+   "kind": "number",
+   "value": 313,
+   "surface": "313",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f334": {
+   "kind": "number",
+   "value": 330,
+   "surface": "330",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f335": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f336": {
+   "kind": "number",
+   "value": 1788.0021,
+   "surface": "1788.0021",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f337": {
+   "kind": "number",
+   "value": 106662,
+   "surface": "106662",
+   "sentence": "Band 78, 1788, S. 313–330 (doi:10.1098/rstl.1788.0021, JSTOR:106662).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f338": {
+   "kind": "number",
+   "value": 79,
+   "surface": "79",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f339": {
+   "kind": "date",
+   "value": "1789",
+   "surface": "1789",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f340": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f341": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f342": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f343": {
+   "kind": "number",
+   "value": 1789.0002,
+   "surface": "1789.0002",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f344": {
+   "kind": "number",
+   "value": 106677,
+   "surface": "106677",
+   "sentence": "Band 79, 1789, S. 7–20 (doi:10.1098/rstl.1789.0002, JSTOR:106677).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f345": {
+   "kind": "number",
+   "value": 79,
+   "surface": "79",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f346": {
+   "kind": "date",
+   "value": "1789",
+   "surface": "1789",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f347": {
+   "kind": "number",
+   "value": 139,
+   "surface": "139",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f348": {
+   "kind": "number",
+   "value": 150,
+   "surface": "150",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f349": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f350": {
+   "kind": "number",
+   "value": 1789.0012,
+   "surface": "1789.0012",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f351": {
+   "kind": "number",
+   "value": 106686,
+   "surface": "106686",
+   "sentence": "Band 79, 1789, S. 139–150 (doi:10.1098/rstl.1789.0012, JSTOR:106686).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f352": {
+   "kind": "number",
+   "value": 79,
+   "surface": "79",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f353": {
+   "kind": "date",
+   "value": "1789",
+   "surface": "1789",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f354": {
+   "kind": "number",
+   "value": 289,
+   "surface": "289",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f355": {
+   "kind": "number",
+   "value": 299,
+   "surface": "299",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f356": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f357": {
+   "kind": "number",
+   "value": 1789.0024,
+   "surface": "1789.0024",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f358": {
+   "kind": "number",
+   "value": 106698,
+   "surface": "106698",
+   "sentence": "Band 79, 1789, S. 289–299 (doi:10.1098/rstl.1789.0024, JSTOR:106698).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f359": {
+   "kind": "number",
+   "value": 80,
+   "surface": "80",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f360": {
+   "kind": "date",
+   "value": "1790",
+   "surface": "1790",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f361": {
+   "kind": "number",
+   "value": 106,
+   "surface": "106",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f362": {
+   "kind": "number",
+   "value": 110,
+   "surface": "110",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f363": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f364": {
+   "kind": "number",
+   "value": 1790.0014,
+   "surface": "1790.0014",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f365": {
+   "kind": "number",
+   "value": 106833,
+   "surface": "106833",
+   "sentence": "Band 80, 1790, S. 106–110 (doi:10.1098/rstl.1790.0014, JSTOR:106833).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f366": {
+   "kind": "number",
+   "value": 81,
+   "surface": "81",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f367": {
+   "kind": "date",
+   "value": "1791",
+   "surface": "1791",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f368": {
+   "kind": "number",
+   "value": 213,
+   "surface": "213",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f369": {
+   "kind": "number",
+   "value": 222,
+   "surface": "222",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f370": {
+   "kind": "number",
+   "value": 10.1098,
+   "surface": "10.1098",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f371": {
+   "kind": "number",
+   "value": 1791.0016,
+   "surface": "1791.0016",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f372": {
+   "kind": "number",
+   "value": 106868,
+   "surface": "106868",
+   "sentence": "Band 81, 1791, S. 213–222 (doi:10.1098/rstl.1791.0016, JSTOR:106868).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f373": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770",
+   "sentence": "1770–1773 und 1784–1788.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f374": {
+   "kind": "date",
+   "value": "1773",
+   "surface": "1773",
+   "sentence": "1770–1773 und 1784–1788.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f375": {
+   "kind": "date",
+   "value": "1784",
+   "surface": "1784",
+   "sentence": "1770–1773 und 1784–1788.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f376": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788",
+   "sentence": "1770–1773 und 1784–1788.",
+   "section": "Schriften (Auswahl)"
+  },
+  "f377": {
+   "kind": "number",
+   "value": 25,
+   "surface": "25",
+   "sentence": "25 Bände, G. Smallfield, London 1817–1832 (Digitalisate).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f378": {
+   "kind": "date",
+   "value": "1817",
+   "surface": "1817",
+   "sentence": "25 Bände, G. Smallfield, London 1817–1832 (Digitalisate).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f379": {
+   "kind": "date",
+   "value": "1832",
+   "surface": "1832",
+   "sentence": "25 Bände, G. Smallfield, London 1817–1832 (Digitalisate).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f380": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Bände, Hunter, London 1831 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f381": {
+   "kind": "date",
+   "value": "1831",
+   "surface": "1831",
+   "sentence": "2 Bände, Hunter, London 1831 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f382": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "2 Bände, Hunter, London 1831 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  },
+  "f383": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2 Bände, Hunter, London 1831 (Band 1, Band 2).",
+   "section": "Schriften (Auswahl)"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Joseph Priestley (NPG).jpg",
+   "w": 2937,
+   "h": 4000,
+   "alt": "Joseph Priestley",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Joseph_Priestley_%28NPG%29.jpg/960px-Joseph_Priestley_%28NPG%29.jpg",
+   "sha1": "a5f3175f5707c04ef93ba9da59e335e664263706",
+   "credit": {
+    "author": "James Sharples",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Priestley_(NPG).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "Anglikanischer Geistlicher (18. Jahrhundert)",
+  "Aufklärer",
+  "Bibliothekar (England)",
+  "Chemiker (18. Jahrhundert)",
+  "Ehrenmitglied der Russischen Akademie der Wissenschaften",
+  "Engländer",
+  "Geboren 1733",
+  "Gestorben 1804",
+  "Mann",
+  "Mitglied der Académie des sciences",
+  "Mitglied der Accademia Nazionale delle Scienze",
+  "Mitglied der Accademia delle Scienze di Torino",
+  "Mitglied der American Academy of Arts and Sciences",
+  "Mitglied der Königlich Schwedischen Akademie der Wissenschaften",
+  "Mitglied der Lunar Society",
+  "Mitglied der Royal Society",
+  "Mitglied des Nationalkonvents",
+  "Person als Namensgeber für einen Marskrater",
+  "Person als Namensgeber für einen Mondkrater",
+  "Philosoph der Frühen Neuzeit",
+  "Träger der Copley-Medaille",
+  "US-Amerikaner",
+  "Unitarischer Theologe (19. Jahrhundert)"
+ ]
+}

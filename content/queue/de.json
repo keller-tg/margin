@@ -726,5 +726,57 @@
    "pickedAt": "2026-10-06T09:05:07.597Z",
    "attempt": 0
   }
+ },
+ "2026-11-03": {
+  "morning": {
+   "title": "Tyrannosaurus",
+   "qid": "Q14332",
+   "pageid": 127771,
+   "domain": "animals",
+   "image": {
+    "file": "File:Stan the Trex at Manchester Museum.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:06:01.052Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Eschen (Pflanzengattung)",
+   "qid": "Q128887",
+   "pageid": 16191,
+   "domain": "plants",
+   "image": {
+    "file": "File:Esche-WJP.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:06:01.975Z",
+   "attempt": 0
+  }
+ },
+ "2026-11-04": {
+  "morning": {
+   "title": "Manchester",
+   "qid": "Q18125",
+   "pageid": 3237,
+   "domain": "cities",
+   "image": {
+    "file": "File:Manchester Montage.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T09:06:03.015Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Star (Art)",
+   "qid": "Q25469",
+   "pageid": 195977,
+   "domain": "animals",
+   "image": {
+    "file": "File:Common starling (Sturnus vulgaris) breeding male Marken.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T09:06:04.041Z",
+   "attempt": 0
+  }
  }
 }

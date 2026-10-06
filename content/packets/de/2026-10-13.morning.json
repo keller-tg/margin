@@ -1,0 +1,1468 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-13",
+ "slot": "morning",
+ "lang": "de",
+ "topic": {
+  "title": "Caesium",
+  "qid": "Q1108",
+  "pageid": 809,
+  "revid": 270584892,
+  "domain": "chemistry",
+  "url": "https://de.wikipedia.org/w/index.php?title=Caesium&oldid=270584892"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "chemisches Element mit dem Symbol Cs und der Ordnungszahl 55, Teil der Gruppe der Alkalimetalle",
+  "lead": "Caesium (nach IUPAC) [ˈʦɛːzi̯ʊm] , standardsprachlich Cäsium (bis 2024 auch Zäsium; im amerikanischen Englisch cesium), ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe, bzw. der 1. IUPAC-Gruppe und gehört zu den Alkalimetallen. Caesium ist das schwerste stabile Alkalimetall.\nCaesium wurde 1861 von Robert Wilhelm Bunsen und Gustav Robert Kirchhoff im Dürkheimer Mineralwasser der Maxquelle entdeckt. Aufgrund der zwei blauen Spektrallinien, mit denen das Element nachgewiesen wurde, benannten sie es nach dem lateinischen caesius für himmelblau. Das Reinelement konnte erstmals 1881 von Carl Theodor Setterberg dargestellt werden.\nCaesium ist ein extrem reaktives, sehr weiches, goldfarbenes Metall. Da es sofort und sehr heftig mit Luft reagiert, wird es in abgeschmolzenen Glasampullen unter Inertgas aufbewahrt.\nEine biologische Bedeutung des nicht toxischen Elements ist nicht bekannt. Aufgrund der Ähnlichkeit zu Kalium wird es allerdings im Magen-Darm-Trakt resorbiert und analog zu Kalium vorwiegend im Muskelgewebe gespeichert. Deshalb fand das radioaktive Isotop Caesium-137 (137Cs), ein Produkt der Kernspaltung, in der Öffentlichkeit besondere Beachtung, als es infolge der Katastrophe von Tschernobyl am 26. April 1986 in größeren Mengen in die Umwelt gelangte. Durch die großflächige Verteilung – und damit vergleichsweise geringe Konzentration – im Falle Tschernobyl ist von akuter Radiotoxizität nicht auszugehen, jedoch können chronische Effekte, insbesondere durch Bioakkumulation, nicht ausgeschlossen werden. Unfälle mit größeren Mengen Caesium-137 aus unsachgemäß entsorgten Abfällen der Nuklearmedizin wie der Goiânia-Unfall haben mehrfach zu Todesfällen durch die Strahlenkrankheit geführt, da hierbei sehr hohe akute Dosen auftraten.",
+  "sections": [
+   {
+    "heading": "Geschichte",
+    "text": "Caesium wurde erstmals 1861 von Gustav Robert Kirchhoff und Robert Wilhelm Bunsen beschrieben. Sie untersuchten Mineralwasser aus Dürkheim und entdeckten nach der Abtrennung von Calcium, Strontium, Magnesium und Lithium zwei bisher unbekannte Linien im blauen Spektralbereich. Sie schlossen aus ihren Beobachtungen, dass es im untersuchten Mineralwasser ein weiteres, bisher unbekanntes Element geben müsse, das sie wegen der blauen Spektrallinien Caesium, nach dem lateinischen caesius für „himmelblau“, nannten.\nBunsen versuchte ebenfalls Caesium von den anderen Alkalimetallen zu trennen, um weitere Eigenschaften des Elements zu erforschen. Dazu versetzte er die Lösung mit einer Platinchlorid-Lösung, um Kalium und die neuentdeckten schwereren Alkalimetalle Rubidium und Caesium als unlösliches Hexachloridoplatinat auszufällen. Das Kalium konnte durch mehrmaliges Aufkochen in wenig Wasser entfernt werden. Zur Gewinnung der reinen Chloride wurde das Platin mit Wasserstoff zum Element reduziert, so dass die nun wasserlöslichen Caesium- und Rubidiumchloride ausgelaugt werden konnten. Die Trennung von Caesium und Rubidium erfolgte unter Ausnutzung der unterschiedlichen Löslichkeit der Carbonate in absolutem Ethanol, worin Caesiumcarbonat im Gegensatz zur entsprechenden Rubidiumverbindung löslich ist. Caesiumchlorid diente Bunsen und Kirchhoff auch für eine erste Bestimmung der molaren Masse des neuen Elements, wofür sie den Wert von 123,35 g/mol fanden. Dieser Wert ist nach heutigen Erkenntnissen gut 10 g/mol zu niedrig.\nDie beiden Forscher konnten kein elementares Caesium gewinnen, denn bei der Elektrolyse von geschmolzenem Caesiumchlorid entstand anstelle des Metalls eine blaue Verbindung, die sie als Subchlorid bezeichneten, bei der es sich aber wahrscheinlich um eine kolloide Mischung von Caesium und Caesiumchlorid handelte. Bei der Elektrolyse einer wässrigen Lösung mit einer Quecksilberanode bildete sich das leicht zersetzbare Caesiumamalgam.\nDie Darstellung des elementaren Caesiums gelang schließlich 1881 Carl Theodor Setterberg, der die Probleme mit dem Chlorid vermied, indem er für die Schmelzflusselektrolyse Caesiumcyanid verwendete. Dabei störte zunächst die zum Schmelzen des Caesiumcyanids nötige relativ hohe Temperatur, die er jedoch durch das Eutektikum mit Bariumcyanid herabsetzen konnte."
+   },
+   {
+    "heading": "Vorkommen",
+    "text": "Mit einem Gehalt von 3 ppm in der kontinentalen Erdkruste ist Caesium auf der Erde ein seltenes Element. Es ist nach dem instabilen Francium das seltenste Alkalimetall. Aufgrund seiner hohen Reaktivität kommt es nicht elementar, sondern immer nur in Form von Verbindungen vor.\nDurch seinen großen Ionenradius ist Caesium geochemisch ein inkompatibles Element, das sich vorwiegend in Gesteinsschmelzen anreichert. Es ist darum vor allem in kaliumreichen magmatischen Silikatgesteinen der Glimmergruppe wie Muskovit oder Biotit zu finden. Auch Kalifeldspate können Caesium enthalten. Besonders reich an Caesium sind bestimmte Pegmatite, die sogenannten LCT-Pegmatite (Lithium-Caesium-Tantal-Pegmatite), in denen sich die Alkalimetalle bei der Kristallisation anreicherten. In diesen kann sich auch das häufigste Caesiummineral Pollucit mit der Zusammensetzung Cs(Si2Al)O6·nH2O bilden. Da Caesium gut in Wasser löslich ist, kann das Element bei der Verwitterung und durch hydrothermale Lösungen ausgelaugt werden.\nNeben dem Pollucit sind noch eine Reihe weiterer, selten zu findender Minerale von der IMA anerkannt. Zu diesen zählen beispielsweise Pezzottait CsLiBe2Al2Si6O18 oder Pautovit CsFe2S3. 2025 sind 27 caesiumhaltige Minerale bekannt.\nEs sind zwei Vorkommen bekannt, in denen Pollucit in abbauwürdigen Mengen vorhanden sind. Dies sind Bikita in Simbabwe und die Tanco-Mine in der kanadischen Provinz Manitoba, in denen Pollucit auch abgebaut wird. Die ursprünglichen Pollucit-Mengen der Tanco-Mine wurden auf 100.000–150.000 Tonnen Erz mit einem Caesiumgehalt von 25–30 % berechnet. Auch in anderen Ländern sind Pollucit-Vorkommen bekannt, es wurde in der Vergangenheit auch in Namibia, Schweden und China abgebaut.\nAufgrund der Wasserlöslichkeit der meisten Caesiumverbindungen ist das Element im Meerwasser gelöst; ein Liter enthält dabei durchschnittlich 0,3 bis 4 Mikrogramm Caesium. In vergleichbaren Mengen finden sich dort auch häufigere, aber schlechter lösliche Elemente wie Nickel, Chrom oder Kupfer."
+   },
+   {
+    "heading": "Gewinnung und Darstellung",
+    "text": "Einziges Mineral, das primär zur Gewinnung von Caesium abgebaut wird und wichtigste Quelle für das Element ist Pollucit. Daneben kann es auch als Nebenprodukt bei der Lithiumgewinnung aus Lepidolith dargestellt werden. Eine Gewinnung aus Solen, etwa aus Salzseen oder Meerwasser ist möglich und wird erforscht, ist jedoch auf Grund der geringen Caesiumkonzentration und komplizierten Trennung der Alkalimetallionen schwierig.\nDer abgebaute Pollucit wird mittels Flotation zu einem Konzentrat verarbeitet. Dieses wird kommerziell vor allem mit Säuren aufgeschlossen, wobei Schwefelsäure und Salzsäure am häufigsten verwendet werden. Aber auch ein Aufschluss mit Flusssäure oder Bromwasserstoffsäure ist möglich. Wird Pollucit mit Salzsäure erhitzt, gehen die vorhandenen Metalle wie Caesium, Aluminium und Rubidium als Chloride in Lösung. Daraus kann das Caesium mit Antimon(III)-chlorid als Caesium-Antimon-Doppelsalz gefällt und abgetrennt werden. Bei der Verwendung von Schwefelsäure ist dieser Schritt nicht nötig. Heiße Schwefelsäure löst zunächst die Metalle und Silikat bleibt zurück und kann abgetrennt werden.\n2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden. Ersteres ist wasserlöslich und kann ausgelaugt werden.\n4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen. Dabei entsteht eine unreine Caesiumchloridlösung. Weiterhin ist es möglich, Pollucit direkt mit Calcium im Vakuum bei 950 °C oder unter Inertgas mit Natrium oder Kalium auf 750 °C zum Metall zu reduzieren. Auf Grund technischer Schwierigkeiten wird dies kommerziell aber nicht durchgeführt.\nDas Lithiumerz Lepidolith enthält bis zu 1,2 % Caesium, sodass eine Gewinnung als Nebenprodukt möglich ist. Nach dem Aufschluss des Erzes, etwa durch Rösten mit Chloriden oder Sulfaten oder durch Auslaugen mit Schwefelsäure kann das Caesium abgetrennt werden. Hierzu werden vorwiegend Extraktionsverfahren genutzt.\nCaesiummetall kann chemisch durch Reduktion von Caesiumhalogeniden mit Calcium oder Barium bei 700–800 °C gewonnen werden. Dabei destilliert das im Vakuum flüchtige Caesiummetall ab. Daneben ist die Gewinnung durch Reaktion von Caesiumhydroxid, Caesiumcarbonat oder Caesiumaluminat mit Magnesium möglich.\n2\nCsCl\n+\nCa\n⟶\n2\nCs\n+\nCaCl\n2\n}}\nEine direkte elektrolytische Darstellung ist durch die hohe Reaktivität des Elementes schwierig und wird darum in zwei Stufen durchgeführt. So kann geschmolzenes Caesiumchlorid mit einer Kathode aus flüssigem Blei bei 700 °C elektrolysiert werden, wobei eine Blei-Caesium-Legierung mit ca. 8,5 % Caesium entsteht. Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert. Ähnlich kann auch eine wässrige Caesiumsalz-Lösung mit einer Quecksilber-Kathode elektrolysiert werden, wobei sich ein Amalgam bildet, aus dem Caesium durch Destillation gewonnen wird.\nHochreines Caesium lässt sich über die Zersetzung von Caesiumazid, das aus Caesiumcarbonat gewonnen werden kann, und anschließende Destillation darstellen. Die Reaktion erfolgt bei 380 °C an einem Eisen- oder Kupferkatalysator.\nDie Produktionsvolumen von Caesium sind nicht genau bekannt, aber gering, und es gibt wenige Orte, an denen Pollucit wirtschaftlich abgebaut werden kann. 2022 wurde sogar kein Caesiumerz außerhalb Chinas gefördert. Die Förderung in Namibia endete schon in den frühen 2000ern, in der Tanco-Mine in Kanada 2015, in Bikita/Simbabwe 2018 und in der australischen Sinclair-Mine 2019. 2025 wurde der Abbau in der Tanco-Mine und Bikita wieder aufgenommen. Verantwortlich hierfür ist der chinesische Staatskonzern Sinomine, dem alle wichtigen Caesiumproduktionsstätten gehören, wodurch China die Produktion des Elementes weitgehend kontrolliert. Auch die Förderung von Lepidolith findet ganz überwiegend in China statt. Das Innenministerium der Vereinigten Staaten hat Caesium daher auf die Liste von kritischen Rohstoffen gesetzt, die eine potentielle Gefahr für Wirtschaft und Sicherheit der Vereinigten Staaten sind. In der Liste der kritischen Rohstoffe der Europäischen Union ist das Metall dagegen nicht verzeichnet."
+   },
+   {
+    "heading": "Eigenschaften",
+    "text": "Caesium ist ein Leichtmetall mit einer Dichte von 1,873 g/cm3, das, anders als die leichteren Alkalimetalle, goldfarben ist. Der Grund liegt in der geringeren Bandlücke und damit an der geringeren Anregungsfrequenz, die in den blau-violetten Teil des sichtbaren Lichtspektrums reicht. Der blaue Anteil wird absorbiert, dadurch ist Caesium komplementär dazu gelb beziehungsweise goldfarben. In vielen Eigenschaften steht es zwischen denen des Rubidiums und – soweit bekannt – denen des instabilen Franciums. Es besitzt mit 28,7 °C mit Ausnahme von Francium den niedrigsten Schmelzpunkt aller Alkalimetalle und hat zugleich nach Quecksilber und vergleichbar mit Gallium einen der niedrigsten Schmelzpunkte für Metalle überhaupt. Caesium ist sehr weich (Mohs-Härte: 0,2) und sehr dehnbar.\nWie die anderen Alkalimetalle kristallisiert Caesium bei Standardbedingungen im kubischen Kristallsystem mit einer kubisch-raumzentrierten Elementarzelle in der Raumgruppe Im3m (Raumgruppen-Nr. 229)Vorlage:Raumgruppe/229 mit dem Gitterparameter a = 614 pm sowie zwei Formeleinheiten pro Elementarzelle. Unter einem Druck von 41 kbar erfolgt eine Phasenumwandlung in eine kubisch-flächenzentrierte Kristallstruktur mit dem Gitterparameter a = 598 pm.\nMit Ausnahme von Lithium lässt sich Caesium mit anderen Alkalimetallen beliebig mischen. Bei einem Verhältnis von 41 % Caesium, 12 % Natrium und 47 % Kalium entsteht eine eutektische Legierung mit dem bisher niedrigsten bekannten Schmelzpunkt für Metallische Materialien von −78 °C.\nDas Caesiumatom und auch das Ion Cs+ besitzen einen großen Radius, sie sind – wiederum mit Ausnahme von Francium – die größten einzelnen Atome beziehungsweise Ionen. Dies hängt mit der besonders niedrigen effektiven Kernladung zusammen, wodurch vor allem das äußerste s-Elektron nur in geringem Maße an den Kern gebunden ist. Dies bewirkt neben dem großen Atomradius auch die geringe Ionisierungsenergie des Caesiumatoms und damit die hohe Reaktivität des Elements.\nGasförmiges Caesium hat einen ungewöhnlichen Brechungsindex kleiner als eins. Das bedeutet, dass die Phasengeschwindigkeit der elektromagnetischen Welle – in diesem Fall Licht – größer als im Vakuum ist, was aber nicht im Widerspruch zur Relativitätstheorie steht.\nCaesium ist das Element mit der niedrigsten Ionisierungsenergie. Für die Abspaltung des äußersten Elektrons weist es die niedrigste Elektronegativität auf. Caesium gibt dieses bei Kontakt mit anderen Elementen sehr leicht ab und bildet einwertige Caesiumsalze. Da durch die Abspaltung dieses einen Elektrons die Edelgaskonfiguration erreicht ist, bildet es keine zwei- oder höherwertigen Ionen.\nReaktionen mit Caesium verlaufen in der Regel sehr heftig, so entzündet es sich beim Kontakt mit Sauerstoff sofort und bildet wie Kalium und Rubidium das entsprechende Hyperoxid.\nC\ns\n+\nO\n2\n⟶\nC\ns\nO\n2\n\\longrightarrow CsO_{2}} }\nAuch mit Wasser reagiert es sehr heftig unter Bildung von Caesiumhydroxid, diese Reaktion findet sogar mit Eis bei Temperaturen von −116 °C statt.\n2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor."
+   },
+   {
+    "heading": "Isotope",
+    "text": "Insgesamt sind 41 Isotope und 29 weitere Kernisomere des Caesiums bekannt. In der Natur kommt nur das Isotop 133Cs vor. Caesium ist daher ein Reinelement. Von den künstlichen Isotopen haben 134Cs mit 2,0644 Jahren,\n135Cs mit 2,33 Millionen Jahren und 137Cs mit 30,05 Jahren mittlere bis sehr lange Halbwertszeiten, während die der anderen Isotope zwischen 1 µs bei 111Cs und 13,16 Tagen bei 136Cs liegen.\nEin wichtiges künstliches Isotop ist 137Cs, ein Betastrahler mit einer Halbwertszeit von 30,08 Jahren.\n137Cs zerfällt mit einer Wahrscheinlichkeit von 94,6 % zuerst in das metastabile Zwischenprodukt 137mBa, das mit einer Halbwertszeit von 2,552 Minuten durch Gammazerfall in das stabile Barium-Isotop 137Ba übergeht (vgl. Cäsium-Barium-Generator). Bei den restlichen 5,4 % gibt es einen direkten Übergang zum stabilen Barium-Isotop 137Ba. Zusammen mit weiteren Caesiumisotopen entsteht es entweder direkt bei der Kernspaltung in Kernreaktoren oder durch den Zerfall anderer kurzlebiger Spaltprodukte wie 137I oder 137Xe.\n92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet. Daneben dient es in der Qualitätskontrolle in der Nuklearmedizin als langlebiges Nuklid in Prüfstrahlern.\nGrößere Mengen des Isotops 137Cs gelangten durch oberirdische Kernwaffenversuche und durch die Reaktorunglücke von Tschernobyl und Fukushima in die Umwelt. Die bei allen oberirdischen Kernwaffentests freigesetzte Aktivität an 137Cs betrug 9,48·1017 Bq. Gemäß der spezifischen Aktivität von 137Cs von 3,215 TBq/g entspricht das etwas weniger als 300 Kilogramm. Die Gesamtmenge an 137Cs, das durch die Tschernobyl-Katastrophe freigesetzt wurde, hatte eine Aktivität von etwa 8,5·1016 Bq. Dies entspricht etwa 26,5 Kilogramm. Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm). Die Belastung durch die letzteren beiden Isotope ist noch im Verlaufe des Jahres 1986 (136Cs mit einer Halbwertszeit von 13,16 Tagen) bzw. binnen der folgenden Jahre (134Cs mit einer Halbwertszeit von 2,065 Jahren) auf nicht mehr nennenswerte Mengen abgeklungen. Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert. Nach Masse – nicht nach Aktivität – dürfte eine vergleichbare Menge 135Cs wie 137Cs freigesetzt worden sein, da größenordnungsmäßig ähnlich häufig der Isobar mit Massezahl 137 wie jener mit Massezahl 135 bei der Spaltung von 235U entsteht. Dieser Isobar betazerfällt dann über kürzerlebige Zwischenprodukte zu den entsprechenden Caesium-Isotopen.\nDurch den Fallout wurden viele Gebiete in Europa, auch in Deutschland, vor allem im Bayerischen Wald und südlich der Donau, mit radioaktivem Caesium in messbarem Ausmaß belastet. Besonders reichert sich 137Cs in Pilzen an, die Lignin zersetzen können und dadurch einen leichteren Zugang zu Kalium und damit auch zu dem chemisch sehr ähnlichen Caesium haben als Pflanzen. Insbesondere der Maronen-Röhrling (Boletus badius) und der Flockenstielige Hexen-Röhrling (Boletus erythropus) reichern Caesium an, während beispielsweise der verwandte Gemeine Steinpilz (Boletus edulis) nur eine geringe Caesium-Anreicherung zeigt. Die Ursache für die hohe Caesium-Anreicherung der beiden erstgenannten Pilze ist durch deren Hutfarbstoffe Badion A und Norbadion A begründet, die Caesium komplexieren können.\nIm Steinpilz sind diese beiden Derivate der Pulvinsäure nicht vorhanden.\nBetroffen sind auch Wildtiere, die Pilze fressen. Die genaue Caesiumbelastung ist abhängig von der Menge an niedergegangenem Fallout und der Bodenbeschaffenheit, da Böden Caesium unterschiedlich stark binden und damit für Pflanzen verfügbar machen können. Auch saisonale Unterschiede sind – insbesondere bei Wildbret – messbar. Im Winter suchen die Tiere in tieferen Bodenschichten nach Nahrung, welche gegebenenfalls mehr Caesium enthalten als der Oberboden. Da die biologische Halbwertszeit von Caesium relativ gering ist, sind diese saisonalen Schwankungen auch bei Untersuchung des Fleisches messbar. Dieser saisonale Effekt ist bei Rehwild stärker als bei Wildschweinen. Auch in Menschen kann 137Cs durch Messungen mit Ganzkörperzählern nachgewiesen werden, wobei die Aktivität im Körper von den Verzehrgewohnheiten, insbesondere dem Verzehr kontaminierter Wildpilze und von Wildschweinfleisch, abhängt. Typische Körperaktivitäten von 137Cs liegen im Bereich weniger Becquerel bis einiger zehn Becquerel und bei Personen, die diese Lebensmittel regelmäßig verzehren, auch bei einigen hundert Becquerel. Zum Vergleich: die Aktivität des primordialen 40K – einem langlebigen radioaktivem Kalium-Isotop – in einem durchschnittlichen Erwachsenen mit 70 kg Körpergewicht liegt bei etwa 4000–5000 Becquerel.\nDer in der EU geltende Grenzwert von 330 Bq/kg für Milch und Säuglingsnahrung und 600 Bq/kg für alle übrigen Lebensmittel ist vergleichsweise niedrig und führt immer wieder dazu, dass Wildbret, welches die Grenzwerte überschreitet, vernichtet werden muss. Werte von 5000 Bq/kg und mehr in Wildschwein kommen durchaus immer wieder vor. In Japan wurde der Grenzwert nach dem Unfall von Fukushima gesenkt und zwar auf den Wert von 100 Bq/kg. Die allermeisten getesteten Lebensmittel aus der Präfektur Fukushima halten diesen im internationalen Vergleich außerordentlich strengen Grenzwert ein, dennoch besteht nach wie vor ein Stigma gegen Produkte aus der Region, welche vor 2011 in Japan einen exzellenten Ruf genossen hatten.\nEin Vorfall, bei dem Menschen aufgrund der Strahlenexposition durch 137Cs starben, war der Goiânia-Unfall im Jahr 1987 in Brasilien, bei dem aus einer verlassenen Strahlenklinik zwei Müllsammler einen Metallbehälter entwendeten. Das darin enthaltene 137Cs wurde aufgrund der auffälligen fluoreszierenden Farbe an Freunde und Bekannte verteilt. Die insgesamt involvierte Menge von 93 Gramm Caesiumchlorid enthielt 19 Gramm oder 50,9 Terabecquerel 137Cs, von denen über 80 % in die Umwelt gelangten bzw. von den Opfern des Unfalls inkorporiert wurden. Beim Nuklearunfall von Kramatorsk wurde eine 137Cs-Quelle mit rund 5,2·1010 Bq 137Cs (entspricht etwa 16 Milligramm) versehentlich in die Betonwand eines Wohnhauses eingebaut.\nAndere Radioisotope des Caesium sind im öffentlichen Bewusstsein weniger präsent, obwohl auch sie in nennenswerter Menge in die Umwelt abgegeben wurden. Hier ist zum einen Caesium-134 zu nennen, welches durch Neutroneneinfang aus stabilem Caesium-133 entsteht, aufgrund seiner relativ kurzen Halbwertszeit um die zwei Jahre allerdings mittelfristig weniger Relevanz hat. Während 20 Jahre nach der Freisetzung noch mehr als die Hälfte des ursprünglichen Caesium-137 vorhanden ist, ist die Menge an Caesium-134 auf weniger als ein Tausendstel gesunken.\nCaesium-135 ist relativ langlebig (Halbwertszeit 2,3 Millionen Jahre) und aufgrund seiner geringen Radioaktivität radiotoxisch weniger relevant. Das Verhältnis von Caesium-135 zu anderen Caesium-Isotopen kann genutzt werden, um herauszufinden, ob der Ursprung einer radioaktiven Kontamination eine Atombombe oder ein Kernkraftwerk ist. Caesium-135 entsteht bei der Kernspaltung nicht direkt, sondern als Tochternuklid von Xenon-135. Da Xenon-135 ein starkes Neutronengift ist, wird in einem Kernkraftwerk mit (genähert) konstantem Neutronenfluss ein erheblicher Teil des Xenon-135 durch Neutroneneinfang zu Xenon-136 umgewandelt, bevor es zu Caesium-135 zerfallen kann. Während einer Atombombenexplosion ist das Xenon-135 noch gar nicht aus seinem „Vorgänger“ Iod-135 (T1/2 = 6,6 h) entstanden, wenn nach kurzer Zeit der Neutronenfluss abreißt. Daher weist ein Kernwaffen-Fallout ein höheres 135Cs/137Cs-Verhältnis auf, als Spaltprodukte aus einem Reaktor."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "date",
+   "value": "2024",
+   "surface": "2024",
+   "sentence": "Caesium (nach IUPAC) [ˈʦɛːzi̯ʊm] , standardsprachlich Cäsium (bis 2024 auch Zäsium; im amerikanischen Englisch cesium), ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe, bzw. der 1. IUPAC-Gruppe und gehört zu den Alkalimetallen."
+  },
+  "f2": {
+   "kind": "number",
+   "value": 55,
+   "surface": "55",
+   "sentence": "Caesium (nach IUPAC) [ˈʦɛːzi̯ʊm] , standardsprachlich Cäsium (bis 2024 auch Zäsium; im amerikanischen Englisch cesium), ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe, bzw. der 1. IUPAC-Gruppe und gehört zu den Alkalimetallen."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Caesium (nach IUPAC) [ˈʦɛːzi̯ʊm] , standardsprachlich Cäsium (bis 2024 auch Zäsium; im amerikanischen Englisch cesium), ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe, bzw. der 1. IUPAC-Gruppe und gehört zu den Alkalimetallen."
+  },
+  "f4": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Caesium (nach IUPAC) [ˈʦɛːzi̯ʊm] , standardsprachlich Cäsium (bis 2024 auch Zäsium; im amerikanischen Englisch cesium), ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe, bzw. der 1. IUPAC-Gruppe und gehört zu den Alkalimetallen."
+  },
+  "f5": {
+   "kind": "date",
+   "value": "1861",
+   "surface": "1861",
+   "sentence": "Caesium wurde 1861 von Robert Wilhelm Bunsen und Gustav Robert Kirchhoff im Dürkheimer Mineralwasser der Maxquelle entdeckt."
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1881",
+   "surface": "1881",
+   "sentence": "Das Reinelement konnte erstmals 1881 von Carl Theodor Setterberg dargestellt werden."
+  },
+  "f7": {
+   "kind": "number",
+   "value": 26,
+   "surface": "26",
+   "sentence": "Deshalb fand das radioaktive Isotop Caesium-137 (137Cs), ein Produkt der Kernspaltung, in der Öffentlichkeit besondere Beachtung, als es infolge der Katastrophe von Tschernobyl am 26. April 1986 in größeren Mengen in die Umwelt gelangte."
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1986",
+   "surface": "1986",
+   "sentence": "Deshalb fand das radioaktive Isotop Caesium-137 (137Cs), ein Produkt der Kernspaltung, in der Öffentlichkeit besondere Beachtung, als es infolge der Katastrophe von Tschernobyl am 26. April 1986 in größeren Mengen in die Umwelt gelangte."
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1861",
+   "surface": "1861",
+   "sentence": "Caesium wurde erstmals 1861 von Gustav Robert Kirchhoff und Robert Wilhelm Bunsen beschrieben.",
+   "section": "Geschichte"
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 123.35,
+   "unit": "g",
+   "surface": "123,35 g",
+   "sentence": "Caesiumchlorid diente Bunsen und Kirchhoff auch für eine erste Bestimmung der molaren Masse des neuen Elements, wofür sie den Wert von 123,35 g/mol fanden.",
+   "section": "Geschichte"
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 10,
+   "unit": "g",
+   "surface": "10 g",
+   "sentence": "Dieser Wert ist nach heutigen Erkenntnissen gut 10 g/mol zu niedrig.",
+   "section": "Geschichte"
+  },
+  "f12": {
+   "kind": "date",
+   "value": "1881",
+   "surface": "1881",
+   "sentence": "Die Darstellung des elementaren Caesiums gelang schließlich 1881 Carl Theodor Setterberg, der die Probleme mit dem Chlorid vermied, indem er für die Schmelzflusselektrolyse Caesiumcyanid verwendete.",
+   "section": "Geschichte"
+  },
+  "f13": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Mit einem Gehalt von 3 ppm in der kontinentalen Erdkruste ist Caesium auf der Erde ein seltenes Element.",
+   "section": "Vorkommen"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025",
+   "sentence": "2025 sind 27 caesiumhaltige Minerale bekannt.",
+   "section": "Vorkommen"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 27,
+   "surface": "27",
+   "sentence": "2025 sind 27 caesiumhaltige Minerale bekannt.",
+   "section": "Vorkommen"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 100000,
+   "surface": "100.000",
+   "sentence": "Die ursprünglichen Pollucit-Mengen der Tanco-Mine wurden auf 100.000–150.000 Tonnen Erz mit einem Caesiumgehalt von 25–30 % berechnet.",
+   "section": "Vorkommen"
+  },
+  "f17": {
+   "kind": "measure",
+   "value": 150000,
+   "unit": "tonnen",
+   "surface": "150.000 Tonnen",
+   "sentence": "Die ursprünglichen Pollucit-Mengen der Tanco-Mine wurden auf 100.000–150.000 Tonnen Erz mit einem Caesiumgehalt von 25–30 % berechnet.",
+   "section": "Vorkommen"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 25,
+   "surface": "25",
+   "sentence": "Die ursprünglichen Pollucit-Mengen der Tanco-Mine wurden auf 100.000–150.000 Tonnen Erz mit einem Caesiumgehalt von 25–30 % berechnet.",
+   "section": "Vorkommen"
+  },
+  "f19": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "%",
+   "surface": "30 %",
+   "sentence": "Die ursprünglichen Pollucit-Mengen der Tanco-Mine wurden auf 100.000–150.000 Tonnen Erz mit einem Caesiumgehalt von 25–30 % berechnet.",
+   "section": "Vorkommen"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 0.3,
+   "surface": "0,3",
+   "sentence": "Aufgrund der Wasserlöslichkeit der meisten Caesiumverbindungen ist das Element im Meerwasser gelöst; ein Liter enthält dabei durchschnittlich 0,3 bis 4 Mikrogramm Caesium.",
+   "section": "Vorkommen"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Aufgrund der Wasserlöslichkeit der meisten Caesiumverbindungen ist das Element im Meerwasser gelöst; ein Liter enthält dabei durchschnittlich 0,3 bis 4 Mikrogramm Caesium.",
+   "section": "Vorkommen"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f35": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "2\nCs\n(\nSi\n2\nAl\n)\nO\n6\n+\n4\nH\n2\nSO\n4\n⟶\nCs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n4\nSiO\n2\n+\n4\nH\n2\nO\n}}\nBeim langsamen Abkühlen der Lösung kristallisiert Caesiumalaun (Caesiumaluminiumsulfat-Dodecahydrat, CsAl(SO4)2 · 12 H2O) aus, kann abgetrennt und durch Umkristallisation gereinigt werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f44": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f47": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f48": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cs\n2\nSO\n4\n+\nAl\n2\n(\nSO\n4\n)\n3\n+\n24\nH\n2\nO\n⟶\n2\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n}}\nDas Caesiumalaun wird zusammen mit Kohlenstoff geröstet, wobei sich Caesiumsulfat und Aluminiumoxid bilden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 12,
+   "surface": "12",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f62": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f65": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f66": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 48,
+   "surface": "48",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "4\nCsAl\n(\nSO\n4\n)\n2\n⋅\n12\nH\n2\nO\n+\n4\nC\n+\nO\n2\n⟶\n2\nCs\n2\nSO\n4\n+\n2\nAl\n2\nO\n3\n+\n6\nSO\n2\n+\n4\nCO\n2\n+\n48\nH\n2\nO\n}}\nEine weitere Möglichkeit ist es, Pollucit mit einer Mischung von Calcium- oder Natriumcarbonat und den entsprechenden Chloriden zu rösten und anschließend mit Wasser auszulaugen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f70": {
+   "kind": "measure",
+   "value": 950,
+   "unit": "°c",
+   "surface": "950 °C",
+   "sentence": "Weiterhin ist es möglich, Pollucit direkt mit Calcium im Vakuum bei 950 °C oder unter Inertgas mit Natrium oder Kalium auf 750 °C zum Metall zu reduzieren.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f71": {
+   "kind": "measure",
+   "value": 750,
+   "unit": "°c",
+   "surface": "750 °C",
+   "sentence": "Weiterhin ist es möglich, Pollucit direkt mit Calcium im Vakuum bei 950 °C oder unter Inertgas mit Natrium oder Kalium auf 750 °C zum Metall zu reduzieren.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f72": {
+   "kind": "measure",
+   "value": 1.2,
+   "unit": "%",
+   "surface": "1,2 %",
+   "sentence": "Das Lithiumerz Lepidolith enthält bis zu 1,2 % Caesium, sodass eine Gewinnung als Nebenprodukt möglich ist.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f73": {
+   "kind": "date",
+   "value": "700",
+   "surface": "700",
+   "sentence": "Caesiummetall kann chemisch durch Reduktion von Caesiumhalogeniden mit Calcium oder Barium bei 700–800 °C gewonnen werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f74": {
+   "kind": "measure",
+   "value": 800,
+   "unit": "°c",
+   "surface": "800 °C",
+   "sentence": "Caesiummetall kann chemisch durch Reduktion von Caesiumhalogeniden mit Calcium oder Barium bei 700–800 °C gewonnen werden.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f75": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCsCl\n+\nCa\n⟶\n2\nCs\n+\nCaCl\n2\n}}\nEine direkte elektrolytische Darstellung ist durch die hohe Reaktivität des Elementes schwierig und wird darum in zwei Stufen durchgeführt.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCsCl\n+\nCa\n⟶\n2\nCs\n+\nCaCl\n2\n}}\nEine direkte elektrolytische Darstellung ist durch die hohe Reaktivität des Elementes schwierig und wird darum in zwei Stufen durchgeführt.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f77": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nCsCl\n+\nCa\n⟶\n2\nCs\n+\nCaCl\n2\n}}\nEine direkte elektrolytische Darstellung ist durch die hohe Reaktivität des Elementes schwierig und wird darum in zwei Stufen durchgeführt.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f78": {
+   "kind": "measure",
+   "value": 700,
+   "unit": "°c",
+   "surface": "700 °C",
+   "sentence": "So kann geschmolzenes Caesiumchlorid mit einer Kathode aus flüssigem Blei bei 700 °C elektrolysiert werden, wobei eine Blei-Caesium-Legierung mit ca. 8,5 % Caesium entsteht.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f79": {
+   "kind": "measure",
+   "value": 8.5,
+   "unit": "%",
+   "surface": "8,5 %",
+   "sentence": "So kann geschmolzenes Caesiumchlorid mit einer Kathode aus flüssigem Blei bei 700 °C elektrolysiert werden, wobei eine Blei-Caesium-Legierung mit ca. 8,5 % Caesium entsteht.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f80": {
+   "kind": "date",
+   "value": "600",
+   "surface": "600",
+   "sentence": "Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f81": {
+   "kind": "measure",
+   "value": 700,
+   "unit": "°c",
+   "surface": "700 °C",
+   "sentence": "Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f82": {
+   "kind": "measure",
+   "value": 380,
+   "unit": "°c",
+   "surface": "380 °C",
+   "sentence": "Die Reaktion erfolgt bei 380 °C an einem Eisen- oder Kupferkatalysator.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f83": {
+   "kind": "date",
+   "value": "2022",
+   "surface": "2022",
+   "sentence": "2022 wurde sogar kein Caesiumerz außerhalb Chinas gefördert.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f84": {
+   "kind": "date",
+   "value": "2015",
+   "surface": "2015",
+   "sentence": "Die Förderung in Namibia endete schon in den frühen 2000ern, in der Tanco-Mine in Kanada 2015, in Bikita/Simbabwe 2018 und in der australischen Sinclair-Mine 2019.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f85": {
+   "kind": "date",
+   "value": "2018",
+   "surface": "2018",
+   "sentence": "Die Förderung in Namibia endete schon in den frühen 2000ern, in der Tanco-Mine in Kanada 2015, in Bikita/Simbabwe 2018 und in der australischen Sinclair-Mine 2019.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f86": {
+   "kind": "date",
+   "value": "2019",
+   "surface": "2019",
+   "sentence": "Die Förderung in Namibia endete schon in den frühen 2000ern, in der Tanco-Mine in Kanada 2015, in Bikita/Simbabwe 2018 und in der australischen Sinclair-Mine 2019.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f87": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025",
+   "sentence": "2025 wurde der Abbau in der Tanco-Mine und Bikita wieder aufgenommen.",
+   "section": "Gewinnung und Darstellung"
+  },
+  "f88": {
+   "kind": "measure",
+   "value": 1.873,
+   "unit": "g",
+   "surface": "1,873 g",
+   "sentence": "Caesium ist ein Leichtmetall mit einer Dichte von 1,873 g/cm3, das, anders als die leichteren Alkalimetalle, goldfarben ist.",
+   "section": "Eigenschaften"
+  },
+  "f89": {
+   "kind": "measure",
+   "value": 28.7,
+   "unit": "°c",
+   "surface": "28,7 °C",
+   "sentence": "Es besitzt mit 28,7 °C mit Ausnahme von Francium den niedrigsten Schmelzpunkt aller Alkalimetalle und hat zugleich nach Quecksilber und vergleichbar mit Gallium einen der niedrigsten Schmelzpunkte für Metalle überhaupt.",
+   "section": "Eigenschaften"
+  },
+  "f90": {
+   "kind": "number",
+   "value": 0.2,
+   "surface": "0,2",
+   "sentence": "Caesium ist sehr weich (Mohs-Härte: 0,2) und sehr dehnbar.",
+   "section": "Eigenschaften"
+  },
+  "f91": {
+   "kind": "number",
+   "value": 229,
+   "surface": "229",
+   "sentence": "229)Vorlage:Raumgruppe/229 mit dem Gitterparameter a = 614 pm sowie zwei Formeleinheiten pro Elementarzelle.",
+   "section": "Eigenschaften"
+  },
+  "f92": {
+   "kind": "date",
+   "value": "614",
+   "surface": "614",
+   "sentence": "229)Vorlage:Raumgruppe/229 mit dem Gitterparameter a = 614 pm sowie zwei Formeleinheiten pro Elementarzelle.",
+   "section": "Eigenschaften"
+  },
+  "f93": {
+   "kind": "number",
+   "value": 41,
+   "surface": "41",
+   "sentence": "Unter einem Druck von 41 kbar erfolgt eine Phasenumwandlung in eine kubisch-flächenzentrierte Kristallstruktur mit dem Gitterparameter a = 598 pm.",
+   "section": "Eigenschaften"
+  },
+  "f94": {
+   "kind": "date",
+   "value": "598",
+   "surface": "598",
+   "sentence": "Unter einem Druck von 41 kbar erfolgt eine Phasenumwandlung in eine kubisch-flächenzentrierte Kristallstruktur mit dem Gitterparameter a = 598 pm.",
+   "section": "Eigenschaften"
+  },
+  "f95": {
+   "kind": "measure",
+   "value": 41,
+   "unit": "%",
+   "surface": "41 %",
+   "sentence": "Bei einem Verhältnis von 41 % Caesium, 12 % Natrium und 47 % Kalium entsteht eine eutektische Legierung mit dem bisher niedrigsten bekannten Schmelzpunkt für Metallische Materialien von −78 °C.",
+   "section": "Eigenschaften"
+  },
+  "f96": {
+   "kind": "measure",
+   "value": 12,
+   "unit": "%",
+   "surface": "12 %",
+   "sentence": "Bei einem Verhältnis von 41 % Caesium, 12 % Natrium und 47 % Kalium entsteht eine eutektische Legierung mit dem bisher niedrigsten bekannten Schmelzpunkt für Metallische Materialien von −78 °C.",
+   "section": "Eigenschaften"
+  },
+  "f97": {
+   "kind": "measure",
+   "value": 47,
+   "unit": "%",
+   "surface": "47 %",
+   "sentence": "Bei einem Verhältnis von 41 % Caesium, 12 % Natrium und 47 % Kalium entsteht eine eutektische Legierung mit dem bisher niedrigsten bekannten Schmelzpunkt für Metallische Materialien von −78 °C.",
+   "section": "Eigenschaften"
+  },
+  "f98": {
+   "kind": "measure",
+   "value": 78,
+   "unit": "°c",
+   "surface": "78 °C",
+   "sentence": "Bei einem Verhältnis von 41 % Caesium, 12 % Natrium und 47 % Kalium entsteht eine eutektische Legierung mit dem bisher niedrigsten bekannten Schmelzpunkt für Metallische Materialien von −78 °C.",
+   "section": "Eigenschaften"
+  },
+  "f99": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "C\ns\n+\nO\n2\n⟶\nC\ns\nO\n2\n\\longrightarrow CsO_{2}} }\nAuch mit Wasser reagiert es sehr heftig unter Bildung von Caesiumhydroxid, diese Reaktion findet sogar mit Eis bei Temperaturen von −116 °C statt.",
+   "section": "Eigenschaften"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "C\ns\n+\nO\n2\n⟶\nC\ns\nO\n2\n\\longrightarrow CsO_{2}} }\nAuch mit Wasser reagiert es sehr heftig unter Bildung von Caesiumhydroxid, diese Reaktion findet sogar mit Eis bei Temperaturen von −116 °C statt.",
+   "section": "Eigenschaften"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "C\ns\n+\nO\n2\n⟶\nC\ns\nO\n2\n\\longrightarrow CsO_{2}} }\nAuch mit Wasser reagiert es sehr heftig unter Bildung von Caesiumhydroxid, diese Reaktion findet sogar mit Eis bei Temperaturen von −116 °C statt.",
+   "section": "Eigenschaften"
+  },
+  "f102": {
+   "kind": "measure",
+   "value": 116,
+   "unit": "°c",
+   "surface": "116 °C",
+   "sentence": "C\ns\n+\nO\n2\n⟶\nC\ns\nO\n2\n\\longrightarrow CsO_{2}} }\nAuch mit Wasser reagiert es sehr heftig unter Bildung von Caesiumhydroxid, diese Reaktion findet sogar mit Eis bei Temperaturen von −116 °C statt.",
+   "section": "Eigenschaften"
+  },
+  "f103": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f104": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f106": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f107": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f108": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f109": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "2\nC\ns\n+\n2\nH\n2\nO\n⟶\n2\nC\ns\nO\nH\n+\nH\n2\n↑\nO\\longrightarrow 2\\ CsOH+H_{2}\\uparrow } }\nBeim Erhitzen mit Gold bildet sich Caesiumaurid (CsAu), eine Verbindung, die – trotz Bildung aus zwei Metallen – keine Legierung ist, sondern ein Halbleiter; in flüssigem CsAu liegen Cs+- und Au−-Ionen vor.",
+   "section": "Eigenschaften"
+  },
+  "f110": {
+   "kind": "number",
+   "value": 41,
+   "surface": "41",
+   "sentence": "Insgesamt sind 41 Isotope und 29 weitere Kernisomere des Caesiums bekannt.",
+   "section": "Isotope"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 29,
+   "surface": "29",
+   "sentence": "Insgesamt sind 41 Isotope und 29 weitere Kernisomere des Caesiums bekannt.",
+   "section": "Isotope"
+  },
+  "f112": {
+   "kind": "measure",
+   "value": 2.0644,
+   "unit": "jahren",
+   "surface": "2,0644 Jahren",
+   "sentence": "Von den künstlichen Isotopen haben 134Cs mit 2,0644 Jahren,\n135Cs mit 2,33 Millionen Jahren und 137Cs mit 30,05 Jahren mittlere bis sehr lange Halbwertszeiten, während die der anderen Isotope zwischen 1 µs bei 111Cs und 13,16 Tagen bei 136Cs liegen.",
+   "section": "Isotope"
+  },
+  "f113": {
+   "kind": "measure",
+   "value": 2330000,
+   "unit": "jahren",
+   "surface": "2,33 Millionen Jahren",
+   "sentence": "Von den künstlichen Isotopen haben 134Cs mit 2,0644 Jahren,\n135Cs mit 2,33 Millionen Jahren und 137Cs mit 30,05 Jahren mittlere bis sehr lange Halbwertszeiten, während die der anderen Isotope zwischen 1 µs bei 111Cs und 13,16 Tagen bei 136Cs liegen.",
+   "section": "Isotope"
+  },
+  "f114": {
+   "kind": "measure",
+   "value": 30.05,
+   "unit": "jahren",
+   "surface": "30,05 Jahren",
+   "sentence": "Von den künstlichen Isotopen haben 134Cs mit 2,0644 Jahren,\n135Cs mit 2,33 Millionen Jahren und 137Cs mit 30,05 Jahren mittlere bis sehr lange Halbwertszeiten, während die der anderen Isotope zwischen 1 µs bei 111Cs und 13,16 Tagen bei 136Cs liegen.",
+   "section": "Isotope"
+  },
+  "f115": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Von den künstlichen Isotopen haben 134Cs mit 2,0644 Jahren,\n135Cs mit 2,33 Millionen Jahren und 137Cs mit 30,05 Jahren mittlere bis sehr lange Halbwertszeiten, während die der anderen Isotope zwischen 1 µs bei 111Cs und 13,16 Tagen bei 136Cs liegen.",
+   "section": "Isotope"
+  },
+  "f116": {
+   "kind": "number",
+   "value": 13.16,
+   "surface": "13,16",
+   "sentence": "Von den künstlichen Isotopen haben 134Cs mit 2,0644 Jahren,\n135Cs mit 2,33 Millionen Jahren und 137Cs mit 30,05 Jahren mittlere bis sehr lange Halbwertszeiten, während die der anderen Isotope zwischen 1 µs bei 111Cs und 13,16 Tagen bei 136Cs liegen.",
+   "section": "Isotope"
+  },
+  "f117": {
+   "kind": "measure",
+   "value": 30.08,
+   "unit": "jahren",
+   "surface": "30,08 Jahren",
+   "sentence": "Ein wichtiges künstliches Isotop ist 137Cs, ein Betastrahler mit einer Halbwertszeit von 30,08 Jahren.",
+   "section": "Isotope"
+  },
+  "f118": {
+   "kind": "measure",
+   "value": 94.6,
+   "unit": "%",
+   "surface": "94,6 %",
+   "sentence": "137Cs zerfällt mit einer Wahrscheinlichkeit von 94,6 % zuerst in das metastabile Zwischenprodukt 137mBa, das mit einer Halbwertszeit von 2,552 Minuten durch Gammazerfall in das stabile Barium-Isotop 137Ba übergeht (vgl. Cäsium-Barium-Generator).",
+   "section": "Isotope"
+  },
+  "f119": {
+   "kind": "number",
+   "value": 2.552,
+   "surface": "2,552",
+   "sentence": "137Cs zerfällt mit einer Wahrscheinlichkeit von 94,6 % zuerst in das metastabile Zwischenprodukt 137mBa, das mit einer Halbwertszeit von 2,552 Minuten durch Gammazerfall in das stabile Barium-Isotop 137Ba übergeht (vgl. Cäsium-Barium-Generator).",
+   "section": "Isotope"
+  },
+  "f120": {
+   "kind": "measure",
+   "value": 5.4,
+   "unit": "%",
+   "surface": "5,4 %",
+   "sentence": "Bei den restlichen 5,4 % gibt es einen direkten Übergang zum stabilen Barium-Isotop 137Ba.",
+   "section": "Isotope"
+  },
+  "f121": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f122": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f123": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f124": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f125": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f126": {
+   "kind": "number",
+   "value": 236,
+   "surface": "236",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f127": {
+   "kind": "number",
+   "value": 55,
+   "surface": "55",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f128": {
+   "kind": "number",
+   "value": 137,
+   "surface": "137",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f129": {
+   "kind": "number",
+   "value": 37,
+   "surface": "37",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f130": {
+   "kind": "number",
+   "value": 96,
+   "surface": "96",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f131": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f132": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f133": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f134": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f135": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f136": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f137": {
+   "kind": "number",
+   "value": 92,
+   "surface": "92",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f138": {
+   "kind": "number",
+   "value": 236,
+   "surface": "236",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f139": {
+   "kind": "number",
+   "value": 55,
+   "surface": "55",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f140": {
+   "kind": "number",
+   "value": 137,
+   "surface": "137",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f141": {
+   "kind": "number",
+   "value": 37,
+   "surface": "37",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f142": {
+   "kind": "number",
+   "value": 96,
+   "surface": "96",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f143": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f144": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f145": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "92\n235\nU\n+\n0\n1\nn\n⟶\n92\n236\nU\n⟶\n55\n137\nC\ns\n+\n37\n96\nR\nb\n+\n3\n0\n1\nn\n_{\\ 92}U+\\ _{0}^{1}n\\longrightarrow \\ _{\\ 92}^{236}U\\longrightarrow \\ _{\\ 55}^{137}Cs+\\ _{37}^{96}Rb+3\\ _{0}^{1}n} }\nBildung von 137Cs bei der Kernspaltung von 235U\n137Cs ist neben dem Cobaltisotop 60Co eine wichtige Gammastrahlenquelle und wird in der Strahlentherapie zur Behandlung von Krebserkrankungen, zur Messung der Fließgeschwindigkeit in Röhren und zur Dickenprüfung etwa von Papier, Filmen oder Metall verwendet.",
+   "section": "Isotope"
+  },
+  "f146": {
+   "kind": "number",
+   "value": 9.48,
+   "surface": "9,48",
+   "sentence": "Die bei allen oberirdischen Kernwaffentests freigesetzte Aktivität an 137Cs betrug 9,48·1017 Bq.",
+   "section": "Isotope"
+  },
+  "f147": {
+   "kind": "date",
+   "value": "1017",
+   "surface": "1017",
+   "sentence": "Die bei allen oberirdischen Kernwaffentests freigesetzte Aktivität an 137Cs betrug 9,48·1017 Bq.",
+   "section": "Isotope"
+  },
+  "f148": {
+   "kind": "number",
+   "value": 3.215,
+   "surface": "3,215",
+   "sentence": "Gemäß der spezifischen Aktivität von 137Cs von 3,215 TBq/g entspricht das etwas weniger als 300 Kilogramm.",
+   "section": "Isotope"
+  },
+  "f149": {
+   "kind": "number",
+   "value": 300,
+   "surface": "300",
+   "sentence": "Gemäß der spezifischen Aktivität von 137Cs von 3,215 TBq/g entspricht das etwas weniger als 300 Kilogramm.",
+   "section": "Isotope"
+  },
+  "f150": {
+   "kind": "number",
+   "value": 8.5,
+   "surface": "8,5",
+   "sentence": "Die Gesamtmenge an 137Cs, das durch die Tschernobyl-Katastrophe freigesetzt wurde, hatte eine Aktivität von etwa 8,5·1016 Bq.",
+   "section": "Isotope"
+  },
+  "f151": {
+   "kind": "date",
+   "value": "1016",
+   "surface": "1016",
+   "sentence": "Die Gesamtmenge an 137Cs, das durch die Tschernobyl-Katastrophe freigesetzt wurde, hatte eine Aktivität von etwa 8,5·1016 Bq.",
+   "section": "Isotope"
+  },
+  "f152": {
+   "kind": "number",
+   "value": 26.5,
+   "surface": "26,5",
+   "sentence": "Dies entspricht etwa 26,5 Kilogramm.",
+   "section": "Isotope"
+  },
+  "f153": {
+   "kind": "number",
+   "value": 4.7,
+   "surface": "4,7",
+   "sentence": "Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm).",
+   "section": "Isotope"
+  },
+  "f154": {
+   "kind": "date",
+   "value": "1016",
+   "surface": "1016",
+   "sentence": "Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm).",
+   "section": "Isotope"
+  },
+  "f155": {
+   "kind": "date",
+   "value": "980",
+   "surface": "980",
+   "sentence": "Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm).",
+   "section": "Isotope"
+  },
+  "f156": {
+   "kind": "number",
+   "value": 3.6,
+   "surface": "3,6",
+   "sentence": "Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm).",
+   "section": "Isotope"
+  },
+  "f157": {
+   "kind": "date",
+   "value": "1016",
+   "surface": "1016",
+   "sentence": "Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm).",
+   "section": "Isotope"
+  },
+  "f158": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "Hinzu kam eine Aktivität von etwa 4,7·1016 Bq durch 134Cs (entspricht etwa 980 Gramm) und 3,6·1016 Bq durch 136Cs (etwa 13 Gramm).",
+   "section": "Isotope"
+  },
+  "f159": {
+   "kind": "date",
+   "value": "1986",
+   "surface": "1986",
+   "sentence": "Die Belastung durch die letzteren beiden Isotope ist noch im Verlaufe des Jahres 1986 (136Cs mit einer Halbwertszeit von 13,16 Tagen) bzw. binnen der folgenden Jahre (134Cs mit einer Halbwertszeit von 2,065 Jahren) auf nicht mehr nennenswerte Mengen abgeklungen.",
+   "section": "Isotope"
+  },
+  "f160": {
+   "kind": "number",
+   "value": 13.16,
+   "surface": "13,16",
+   "sentence": "Die Belastung durch die letzteren beiden Isotope ist noch im Verlaufe des Jahres 1986 (136Cs mit einer Halbwertszeit von 13,16 Tagen) bzw. binnen der folgenden Jahre (134Cs mit einer Halbwertszeit von 2,065 Jahren) auf nicht mehr nennenswerte Mengen abgeklungen.",
+   "section": "Isotope"
+  },
+  "f161": {
+   "kind": "measure",
+   "value": 2.065,
+   "unit": "jahren",
+   "surface": "2,065 Jahren",
+   "sentence": "Die Belastung durch die letzteren beiden Isotope ist noch im Verlaufe des Jahres 1986 (136Cs mit einer Halbwertszeit von 13,16 Tagen) bzw. binnen der folgenden Jahre (134Cs mit einer Halbwertszeit von 2,065 Jahren) auf nicht mehr nennenswerte Mengen abgeklungen.",
+   "section": "Isotope"
+  },
+  "f162": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f163": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f164": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f165": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f166": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f167": {
+   "kind": "date",
+   "value": "1024",
+   "surface": "1024",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f168": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f169": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f170": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f171": {
+   "kind": "date",
+   "value": "1024",
+   "surface": "1024",
+   "sentence": "Nach 10 Halbwertszeiten liegt noch\n1\n2\n10\n=\n1\n1024\n{2^{10}}}={\\tfrac {1}{1024}}}\nder ursprünglichen Menge vor, was sich mit jeder weiteren Halbwertszeit wiederum halbiert.",
+   "section": "Isotope"
+  },
+  "f172": {
+   "kind": "number",
+   "value": 137,
+   "surface": "137",
+   "sentence": "Nach Masse – nicht nach Aktivität – dürfte eine vergleichbare Menge 135Cs wie 137Cs freigesetzt worden sein, da größenordnungsmäßig ähnlich häufig der Isobar mit Massezahl 137 wie jener mit Massezahl 135 bei der Spaltung von 235U entsteht.",
+   "section": "Isotope"
+  },
+  "f173": {
+   "kind": "number",
+   "value": 135,
+   "surface": "135",
+   "sentence": "Nach Masse – nicht nach Aktivität – dürfte eine vergleichbare Menge 135Cs wie 137Cs freigesetzt worden sein, da größenordnungsmäßig ähnlich häufig der Isobar mit Massezahl 137 wie jener mit Massezahl 135 bei der Spaltung von 235U entsteht.",
+   "section": "Isotope"
+  },
+  "f174": {
+   "kind": "measure",
+   "value": 40,
+   "unit": "k",
+   "surface": "40K",
+   "sentence": "Zum Vergleich: die Aktivität des primordialen 40K – einem langlebigen radioaktivem Kalium-Isotop – in einem durchschnittlichen Erwachsenen mit 70 kg Körpergewicht liegt bei etwa 4000–5000 Becquerel.",
+   "section": "Isotope"
+  },
+  "f175": {
+   "kind": "measure",
+   "value": 70,
+   "unit": "kg",
+   "surface": "70 kg",
+   "sentence": "Zum Vergleich: die Aktivität des primordialen 40K – einem langlebigen radioaktivem Kalium-Isotop – in einem durchschnittlichen Erwachsenen mit 70 kg Körpergewicht liegt bei etwa 4000–5000 Becquerel.",
+   "section": "Isotope"
+  },
+  "f176": {
+   "kind": "number",
+   "value": 4000,
+   "surface": "4000",
+   "sentence": "Zum Vergleich: die Aktivität des primordialen 40K – einem langlebigen radioaktivem Kalium-Isotop – in einem durchschnittlichen Erwachsenen mit 70 kg Körpergewicht liegt bei etwa 4000–5000 Becquerel.",
+   "section": "Isotope"
+  },
+  "f177": {
+   "kind": "number",
+   "value": 5000,
+   "surface": "5000",
+   "sentence": "Zum Vergleich: die Aktivität des primordialen 40K – einem langlebigen radioaktivem Kalium-Isotop – in einem durchschnittlichen Erwachsenen mit 70 kg Körpergewicht liegt bei etwa 4000–5000 Becquerel.",
+   "section": "Isotope"
+  },
+  "f178": {
+   "kind": "number",
+   "value": 330,
+   "surface": "330",
+   "sentence": "Der in der EU geltende Grenzwert von 330 Bq/kg für Milch und Säuglingsnahrung und 600 Bq/kg für alle übrigen Lebensmittel ist vergleichsweise niedrig und führt immer wieder dazu, dass Wildbret, welches die Grenzwerte überschreitet, vernichtet werden muss.",
+   "section": "Isotope"
+  },
+  "f179": {
+   "kind": "date",
+   "value": "600",
+   "surface": "600",
+   "sentence": "Der in der EU geltende Grenzwert von 330 Bq/kg für Milch und Säuglingsnahrung und 600 Bq/kg für alle übrigen Lebensmittel ist vergleichsweise niedrig und führt immer wieder dazu, dass Wildbret, welches die Grenzwerte überschreitet, vernichtet werden muss.",
+   "section": "Isotope"
+  },
+  "f180": {
+   "kind": "number",
+   "value": 5000,
+   "surface": "5000",
+   "sentence": "Werte von 5000 Bq/kg und mehr in Wildschwein kommen durchaus immer wieder vor.",
+   "section": "Isotope"
+  },
+  "f181": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "In Japan wurde der Grenzwert nach dem Unfall von Fukushima gesenkt und zwar auf den Wert von 100 Bq/kg.",
+   "section": "Isotope"
+  },
+  "f182": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011",
+   "sentence": "Die allermeisten getesteten Lebensmittel aus der Präfektur Fukushima halten diesen im internationalen Vergleich außerordentlich strengen Grenzwert ein, dennoch besteht nach wie vor ein Stigma gegen Produkte aus der Region, welche vor 2011 in Japan einen exzellenten Ruf genossen hatten.",
+   "section": "Isotope"
+  },
+  "f183": {
+   "kind": "date",
+   "value": "1987",
+   "surface": "1987",
+   "sentence": "Ein Vorfall, bei dem Menschen aufgrund der Strahlenexposition durch 137Cs starben, war der Goiânia-Unfall im Jahr 1987 in Brasilien, bei dem aus einer verlassenen Strahlenklinik zwei Müllsammler einen Metallbehälter entwendeten.",
+   "section": "Isotope"
+  },
+  "f184": {
+   "kind": "number",
+   "value": 93,
+   "surface": "93",
+   "sentence": "Die insgesamt involvierte Menge von 93 Gramm Caesiumchlorid enthielt 19 Gramm oder 50,9 Terabecquerel 137Cs, von denen über 80 % in die Umwelt gelangten bzw. von den Opfern des Unfalls inkorporiert wurden.",
+   "section": "Isotope"
+  },
+  "f185": {
+   "kind": "number",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Die insgesamt involvierte Menge von 93 Gramm Caesiumchlorid enthielt 19 Gramm oder 50,9 Terabecquerel 137Cs, von denen über 80 % in die Umwelt gelangten bzw. von den Opfern des Unfalls inkorporiert wurden.",
+   "section": "Isotope"
+  },
+  "f186": {
+   "kind": "number",
+   "value": 50.9,
+   "surface": "50,9",
+   "sentence": "Die insgesamt involvierte Menge von 93 Gramm Caesiumchlorid enthielt 19 Gramm oder 50,9 Terabecquerel 137Cs, von denen über 80 % in die Umwelt gelangten bzw. von den Opfern des Unfalls inkorporiert wurden.",
+   "section": "Isotope"
+  },
+  "f187": {
+   "kind": "measure",
+   "value": 80,
+   "unit": "%",
+   "surface": "80 %",
+   "sentence": "Die insgesamt involvierte Menge von 93 Gramm Caesiumchlorid enthielt 19 Gramm oder 50,9 Terabecquerel 137Cs, von denen über 80 % in die Umwelt gelangten bzw. von den Opfern des Unfalls inkorporiert wurden.",
+   "section": "Isotope"
+  },
+  "f188": {
+   "kind": "number",
+   "value": 5.2,
+   "surface": "5,2",
+   "sentence": "Beim Nuklearunfall von Kramatorsk wurde eine 137Cs-Quelle mit rund 5,2·1010 Bq 137Cs (entspricht etwa 16 Milligramm) versehentlich in die Betonwand eines Wohnhauses eingebaut.",
+   "section": "Isotope"
+  },
+  "f189": {
+   "kind": "date",
+   "value": "1010",
+   "surface": "1010",
+   "sentence": "Beim Nuklearunfall von Kramatorsk wurde eine 137Cs-Quelle mit rund 5,2·1010 Bq 137Cs (entspricht etwa 16 Milligramm) versehentlich in die Betonwand eines Wohnhauses eingebaut.",
+   "section": "Isotope"
+  },
+  "f190": {
+   "kind": "number",
+   "value": 16,
+   "surface": "16",
+   "sentence": "Beim Nuklearunfall von Kramatorsk wurde eine 137Cs-Quelle mit rund 5,2·1010 Bq 137Cs (entspricht etwa 16 Milligramm) versehentlich in die Betonwand eines Wohnhauses eingebaut.",
+   "section": "Isotope"
+  },
+  "f191": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "jahre",
+   "surface": "20 Jahre",
+   "sentence": "Während 20 Jahre nach der Freisetzung noch mehr als die Hälfte des ursprünglichen Caesium-137 vorhanden ist, ist die Menge an Caesium-134 auf weniger als ein Tausendstel gesunken.",
+   "section": "Isotope"
+  },
+  "f192": {
+   "kind": "measure",
+   "value": 2300000,
+   "unit": "jahre",
+   "surface": "2,3 Millionen Jahre",
+   "sentence": "Caesium-135 ist relativ langlebig (Halbwertszeit 2,3 Millionen Jahre) und aufgrund seiner geringen Radioaktivität radiotoxisch weniger relevant.",
+   "section": "Isotope"
+  },
+  "f193": {
+   "kind": "number",
+   "value": 6.6,
+   "surface": "6,6",
+   "sentence": "Während einer Atombombenexplosion ist das Xenon-135 noch gar nicht aus seinem „Vorgänger“ Iod-135 (T1/2 = 6,6 h) entstanden, wenn nach kurzer Zeit der Neutronenfluss abreißt.",
+   "section": "Isotope"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Cesium.jpg",
+   "w": 4000,
+   "h": 3000,
+   "alt": "Caesium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cesium.jpg/960px-Cesium.jpg",
+   "sha1": "14f289d861039c1a19204a386c0fb786715ec412",
+   "credit": {
+    "author": "Dnn87 Contact email: Dnn87yahoo.dk",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Cesium.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Alkalimetall",
+  "Beschränkter Stoff nach REACH-Anhang XVII, Eintrag 40",
+  "Caesium",
+  "Chemisches Element",
+  "Feuergefährlicher Stoff",
+  "Periode-6-Element",
+  "Wikipedia:Exzellent",
+  "Ätzender Stoff"
+ ]
+}

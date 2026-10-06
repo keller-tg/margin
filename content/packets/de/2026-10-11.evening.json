@@ -1,0 +1,991 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-11",
+ "slot": "evening",
+ "lang": "de",
+ "topic": {
+  "title": "Uranus (Planet)",
+  "qid": "Q324",
+  "pageid": 5323,
+  "revid": 269311208,
+  "domain": "astronomy",
+  "url": "https://de.wikipedia.org/w/index.php?title=Uranus_(Planet)&oldid=269311208"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "siebter Planet unseres Sonnensystems",
+  "lead": "Der Uranus (IPA: [ˈuːʁanʊs] ) (Latinisierung von altgriechisch οὐρανός uranós, deutsch ‚Himmel‘) ist von der Sonne aus mit einer durchschnittlichen Sonnenentfernung von 2,9 Milliarden Kilometern der siebte Planet im Sonnensystem und wird zu den Eisriesen gerechnet. Er wurde am 13. März 1781 von Wilhelm Herschel entdeckt und ist nach dem griechischen Himmelsgott Uranos benannt. Er ist damit als einziger Planet nach einer Gottheit der griechischen Mythologie benannt.\nDer Durchmesser dieses Gasplaneten ist mit 51.000 Kilometern etwa viermal so groß wie der Durchmesser der Erde; das Volumen ist etwa 63-mal so groß wie das der Erde. Physisch ist Uranus dem Neptun ähnlich und nimmt nach ihm mit rund 14 Erdmassen in der Massenrangfolge im Sonnensystem unter den Planeten den vierten Platz ein. Hinsichtlich des Durchmessers liegt er knapp vor Neptun auf Rang drei – nach Jupiter und Saturn.\nDas astronomische Symbol des Uranus ist dem Marssymbol ähnlich. Im Unterschied zu diesem hat der Kreis einen Zentralpunkt und der Pfeil auf dem Kreis steht senkrecht. Ein anderes, hauptsächlich in der Astrologie verwendetes Uranussymbol ist .\nUranus ist nur unter sehr günstigen Umständen freiäugig sichtbar, im kleinen Fernglas aber schon gut zu sehen. Seine blassgrüne Scheibe ist von der Erde aus betrachtet etwa 3,5″ groß. Mit Stand 2024 befand sich Uranus aus Perspektive der Erde im Sternbild Stier und ist damit am Herbst- und Winterhimmel gut zu beobachten. Er läuft auf der Ekliptik um gut 4° pro Jahr nach Osten.",
+  "sections": [
+   {
+    "heading": "Umlaufbahn und Rotation",
+    "text": "Uranus läuft auf einer annähernd kreisförmigen Umlaufbahn mit einer Exzentrizität von 0,0469 zwischen Saturn und Neptun um die Sonne. Sein sonnennächster Punkt, das Perihel, liegt bei 18,266 AE und sein sonnenfernster Punkt, das Aphel, bei 20,064 AE. Mit fast 3 Mrd. km Abstand hat er etwa die doppelte Entfernung zur Sonne wie der nächstinnere Planet Saturn. Dieser Bahnradius passt genau zur 1766 formulierten Titius-Bode-Reihe, so dass die Entdeckung des Uranus als Bestätigung der damaligen, von Kepler begründeten Sicht einer „Weltharmonie“ galt.\nDie Bahnebene ist mit 0,770° nur wenig gegen die Erdbahnebene geneigt und hat damit im Vergleich mit den anderen Planeten die geringste Inklination. Für einen Umlauf um die Sonne benötigt Uranus etwa 84 Jahre. Bei einer mittleren Bahngeschwindigkeit von 6,79 km/s braucht er rund zwei Stunden, um seinen eigenen Durchmesser zurückzulegen (die Erde braucht etwa sieben Minuten).\nUranus rotiert in 17 Stunden 14 Minuten und 52 Sekunden einmal um seine Achse. Wie bei allen Riesenplaneten wehen in der Hochatmosphäre starke Winde in Rotationsrichtung. In südlichen Breiten (etwa 60°) bewegt sich die sichtbare Atmosphäre viel schneller und die Rotationsdauer ist dort mit 14 Stunden entsprechend kürzer.\nAls Besonderheit liegt die Rotationsachse des Planeten annähernd in seiner Bahnebene, er „rollt“ gewissermaßen auf dieser voran, wenn die Achse in Richtung Sonne zeigt. Die Achsneigung gegen das Bahnebenenlot beträgt 97,77°, so dass Uranus rückläufig rotiert. Als Folge dieser Neigung ist nach jedem halben Umlauf (zu den Solstitien) einmal die Nordhalbkugel und einmal die Südhalbkugel der Sonne zugewandt. Mit Ausnahme einer schmalen Äquatorregion ist es dann auf den jeweiligen Halbkugeln überall hell bzw. dunkel (vergleichbar mit Polartag und Polarnacht in den irdischen Polarregionen).\nAls Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol. 2007 lag sie zur Tag-und-Nacht-Gleiche kurz in seiner Äquatorebene.\nDie Ursache der starken Achsneigung ist unbekannt. Die verbreitetste Hypothese nimmt eine Kollision mit einem großen Protoplaneten während der Entstehungsphase an. Nach Computersimulationen müsste Uranus während seiner Entstehung und der Bildung seines Mond- und Ringsystems von zwei oder mehr Himmelskörpern oder von einem Protoplaneten mit der doppelten Erdgröße getroffen worden sein, um die Neigung des gesamten Uranussystems zur Umlaufbahn des Planeten zu erklären. Als möglicher Verursacher wird Amphitrite diskutiert."
+   },
+   {
+    "heading": "Physikalische Eigenschaften",
+    "text": "Uranus hat eine für Riesenplaneten typisch niedrige Dichte von 1,27 g/cm³. Der Äquatordurchmesser entspricht mit 51.118 km reichlich dem vierfachen Erddurchmesser. Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf. Er ist nach Jupiter und Saturn der drittgrößte Planet des Sonnensystems, jedoch auf Grund seiner geringen Dichte weniger massereich als Neptun.\nIm Strukturmodell wird Uranus als flüssiger Planet mit einer gasförmigen oberen Schicht oder Atmosphäre betrachtet, die nicht klar nach unten begrenzt ist. Da sich der Druck mit zunehmender Tiefe über den kritischen Punkt erhöht, geht die Gashülle ohne Phasenübergang vom gasförmigen in einen flüssigen Zustand über. Als Oberfläche wurde derjenige Bereich definiert, bei dem der Druck 1 bar groß ist. Die Schwerkraft macht auf der Ein-Bar-Ebene rund 90 % der Erdschwere aus.\nObwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.\nDie Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan. Das Massenverhältnis Helium:Wasserstoff ist mit 0,26 sehr nahe dem ursprünglichen Massenverhältnis in der Sonne von 0,27. Als Nebenbestandteil folgt Deuterium mit etwa 148 ppm Volumenanteil. Als Aerosole werden Ammoniakeis, Wassereis, Ammoniumhydrogensulfid und Methaneis diskutiert. Wasserstoff kann (von der Erde aus) im Spektrum des Sonnenlichtes, das durch die planetarischen Wolken gestreut wird, nachgewiesen werden. Das Verhältnis Wasserstoff zu Helium konnte durch die Refraktion (Brechung) der Radiosignale von Voyager 2 durch die Atmosphäre bestimmt werden, als die Sonde den Funkschatten des Planeten durchflog.\nDas Sonnenlicht wird von den oberen Wolkenschichten reflektiert. Diese befinden sich unter einer Schicht aus Methangas. Wenn das reflektierte Licht diese Schicht durchquert, wird durch das Methangas der rötliche Teil des Lichtes absorbiert, während der blaue Anteil ungehindert passieren kann. Dadurch erscheint Uranus blaugrün.\nBeim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar. Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar. Die Thermosphäre (Korona) erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche. Es gibt keine Mesosphäre.\nDie Troposphäre ist der unterste und dichteste Teil der Atmosphäre. Mit steigender Höhe fällt ihre Temperatur ab. Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab. Sie enthält fast die gesamte Masse der Atmosphäre und ist auch für den Großteil der planetarischen Wärmeausstrahlung (ferne Infrarotstrahlung) verantwortlich.\nDie Wolken bestehen anscheinend aus Partikeln gefrorenen Methans, das als heißes Gas aus tieferen Lagen aufgestiegen und in den äußeren Schichten kondensiert ist. Es wird vermutet, dass Wasser die unteren Wolken bildet, während die oberen Wolken eher aus Methan bestehen. Die Windgeschwindigkeiten betragen bis zu 200 m/s beziehungsweise rund 700 km/h. Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).\nSeine effektive Temperatur liegt bei nur 58,1 K (−214 °C), kaum mehr als die des entfernteren Neptun. Diese Strahlungstemperatur ist die Temperatur, welche die Uranusatmosphäre im Bereich von 0,4 bar aufweist. Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.\nIn der Stratosphäre, der mittleren Schicht der Uranusatmosphäre, erhöht sich im Allgemeinen die Temperatur mit der Höhenlage. An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt. Ursache für die Erhitzung der Stratosphäre ist die Absorption von solarer UV- und IR-Strahlung durch Methan und andere Kohlenwasserstoffe, die sich in diesem Teil der Atmosphäre als Ergebnis der Methanphotolyse bilden. Der Wärmetransport von der heißen Thermosphäre könnte ebenfalls dazu wirken. Die Kohlenwasserstoffe besetzen einen relativ engen Bereich in Höhen von 100 bis 280 km. Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen. Sie könnten teilweise für die detailarme Erscheinung des Uranus verantwortlich sein. Die Konzentration von Kohlenwasserstoffen ist in der Stratosphäre Uranus’ oberhalb dieser Nebel wesentlich niedriger als in den Stratosphären der anderen Riesenplaneten des Sonnensystems. Dies und die schwache vertikale Durchmischung über der Nebelschicht machen die Stratosphäre des Uranus durchsichtiger und als Ergebnis kälter als die der anderen Riesenplaneten.\nDie äußerste Schicht der Atmosphäre Uranus’ ist die Thermosphäre und Korona. Sie weist eine einheitliche Temperatur von 800 bis 850 K auf. Dies ist viel höher als die 420 K in der Thermosphäre des Saturn. Die Wärmequellen hierfür sind nicht bekannt. Weder solares ultraviolettes Licht noch Polarlichtaktivitäten können genug Energie zur Verfügung stellen. Verringerte Wärmeabstrahlung aufgrund des Mangels an Kohlenwasserstoffen in der oberen Stratosphäre könnte zur Aufrechterhaltung der hohen Temperatur beitragen. Zusätzlich zu molekularem Wasserstoff enthalten Thermosphäre und Korona einen großen Anteil an freien Wasserstoffatomen. Deren geringe molekulare Masse könnte zusammen mit den hohen Temperaturen erklären, warum sich die Korona so weit (50.000 km oder zwei Uranusradien) vom Planeten weg ausdehnt. Diese erweiterte Korona ist ein einzigartiges Merkmal von Uranus. Die Korona bremst die kleinen Partikel ab, die Uranus umkreisen. Als Folge dessen sind die Ringe des Uranus sehr staubarm.\nDie Ionosphäre des Uranus entspricht seiner Thermosphäre zusammen mit dem oberen Teil der Stratosphäre. Hauptsächlich weiß man über die Ionen durch Messungen von Voyager 2 Bescheid, sowie durch Infrarot-Emissionen des H3+-Ions, die von erdgebundenen Teleskopen festgestellt wurden. Die Beobachtungen zeigen, dass die Ionosphäre Höhen zwischen 2.000 und 10.000 km besetzt. Sie wird hauptsächlich von der UV-Strahlung der Sonne aufrechterhalten und ihre Dichte hängt von der Sonnenaktivität ab. Die Aktivität der Aurora (Polarlicht) ist nicht so auffällig wie bei Jupiter und Saturn. Die obere Ionosphäre (die Region der Thermosphäre) ist die Quelle der UV-Emission von Uranus, die als „Tagesglühen“ oder „Elektroglühen“ bekannt ist. Diese geht ebenso wie die IR-Strahlung der H3+-Ionen nur von der sonnenbeleuchteten Seite des Planeten aus. Dieses rätselhafte Phänomen, das bei den Thermosphären aller Riesenplaneten auftritt, wird nun als eine UV-Fluoreszenz von atomarem und molekularem Wasserstoff gedeutet, die von Sonnenstrahlen mit einer möglichen Beteiligung von Photoelektronen angeregt wird.\nUnter der dichten, gasförmigen Wasserstoff-Methan-Hülle besteht Uranus aus teilweise verflüssigten Gasen, Eis und möglicherweise einem kleinen Gesteinskern. Die Gashülle geht durch Kompression in eine „Kruste“ aus Wasserstoff und Helium über, die etwa 30 % des Planetenradius ausmacht. Die Masse dieser oberen Schicht macht etwa die 0,5- bis 1,5-fache Erdmasse aus.\nDer etwas dickere Mantel aus Wasser, Methan und Ammoniak hat vermutlich die Konsistenz von Eis und beinhaltet den Großteil der Masse des Uranus. Diese dichte Flüssigkeit, die elektrisch sehr leitfähig ist, wird manchmal auch Wasser-Ammoniak-Ozean genannt.\nDieser Mantel umschließt einen kleinen, eventuell flüssigen Kern aus Silizium und Eisen mit einer der Erde vergleichbaren Masse.\nDieser Aufbau ist mit dem des Neptun vergleichbar, unterscheidet sich aber deutlich von den Riesenplaneten Jupiter und Saturn. Diese haben anteilmäßig mehr Wasserstoff und weniger Helium (ähnlich wie die Sonne), und ihre Mäntel bestehen großteils aus metallischem Wasserstoff. Die Kerne von Uranus und Neptun ähneln jenen von Jupiter und Saturn, jedoch fehlt die stark komprimierte Hülle aus Wasserstoff. Im Zentrum des Uranus dürfte ein Druck von rund acht Millionen bar bei einer Temperatur von etwa 5000 °C herrschen.\nDer extreme Druck und die Temperatur im Uranus können die Methanmoleküle aufbrechen, wobei die Kohlenstoffatome zu Diamantkristallen kondensieren, die durch den Mantel in Richtung Planetenkern fallen. Dieser Vorgang ähnelt dem Diamantenregen, von dem Wissenschaftler annehmen, dass er auf Jupiter, Saturn und Neptun existiert. Höchstdruckexperimente am Lawrence Livermore National Laboratory deuten darauf hin, dass die Basis des Mantels einen Ozean aus metallischem flüssigem Kohlenstoff umfassen könnte, möglicherweise mit schwimmenden festen „Diamantbergen“.\nMan vermutet, dass die Materie des Uranus relativ gleichmäßig verteilt ist. In Bezug auf interne Wärmequellen galt er bis Mitte 2025 als eine Ausnahme unter den äußeren Planeten. Es war bis dato aus unerklärlichen Gründen kein Wärmevorrat mehr aus der ursprünglichen Kontraktion und Stofftrennung vorhanden. Eine mögliche Erklärung für das Fehlen der inneren Wärmequelle bestand darin, dass infolge des Einschlags, der seine Rotationsachse kippte, der Großteil der ursprünglichen inneren Hitze verloren ging. Einer anderen Theorie zufolge existieren in den oberen Schichten einige Barrieren, die den Wärmetransport aus dem Inneren behindern. Seine Energiequelle ist so zum größten Teil lediglich absorbierte Sonnenstrahlung, denn er strahlt im Unterschied zu den anderen Riesenplaneten kaum mehr Wärme ab, als er von der Sonne erhält. Eine im Sommer 2025 veröffentlichte Untersuchung eines Forschungsteams um Patrick Irwin von der britischen University of Oxford stellte fest, dass er mehr Sonnenlicht in den Weltraum zurückwirft als bislang angenommen. Daraus ergab sich dann ein Wärmeüberschuss von 15 Prozent.\nBilder von Voyager 2 zeigten 1986 im sichtbaren Spektrum praktisch keine Oberflächendetails. Man sah kaum Wolkenbänder oder Stürme, wie man sie sonst auf anderen Riesenplaneten beobachten kann. Die in Richtung der Rotation schnell wehenden Wolkenbänder waren nur sehr schwach ausgeprägt. Eine mögliche Erklärung für dieses vergleichsweise ruhige Wetter und die unauffälligen Wolkenformationen könnte in der schwachen inneren Wärmequelle des Uranus liegen.\nWährend des Vorbeifluges von Voyager 2 stand die Sonne über dem Südpol. Dennoch war Uranus aus unbekannten Gründen am Äquator wärmer als am sonnigen Pol. Daraus hatten die Wissenschaftler errechnet, dass sogar der dunkle Pol etwas wärmer ist als der von der Sonne bestrahlte. Die Temperaturen in der Atmosphäre sind durch diese sehr langsame Abkühlung – und andererseits sehr langsame Erwärmung – erstaunlich ausgeglichen.\nDie südliche Hemisphäre kann in zwei Regionen aufgeteilt werden: Eine helle Polarkappe und dunklere äquatoriale Bänder. Die Grenze ist etwa bei 45° südlicher Breite. Ein schmales Band, das den Planeten zwischen dem 45. und 50. südlichen Breitengrad umspannt, ist das hellste große Merkmal auf der Oberfläche des Planeten. Es wird der südliche „Collar“ genannt. Die Polarkappe und der „Collar“ sind möglicherweise eine dichte Region von Methanwolken. Jedoch konnten am Beginn des 21. Jahrhunderts, als die Region der Polarkappe ins Sichtfeld kam, das Hubble-Weltraumteleskop und das Keck-Teleskop auf Hawaii weder einen „Collar“ noch eine Polarkappe in der nördlichen Hemisphäre beobachten. Deshalb erscheint Uranus asymmetrisch: hell in der Nähe des Südpols und einheitlich dunkel in der Region nördlich des südlichen „Collars“.\nIn den letzten Jahren nähert sich Uranus seinem Äquinoktium und damit wird die Nordhalbkugel zunehmend beleuchtet. Als Folge dieser erhöhten Sonneneinstrahlung zeigen neuere Aufnahmen des Hubble-Weltraumteleskops viel stärker ausgebildete Bänder und erhöhte Wetteraktivität in der nördlichen Hemisphäre. Demnach herrschen in der Atmosphäre des Riesenplaneten, trotz seiner großen Entfernung von der Sonne, ausgeprägte Jahreszeiten. Er empfängt nur ein Vierhundertstel der Sonnenwärme, die die Erde empfängt. Die Sonne erscheint von ihm aus nur als eine winzige Scheibe. Dennoch strahlt sie immer noch 1100-mal heller, als der Vollmond von der Erde aus erscheint.\nBilder des Keck-Observatoriums zeigten im Jahr 2004, dass sich Wirbelstürme teilweise über viele Monate lang halten. In der nördlichen Hemisphäre entdeckten die Forscher eine rund 29.000 km lange Wolkenformation. Dies war die größte bislang beobachtete Wolkenstruktur. Sie hatte sich jedoch schon einen Monat später wieder aufgelöst. Langlebiger zeigte sich ein großer Sturm in der südlichen Hemisphäre, der sich schon seit mehreren Jahren aus unbekannten Gründen über fünf Breitengrade hinweg auf und ab bewegte.\n2014 konnten die Stürme sogar von Amateuren mit dem Teleskop beobachtet werden, so auffällig waren sie geworden.\nDas Magnetfeld von Uranus ist ungewöhnlich und hat die Form eines Quadrupols mit 2 Nord- und 2 Südpolen. Ein Polpaar ist um fast 60° gegenüber der Rotationsachse geneigt und hat seinen Ursprung nicht im Zentrum des Planeten, sondern ist um ein Drittel des Planetenradius nach Süden hin versetzt. Vermutlich wird es durch Bewegungen in nicht allzu großer Tiefe erzeugt, möglicherweise durch ionisiertes Wasser. Neptun hat ein ähnlich geformtes und verschobenes Magnetfeld, was darauf hindeutet, dass die starke Abweichung nichts mit der Größe der Achsenneigung zu tun hat. Die Magnetosphäre von Uranus ist über seiner Nachtseite durch die Rotation korkenzieherartig verwirbelt.\nDie ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann. Das durchschnittliche Feld auf der Oberfläche beträgt 0,23 Gauß (23 μT). Im Vergleich dazu ist das magnetische Feld der Erde an beiden Polen etwa gleich stark, und ihr „magnetischer Äquator“ ist annähernd parallel mit ihrem physikalischen Äquator. Das Dipolmoment von Uranus ist 50-mal stärker als das der Erde.\nDie Magnetosphäre enthält geladene Teilchen: Protonen und Elektronen und einen kleinen Anteil an H2+-Ionen. Der Partikelfluss ist hoch genug, um ein Verdunkeln oder eine Erosion der Mondoberflächen in einem astronomisch kurzen Zeitraum von 100.000 Jahren zu bewirken. Dies könnte die Ursache für die einheitlich dunkle Färbung der Monde und der Ringe sein.\nUranus hatte beim Vorbeiflug von Voyager 2 relativ gut entwickelte Aurora-Erscheinungen, die als helle Bögen um die magnetischen Pole gesehen werden.\nDas Hubble Space Telescope konnte im Jahr 2011 kleine runde Erscheinungen auf der Uranus-Tagseite beobachten, die nur wenige Minuten andauerten. Damit haben sich Uranus-Erscheinungen seit dem Vorbeiflug von Voyager 2 deutlich verändert, was wohl damit zusammenhängt, dass die Planetenachse und damit das Magnetfeld zur Sonne anders orientiert sind als beim Vorbeiflug von Voyager 2."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "number",
+   "value": 2900000000,
+   "surface": "2,9 Milliarden",
+   "sentence": "Der Uranus (IPA: [ˈuːʁanʊs] ) (Latinisierung von altgriechisch οὐρανός uranós, deutsch ‚Himmel‘) ist von der Sonne aus mit einer durchschnittlichen Sonnenentfernung von 2,9 Milliarden Kilometern der siebte Planet im Sonnensystem und wird zu den Eisriesen gerechnet."
+  },
+  "f2": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "Er wurde am 13. März 1781 von Wilhelm Herschel entdeckt und ist nach dem griechischen Himmelsgott Uranos benannt."
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1781",
+   "surface": "1781",
+   "sentence": "Er wurde am 13. März 1781 von Wilhelm Herschel entdeckt und ist nach dem griechischen Himmelsgott Uranos benannt."
+  },
+  "f4": {
+   "kind": "number",
+   "value": 51000,
+   "surface": "51.000",
+   "sentence": "Der Durchmesser dieses Gasplaneten ist mit 51.000 Kilometern etwa viermal so groß wie der Durchmesser der Erde; das Volumen ist etwa 63-mal so groß wie das der Erde."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 63,
+   "surface": "63",
+   "sentence": "Der Durchmesser dieses Gasplaneten ist mit 51.000 Kilometern etwa viermal so groß wie der Durchmesser der Erde; das Volumen ist etwa 63-mal so groß wie das der Erde."
+  },
+  "f6": {
+   "kind": "number",
+   "value": 14,
+   "surface": "14",
+   "sentence": "Physisch ist Uranus dem Neptun ähnlich und nimmt nach ihm mit rund 14 Erdmassen in der Massenrangfolge im Sonnensystem unter den Planeten den vierten Platz ein."
+  },
+  "f7": {
+   "kind": "number",
+   "value": 3.5,
+   "surface": "3,5",
+   "sentence": "Seine blassgrüne Scheibe ist von der Erde aus betrachtet etwa 3,5″ groß."
+  },
+  "f8": {
+   "kind": "date",
+   "value": "2024",
+   "surface": "2024",
+   "sentence": "Mit Stand 2024 befand sich Uranus aus Perspektive der Erde im Sternbild Stier und ist damit am Herbst- und Winterhimmel gut zu beobachten."
+  },
+  "f9": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Er läuft auf der Ekliptik um gut 4° pro Jahr nach Osten."
+  },
+  "f10": {
+   "kind": "number",
+   "value": 0.0469,
+   "surface": "0,0469",
+   "sentence": "Uranus läuft auf einer annähernd kreisförmigen Umlaufbahn mit einer Exzentrizität von 0,0469 zwischen Saturn und Neptun um die Sonne.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f11": {
+   "kind": "number",
+   "value": 18.266,
+   "surface": "18,266",
+   "sentence": "Sein sonnennächster Punkt, das Perihel, liegt bei 18,266 AE und sein sonnenfernster Punkt, das Aphel, bei 20,064 AE.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f12": {
+   "kind": "number",
+   "value": 20.064,
+   "surface": "20,064",
+   "sentence": "Sein sonnennächster Punkt, das Perihel, liegt bei 18,266 AE und sein sonnenfernster Punkt, das Aphel, bei 20,064 AE.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f13": {
+   "kind": "number",
+   "value": 3000000000,
+   "surface": "3 Mrd",
+   "sentence": "Mit fast 3 Mrd. km Abstand hat er etwa die doppelte Entfernung zur Sonne wie der nächstinnere Planet Saturn.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1766",
+   "surface": "1766",
+   "sentence": "Dieser Bahnradius passt genau zur 1766 formulierten Titius-Bode-Reihe, so dass die Entdeckung des Uranus als Bestätigung der damaligen, von Kepler begründeten Sicht einer „Weltharmonie“ galt.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 0.77,
+   "surface": "0,770",
+   "sentence": "Die Bahnebene ist mit 0,770° nur wenig gegen die Erdbahnebene geneigt und hat damit im Vergleich mit den anderen Planeten die geringste Inklination.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 84,
+   "unit": "jahre",
+   "surface": "84 Jahre",
+   "sentence": "Für einen Umlauf um die Sonne benötigt Uranus etwa 84 Jahre.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f17": {
+   "kind": "measure",
+   "value": 6.79,
+   "unit": "km/s",
+   "surface": "6,79 km/s",
+   "sentence": "Bei einer mittleren Bahngeschwindigkeit von 6,79 km/s braucht er rund zwei Stunden, um seinen eigenen Durchmesser zurückzulegen (die Erde braucht etwa sieben Minuten).",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 17,
+   "surface": "17",
+   "sentence": "Uranus rotiert in 17 Stunden 14 Minuten und 52 Sekunden einmal um seine Achse.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 14,
+   "surface": "14",
+   "sentence": "Uranus rotiert in 17 Stunden 14 Minuten und 52 Sekunden einmal um seine Achse.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 52,
+   "surface": "52",
+   "sentence": "Uranus rotiert in 17 Stunden 14 Minuten und 52 Sekunden einmal um seine Achse.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 60,
+   "surface": "60",
+   "sentence": "In südlichen Breiten (etwa 60°) bewegt sich die sichtbare Atmosphäre viel schneller und die Rotationsdauer ist dort mit 14 Stunden entsprechend kürzer.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 14,
+   "surface": "14",
+   "sentence": "In südlichen Breiten (etwa 60°) bewegt sich die sichtbare Atmosphäre viel schneller und die Rotationsdauer ist dort mit 14 Stunden entsprechend kürzer.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 97.77,
+   "surface": "97,77",
+   "sentence": "Die Achsneigung gegen das Bahnebenenlot beträgt 97,77°, so dass Uranus rückläufig rotiert.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Als Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 24,
+   "surface": "24",
+   "sentence": "Als Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1986",
+   "surface": "1986",
+   "sentence": "Als Voyager 2 am 24. Januar 1986 an Uranus vorbeiflog, stand die Sonne annähernd über dessen Südpol.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f27": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007",
+   "sentence": "2007 lag sie zur Tag-und-Nacht-Gleiche kurz in seiner Äquatorebene.",
+   "section": "Umlaufbahn und Rotation"
+  },
+  "f28": {
+   "kind": "measure",
+   "value": 1.27,
+   "unit": "g",
+   "surface": "1,27 g",
+   "sentence": "Uranus hat eine für Riesenplaneten typisch niedrige Dichte von 1,27 g/cm³.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f29": {
+   "kind": "measure",
+   "value": 51118,
+   "unit": "km",
+   "surface": "51.118 km",
+   "sentence": "Der Äquatordurchmesser entspricht mit 51.118 km reichlich dem vierfachen Erddurchmesser.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f30": {
+   "kind": "measure",
+   "value": 49946,
+   "unit": "km",
+   "surface": "49.946 km",
+   "sentence": "Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 44,
+   "surface": "44",
+   "sentence": "Aufgrund der schnellen Rotation, verstärkt durch die geringe Dichte, weist Uranus mit einem Poldurchmesser von 49.946 km eine deutliche Abplattung von 1:44 auf.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Als Oberfläche wurde derjenige Bereich definiert, bei dem der Druck 1 bar groß ist.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f34": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90 %",
+   "sentence": "Die Schwerkraft macht auf der Ein-Bar-Ebene rund 90 % der Erdschwere aus.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "800",
+   "surface": "800",
+   "sentence": "Obwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 3000,
+   "surface": "3000",
+   "sentence": "Obwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 4500,
+   "surface": "4500",
+   "sentence": "Obwohl Uranus anteilmäßig mehr schwerere Elemente (schwerer als Wasserstoff und Helium) als Jupiter aufweist, ist seine Dichte auf Grund seiner geringeren Masse und geringeren Drücken im Inneren (800 GPa; Jupiter: 3000…4500 GPa) geringer als die des Jupiters.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 82.5,
+   "surface": "82,5",
+   "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 3.3,
+   "surface": "3,3",
+   "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 15.2,
+   "surface": "15,2",
+   "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 3.3,
+   "surface": "3,3",
+   "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 2.3,
+   "surface": "2,3",
+   "sentence": "Die Hauptbestandteile der oberen Schichten der Gashülle sind molekularer Wasserstoff mit 82,5 ± 3,3 Vol-%, atomares Helium mit 15,2 ± 3,3 Vol-% und etwa 2,3 Vol-% Methan.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 0.26,
+   "surface": "0,26",
+   "sentence": "Das Massenverhältnis Helium:Wasserstoff ist mit 0,26 sehr nahe dem ursprünglichen Massenverhältnis in der Sonne von 0,27.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f44": {
+   "kind": "number",
+   "value": 0.27,
+   "surface": "0,27",
+   "sentence": "Das Massenverhältnis Helium:Wasserstoff ist mit 0,26 sehr nahe dem ursprünglichen Massenverhältnis in der Sonne von 0,27.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 148,
+   "surface": "148",
+   "sentence": "Als Nebenbestandteil folgt Deuterium mit etwa 148 ppm Volumenanteil.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Das Verhältnis Wasserstoff zu Helium konnte durch die Refraktion (Brechung) der Radiosignale von Voyager 2 durch die Atmosphäre bestimmt werden, als die Sonde den Funkschatten des Planeten durchflog.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f47": {
+   "kind": "number",
+   "value": 300,
+   "surface": "300",
+   "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "km",
+   "surface": "50 km",
+   "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "Beim Aufbau der Atmosphäre können drei Schichten unterschieden werden: Die Troposphäre in Höhen zwischen −300 und 50 km und Drücken von 100 bis 0,1 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f52": {
+   "kind": "measure",
+   "value": 4000,
+   "unit": "km",
+   "surface": "4000 km",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Die Stratosphäre befindet sich in Höhen zwischen 50 und 4000 km und die Drücke betragen 0,1 bis 10−10 bar.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f56": {
+   "kind": "measure",
+   "value": 4000,
+   "unit": "km",
+   "surface": "4000 km",
+   "sentence": "Die Thermosphäre (Korona) erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f57": {
+   "kind": "measure",
+   "value": 50000,
+   "unit": "km",
+   "surface": "50.000 km",
+   "sentence": "Die Thermosphäre (Korona) erstreckt sich von 4000 km bis zu 50.000 km über der Oberfläche.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f58": {
+   "kind": "measure",
+   "value": 300,
+   "unit": "km",
+   "surface": "300 km",
+   "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f59": {
+   "kind": "measure",
+   "value": 320,
+   "unit": "k",
+   "surface": "320 K",
+   "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f60": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "km",
+   "surface": "50 km",
+   "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f61": {
+   "kind": "measure",
+   "value": 53,
+   "unit": "k",
+   "surface": "53 K",
+   "sentence": "Am unteren Ende der Troposphäre, das etwa 300 km unter dem Ein-Bar-Level liegt, beträgt die Temperatur etwa 320 K. Bis zum oberen Bereich der Troposphäre, der sich in 50 km Höhe befindet, fällt die Temperatur auf etwa 53 K ab.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f62": {
+   "kind": "measure",
+   "value": 200,
+   "unit": "m/s",
+   "surface": "200 m/s",
+   "sentence": "Die Windgeschwindigkeiten betragen bis zu 200 m/s beziehungsweise rund 700 km/h.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f63": {
+   "kind": "measure",
+   "value": 700,
+   "unit": "km/h",
+   "surface": "700 km/h",
+   "sentence": "Die Windgeschwindigkeiten betragen bis zu 200 m/s beziehungsweise rund 700 km/h.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f65": {
+   "kind": "measure",
+   "value": 76,
+   "unit": "k",
+   "surface": "76 K",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f66": {
+   "kind": "measure",
+   "value": 197,
+   "unit": "°c",
+   "surface": "197 °C",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f68": {
+   "kind": "measure",
+   "value": 53,
+   "unit": "k",
+   "surface": "53 K",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f69": {
+   "kind": "measure",
+   "value": 220,
+   "unit": "°c",
+   "surface": "220 °C",
+   "sentence": "Die Temperatur beträgt bei 1 bar etwa 76 K (−197 °C), bei 0,1 bar beträgt sie 53 K (−220 °C).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f70": {
+   "kind": "measure",
+   "value": 58.1,
+   "unit": "k",
+   "surface": "58,1 K",
+   "sentence": "Seine effektive Temperatur liegt bei nur 58,1 K (−214 °C), kaum mehr als die des entfernteren Neptun.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f71": {
+   "kind": "measure",
+   "value": 214,
+   "unit": "°c",
+   "surface": "214 °C",
+   "sentence": "Seine effektive Temperatur liegt bei nur 58,1 K (−214 °C), kaum mehr als die des entfernteren Neptun.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 0.4,
+   "surface": "0,4",
+   "sentence": "Diese Strahlungstemperatur ist die Temperatur, welche die Uranusatmosphäre im Bereich von 0,4 bar aufweist.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 70,
+   "surface": "70",
+   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f74": {
+   "kind": "measure",
+   "value": 52,
+   "unit": "k",
+   "surface": "52 K",
+   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f75": {
+   "kind": "measure",
+   "value": 221,
+   "unit": "°c",
+   "surface": "221 °C",
+   "sentence": "Die niedrigste Temperatur in der Atmosphäre wird bei 70 mbar mit 52 K (−221 °C) gemessen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f76": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "km",
+   "surface": "50 km",
+   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f77": {
+   "kind": "measure",
+   "value": 53,
+   "unit": "k",
+   "surface": "53 K",
+   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f78": {
+   "kind": "measure",
+   "value": 4000,
+   "unit": "km",
+   "surface": "4000 km",
+   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f79": {
+   "kind": "date",
+   "value": "800",
+   "surface": "800",
+   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f80": {
+   "kind": "measure",
+   "value": 850,
+   "unit": "k",
+   "surface": "850 K",
+   "sentence": "An der unteren Grenze bei 50 km (bei der Tropopause) sind es noch 53 K, während die Temperatur in 4000 km Höhe (an der Grenze zur Thermosphäre) schon 800 bis 850 K beträgt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f81": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "Die Kohlenwasserstoffe besetzen einen relativ engen Bereich in Höhen von 100 bis 280 km.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f82": {
+   "kind": "measure",
+   "value": 280,
+   "unit": "km",
+   "surface": "280 km",
+   "sentence": "Die Kohlenwasserstoffe besetzen einen relativ engen Bereich in Höhen von 100 bis 280 km.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f83": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f84": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 75,
+   "surface": "75",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f86": {
+   "kind": "measure",
+   "value": 170,
+   "unit": "k",
+   "surface": "170 K",
+   "sentence": "Dabei beträgt der Druck etwa 10 bis 0,1 mbar und die Temperaturen liegen zwischen 75 und 170 K.\nEthan und Ethin (Acetylen) neigen dazu, im kälteren unteren Bereich der Stratosphäre und in der Tropopause nebelige Schichten zu formen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f87": {
+   "kind": "date",
+   "value": "800",
+   "surface": "800",
+   "sentence": "Sie weist eine einheitliche Temperatur von 800 bis 850 K auf.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f88": {
+   "kind": "measure",
+   "value": 850,
+   "unit": "k",
+   "surface": "850 K",
+   "sentence": "Sie weist eine einheitliche Temperatur von 800 bis 850 K auf.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f89": {
+   "kind": "measure",
+   "value": 420,
+   "unit": "k",
+   "surface": "420 K",
+   "sentence": "Dies ist viel höher als die 420 K in der Thermosphäre des Saturn.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f90": {
+   "kind": "measure",
+   "value": 50000,
+   "unit": "km",
+   "surface": "50.000 km",
+   "sentence": "Deren geringe molekulare Masse könnte zusammen mit den hohen Temperaturen erklären, warum sich die Korona so weit (50.000 km oder zwei Uranusradien) vom Planeten weg ausdehnt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f91": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Hauptsächlich weiß man über die Ionen durch Messungen von Voyager 2 Bescheid, sowie durch Infrarot-Emissionen des H3+-Ions, die von erdgebundenen Teleskopen festgestellt wurden.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f92": {
+   "kind": "number",
+   "value": 2000,
+   "surface": "2.000",
+   "sentence": "Die Beobachtungen zeigen, dass die Ionosphäre Höhen zwischen 2.000 und 10.000 km besetzt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f93": {
+   "kind": "measure",
+   "value": 10000,
+   "unit": "km",
+   "surface": "10.000 km",
+   "sentence": "Die Beobachtungen zeigen, dass die Ionosphäre Höhen zwischen 2.000 und 10.000 km besetzt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f94": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "%",
+   "surface": "30 %",
+   "sentence": "Die Gashülle geht durch Kompression in eine „Kruste“ aus Wasserstoff und Helium über, die etwa 30 % des Planetenradius ausmacht.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f95": {
+   "kind": "number",
+   "value": 0.5,
+   "surface": "0,5",
+   "sentence": "Die Masse dieser oberen Schicht macht etwa die 0,5- bis 1,5-fache Erdmasse aus.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f96": {
+   "kind": "number",
+   "value": 1.5,
+   "surface": "1,5",
+   "sentence": "Die Masse dieser oberen Schicht macht etwa die 0,5- bis 1,5-fache Erdmasse aus.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f97": {
+   "kind": "measure",
+   "value": 5000,
+   "unit": "°c",
+   "surface": "5000 °C",
+   "sentence": "Im Zentrum des Uranus dürfte ein Druck von rund acht Millionen bar bei einer Temperatur von etwa 5000 °C herrschen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f98": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025",
+   "sentence": "In Bezug auf interne Wärmequellen galt er bis Mitte 2025 als eine Ausnahme unter den äußeren Planeten.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f99": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025",
+   "sentence": "Eine im Sommer 2025 veröffentlichte Untersuchung eines Forschungsteams um Patrick Irwin von der britischen University of Oxford stellte fest, dass er mehr Sonnenlicht in den Weltraum zurückwirft als bislang angenommen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f100": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "prozent",
+   "surface": "15 Prozent",
+   "sentence": "Daraus ergab sich dann ein Wärmeüberschuss von 15 Prozent.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Bilder von Voyager 2 zeigten 1986 im sichtbaren Spektrum praktisch keine Oberflächendetails.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f102": {
+   "kind": "date",
+   "value": "1986",
+   "surface": "1986",
+   "sentence": "Bilder von Voyager 2 zeigten 1986 im sichtbaren Spektrum praktisch keine Oberflächendetails.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f103": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Während des Vorbeifluges von Voyager 2 stand die Sonne über dem Südpol.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f104": {
+   "kind": "number",
+   "value": 45,
+   "surface": "45",
+   "sentence": "Die Grenze ist etwa bei 45° südlicher Breite.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 45,
+   "surface": "45",
+   "sentence": "Ein schmales Band, das den Planeten zwischen dem 45. und 50. südlichen Breitengrad umspannt, ist das hellste große Merkmal auf der Oberfläche des Planeten.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f106": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Ein schmales Band, das den Planeten zwischen dem 45. und 50. südlichen Breitengrad umspannt, ist das hellste große Merkmal auf der Oberfläche des Planeten.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f107": {
+   "kind": "number",
+   "value": 21,
+   "surface": "21",
+   "sentence": "Jedoch konnten am Beginn des 21. Jahrhunderts, als die Region der Polarkappe ins Sichtfeld kam, das Hubble-Weltraumteleskop und das Keck-Teleskop auf Hawaii weder einen „Collar“ noch eine Polarkappe in der nördlichen Hemisphäre beobachten.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f108": {
+   "kind": "date",
+   "value": "1100",
+   "surface": "1100",
+   "sentence": "Dennoch strahlt sie immer noch 1100-mal heller, als der Vollmond von der Erde aus erscheint.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f109": {
+   "kind": "date",
+   "value": "2004",
+   "surface": "2004",
+   "sentence": "Bilder des Keck-Observatoriums zeigten im Jahr 2004, dass sich Wirbelstürme teilweise über viele Monate lang halten.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f110": {
+   "kind": "measure",
+   "value": 29000,
+   "unit": "km",
+   "surface": "29.000 km",
+   "sentence": "In der nördlichen Hemisphäre entdeckten die Forscher eine rund 29.000 km lange Wolkenformation.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f111": {
+   "kind": "date",
+   "value": "2014",
+   "surface": "2014",
+   "sentence": "2014 konnten die Stürme sogar von Amateuren mit dem Teleskop beobachtet werden, so auffällig waren sie geworden.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f112": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Das Magnetfeld von Uranus ist ungewöhnlich und hat die Form eines Quadrupols mit 2 Nord- und 2 Südpolen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f113": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Das Magnetfeld von Uranus ist ungewöhnlich und hat die Form eines Quadrupols mit 2 Nord- und 2 Südpolen.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f114": {
+   "kind": "number",
+   "value": 60,
+   "surface": "60",
+   "sentence": "Ein Polpaar ist um fast 60° gegenüber der Rotationsachse geneigt und hat seinen Ursprung nicht im Zentrum des Planeten, sondern ist um ein Drittel des Planetenradius nach Süden hin versetzt.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f115": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f116": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f117": {
+   "kind": "number",
+   "value": 1.1,
+   "surface": "1,1",
+   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f118": {
+   "kind": "number",
+   "value": 110,
+   "surface": "110",
+   "sentence": "Die ungewöhnliche Geometrie resultiert in einer hoch asymmetrischen Magnetosphäre, bei der die Stärke des magnetischen Feldes in der südlichen Hemisphäre bis zu 0,1 Gauß (10 μT) gering sein, in der nördlichen Hemisphäre bis zu 1,1 Gauß (110 μT) stark sein kann.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f119": {
+   "kind": "number",
+   "value": 0.23,
+   "surface": "0,23",
+   "sentence": "Das durchschnittliche Feld auf der Oberfläche beträgt 0,23 Gauß (23 μT).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f120": {
+   "kind": "number",
+   "value": 23,
+   "surface": "23",
+   "sentence": "Das durchschnittliche Feld auf der Oberfläche beträgt 0,23 Gauß (23 μT).",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f121": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Das Dipolmoment von Uranus ist 50-mal stärker als das der Erde.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f122": {
+   "kind": "measure",
+   "value": 100000,
+   "unit": "jahren",
+   "surface": "100.000 Jahren",
+   "sentence": "Der Partikelfluss ist hoch genug, um ein Verdunkeln oder eine Erosion der Mondoberflächen in einem astronomisch kurzen Zeitraum von 100.000 Jahren zu bewirken.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f123": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Uranus hatte beim Vorbeiflug von Voyager 2 relativ gut entwickelte Aurora-Erscheinungen, die als helle Bögen um die magnetischen Pole gesehen werden.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f124": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011",
+   "sentence": "Das Hubble Space Telescope konnte im Jahr 2011 kleine runde Erscheinungen auf der Uranus-Tagseite beobachten, die nur wenige Minuten andauerten.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f125": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Damit haben sich Uranus-Erscheinungen seit dem Vorbeiflug von Voyager 2 deutlich verändert, was wohl damit zusammenhängt, dass die Planetenachse und damit das Magnetfeld zur Sonne anders orientiert sind als beim Vorbeiflug von Voyager 2.",
+   "section": "Physikalische Eigenschaften"
+  },
+  "f126": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Damit haben sich Uranus-Erscheinungen seit dem Vorbeiflug von Voyager 2 deutlich verändert, was wohl damit zusammenhängt, dass die Planetenachse und damit das Magnetfeld zur Sonne anders orientiert sind als beim Vorbeiflug von Voyager 2.",
+   "section": "Physikalische Eigenschaften"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Uranus Voyager2 color calibrated.png",
+   "w": 830,
+   "h": 830,
+   "alt": "Uranus (Planet)",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+   "sha1": "e320e68e31322cf50d0da0bc523cded6ed7a6de2",
+   "credit": {
+    "author": "Ardenau4",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "Astronomisches Objekt (entdeckt 1781)",
+  "Astronomisches Objekt mit Ringsystem",
+  "Namensgeber für ein chemisches Element",
+  "Planet des Sonnensystems",
+  "Uranus (Planet)"
+ ]
+}
