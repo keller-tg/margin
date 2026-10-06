@@ -544,5 +544,109 @@
    "pickedAt": "2026-10-06T08:47:01.847Z",
    "attempt": 0
   }
+ },
+ "2026-10-27": {
+  "morning": {
+   "title": "Great white shark",
+   "qid": "Q129026",
+   "pageid": 43619,
+   "domain": "animals",
+   "image": {
+    "file": "File:White shark.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:48:02.189Z",
+   "attempt": 1
+  },
+  "evening": {
+   "title": "Tuba",
+   "qid": "Q131168",
+   "pageid": 30961,
+   "domain": "instruments",
+   "image": {
+    "file": "File:Yamaha Bass tuba YFB-822.tif",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:49:00.781Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-28": {
+  "morning": {
+   "title": "Alfred Russel Wallace",
+   "qid": "Q160627",
+   "pageid": 1494,
+   "domain": "people-science",
+   "image": {
+    "file": "File:Alfred-Russel-Wallace-c1895.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:49:01.482Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Thoroughbred",
+   "qid": "Q210826",
+   "pageid": 18842022,
+   "domain": "animals",
+   "image": {
+    "file": "File:Horseracing Churchill Downs.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T08:49:02.579Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-29": {
+  "morning": {
+   "title": "Parthian Empire",
+   "qid": "Q1986139",
+   "pageid": 4501200,
+   "domain": "history",
+   "image": {
+    "file": "File:Map Parthian Empire-fr.png",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T08:49:03.668Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Asteroid belt",
+   "qid": "Q2179",
+   "pageid": 47264,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Asteroid belt positions-en.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:49:04.767Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-30": {
+  "morning": {
+   "title": "Statue of Liberty",
+   "qid": "Q9202",
+   "pageid": 28617,
+   "domain": "art",
+   "image": {
+    "file": "File:Front view of Statue of Liberty (cropped).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:49:05.908Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Protactinium",
+   "qid": "Q1109",
+   "pageid": 23322,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Protactinium (Element - 91) 2.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:49:07.195Z",
+   "attempt": 0
+  }
  }
 }
