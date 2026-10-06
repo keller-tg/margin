@@ -526,5 +526,67 @@
   "Étoile de première magnitude",
   "Étoile de type spectral MI",
   "Étoile variable semi-régulière"
+ ],
+ "refs": [
+  {
+   "id": "eiffel",
+   "dimension": "length",
+   "label": "la tour Eiffel",
+   "value": 330,
+   "unit": "m",
+   "surface": "330 m",
+   "metres": 330,
+   "sentence": "La tour Eiffel est une tour autoportante de fer puddlé de 330 m de hauteur située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7e arrondissement.",
+   "source": {
+    "title": "Tour Eiffel",
+    "revid": 240120863,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Tour_Eiffel&oldid=240120863"
+   }
+  },
+  {
+   "id": "burj",
+   "dimension": "length",
+   "label": "la Burj Khalifa",
+   "value": 828,
+   "unit": "mètres",
+   "surface": "828 mètres",
+   "metres": 828,
+   "sentence": "Sa hauteur finale, atteinte le 17 janvier 2009, est de 828 mètres et la partie occupée culmine à 585 mètres.",
+   "source": {
+    "title": "Burj Khalifa",
+    "revid": 239357360,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Burj_Khalifa&oldid=239357360"
+   }
+  },
+  {
+   "id": "everest",
+   "dimension": "length",
+   "label": "l’Everest",
+   "value": 8849,
+   "unit": "mètres",
+   "surface": "8 849 mètres",
+   "metres": 8849,
+   "sentence": "Son altitude est établie à 8 849 mètres.",
+   "source": {
+    "title": "Everest",
+    "revid": 239594010,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Everest&oldid=239594010"
+   }
+  },
+  {
+   "id": "pyramid",
+   "dimension": "length",
+   "label": "la pyramide de Khéops",
+   "value": 146.58,
+   "unit": "m",
+   "surface": "146,58 m",
+   "metres": 146.58,
+   "sentence": "Construite sur un socle rocheux, la pyramide avait initialement une hauteur d'environ 146,58 m. Elle était plus haute que la basilique Saint-Pierre de Rome, qui s'élève à 139 m. Mais l'érosion l'a réduite de 9,58 m pour atteindre 137 m de hauteur.",
+   "source": {
+    "title": "Pyramide de Khéops",
+    "revid": 239996144,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Pyramide_de_Kh%C3%A9ops&oldid=239996144"
+   }
+  }
  ]
 }

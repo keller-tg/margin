@@ -40,11 +40,6 @@
   }
  },
  "facts": {
-  "f5": {
-   "kind": "date",
-   "value": "1821",
-   "surface": "1821"
-  },
   "f9": {
    "kind": "date",
    "value": "1824",
@@ -59,6 +54,11 @@
    "kind": "date",
    "value": "1832",
    "surface": "1832"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "1840",
+   "surface": "1840"
   },
   "f64": {
    "kind": "measure",
@@ -114,10 +114,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f5",
-      "label": "In March 1821 Berlioz passed the baccalauréat examination at the University of Grenoble."
-     },
-     {
       "fact": "f9",
       "label": "In 1824 Berlioz composed a Messe solennelle."
      },
@@ -128,6 +124,10 @@
      {
       "fact": "f20",
       "label": "On 9 December 1832 Berlioz presented a concert of his works at the Conservatoire."
+     },
+     {
+      "fact": "f31",
+      "label": "A second government commission followed – the Grande symphonie funèbre et triomphale in 1840."
      }
     ]
    },
@@ -166,10 +166,6 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f5",
-      "label": "In March 1821 Berlioz passed the baccalauréat examination at the University of Grenoble."
-     },
-     {
       "fact": "f9",
       "label": "In 1824 Berlioz composed a Messe solennelle."
      },
@@ -180,6 +176,10 @@
      {
       "fact": "f20",
       "label": "On 9 December 1832 Berlioz presented a concert of his works at the Conservatoire."
+     },
+     {
+      "fact": "f31",
+      "label": "A second government commission followed – the Grande symphonie funèbre et triomphale in 1840."
      }
     ]
    },
@@ -217,6 +217,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1ced03c5135ed0.10eb5315d8f097"
+  "hash": "11554faafed0d9.012e084c5e3db9"
  }
 }

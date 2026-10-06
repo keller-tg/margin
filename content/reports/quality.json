@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T10:02:27.601Z",
+ "generatedAt": "2026-10-06T13:20:08.617Z",
  "seed": "margin-review-2026-10-06",
  "draws": 1,
  "samples": [
@@ -26,7 +26,7 @@
  ],
  "totals": {
   "short-page": 16,
-  "dense-pages": 29,
+  "dense-pages": 30,
   "opener-not-definition": 17,
   "image-instead-of-text": 6,
   "foreign-script": 1
@@ -454,8 +454,10 @@
   },
   {
    "id": "en-2026-10-14-evening",
-   "score": 1,
-   "problems": []
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
   },
   {
    "id": "en-2026-10-14-morning",

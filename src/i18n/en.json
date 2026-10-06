@@ -37,5 +37,17 @@
   "player.loading": "Opening the notebook…",
   "player.missing": "Today’s pages aren’t in the notebook yet.",
   "player.closed": "This part of the day hasn’t opened yet.",
-  "player.pace": "pace"
+  "player.pace": "pace",
+  "end.morning": "That was this morning.",
+  "end.evening": "That was today.",
+  "end.nextEvening": "The evening page opens at {time}.",
+  "end.eveningOpen": "The evening page is open.",
+  "end.nextMorning": "The next morning opens at {time}.",
+  "end.close": "close the notebook",
+  "end.readEvening": "turn to the evening",
+  "note.title": "A line for the margin?",
+  "note.hint": "Only if you like. It stays on this device.",
+  "note.keep": "keep it",
+  "note.skip": "not today",
+  "note.kept": "Kept in the margin."
 }

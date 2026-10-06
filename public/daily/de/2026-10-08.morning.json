@@ -137,10 +137,6 @@
    },
    {
     "type": "sentence",
-    "text": "Das Gewicht variiert von 30 Gramm bei den Mausmakis – der Berthe-Mausmaki ist der kleinste Primat überhaupt – bis zum Indri, der 10 Kilogramm erreichen kann."
-   },
-   {
-    "type": "sentence",
     "text": "Ausgestorbene Formen wie Archaeoindris waren deutlich grösser und wogen bis zu geschätzten 200 Kilogramm."
    },
    {
@@ -156,6 +152,10 @@
     "text": "Zwei Arten, der Mongozmaki und der Braune Maki, wurden darüber hinaus auf den Komoren angesiedelt."
    },
    {
+    "type": "sentence",
+    "text": "Die heute lebenden Arten sind mit Ausnahme des semiterrestrischen Katta Baumbewohner, die höchstens gelegentlich auf den Boden kommen."
+   },
+   {
     "type": "closing",
     "text": "Der Name ist wegen ihrer oft nächtlichen Lebensweise, ihrer grossen Augen und damit markanten Gesichter von den römischen Totengeistern Lemures inspiriert."
    }
@@ -165,6 +165,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c7339626446d3.0622f834781818"
+  "hash": "0afac76450d3fe.033ae60491ad3b"
  }
 }

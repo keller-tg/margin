@@ -20,7 +20,8 @@
     "content:verify": "NODE_NO_WARNINGS=1 tsx scripts/content/verify.ts",
     "content:preview": "NODE_NO_WARNINGS=1 tsx scripts/content/preview.ts",
     "content:quality": "NODE_NO_WARNINGS=1 tsx scripts/content/quality.ts",
-    "images:build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/images/build-images.ts"
+    "images:build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/images/build-images.ts",
+    "content:refs": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 tsx scripts/content/refs.ts"
   },
   "dependencies": {
     "react": "^19.3.0",
@@ -31,19 +32,25 @@
     "@playwright/test": "1.56",
     "@tailwindcss/vite": "^4.3.3",
     "@testing-library/react": "^16.3.3",
+    "@types/d3-geo": "^3.1.1",
     "@types/node": "^26.6.4",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-specification": "^1.0.5",
     "@vitejs/plugin-react": "^6.1.2",
+    "d3-geo": "^3.1.1",
     "jsdom": "^29.1.1",
     "opentype.js": "^2.0.0",
     "sharp": "^0.35.5",
     "subset-font": "^2.9.0",
     "tailwindcss": "^4.3.3",
+    "topojson-client": "^3.1.0",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vite": "^8.3.2",
     "vitest": "^5.0.3",
+    "world-atlas": "^2.0.2",
     "zod": "^4.6.5"
   }
 }

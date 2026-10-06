@@ -57,11 +57,6 @@
    "unit": "meter",
    "surface": "4,6 Meter"
   },
-  "f11": {
-   "kind": "number",
-   "value": 210,
-   "surface": "210"
-  },
   "f17": {
    "kind": "date",
    "value": "1887",
@@ -96,10 +91,8 @@
     "text": "Mit bis zu 9 Metern Länge war er der grösste bekannte Vertreter der Stegosauria."
    },
    {
-    "type": "bignumber",
-    "fact": "f11",
-    "display": "210",
-    "caption": "Noch kleinere Skelette – mit bis zu 210 Zentimetern Länge und 80 Zentimetern Rückenhöhe."
+    "type": "sentence",
+    "text": "Mindestens drei verschiedene Arten wurden aus der unteren Morrison-Formation im westlichen Nordamerika geborgen."
    },
    {
     "type": "closing",
@@ -219,11 +212,11 @@
    },
    {
     "type": "sentence",
-    "text": "Kürzlich wurde ein neuer Stegosaurier – Hesperosaurus – aus der unteren Morrison-Formation entdeckt."
+    "text": "Stegosaurus, einer von vielen Dinosauriern, die erstmals während der «Knochenkriege»entdeckt und beschrieben wurden, wurde von Othniel Charles Marsh im Jahr 1877 anhand von Überresten benannt, die nördlich von Morrison, Colorado, entdeckt wurden."
    },
    {
     "type": "sentence",
-    "text": "Stegosaurus, einer von vielen Dinosauriern, die erstmals während der «Knochenkriege»entdeckt und beschrieben wurden, wurde von Othniel Charles Marsh im Jahr 1877 anhand von Überresten benannt, die nördlich von Morrison, Colorado, entdeckt wurden."
+    "text": "Fossile Fussspuren von Stegosauriden sind extrem selten, vor 1996 war keine einzige bekannt."
    },
    {
     "type": "closing",
@@ -235,6 +228,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1cee8c81198ef6.131e184ed9924d"
+  "hash": "079837e96408de.1c6f8645e59e80"
  }
 }

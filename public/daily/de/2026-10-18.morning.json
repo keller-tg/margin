@@ -45,12 +45,6 @@
    "value": "1868",
    "surface": "1868"
   },
-  "f8": {
-   "kind": "measure",
-   "value": 587.49,
-   "unit": "nm",
-   "surface": "587,49 nm"
-  },
   "f10": {
    "kind": "date",
    "value": "1888",
@@ -172,9 +166,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f8",
-    "display": "587,49 nm",
-    "caption": "Die beiden Astronomen beobachteten – Janssen in Indien, Lockyer in England – das Sonnenspektrum und entdeckten darin eine bislang unbekannte gelbe Spektrallinie bei einer Wellenlänge von 587,49 nm."
+    "fact": "f23",
+    "display": "0,934 %",
+    "caption": "Das mit Abstand häufigste ist Argon, das mit einem Volumenanteil von 0,934 % einen nennenswerten Anteil der gesamten Atmosphäre ausmacht."
    },
    {
     "type": "timeline",
@@ -207,10 +201,6 @@
    },
    {
     "type": "sentence",
-    "text": "Das mit Abstand häufigste ist Argon, das mit einem Volumenanteil von 0,934 % einen nennenswerten Anteil der gesamten Atmosphäre ausmacht."
-   },
-   {
-    "type": "sentence",
     "text": "Alle anderen sind mit Anteilen unter 20 ppm sehr viel seltener, sie zählen daher zu den Spurengasen."
    },
    {
@@ -222,6 +212,10 @@
     "text": "Alle Edelgase sind unter Normalbedingungen einatomige, farb- und geruchlose Gase."
    },
    {
+    "type": "sentence",
+    "text": "Helium ist ausserdem Bestandteil von Erdgas, an dem es einen Volumenanteil von bis zu 16 % haben kann."
+   },
+   {
     "type": "closing",
     "text": "Trotz der geringen Reaktivität sind von den schwereren Edelgasen, insbesondere Xenon, chemische Verbindungen bekannt."
    }
@@ -231,6 +225,6 @@
  "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "11b6964097c82f.0ceb84d2e3f7cf"
+  "hash": "1545840cf9d93c.0fa2d03e554f11"
  }
 }

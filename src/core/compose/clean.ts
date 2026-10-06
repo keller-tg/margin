@@ -29,6 +29,7 @@ export function cleanSentence(raw: string): string | null {
   if (/\p{L}-\s(?!(und|oder|bzw|sowie|and|or|et|ou)\b)/u.test(s)) return null; // "Hopewell- folgte": a compound broken by a removed parenthetical
   if ((s.match(/(^|\s)\p{L}\.(?=\s)/gu) ?? []).length >= 3) return null; // "P. l. persica, P. l. kamptzi": lists of abbreviations
   if (/^\d{3,4}(\s*[-–]\s*\d{2,4})?\s*:/.test(s)) return null; // "1506-1516 : curé de Glaris." — a chronology item
+  if ((s.match(/\s[–—]\s/g) ?? []).length >= 2) return null; // "Mount Forbes – … Peyto-Gletscher – …": a list flattened into one line
   if (!/[.!?…]$/.test(s)) return null;
   if (countWords(s) < 4) return null;
   return s;

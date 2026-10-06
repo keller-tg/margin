@@ -1,0 +1,188 @@
+{
+ "en": [
+  {
+   "id": "eiffel",
+   "dimension": "length",
+   "label": "the Eiffel Tower",
+   "value": 330,
+   "unit": "metres",
+   "surface": "330 metres",
+   "metres": 330,
+   "sentence": "The tower is 330 metres tall, about the same height as an 81-storey building, and the tallest structure in Paris.",
+   "source": {
+    "title": "Eiffel Tower",
+    "revid": 1376706466,
+    "url": "https://en.wikipedia.org/w/index.php?title=Eiffel_Tower&oldid=1376706466"
+   }
+  },
+  {
+   "id": "burj",
+   "dimension": "length",
+   "label": "the Burj Khalifa",
+   "value": 829.8,
+   "unit": "m",
+   "surface": "829.8 m",
+   "metres": 829.8,
+   "sentence": "Designed by the SOM architectural firm, it is the world's tallest structure, with a total height of 829.8 m and a roof height of 828 m.",
+   "source": {
+    "title": "Burj Khalifa",
+    "revid": 1376911955,
+    "url": "https://en.wikipedia.org/w/index.php?title=Burj_Khalifa&oldid=1376911955"
+   }
+  },
+  {
+   "id": "everest",
+   "dimension": "length",
+   "label": "Mount Everest",
+   "value": 8848.86,
+   "unit": "m",
+   "surface": "8,848.86 m",
+   "metres": 8848.86,
+   "sentence": "Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8,848.86 m.",
+   "source": {
+    "title": "Mount Everest",
+    "revid": 1376942985,
+    "url": "https://en.wikipedia.org/w/index.php?title=Mount_Everest&oldid=1376942985"
+   }
+  },
+  {
+   "id": "pyramid",
+   "dimension": "length",
+   "label": "the Great Pyramid",
+   "value": 146.6,
+   "unit": "metres",
+   "surface": "146.6 metres",
+   "metres": 146.6,
+   "sentence": "Initially standing at 146.6 metres, the Great Pyramid was the world's tallest human-made structure for more than 3,700 years.",
+   "source": {
+    "title": "Great Pyramid of Giza",
+    "revid": 1378503482,
+    "url": "https://en.wikipedia.org/w/index.php?title=Great_Pyramid_of_Giza&oldid=1378503482"
+   }
+  }
+ ],
+ "de": [
+  {
+   "id": "eiffel",
+   "dimension": "length",
+   "label": "der Eiffelturm",
+   "value": 330,
+   "unit": "meter",
+   "surface": "330 Meter",
+   "metres": 330,
+   "sentence": "Der Eiffelturm ist ein 330 Meter hoher Eisenfachwerkturm in Paris.",
+   "source": {
+    "title": "Eiffelturm",
+    "revid": 270501260,
+    "url": "https://de.wikipedia.org/w/index.php?title=Eiffelturm&oldid=270501260"
+   }
+  },
+  {
+   "id": "burj",
+   "dimension": "length",
+   "label": "der Burj Khalifa",
+   "value": 829.8,
+   "unit": "meter",
+   "surface": "829,8 Meter",
+   "metres": 829.8,
+   "sentence": "In ihnen befinden sich Schaltkästen und die Wartungselektronik der Antenne, mit der der Turm auf eine Gesamthöhe von 829,8 Meter kommt.",
+   "source": {
+    "title": "Burj Khalifa",
+    "revid": 270307518,
+    "url": "https://de.wikipedia.org/w/index.php?title=Burj_Khalifa&oldid=270307518"
+   }
+  },
+  {
+   "id": "everest",
+   "dimension": "length",
+   "label": "der Mount Everest",
+   "value": 8848,
+   "unit": "m",
+   "surface": "8848 m",
+   "metres": 8848,
+   "sentence": "Der Mount Everest ist ein Berg im Himalaya und mit einer Höhe von über 8848 m der höchste Berg der Erde.",
+   "source": {
+    "title": "Mount Everest",
+    "revid": 271038197,
+    "url": "https://de.wikipedia.org/w/index.php?title=Mount_Everest&oldid=271038197"
+   }
+  },
+  {
+   "id": "pyramid",
+   "dimension": "length",
+   "label": "die Cheops-Pyramide",
+   "value": 146.59,
+   "unit": "m",
+   "surface": "146,59 m",
+   "metres": 146.59,
+   "sentence": "Ihre ursprüngliche Seitenlänge wird auf 230,33 m und die Höhe auf 146,59 m berechnet.",
+   "source": {
+    "title": "Cheops-Pyramide",
+    "revid": 270209622,
+    "url": "https://de.wikipedia.org/w/index.php?title=Cheops-Pyramide&oldid=270209622"
+   }
+  }
+ ],
+ "fr": [
+  {
+   "id": "eiffel",
+   "dimension": "length",
+   "label": "la tour Eiffel",
+   "value": 330,
+   "unit": "m",
+   "surface": "330 m",
+   "metres": 330,
+   "sentence": "La tour Eiffel est une tour autoportante de fer puddlé de 330 m de hauteur située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7e arrondissement.",
+   "source": {
+    "title": "Tour Eiffel",
+    "revid": 240120863,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Tour_Eiffel&oldid=240120863"
+   }
+  },
+  {
+   "id": "burj",
+   "dimension": "length",
+   "label": "la Burj Khalifa",
+   "value": 828,
+   "unit": "mètres",
+   "surface": "828 mètres",
+   "metres": 828,
+   "sentence": "Sa hauteur finale, atteinte le 17 janvier 2009, est de 828 mètres et la partie occupée culmine à 585 mètres.",
+   "source": {
+    "title": "Burj Khalifa",
+    "revid": 239357360,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Burj_Khalifa&oldid=239357360"
+   }
+  },
+  {
+   "id": "everest",
+   "dimension": "length",
+   "label": "l’Everest",
+   "value": 8849,
+   "unit": "mètres",
+   "surface": "8 849 mètres",
+   "metres": 8849,
+   "sentence": "Son altitude est établie à 8 849 mètres.",
+   "source": {
+    "title": "Everest",
+    "revid": 239594010,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Everest&oldid=239594010"
+   }
+  },
+  {
+   "id": "pyramid",
+   "dimension": "length",
+   "label": "la pyramide de Khéops",
+   "value": 146.58,
+   "unit": "m",
+   "surface": "146,58 m",
+   "metres": 146.58,
+   "sentence": "Construite sur un socle rocheux, la pyramide avait initialement une hauteur d'environ 146,58 m. Elle était plus haute que la basilique Saint-Pierre de Rome, qui s'élève à 139 m. Mais l'érosion l'a réduite de 9,58 m pour atteindre 137 m de hauteur.",
+   "source": {
+    "title": "Pyramide de Khéops",
+    "revid": 239996144,
+    "url": "https://fr.wikipedia.org/w/index.php?title=Pyramide_de_Kh%C3%A9ops&oldid=239996144"
+   }
+  }
+ ]
+}

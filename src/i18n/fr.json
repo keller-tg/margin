@@ -37,5 +37,17 @@
   "player.loading": "Le carnet s’ouvre…",
   "player.missing": "Les pages du jour ne sont pas encore dans le carnet.",
   "player.closed": "Cette partie de la journée n’est pas encore ouverte.",
-  "player.pace": "rythme"
+  "player.pace": "rythme",
+  "end.morning": "C’était le matin.",
+  "end.evening": "C’était aujourd’hui.",
+  "end.nextEvening": "La page du soir ouvre à {time}.",
+  "end.eveningOpen": "La page du soir est ouverte.",
+  "end.nextMorning": "Le prochain matin ouvre à {time}.",
+  "end.close": "refermer le carnet",
+  "end.readEvening": "tourner vers le soir",
+  "note.title": "Une ligne pour la marge ?",
+  "note.hint": "Seulement si vous le souhaitez. Elle reste sur cet appareil.",
+  "note.keep": "la garder",
+  "note.skip": "pas aujourd’hui",
+  "note.kept": "Notée dans la marge."
 }

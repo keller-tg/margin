@@ -11,6 +11,7 @@ import {
   hasFiniteVerb, lacksSubject, proseForSplitting, tidy,
 } from './clean';
 import type { Packet } from './packet';
+import { inMetres } from '../numbers/units';
 import { languageMismatch } from '../verify/verify';
 
 export const QUALITY_THRESHOLD = 0.6;
@@ -161,6 +162,64 @@ function timeline(ctx: Ctx, cands: Cand[]): Page | null {
   return { type: 'timeline', events: events.map(({ fact, label }) => ({ fact, label })) };
 }
 
+/** A map of where the thing is, when the source has coordinates. The geometry is baked in (scripts/content/lib/map.ts). */
+function mapPage(ctx: Ctx): Page | null {
+  return ctx.p.facts.c1 ? { type: 'map', map: 'm1', label: ctx.p.topic.title } : null;
+}
+
+const HEIGHT_WORDS: Record<Lang, RegExp> = {
+  en: /\b(tall|high|height|elevation)\b/i,
+  de: /\b(hoch|hohe[rsn]?|Höhe|Gesamthöhe)\b/i,
+  fr: /\b(haut|haute|hauteur|altitude)\b/i,
+};
+const PART_WORDS: Record<Lang, RegExp> = {
+  en: /\b(highest point|summit|peak|highest mountain|average|mean)\b/i,
+  de: /(höchste[rn]? (Punkt|Berg|Erhebung)|Gipfel|durchschnittlich|mittlere)/i,
+  fr: /(point culminant|culmin|sommet|plus haut point|moyenne?)/i,
+};
+// things that have a height of their own (a tower, a statue, a mountain, a waterfall) — not countries,
+// cities or islands, whose "height" is an average or a highest point somewhere inside them
+const COMPARE_DOMAINS = new Set(['architecture', 'landscapes', 'art']);
+export const refFactId = (refId: string) => `ref_${refId}`;
+
+/**
+ * A compare page: the thing's height next to one or two reference objects of similar size (content/refs),
+ * drawn to scale. Strict on purpose: the sentence must name the topic and talk about height, so the bar
+ * labelled with the topic really is the topic's height (not, say, a mountain in a country).
+ */
+function comparePage(ctx: Ctx, cands: Cand[]): Page | null {
+  const { p, lang } = ctx;
+  const refs = p.refs ?? [];
+  if (!refs.length || !COMPARE_DOMAINS.has(p.topic.domain) || countWords(p.topic.title) > 4) return null;
+  const head = p.topic.title.split(/\s+/)[0]!.toLowerCase().slice(0, 5);
+  for (const [id, f] of Object.entries(p.facts)) {
+    if (f.kind !== 'measure' || !f.sentence) continue;
+    const m = inMetres(Number(f.value), f.unit);
+    if (m === null || m < 20) continue;
+    if (!HEIGHT_WORDS[lang].test(f.sentence) || !f.sentence.toLowerCase().includes(head)) continue;
+    // the highest point OF the topic is a part of it, not its height ("Mount Forbes, the highest point in the park")
+    if (PART_WORDS[lang].test(f.sentence)) continue;
+    const c = cands.find((x) => x.facts.includes(id) && !ctx.used.has(x.idx) && !x.dangling);
+    if (!c) continue;
+    const fit = fitToWords(c.text, ctx.max, lang);
+    if (!fit || !fit.text.includes(f.surface)) continue;
+    const near = refs
+      .map((r) => ({ r, d: Math.abs(Math.log(r.metres / m)) }))
+      .filter((x) => x.d <= Math.log(8))
+      .sort((a, b) => a.d - b.d)
+      .slice(0, 2)
+      .map((x) => x.r);
+    if (!near.length) continue;
+    ctx.used.add(c.idx);
+    const items = [
+      { label: p.topic.title, fact: id, metres: m },
+      ...near.map((r) => ({ label: r.label, fact: refFactId(r.id), metres: r.metres })),
+    ].sort((a, b) => a.metres - b.metres);
+    return { type: 'compare', items: items.map(({ label, fact }) => ({ label, fact })), caption: fit.text, shape: 'heights' };
+  }
+  return null;
+}
+
 function closing(ctx: Ctx, cands: Cand[], onlyPage: boolean): Page | null {
   const free = cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling && !c.etymology);
   // the only page after the title (Easygoing evening): the defining first sentence of the lead
@@ -203,12 +262,17 @@ function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], mi
   if (!minimal) {
     if (img && allows('image') && pace !== 'easy' && body.length < bodyTarget)
       push({ type: 'image', image: img, caption: p.topic.title });
+    // compare first: it is the richer page for the same measure; the big number then takes another one
+    if (allows('compare') && body.length < bodyTarget - 1) push(comparePage(ctx, cands));
     if (allows('bignumber') && body.length < bodyTarget) push(bigNumber(ctx, cands));
     if (allows('timeline') && body.length < bodyTarget - 1) push(timeline(ctx, cands));
+    if (allows('map') && body.length < bodyTarget - 1) push(mapPage(ctx));
   } else if (img && allows('image') && pace !== 'easy' && body.length < bodyTarget) {
     push({ type: 'image', image: img, caption: p.topic.title });
   }
-  while (body.length < bodyTarget) {
+  // keep one clean sentence back for the closing, or the whole pace would fall back to the minimal template
+  const closable = () => cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling && !c.etymology && fitToWords(c.text, ctx.max, ctx.lang)).length;
+  while (body.length < bodyTarget && closable() > 1) {
     const before = body.length;
     push(sentencePage(ctx, cands, { preferSection: pace === 'deep' && body.length > 3 }));
     if (body.length === before) push(sentencePage(ctx, cands));
@@ -247,6 +311,8 @@ function typeset(pg: Page, lang: Lang): Page {
     case 'bignumber': return { ...pg, display: n(pg.display), caption: n(pg.caption) };
     case 'image': return { ...pg, caption: n(pg.caption) };
     case 'timeline': return { ...pg, events: pg.events.map((e) => ({ ...e, label: n(e.label) })) };
+    case 'map': return { ...pg, label: n(pg.label) };
+    case 'compare': return { ...pg, caption: n(pg.caption), items: pg.items.map((it) => ({ ...it, label: n(it.label) })) };
     default: return pg;
   }
 }
@@ -266,7 +332,14 @@ export function composeExtractive(p: Packet): ComposeResult {
     paces[pace] = r.pages.map((pg) => typeset(pg, p.lang));
     scores.push(r.score);
   }
-  const usedFacts = new Set(PACE_IDS.flatMap((k) => paces[k]).flatMap((pg) => (pg.type === 'bignumber' ? [pg.fact] : pg.type === 'timeline' ? pg.events.map((e) => e.fact) : [])));
+  const usedFacts = new Set(
+    PACE_IDS.flatMap((k) => paces[k]).flatMap((pg) =>
+      pg.type === 'bignumber' ? [pg.fact] : pg.type === 'timeline' ? pg.events.map((e) => e.fact) : pg.type === 'compare' ? pg.items.map((i) => i.fact) : [],
+    ),
+  );
+  const refFacts = Object.fromEntries(
+    (p.refs ?? []).map((r) => [refFactId(r.id), { kind: 'measure' as const, value: r.value, unit: r.unit, surface: r.surface, ref: r.id }]),
+  );
   const desc = tidy(dropParentheticals(p.source.description)).trim();
   const teaserFit = desc ? capitalizeFirst(desc) : p.topic.title;
   const thing: Thing = {
@@ -278,7 +351,11 @@ export function composeExtractive(p: Packet): ComposeResult {
     topic: { title: p.topic.title, qid: p.topic.qid, pageid: p.topic.pageid, revid: p.topic.revid, domain: p.topic.domain, teaser: normalizeTypography(countWords(teaserFit) <= PACES.easy.maxWords ? teaserFit : p.topic.title, p.lang) },
     sources: [{ title: p.topic.title, url: p.topic.url, revid: p.topic.revid, license: 'CC BY-SA 4.0' }],
     images: p.images,
-    facts: Object.fromEntries(Object.entries(p.facts).filter(([id]) => usedFacts.has(id)).map(([id, f]) => [id, { kind: f.kind, value: f.value, ...(f.unit ? { unit: f.unit } : {}), surface: f.surface }])),
+    facts: Object.fromEntries(
+      Object.entries({ ...p.facts, ...refFacts })
+        .filter(([id]) => usedFacts.has(id))
+        .map(([id, f]) => [id, { kind: f.kind, value: f.value, ...(f.unit ? { unit: f.unit } : {}), surface: f.surface, ...('ref' in f && f.ref ? { ref: f.ref } : {}) }]),
+    ),
     paces,
     authoredBy: 'extractive',
     qualityScore: Math.round(Math.min(...scores) * 100) / 100,

@@ -262,5 +262,67 @@
   "Extant Pennsylvanian first appearances",
   "Octopuses",
   "Tool-using animals"
+ ],
+ "refs": [
+  {
+   "id": "eiffel",
+   "dimension": "length",
+   "label": "the Eiffel Tower",
+   "value": 330,
+   "unit": "metres",
+   "surface": "330 metres",
+   "metres": 330,
+   "sentence": "The tower is 330 metres tall, about the same height as an 81-storey building, and the tallest structure in Paris.",
+   "source": {
+    "title": "Eiffel Tower",
+    "revid": 1376706466,
+    "url": "https://en.wikipedia.org/w/index.php?title=Eiffel_Tower&oldid=1376706466"
+   }
+  },
+  {
+   "id": "burj",
+   "dimension": "length",
+   "label": "the Burj Khalifa",
+   "value": 829.8,
+   "unit": "m",
+   "surface": "829.8 m",
+   "metres": 829.8,
+   "sentence": "Designed by the SOM architectural firm, it is the world's tallest structure, with a total height of 829.8 m and a roof height of 828 m.",
+   "source": {
+    "title": "Burj Khalifa",
+    "revid": 1376911955,
+    "url": "https://en.wikipedia.org/w/index.php?title=Burj_Khalifa&oldid=1376911955"
+   }
+  },
+  {
+   "id": "everest",
+   "dimension": "length",
+   "label": "Mount Everest",
+   "value": 8848.86,
+   "unit": "m",
+   "surface": "8,848.86 m",
+   "metres": 8848.86,
+   "sentence": "Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8,848.86 m.",
+   "source": {
+    "title": "Mount Everest",
+    "revid": 1376942985,
+    "url": "https://en.wikipedia.org/w/index.php?title=Mount_Everest&oldid=1376942985"
+   }
+  },
+  {
+   "id": "pyramid",
+   "dimension": "length",
+   "label": "the Great Pyramid",
+   "value": 146.6,
+   "unit": "metres",
+   "surface": "146.6 metres",
+   "metres": 146.6,
+   "sentence": "Initially standing at 146.6 metres, the Great Pyramid was the world's tallest human-made structure for more than 3,700 years.",
+   "source": {
+    "title": "Great Pyramid of Giza",
+    "revid": 1378503482,
+    "url": "https://en.wikipedia.org/w/index.php?title=Great_Pyramid_of_Giza&oldid=1378503482"
+   }
+  }
  ]
 }

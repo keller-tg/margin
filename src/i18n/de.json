@@ -37,5 +37,17 @@
   "player.loading": "Das Heft öffnet sich …",
   "player.missing": "Die Seiten von heute sind noch nicht im Heft.",
   "player.closed": "Dieser Teil des Tages ist noch nicht offen.",
-  "player.pace": "Tempo"
+  "player.pace": "Tempo",
+  "end.morning": "Das war der Morgen.",
+  "end.evening": "Das war heute.",
+  "end.nextEvening": "Die Abendseite öffnet um {time}.",
+  "end.eveningOpen": "Die Abendseite ist offen.",
+  "end.nextMorning": "Der nächste Morgen öffnet um {time}.",
+  "end.close": "das Heft zuklappen",
+  "end.readEvening": "zum Abend blättern",
+  "note.title": "Eine Zeile für den Rand?",
+  "note.hint": "Nur wenn du magst. Sie bleibt auf diesem Gerät.",
+  "note.keep": "behalten",
+  "note.skip": "heute nicht",
+  "note.kept": "Am Rand notiert."
 }

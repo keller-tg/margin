@@ -1,0 +1,73 @@
+{
+  "_about": "Reference objects for compare pages (plan §13.11). Values are NOT typed in here: npm run content:refs reads each article's lead in each language and takes the value from the sentence that states it, near `approx`. Labels must be short (at most 4 words).",
+  "refs": [
+    {
+      "id": "eiffel",
+      "dimension": "length",
+      "approx": 330,
+      "tolerance": 0.06,
+      "titles": {
+        "en": "Eiffel Tower",
+        "de": "Eiffelturm",
+        "fr": "Tour Eiffel"
+      },
+      "labels": {
+        "en": "the Eiffel Tower",
+        "de": "der Eiffelturm",
+        "fr": "la tour Eiffel"
+      }
+    },
+    {
+      "id": "burj",
+      "dimension": "length",
+      "approx": 829,
+      "tolerance": 0.04,
+      "titles": {
+        "en": "Burj Khalifa",
+        "de": "Burj Khalifa",
+        "fr": "Burj Khalifa"
+      },
+      "labels": {
+        "en": "the Burj Khalifa",
+        "de": "der Burj Khalifa",
+        "fr": "la Burj Khalifa"
+      }
+    },
+    {
+      "id": "everest",
+      "dimension": "length",
+      "approx": 8849,
+      "tolerance": 0.02,
+      "titles": {
+        "en": "Mount Everest",
+        "de": "Mount Everest",
+        "fr": "Everest"
+      },
+      "labels": {
+        "en": "Mount Everest",
+        "de": "der Mount Everest",
+        "fr": "l’Everest"
+      }
+    },
+    {
+      "id": "pyramid",
+      "dimension": "length",
+      "approx": 146.6,
+      "tolerance": 0.05,
+      "titles": {
+        "en": "Great Pyramid of Giza",
+        "de": "Cheops-Pyramide",
+        "fr": "Pyramide de Khéops"
+      },
+      "labels": {
+        "en": "the Great Pyramid",
+        "de": "die Cheops-Pyramide",
+        "fr": "la pyramide de Khéops"
+      }
+    }
+  ],
+  "_removed": {
+    "bluewhale": "2026-10-06: the articles give ranges or thresholds ('29.9–30.5 m', 'longer than 30 m'), not one length",
+    "liberty": "2026-10-06: only a range ('46 à 93 mètres') or no single height in the leads"
+  }
+}

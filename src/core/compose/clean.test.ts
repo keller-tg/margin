@@ -109,3 +109,11 @@ describe('a noun is not a copula (M87, fr)', () => {
     expect(isDefinition(s, 'fr', 'M87 (galaxie)')).toBe(false);
   });
 });
+
+describe('flattened lists are not sentences (Banff-Nationalpark, de)', () => {
+  it('drops dash-separated list runs', () => {
+    expect(cleanSentence('Mount Forbes – mit 3617 m Höhe der höchste Punkt im Park Peyto-Gletscher – ein Auslassgletscher des Wapta-Eisfelds Peyto Lake – ein Bergsee.')).toBeNull();
+    expect(cleanSentence('Die Stadt – sie liegt am Fluss – ist alt und schön.')).toBeNull(); // two dashes: dropped too (conservative)
+    expect(cleanSentence('Die Stadt liegt am Fluss – und ist alt.')).not.toBeNull();
+  });
+});

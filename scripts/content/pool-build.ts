@@ -122,7 +122,7 @@ async function pageProps(lang: WikiLang, titles: string[]): Promise<Map<string, 
       out.set(t, {
         title: p.title, pageid: p.pageid, qid: p.pageprops?.wikibase_item ?? null,
         disambig: p.pageprops?.disambiguation !== undefined, length: p.length ?? 0,
-        pageimage: p.pageimage ?? null, coords: c ? [c.lat, c.lon] : null,
+        pageimage: p.pageimage ?? null, coords: c && (c.globe ?? 'earth') === 'earth' ? [c.lat, c.lon] : null, // a crater on the Moon gets no Earth map
       });
     }
   }

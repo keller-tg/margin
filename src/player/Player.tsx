@@ -8,6 +8,7 @@ import { Sheet } from '../paper/Sheet';
 import type { PacePref } from '../theme/prefs';
 import type { Manifest } from './data';
 import { useReducedMotion } from './motion';
+import { EndPage, NotePage } from './AppPages';
 import { PageBody } from './pages';
 import { turnPage, type TurnDirection } from './turn';
 import { writePage, type Writer } from './writing';
@@ -22,6 +23,14 @@ export function mapIndex(index: number, fromLen: number, toLen: number): number 
 }
 
 type Turn = { from: number; to: number; dir: TurnDirection };
+type AppPageKind = 'note' | 'end';
+
+/** A stable small number per page, so its hand-drawn strokes look the same on every visit. */
+function seedFor(id: string, i: number): number {
+  let h = 2166136261;
+  for (const c of `${id}:${i}`) h = Math.imul(h ^ c.charCodeAt(0), 16777619);
+  return (h >>> 0) % 100000;
+}
 
 export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }) {
   const { prefs, setPrefs, t } = usePrefs();
@@ -29,6 +38,9 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
   const reduced = useReducedMotion(prefs.motion);
   const pace = prefs.pace as PaceId;
   const pages = thing.paces[pace];
+  // the app's own pages after the content: the margin note (evenings) and the END page
+  const appPages: AppPageKind[] = thing.slot === 'evening' ? ['note', 'end'] : ['end'];
+  const count = pages.length + appPages.length;
   const [index, setIndex] = useState(0);
   const [turn, setTurn] = useState<Turn | null>(null);
   const written = useRef(new Set<string>());
@@ -55,13 +67,13 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
       }
       const to = dir === 'forward' ? index + 1 : index - 1;
       if (to < 0) return;
-      if (to >= pages.length) {
-        navigate('/'); // the END page arrives with milestone (d)
+      if (to >= count) {
+        navigate('/'); // past the END page: the notebook closes
         return;
       }
       setTurn({ from: index, to, dir });
     },
-    [turn, writing, index, pages.length, navigate],
+    [turn, writing, index, count, navigate],
   );
 
   useLayoutEffect(() => {
@@ -80,7 +92,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
   useEffect(() => {
     if (turn) return;
     window.scrollTo({ top: 0 });
-    if (live.current) live.current.textContent = t('player.pageOf', { n: String(index + 1), total: String(pages.length) });
+    if (live.current) live.current.textContent = t('player.pageOf', { n: String(index + 1), total: String(count) });
     const leaf = leafRefs.current.get(index);
     leaf?.focus({ preventScroll: true });
     if (!leaf || reduced || written.current.has(key(index))) {
@@ -96,6 +108,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
       w.done.then(() => {
         written.current.add(key(index));
         setWriting(false);
+        leaf.dispatchEvent(new Event('margin:written')); // e.g. the map moves closer once it is drawn
       });
     });
     return () => {
@@ -141,7 +154,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
       suppressClick.current = false;
       return;
     }
-    if ((e.target as HTMLElement).closest('a, button')) return;
+    if ((e.target as HTMLElement).closest('a, button, input, label, form')) return;
     if (window.getSelection()?.toString()) return; // selecting text is not turning a page
     const box = e.currentTarget.getBoundingClientRect();
     go(e.clientX - box.left > box.width * 0.33 ? 'forward' : 'back');
@@ -150,7 +163,8 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
   const changePace = (p: PacePref) => {
     if (p === pace) return;
     writer.current?.skip();
-    setIndex(mapIndex(index, pages.length, thing.paces[p].length));
+    // on the app's pages (note, END) stay there; within the content keep the relative position
+    setIndex(index >= pages.length ? thing.paces[p].length + (index - pages.length) : mapIndex(index, pages.length, thing.paces[p].length));
     setPrefs({ pace: p, paceChosen: true });
   };
 
@@ -166,7 +180,8 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
       <p ref={live} className="visually-hidden" aria-live="polite" />
       <div className="leaves">
         {shown.map(({ i, z, moving }) => {
-          const page = pages[i]!;
+          const page = i < pages.length ? pages[i]! : null;
+          const app = page ? null : appPages[i - pages.length]!;
           const unwritten = !reduced && !written.current.has(key(i));
           return (
             <section
@@ -181,7 +196,7 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
               data-entering={turn && moving && turn.dir === 'back' && !reduced ? '' : undefined}
               data-unwritten={unwritten || undefined}
               tabIndex={-1}
-              aria-label={t('player.pageOf', { n: String(i + 1), total: String(pages.length) })}
+              aria-label={t('player.pageOf', { n: String(i + 1), total: String(count) })}
               aria-hidden={turn && i !== turn.to ? true : undefined}
               onPointerDown={onPointerDown}
               onPointerUp={onPointerUp}
@@ -193,14 +208,20 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
                 fill
                 margin={
                   <p className="ink ink--small ink--note margin-date">
-                    {i === 0 ? `${formatMarginDate(thing.lang, date)} · ${t(thing.slot === 'morning' ? 'slot.morning' : 'slot.evening').toLowerCase()}` : `${i + 1}/${pages.length}`}
+                    {i === 0 ? `${formatMarginDate(thing.lang, date)} · ${t(thing.slot === 'morning' ? 'slot.morning' : 'slot.evening').toLowerCase()}` : page ? `${i + 1}/${pages.length}` : ''}
                   </p>
                 }
               >
-                <PageBody page={page} thing={thing} manifest={manifest} />
+                {page ? (
+                  <PageBody page={page} thing={thing} manifest={manifest} seed={seedFor(thing.id, i)} />
+                ) : app === 'note' ? (
+                  <NotePage thing={thing} onDone={() => go('forward')} />
+                ) : (
+                  <EndPage thing={thing} />
+                )}
                 <footer className="page-foot player-foot">
-                  <Ticks n={pages.length} at={i} />
-                  <nav className="ui-line player-nav" aria-label={t('player.pageOf', { n: String(i + 1), total: String(pages.length) })}>
+                  <Ticks n={pages.length} at={Math.min(i, pages.length - 1)} />
+                  <nav className="ui-line player-nav" aria-label={t('player.pageOf', { n: String(i + 1), total: String(count) })}>
                     <button type="button" className="nav-btn" onClick={() => go('back')} disabled={i === 0} aria-label={t('player.prev')}>
                       ←
                     </button>
@@ -212,12 +233,12 @@ export function Player({ thing, manifest }: { thing: Thing; manifest: Manifest }
                           </button>
                         ))}
                       </span>
-                    ) : i === pages.length - 1 ? (
+                    ) : i === count - 1 ? (
                       <span className="end-hint">{t('player.close')}</span>
                     ) : (
                       <span />
                     )}
-                    <button type="button" className="nav-btn" onClick={() => go('forward')} aria-label={i === pages.length - 1 ? t('player.close') : t('player.next')}>
+                    <button type="button" className="nav-btn" onClick={() => go('forward')} aria-label={i === count - 1 ? t('player.close') : t('player.next')}>
                       →
                     </button>
                   </nav>

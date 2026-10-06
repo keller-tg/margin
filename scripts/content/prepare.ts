@@ -18,7 +18,7 @@
 import { parseArgs } from 'node:util';
 import { composeExtractive } from '../../src/core/compose/compose';
 import { extractFacts } from '../../src/core/compose/facts';
-import type { Packet } from '../../src/core/compose/packet';
+import type { Packet, RefSource } from '../../src/core/compose/packet';
 import { PACES } from '../../src/core/pace/pace';
 import { pick } from '../../src/core/pick/pick';
 import type { ImageRecord } from '../../src/core/license/license';
@@ -118,6 +118,13 @@ function thingImage(file: string, alt: string): ThingImage {
   return { file: m.file, w: m.width, h: m.height, alt, thumb: m.thumb?.url ?? null, sha1: m.sha1, credit: m.credit };
 }
 
+const REFS = readJson<Record<WikiLang, RefSource[]>>(p('content/refs/refs.json'), { en: [], de: [], fr: [] });
+const coordsByQid: Record<WikiLang, Map<string, [number, number] | null>> = { en: new Map(), de: new Map(), fr: new Map() };
+const coordsOf = (lang: WikiLang, qid: string) => {
+  if (coordsByQid[lang].size === 0) for (const c of loadPool(lang)) coordsByQid[lang].set(c.qid, c.coords);
+  return coordsByQid[lang].get(qid) ?? null;
+};
+
 function buildPacket(lang: WikiLang, date: string, slot: Slot, e: { qid: string; domain: Domain; image: Candidate['image'] }, a: Article): Packet {
   const parts = [{ text: a.lead }, ...a.sections.map((s) => ({ text: s.text, section: s.heading }))];
   return {
@@ -128,9 +135,10 @@ function buildPacket(lang: WikiLang, date: string, slot: Slot, e: { qid: string;
     },
     limits: Object.fromEntries(Object.entries(PACES).map(([k, v]) => [k, { pages: slot === 'evening' ? [v.eveningPages, v.eveningPages] : v.pages, maxWords: v.maxWords }])) as Packet['limits'],
     source: { description: a.description, lead: a.lead, sections: a.sections },
-    facts: extractFacts(lang, parts, null),
+    facts: extractFacts(lang, parts, coordsOf(lang, e.qid)),
     images: { img1: thingImage(e.image.file, a.title) },
     categories: a.categories,
+    refs: REFS[lang],
   };
 }
 

@@ -41,7 +41,8 @@ export const zThing = z.object({
   topic: z.object({ title: z.string(), qid: z.string().regex(/^Q\d+$/), pageid: z.number().int(), revid: z.number().int().positive(), domain: z.enum(DOMAINS), teaser: z.string() }),
   sources: z.array(z.object({ title: z.string(), url: z.string(), revid: z.number(), license: z.literal('CC BY-SA 4.0') })).min(1),
   images: z.record(z.string(), z.object({ file: z.string(), w: z.number(), h: z.number(), alt: z.string(), thumb: z.string().nullable(), sha1: z.string(), credit: zCredit })),
-  facts: z.record(z.string(), z.object({ kind: z.enum(['number', 'measure', 'date', 'coords']), value: z.union([z.number(), z.string()]), unit: z.string().optional(), surface: z.string(), sentence: z.string().optional() })),
+  facts: z.record(z.string(), z.object({ kind: z.enum(['number', 'measure', 'date', 'coords']), value: z.union([z.number(), z.string()]), unit: z.string().optional(), surface: z.string(), sentence: z.string().optional(), ref: z.string().optional() })),
+  maps: z.record(z.string(), z.object({ viewBox: z.string(), zoomBox: z.string(), paths: z.array(z.string()), point: z.tuple([z.number(), z.number()]) })).optional(),
   paces: z.object({ easy: z.array(zPage), medium: z.array(zPage), deep: z.array(zPage) }),
   authoredBy: z.enum(['curated', 'extractive']), qualityScore: z.number(),
   verified: z.object({ version: z.number(), hash: z.string() }).optional(),
@@ -183,12 +184,18 @@ export function verifyThing(thing: Thing, packet: Packet, ctx: VerifyContext): I
       if (pg.type === 'bignumber' && !thing.facts[pg.fact]) fail('schema', where, `unknown fact ${pg.fact}`);
       if (pg.type === 'timeline') for (const e of pg.events) if (!thing.facts[e.fact]) fail('schema', where, `unknown fact ${e.fact}`);
       if (pg.type === 'compare') for (const it of pg.items) if (!thing.facts[it.fact]) fail('schema', where, `unknown fact ${it.fact}`);
+      if (pg.type === 'map' && !thing.maps?.[pg.map]) fail('schema', where, `unknown map ${pg.map}`);
       if (pg.type === 'sentence') for (const mk of pg.marks ?? []) if (!pg.text.includes(mk.phrase)) fail('schema', where, `emphasis "${mk.phrase}" not in text`);
 
       // 9. fact integrity
       if (pg.type === 'bignumber') {
         const f = thing.facts[pg.fact];
         if (f && pg.display !== normalizeTypography(f.surface, lang)) fail('facts', where, `display "${pg.display}" ≠ fact "${f.surface}"`);
+      }
+      if (pg.type === 'compare') for (const it of pg.items) {
+        const f = thing.facts[it.fact];
+        const r = f?.ref ? packet.refs?.find((x) => x.id === f.ref) : undefined;
+        if (f?.ref && (!r || r.value !== f.value || r.surface !== f.surface)) fail('facts', where, `reference ${f.ref} does not match content/refs`);
       }
       if (pg.type === 'timeline') for (const e of pg.events) {
         const f = thing.facts[e.fact];

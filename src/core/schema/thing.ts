@@ -39,7 +39,12 @@ export type Fact = {
   surface: string;
   /** The source sentence the fact came from (keeps authors honest; see plan §6). */
   sentence?: string;
+  /** Set for reference objects on compare pages (content/refs): the ref's id. */
+  ref?: string;
 };
+
+/** A pre-projected map sketch (plan §3): coastline strokes in a 600×420 box, the point, and a closer view. */
+export type MapData = { viewBox: string; zoomBox: string; paths: string[]; point: [number, number] };
 
 export type ThingImage = {
   file: string;
@@ -64,6 +69,7 @@ export type Thing = {
   sources: Source[];
   images: Record<ImgId, ThingImage>;
   facts: Record<FactId, Fact>;
+  maps?: Record<string, MapData>;
   paces: Record<PaceId, Page[]>;
   authoredBy: 'curated' | 'extractive';
   qualityScore: number;

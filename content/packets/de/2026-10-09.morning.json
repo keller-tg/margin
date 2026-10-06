@@ -833,5 +833,67 @@
   "Radiogalaxie",
   "Uppsala General Catalogue",
   "Virgo-Galaxienhaufen"
+ ],
+ "refs": [
+  {
+   "id": "eiffel",
+   "dimension": "length",
+   "label": "der Eiffelturm",
+   "value": 330,
+   "unit": "meter",
+   "surface": "330 Meter",
+   "metres": 330,
+   "sentence": "Der Eiffelturm ist ein 330 Meter hoher Eisenfachwerkturm in Paris.",
+   "source": {
+    "title": "Eiffelturm",
+    "revid": 270501260,
+    "url": "https://de.wikipedia.org/w/index.php?title=Eiffelturm&oldid=270501260"
+   }
+  },
+  {
+   "id": "burj",
+   "dimension": "length",
+   "label": "der Burj Khalifa",
+   "value": 829.8,
+   "unit": "meter",
+   "surface": "829,8 Meter",
+   "metres": 829.8,
+   "sentence": "In ihnen befinden sich Schaltkästen und die Wartungselektronik der Antenne, mit der der Turm auf eine Gesamthöhe von 829,8 Meter kommt.",
+   "source": {
+    "title": "Burj Khalifa",
+    "revid": 270307518,
+    "url": "https://de.wikipedia.org/w/index.php?title=Burj_Khalifa&oldid=270307518"
+   }
+  },
+  {
+   "id": "everest",
+   "dimension": "length",
+   "label": "der Mount Everest",
+   "value": 8848,
+   "unit": "m",
+   "surface": "8848 m",
+   "metres": 8848,
+   "sentence": "Der Mount Everest ist ein Berg im Himalaya und mit einer Höhe von über 8848 m der höchste Berg der Erde.",
+   "source": {
+    "title": "Mount Everest",
+    "revid": 271038197,
+    "url": "https://de.wikipedia.org/w/index.php?title=Mount_Everest&oldid=271038197"
+   }
+  },
+  {
+   "id": "pyramid",
+   "dimension": "length",
+   "label": "die Cheops-Pyramide",
+   "value": 146.59,
+   "unit": "m",
+   "surface": "146,59 m",
+   "metres": 146.59,
+   "sentence": "Ihre ursprüngliche Seitenlänge wird auf 230,33 m und die Höhe auf 146,59 m berechnet.",
+   "source": {
+    "title": "Cheops-Pyramide",
+    "revid": 270209622,
+    "url": "https://de.wikipedia.org/w/index.php?title=Cheops-Pyramide&oldid=270209622"
+   }
+  }
  ]
 }

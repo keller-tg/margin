@@ -10,6 +10,7 @@ import type { Packet } from '../../src/core/compose/packet';
 import type { Slot, Thing } from '../../src/core/schema/thing';
 import { assessThing } from '../../src/core/quality/assess';
 import { stampFor, verifyThing } from '../../src/core/verify/verify';
+import { mapScale, projectMap } from './lib/map';
 import { addDays, dailyPath, loadQueue, loadVerifyContext, p, packetPath, readJson, writeJson } from './lib/store';
 import type { WikiLang } from './lib/wiki';
 
@@ -45,6 +46,12 @@ for (const lang of LANGS) {
         report.push({ id: `${lang}-${date}-${slot}`, title: packet.topic.title, quality: 0, notes: [(err as Error).message], issues: [] });
         process.stderr.write(`✗ ${(err as Error).message}\n`);
         continue;
+      }
+      // maps: geometry is baked here (Node only), the composer just places the page
+      if (Object.values(thing.paces).some((ps) => ps.some((pg) => pg.type === 'map'))) {
+        const [lat, lon] = String(packet.facts.c1?.value ?? '').split(',').map(Number);
+        const scale = mapScale(thing.topic.domain);
+        if (Number.isFinite(lat) && Number.isFinite(lon)) thing.maps = { m1: projectMap(lat!, lon!, scale.radiusKm, scale.zoom) };
       }
       thing.qualityScore = assessThing(thing).score; // the independent assessment, not the composer's own estimate
       const issues = verifyThing(thing, packet, ctx);

@@ -22,9 +22,26 @@ export type Packet = {
   images: Record<string, ThingImage>;
   /** Category names, for the blocklist re-check. */
   categories: string[];
+  /** Reference objects for compare pages, each with its own source sentence (content/refs/refs.json). */
+  refs?: RefSource[];
+};
+
+export type RefSource = {
+  id: string;
+  label: string;
+  value: number;
+  unit: string;
+  surface: string;
+  metres: number;
+  sentence: string;
+  source: { title: string; revid: number; url: string };
 };
 
 /** All text a thing is allowed to draw numbers, years and names from. */
 export function sourceText(p: Packet): string {
-  return [p.topic.title, p.source.description, p.source.lead, ...p.source.sections.flatMap((s) => [s.heading, s.text])].join('\n');
+  return [
+    p.topic.title, p.source.description, p.source.lead, ...p.source.sections.flatMap((s) => [s.heading, s.text]),
+    // refs are sources too: their labels and sentences (with their own numbers) are allowed text
+    ...(p.refs ?? []).flatMap((r) => [r.label, r.sentence]),
+  ].join('\n');
 }
