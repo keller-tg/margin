@@ -24,5 +24,123 @@
    "pickedAt": "2026-10-06T08:39:25.640Z",
    "attempt": 0
   }
+ },
+ "2026-10-07": {
+  "morning": {
+   "title": "Archaeopteryx",
+   "qid": "Q100196",
+   "pageid": 2995,
+   "domain": "animals",
+   "image": {
+    "file": "File:Archaeopteryx lithographica (Berlin specimen).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:40:01.554Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Cygnus X-1",
+   "qid": "Q332674",
+   "pageid": 86061,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Black hole Cygnus X-1.jpg",
+    "via": "edition:de"
+   },
+   "pickedAt": "2026-10-06T08:40:02.161Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-08": {
+  "morning": {
+   "title": "Falkland Islands",
+   "qid": "Q9648",
+   "pageid": 7550182,
+   "domain": "islands",
+   "image": {
+    "file": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "via": "wikidata-p18"
+   },
+   "pickedAt": "2026-10-06T08:40:04.364Z",
+   "attempt": 1
+  },
+  "evening": {
+   "title": "Caesium",
+   "qid": "Q1108",
+   "pageid": 5879,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Cesium.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:40:05.512Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-09": {
+  "morning": {
+   "title": "Bacteria",
+   "qid": "Q10876",
+   "pageid": 9028799,
+   "domain": "biology",
+   "image": {
+    "file": "File:E. coli Bacteria (7316101966).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:41:01.766Z",
+   "attempt": 1
+  },
+  "evening": {
+   "title": "Common starling",
+   "qid": "Q25469",
+   "pageid": 250046,
+   "domain": "animals",
+   "image": {
+    "file": "File:Common starling (Sturnus vulgaris) breeding male Marken.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:41:02.883Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-10": {
+  "morning": {
+   "title": "Hector Berlioz",
+   "qid": "Q1151",
+   "pageid": 53424,
+   "domain": "people-arts",
+   "image": {
+    "file": "File:Hector-Berlioz-1845.png",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:41:03.995Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Sugar",
+   "qid": "Q11002",
+   "pageid": 27712,
+   "domain": "food",
+   "image": {
+    "file": "File:Sucre blanc cassonade complet rapadura.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:41:05.133Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-11": {
+  "morning": {
+   "title": "Messier 87",
+   "qid": "Q14041",
+   "pageid": 214077,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Messier 87 Hubble WikiSky.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:41:06.165Z",
+   "attempt": 0
+  }
  }
 }
