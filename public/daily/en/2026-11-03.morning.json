@@ -50,7 +50,7 @@
    "value": "1908",
    "surface": "1908"
   },
-  "f21": {
+  "f16": {
    "kind": "date",
    "value": "1820",
    "surface": "1820"
@@ -97,7 +97,7 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f21",
+      "fact": "f16",
       "label": "Place: Seville, Spain, and surrounding hills Time: Around 1820 A square, in Seville."
      },
      {
@@ -143,7 +143,7 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f21",
+      "fact": "f16",
       "label": "Place: Seville, Spain, and surrounding hills Time: Around 1820 A square, in Seville."
      },
      {
@@ -166,10 +166,6 @@
    },
    {
     "type": "sentence",
-    "text": "Bizet’s professional relationship with Léon Carvalho, manager of the independent Théâtre Lyrique company, enabled him to bring to the stage two full-scale operas, Les pêcheurs de perles and La jolie fille de Perth, but neither enjoyed much public success."
-   },
-   {
-    "type": "sentence",
     "text": "When artistic life in Paris resumed after the Franco-Prussian War of 1870–71, Bizet found wider opportunities for the performance of his works; his one-act opera Djamileh opened at the Opéra-Comique in May 1872."
    },
    {
@@ -185,15 +181,19 @@
     "text": "Cast details are as provided by Curtiss from the original piano and vocal score."
    },
    {
+    "type": "sentence",
+    "text": "Mérimée’s story is a blend of travelogue and adventure yarn, possibly inspired by the writer’s lengthy travels in Spain in 1830, and had originally been published in 1845 in the journal Revue des deux Mondes."
+   },
+   {
     "type": "closing",
     "text": "The music of Carmen has since been widely acclaimed for brilliance of melody, harmony, atmosphere, and orchestration, and for the skill with which the emotions and suffering of the characters are represented."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "0b95884087a28c.04f5f08b163047"
+  "hash": "181bb2f26085ea.1c6cda1b6326f5"
  }
 }

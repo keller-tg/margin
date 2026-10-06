@@ -52,22 +52,22 @@
    "unit": "m/s²",
    "surface": "3,69 m/s²"
   },
-  "f55": {
+  "f47": {
    "kind": "date",
    "value": "1013",
    "surface": "1013"
   },
-  "f58": {
+  "f50": {
    "kind": "date",
    "value": "2008",
    "surface": "2008"
   },
-  "f104": {
+  "f94": {
    "kind": "date",
    "value": "2006",
    "surface": "2006"
   },
-  "f111": {
+  "f101": {
    "kind": "date",
    "value": "2010",
    "surface": "2010"
@@ -122,19 +122,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f55",
+      "fact": "f47",
       "label": "Im Vergleich zu durchschnittlich 1013 hPa auf der Erde sind dies nur 0,63 %."
      },
      {
-      "fact": "f104",
+      "fact": "f94",
       "label": "2006 proklamierte die NASA einen einzigartigen Fund: Auf einigen NASA-Fotografien."
      },
      {
-      "fact": "f58",
+      "fact": "f50",
       "label": "2008 entdeckte man mit Hilfe der Raumsonde Mars Express Wolken aus gefrorenem Kohlendioxid."
      },
      {
-      "fact": "f111",
+      "fact": "f101",
       "label": "Mit Hilfe von Daten des MRO wurden 2010 Gesteine entdeckt."
      }
     ]
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f55",
+      "fact": "f47",
       "label": "Im Vergleich zu durchschnittlich 1013 hPa auf der Erde sind dies nur 0,63 %."
      },
      {
-      "fact": "f104",
+      "fact": "f94",
       "label": "2006 proklamierte die NASA einen einzigartigen Fund: Auf einigen NASA-Fotografien."
      },
      {
-      "fact": "f58",
+      "fact": "f50",
       "label": "2008 entdeckte man mit Hilfe der Raumsonde Mars Express Wolken aus gefrorenem Kohlendioxid."
      },
      {
-      "fact": "f111",
+      "fact": "f101",
       "label": "Mit Hilfe von Daten des MRO wurden 2010 Gesteine entdeckt."
      }
     ]
@@ -205,15 +205,15 @@
    },
    {
     "type": "sentence",
-    "text": "Vor 1,35 Millionen Jahren betrug die Exzentrizität nur etwa 0,002, weniger als die der Erde heute."
-   },
-   {
-    "type": "sentence",
     "text": "Die Periode der Exzentrizität des Mars beträgt etwa 96.000 Jahre, die der Erde etwa 100.000 Jahre."
    },
    {
     "type": "sentence",
     "text": "Der Mars besitzt eine sehr dünne Atmosphäre."
+   },
+   {
+    "type": "sentence",
+    "text": "Jedoch hat der Mars noch einen längeren Zyklus der Exzentrizität mit einer Periode von 2,2 Millionen Jahren, der den mit der Periode von 96.000 Jahren überlagert."
    },
    {
     "type": "closing",
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "09e3c693be3578.1fae839b36adf1"
+  "hash": "06c2773ede0533.10c26e7eb6275e"
  }
 }

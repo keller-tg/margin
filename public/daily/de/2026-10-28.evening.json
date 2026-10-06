@@ -45,24 +45,24 @@
    {
     "type": "title",
     "title": "Fleisch",
-    "line": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
+    "line": "Im Allgemeinen Weichteile von Mensch und Tieren",
     "image": "img1"
    },
    {
     "type": "closing",
-    "text": "In der Heilkunde kann mit Fleisch auch Granulationsgewebe gemeint sein."
+    "text": "Im Besonderen steht der Begriff für Teile von Säugetieren, Vögeln und vereinzelt Reptilien."
    }
   ],
   "medium": [
    {
     "type": "title",
     "title": "Fleisch",
-    "line": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
+    "line": "Im Allgemeinen Weichteile von Mensch und Tieren",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Im Besonderen steht der Begriff für Teile von Säugetieren, Vögeln und vereinzelt Reptilien, die zur Ernährung des Menschen genutzt werden."
+    "text": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren."
    },
    {
     "type": "closing",
@@ -73,12 +73,12 @@
    {
     "type": "title",
     "title": "Fleisch",
-    "line": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
+    "line": "Im Allgemeinen Weichteile von Mensch und Tieren",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Im Besonderen steht der Begriff für Teile von Säugetieren, Vögeln und vereinzelt Reptilien, die zur Ernährung des Menschen genutzt werden."
+    "text": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren."
    },
    {
     "type": "image",
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1ec154347bff83.068f04ac929b6a"
+  "hash": "0fca440d74da6e.17a421083e7e7e"
  }
 }

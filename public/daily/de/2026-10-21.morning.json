@@ -46,25 +46,25 @@
    "unit": "km",
    "surface": "2240 km"
   },
-  "f7": {
-   "kind": "date",
-   "value": "1805",
-   "surface": "1805"
-  },
   "f8": {
    "kind": "date",
    "value": "1814",
    "surface": "1814"
   },
-  "f55": {
+  "f53": {
    "kind": "date",
    "value": "1792",
    "surface": "1792"
   },
-  "f67": {
+  "f64": {
    "kind": "date",
    "value": "1818",
    "surface": "1818"
+  },
+  "f67": {
+   "kind": "date",
+   "value": "1857",
+   "surface": "1857"
   }
  },
  "paces": {
@@ -116,20 +116,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f55",
+      "fact": "f53",
       "label": "Gray kehrte nach Süden zurück und war am 12. Mai 1792 der erste Erforscher."
-     },
-     {
-      "fact": "f7",
-      "label": "Die Lewis-und-Clark-Expedition erreichte 1805 vom Osten auf dem Landweg die Mündung des Flusses."
      },
      {
       "fact": "f8",
       "label": "Der Columbia River wurde 1814 erstmals vollständig von David Thompson kartografiert."
      },
      {
-      "fact": "f67",
+      "fact": "f64",
       "label": "Die Vereinigten Staaten und Britisch-Nordamerika vereinbarten 1818 die gemeinsame Besiedlung des Oregon-Gebietes."
+     },
+     {
+      "fact": "f67",
+      "label": "Oregon wurde 1857 Bundesstaat der Vereinigten Staaten und Washington folgte 1889."
      }
     ]
    },
@@ -168,20 +168,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f55",
+      "fact": "f53",
       "label": "Gray kehrte nach Süden zurück und war am 12. Mai 1792 der erste Erforscher."
-     },
-     {
-      "fact": "f7",
-      "label": "Die Lewis-und-Clark-Expedition erreichte 1805 vom Osten auf dem Landweg die Mündung des Flusses."
      },
      {
       "fact": "f8",
       "label": "Der Columbia River wurde 1814 erstmals vollständig von David Thompson kartografiert."
      },
      {
-      "fact": "f67",
+      "fact": "f64",
       "label": "Die Vereinigten Staaten und Britisch-Nordamerika vereinbarten 1818 die gemeinsame Besiedlung des Oregon-Gebietes."
+     },
+     {
+      "fact": "f67",
+      "label": "Oregon wurde 1857 Bundesstaat der Vereinigten Staaten und Washington folgte 1889."
      }
     ]
    },
@@ -191,11 +191,11 @@
    },
    {
     "type": "sentence",
-    "text": "Die vulkanische Aktivität in der Region kann bis zu 40 Millionen Jahre zurückverfolgt werden."
+    "text": "Die Quelle des Columbia River liegt in der kanadischen Provinz British Columbia; er fliesst durch den mittleren Osten des US-Bundesstaates Washington."
    },
    {
     "type": "sentence",
-    "text": "Die Quelle des Columbia River liegt in der kanadischen Provinz British Columbia; er fliesst durch den mittleren Osten des US-Bundesstaates Washington."
+    "text": "Die vulkanische Aktivität in der Region kann bis zu 40 Millionen Jahre zurückverfolgt werden."
    },
    {
     "type": "sentence",
@@ -203,11 +203,11 @@
    },
    {
     "type": "sentence",
-    "text": "Während des Pleistozäns durchbrach der Fluss die Kaskadenkette und bildete die Columbia River Gorge."
+    "text": "Die Wasserstände reichten nach Schätzungen während dieser Missoula-Fluten an der Wallula Gap 380 m, am Bonneville Dam 250 m und über dem heutigen Portland, Oregon 120 m über das heutige Niveau."
    },
    {
     "type": "sentence",
-    "text": "Die höchste je aufgezeichnete Abflussmenge bei The Dalles, Oregon, betrug am 6. Juni 1894 35.113 m³/s."
+    "text": "Das erweiterte Einzugsgebiet erstreckt sich über die Staaten Montana und Idaho."
    },
    {
     "type": "closing",
@@ -216,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "157afab42fe224.02098a8ee4e0b5"
+  "hash": "069e3d4b7cfd94.10d240d3a83ee8"
  }
 }

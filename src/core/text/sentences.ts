@@ -16,9 +16,9 @@ const ABBREV: Record<Lang, string[]> = {
     'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'sept', 'oct', 'nov', 'dec', 'a.m', 'p.m', 'ft', 'est', 'op', 'cf', 'al', 'lit', 'var', 'subsp', 'sp', 'spp'],
   de: ['z.b', 'z', 'b', 'u.a', 'u', 'a', 'd.h', 'd', 'h', 'bzw', 'ca', 'nr', 'st', 'dr', 'prof', 'v', 'n', 'chr',
     'jh', 'jhd', 'usw', 'sog', 'evtl', 'ggf', 'vgl', 'mio', 'mrd', 'tsd', 'geb', 'gest', 'hl', 'bzw', 'inkl', 'max',
-    'min', 'etc', 'o.ä', 'u.ä', 'insb', 'zw', 'gegr', 'lat', 'griech', 'engl', 'franz', 'altgr', 'mhd', 'ahd', 'wörtl', 'lit', 'bzw', 'sp', 'spp'],
+    'min', 'etc', 'o.ä', 'u.ä', 'insb', 'zw', 'gegr', 'lat', 'griech', 'engl', 'franz', 'altgr', 'mhd', 'ahd', 'wörtl', 'lit', 'bzw', 'sp', 'spp', 'sgt', 'mr', 'mrs', 'jr', 'sr', 'vs'],
   fr: ['m', 'mm', 'mme', 'mlle', 'dr', 'st', 'ste', 'env', 'cf', 'p', 'ex', 'p.ex', 'n°', 'no', 'vol', 'av', 'apr',
-    'ap', 'etc', 'éd', 'chap', 'cie', 'gr', 'lat', 'angl', 'all', 'mgr', 'litt', 'lit', 'sp', 'spp'],
+    'ap', 'etc', 'éd', 'chap', 'cie', 'gr', 'lat', 'angl', 'all', 'mgr', 'litt', 'lit', 'sp', 'spp', 'sgt', 'mr', 'mrs', 'jr', 'sr', 'vs', 'dr'],
 };
 
 const CLOSERS = `"'”’»)\\]›`;

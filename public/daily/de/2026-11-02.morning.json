@@ -50,22 +50,17 @@
    "value": "1966",
    "surface": "1966"
   },
-  "f10": {
+  "f9": {
    "kind": "date",
    "value": "1967",
    "surface": "1967"
   },
-  "f54": {
+  "f51": {
    "kind": "date",
    "value": "1971",
    "surface": "1971"
   },
-  "f59": {
-   "kind": "date",
-   "value": "1968",
-   "surface": "1968"
-  },
-  "f76": {
+  "f67": {
    "kind": "measure",
    "value": 15,
    "unit": "meter",
@@ -82,7 +77,7 @@
    },
    {
     "type": "sentence",
-    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
+    "text": "Sgt. Pepper’s Lonely Hearts Club Band ist das achte Studioalbum der britischen Band The Beatles."
    },
    {
     "type": "bignumber",
@@ -92,7 +87,7 @@
    },
    {
     "type": "closing",
-    "text": "Das Album erreichte in Deutschland, Grossbritannien und den USA die Spitze der Charts."
+    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
    }
   ],
   "medium": [
@@ -104,7 +99,7 @@
    },
    {
     "type": "sentence",
-    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
+    "text": "Sgt. Pepper’s Lonely Hearts Club Band ist das achte Studioalbum der britischen Band The Beatles."
    },
    {
     "type": "image",
@@ -125,22 +120,18 @@
       "label": "Vom 12. bis zum 29. August 1966 absolvierten die Beatles ihre vierte US-Tournee."
      },
      {
-      "fact": "f10",
+      "fact": "f9",
       "label": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status."
      },
      {
-      "fact": "f59",
-      "label": "Bei den Grammy Awards 1968 gewann Sgt."
-     },
-     {
-      "fact": "f54",
+      "fact": "f51",
       "label": "Bis zum 1. Januar 1971 wurde das Album rund sieben Millionen Mal verkauft."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Das Album erreichte in Deutschland, Grossbritannien und den USA die Spitze der Charts."
+    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
    },
    {
     "type": "closing",
@@ -156,7 +147,7 @@
    },
    {
     "type": "sentence",
-    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
+    "text": "Sgt. Pepper’s Lonely Hearts Club Band ist das achte Studioalbum der britischen Band The Beatles."
    },
    {
     "type": "image",
@@ -165,7 +156,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f76",
+    "fact": "f67",
     "display": "15 Meter",
     "caption": "Im Jahr 2004 begann Jann Haworth in Salt Lake City im US-Bundesstaat Utah die Arbeit an SLC PEPPER, einem 15 Meter breiten und 9 Meter hohen Wandbild, das eine zeitgemässe bürgerliche Version des Sgt.-Pepper-Covers darstellen soll."
    },
@@ -177,15 +168,11 @@
       "label": "Vom 12. bis zum 29. August 1966 absolvierten die Beatles ihre vierte US-Tournee."
      },
      {
-      "fact": "f10",
+      "fact": "f9",
       "label": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status."
      },
      {
-      "fact": "f59",
-      "label": "Bei den Grammy Awards 1968 gewann Sgt."
-     },
-     {
-      "fact": "f54",
+      "fact": "f51",
       "label": "Bis zum 1. Januar 1971 wurde das Album rund sieben Millionen Mal verkauft."
      }
     ]
@@ -200,10 +187,6 @@
    },
    {
     "type": "sentence",
-    "text": "George Martin erwähnte den Beginn der Aufnahmen: «Im November kamen die Beatles zum ersten Mal seit ihrer Entscheidung, nicht mehr auf Tour zu gehen, wieder ins Studio."
-   },
-   {
-    "type": "sentence",
     "text": "Das Cover des Albums wurde – in Zusammenarbeit mit Paul McCartney – von dem Galeristen Robert Fraser als Artdirector, dem Pop-Art-Künstler Peter Blake, seiner Frau Jann Haworth, Al Vandenberg und dem Fotografen Michael Cooper gestaltet."
    },
    {
@@ -215,6 +198,10 @@
     "text": "Der kurzsichtige Lennon hatte sich zuvor bereits eine runde Nickelbrille zugelegt, die zu seinem Markenzeichen wurde."
    },
    {
+    "type": "sentence",
+    "text": "Das Albumcover ist ein herausragendes Werk in der Geschichte der Coverkunst."
+   },
+   {
     "type": "closing",
     "text": "Mit über 32 Millionen verkauften Exemplaren gehört es zu den weltweit meistverkauften Musikalben."
    }
@@ -224,6 +211,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1d18cab6a9755e.158a3b15a7f47d"
+  "hash": "0e3937a1df3664.1a6cb7f85ba1ea"
  }
 }

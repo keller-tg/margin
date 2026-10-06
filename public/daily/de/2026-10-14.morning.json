@@ -40,33 +40,33 @@
   }
  },
  "facts": {
-  "f5": {
+  "f1": {
    "kind": "date",
    "value": "1831",
    "surface": "1831"
   },
-  "f6": {
+  "f2": {
    "kind": "date",
    "value": "1839",
    "surface": "1839"
   },
-  "f9": {
+  "f5": {
    "kind": "date",
    "value": "1842",
    "surface": "1842"
   },
-  "f19": {
+  "f13": {
    "kind": "date",
    "value": "1817",
    "surface": "1817"
   },
-  "f56": {
+  "f36": {
    "kind": "measure",
    "value": 15,
    "unit": "meter",
    "surface": "15 Meter"
   },
-  "f194": {
+  "f141": {
    "kind": "measure",
    "value": 25,
    "unit": "cm",
@@ -91,7 +91,7 @@
    },
    {
     "type": "closing",
-    "text": "Ein Jahr später folgte Darwins Hauptwerk On the Origin of Species."
+    "text": "Durch einen Brief von Alfred Russel Wallace."
    }
   ],
   "medium": [
@@ -112,7 +112,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f194",
+    "fact": "f141",
     "display": "25 cm",
     "caption": "Für die madagassische Orchidee Angraecum sesquipedale mit einem 25 cm langen Nektarsporn sagte er einen bestäubenden Schmetterling mit einem ebenso langen Rüssel vorher."
    },
@@ -120,19 +120,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f19",
+      "fact": "f13",
       "label": "Am 15. Juli 1817, als Darwin acht Jahre alt war, starb seine Mutter."
      },
      {
-      "fact": "f5",
+      "fact": "f1",
       "label": "Die Ende 1831 begonnene und fast fünf Jahre andauernde zweite Reise mit der Beagle."
      },
      {
-      "fact": "f6",
+      "fact": "f2",
       "label": "Der breiten Öffentlichkeit wurde Darwin erstmals durch seinen 1839 herausgegebenen Reisebericht bekannt."
      },
      {
-      "fact": "f9",
+      "fact": "f5",
       "label": "1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht veröffentlichte."
      }
     ]
@@ -164,7 +164,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f56",
+    "fact": "f36",
     "display": "15 Meter",
     "caption": "Während des gut dreiwöchigen Aufenthalts entdeckte er in den Klippen der Küste ein in 15 Meter Höhe verlaufendes waagerechtes Muschelschalenband und fand zum ersten Mal eine Bestätigung für Lyells Theorie der langsamen, graduellen, geologischen Formung der Erde."
    },
@@ -172,19 +172,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f19",
+      "fact": "f13",
       "label": "Am 15. Juli 1817, als Darwin acht Jahre alt war, starb seine Mutter."
      },
      {
-      "fact": "f5",
+      "fact": "f1",
       "label": "Die Ende 1831 begonnene und fast fünf Jahre andauernde zweite Reise mit der Beagle."
      },
      {
-      "fact": "f6",
+      "fact": "f2",
       "label": "Der breiten Öffentlichkeit wurde Darwin erstmals durch seinen 1839 herausgegebenen Reisebericht bekannt."
      },
      {
-      "fact": "f9",
+      "fact": "f5",
       "label": "1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht veröffentlichte."
      }
     ]
@@ -220,9 +220,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c70e6259f48de.1863e1cb0711ac"
+  "hash": "077957497459e0.0f9143110e7bd4"
  }
 }

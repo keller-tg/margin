@@ -40,32 +40,27 @@
   }
  },
  "facts": {
-  "f7": {
+  "f5": {
    "kind": "measure",
    "value": 5000,
    "unit": "années-lumière",
    "surface": "5 000 années-lumière"
   },
-  "f10": {
+  "f7": {
    "kind": "measure",
    "value": 490000,
    "unit": "années-lumière",
    "surface": "490 000 années-lumière"
   },
-  "f42": {
+  "f37": {
    "kind": "date",
    "value": "1056",
    "surface": "1056"
   },
-  "f104": {
+  "f91": {
    "kind": "date",
    "value": "2011",
    "surface": "2011"
-  },
-  "f108": {
-   "kind": "date",
-   "value": "2023",
-   "surface": "2023"
   }
  },
  "paces": {
@@ -73,16 +68,16 @@
    {
     "type": "title",
     "title": "M87 (galaxie)",
-    "line": "Messier 87 est une galaxie elliptique supergéante.",
+    "line": "De disque",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Au cœur de cette galaxie se trouve un trou noir supermassif, nommé M87*."
+    "text": "Contrairement aux galaxies spirales en forme de disque."
    },
    {
     "type": "bignumber",
-    "fact": "f10",
+    "fact": "f7",
     "display": "490 000 années-lumière",
     "caption": "L’enveloppe galactique s’étend sur un rayon d’environ 490 000 années-lumière."
    },
@@ -95,12 +90,12 @@
    {
     "type": "title",
     "title": "M87 (galaxie)",
-    "line": "Messier 87 est une galaxie elliptique supergéante.",
+    "line": "De disque",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Située à 15,4 ± 0,6 Mpc de la Terre, c’est la plus grande et la plus lumineuse des galaxies de l’amas de la Vierge."
+    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
    },
    {
     "type": "image",
@@ -109,7 +104,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f7",
+    "fact": "f5",
     "display": "5 000 années-lumière",
     "caption": "Un jet de plasma énergétique émerge du cœur et s’étend sur au moins 5 000 années-lumière."
    },
@@ -117,22 +112,18 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f42",
+      "fact": "f37",
       "label": "L’énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV."
      },
      {
-      "fact": "f104",
+      "fact": "f91",
       "label": "En 2011, une étude de M87 n’a pas trouvé de déplacement statistiquement significatif."
-     },
-     {
-      "fact": "f108",
-      "label": "Puis le 26 avril 2023, l’Observatoire européen austral."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
+    "text": "Messier 87 est une galaxie elliptique supergéante."
    },
    {
     "type": "closing",
@@ -143,12 +134,12 @@
    {
     "type": "title",
     "title": "M87 (galaxie)",
-    "line": "Messier 87 est une galaxie elliptique supergéante.",
+    "line": "De disque",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Située à 15,4 ± 0,6 Mpc de la Terre, c’est la plus grande et la plus lumineuse des galaxies de l’amas de la Vierge."
+    "text": "Contrairement aux galaxies spirales en forme de disque, M87 n’a pas de bande de poussière et a une forme elliptique."
    },
    {
     "type": "image",
@@ -157,7 +148,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f7",
+    "fact": "f5",
     "display": "5 000 années-lumière",
     "caption": "Un jet de plasma énergétique émerge du cœur et s’étend sur au moins 5 000 années-lumière."
    },
@@ -165,26 +156,18 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f42",
+      "fact": "f37",
       "label": "L’énergie totale dissipée par ces électrons fut estimée à 5 × 1056 eV."
      },
      {
-      "fact": "f104",
+      "fact": "f91",
       "label": "En 2011, une étude de M87 n’a pas trouvé de déplacement statistiquement significatif."
-     },
-     {
-      "fact": "f108",
-      "label": "Puis le 26 avril 2023, l’Observatoire européen austral."
      }
     ]
    },
    {
     "type": "sentence",
     "text": "L’astronome français Charles Messier redécouvre cette galaxie le 18 mars 1779 et il l’intègre à la troisième édition de son catalogue de 103 objets astronomiques ayant l’apparence de nébulosité qu’il publie en 1781."
-   },
-   {
-    "type": "sentence",
-    "text": "Durant les années 1880, cette nébulosité sera référencée dans le New General Catalogue comme NGC 4486."
    },
    {
     "type": "sentence",
@@ -203,15 +186,19 @@
     "text": "Au cœur de cette galaxie se trouve un trou noir supermassif, nommé M87*, dont la masse est estimée à 6,5 ± 0,7 milliards de masses solaires."
    },
    {
+    "type": "sentence",
+    "text": "C’est l’une des masses les plus importantes pour ce type d’objet."
+   },
+   {
     "type": "closing",
     "text": "Étant la plus grande galaxie elliptique la plus proche de la Terre et l’une des plus brillantes radiosources du ciel, Messier 87 est une cible favorite d’observation pour les astronomes amateurs et d’étude pour les astronomes professionnels."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "1d4911f75694a6.0faa791131e7cc"
+  "hash": "1eafd52148570b.1008159bf4bf2f"
  }
 }

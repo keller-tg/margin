@@ -46,27 +46,27 @@
    "unit": "km²",
    "surface": "6641 km²"
   },
-  "f11": {
+  "f10": {
    "kind": "date",
    "value": "1857",
    "surface": "1857"
   },
-  "f21": {
+  "f20": {
    "kind": "date",
    "value": "1965",
    "surface": "1965"
   },
-  "f22": {
+  "f21": {
    "kind": "date",
    "value": "1877",
    "surface": "1877"
   },
-  "f29": {
+  "f26": {
    "kind": "date",
    "value": "1926",
    "surface": "1926"
   },
-  "f52": {
+  "f48": {
    "kind": "measure",
    "value": 3617,
    "unit": "m",
@@ -87,7 +87,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f52",
+    "fact": "f48",
     "display": "3617 m",
     "caption": "Mount Forbes – mit 3617 m Höhe der höchste Punkt im Park Peyto-Gletscher."
    },
@@ -122,19 +122,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
+      "fact": "f10",
       "label": "Die britische Royal Geographical Society finanzierte die sogenannte Palliser-Expedition zwischen 1857 und 1860."
      },
      {
-      "fact": "f22",
+      "fact": "f21",
       "label": "Im Jahr 1877 unterzeichneten die First Nations des Gebiets den Vertrag Nr. 7."
      },
      {
-      "fact": "f29",
+      "fact": "f26",
       "label": "Im Jahr 1926 wurde die Stadt abgebaut."
      },
      {
-      "fact": "f21",
+      "fact": "f20",
       "label": "Als letztes wurde der Trans-Canada Highway durch den Park gebaut und 1965 fertiggestellt."
      }
     ]
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
+      "fact": "f10",
       "label": "Die britische Royal Geographical Society finanzierte die sogenannte Palliser-Expedition zwischen 1857 und 1860."
      },
      {
-      "fact": "f22",
+      "fact": "f21",
       "label": "Im Jahr 1877 unterzeichneten die First Nations des Gebiets den Vertrag Nr. 7."
      },
      {
-      "fact": "f29",
+      "fact": "f26",
       "label": "Im Jahr 1926 wurde die Stadt abgebaut."
      },
      {
-      "fact": "f21",
+      "fact": "f20",
       "label": "Als letztes wurde der Trans-Canada Highway durch den Park gebaut und 1965 fertiggestellt."
      }
     ]
@@ -194,10 +194,6 @@
    {
     "type": "sentence",
     "text": "Wesentlich zur heutigen Ausformung haben drei grössere Gebirgsbildungsphasen beigetragen, die über einen Zeitraum von rund 130 Millionen Jahren den Westen Nordamerikas formten."
-   },
-   {
-    "type": "sentence",
-    "text": "Die Laramische Gebirgsbildung war die letzte der drei Phasen und verantwortlich für die Heraushebung der Rocky Mountains."
    },
    {
     "type": "sentence",
@@ -216,15 +212,19 @@
     "text": "Mit der Stadt Banff und der Siedlung Lake Louise hat der Park rund 9000 ganzjährige und weitere etwa 1000 saisonale Bewohner."
    },
    {
+    "type": "sentence",
+    "text": "Archäologische Funde bei den Vermilion Lakes belegen, dass die erste menschliche Aktivität in Banff auf etwa 10.300 Jahre v. Chr. zurückgeht."
+   },
+   {
     "type": "closing",
     "text": "Drei Skigebiete, unter anderem das von Lake Louise, liegen dennoch innerhalb der Grenzen des Banff-Nationalparks."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "03042c0b90d26c.00ea6c21d6e56f"
+  "hash": "04ae2c5fa378ae.0049b578cbb9bc"
  }
 }

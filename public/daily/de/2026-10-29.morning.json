@@ -51,26 +51,26 @@
    "value": "1941",
    "surface": "1941"
   },
-  "f8": {
-   "kind": "date",
-   "value": "1838",
-   "surface": "1838"
-  },
-  "f9": {
-   "kind": "date",
-   "value": "1841",
-   "surface": "1841"
-  },
-  "f16": {
+  "f14": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
    "surface": "25 %"
   },
-  "f35": {
+  "f33": {
    "kind": "date",
    "value": "1788",
    "surface": "1788"
+  },
+  "f37": {
+   "kind": "date",
+   "value": "1909",
+   "surface": "1909"
+  },
+  "f46": {
+   "kind": "date",
+   "value": "2022",
+   "surface": "2022"
   }
  },
  "paces": {
@@ -83,11 +83,11 @@
    },
    {
     "type": "sentence",
-    "text": "In der rekonstruierten Sprache Palawa Kani der tasmanischen Aborigines wird er als Purinina bezeichnet."
+    "text": "Der Beutelteufel ist eine Tierart aus der Familie der Raubbeutler und deren grösster lebender Vertreter."
    },
    {
     "type": "sentence",
-    "text": "Mit Ausnahme von wenigen dutzend Tieren als Teil eines Wiederansiedlungsprojekts auf dem australischen Festland."
+    "text": "In der rekonstruierten Sprache Palawa Kani der tasmanischen Aborigines wird er als Purinina bezeichnet."
    },
    {
     "type": "closing",
@@ -112,7 +112,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
+    "fact": "f14",
     "display": "25 %",
     "caption": "Im Pleistozän kam eine andere Beutelteufelart in Australien vor, die etwa um 25 % grösser war als der heutige Beutelteufel."
    },
@@ -120,20 +120,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f35",
+      "fact": "f33",
       "label": "Europäer besiedelten Australien ab 1788 und liessen sich auch bald auf Tasmanien nieder."
      },
      {
-      "fact": "f8",
-      "label": "1838 beschrieb Richard Owen fossiles Material, das dem Beutelteufel stark ähnelte, als Dasyurus laniarius."
-     },
-     {
-      "fact": "f9",
-      "label": "1841 nannte Pierre Boitard die lebende Art Sarcophilus harrisii."
+      "fact": "f37",
+      "label": "Die erste fand 1909 und die zweite 1950 statt."
      },
      {
       "fact": "f2",
       "label": "Seitdem der Beutelteufel 1941 unter Schutz gestellt worden ist, hat sich der Bestand erholt."
+     },
+     {
+      "fact": "f46",
+      "label": "Seit November 2022 leben Beutelteufel auch im Zoo Singapur."
      }
     ]
    },
@@ -172,34 +172,30 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f35",
+      "fact": "f33",
       "label": "Europäer besiedelten Australien ab 1788 und liessen sich auch bald auf Tasmanien nieder."
      },
      {
-      "fact": "f8",
-      "label": "1838 beschrieb Richard Owen fossiles Material, das dem Beutelteufel stark ähnelte, als Dasyurus laniarius."
-     },
-     {
-      "fact": "f9",
-      "label": "1841 nannte Pierre Boitard die lebende Art Sarcophilus harrisii."
+      "fact": "f37",
+      "label": "Die erste fand 1909 und die zweite 1950 statt."
      },
      {
       "fact": "f2",
       "label": "Seitdem der Beutelteufel 1941 unter Schutz gestellt worden ist, hat sich der Bestand erholt."
+     },
+     {
+      "fact": "f46",
+      "label": "Seit November 2022 leben Beutelteufel auch im Zoo Singapur."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Der Naturwissenschaftler George Harris beschrieb den Beutelteufel 1808 und gab ihm die wissenschaftliche Bezeichnung Didelphis ursina."
+    "text": "Der Beutelteufel ist der grösste noch lebende Raubbeutler."
    },
    {
     "type": "sentence",
     "text": "Die Männchen haben eine durchschnittliche Kopf-Rumpf-Länge von 65 Zentimetern, der Schwanz hat im Mittel eine Länge von knapp 26 Zentimetern und sie wiegen etwa acht Kilogramm."
-   },
-   {
-    "type": "sentence",
-    "text": "Der Beutelteufel ist der grösste noch lebende Raubbeutler."
    },
    {
     "type": "sentence",
@@ -214,15 +210,19 @@
     "text": "Funde, die auf einen späteren Zeitraum datiert wurden, sind Gegenstand der wissenschaftlichen Debatte, wie beispielsweise Funde, die nahelegen, dass der Beutelteufel erst im 14. Jahrhundert oder noch später auf dem australischen Festland ausgestorben ist."
    },
    {
+    "type": "sentence",
+    "text": "1837 stellte Frédéric Cuvier die neue Gattung Sarcophilus auf, allerdings noch immer mit dem ungültigen Artepitheton ursinus."
+   },
+   {
     "type": "closing",
     "text": "Allerdings ist die Art seit den späten 1990er Jahren durch die Krankheit Devil Facial Tumour Disease bedroht."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "0b97c7ddc97140.0eb2afbd75af95"
+  "hash": "0ceb9ed8052429.1c2ef9bf1e4d4b"
  }
 }

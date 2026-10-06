@@ -40,33 +40,33 @@
   }
  },
  "facts": {
-  "f27": {
+  "f22": {
    "kind": "measure",
    "value": 12.4,
    "unit": "m",
    "surface": "12,4m"
   },
-  "f35": {
+  "f28": {
    "kind": "date",
    "value": "1947",
    "surface": "1947"
   },
-  "f36": {
+  "f29": {
    "kind": "date",
    "value": "1953",
    "surface": "1953"
   },
-  "f72": {
+  "f54": {
    "kind": "date",
    "value": "2011",
    "surface": "2011"
   },
-  "f92": {
+  "f72": {
    "kind": "date",
    "value": "1049",
    "surface": "1049"
   },
-  "f103": {
+  "f82": {
    "kind": "measure",
    "value": 60,
    "unit": "%",
@@ -87,7 +87,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f103",
+    "fact": "f82",
     "display": "60 %",
     "caption": "Etwa 60 % der Häufigkeit dieser schweren Elemente dürfte durch Kernkollaps-Supernovae gebildet werden."
    },
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f27",
+    "fact": "f22",
     "display": "12,4m",
     "caption": "Einen Monat später war die Helligkeit auf 12,4m gefallen, im folgenden Jahr wurde sie zum letzten Mal fotografiert und war nur noch etwa 20m hell."
    },
@@ -122,19 +122,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f92",
+      "fact": "f72",
       "label": "Die Gesamtenergie der Elektronen im Jet wird auf etwa 5 × 1049 Joule geschätzt."
      },
      {
-      "fact": "f35",
+      "fact": "f28",
       "label": "Im Jahr 1947 wurde eine starke Radioquelle in Richtung von M87 entdeckt."
      },
      {
-      "fact": "f36",
+      "fact": "f29",
       "label": "Der Zusammenhang der Quelle mit der Galaxie wurde 1953 aufgedeckt, und der Jet."
      },
      {
-      "fact": "f72",
+      "fact": "f54",
       "label": "Messungen aus dem Jahr 2011 haben keine statistisch signifikante Verschiebung feststellen können."
      }
     ]
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f27",
+    "fact": "f22",
     "display": "12,4m",
     "caption": "Einen Monat später war die Helligkeit auf 12,4m gefallen, im folgenden Jahr wurde sie zum letzten Mal fotografiert und war nur noch etwa 20m hell."
    },
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f92",
+      "fact": "f72",
       "label": "Die Gesamtenergie der Elektronen im Jet wird auf etwa 5 × 1049 Joule geschätzt."
      },
      {
-      "fact": "f35",
+      "fact": "f28",
       "label": "Im Jahr 1947 wurde eine starke Radioquelle in Richtung von M87 entdeckt."
      },
      {
-      "fact": "f36",
+      "fact": "f29",
       "label": "Der Zusammenhang der Quelle mit der Galaxie wurde 1953 aufgedeckt, und der Jet."
      },
      {
-      "fact": "f72",
+      "fact": "f54",
       "label": "Messungen aus dem Jahr 2011 haben keine statistisch signifikante Verschiebung feststellen können."
      }
     ]
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "1a6317dbda1302.1acdf071a6901c"
+  "hash": "18b473ff4bb691.10a0a9858607db"
  }
 }

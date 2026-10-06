@@ -40,36 +40,31 @@
   }
  },
  "facts": {
-  "f11": {
+  "f7": {
    "kind": "date",
    "value": "1823",
    "surface": "1823"
   },
-  "f20": {
+  "f16": {
    "kind": "date",
    "value": "1843",
    "surface": "1843"
   },
-  "f22": {
+  "f18": {
    "kind": "measure",
    "value": 19,
    "unit": "years",
    "surface": "19 years"
   },
-  "f32": {
-   "kind": "date",
-   "value": "1848",
-   "surface": "1848"
-  },
-  "f37": {
+  "f33": {
    "kind": "date",
    "value": "1852",
    "surface": "1852"
   },
-  "f41": {
-   "kind": "number",
-   "value": 200,
-   "surface": "200"
+  "f43": {
+   "kind": "date",
+   "value": "1854",
+   "surface": "1854"
   }
  },
  "paces": {
@@ -85,14 +80,12 @@
     "text": "Alfred Russel Wallace was an English naturalist, explorer, geographer, anthropologist and illustrator."
    },
    {
-    "type": "bignumber",
-    "fact": "f41",
-    "display": "200",
-    "caption": "The lost collection had been insured for £200 by Stevens."
+    "type": "sentence",
+    "text": "Wallace did extensive fieldwork, starting in the Amazon River basin."
    },
    {
     "type": "closing",
-    "text": "Wallace did extensive fieldwork, starting in the Amazon River basin."
+    "text": "The medallion was unveiled on 1 November 1915."
    }
   ],
   "medium": [
@@ -113,7 +106,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f22",
+    "fact": "f18",
     "display": "19 years",
     "caption": "One evening Wallace met the entomologist Henry Walter Bates, who was 19 years old, and had published an 1843 paper on beetles in The Zoologist."
    },
@@ -121,20 +114,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
+      "fact": "f7",
       "label": "Alfred Russel Wallace was born on 8 January 1823 in Llanbadoc, Monmouthshire."
      },
      {
-      "fact": "f20",
+      "fact": "f16",
       "label": "In 1843 Wallace’s father died."
      },
      {
-      "fact": "f32",
-      "label": "In 1848, Wallace and Bates left for Brazil aboard the Mischief."
+      "fact": "f33",
+      "label": "On 12 July 1852, Wallace embarked for the UK on the brig Helen."
      },
      {
-      "fact": "f37",
-      "label": "On 12 July 1852, Wallace embarked for the UK on the brig Helen."
+      "fact": "f43",
+      "label": "Wallace and a young assistant, Charles Allen, embarked at Southampton on 4 March 1854."
      }
     ]
    },
@@ -165,7 +158,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f22",
+    "fact": "f18",
     "display": "19 years",
     "caption": "One evening Wallace met the entomologist Henry Walter Bates, who was 19 years old, and had published an 1843 paper on beetles in The Zoologist."
    },
@@ -173,20 +166,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
+      "fact": "f7",
       "label": "Alfred Russel Wallace was born on 8 January 1823 in Llanbadoc, Monmouthshire."
      },
      {
-      "fact": "f20",
+      "fact": "f16",
       "label": "In 1843 Wallace’s father died."
      },
      {
-      "fact": "f32",
-      "label": "In 1848, Wallace and Bates left for Brazil aboard the Mischief."
+      "fact": "f33",
+      "label": "On 12 July 1852, Wallace embarked for the UK on the brig Helen."
      },
      {
-      "fact": "f37",
-      "label": "On 12 July 1852, Wallace embarked for the UK on the brig Helen."
+      "fact": "f43",
+      "label": "Wallace and a young assistant, Charles Allen, embarked at Southampton on 4 March 1854."
      }
     ]
    },
@@ -224,6 +217,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0432528c05f58e.19a3840f7975f4"
+  "hash": "09d7c22d4e5287.082e3be42ae82a"
  }
 }

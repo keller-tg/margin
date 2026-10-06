@@ -7,10 +7,11 @@ import type { Page, PaceId, Thing } from '../schema/thing';
 import { countWords, splitSentences } from '../text/sentences';
 import { normalizeTypography, type Lang } from '../typography/typography';
 import {
-  capitalizeFirst, cleanSentence, danglingPronoun, dropAppositive, dropParentheticals, fitToWords, isDefinition, isEtymology,
-  lacksSubject, proseForSplitting, tidy,
+  capitalizeFirst, cleanSentence, cutDefinition, danglingPronoun, definitionComplement, dropAppositive, dropParentheticals, fitToWords, isDefinition, isEtymology,
+  hasFiniteVerb, lacksSubject, proseForSplitting, tidy,
 } from './clean';
 import type { Packet } from './packet';
+import { languageMismatch } from '../verify/verify';
 
 export const QUALITY_THRESHOLD = 0.6;
 
@@ -34,6 +35,8 @@ function candidates(p: Packet): Cand[] {
       const c = cleanSentence(raw);
       if (!c) return;
       if (lacksSubject(c, lang)) return; // "Placed on sale between 1877 and 1881." is not a sentence a reader can use
+      if (!hasFiniteVerb(c, lang)) return; // "2 Bände, Hunter, London 1831.": a bibliography entry, not a sentence
+      if (languageMismatch(c, lang)) return; // an English book title in a German list of works
       const facts = Object.entries(p.facts).filter(([, f]) => f.sentence && raw.includes(f.surface) && f.sentence === raw).map(([id]) => id);
       const words = countWords(c);
       let score = base - i * 0.04 + Math.min(facts.length, 2) * 0.15;
@@ -77,6 +80,11 @@ function take(ctx: Ctx, cands: Cand[], opts: { allowDangling?: boolean; afterIdx
 function titleLine(ctx: Ctx, cands: Cand[]): string {
   const d = tidy(dropParentheticals(ctx.p.source.description)).trim();
   if (d && countWords(d) <= Math.min(ctx.max, 12) && !/[()[\]]/.test(d)) return capitalizeFirst(d);
+  // the predicate of the definition ("Le sel alimentaire est un condiment…" → "Un condiment…")
+  for (const c of cands.filter((x) => x.definition)) {
+    const line = definitionComplement(c.text, ctx.lang, Math.min(ctx.max, 12));
+    if (line) return line;
+  }
   // fall back to the first lead sentence, fitted
   const first = cands.find((c) => c.section === null);
   const fit = first && fitToWords(first.text, Math.min(ctx.max, 12), ctx.lang);
@@ -94,10 +102,9 @@ function titleLine(ctx: Ctx, cands: Cand[]): string {
  */
 function opener(ctx: Ctx, cands: Cand[]): Page | null {
   for (const c of cands.filter((x) => x.definition && !x.dangling && !ctx.used.has(x.idx))) {
-    const fit = fitToWords(c.text, ctx.max, ctx.lang) ?? (() => {
-      const short = dropAppositive(c.text, ctx.lang);
-      return short ? fitToWords(short, ctx.max, ctx.lang) : null;
-    })();
+    const short = dropAppositive(c.text, ctx.lang);
+    const cut = cutDefinition(c.text, ctx.lang, ctx.max) ?? (short ? cutDefinition(short, ctx.lang, ctx.max) : null);
+    const fit = fitToWords(c.text, ctx.max, ctx.lang) ?? (short ? fitToWords(short, ctx.max, ctx.lang) : null) ?? (cut ? { text: cut, truncated: true } : null);
     if (!fit) continue;
     ctx.used.add(c.idx);
     if (fit.truncated) ctx.truncations++;

@@ -46,17 +46,17 @@
    "unit": "m",
    "surface": "8,5 m"
   },
-  "f8": {
+  "f7": {
    "kind": "date",
    "value": "1877",
    "surface": "1877"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "1996",
    "surface": "1996"
   },
-  "f31": {
+  "f25": {
    "kind": "date",
    "value": "2020",
    "surface": "2020"
@@ -72,11 +72,11 @@
    },
    {
     "type": "sentence",
-    "text": "Le genre a une taxonomie très complexe et comprend au moins trois espèces valides."
+    "text": "C’est le genre type de la famille des Allosauridae."
    },
    {
     "type": "sentence",
-    "text": "Pendant plus de la moitié du XXe siècle, l’animal était connu sous le nom d’Antrodemus."
+    "text": "Le genre a une taxonomie très complexe et comprend au moins trois espèces valides."
    },
    {
     "type": "closing",
@@ -92,7 +92,7 @@
    },
    {
     "type": "sentence",
-    "text": "Le nom générique du taxon signifie littéralement « lézard différent », faisant allusion à ses vertèbres concaves uniques observées au moment de sa découverte."
+    "text": "Allosaurus, également francisé allosaure, est un genre fossile de grands dinosaures théropodes ayant vécu durant les étages Kimméridgien et Tithonien du Jurassique supérieur."
    },
    {
     "type": "image",
@@ -109,15 +109,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f8",
+      "fact": "f7",
       "label": "Othniel Charles Marsh donna à ces restes le nom officiel d’Allosaurus fragilis en 1877."
      },
      {
-      "fact": "f30",
+      "fact": "f24",
       "label": "La même équipe dégagea plus tard en 1996 un second Allosaurus, « Big Al II »."
      },
      {
-      "fact": "f31",
+      "fact": "f25",
       "label": "En 2020, ces deux spécimens sont vues comme faisant partie de l’espèce A. jimmadseni."
      }
     ]
@@ -140,7 +140,7 @@
    },
    {
     "type": "sentence",
-    "text": "Le nom générique du taxon signifie littéralement « lézard différent », faisant allusion à ses vertèbres concaves uniques observées au moment de sa découverte."
+    "text": "Allosaurus est un genre fossile de grands dinosaures théropodes ayant vécu durant les étages Kimméridgien et Tithonien du Jurassique supérieur, il y a entre 155 et 145 millions d’années, dans ce qui sont actuellement l’Amérique du Nord et l’Europe."
    },
    {
     "type": "image",
@@ -157,15 +157,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f8",
+      "fact": "f7",
       "label": "Othniel Charles Marsh donna à ces restes le nom officiel d’Allosaurus fragilis en 1877."
      },
      {
-      "fact": "f30",
+      "fact": "f24",
       "label": "La même équipe dégagea plus tard en 1996 un second Allosaurus, « Big Al II »."
      },
      {
-      "fact": "f31",
+      "fact": "f25",
       "label": "En 2020, ces deux spécimens sont vues comme faisant partie de l’espèce A. jimmadseni."
      }
     ]
@@ -188,11 +188,11 @@
    },
    {
     "type": "sentence",
-    "text": "Allosaurus vient du grec ancien αλλος / allos, qui signifie « étrange » ou « différent » et σαῦρος / saûros, qui signifie « lézard » ou « reptile »."
+    "text": "La dénomination spécifique fragilis est le mot latin pour « fragile », se référant aux caractéristiques de légèreté des vertèbres."
    },
    {
     "type": "sentence",
-    "text": "La dénomination spécifique fragilis est le mot latin pour « fragile », se référant aux caractéristiques de légèreté des vertèbres."
+    "text": "Marsh et Edward Drinker Cope, qui étaient alors en rivalité, en vinrent à inventer plusieurs autres genres basés sur d’analogues rares pièces qui, plus tard, devaient figurer dans la taxinomie d’Allosaurus."
    },
    {
     "type": "closing",
@@ -201,9 +201,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1b59edca0d7279.139397ec7dfad2"
+  "hash": "1c4fe783e69a7d.0b48ecb5ed2523"
  }
 }

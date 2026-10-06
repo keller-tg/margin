@@ -40,33 +40,33 @@
   }
  },
  "facts": {
-  "f9": {
+  "f8": {
    "kind": "measure",
    "value": 10000000,
    "unit": "years",
    "surface": "10 million years"
   },
-  "f12": {
+  "f11": {
    "kind": "date",
    "value": "1920",
    "surface": "1920"
   },
-  "f16": {
-   "kind": "date",
-   "value": "2019",
-   "surface": "2019"
-  },
-  "f25": {
+  "f24": {
    "kind": "date",
    "value": "1603",
    "surface": "1603"
   },
-  "f30": {
+  "f29": {
    "kind": "date",
    "value": "2025",
    "surface": "2025"
   },
-  "f265": {
+  "f85": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020"
+  },
+  "f255": {
    "kind": "measure",
    "value": 15,
    "unit": "years",
@@ -87,7 +87,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f265",
+    "fact": "f255",
     "display": "15 years",
     "caption": "Unlike most earlier papers, this study used measurements at one specific wavelength over 15 years."
    },
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f9",
+    "fact": "f8",
     "display": "10 million years",
     "caption": "With an age of less than 10 million years, Betelgeuse has evolved rapidly because of its large mass."
    },
@@ -122,19 +122,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f25",
+      "fact": "f24",
       "label": "The star’s Bayer designation is α Orionis, given by Johann Bayer in 1603."
      },
      {
-      "fact": "f12",
+      "fact": "f11",
       "label": "Betelgeuse became the first extrasolar star whose photosphere’s angular size was measured in 1920."
      },
      {
-      "fact": "f16",
-      "label": "Starting in October 2019, Betelgeuse began to dim noticeably."
+      "fact": "f85",
+      "label": "By 17 February 2020, Betelgeuse’s brightness had remained constant for about 10 days."
      },
      {
-      "fact": "f30",
+      "fact": "f29",
       "label": "The name Siwarha has been officially recognized by the WGSN since 22 September 2025."
      }
     ]
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f9",
+    "fact": "f8",
     "display": "10 million years",
     "caption": "With an age of less than 10 million years, Betelgeuse has evolved rapidly because of its large mass, and is expected to end its evolution with a supernova explosion, most likely within 100,000 years."
    },
@@ -174,26 +174,22 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f25",
+      "fact": "f24",
       "label": "The star’s Bayer designation is α Orionis, given by Johann Bayer in 1603."
      },
      {
-      "fact": "f12",
+      "fact": "f11",
       "label": "Betelgeuse became the first extrasolar star whose photosphere’s angular size was measured in 1920."
      },
      {
-      "fact": "f16",
-      "label": "Starting in October 2019, Betelgeuse began to dim noticeably."
+      "fact": "f85",
+      "label": "By 17 February 2020, Betelgeuse’s brightness had remained constant for about 10 days."
      },
      {
-      "fact": "f30",
+      "fact": "f29",
       "label": "The name Siwarha has been officially recognized by the WGSN since 22 September 2025."
      }
     ]
-   },
-   {
-    "type": "sentence",
-    "text": "Betelgeuse and its red coloration have been noted since antiquity; the classical astronomer Ptolemy described its color as hypókirrhos, a term later described by a translator of Ulugh Beg’s Zij-i Sultani as rubedo, Latin for 'ruddiness'."
    },
    {
     "type": "sentence",
@@ -201,19 +197,23 @@
    },
    {
     "type": "sentence",
-    "text": "An error in the 13th-century reading of the Arabic initial yā’ as bā’ led to the European name."
-   },
-   {
-    "type": "sentence",
     "text": "Three centuries before Ptolemy, in contrast, Chinese astronomers observed Betelgeuse as yellow."
    },
    {
     "type": "sentence",
-    "text": "The WGSN’s first bulletin, issued July 2016, included a table of the first two batches of names approved by the WGSN, which included Betelgeuse for this star."
+    "text": "In English, there exist numerous pronunciations of this name."
    },
    {
     "type": "sentence",
-    "text": "In English, there exist numerous pronunciations of this name."
+    "text": "Aboriginal groups in South Australia have shared oral tales of the variable brightness of Betelgeuse for an unknown period."
+   },
+   {
+    "type": "sentence",
+    "text": "In 2016, the International Astronomical Union organized a Working Group on Star Names to catalog and standardize proper names for stars."
+   },
+   {
+    "type": "sentence",
+    "text": "The variation in Betelgeuse’s brightness was described in 1836 by Sir John Herschel in Outlines of Astronomy."
    },
    {
     "type": "closing",
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1143f8abf427f9.1c54e39379e433"
+  "hash": "147a80692f3932.08b56f4e3ecbe7"
  }
 }

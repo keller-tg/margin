@@ -62,7 +62,7 @@
    },
    {
     "type": "sentence",
-    "text": "The identified objects are of many sizes, but much smaller than planets, and, on average, are about one million kilometers apart."
+    "text": "The asteroid belt is a torus-shaped region in the Solar System."
    },
    {
     "type": "closing",
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "199eb74994bff3.0ab85dfff196cb"
+  "hash": "091f4be879b6f1.17fc46ced884b8"
  }
 }

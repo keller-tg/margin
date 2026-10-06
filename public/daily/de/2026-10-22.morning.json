@@ -40,34 +40,29 @@
   }
  },
  "facts": {
-  "f4": {
+  "f3": {
    "kind": "date",
    "value": "1873",
    "surface": "1873"
   },
-  "f7": {
+  "f6": {
    "kind": "date",
    "value": "1876",
    "surface": "1876"
   },
-  "f8": {
-   "kind": "date",
-   "value": "1887",
-   "surface": "1887"
-  },
-  "f18": {
+  "f14": {
    "kind": "measure",
    "value": 700,
    "unit": "µm",
    "surface": "700 µm"
   },
-  "f25": {
+  "f21": {
    "kind": "measure",
    "value": 1,
    "unit": "µm",
    "surface": "1 µm"
   },
-  "f69": {
+  "f48": {
    "kind": "date",
    "value": "2025",
    "surface": "2025"
@@ -83,17 +78,17 @@
    },
    {
     "type": "sentence",
-    "text": "Die Wissenschaft und Lehre von den Bakterien ist die Bakteriologie."
+    "text": "Bakterien sind wie die Archaeen Prokaryoten."
    },
    {
     "type": "bignumber",
-    "fact": "f25",
+    "fact": "f21",
     "display": "1 µm",
     "caption": "Das Volumen der meisten Bakterien liegt in der Grössenordnung von 1 µm³."
    },
    {
     "type": "closing",
-    "text": "Bakterien sind wie die Archaeen Prokaryoten."
+    "text": "Die Wissenschaft und Lehre von den Bakterien ist die Bakteriologie."
    }
   ],
   "medium": [
@@ -114,7 +109,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f25",
+    "fact": "f21",
     "display": "1 µm",
     "caption": "Das Volumen der meisten Bakterien liegt in der Grössenordnung von 1 µm³."
    },
@@ -122,19 +117,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f4",
+      "fact": "f3",
       "label": "1873 beschrieb Edwin Klebs Bazillen auf diphtherischen Belägen."
      },
      {
-      "fact": "f7",
+      "fact": "f6",
       "label": "Eine klare Trennung der verschiedenen Bakterienarten auf Nährboden gelang 1876 Ferdinand Julius Cohn."
      },
      {
-      "fact": "f8",
-      "label": "Wundinfektionen führte Robert Koch 1887 auf ganz bestimmte Bakterien zurück."
-     },
-     {
-      "fact": "f69",
+      "fact": "f48",
       "label": "Mit Stand 17. Oktober 2025 ist gemäss LPSN: Domäne Bacteria Woese et al."
      }
     ]
@@ -166,7 +157,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f18",
+    "fact": "f14",
     "display": "700 µm",
     "caption": "Die Grösse von Bakterien ist sehr unterschiedlich: Ihr Durchmesser liegt zwischen etwa 0,1 und 700 µm, bei den meisten bekannten Arten beträgt er etwa 0,6 bis 1,0 µm."
    },
@@ -174,19 +165,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f4",
+      "fact": "f3",
       "label": "1873 beschrieb Edwin Klebs Bazillen auf diphtherischen Belägen."
      },
      {
-      "fact": "f7",
+      "fact": "f6",
       "label": "Eine klare Trennung der verschiedenen Bakterienarten auf Nährboden gelang 1876 Ferdinand Julius Cohn."
      },
      {
-      "fact": "f8",
-      "label": "Wundinfektionen führte Robert Koch 1887 auf ganz bestimmte Bakterien zurück."
-     },
-     {
-      "fact": "f69",
+      "fact": "f48",
       "label": "Mit Stand 17. Oktober 2025 ist gemäss LPSN: Domäne Bacteria Woese et al."
      }
     ]
@@ -201,19 +188,19 @@
    },
    {
     "type": "sentence",
-    "text": "Besonders klein sind Mycoplasmen und Ca. Velamenicoccus archaeovorus."
-   },
-   {
-    "type": "sentence",
     "text": "Das Volumen der meisten Bakterien liegt in der Grössenordnung von 1 µm³."
    },
    {
     "type": "sentence",
-    "text": "Das grösste bisher bekannte Bakterium ist Ca. Thiomargarita magnifica, daneben seine Schwesterart T. namibiensis, beide sind mit blossem Auge zu sehen."
+    "text": "Ein Mensch besteht aus etwa 10 Billionen Zellen, die aus der befruchteten Eizelle hervorgegangen sind."
    },
    {
     "type": "sentence",
-    "text": "Ein Mensch besteht aus etwa 10 Billionen Zellen, die aus der befruchteten Eizelle hervorgegangen sind."
+    "text": "Jedoch trifft das auch auf die Archaeen zu, die seit etwa 1990 einer separaten Domäne zugeordnet werden."
+   },
+   {
+    "type": "sentence",
+    "text": "Abgesehen von wenigen Ausnahmen können einzelne Bakterienzellen mit blossem Auge nicht gesehen werden, da das Auflösungsvermögen des menschlichen Auges um etwa 50 µm liegt."
    },
    {
     "type": "closing",
@@ -222,9 +209,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0f49ccf86355a8.11e5c2ded3e7f2"
+  "hash": "15607407d4c824.1355d62d9e0df5"
  }
 }

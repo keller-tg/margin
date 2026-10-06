@@ -48,28 +48,23 @@
   },
   "f21": {
    "kind": "date",
-   "value": "1877",
-   "surface": "1877"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "1884",
-   "surface": "1884"
-  },
-  "f26": {
-   "kind": "date",
    "value": "1956",
    "surface": "1956"
   },
-  "f32": {
+  "f26": {
    "kind": "date",
    "value": "1855",
    "surface": "1855"
   },
-  "f67": {
-   "kind": "number",
-   "value": 10000,
-   "surface": "10,000"
+  "f30": {
+   "kind": "date",
+   "value": "1951",
+   "surface": "1951"
+  },
+  "f41": {
+   "kind": "date",
+   "value": "2009",
+   "surface": "2009"
   }
  },
  "paces": {
@@ -82,7 +77,7 @@
    },
    {
     "type": "sentence",
-    "text": "The genus name derives from the Ancient Greek ἀρχαῖος, meaning 'ancient'."
+    "text": "That same year, the first complete specimen of Archaeopteryx was announced."
    },
    {
     "type": "sentence",
@@ -102,7 +97,7 @@
    },
    {
     "type": "sentence",
-    "text": "The genus name derives from the Ancient Greek ἀρχαῖος, meaning 'ancient', and πτέρυξ, meaning 'feather, wing'."
+    "text": "Archaeopteryx, sometimes referred to by its German name, “Urvogel” is an extinct genus of bird-like dinosaurs."
    },
    {
     "type": "image",
@@ -110,35 +105,33 @@
     "caption": "Archaeopteryx"
    },
    {
-    "type": "bignumber",
-    "fact": "f67",
-    "display": "10,000",
-    "caption": "A thirteenth specimen, SMNK-PAL 10,000, was published in January 2025, this one from the Mörnsheim Formation."
-   },
-   {
     "type": "timeline",
     "events": [
      {
-      "fact": "f32",
+      "fact": "f26",
       "label": "The Haarlem Specimen was discovered in 1855 near Riedenburg, Germany."
      },
      {
+      "fact": "f30",
+      "label": "The Eichstätt Specimen was discovered in 1951 near Workerszell, Germany."
+     },
+     {
       "fact": "f21",
-      "label": "Placed on sale between 1877 and 1881."
-     },
-     {
-      "fact": "f24",
-      "label": "Described in 1884 by Wilhelm Dames, it is the most complete specimen."
-     },
-     {
-      "fact": "f26",
       "label": "Consisting of a torso, the Maxberg Specimen was discovered in 1956 near Langenaltheim."
+     },
+     {
+      "fact": "f41",
+      "label": "The original was purchased by palaeontologist Raimund Albertsdörfer in 2009."
      }
     ]
    },
    {
     "type": "sentence",
     "text": "Between the late 19th century and the early 21st century, Archaeopteryx was generally accepted by palaeontologists and popular reference books as the oldest known bird."
+   },
+   {
+    "type": "sentence",
+    "text": "Older potential avialans have since been identified, including Anchiornis, Xiaotingia, Aurornis, and Baminornis."
    },
    {
     "type": "closing",
@@ -154,7 +147,7 @@
    },
    {
     "type": "sentence",
-    "text": "The genus name derives from the Ancient Greek ἀρχαῖος, meaning 'ancient', and πτέρυξ, meaning 'feather, wing'."
+    "text": "Archaeopteryx, sometimes referred to by its German name, “Urvogel” is an extinct genus of bird-like dinosaurs."
    },
    {
     "type": "image",
@@ -171,20 +164,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f32",
+      "fact": "f26",
       "label": "The Haarlem Specimen was discovered in 1855 near Riedenburg, Germany."
      },
      {
+      "fact": "f30",
+      "label": "The Eichstätt Specimen was discovered in 1951 near Workerszell, Germany."
+     },
+     {
       "fact": "f21",
-      "label": "Placed on sale between 1877 and 1881."
-     },
-     {
-      "fact": "f24",
-      "label": "Described in 1884 by Wilhelm Dames, it is the most complete specimen."
-     },
-     {
-      "fact": "f26",
       "label": "Consisting of a torso, the Maxberg Specimen was discovered in 1956 near Langenaltheim."
+     },
+     {
+      "fact": "f41",
+      "label": "The original was purchased by palaeontologist Raimund Albertsdörfer in 2009."
      }
     ]
    },
@@ -219,9 +212,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "104ab236c862df.1ca0255e6815af"
+  "hash": "1b2d2d6dd4d8f2.04db180066f1ac"
  }
 }

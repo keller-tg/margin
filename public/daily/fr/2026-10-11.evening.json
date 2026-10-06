@@ -50,7 +50,7 @@
    },
    {
     "type": "closing",
-    "text": "C’est le premier acide industriel connu."
+    "text": "C’est un acide faible."
    }
   ],
   "medium": [
@@ -62,7 +62,7 @@
    },
    {
     "type": "sentence",
-    "text": "L’adjectif du nom courant provient du latin acetum, signifiant vinaigre."
+    "text": "L’acide éthanoïque ou acide acétique est un acide carboxylique avec une chaîne carbonée théorique en C2."
    },
    {
     "type": "closing",
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "14179ee79beda9.035b5f7cdf6bbe"
+  "hash": "089c3152458964.0da8de474626e8"
  }
 }

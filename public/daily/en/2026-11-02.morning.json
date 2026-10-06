@@ -46,23 +46,23 @@
    "unit": "cm",
    "surface": "30 cm"
   },
-  "f17": {
+  "f12": {
    "kind": "date",
    "value": "1809",
    "surface": "1809"
   },
-  "f20": {
+  "f15": {
    "kind": "date",
    "value": "1818",
    "surface": "1818"
   },
-  "f22": {
+  "f17": {
    "kind": "measure",
    "value": 30,
    "unit": "cm",
    "surface": "30 cm"
   },
-  "f58": {
+  "f32": {
    "kind": "date",
    "value": "2013",
    "surface": "2013"
@@ -82,7 +82,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f22",
+    "fact": "f17",
     "display": "30 cm",
     "caption": "The cap of this mushroom grows up to 8–30 cm wide, sometimes more."
    },
@@ -117,15 +117,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f17",
+      "fact": "f12",
       "label": "Early alternate names include Boletus solidus by English naturalist James Sowerby in 1809."
      },
      {
-      "fact": "f20",
+      "fact": "f15",
       "label": "The French-born King Charles XIV John popularised B. edulis in Sweden after 1818."
      },
      {
-      "fact": "f58",
+      "fact": "f32",
       "label": "A similarly sized specimen found in Poland in 2013 made international news."
      }
     ]
@@ -165,15 +165,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f17",
+      "fact": "f12",
       "label": "Early alternate names include Boletus solidus by English naturalist James Sowerby in 1809."
      },
      {
-      "fact": "f20",
+      "fact": "f15",
       "label": "The French-born King Charles XIV John popularised B. edulis in Sweden after 1818."
      },
      {
-      "fact": "f58",
+      "fact": "f32",
       "label": "A similarly sized specimen found in Poland in 2013 made international news."
      }
     ]
@@ -181,10 +181,6 @@
    {
     "type": "sentence",
     "text": "Boletus edulis was first described in 1782 by the French botanist Pierre Bulliard and still bears its original name."
-   },
-   {
-    "type": "sentence",
-    "text": "A 1987 revision of the International Code of Botanical Nomenclature set the starting date at May 1, 1753, the date of publication of Carl Linnaeus’ Species Plantarum."
    },
    {
     "type": "sentence",
@@ -203,6 +199,10 @@
     "text": "Viscid when moist, the cap is convex when young and flattens with age."
    },
    {
+    "type": "sentence",
+    "text": "The angular pores, which do not stain when bruised, are small—roughly 2 to 3 pores per millimetre."
+   },
+   {
     "type": "closing",
     "text": "B. edulis is also one of the few fungi sold pickled."
    }
@@ -212,6 +212,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "039319fb62b568.1ba7c11a85a234"
+  "hash": "0495cfb0db9cbe.120feb860fd89d"
  }
 }

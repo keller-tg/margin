@@ -1,0 +1,1367 @@
+{
+ "generatedAt": "2026-10-06T09:55:18.592Z",
+ "seed": "margin-review-2026-10-06",
+ "draws": 1,
+ "samples": [
+  {
+   "id": "en-2026-10-26-morning",
+   "pace": "deep"
+  },
+  {
+   "id": "de-2026-10-26-evening",
+   "pace": "easy"
+  },
+  {
+   "id": "de-2026-10-14-morning",
+   "pace": "medium"
+  },
+  {
+   "id": "de-2026-10-29-morning",
+   "pace": "easy"
+  },
+  {
+   "id": "fr-2026-10-07-morning",
+   "pace": "deep"
+  }
+ ],
+ "totals": {
+  "short-page": 16,
+  "dense-pages": 30,
+  "opener-not-definition": 16,
+  "image-instead-of-text": 4,
+  "foreign-script": 1
+ },
+ "weakest": [
+  {
+   "id": "de-2026-10-30-morning",
+   "title": "95 Thesen",
+   "score": 0.68,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer.",
+     "page": 2
+    },
+    {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
+    },
+    {
+     "problem": "opener-not-definition",
+     "pace": "medium",
+     "detail": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-09-morning",
+   "title": "Archaea",
+   "score": 0.68,
+   "findings": [
+    {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
+    },
+    {
+     "problem": "opener-not-definition",
+     "pace": "medium",
+     "detail": "De ce fait, ces Archées procaryotes forment un clade avec les eucaryotes mais ne constituent qu’un groupe paraphylétique situé à la base de ces derniers.",
+     "page": 2
+    },
+    {
+     "problem": "opener-not-definition",
+     "pace": "deep",
+     "detail": "Les Archées sont classiquement présentées comme formant un domaine d’organismes procaryotes phylogénétiquement distincts des bactéries et morphologiquement distincts des eucaryotes, dans un système à trois domaines.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-29-morning",
+   "title": "Mary Wollstonecraft",
+   "score": 0.76,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre.",
+     "page": 2
+    },
+    {
+     "problem": "opener-not-definition",
+     "pace": "medium",
+     "detail": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-17-morning",
+   "title": "Caspar David Friedrich",
+   "score": 0.84,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "En 1809, Runge rédige La Sphère des couleurs.",
+     "page": 2
+    },
+    {
+     "problem": "short-page",
+     "pace": "easy",
+     "detail": "La palette s’éclaircit également.",
+     "page": 4
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-20-morning",
+   "title": "Colorado (fleuve)",
+   "score": 0.84,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Plus de 40 millions d’Américains et 29 tribus indiennes sont dépendants de l’eau du fleuve.",
+     "page": 2
+    },
+    {
+     "problem": "dense-pages",
+     "pace": "easy",
+     "detail": "average 14 words"
+    }
+   ]
+  },
+  {
+   "id": "de-2026-10-09-morning",
+   "title": "Messier 87",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "M87 ist eine sehr aktive Galaxie.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "de-2026-10-12-evening",
+   "title": "Gemeiner Steinpilz",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "medium",
+     "detail": "Der Pilz bildet mit zahlreichen Laub- und Nadelbäumen eine Mykorrhiza, häufig lebt er mit Fichten in Symbiose.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "de-2026-10-24-morning",
+   "title": "Banff-Nationalpark",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Seinen Namen trägt der Park nach dem schottischen Banffshire.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "de-2026-10-26-morning",
+   "title": "Velociraptor",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "short-page",
+     "pace": "easy",
+     "detail": "Velociraptor zählt zu den Dromaeosauridae.",
+     "page": 3
+    },
+    {
+     "problem": "short-page",
+     "pace": "medium",
+     "detail": "Velociraptor zählt zu den Dromaeosauridae.",
+     "page": 5
+    },
+    {
+     "problem": "short-page",
+     "pace": "deep",
+     "detail": "Velociraptor zählt zu den Dromaeosauridae.",
+     "page": 5
+    }
+   ]
+  },
+  {
+   "id": "de-2026-11-01-evening",
+   "title": "Tschadsee",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "dense-pages",
+     "pace": "easy",
+     "detail": "average 15 words"
+    },
+    {
+     "problem": "short-page",
+     "pace": "medium",
+     "detail": "Das Seevolumen beträgt 6,3 km³.",
+     "page": 3
+    },
+    {
+     "problem": "short-page",
+     "pace": "deep",
+     "detail": "Das Seevolumen beträgt 6,3 km³.",
+     "page": 4
+    }
+   ]
+  },
+  {
+   "id": "en-2026-10-11-morning",
+   "title": "Messier 87",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "The French astronomer Charles Messier discovered M87 in 1781, and cataloged it as a nebula.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "en-2026-10-31-morning",
+   "title": "Zhang Heng",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Zhang applied his extensive knowledge of mechanics and gears in several of his inventions.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "en-2026-11-04-morning",
+   "title": "Radiocarbon dating",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "The resulting 14C combines with atmospheric oxygen to form radioactive carbon dioxide.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-16-morning",
+   "title": "Sesame Street",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
+    },
+    {
+     "problem": "dense-pages",
+     "pace": "easy",
+     "detail": "average 14 words"
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-10-21-morning",
+   "title": "M87 (galaxie)",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Contrairement aux galaxies spirales en forme de disque.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "fr-2026-11-01-morning",
+   "title": "Columbia (fleuve)",
+   "score": 0.88,
+   "findings": [
+    {
+     "problem": "opener-not-definition",
+     "pace": "easy",
+     "detail": "Le fleuve mesure environ 2 000 kilomètres et son principal affluent est la Snake.",
+     "page": 2
+    }
+   ]
+  },
+  {
+   "id": "de-2026-11-01-morning",
+   "title": "Rigel",
+   "score": 0.92,
+   "findings": [
+    {
+     "problem": "short-page",
+     "pace": "medium",
+     "detail": "Rigel ist Teil des Wintersechsecks.",
+     "page": 6
+    },
+    {
+     "problem": "short-page",
+     "pace": "deep",
+     "detail": "Rigel ist ein Mehrfachsternsystem.",
+     "page": 10
+    }
+   ]
+  },
+  {
+   "id": "en-2026-10-12-morning",
+   "title": "Charles Darwin",
+   "score": 0.92,
+   "findings": [
+    {
+     "problem": "image-instead-of-text",
+     "pace": "easy",
+     "detail": "Easygoing uses the image to fill its pages",
+     "page": 3
+    }
+   ]
+  }
+ ],
+ "all": [
+  {
+   "id": "en-2026-10-06-evening",
+   "score": 0.96,
+   "problems": [
+    "short-page"
+   ]
+  },
+  {
+   "id": "en-2026-10-06-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-07-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-07-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-08-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-08-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-09-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-09-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-10-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-10-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-11-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-11-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "en-2026-10-12-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-12-morning",
+   "score": 0.92,
+   "problems": [
+    "image-instead-of-text"
+   ]
+  },
+  {
+   "id": "en-2026-10-13-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-13-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-14-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-14-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-15-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-15-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-16-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-16-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-17-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-17-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-18-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-18-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-19-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-19-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-20-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-20-morning",
+   "score": 0.95,
+   "problems": [
+    "foreign-script"
+   ]
+  },
+  {
+   "id": "en-2026-10-21-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-21-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-22-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-22-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-23-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-23-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-24-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-24-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-25-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-25-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-26-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-26-morning",
+   "score": 0.96,
+   "problems": [
+    "short-page"
+   ]
+  },
+  {
+   "id": "en-2026-10-27-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-27-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-28-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-28-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-29-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-29-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-30-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-10-30-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-31-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-10-31-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "en-2026-11-01-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-11-01-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-11-02-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-11-02-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-11-03-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-11-03-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "en-2026-11-04-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "en-2026-11-04-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "de-2026-10-06-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-06-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-07-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-07-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-08-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-08-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-09-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-09-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "de-2026-10-10-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-10-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-11-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-11-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-12-evening",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "de-2026-10-12-morning",
+   "score": 0.96,
+   "problems": [
+    "short-page"
+   ]
+  },
+  {
+   "id": "de-2026-10-13-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "de-2026-10-13-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-14-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-14-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-15-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-15-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-16-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-16-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-17-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-17-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-18-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-18-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "de-2026-10-19-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-19-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-20-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-20-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-21-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-21-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-22-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-22-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-23-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-23-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-24-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-24-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "de-2026-10-25-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "de-2026-10-25-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-26-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-26-morning",
+   "score": 0.88,
+   "problems": [
+    "short-page",
+    "short-page",
+    "short-page"
+   ]
+  },
+  {
+   "id": "de-2026-10-27-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-27-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-28-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-28-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-29-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-29-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "de-2026-10-30-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-10-30-morning",
+   "score": 0.68,
+   "problems": [
+    "opener-not-definition",
+    "image-instead-of-text",
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "de-2026-10-31-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "de-2026-10-31-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-11-01-evening",
+   "score": 0.88,
+   "problems": [
+    "dense-pages",
+    "short-page",
+    "short-page"
+   ]
+  },
+  {
+   "id": "de-2026-11-01-morning",
+   "score": 0.92,
+   "problems": [
+    "short-page",
+    "short-page"
+   ]
+  },
+  {
+   "id": "de-2026-11-02-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-11-02-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-11-03-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-11-03-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-11-04-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "de-2026-11-04-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-06-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-06-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-07-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-07-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-08-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-08-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-09-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-09-morning",
+   "score": 0.68,
+   "problems": [
+    "image-instead-of-text",
+    "opener-not-definition",
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "fr-2026-10-10-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-10-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-11-evening",
+   "score": 0.96,
+   "problems": [
+    "short-page"
+   ]
+  },
+  {
+   "id": "fr-2026-10-11-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-12-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-12-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-13-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-13-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-14-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-14-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-15-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-15-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-16-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-16-morning",
+   "score": 0.88,
+   "problems": [
+    "image-instead-of-text",
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-17-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-17-morning",
+   "score": 0.84,
+   "problems": [
+    "opener-not-definition",
+    "short-page"
+   ]
+  },
+  {
+   "id": "fr-2026-10-18-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-18-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-19-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-19-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-20-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-20-morning",
+   "score": 0.84,
+   "problems": [
+    "opener-not-definition",
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-21-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-21-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "fr-2026-10-22-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-22-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-23-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-23-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-24-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-24-morning",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-25-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-25-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-26-evening",
+   "score": 0.96,
+   "problems": [
+    "short-page"
+   ]
+  },
+  {
+   "id": "fr-2026-10-26-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-27-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-27-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-28-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-28-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-29-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-29-morning",
+   "score": 0.76,
+   "problems": [
+    "opener-not-definition",
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "fr-2026-10-30-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-30-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-10-31-evening",
+   "score": 0.96,
+   "problems": [
+    "dense-pages"
+   ]
+  },
+  {
+   "id": "fr-2026-10-31-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-11-01-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-11-01-morning",
+   "score": 0.88,
+   "problems": [
+    "opener-not-definition"
+   ]
+  },
+  {
+   "id": "fr-2026-11-02-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-11-02-morning",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-11-03-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-11-03-morning",
+   "score": 0.92,
+   "problems": [
+    "short-page",
+    "short-page"
+   ]
+  },
+  {
+   "id": "fr-2026-11-04-evening",
+   "score": 1,
+   "problems": []
+  },
+  {
+   "id": "fr-2026-11-04-morning",
+   "score": 0.96,
+   "problems": [
+    "short-page"
+   ]
+  }
+ ]
+}

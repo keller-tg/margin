@@ -56,7 +56,7 @@ export function assessThing(t: Thing): Assessment {
         if (lacksSubject(text, lang)) add('missing-subject', text, n);
         if ((pg.type === 'sentence' || pg.type === 'closing') && danglingPronoun(text, lang, topic)) add('dangling-pronoun', text, n);
         if (isEtymology(text, lang) && i < pages.length / 2) add('etymology-early', text, n);
-        if (/[Ͱ-ϿЀ-ӿ֐-ۿ一-鿿]/u.test(text)) add('foreign-script', text, n);
+        if (/[\u0370-\u03ff\u0400-\u04ff\u0590-\u06ff\u4e00-\u9fff]{3,}/u.test(text)) add('foreign-script', text, n); // a run, not "α Orionis"
       }
       if (pg.type === 'bignumber') {
         const fact = t.facts[pg.fact];
@@ -67,7 +67,7 @@ export function assessThing(t: Thing): Assessment {
       if (pg.type === 'image' && pace === 'easy' && t.slot === 'morning') add('image-instead-of-text', 'Easygoing uses the image to fill its pages', n);
     });
     if (t.slot === 'morning' && pace !== 'easy' && new Set(pages.map((x) => x.type)).size < 4) add('few-page-types', [...new Set(pages.map((x) => x.type))].join(', '));
-    if (texts.length && texts.reduce((a, b) => a + b, 0) / texts.length > PACES[pace].maxWords * 0.85) add('dense-pages', `average ${Math.round(texts.reduce((a, b) => a + b, 0) / texts.length)} words`);
+    if (texts.length && texts.reduce((a, b) => a + b, 0) / texts.length > PACES[pace].maxWords * 0.9) add('dense-pages', `average ${Math.round(texts.reduce((a, b) => a + b, 0) / texts.length)} words`);
   }
   const score = Math.max(0, 1 - f.reduce((a, x) => a + WEIGHT[x.problem], 0));
   return { score: Math.round(score * 100) / 100, findings: f };

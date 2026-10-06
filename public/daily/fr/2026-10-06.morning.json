@@ -62,17 +62,17 @@
    "value": "1875",
    "surface": "1875"
   },
-  "f65": {
+  "f64": {
    "kind": "date",
    "value": "2016",
    "surface": "2016"
   },
-  "f66": {
+  "f65": {
    "kind": "date",
    "value": "2019",
    "surface": "2019"
   },
-  "f83": {
+  "f81": {
    "kind": "measure",
    "value": 1100,
    "unit": "km",
@@ -89,11 +89,11 @@
    },
    {
     "type": "sentence",
-    "text": "La terre la plus proche est l’île de Banaba, dans les Kiribati."
+    "text": "Nauru est un État insulaire d’Océanie situé en Micronésie."
    },
    {
     "type": "bignumber",
-    "fact": "f83",
+    "fact": "f81",
     "display": "1 100 km",
     "caption": "Au sud-ouest, les îles Salomon sont à environ 1 100 km."
    },
@@ -136,11 +136,11 @@
       "label": "Anáoero entre en 1920 dans le dictionnaire colonial allemand."
      },
      {
-      "fact": "f65",
+      "fact": "f64",
       "label": "En mai 2016, Nauru dépénalise officiellement l’homosexualité."
      },
      {
-      "fact": "f66",
+      "fact": "f65",
       "label": "En 2019, les autorités se donnent vingt ans pour restaurer un quart des terres."
      }
     ]
@@ -188,11 +188,11 @@
       "label": "Anáoero entre en 1920 dans le dictionnaire colonial allemand."
      },
      {
-      "fact": "f65",
+      "fact": "f64",
       "label": "En mai 2016, Nauru dépénalise officiellement l’homosexualité."
      },
      {
-      "fact": "f66",
+      "fact": "f65",
       "label": "En 2019, les autorités se donnent vingt ans pour restaurer un quart des terres."
      }
     ]
@@ -219,7 +219,7 @@
    },
    {
     "type": "sentence",
-    "text": "C’est une île isolée qui n’appartient à aucun sous-ensemble insulaire."
+    "text": "La société nauruane s’organise alors en douze tribus, parlant chacune un dialecte différent du nauruan, la langue originaire de l’île."
    },
    {
     "type": "closing",
@@ -228,9 +228,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "17b23c4a288b2e.0f3799c980cf10"
+  "hash": "0fbc34e07d492f.011923a99a3a38"
  }
 }

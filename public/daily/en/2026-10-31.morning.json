@@ -5,231 +5,168 @@
  "lang": "en",
  "slot": "morning",
  "topic": {
-  "title": "Ezra Pound",
-  "qid": "Q163366",
-  "pageid": 44203,
-  "revid": 1378451249,
-  "domain": "people-arts",
-  "teaser": "American poet and critic"
+  "title": "Zhang Heng",
+  "qid": "Q197206",
+  "pageid": 34542,
+  "revid": 1373209632,
+  "domain": "people-science",
+  "teaser": "Chinese scientist and statesman"
  },
  "sources": [
   {
-   "title": "Ezra Pound",
-   "url": "https://en.wikipedia.org/w/index.php?title=Ezra_Pound&oldid=1378451249",
-   "revid": 1378451249,
+   "title": "Zhang Heng",
+   "url": "https://en.wikipedia.org/w/index.php?title=Zhang_Heng&oldid=1373209632",
+   "revid": 1373209632,
    "license": "CC BY-SA 4.0"
   }
  ],
  "images": {
   "img1": {
-   "file": "File:Ezra Pound passport photograph undated.jpg",
-   "w": 927,
-   "h": 997,
-   "alt": "Ezra Pound",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ezra_Pound_passport_photograph_undated.jpg",
-   "sha1": "8c01dc638165e49dc97c349003a6b8ad2398d6f6",
+   "file": "File:20251004 Tomb of Zhang Heng 03.jpg",
+   "w": 1200,
+   "h": 1800,
+   "alt": "Zhang Heng",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/20251004_Tomb_of_Zhang_Heng_03.jpg/960px-20251004_Tomb_of_Zhang_Heng_03.jpg",
+   "sha1": "9ebf93b3ba57c19309a22176a73fb40f3b4dc8a9",
    "credit": {
-    "author": "Unknown authorUnknown author",
+    "author": "Windmemories",
     "authorSource": "artist",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ezra_Pound_passport_photograph_undated.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:20251004_Tomb_of_Zhang_Heng_03.jpg",
     "attribution": null,
-    "attributionRequired": false
+    "attributionRequired": true
    }
   }
  },
  "facts": {
-  "f15": {
-   "kind": "measure",
-   "value": 12,
-   "unit": "years",
-   "surface": "12 years"
-  },
-  "f41": {
-   "kind": "measure",
-   "value": 15,
-   "unit": "years",
-   "surface": "15 years"
-  },
-  "f44": {
-   "kind": "date",
-   "value": "1905",
-   "surface": "1905"
-  },
-  "f57": {
-   "kind": "date",
-   "value": "1908",
-   "surface": "1908"
-  },
-  "f79": {
-   "kind": "date",
-   "value": "1909",
-   "surface": "1909"
-  },
-  "f91": {
-   "kind": "date",
-   "value": "1910",
-   "surface": "1910"
-  },
-  "f132": {
+  "f18": {
    "kind": "number",
-   "value": 150,
-   "surface": "150"
+   "value": 100,
+   "surface": "100"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 2000,
+   "surface": "2,000"
   }
  },
  "paces": {
   "easy": [
    {
     "type": "title",
-    "title": "Ezra Pound",
-    "line": "American poet and critic",
+    "title": "Zhang Heng",
+    "line": "Chinese scientist and statesman",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Pound arrived in Gibraltar on 23 March 1908."
+    "text": "Zhang applied his extensive knowledge of mechanics and gears in several of his inventions."
    },
    {
-    "type": "bignumber",
-    "fact": "f132",
-    "display": "150",
-    "caption": "Dorothy’s annual income was £50, with another £150 from her family, and Ezra’s was £200."
+    "type": "sentence",
+    "text": "For centuries the Chinese approximated pi as 3."
    },
    {
     "type": "closing",
-    "text": "Angered by the carnage of World War I, Pound blamed the war on finance capitalism."
+    "text": "Zhang received many posthumous honors for his scholarship and ingenuity."
    }
   ],
   "medium": [
    {
     "type": "title",
-    "title": "Ezra Pound",
-    "line": "American poet and critic",
+    "title": "Zhang Heng",
+    "line": "Chinese scientist and statesman",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Ezra Weston Loomis Pound was an American poet and critic, a major figure in the early modernist poetry movement."
+    "text": "Zhang Heng, courtesy name Pingzi, formerly romanized Chang Heng, was a Chinese polymathic scientist and statesman who lived during the Eastern Han dynasty."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Ezra Pound"
+    "caption": "Zhang Heng"
    },
    {
     "type": "bignumber",
-    "fact": "f41",
-    "display": "15 years",
-    "caption": "In 1901, at 15 years old, Pound was admitted to the College of Liberal Arts at the University of Pennsylvania in Philadelphia."
-   },
-   {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f44",
-      "label": "After graduating from Hamilton in 1905 with a PhB, he returned to Penn."
-     },
-     {
-      "fact": "f57",
-      "label": "Pound arrived in Gibraltar on 23 March 1908."
-     },
-     {
-      "fact": "f79",
-      "label": "Ezra!—And a third time—Ezra!”, Dorothy wrote in her diary on 16 February 1909."
-     },
-     {
-      "fact": "f91",
-      "label": "In June 1910 Pound returned for eight months to the United States."
-     }
-    ]
+    "fact": "f24",
+    "display": "2,000",
+    "caption": "With this prestigious new position, Zhang earned a salary of 2,000 bushels and had the right to escort the emperor."
    },
    {
     "type": "sentence",
-    "text": "Pound’s contribution to poetry began in the early 20th century with his role in developing Imagism, a movement stressing precision and economy of language."
+    "text": "Zhang returned home to Nanyang for a short time, before being recalled to serve in the capital once more in 138."
+   },
+   {
+    "type": "sentence",
+    "text": "Zhang applied his extensive knowledge of mechanics and gears in several of his inventions."
    },
    {
     "type": "closing",
-    "text": "In 1945, Pound was captured by the Italian Resistance and handed over to the U.S. Army’s Counterintelligence Corps."
+    "text": "Zhang received many posthumous honors for his scholarship and ingenuity."
    }
   ],
   "deep": [
    {
     "type": "title",
-    "title": "Ezra Pound",
-    "line": "American poet and critic",
+    "title": "Zhang Heng",
+    "line": "Chinese scientist and statesman",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Ezra Weston Loomis Pound was an American poet and critic, a major figure in the early modernist poetry movement, and a collaborator in Fascist Italy and the Salò Republic during World War II."
+    "text": "Zhang Heng, courtesy name Pingzi, formerly romanized Chang Heng, was a Chinese polymathic scientist and statesman who lived during the Eastern Han dynasty."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Ezra Pound"
+    "caption": "Zhang Heng"
    },
    {
     "type": "bignumber",
-    "fact": "f15",
-    "display": "12 years",
-    "caption": "Ruled mentally unfit to stand trial, Pound was incarcerated for over 12 years at St. Elizabeths Hospital in Washington, D.C. While in U.S. military custody in Italy, Pound continued work on The Cantos."
-   },
-   {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f44",
-      "label": "After graduating from Hamilton in 1905 with a PhB, he returned to Penn."
-     },
-     {
-      "fact": "f57",
-      "label": "Pound arrived in Gibraltar on 23 March 1908."
-     },
-     {
-      "fact": "f79",
-      "label": "Ezra!—And a third time—Ezra!”, Dorothy wrote in her diary on 16 February 1909."
-     },
-     {
-      "fact": "f91",
-      "label": "In June 1910 Pound returned for eight months to the United States."
-     }
-    ]
+    "fact": "f18",
+    "display": "100",
+    "caption": "To place this number in context, in a hierarchy of twenty official ranks, the lowest-paid official earned the rank and salary of 100 bushels and the highest-paid official earned 10,000 bushels during the Han."
    },
    {
     "type": "sentence",
-    "text": "Pound was born in 1885 in a two-story clapboard house in Hailey in the Idaho Territory as the only child of Homer Loomis Pound and Isabel Weston, who married in 1884."
+    "text": "Zhang returned home to Nanyang for a short time, before being recalled to serve in the capital once more in 138."
    },
    {
     "type": "sentence",
-    "text": "Homer had worked in Hailey since 1883 as registrar of the United States General Land Office."
+    "text": "Born in the town of Xi’e in Nanyang Commandery, Zhang Heng came from a distinguished but not affluent family."
    },
    {
     "type": "sentence",
-    "text": "Ezra Pound’s paternal grandfather, Thaddeus Coleman Pound, a Republican Party member of the U.S. House of Representatives and the 10th lieutenant governor of Wisconsin, had secured Homer the job."
+    "text": "While working for the central court, Zhang Heng had access to a variety of written materials located in the Archives of the Eastern Pavilion."
    },
    {
     "type": "sentence",
-    "text": "Homer had previously worked for Thaddeus in the lumber business."
+    "text": "While traveling to Luoyang, Zhang passed by a hot spring near Mount Li and dedicated one of his earliest fu poems to it."
    },
    {
     "type": "sentence",
-    "text": "Both sides of Pound’s family had emigrated from England in the 17th century."
+    "text": "For centuries the Chinese approximated pi as 3; Liu Xin made the first known Chinese attempt at a more accurate calculation of 3.154, but there is no record detailing the method he used to obtain this figure."
    },
    {
     "type": "sentence",
-    "text": "Isabel Pound was unhappy in Hailey and took Ezra with her to New York in 1887 when he was 18 months old."
+    "text": "Xiao Tong, a crown prince of the Liang dynasty, immortalized several of Zhang’s works in his literary anthology Selections of Refined Literature."
+   },
+   {
+    "type": "sentence",
+    "text": "After studying for some years at Luoyang’s Taixue, he was well-versed in the classics and friends with several notable persons, including the mathematician and calligrapher Cui Yuan, the official and philosophical commentator Ma Rong, and the philosopher Wang Fu."
    },
    {
     "type": "closing",
-    "text": "In 1945, Pound was captured by the Italian Resistance and handed over to the U.S. Army’s Counterintelligence Corps, who held him pending extradition and prosecution based on an indictment for treason."
+    "text": "Zhang received many posthumous honors for his scholarship and ingenuity; some modern scholars have compared his work in astronomy to that of the Greco-Roman scientist Ptolemy."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "14c110a32d2559.0fef7796e258ac"
+  "hash": "097b0b448aa7a6.0e21a5378e86b9"
  }
 }

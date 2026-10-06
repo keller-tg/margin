@@ -60,7 +60,7 @@
    "value": "1824",
    "surface": "1824"
   },
-  "f35": {
+  "f34": {
    "kind": "measure",
    "value": 39,
    "unit": "ans",
@@ -97,7 +97,7 @@
    },
    {
     "type": "sentence",
-    "text": "Les théories de Schelling sur la peinture, datées de 1802-1805, marquent profondément les peintres de cette époque."
+    "text": "Caspar David Friedrich, né le 5 septembre 1774 à Greifswald et mort le 7 mai 1840 à Dresde est un peintre."
    },
    {
     "type": "image",
@@ -106,7 +106,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f35",
+    "fact": "f34",
     "display": "39 ans",
     "caption": "1813 est une année charnière pour Friedrich qui, à 39 ans, reçoit la visite du « Maître de Weimar », Goethe."
    },
@@ -149,7 +149,7 @@
    },
    {
     "type": "sentence",
-    "text": "L’enfance de Caspar David Friedrich est marquée par la mort de ses proches qui, entre 1781 et 1791, décèdent les uns après les autres : à sept ans, en 1781, il perd sa mère et sa sœur Elisabeth."
+    "text": "Caspar David Friedrich, né le 5 septembre 1774 à Greifswald et mort le 7 mai 1840 à Dresde est un peintre."
    },
    {
     "type": "image",
@@ -158,7 +158,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f35",
+    "fact": "f34",
     "display": "39 ans",
     "caption": "1813 est une année charnière pour Friedrich qui, à 39 ans, reçoit la visite du « Maître de Weimar », Goethe."
    },
@@ -185,6 +185,10 @@
    },
    {
     "type": "sentence",
+    "text": "L’enfance de Caspar David Friedrich est marquée par la mort de ses proches qui, entre 1781 et 1791, décèdent les uns après les autres : à sept ans, en 1781, il perd sa mère et sa sœur Elisabeth."
+   },
+   {
+    "type": "sentence",
     "text": "Peintre de paysages prestigieux, connu pour ses paysages ossianiques, Abildgaard semble avoir particulièrement influencé Friedrich par son goût pour la mythologie nordique et le refus des modèles antiques."
    },
    {
@@ -204,19 +208,15 @@
     "text": "À cette époque, Friedrich se rapproche de la pensée de Schleiermacher, qui voyait l’approche du sentiment religieux dans la contemplation de la nature."
    },
    {
-    "type": "sentence",
-    "text": "Après quelques portraits, Friedrich s’oriente vers la carrière de paysagiste, et travaille sur des paysages de la Baltique, notamment l’île de Rügen."
-   },
-   {
     "type": "closing",
     "text": "Le tableau de Caspar David Friedrich Deux hommes contemplant la Lune a inspiré Samuel Beckett lors de son voyage de six mois en Allemagne en 1936-1937 pour sa pièce En attendant Godot, écrite en 1948."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.84,
  "verified": {
   "version": 1,
-  "hash": "0f4e14b684782e.06d2bb78e16d2d"
+  "hash": "0c17919b446893.08c100065f3285"
  }
 }

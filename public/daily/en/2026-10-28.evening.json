@@ -5,36 +5,36 @@
  "lang": "en",
  "slot": "evening",
  "topic": {
-  "title": "Thoroughbred",
-  "qid": "Q210826",
-  "pageid": 18842022,
-  "revid": 1370885509,
+  "title": "Common raven",
+  "qid": "Q25357",
+  "pageid": 380781,
+  "revid": 1378343705,
   "domain": "animals",
-  "teaser": "Horse breed developed for racing"
+  "teaser": "Large, black species of passerine bird"
  },
  "sources": [
   {
-   "title": "Thoroughbred",
-   "url": "https://en.wikipedia.org/w/index.php?title=Thoroughbred&oldid=1370885509",
-   "revid": 1370885509,
+   "title": "Common raven",
+   "url": "https://en.wikipedia.org/w/index.php?title=Common_raven&oldid=1378343705",
+   "revid": 1378343705,
    "license": "CC BY-SA 4.0"
   }
  ],
  "images": {
   "img1": {
-   "file": "File:Horseracing Churchill Downs.jpg",
-   "w": 3008,
-   "h": 2000,
-   "alt": "Thoroughbred",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Horseracing_Churchill_Downs.jpg/960px-Horseracing_Churchill_Downs.jpg",
-   "sha1": "06a0e200349a80e71130f679871aa71003004704",
+   "file": "File:Corvus corax clarionensis, Point Reyes National Seashore.jpg",
+   "w": 6493,
+   "h": 4329,
+   "alt": "Common raven",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg/960px-Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg",
+   "sha1": "785a2ab8f39e0d7d0cf912f9ebc2d6fe69277a82",
    "credit": {
-    "author": "Flickr user Jeff Kubina",
+    "author": "Frank Schulenburg",
     "authorSource": "artist",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "fileUrl": "https://commons.wikimedia.org/wiki/File:Horseracing_Churchill_Downs.jpg",
-    "attribution": null,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis,_Point_Reyes_National_Seashore.jpg",
+    "attribution": "© Frank Schulenburg",
     "attributionRequired": true
    }
   }
@@ -44,57 +44,57 @@
   "easy": [
    {
     "type": "title",
-    "title": "Thoroughbred",
-    "line": "Horse breed developed for racing",
+    "title": "Common raven",
+    "line": "Large, black species of passerine bird",
     "image": "img1"
    },
    {
     "type": "closing",
-    "text": "Thoroughbreds are considered “hot-blooded” horses that are known for their agility, speed, and spirit."
+    "text": "Some notable feats of problem-solving provide evidence that the common raven is unusually intelligent."
    }
   ],
   "medium": [
    {
     "type": "title",
-    "title": "Thoroughbred",
-    "line": "Horse breed developed for racing",
+    "title": "Common raven",
+    "line": "Large, black species of passerine bird",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "The Thoroughbred is a horse breed developed for horse racing."
+    "text": "The common raven or northern raven is a large all-black passerine bird."
    },
    {
     "type": "closing",
-    "text": "Other health concerns include low fertility, abnormally small hearts, and a small hoof-to-body-mass ratio."
+    "text": "In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America."
    }
   ],
   "deep": [
    {
     "type": "title",
-    "title": "Thoroughbred",
-    "line": "Horse breed developed for racing",
+    "title": "Common raven",
+    "line": "Large, black species of passerine bird",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "The Thoroughbred is a horse breed developed for horse racing."
+    "text": "The common raven or northern raven is a large all-black passerine bird."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Thoroughbred"
+    "caption": "Common raven"
    },
    {
     "type": "closing",
-    "text": "Other health concerns include low fertility, abnormally small hearts, and a small hoof-to-body-mass ratio."
+    "text": "In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "008ac3542fb027.0da808178ba2ed"
+  "hash": "1c90bf7fad6179.1ce388b6fbb550"
  }
 }

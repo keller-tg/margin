@@ -40,7 +40,7 @@
   }
  },
  "facts": {
-  "f17": {
+  "f16": {
    "kind": "measure",
    "value": 20,
    "unit": "lichtjahre",
@@ -61,7 +61,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
+    "fact": "f16",
     "display": "20 Lichtjahre",
     "caption": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt."
    },
@@ -88,7 +88,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
+    "fact": "f16",
     "display": "20 Lichtjahre",
     "caption": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt."
    },
@@ -123,7 +123,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
+    "fact": "f16",
     "display": "20 Lichtjahre",
     "caption": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt."
    },
@@ -162,9 +162,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.92,
  "verified": {
   "version": 1,
-  "hash": "1dab217d863d7d.1583794e7ab825"
+  "hash": "0f206fec990599.0a0f90aa537c82"
  }
 }

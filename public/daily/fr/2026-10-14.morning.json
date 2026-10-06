@@ -40,30 +40,25 @@
   }
  },
  "facts": {
-  "f15": {
+  "f13": {
    "kind": "date",
    "value": "1863",
    "surface": "1863"
   },
-  "f22": {
-   "kind": "date",
-   "value": "1884",
-   "surface": "1884"
-  },
-  "f27": {
-   "kind": "number",
-   "value": 6428,
-   "surface": "6428"
-  },
-  "f43": {
+  "f35": {
    "kind": "date",
    "value": "2009",
    "surface": "2009"
   },
-  "f50": {
+  "f42": {
    "kind": "date",
    "value": "2004",
    "surface": "2004"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011"
   }
  },
  "paces": {
@@ -104,29 +99,23 @@
     "caption": "Archaeopteryx"
    },
    {
-    "type": "bignumber",
-    "fact": "f27",
-    "display": "6428",
-    "caption": "Le spécimen de Haarlem, référencé TM 6428/29, également connu sous le nom de spécimen de Teyler, a été découvert en 1855 près de Riedenburg."
-   },
-   {
     "type": "timeline",
     "events": [
      {
-      "fact": "f15",
+      "fact": "f13",
       "label": "Richard Owen le décrit en 1863 et rapproche la plume de l’animal."
      },
      {
-      "fact": "f22",
-      "label": "Décrit en 1884 par Wilhelm Dames, c’est le spécimen le plus complet."
-     },
-     {
-      "fact": "f50",
+      "fact": "f42",
       "label": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004."
      },
      {
-      "fact": "f43",
+      "fact": "f35",
       "label": "L’original a été acheté par le paléontologue Raimund Albertsdörfer en 2009."
+     },
+     {
+      "fact": "f47",
+      "label": "La découverte d’un onzième spécimen a été annoncée en 2011."
      }
     ]
    },
@@ -135,8 +124,12 @@
     "text": "L’archéoptéryx a été le tout premier fossile découvert avec des plumes bien conservées, et fut longtemps considéré comme le plus ancien oiseau fossile."
    },
    {
-    "type": "closing",
+    "type": "sentence",
     "text": "Une publication de 2011 par exemple, place l’archéopteryx et les autres Archaeopterygidae plus près des deinonychosaures que des oiseaux."
+   },
+   {
+    "type": "closing",
+    "text": "Comme cette plume a servi à décrire le genre, cela explique en partie la confusion nomenclaturale."
    }
   ],
   "deep": [
@@ -156,31 +149,29 @@
     "caption": "Archaeopteryx"
    },
    {
-    "type": "bignumber",
-    "fact": "f27",
-    "display": "6428",
-    "caption": "Le spécimen de Haarlem, référencé TM 6428/29, également connu sous le nom de spécimen de Teyler, a été découvert en 1855 près de Riedenburg."
-   },
-   {
     "type": "timeline",
     "events": [
      {
-      "fact": "f15",
+      "fact": "f13",
       "label": "Richard Owen le décrit en 1863 et rapproche la plume de l’animal."
      },
      {
-      "fact": "f22",
-      "label": "Décrit en 1884 par Wilhelm Dames, c’est le spécimen le plus complet."
-     },
-     {
-      "fact": "f50",
+      "fact": "f42",
       "label": "Outre les restes découverts, un fossile fragmentaire supplémentaire a été trouvé en 2004."
      },
      {
-      "fact": "f43",
+      "fact": "f35",
       "label": "L’original a été acheté par le paléontologue Raimund Albertsdörfer en 2009."
+     },
+     {
+      "fact": "f47",
+      "label": "La découverte d’un onzième spécimen a été annoncée en 2011."
      }
     ]
+   },
+   {
+    "type": "sentence",
+    "text": "L’archéoptéryx a été le tout premier fossile découvert avec des plumes bien conservées, et fut longtemps considéré comme le plus ancien oiseau fossile."
    },
    {
     "type": "sentence",
@@ -200,11 +191,11 @@
    },
    {
     "type": "sentence",
-    "text": "Une fourchette ou furcula robuste, en forme de boomerang, formée par la jonction des deux clavicules et sur laquelle venaient s’insérer les muscles de vol."
+    "text": "Les spécimens et la plume fossiles trouvés sont considérés comme appartenant à une même espèce par certains auteurs ; ce fait est discuté par d’autres."
    },
    {
     "type": "sentence",
-    "text": "Les spécimens et la plume fossiles trouvés sont considérés comme appartenant à une même espèce par certains auteurs ; ce fait est discuté par d’autres."
+    "text": "La plume a été découverte en 1860, puis décrite l’année suivante par Hermann von Meyer."
    },
    {
     "type": "closing",
@@ -213,9 +204,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c1bb509942e83.0cb71bf85b9e89"
+  "hash": "13b081e9e4c210.064151c9da6953"
  }
 }

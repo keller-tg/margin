@@ -40,33 +40,33 @@
   }
  },
  "facts": {
-  "f16": {
+  "f14": {
    "kind": "measure",
    "value": 12,
    "unit": "ans",
    "surface": "12 ans"
   },
-  "f31": {
+  "f24": {
    "kind": "date",
    "value": "1492",
    "surface": "1492"
   },
-  "f36": {
+  "f28": {
    "kind": "date",
    "value": "1499",
    "surface": "1499"
   },
-  "f39": {
+  "f31": {
    "kind": "date",
    "value": "1500",
    "surface": "1500"
   },
-  "f46": {
+  "f35": {
    "kind": "date",
    "value": "1495",
    "surface": "1495"
   },
-  "f88": {
+  "f77": {
    "kind": "measure",
    "value": 800,
    "unit": "%",
@@ -83,17 +83,17 @@
    },
    {
     "type": "sentence",
-    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
+    "text": "Pedro Álvares Cabral est un navigateur portugais de l’époque des grandes découvertes."
    },
    {
     "type": "bignumber",
-    "fact": "f88",
+    "fact": "f77",
     "display": "800 %",
     "caption": "Les marchandises transportées rapportent 800 % de profit à la Couronne portugaise."
    },
    {
     "type": "closing",
-    "text": "Au total, deux navires rentrent vides, cinq pleins et six perdus."
+    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
    }
   ],
   "medium": [
@@ -105,7 +105,7 @@
    },
    {
     "type": "sentence",
-    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
+    "text": "Pedro Álvares Cabral, né vers 1467 à Belmonte et mort vers 1520 à Santarém, est un navigateur portugais de l’époque des grandes découvertes."
    },
    {
     "type": "image",
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
+    "fact": "f14",
     "display": "12 ans",
     "caption": "Éduqué selon les usages de la petite noblesse, Cabral est envoyé en 1479 à la cour du roi Alphonse V, vers l’âge de 12 ans."
    },
@@ -122,26 +122,26 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f31",
+      "fact": "f24",
       "label": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne."
      },
      {
-      "fact": "f46",
+      "fact": "f35",
       "label": "Le prix du poivre notamment avait pratiquement doublé depuis 1495 à Venise."
      },
      {
-      "fact": "f36",
+      "fact": "f28",
       "label": "Vasco de Gama rentre au Portugal en 1499."
      },
      {
-      "fact": "f39",
+      "fact": "f31",
       "label": "Cabral est nommé commandant en chef de cette flotte le 15 février 1500."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "La flotte reprend la mer soit le 2 soit le 3 mai 1500 et navigue le long des côtes est de l’Amérique du Sud."
+    "text": "Pedro Cabral était certainement un officier, mais sans doute pas un marin."
    },
    {
     "type": "closing",
@@ -157,7 +157,7 @@
    },
    {
     "type": "sentence",
-    "text": "Chargé par le roi de Portugal Manuel Ier d’aller aux Indes afin de prolonger l’œuvre de Vasco de Gama, il accoste par hasard sur la côte de l’Amérique du Sud le 22 avril 1500 et prend possession de ce territoire."
+    "text": "Pedro Álvares Cabral, né vers 1467 à Belmonte et mort vers 1520 à Santarém, est un navigateur portugais de l’époque des grandes découvertes."
    },
    {
     "type": "image",
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
+    "fact": "f14",
     "display": "12 ans",
     "caption": "Éduqué selon les usages de la petite noblesse, Cabral est envoyé en 1479 à la cour du roi Alphonse V, vers l’âge de 12 ans."
    },
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f31",
+      "fact": "f24",
       "label": "En 1492, Christophe Colomb, parti au nom des Rois catholiques d’Espagne."
      },
      {
-      "fact": "f46",
+      "fact": "f35",
       "label": "Le prix du poivre notamment avait pratiquement doublé depuis 1495 à Venise."
      },
      {
-      "fact": "f36",
+      "fact": "f28",
       "label": "Vasco de Gama rentre au Portugal en 1499."
      },
      {
-      "fact": "f39",
+      "fact": "f31",
       "label": "Cabral est nommé commandant en chef de cette flotte le 15 février 1500."
      }
     ]
@@ -194,10 +194,6 @@
    {
     "type": "sentence",
     "text": "Les Portugais, qui explorent les côtes d’Afrique depuis les années 1410, d’abord sous la direction de l’infant Henri le Navigateur, découvrent le cap de Bonne-Espérance en 1488."
-   },
-   {
-    "type": "sentence",
-    "text": "La découverte de Colomb pose un problème : En vertu du traité d’Alcáçovas, elles devraient revenir au Portugal, puisqu’elles se trouvent au sud de la latitude des îles Canaries, possession de la Castille."
    },
    {
     "type": "sentence",
@@ -213,6 +209,10 @@
    },
    {
     "type": "sentence",
+    "text": "La découverte de Colomb pose un problème : En vertu du traité d’Alcáçovas, elles devraient revenir au Portugal, puisqu’elles se trouvent au sud de la latitude des îles Canaries, possession de la Castille."
+   },
+   {
+    "type": "sentence",
     "text": "Le violet représente la fidélité, et les chèvres évoquent le nom de la famille."
    },
    {
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1aaf22c819994c.0664e6709f8183"
+  "hash": "19409bbf97de87.0684210f480ad5"
  }
 }

@@ -40,32 +40,32 @@
   }
  },
  "facts": {
-  "f10": {
+  "f4": {
    "kind": "date",
    "value": "1940",
    "surface": "1940"
   },
-  "f21": {
+  "f7": {
    "kind": "date",
    "value": "1946",
    "surface": "1946"
   },
-  "f24": {
+  "f10": {
    "kind": "date",
    "value": "1952",
    "surface": "1952"
   },
-  "f28": {
+  "f21": {
    "kind": "date",
-   "value": "1955",
-   "surface": "1955"
+   "value": "1958",
+   "surface": "1958"
   },
-  "f52": {
+  "f38": {
    "kind": "number",
    "value": 20000,
    "surface": "20.000"
   },
-  "f83": {
+  "f64": {
    "kind": "number",
    "value": 100000,
    "surface": "100.000"
@@ -81,11 +81,11 @@
    },
    {
     "type": "sentence",
-    "text": "John Winston Lennon wurde am 9. Oktober 1940 in Liverpool geboren."
+    "text": "John Winston Ono Lennon, MBE, geborener John Winston Lennon, war ein britischer Musiker."
    },
    {
     "type": "bignumber",
-    "fact": "f83",
+    "fact": "f64",
     "display": "100.000",
     "caption": "Cynthia Lennon erhielt eine Abfindung von 100.000 Pfund."
    },
@@ -112,7 +112,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f83",
+    "fact": "f64",
     "display": "100.000",
     "caption": "Cynthia Lennon erhielt eine Abfindung von 100.000 Pfund, die den Unterhalt für sie und den Sohn bis zu dessen 21. Geburtstag einschloss."
    },
@@ -120,20 +120,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
+      "fact": "f4",
       "label": "John Winston Lennon wurde am 9. Oktober 1940 in Liverpool geboren."
      },
      {
-      "fact": "f21",
+      "fact": "f7",
       "label": "1946 wurde John in den Kindergarten Mospits Infant’s School aufgenommen."
      },
      {
-      "fact": "f24",
+      "fact": "f10",
       "label": "Im September 1952 wurde John Lennon in die Quarry Bank High School aufgenommen."
      },
      {
-      "fact": "f28",
-      "label": "Ab 1955 verbesserte sich der Kontakt John Lennons zu seiner Mutter wieder."
+      "fact": "f21",
+      "label": "Nach McCartney schloss sich im Februar 1958 dessen Schulfreund George Harrison der Gruppe an."
      }
     ]
    },
@@ -164,7 +164,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f52",
+    "fact": "f38",
     "display": "20.000",
     "caption": "Die Familie lebte von 1964 bis 1968 im Landhaus Kenwood in der Wood Lane in der St. George’s Hill-Siedlung in Weybridge, Surrey, das John Lennon am 15. Juli 1964 für 20.000 Pfund gekauft hatte."
    },
@@ -172,30 +172,26 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
+      "fact": "f4",
       "label": "John Winston Lennon wurde am 9. Oktober 1940 in Liverpool geboren."
      },
      {
-      "fact": "f21",
+      "fact": "f7",
       "label": "1946 wurde John in den Kindergarten Mospits Infant’s School aufgenommen."
      },
      {
-      "fact": "f24",
+      "fact": "f10",
       "label": "Im September 1952 wurde John Lennon in die Quarry Bank High School aufgenommen."
      },
      {
-      "fact": "f28",
-      "label": "Ab 1955 verbesserte sich der Kontakt John Lennons zu seiner Mutter wieder."
+      "fact": "f21",
+      "label": "Nach McCartney schloss sich im Februar 1958 dessen Schulfreund George Harrison der Gruppe an."
      }
     ]
    },
    {
     "type": "sentence",
     "text": "Weil Julia Lennon 1945 ein Kind von einem anderen Mann bekam, trennten sich seine Eltern."
-   },
-   {
-    "type": "sentence",
-    "text": "John Lennon lebte nun auf Dauer bei Julia Lennons Schwester Mary Smith, genannt «Mimi», und deren Ehemann George, der eine Art Ersatzvater für ihn darstellte, in «Mendips»im Liverpooler Vorort Woolton."
    },
    {
     "type": "sentence",
@@ -207,11 +203,15 @@
    },
    {
     "type": "sentence",
-    "text": "Lennon behauptete später, in Hamburg und nicht in Liverpool erwachsen geworden zu sein."
+    "text": "Im September 1946 wurde John Lennon in die Dovedale Primary School eingeschult, die er bis Juli 1952 besuchte."
    },
    {
     "type": "sentence",
-    "text": "Im September 1946 wurde John Lennon in die Dovedale Primary School eingeschult, die er bis Juli 1952 besuchte."
+    "text": "Während des Zweiten Weltkriegs geboren, erhielt er als zweiten Vornamen den Namen «Winston», nach dem damaligen britischen Premierminister Winston Churchill, von dem Lennons Tante Mimi viele Bücher im Wohnzimmer hatte."
+   },
+   {
+    "type": "sentence",
+    "text": "Lennon behauptete später, in Hamburg und nicht in Liverpool erwachsen geworden zu sein."
    },
    {
     "type": "closing",
@@ -220,9 +220,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "16441b005d03cd.181624cef9e44a"
+  "hash": "0449a595036a6d.0cdbde8b5d4b38"
  }
 }

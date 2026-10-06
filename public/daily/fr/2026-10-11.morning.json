@@ -46,22 +46,22 @@
    "unit": "km",
    "surface": "400 km"
   },
-  "f42": {
+  "f29": {
    "kind": "date",
    "value": "1805",
    "surface": "1805"
   },
-  "f48": {
+  "f35": {
    "kind": "date",
    "value": "1856",
    "surface": "1856"
   },
-  "f49": {
+  "f36": {
    "kind": "date",
    "value": "1867",
    "surface": "1867"
   },
-  "f52": {
+  "f39": {
    "kind": "date",
    "value": "1916",
    "surface": "1916"
@@ -77,12 +77,11 @@
    },
    {
     "type": "sentence",
-    "text": "Le pays étranger le plus proche est le Canada."
+    "text": "La ville de Minneapolis est le siège du comté de Hennepin dans l’État du Minnesota."
    },
    {
-    "type": "image",
-    "image": "img1",
-    "caption": "Minneapolis"
+    "type": "sentence",
+    "text": "Le pays étranger le plus proche est le Canada."
    },
    {
     "type": "closing",
@@ -115,19 +114,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f42",
+      "fact": "f29",
       "label": "L’armée américaine bâtit le Fort Snelling sur un territoire acheté aux Sioux en 1805."
      },
      {
-      "fact": "f48",
+      "fact": "f35",
       "label": "Minneapolis fut considérée comme une ville dès 1856 par la législation territoriale du Minnesota."
      },
      {
-      "fact": "f49",
+      "fact": "f36",
       "label": "En 1867, Dorilus Morrison fut élu en tant que premier maire de la ville."
      },
      {
-      "fact": "f52",
+      "fact": "f39",
       "label": "La ville élit en 1916 Thomas Van Lear comme maire."
      }
     ]
@@ -167,19 +166,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f42",
+      "fact": "f29",
       "label": "L’armée américaine bâtit le Fort Snelling sur un territoire acheté aux Sioux en 1805."
      },
      {
-      "fact": "f48",
+      "fact": "f35",
       "label": "Minneapolis fut considérée comme une ville dès 1856 par la législation territoriale du Minnesota."
      },
      {
-      "fact": "f49",
+      "fact": "f36",
       "label": "En 1867, Dorilus Morrison fut élu en tant que premier maire de la ville."
      },
      {
-      "fact": "f52",
+      "fact": "f39",
       "label": "La ville élit en 1916 Thomas Van Lear comme maire."
      }
     ]
@@ -198,15 +197,15 @@
    },
    {
     "type": "sentence",
-    "text": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2."
-   },
-   {
-    "type": "sentence",
     "text": "Depuis cette époque, la région de Minneapolis appartint successivement à plusieurs pays européens avant d’intégrer plus tard le territoire américain."
    },
    {
     "type": "sentence",
     "text": "La mainmise de la France sur ce territoire commença dès 1680 après l’expédition de Louis Hennepin."
+   },
+   {
+    "type": "sentence",
+    "text": "Selon le Bureau du recensement des États-Unis, la ville de Minneapolis possède une superficie totale de 151,3 km2."
    },
    {
     "type": "closing",
@@ -215,9 +214,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "004e6018b5fd83.12968453c106ef"
+  "hash": "015b5e2af6de4b.15f20d76182b96"
  }
 }

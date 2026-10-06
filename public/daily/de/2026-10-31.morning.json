@@ -40,36 +40,31 @@
   }
  },
  "facts": {
-  "f11": {
+  "f5": {
    "kind": "measure",
    "value": 19,
    "unit": "jahren",
    "surface": "19 Jahren"
   },
-  "f13": {
+  "f7": {
    "kind": "date",
    "value": "1758",
    "surface": "1758"
   },
-  "f56": {
+  "f37": {
    "kind": "date",
    "value": "1727",
    "surface": "1727"
   },
-  "f64": {
+  "f44": {
    "kind": "date",
    "value": "1766",
    "surface": "1766"
   },
-  "f73": {
+  "f74": {
    "kind": "date",
    "value": "1772",
    "surface": "1772"
-  },
-  "f263": {
-   "kind": "number",
-   "value": 192,
-   "surface": "192"
   }
  },
  "paces": {
@@ -85,14 +80,12 @@
     "text": "Joseph Priestley war ein englischer Theologe des Unitarismus, Pfarrer, Philosoph, Chemiker und Physiker."
    },
    {
-    "type": "bignumber",
-    "fact": "f263",
-    "display": "192",
-    "caption": "Band 60, 1770, S. 192–210."
+    "type": "sentence",
+    "text": "Priestley war Sohn des Tuchmachers Jonas Priestley und dessen erster Ehefrau Mary Swift."
    },
    {
     "type": "closing",
-    "text": "2 Bände, Hunter, London 1831."
+    "text": "Observations on different kinds of air."
    }
   ],
   "medium": [
@@ -113,7 +106,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f11",
+    "fact": "f5",
     "display": "19 Jahren",
     "caption": "Priestley wurde meist zu Hause unterrichtet und begann mit 19 Jahren an einer Nonkonformisten-Schule in Daventry Theologie und alte Sprachen zu studieren."
    },
@@ -121,20 +114,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f56",
+      "fact": "f37",
       "label": "Bereits 1727 hatte Stephen Hales das Stickstoffoxyd dargestellt."
      },
      {
-      "fact": "f13",
+      "fact": "f7",
       "label": "1758 übernahm Priestley eine zweite Pfarrerstelle in Nantwich und begann schon mit physikalischen Experimenten."
      },
      {
-      "fact": "f64",
+      "fact": "f44",
       "label": "Am 12. Juni 1766 wurde Priestley als Mitglied in die Royal Society gewählt."
      },
      {
-      "fact": "f73",
-      "label": "3. Auflage, London 1772."
+      "fact": "f74",
+      "label": "Gottlieb August Lange, Berlin / Stralsund 1772 – übersetzt von Johann Georg Krünitz."
      }
     ]
    },
@@ -144,7 +137,7 @@
    },
    {
     "type": "closing",
-    "text": "2 Bände, Hunter, London 1831."
+    "text": "Observations on different kinds of air."
    }
   ],
   "deep": [
@@ -165,7 +158,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f11",
+    "fact": "f5",
     "display": "19 Jahren",
     "caption": "Priestley wurde meist zu Hause unterrichtet und begann mit 19 Jahren an einer Nonkonformisten-Schule in Daventry Theologie und alte Sprachen zu studieren."
    },
@@ -173,20 +166,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f56",
+      "fact": "f37",
       "label": "Bereits 1727 hatte Stephen Hales das Stickstoffoxyd dargestellt."
      },
      {
-      "fact": "f13",
+      "fact": "f7",
       "label": "1758 übernahm Priestley eine zweite Pfarrerstelle in Nantwich und begann schon mit physikalischen Experimenten."
      },
      {
-      "fact": "f64",
+      "fact": "f44",
       "label": "Am 12. Juni 1766 wurde Priestley als Mitglied in die Royal Society gewählt."
      },
      {
-      "fact": "f73",
-      "label": "3. Auflage, London 1772."
+      "fact": "f74",
+      "label": "Gottlieb August Lange, Berlin / Stralsund 1772 – übersetzt von Johann Georg Krünitz."
      }
     ]
    },
@@ -212,7 +205,7 @@
    },
    {
     "type": "sentence",
-    "text": "Im Jahr 1764 erhielt Priestley von der University of Edinburgh den Titel eines Doktors der Rechte."
+    "text": "Bayen konnte zeigen, dass das Gas in Wasser löslich und schwerer als Luft ist."
    },
    {
     "type": "closing",
@@ -221,9 +214,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "130876a3a2c6a1.19d7ba6025fcfd"
+  "hash": "1ceef81df4f27f.1d2d322a2e202d"
  }
 }

@@ -40,36 +40,26 @@
   }
  },
  "facts": {
-  "f22": {
-   "kind": "date",
-   "value": "1881",
-   "surface": "1881"
-  },
-  "f34": {
-   "kind": "date",
-   "value": "1894",
-   "surface": "1894"
-  },
-  "f35": {
+  "f21": {
    "kind": "measure",
    "value": 63,
    "unit": "jahren",
    "surface": "63 Jahren"
   },
-  "f79": {
+  "f59": {
    "kind": "date",
    "value": "1903",
    "surface": "1903"
   },
-  "f96": {
+  "f72": {
    "kind": "number",
    "value": 40000,
    "surface": "40.000"
   },
-  "f118": {
+  "f117": {
    "kind": "date",
-   "value": "1911",
-   "surface": "1911"
+   "value": "1912",
+   "surface": "1912"
   }
  },
  "paces": {
@@ -86,11 +76,11 @@
    },
    {
     "type": "sentence",
-    "text": "Zunächst durchlief Scott eine Offizierslaufbahn in der Royal Navy."
+    "text": "Nachdem Shackleton mit seinem eigenen Versuch."
    },
    {
     "type": "closing",
-    "text": "Erst zum Ende des 20. Jahrhunderts begann eine differenziertere Betrachtung und Neubewertung seiner Person."
+    "text": "Das Grab von Scott, Wilson und Bowers liegt heute unter Eis."
    }
   ],
   "medium": [
@@ -111,7 +101,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f96",
+    "fact": "f72",
     "display": "40.000",
     "caption": "Um die erforderlichen 40.000 Pfund Sterling aufzutreiben, hielt Scott landesweit Vorträge und warb für sein Vorhaben, jedoch mit nur mässigem Erfolg."
    },
@@ -119,30 +109,22 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f22",
-      "label": "1881 bestand Scott die Aufnahmeprüfungen der Royal Navy."
-     },
-     {
-      "fact": "f34",
-      "label": "Ab 1894 erschütterte eine Reihe von Schicksalsschlägen Scotts Leben."
-     },
-     {
-      "fact": "f79",
+      "fact": "f59",
       "label": "Scott hatte auch seinem Stellvertreter Albert Armitage angeboten, im März 1903 nach Hause zurückzukehren."
      },
      {
-      "fact": "f118",
-      "label": "Und so stieg Scotts Zuversicht im Verlauf des Winters 1911."
+      "fact": "f117",
+      "label": "Die Aufzeichnungen enden am 29. März 1912 mit den Worten: «Letzter Eintrag."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Zunächst durchlief Scott eine Offizierslaufbahn in der Royal Navy."
+    "text": "Nach eigenem Bekunden entsprang diese Entscheidung seinem persönlichen Ehrgeiz und nicht einer besonderen Vorliebe für die Polarforschung."
    },
    {
     "type": "closing",
-    "text": "Erst zum Ende des 20. Jahrhunderts begann eine differenziertere Betrachtung und Neubewertung seiner Person."
+    "text": "Scott wurde in seiner Heimat durch seinen als heroisch empfundenen Tod jahrzehntelang als selbstaufopfernder Nationalheld stilisiert."
    }
   ],
   "deep": [
@@ -163,7 +145,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f35",
+    "fact": "f21",
     "display": "63 Jahren",
     "caption": "Mit inzwischen 63 Jahren und gesundheitlich in schlechter Verfassung war John Edward Scott gezwungen, als einfacher Brauereiangestellter in Shepton Mallet, Somerset, für das Auskommen seiner Familie zu sorgen."
    },
@@ -171,30 +153,18 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f22",
-      "label": "1881 bestand Scott die Aufnahmeprüfungen der Royal Navy."
-     },
-     {
-      "fact": "f34",
-      "label": "Ab 1894 erschütterte eine Reihe von Schicksalsschlägen Scotts Leben."
-     },
-     {
-      "fact": "f79",
+      "fact": "f59",
       "label": "Scott hatte auch seinem Stellvertreter Albert Armitage angeboten, im März 1903 nach Hause zurückzukehren."
      },
      {
-      "fact": "f118",
-      "label": "Und so stieg Scotts Zuversicht im Verlauf des Winters 1911."
+      "fact": "f117",
+      "label": "Die Aufzeichnungen enden am 29. März 1912 mit den Worten: «Letzter Eintrag."
      }
     ]
    },
    {
     "type": "sentence",
     "text": "Robert Falcon Scott wurde auf dem Familiensitz Outland House in Stoke Damerel, einer Kirchengemeinde unweit des Flottenstützpunkts Devonport im südwestenglischen Plymouth, als drittes von sechs Kindern des Brauereibesitzers John Edward Scott und dessen Frau Hannah geboren."
-   },
-   {
-    "type": "sentence",
-    "text": "Nach zweijähriger Ausbildung verliess Scott 1883 die HMS Britannia im Rang eines Midshipman als Siebtbester von 26 Seekadetten seines Jahrgangs."
    },
    {
     "type": "sentence",
@@ -213,8 +183,12 @@
     "text": "Zu Beginn seiner schulischen Ausbildung wurde Scott zu Hause unterrichtet; erst im Alter von acht Jahren besuchte er die örtliche Schule in Stoke Damerel."
    },
    {
+    "type": "sentence",
+    "text": "Ziele waren allgemeinwissenschaftliche und insbesondere geographische Erkundungen in der Antarktis."
+   },
+   {
     "type": "closing",
-    "text": "Erst zum Ende des 20. Jahrhunderts begann eine differenziertere Betrachtung und Neubewertung seiner Person."
+    "text": "Scott wurde in seiner Heimat durch seinen als heroisch empfundenen Tod jahrzehntelang als selbstaufopfernder Nationalheld stilisiert."
    }
   ]
  },
@@ -222,6 +196,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "125a9d54673613.019e77a90d5e7e"
+  "hash": "005c48dc1de32c.02b0bb85852cb4"
  }
 }

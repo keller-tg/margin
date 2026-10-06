@@ -56,17 +56,17 @@
    "value": "1826",
    "surface": "1826"
   },
-  "f44": {
+  "f43": {
    "kind": "date",
    "value": "1840",
    "surface": "1840"
   },
-  "f45": {
+  "f44": {
    "kind": "date",
    "value": "1846",
    "surface": "1846"
   },
-  "f79": {
+  "f77": {
    "kind": "number",
    "value": 50000,
    "surface": "50 000"
@@ -82,12 +82,11 @@
    },
    {
     "type": "sentence",
-    "text": "Quelques années après la libération du Portugal, Jean VI retourne en Europe en 1821."
+    "text": "L’empire du Brésil ou, abusivement, l’Empire brésilien est une entité politique qui occupe."
    },
    {
-    "type": "image",
-    "image": "img1",
-    "caption": "Empire du Brésil"
+    "type": "sentence",
+    "text": "Quelques années après la libération du Portugal, Jean VI retourne en Europe en 1821."
    },
    {
     "type": "closing",
@@ -112,7 +111,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f79",
+    "fact": "f77",
     "display": "50 000",
     "caption": "Plus de 50 000 soldats brésiliens sont morts et la guerre a coûté au Brésil l’équivalent de onze fois son budget annuel."
    },
@@ -128,11 +127,11 @@
       "label": "D’autres difficultés surviennent lorsque le parlement impérial, l’Assemblée générale, est réuni en 1826."
      },
      {
-      "fact": "f44",
+      "fact": "f43",
       "label": "L’empereur est ainsi déclaré apte à gouverner en juillet 1840."
      },
      {
-      "fact": "f45",
+      "fact": "f44",
       "label": "Cependant, en 1846, Pierre II a suffisamment mûri physiquement et mentalement."
      }
     ]
@@ -180,11 +179,11 @@
       "label": "D’autres difficultés surviennent lorsque le parlement impérial, l’Assemblée générale, est réuni en 1826."
      },
      {
-      "fact": "f44",
+      "fact": "f43",
       "label": "L’empereur est ainsi déclaré apte à gouverner en juillet 1840."
      },
      {
-      "fact": "f45",
+      "fact": "f44",
       "label": "Cependant, en 1846, Pierre II a suffisamment mûri physiquement et mentalement."
      }
     ]
@@ -220,9 +219,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "06a7ee2cd6c189.03e0103a7314f7"
+  "hash": "0ee6501ba4d92d.1533af5ce88d61"
  }
 }

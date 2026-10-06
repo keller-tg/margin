@@ -40,31 +40,31 @@
   }
  },
  "facts": {
-  "f8": {
+  "f6": {
    "kind": "measure",
    "value": 377975,
    "unit": "km2",
    "surface": "377 975 km2"
   },
-  "f11": {
+  "f8": {
    "kind": "date",
    "value": "1990",
    "surface": "1990"
   },
-  "f17": {
+  "f11": {
    "kind": "date",
    "value": "2025",
    "surface": "2025"
   },
-  "f18": {
+  "f12": {
    "kind": "date",
    "value": "2010",
    "surface": "2010"
   },
-  "f39": {
+  "f30": {
    "kind": "date",
-   "value": "1867",
-   "surface": "1867"
+   "value": "1900",
+   "surface": "1900"
   }
  },
  "paces": {
@@ -77,11 +77,11 @@
    },
    {
     "type": "sentence",
-    "text": "L’archipel s’étend sur plus de trois mille kilomètres."
+    "text": "Le Japon est un pays insulaire de l’Asie de l’Est."
    },
    {
     "type": "sentence",
-    "text": "La plupart des îles sont montagneuses, parfois volcaniques."
+    "text": "L’archipel s’étend sur plus de trois mille kilomètres."
    },
    {
     "type": "closing",
@@ -97,7 +97,7 @@
    },
    {
     "type": "sentence",
-    "text": "L’archipel s’étend sur plus de trois mille kilomètres."
+    "text": "Le Japon est un pays insulaire de l’Asie de l’Est."
    },
    {
     "type": "image",
@@ -106,7 +106,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f8",
+    "fact": "f6",
     "display": "377 975 km2",
     "caption": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d’habitants pour 377 975 km2."
    },
@@ -114,19 +114,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f39",
-      "label": "Le dernier shogun Tokugawa Yoshinobu remet ses pouvoirs à l’empereur Meiji en 1867."
+      "fact": "f30",
+      "label": "Le Japon connait une phase de démocratisation des années 1900 aux années 1920."
      },
      {
-      "fact": "f11",
+      "fact": "f8",
       "label": "La ville a été première place financière mondiale en 1990."
      },
      {
-      "fact": "f18",
+      "fact": "f12",
       "label": "Le pays est depuis 2010 en déclin démographique."
      },
      {
-      "fact": "f17",
+      "fact": "f11",
       "label": "En 2025, le Japon est classé en 12e position pour l’indice mondial de l’innovation."
      }
     ]
@@ -158,7 +158,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f8",
+    "fact": "f6",
     "display": "377 975 km2",
     "caption": "Le Japon est le douzième pays le plus peuplé du monde, avec un peu moins de 123 millions d’habitants pour 377 975 km2."
    },
@@ -166,26 +166,22 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f39",
-      "label": "Le dernier shogun Tokugawa Yoshinobu remet ses pouvoirs à l’empereur Meiji en 1867."
+      "fact": "f30",
+      "label": "Le Japon connait une phase de démocratisation des années 1900 aux années 1920."
      },
      {
-      "fact": "f11",
+      "fact": "f8",
       "label": "La ville a été première place financière mondiale en 1990."
      },
      {
-      "fact": "f18",
+      "fact": "f12",
       "label": "Le pays est depuis 2010 en déclin démographique."
      },
      {
-      "fact": "f17",
+      "fact": "f11",
       "label": "En 2025, le Japon est classé en 12e position pour l’indice mondial de l’innovation."
      }
     ]
-   },
-   {
-    "type": "sentence",
-    "text": "Le Japon est peuplé depuis le paléolithique."
    },
    {
     "type": "sentence",
@@ -193,11 +189,11 @@
    },
    {
     "type": "sentence",
-    "text": "Une présence humaine y est indiquée par l’archéologie sur plusieurs niveaux de fouille depuis plus de 12 000 ans ; celle-ci débute par l’arrivée des Aïnous, peuple indigène paléo-sibérien, les premiers habitants de l’archipel japonais."
+    "text": "Le Japon est peuplé depuis le paléolithique."
    },
    {
     "type": "sentence",
-    "text": "L’apogée de l’autorité impériale se situe au début de l’époque de Nara et à la fin de celle de Heian par le biais du système des empereurs retirés."
+    "text": "Une présence humaine y est indiquée par l’archéologie sur plusieurs niveaux de fouille depuis plus de 12 000 ans ; celle-ci débute par l’arrivée des Aïnous, peuple indigène paléo-sibérien, les premiers habitants de l’archipel japonais."
    },
    {
     "type": "sentence",
@@ -208,15 +204,19 @@
     "text": "Les premières vagues migratoires de l’ère moderne auraient débuté à partir du VIIe siècle av. J.-C."
    },
    {
+    "type": "sentence",
+    "text": "En japonais, « Japon » se dit Nihon ou Nippon, ou éventuellement dans les documents administratifs Nipponkoku ou Nihonkoku, soit « Nation japonaise »."
+   },
+   {
     "type": "closing",
     "text": "C’est également le pays pour lequel le poids de la dette publique brute est le plus important au monde, cette dernière s’élève en 2017 à 240 % du PIB."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "16fe154c21941d.16a5e80fa28378"
+  "hash": "07f3c9665bd7ca.1ca812103462cf"
  }
 }

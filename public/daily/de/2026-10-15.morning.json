@@ -40,28 +40,28 @@
   }
  },
  "facts": {
-  "f13": {
+  "f12": {
    "kind": "measure",
    "value": 5640,
    "unit": "km²",
    "surface": "5.640 km²"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
    "value": "2011",
    "surface": "2011"
   },
-  "f36": {
+  "f29": {
    "kind": "date",
    "value": "1959",
    "surface": "1959"
   },
-  "f46": {
+  "f37": {
    "kind": "date",
    "value": "500",
    "surface": "500"
   },
-  "f66": {
+  "f53": {
    "kind": "date",
    "value": "2023",
    "surface": "2023"
@@ -81,7 +81,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f13",
+    "fact": "f12",
     "display": "5.640 km²",
     "caption": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln."
    },
@@ -108,7 +108,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f13",
+    "fact": "f12",
     "display": "5.640 km²",
     "caption": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco von Russland zurückfordert."
    },
@@ -116,19 +116,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f46",
+      "fact": "f37",
       "label": "Vögel In Japan sind über 500 verschiedene Vogelarten gesichtet worden."
      },
      {
-      "fact": "f36",
+      "fact": "f29",
       "label": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959."
      },
      {
-      "fact": "f30",
+      "fact": "f24",
       "label": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat."
      },
      {
-      "fact": "f66",
+      "fact": "f53",
       "label": "Im Jahr 2023 lebten 92 Prozent der Einwohner Japans in Städten."
      }
     ]
@@ -160,7 +160,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f13",
+    "fact": "f12",
     "display": "5.640 km²",
     "caption": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km²."
    },
@@ -168,19 +168,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f46",
+      "fact": "f37",
       "label": "Vögel In Japan sind über 500 verschiedene Vogelarten gesichtet worden."
      },
      {
-      "fact": "f36",
+      "fact": "f29",
       "label": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959."
      },
      {
-      "fact": "f30",
+      "fact": "f24",
       "label": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat."
      },
      {
-      "fact": "f66",
+      "fact": "f53",
       "label": "Im Jahr 2023 lebten 92 Prozent der Einwohner Japans in Städten."
      }
     ]
@@ -195,19 +195,19 @@
    },
    {
     "type": "sentence",
-    "text": "Die Einwohnerzahl ist seit Jahren rückläufig, so gab das Ministerium für Innere Angelegenheiten und Kommunikation am 31. März 2015 eine Gesamtbevölkerung von 126.659.683 an."
-   },
-   {
-    "type": "sentence",
     "text": "Japan ist ein Inselstaat, der im Wesentlichen aus einer Inselkette besteht, die sich entlang der Ostküste Asiens erstreckt."
    },
    {
     "type": "sentence",
-    "text": "Dazu kommen 14125 kleinere Inseln, die sich vor allem in der Seto-Inlandsee, in der Kette der Ryūkyū-Inseln und Nampō-shotō konzentrieren."
+    "text": "Japan wäre somit in etwa 14.657 km² grösser als die Bundesrepublik Deutschland."
    },
    {
     "type": "sentence",
-    "text": "Japan wäre somit in etwa 14.657 km² grösser als die Bundesrepublik Deutschland."
+    "text": "Die Einwohnerzahl ist seit Jahren rückläufig, so gab das Ministerium für Innere Angelegenheiten und Kommunikation am 31. März 2015 eine Gesamtbevölkerung von 126.659.683 an."
+   },
+   {
+    "type": "sentence",
+    "text": "Insgesamt hat Japan eine Küstenlänge von 33.574 km, was zum Vergleich etwa 84 % des Erdumfangs entspricht."
    },
    {
     "type": "closing",
@@ -216,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1997625494d232.1801d3af1779c6"
+  "hash": "05a2c6cc3248c2.048a0ad626bfa0"
  }
 }

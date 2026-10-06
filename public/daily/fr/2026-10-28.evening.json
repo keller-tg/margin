@@ -5,37 +5,37 @@
  "lang": "fr",
  "slot": "evening",
  "topic": {
-  "title": "Coccinellidae",
-  "qid": "Q25327",
-  "pageid": 19615,
-  "revid": 239408396,
+  "title": "Grand Corbeau",
+  "qid": "Q25357",
+  "pageid": 68343,
+  "revid": 237103679,
   "domain": "animals",
-  "teaser": "Famille de coléoptères"
+  "teaser": "Espèce d’oiseaux"
  },
  "sources": [
   {
-   "title": "Coccinellidae",
-   "url": "https://fr.wikipedia.org/w/index.php?title=Coccinellidae&oldid=239408396",
-   "revid": 239408396,
+   "title": "Grand Corbeau",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Grand_Corbeau&oldid=237103679",
+   "revid": 237103679,
    "license": "CC BY-SA 4.0"
   }
  ],
  "images": {
   "img1": {
-   "file": "File:Coccinella-septempunctata-15-fws.jpg",
-   "w": 1752,
-   "h": 1296,
-   "alt": "Coccinellidae",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/960px-Coccinella-septempunctata-15-fws.jpg",
-   "sha1": "255b370c793f36eac7db81292d448486ebf7f1de",
+   "file": "File:Corvus corax (Common Raven), Yosemite NP, CA, US - Diliff.jpg",
+   "w": 5103,
+   "h": 3610,
+   "alt": "Grand Corbeau",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Corvus_corax_%28Common_Raven%29%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/960px-Corvus_corax_%28Common_Raven%29%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg",
+   "sha1": "38925b20c420ed25394f3333c3a38a168cd09675",
    "credit": {
-    "author": "Francisco Welter-Schultes",
+    "author": "Diliff",
     "authorSource": "artist",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "fileUrl": "https://commons.wikimedia.org/wiki/File:Coccinella-septempunctata-15-fws.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Corvus_corax_(Common_Raven),_Yosemite_NP,_CA,_US_-_Diliff.jpg",
     "attribution": null,
-    "attributionRequired": false
+    "attributionRequired": true
    }
   }
  },
@@ -44,57 +44,57 @@
   "easy": [
    {
     "type": "title",
-    "title": "Coccinellidae",
-    "line": "Famille de coléoptères",
+    "title": "Grand Corbeau",
+    "line": "Espèce d’oiseaux",
     "image": "img1"
    },
    {
     "type": "closing",
-    "text": "La famille des Coccinellidae a été établie par Pierre-André Latreille, en 1807."
+    "text": "Plusieurs cas remarquables de résolution de problèmes ont été observés chez cette espèce."
    }
   ],
   "medium": [
    {
     "type": "title",
-    "title": "Coccinellidae",
-    "line": "Famille de coléoptères",
+    "title": "Grand Corbeau",
+    "line": "Espèce d’oiseaux",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Les coccinelles font partie des insectes utilisés par l’homme : beaucoup d’espèces se nourrissent en effet de pucerons."
+    "text": "Le Grand Corbeau est une espèce d’oiseaux de la famille des corvidés."
    },
    {
     "type": "closing",
-    "text": "Le nombre de taches de la coccinelle varie de deux à vingt-quatre points et dépend de l’espèce, dont il peut être une clé de détermination."
+    "text": "Plusieurs cas remarquables de résolution de problèmes ont été observés chez cette espèce, ce qui laisse penser que le grand corbeau est extrêmement intelligent."
    }
   ],
   "deep": [
    {
     "type": "title",
-    "title": "Coccinellidae",
-    "line": "Famille de coléoptères",
+    "title": "Grand Corbeau",
+    "line": "Espèce d’oiseaux",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Les Coccinellidae, en français coccinellidés, sont une famille d’insectes de l’ordre des coléoptères, appelés aussi coccinelles, ou encore familièrement ou régionalement « bêtes à bon Dieu » ou « pernettes »."
+    "text": "Le Grand Corbeau est une espèce d’oiseaux de la famille des corvidés."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Coccinellidae"
+    "caption": "Grand Corbeau"
    },
    {
     "type": "closing",
-    "text": "Le nombre de taches de la coccinelle varie de deux à vingt-quatre points et dépend de l’espèce, dont il peut être une clé de détermination."
+    "text": "Plusieurs cas remarquables de résolution de problèmes ont été observés chez cette espèce, ce qui laisse penser que le grand corbeau est extrêmement intelligent."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0b05eea0d690c6.06795799f7f401"
+  "hash": "0b2910dc56b1ae.09ada92cd763fa"
  }
 }

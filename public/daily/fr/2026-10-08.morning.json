@@ -40,27 +40,27 @@
   }
  },
  "facts": {
-  "f10": {
-   "kind": "date",
-   "value": "1506",
-   "surface": "1506"
-  },
-  "f11": {
-   "kind": "date",
-   "value": "1516",
-   "surface": "1516"
-  },
-  "f14": {
-   "kind": "date",
-   "value": "1513",
-   "surface": "1513"
-  },
-  "f18": {
+  "f15": {
    "kind": "date",
    "value": "1518",
    "surface": "1518"
   },
-  "f73": {
+  "f16": {
+   "kind": "date",
+   "value": "1519",
+   "surface": "1519"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1525",
+   "surface": "1525"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1526",
+   "surface": "1526"
+  },
+  "f65": {
    "kind": "measure",
    "value": 47,
    "unit": "ans",
@@ -77,17 +77,17 @@
    },
    {
     "type": "sentence",
-    "text": "1506-1516 : curé de la ville de Glaris."
+    "text": "Ulrich Zwingli est un réformateur protestant suisse."
    },
    {
     "type": "bignumber",
-    "fact": "f73",
+    "fact": "f65",
     "display": "47 ans",
     "caption": "Zwingli avait 47 ans au moment de sa mort."
    },
    {
     "type": "closing",
-    "text": "Le lien avec Zwingli n’est pas établi."
+    "text": "II y avait beaucoup de netteté dans son discours."
    }
   ],
   "medium": [
@@ -99,7 +99,7 @@
    },
    {
     "type": "sentence",
-    "text": "1502 : s’inscrit à l’université de Bâle, où il obtient les grades de bachelier et de maître ès arts."
+    "text": "Ulrich Zwingli est un réformateur protestant suisse."
    },
    {
     "type": "image",
@@ -108,7 +108,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f73",
+    "fact": "f65",
     "display": "47 ans",
     "caption": "Zwingli avait 47 ans au moment de sa mort."
    },
@@ -116,26 +116,26 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
-      "label": "1506-1516 : curé de la ville de Glaris."
-     },
-     {
-      "fact": "f14",
-      "label": "1513 : apprend le grec ancien."
-     },
-     {
-      "fact": "f11",
-      "label": "1516-1518 : chapelain de l’abbaye territoriale d’Einsiedeln."
-     },
-     {
-      "fact": "f18",
+      "fact": "f15",
       "label": "Fin 1518 : appelé comme prédicateur de la collégiale de Zurich."
+     },
+     {
+      "fact": "f16",
+      "label": "1er janvier 1519 : Zwingli prêche pour la première fois à la Grossmünster de Zurich."
+     },
+     {
+      "fact": "f25",
+      "label": "Septembre 1525 : Zurich abolit la messe."
+     },
+     {
+      "fact": "f26",
+      "label": "Mars 1526 : le premier culte réformé est célébré."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "1512 : comme aumônier militaire des Suisses à la solde du pape, il participe à la bataille de Novare."
+    "text": "Dès lors Zwingli va tout faire pour que Zurich devienne une cité réformée."
    },
    {
     "type": "closing",
@@ -160,7 +160,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f73",
+    "fact": "f65",
     "display": "47 ans",
     "caption": "Zwingli avait 47 ans au moment de sa mort."
    },
@@ -168,46 +168,46 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
-      "label": "1506-1516 : curé de la ville de Glaris."
-     },
-     {
-      "fact": "f14",
-      "label": "1513 : apprend le grec ancien."
-     },
-     {
-      "fact": "f11",
-      "label": "1516-1518 : chapelain de l’abbaye territoriale d’Einsiedeln."
-     },
-     {
-      "fact": "f18",
+      "fact": "f15",
       "label": "Fin 1518 : appelé comme prédicateur de la collégiale de Zurich."
+     },
+     {
+      "fact": "f16",
+      "label": "1er janvier 1519 : Zwingli prêche pour la première fois à la Grossmünster de Zurich."
+     },
+     {
+      "fact": "f25",
+      "label": "Septembre 1525 : Zurich abolit la messe."
+     },
+     {
+      "fact": "f26",
+      "label": "Mars 1526 : le premier culte réformé est célébré."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "1502 : s’inscrit à l’université de Bâle, où il obtient les grades de bachelier et de maître ès arts."
+    "text": "16 mai 1522 : par la publication de Vermahnung an die zu Schwyz, dass sie sich vor fremden Herren hutend, Zwingli commence à se faire connaitre en dehors de Zurich."
    },
    {
     "type": "sentence",
-    "text": "1512 : comme aumônier militaire des Suisses à la solde du pape, il participe à la bataille de Novare."
+    "text": "Dès lors Zwingli va tout faire pour que Zurich devienne une cité réformée."
    },
    {
     "type": "sentence",
-    "text": "1516 : rencontre Érasme et l’imprimeur Johann Froben à Bâle."
+    "text": "Mai : Zwingli est excommunié à la suite de la dispute de Baden."
    },
    {
     "type": "sentence",
-    "text": "1er janvier 1519 : Zwingli prêche pour la première fois à la Grossmünster de Zurich."
+    "text": "Sous la présidence du landgrave Philippe Ier de Hesse, Zwingli y rencontre Martin Luther pour faire le point de leurs accords et désaccords sur la doctrine eucharistique.En juin, première bataille de Kappel."
    },
    {
     "type": "sentence",
-    "text": "Marqué par l’épidémie de peste qui décime plus du tiers des habitants de la ville cette année-là, il approfondit sa foi et devient peu à peu un authentique réformateur."
+    "text": "La Réforme, grâce à la Ligue évangélique réunissant les cantons de Berne, Saint-Gall, Bâle et Zurich, et sous l’action de Zwingli, s’étend aux bailliages communs après la première paix de Kappel."
    },
    {
     "type": "sentence",
-    "text": "1519 : devient curé de Zurich."
+    "text": "Octobre 1531 : les cantons catholiques attaquent les Zurichois et les battent à la 2e bataille de Kappel."
    },
    {
     "type": "closing",
@@ -216,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1a35b93436fac9.1e0aa42edb6f33"
+  "hash": "05f73872b25556.06495548420a94"
  }
 }

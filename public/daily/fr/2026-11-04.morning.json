@@ -40,27 +40,27 @@
   }
  },
  "facts": {
-  "f8": {
+  "f6": {
    "kind": "date",
    "value": "2025",
    "surface": "2025"
   },
-  "f9": {
+  "f7": {
    "kind": "date",
    "value": "1875",
    "surface": "1875"
   },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "1916",
    "surface": "1916"
   },
-  "f14": {
+  "f12": {
    "kind": "date",
    "value": "1927",
    "surface": "1927"
   },
-  "f78": {
+  "f73": {
    "kind": "measure",
    "value": 1200,
    "unit": "kg",
@@ -81,7 +81,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f78",
+    "fact": "f73",
     "display": "1 200 kg",
     "caption": "Une table de snooker pèse environ 1 200 kg."
    },
@@ -108,7 +108,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f78",
+    "fact": "f73",
     "display": "1 200 kg",
     "caption": "Une table de snooker pèse environ 1 200 kg."
    },
@@ -116,19 +116,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f9",
+      "fact": "f7",
       "label": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain."
      },
      {
-      "fact": "f13",
+      "fact": "f11",
       "label": "En 1916, le tout premier tournoi de snooker a été mis en place."
      },
      {
-      "fact": "f14",
+      "fact": "f12",
       "label": "En 1927, la légende du snooker, Joe Davis introduit un championnat du monde professionnel."
      },
      {
-      "fact": "f8",
+      "fact": "f6",
       "label": "En 2025, le titre masculin est remporté par le joueur chinois Zhao Xintong."
      }
     ]
@@ -160,7 +160,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f78",
+    "fact": "f73",
     "display": "1 200 kg",
     "caption": "Une table de snooker pèse environ 1 200 kg."
    },
@@ -168,19 +168,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f9",
+      "fact": "f7",
       "label": "Selon l’histoire la plus communément admise, en 1875 le colonel Francis Fitzgerald Neville Chamberlain."
      },
      {
-      "fact": "f13",
+      "fact": "f11",
       "label": "En 1916, le tout premier tournoi de snooker a été mis en place."
      },
      {
-      "fact": "f14",
+      "fact": "f12",
       "label": "En 1927, la légende du snooker, Joe Davis introduit un championnat du monde professionnel."
      },
      {
-      "fact": "f8",
+      "fact": "f6",
       "label": "En 2025, le titre masculin est remporté par le joueur chinois Zhao Xintong."
      }
     ]
@@ -203,7 +203,7 @@
    },
    {
     "type": "sentence",
-    "text": "Une table de snooker coûte très cher mais il est toujours possible de jouer au snooker sur une table de billard de dimensions standard de 2,10 m."
+    "text": "Les joueurs frappent la bille blanche à l’aide de la queue de billard."
    },
    {
     "type": "sentence",
@@ -216,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "004e81cc8f1645.1de5f2f5aa8897"
+  "hash": "117fae160d0c36.0f96eecc688a76"
  }
 }

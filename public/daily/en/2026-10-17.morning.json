@@ -40,13 +40,13 @@
   }
  },
  "facts": {
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 15000,
    "unit": "years",
    "surface": "15,000 years"
   },
-  "f37": {
+  "f23": {
    "kind": "measure",
    "value": 1,
    "unit": "%",
@@ -63,11 +63,11 @@
    },
    {
     "type": "sentence",
-    "text": "The Nile has played a central role in the environmental, economic."
+    "text": "The White Nile is longer and is considered to be the headwaters."
    },
    {
     "type": "bignumber",
-    "fact": "f37",
+    "fact": "f23",
     "display": "1%",
     "caption": "The Nile’s discharge is only about 1% of the Amazon, 6% of the Congo."
    },
@@ -94,7 +94,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f3",
+    "fact": "f2",
     "display": "15,000 years",
     "caption": "Geologically, the Nile is a young river, having followed its present course for about 15,000 years."
    },
@@ -129,7 +129,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f3",
+    "fact": "f2",
     "display": "15,000 years",
     "caption": "Geologically, the Nile is a young river, having followed its present course for about 15,000 years."
    },
@@ -155,11 +155,11 @@
    },
    {
     "type": "sentence",
-    "text": "The English word “Nile” is derived from the Latin Nilus and the Ancient Greek Νεῖλος, which possibly originated from the Semitic term naḥal, meaning 'river'."
+    "text": "In the modern era, the river goes by several names within the Nile Basin."
    },
    {
     "type": "sentence",
-    "text": "In the modern era, the river goes by several names within the Nile Basin."
+    "text": "The basin can be divided into seven regions; five of these regions encompass the longest course of the Nile."
    },
    {
     "type": "closing",
@@ -168,9 +168,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "04a795564ad60b.14dffb33027536"
+  "hash": "1f13234b9b36d7.027c73819af30b"
  }
 }

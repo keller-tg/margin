@@ -57,31 +57,30 @@
    "unit": "meter",
    "surface": "4,6 Meter"
   },
-  "f18": {
+  "f11": {
+   "kind": "number",
+   "value": 210,
+   "surface": "210"
+  },
+  "f17": {
    "kind": "date",
    "value": "1887",
    "surface": "1887"
   },
-  "f20": {
+  "f19": {
    "kind": "date",
    "value": "2013",
    "surface": "2013"
   },
-  "f24": {
+  "f23": {
    "kind": "date",
    "value": "1879",
    "surface": "1879"
   },
-  "f30": {
+  "f24": {
    "kind": "date",
-   "value": "1911",
-   "surface": "1911"
-  },
-  "f48": {
-   "kind": "measure",
-   "value": 90,
-   "unit": "cm",
-   "surface": "90 cm"
+   "value": "1881",
+   "surface": "1881"
   }
  },
  "paces": {
@@ -98,9 +97,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f48",
-    "display": "90 cm",
-    "caption": "Stegosaurus stenops hatte vier dermale Schwanzstacheln, jeder war etwa 60–90 cm lang."
+    "fact": "f11",
+    "display": "210",
+    "caption": "Noch kleinere Skelette – mit bis zu 210 Zentimetern Länge und 80 Zentimetern Rückenhöhe."
    },
    {
     "type": "closing",
@@ -133,19 +132,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f24",
+      "fact": "f23",
       "label": "Die Überreste waren 1879 von Edward Ashley in Como Bluff, Wyoming, geborgen worden."
      },
      {
-      "fact": "f18",
+      "fact": "f24",
+      "label": "Stegosaurus laticeps wurde von Marsh im Jahr 1881 basierend auf einigen Kieferknochen-Fragmenten beschrieben."
+     },
+     {
+      "fact": "f17",
       "label": "Stegosaurus stenops, «schmalköpfige Dachechse», wurde von Marsh im Jahr 1887 benannt."
      },
      {
-      "fact": "f30",
-      "label": "Stegosaurus priscus, beschrieben von Nopcsa im Jahr 1911, ist mit Lexovisaurus identisch."
-     },
-     {
-      "fact": "f20",
+      "fact": "f19",
       "label": "Seit 2013 gilt Stegosaurus stenops als Typusart."
      }
     ]
@@ -185,11 +184,11 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f24",
+      "fact": "f23",
       "label": "Die Überreste waren 1879 von Edward Ashley in Como Bluff, Wyoming, geborgen worden."
      },
      {
-      "fact": "f18",
+      "fact": "f17",
       "label": "Stegosaurus stenops, «schmalköpfige Dachechse», wurde von Marsh im Jahr 1887 benannt."
      },
      {
@@ -197,7 +196,7 @@
       "label": "Ein solcher Fund wurde 1994 in Wyoming gemacht."
      },
      {
-      "fact": "f20",
+      "fact": "f19",
       "label": "Seit 2013 gilt Stegosaurus stenops als Typusart."
      }
     ]
@@ -233,9 +232,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1f348832c7c49f.1424300b6dea0b"
+  "hash": "02bf629ee54a65.131e184ed9924d"
  }
 }

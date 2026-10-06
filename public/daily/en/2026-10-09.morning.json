@@ -40,13 +40,13 @@
   }
  },
  "facts": {
-  "f4": {
+  "f2": {
    "kind": "measure",
    "value": 43000,
    "unit": "species",
    "surface": "43,000 species"
   },
-  "f13": {
+  "f10": {
    "kind": "measure",
    "value": 3000000000,
    "unit": "years",
@@ -67,7 +67,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f13",
+    "fact": "f10",
     "display": "3 billion years",
     "caption": "For about 3 billion years, most organisms were microscopic."
    },
@@ -94,7 +94,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f4",
+    "fact": "f2",
     "display": "43,000 species",
     "caption": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied."
    },
@@ -129,7 +129,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f4",
+    "fact": "f2",
     "display": "43,000 species",
     "caption": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied."
    },
@@ -155,11 +155,11 @@
    },
    {
     "type": "sentence",
-    "text": "The word bacteria is the plural of the Neo-Latin bacterium, which is the romanisation of the Ancient Greek βακτήριον, the diminutive of βακτηρία, meaning 'staff’ or 'cane', because the first ones to be discovered were rod-shaped."
+    "text": "For about 3 billion years, most organisms were microscopic, and bacteria and archaea were the dominant forms of life."
    },
    {
     "type": "sentence",
-    "text": "For about 3 billion years, most organisms were microscopic, and bacteria and archaea were the dominant forms of life."
+    "text": "The most recent common ancestor of bacteria and archaea was probably a hyperthermophile that lived about 2.5 billion–3.2 billion years ago."
    },
    {
     "type": "closing",
@@ -168,9 +168,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1d60ca29ae44c1.014e7ab78c0802"
+  "hash": "179916998b5235.06cb91f2498fbc"
  }
 }

@@ -51,26 +51,26 @@
    "unit": "m",
    "surface": "540 m"
   },
-  "f12": {
+  "f9": {
+   "kind": "date",
+   "value": "1590",
+   "surface": "1590"
+  },
+  "f10": {
    "kind": "date",
    "value": "1724",
    "surface": "1724"
   },
-  "f14": {
+  "f12": {
    "kind": "measure",
    "value": 88,
    "unit": "prozent",
    "surface": "88 Prozent"
   },
-  "f21": {
+  "f15": {
    "kind": "date",
    "value": "1947",
    "surface": "1947"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "1956",
-   "surface": "1956"
   }
  },
  "paces": {
@@ -87,13 +87,13 @@
    },
    {
     "type": "bignumber",
-    "fact": "f14",
+    "fact": "f12",
     "display": "88 Prozent",
     "caption": "Die Bevölkerung der Stadt war mehrheitlich muslimisch, während 88 Prozent der Staatsbevölkerung hinduistisch waren."
    },
    {
     "type": "closing",
-    "text": "Für eine Übergangsphase von zehn Jahren fungierte Hyderabad als gemeinsame Hauptstadt Telanganas und Andhra Pradeshs."
+    "text": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana."
    }
   ],
   "medium": [
@@ -122,16 +122,16 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f12",
+      "fact": "f9",
+      "label": "Hyderabad wurde 1590 von Muhammad Quli Qutb Shah, dem damaligen Herrscher des Qutb-Schāhī-Sultanats, gegründet."
+     },
+     {
+      "fact": "f10",
       "label": "Von 1724 bis 1948 war diese Hauptstadt des Fürstenstaates Hyderabad unter der Asaf-Jahi-Dynastie."
      },
      {
-      "fact": "f21",
+      "fact": "f15",
       "label": "Bei den kurzen Kämpfen und Auseinandersetzungen 1947/1948 starben zahlreiche Zivilisten."
-     },
-     {
-      "fact": "f24",
-      "label": "Durch den States Reorganisation Act kam Hyderabad 1956 zum Bundesstaat Andhra Pradesh."
      },
      {
       "fact": "f5",
@@ -145,7 +145,7 @@
    },
    {
     "type": "closing",
-    "text": "Für eine Übergangsphase von zehn Jahren fungierte Hyderabad als gemeinsame Hauptstadt Telanganas und Andhra Pradeshs."
+    "text": "Im Lal Bahadur Shastri Stadium fanden unter anderem Spiele bei den Women’s Cricket World Cups 1978 und 1997."
    }
   ],
   "deep": [
@@ -174,16 +174,16 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f12",
+      "fact": "f9",
+      "label": "Hyderabad wurde 1590 von Muhammad Quli Qutb Shah, dem damaligen Herrscher des Qutb-Schāhī-Sultanats, gegründet."
+     },
+     {
+      "fact": "f10",
       "label": "Von 1724 bis 1948 war diese Hauptstadt des Fürstenstaates Hyderabad unter der Asaf-Jahi-Dynastie."
      },
      {
-      "fact": "f21",
+      "fact": "f15",
       "label": "Bei den kurzen Kämpfen und Auseinandersetzungen 1947/1948 starben zahlreiche Zivilisten."
-     },
-     {
-      "fact": "f24",
-      "label": "Durch den States Reorganisation Act kam Hyderabad 1956 zum Bundesstaat Andhra Pradesh."
      },
      {
       "fact": "f5",
@@ -201,14 +201,6 @@
    },
    {
     "type": "sentence",
-    "text": "Das Stadtgebiet wuchs dadurch von 175 km² auf 650 km²."
-   },
-   {
-    "type": "sentence",
-    "text": "Die Bevölkerungsdichte beträgt 10.896 Einwohner pro Quadratkilometer."
-   },
-   {
-    "type": "sentence",
     "text": "Das Charminar ist ein monumental wirkender 56 Meter hoher Triumphbogen mit einer Moschee im Obergeschoss, die von vier Minaretten umstellt ist."
    },
    {
@@ -216,15 +208,23 @@
     "text": "Die Sommertemperaturen schwanken zwischen 18 und 43 Grad Celsius."
    },
    {
+    "type": "sentence",
+    "text": "Im August und September 2013 wurde das Gebiet der GHMC durch weitere Eingemeindungen auf eine Fläche von 922,66 km² erweitert."
+   },
+   {
+    "type": "sentence",
+    "text": "Vorläuferin der GHMC war die Hyderabad Municipal Corporation, die 1956 durch Zusammenschluss der Stadtverwaltungen von Hyderabad und Secunderabad entstanden war."
+   },
+   {
     "type": "closing",
-    "text": "Für eine Übergangsphase von zehn Jahren fungierte Hyderabad als gemeinsame Hauptstadt Telanganas und Andhra Pradeshs."
+    "text": "Hyderabad liegt im Zentrum der Dekkan-Hochebene am Fluss Musi."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "03c78808817ad4.0400b93b25fff4"
+  "hash": "1de6cfc70741bd.077a769d1b947e"
  }
 }

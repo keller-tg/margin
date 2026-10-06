@@ -40,27 +40,27 @@
   }
  },
  "facts": {
-  "f8": {
+  "f5": {
    "kind": "date",
    "value": "1781",
    "surface": "1781"
   },
-  "f29": {
+  "f21": {
    "kind": "date",
    "value": "1931",
    "surface": "1931"
   },
-  "f33": {
+  "f24": {
    "kind": "date",
    "value": "1954",
    "surface": "1954"
   },
-  "f35": {
+  "f26": {
    "kind": "date",
    "value": "1953",
    "surface": "1953"
   },
-  "f48": {
+  "f37": {
    "kind": "measure",
    "value": 2400000000,
    "unit": "m",
@@ -81,7 +81,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f48",
+    "fact": "f37",
     "display": "2.4 billion M",
     "caption": "The FOS data indicated a central black hole mass of 2.4 billion M☉."
    },
@@ -108,7 +108,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f48",
+    "fact": "f37",
     "display": "2.4 billion M",
     "caption": "The FOS data indicated a central black hole mass of 2.4 billion M☉, with 30% uncertainty."
    },
@@ -116,19 +116,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f8",
+      "fact": "f5",
       "label": "The French astronomer Charles Messier discovered M87 in 1781."
      },
      {
-      "fact": "f29",
+      "fact": "f21",
       "label": "In 1931, Hubble described M87 as a member of the Virgo Cluster."
      },
      {
-      "fact": "f35",
+      "fact": "f26",
       "label": "The source was confirmed to be M87 by 1953."
      },
      {
-      "fact": "f33",
+      "fact": "f24",
       "label": "M87 continued to be labelled as an extragalactic nebula at least until 1954."
      }
     ]
@@ -160,7 +160,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f48",
+    "fact": "f37",
     "display": "2.4 billion M",
     "caption": "The FOS data indicated a central black hole mass of 2.4 billion M☉, with 30% uncertainty."
    },
@@ -168,19 +168,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f8",
+      "fact": "f5",
       "label": "The French astronomer Charles Messier discovered M87 in 1781."
      },
      {
-      "fact": "f29",
+      "fact": "f21",
       "label": "In 1931, Hubble described M87 as a member of the Virgo Cluster."
      },
      {
-      "fact": "f35",
+      "fact": "f26",
       "label": "The source was confirmed to be M87 by 1953."
      },
      {
-      "fact": "f33",
+      "fact": "f24",
       "label": "M87 continued to be labelled as an extragalactic nebula at least until 1954."
      }
     ]
@@ -191,15 +191,7 @@
    },
    {
     "type": "sentence",
-    "text": "The galaxy can be observed using a small telescope with a 6 cm aperture, extending across an angular area of 7.2 × 6.8 arcminutes at a surface brightness of 12.9, with a very bright, 45 arcsecond core."
-   },
-   {
-    "type": "sentence",
-    "text": "During the 1880s, the object was included as NGC 4486 in the New General Catalogue of nebulae and star clusters assembled by the Danish-Irish astronomer John Dreyer, which he based primarily on the observations of the English astronomer John Herschel."
-   },
-   {
-    "type": "sentence",
-    "text": "Before 1991, astronomer Otto Struve was the only person known to have seen the jet visually, using the 254 cm Hooker telescope."
+    "text": "In January 1922, Russian astronomer Innokentii A. Balanowski discovered supernova SN 1919A on a photographic plate of M87 that had been taken on 22 February 1919."
    },
    {
     "type": "sentence",
@@ -207,7 +199,15 @@
    },
    {
     "type": "sentence",
-    "text": "In the modified Hubble sequence scheme for galaxy morphological classification by the French astronomer Gérard de Vaucouleurs, M87 is categorized as an E0p galaxy."
+    "text": "The galaxy can be observed using a small telescope with a 6 cm aperture, extending across an angular area of 7.2 × 6.8 arcminutes at a surface brightness of 12.9, with a very bright, 45 arcsecond core."
+   },
+   {
+    "type": "sentence",
+    "text": "Before 1991, astronomer Otto Struve was the only person known to have seen the jet visually, using the 254 cm Hooker telescope."
+   },
+   {
+    "type": "sentence",
+    "text": "Thus, M87 was the eighty-seventh object listed in Messier’s catalogue."
    },
    {
     "type": "closing",
@@ -216,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "13fb5364b59b11.1408fe42d8ba61"
+  "hash": "10e3124b7ee75f.11f1b70c01940d"
  }
 }

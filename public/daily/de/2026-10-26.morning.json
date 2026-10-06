@@ -40,25 +40,25 @@
   }
  },
  "facts": {
-  "f18": {
-   "kind": "date",
-   "value": "1924",
-   "surface": "1924"
-  },
-  "f22": {
-   "kind": "date",
-   "value": "1988",
-   "surface": "1988"
-  },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1999",
    "surface": "1999"
   },
-  "f39": {
+  "f27": {
+   "kind": "date",
+   "value": "1924",
+   "surface": "1924"
+  },
+  "f29": {
    "kind": "date",
    "value": "2008",
    "surface": "2008"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007"
   }
  },
  "paces": {
@@ -102,19 +102,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f18",
-      "label": "1924 erfolgte die Erstbeschreibung durch den Museumsleiter Henry Fairfield Osborn als Velociraptor mongoliensis."
+      "fact": "f27",
+      "label": "Bei der Erstbeschreibung im Jahr 1924 wurde Velociraptor in die Familie Megalosauridae gestellt."
      },
      {
-      "fact": "f22",
-      "label": "Zwischen 1988 und 1990 entdeckte ein chinesisch-kanadisches Team Überreste von Velociraptor in Nordchina."
-     },
-     {
-      "fact": "f25",
+      "fact": "f23",
       "label": "1999 entdeckte ein chinesisch-belgisches Team einen Oberkiefer und ein Tränenbein."
      },
      {
-      "fact": "f39",
+      "fact": "f30",
+      "label": "2007 wurden an einer Elle von Velociraptor Ansätze für zwölf Federkiele der Armschwingen nachgewiesen."
+     },
+     {
+      "fact": "f29",
       "label": "2008 fanden Paläontologen in der Bayan-Mahandu-Formation Zähne."
      }
     ]
@@ -152,19 +152,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f18",
-      "label": "1924 erfolgte die Erstbeschreibung durch den Museumsleiter Henry Fairfield Osborn als Velociraptor mongoliensis."
+      "fact": "f27",
+      "label": "Bei der Erstbeschreibung im Jahr 1924 wurde Velociraptor in die Familie Megalosauridae gestellt."
      },
      {
-      "fact": "f22",
-      "label": "Zwischen 1988 und 1990 entdeckte ein chinesisch-kanadisches Team Überreste von Velociraptor in Nordchina."
-     },
-     {
-      "fact": "f25",
+      "fact": "f23",
       "label": "1999 entdeckte ein chinesisch-belgisches Team einen Oberkiefer und ein Tränenbein."
      },
      {
-      "fact": "f39",
+      "fact": "f30",
+      "label": "2007 wurden an einer Elle von Velociraptor Ansätze für zwölf Federkiele der Armschwingen nachgewiesen."
+     },
+     {
+      "fact": "f29",
       "label": "2008 fanden Paläontologen in der Bayan-Mahandu-Formation Zähne."
      }
     ]
@@ -191,11 +191,11 @@
    },
    {
     "type": "sentence",
-    "text": "Velociraptor wird zur Unterfamilie Velociraptorinae gezählt, einer fortschrittlichen Untergruppe der Familie Dromaeosauridae."
+    "text": "Bislang noch nicht einer der beiden Arten zugeordnete Fundstücke von Velociraptor stammen auch aus der etwas jüngeren Barun-Goyot-Formation der Mongolei."
    },
    {
     "type": "sentence",
-    "text": "Bislang noch nicht einer der beiden Arten zugeordnete Fundstücke von Velociraptor stammen auch aus der etwas jüngeren Barun-Goyot-Formation der Mongolei."
+    "text": "Der vordere Abschnitt der Schnauze war leicht nach oben gebogen, was zu einer konkaven Schnauzenoberseite und einer konvexen Unterseite führte."
    },
    {
     "type": "closing",
@@ -204,9 +204,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "0cd63dbb1d9ed5.093454b90b5ecd"
+  "hash": "1dc53d0117cefb.0f246a7a2d3d5a"
  }
 }

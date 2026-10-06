@@ -40,31 +40,31 @@
   }
  },
  "facts": {
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1787",
    "surface": "1787"
   },
-  "f15": {
-   "kind": "date",
-   "value": "1794",
-   "surface": "1794"
-  },
-  "f25": {
-   "kind": "date",
-   "value": "1800",
-   "surface": "1800"
-  },
-  "f45": {
+  "f33": {
    "kind": "date",
    "value": "1805",
    "surface": "1805"
   },
-  "f72": {
+  "f35": {
+   "kind": "date",
+   "value": "1807",
+   "surface": "1807"
+  },
+  "f52": {
+   "kind": "date",
+   "value": "1806",
+   "surface": "1806"
+  },
+  "f82": {
    "kind": "measure",
-   "value": 19,
-   "unit": "jahre",
-   "surface": "19 Jahre"
+   "value": 65,
+   "unit": "jahren",
+   "surface": "65 Jahren"
   }
  },
  "paces": {
@@ -106,28 +106,28 @@
    },
    {
     "type": "bignumber",
-    "fact": "f72",
-    "display": "19 Jahre",
-    "caption": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche."
+    "fact": "f82",
+    "display": "65 Jahren",
+    "caption": "Friedrich starb mit 65 Jahren am 7. Mai 1840 in Dresden und wurde auf dem Trinitatisfriedhof beigesetzt."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f13",
+      "fact": "f9",
       "label": "Gegen die Eis-Variante spricht ein milder Dezemberanfang 1787."
      },
      {
-      "fact": "f15",
-      "label": "1794 begann Friedrich ein Studium an der Königlich Dänischen Kunstakademie in Kopenhagen."
-     },
-     {
-      "fact": "f25",
-      "label": "Ab 1800 beschäftigte Friedrich das Todes-Thema."
-     },
-     {
-      "fact": "f45",
+      "fact": "f33",
       "label": "Aus seiner offensichtlichen Lebenskrise heraus gelang Friedrich 1805 ein erster bedeutender künstlerischer Erfolg."
+     },
+     {
+      "fact": "f52",
+      "label": "Die Einführung der schwedischen Verfassung in Pommern war zwar 1806 geplant."
+     },
+     {
+      "fact": "f35",
+      "label": "1807 entstanden die ersten Ölbilder, die gegenüber den Sepien die gestalterischen Möglichkeiten erweiterten."
      }
     ]
    },
@@ -158,28 +158,28 @@
    },
    {
     "type": "bignumber",
-    "fact": "f72",
-    "display": "19 Jahre",
-    "caption": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche."
+    "fact": "f82",
+    "display": "65 Jahren",
+    "caption": "Friedrich starb mit 65 Jahren am 7. Mai 1840 in Dresden und wurde auf dem Trinitatisfriedhof beigesetzt."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f13",
+      "fact": "f9",
       "label": "Gegen die Eis-Variante spricht ein milder Dezemberanfang 1787."
      },
      {
-      "fact": "f15",
-      "label": "1794 begann Friedrich ein Studium an der Königlich Dänischen Kunstakademie in Kopenhagen."
-     },
-     {
-      "fact": "f25",
-      "label": "Ab 1800 beschäftigte Friedrich das Todes-Thema."
-     },
-     {
-      "fact": "f45",
+      "fact": "f33",
       "label": "Aus seiner offensichtlichen Lebenskrise heraus gelang Friedrich 1805 ein erster bedeutender künstlerischer Erfolg."
+     },
+     {
+      "fact": "f52",
+      "label": "Die Einführung der schwedischen Verfassung in Pommern war zwar 1806 geplant."
+     },
+     {
+      "fact": "f35",
+      "label": "1807 entstanden die ersten Ölbilder, die gegenüber den Sepien die gestalterischen Möglichkeiten erweiterten."
      }
     ]
    },
@@ -205,7 +205,7 @@
    },
    {
     "type": "sentence",
-    "text": "Caspar David wuchs in seinem Greifswalder Elternhaus in der Langen Gasse 28 auf."
+    "text": "Nach dem frühen Tod der Mutter war ihm seine Schwester Dorothea Mutterersatz, die Wirtschafterin «Mutter Heiden»führte den Haushalt."
    },
    {
     "type": "closing",
@@ -214,9 +214,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0aa834d6a21b7d.1bfebe63372b24"
+  "hash": "12ad80fb031dca.1c45caf2e55d97"
  }
 }

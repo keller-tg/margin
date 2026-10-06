@@ -40,25 +40,25 @@
   }
  },
  "facts": {
-  "f10": {
+  "f4": {
    "kind": "date",
    "value": "1759",
    "surface": "1759"
   },
-  "f11": {
+  "f5": {
    "kind": "date",
    "value": "1784",
    "surface": "1784"
   },
-  "f24": {
+  "f13": {
    "kind": "date",
    "value": "1790",
    "surface": "1790"
   },
-  "f34": {
+  "f26": {
    "kind": "date",
-   "value": "1792",
-   "surface": "1792"
+   "value": "1793",
+   "surface": "1793"
   }
  },
  "paces": {
@@ -71,11 +71,11 @@
    },
    {
     "type": "sentence",
-    "text": "Until the late twentieth century, Wollstonecraft’s life."
+    "text": "Wollstonecraft is regarded as one of the founding feminist philosophers."
    },
    {
     "type": "sentence",
-    "text": "Wollstonecraft is regarded as one of the founding feminist philosophers."
+    "text": "Wollstonecraft died at the age of 38, leaving behind several unfinished manuscripts."
    },
    {
     "type": "closing",
@@ -102,20 +102,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
+      "fact": "f4",
       "label": "Wollstonecraft was born on 27 April 1759 in Spitalfields, London."
      },
      {
-      "fact": "f11",
+      "fact": "f5",
       "label": "In a defining moment in 1784, she persuaded Eliza."
      },
      {
-      "fact": "f24",
+      "fact": "f13",
       "label": "Reflections on the Revolution in France was published on 1 November 1790."
      },
      {
-      "fact": "f34",
-      "label": "Wollstonecraft left for Paris in December 1792."
+      "fact": "f26",
+      "label": "France declared war on Britain in February 1793."
      }
     ]
    },
@@ -152,20 +152,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
+      "fact": "f4",
       "label": "Wollstonecraft was born on 27 April 1759 in Spitalfields, London."
      },
      {
-      "fact": "f11",
+      "fact": "f5",
       "label": "In a defining moment in 1784, she persuaded Eliza."
      },
      {
-      "fact": "f24",
+      "fact": "f13",
       "label": "Reflections on the Revolution in France was published on 1 November 1790."
      },
      {
-      "fact": "f34",
-      "label": "Wollstonecraft left for Paris in December 1792."
+      "fact": "f26",
+      "label": "France declared war on Britain in February 1793."
      }
     ]
    },
@@ -204,9 +204,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "19a51447a14131.15a61d013c5fd2"
+  "hash": "127d8e0ad35ab4.192f98e4f91eaf"
  }
 }

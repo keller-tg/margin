@@ -40,19 +40,19 @@
   }
  },
  "facts": {
-  "f7": {
+  "f5": {
    "kind": "measure",
    "value": 2000,
    "unit": "years",
    "surface": "2,000 years"
   },
-  "f45": {
+  "f28": {
    "kind": "measure",
    "value": 2000,
    "unit": "years",
    "surface": "2000 years"
   },
-  "f50": {
+  "f32": {
    "kind": "measure",
    "value": 100,
    "unit": "species",
@@ -69,11 +69,11 @@
    },
    {
     "type": "sentence",
-    "text": "Most existing lemurs are small, with a pointed snout, large eyes, and a long tail."
+    "text": "Lemurs are wet-nosed primates of the superfamily Lemuroidea."
    },
    {
     "type": "bignumber",
-    "fact": "f50",
+    "fact": "f32",
     "display": "100 species",
     "caption": "Most of the approximately 100 species and subspecies of lemur are either threatened or endangered."
    },
@@ -100,7 +100,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f45",
+    "fact": "f28",
     "display": "2000 years",
     "caption": "Before the arrival of humans roughly 1500 to 2000 years ago, lemurs were found all across the island."
    },
@@ -135,7 +135,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f7",
+    "fact": "f5",
     "display": "2,000 years",
     "caption": "Since the arrival of humans on the island around 2,000 years ago, over a dozen species of “giant lemurs” larger than living lemur species have become extinct, including the gorilla-sized Archaeoindris."
    },
@@ -153,15 +153,15 @@
    },
    {
     "type": "sentence",
-    "text": "All modern strepsirrhines including lemurs are traditionally thought to have evolved from early primates known as adapiforms during the Eocene or Paleocene."
-   },
-   {
-    "type": "sentence",
     "text": "Lemurs have adapted to fill many open ecological niches since making their way to Madagascar."
    },
    {
     "type": "sentence",
     "text": "Ranging in size from the 30 g Madame Berthe’s mouse lemur, the world’s smallest primate, to the recently extinct 160–200 kg Archaeoindris fontoynonti, lemurs evolved diverse forms of locomotion, varying levels of social complexity."
+   },
+   {
+    "type": "sentence",
+    "text": "Like other strepsirrhine primates, such as lorises, pottos, and galagos, they share ancestral traits with early primates."
    },
    {
     "type": "sentence",
@@ -174,9 +174,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c4458f28e750d.18419f5a46eb2b"
+  "hash": "044ff55db074a6.1f5596c6ce6b96"
  }
 }

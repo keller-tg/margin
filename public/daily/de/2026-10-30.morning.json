@@ -40,28 +40,23 @@
   }
  },
  "facts": {
-  "f118": {
-   "kind": "number",
-   "value": 100,
-   "surface": "100"
-  },
-  "f121": {
+  "f88": {
    "kind": "date",
    "value": "1522",
    "surface": "1522"
   },
-  "f126": {
+  "f93": {
    "kind": "measure",
    "value": 23,
    "unit": "jahren",
    "surface": "23 Jahren"
   },
-  "f139": {
+  "f104": {
    "kind": "date",
    "value": "1546",
    "surface": "1546"
   },
-  "f143": {
+  "f108": {
    "kind": "date",
    "value": "1966",
    "surface": "1966"
@@ -76,10 +71,8 @@
     "image": "img1"
    },
    {
-    "type": "bignumber",
-    "fact": "f118",
-    "display": "100",
-    "caption": "In den «100 gravamina nationis germanicae»."
+    "type": "sentence",
+    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
    },
    {
     "type": "image",
@@ -100,7 +93,7 @@
    },
    {
     "type": "sentence",
-    "text": "Da eine Stellungnahme Albrechts von Brandenburg ausblieb, gab Luther die Thesen an einige Bekannte weiter, darunter auch Wilhelm Nesen und Konrad Nesen."
+    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
    },
    {
     "type": "image",
@@ -109,7 +102,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f126",
+    "fact": "f93",
     "display": "23 Jahren",
     "caption": "Albrecht von Brandenburg wurde schon 1513 im Alter von 23 Jahren Erzbischof von Magdeburg und Administrator des Bistums Halberstadt."
    },
@@ -117,22 +110,22 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f121",
+      "fact": "f88",
       "label": "Die Beschwerden waren schon im Jahre 1522 dem Papst Hadrian VI. übersendet worden."
      },
      {
-      "fact": "f139",
+      "fact": "f104",
       "label": "Bis zu Luthers Tod 1546 ist vom Thesenanschlag in keiner reformatorischen Publikation die Rede."
      },
      {
-      "fact": "f143",
+      "fact": "f108",
       "label": "Gerhard Prause fasste 1966 in seinem Buch Niemand hat Kolumbus ausgelacht."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
+    "text": "Zudem findet sich eine Handschrift mit einer Teilübersetzung in der Universitätsbibliothek Eichstätt, zwischen 1518 und 1525 geschrieben."
    },
    {
     "type": "closing",
@@ -148,7 +141,7 @@
    },
    {
     "type": "sentence",
-    "text": "Da eine Stellungnahme Albrechts von Brandenburg ausblieb, gab Luther die Thesen an einige Bekannte weiter, darunter auch Wilhelm Nesen und Konrad Nesen."
+    "text": "Die Historizität des Thesenanschlags, bei dem Luther seine 95 Thesen am Mittwoch, dem 31. Oktober 1517, eigenhändig an die Tür der Schlosskirche in Wittenberg genagelt haben soll, ist umstritten."
    },
    {
     "type": "image",
@@ -157,7 +150,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f126",
+    "fact": "f93",
     "display": "23 Jahren",
     "caption": "Albrecht von Brandenburg wurde schon 1513 im Alter von 23 Jahren Erzbischof von Magdeburg und Administrator des Bistums Halberstadt."
    },
@@ -165,34 +158,22 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f121",
+      "fact": "f88",
       "label": "Die Beschwerden waren schon im Jahre 1522 dem Papst Hadrian VI. übersendet worden."
      },
      {
-      "fact": "f139",
+      "fact": "f104",
       "label": "Bis zu Luthers Tod 1546 ist vom Thesenanschlag in keiner reformatorischen Publikation die Rede."
      },
      {
-      "fact": "f143",
+      "fact": "f108",
       "label": "Gerhard Prause fasste 1966 in seinem Buch Niemand hat Kolumbus ausgelacht."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Ab der These Nr. 21 bildet der Ablasshandel den Schwerpunkt seiner Ausführungen."
-   },
-   {
-    "type": "sentence",
     "text": "Ein offenbar von Luther selbst beauftragter Einblattdruck des lateinischen Textes erschien bereits 1517 bei Jacob Thanner in Leipzig."
-   },
-   {
-    "type": "sentence",
-    "text": "Obzwar der Leipziger Drucker Jacob Thanner die Thesen mit arabischen Ziffern durchnummerierte, irrte er sich dabei aber wiederholt, so stand vor der 24. These die Ziffer 42, nach der 26. These wurde mit 17 weitergezählt."
-   },
-   {
-    "type": "sentence",
-    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
    },
    {
     "type": "sentence",
@@ -203,15 +184,27 @@
     "text": "Weder ist Luthers Handschrift der Thesen noch ein Wittenberger Druck überliefert."
    },
    {
+    "type": "sentence",
+    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
+   },
+   {
+    "type": "sentence",
+    "text": "Vermutlich noch vor Weihnachten 1517 übersetzte der Nürnberger Kaspar Nützel Luthers 95 Thesen ins Deutsche, wie in einem Brief Christoph Scheurls vom 8. Januar 1518 erwähnt ist."
+   },
+   {
+    "type": "sentence",
+    "text": "Zudem findet sich eine Handschrift mit einer Teilübersetzung in der Universitätsbibliothek Eichstätt, zwischen 1518 und 1525 geschrieben."
+   },
+   {
     "type": "closing",
-    "text": "Die Historizität des Thesenanschlags, bei dem Luther seine 95 Thesen am Mittwoch, dem 31. Oktober 1517, eigenhändig an die Tür der Schlosskirche in Wittenberg genagelt haben soll, ist umstritten."
+    "text": "Gegen Ende des Jubiläumsjahres publizierten die Historiker Benjamin Hasselhorn und Mirko Gutjahr, beide wissenschaftliche Mitarbeiter der Stiftung Luthergedenkstätten, ein offensives Plädoyer für die Historizität des Thesenanschlags, worin sie auch traditionelle Darstellungselemente wie den legendären Hammer als historische Tatsachen verteidigten."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.68,
  "verified": {
   "version": 1,
-  "hash": "141114651fca2c.00eed08a8a62b6"
+  "hash": "1952ab1e333659.102051b6185e9c"
  }
 }

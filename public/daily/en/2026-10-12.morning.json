@@ -40,27 +40,27 @@
   }
  },
  "facts": {
-  "f35": {
+  "f21": {
    "kind": "date",
    "value": "1831",
    "surface": "1831"
   },
-  "f46": {
+  "f29": {
    "kind": "date",
    "value": "1836",
    "surface": "1836"
   },
-  "f72": {
+  "f55": {
    "kind": "date",
    "value": "1839",
    "surface": "1839"
   },
-  "f79": {
+  "f62": {
    "kind": "date",
    "value": "1842",
    "surface": "1842"
   },
-  "f100": {
+  "f83": {
    "kind": "number",
    "value": 1250,
    "surface": "1,250"
@@ -108,19 +108,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f35",
+      "fact": "f21",
       "label": "Darwin had to stay at Cambridge until June 1831."
      },
      {
-      "fact": "f46",
+      "fact": "f29",
       "label": "On 2 October 1836, Beagle anchored at Falmouth, Cornwall."
      },
      {
-      "fact": "f72",
+      "fact": "f55",
       "label": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society."
      },
      {
-      "fact": "f79",
+      "fact": "f62",
       "label": "Early in 1842, Darwin wrote about his ideas to Charles Lyell."
      }
     ]
@@ -131,7 +131,7 @@
    },
    {
     "type": "sentence",
-    "text": "Darwin’s early interest in nature led him to neglect his medical education at the University of Edinburgh."
+    "text": "Charles Robert Darwin was born on 12 February 1809 at his family’s home, The Mount, in Shrewsbury, Shropshire."
    },
    {
     "type": "closing",
@@ -156,7 +156,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f100",
+    "fact": "f83",
     "display": "1,250",
     "caption": "On the Origin of Species proved unexpectedly popular, with the entire stock of 1,250 copies oversubscribed when it went on sale to booksellers on 22 November 1859."
    },
@@ -164,19 +164,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f35",
+      "fact": "f21",
       "label": "Darwin had to stay at Cambridge until June 1831."
      },
      {
-      "fact": "f46",
+      "fact": "f29",
       "label": "On 2 October 1836, Beagle anchored at Falmouth, Cornwall."
      },
      {
-      "fact": "f72",
+      "fact": "f55",
       "label": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society."
      },
      {
-      "fact": "f79",
+      "fact": "f62",
       "label": "Early in 1842, Darwin wrote about his ideas to Charles Lyell."
      }
     ]
@@ -212,9 +212,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.92,
  "verified": {
   "version": 1,
-  "hash": "0534147f4354b1.01b696f1bacc30"
+  "hash": "1a117bf3e845d0.0e65643f30c0b3"
  }
 }

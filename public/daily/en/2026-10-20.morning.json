@@ -50,24 +50,24 @@
    "value": "1816",
    "surface": "1816"
   },
-  "f32": {
+  "f16": {
    "kind": "measure",
    "value": 10800000,
    "unit": "years",
    "surface": "10.8 million years"
   },
-  "f33": {
+  "f17": {
    "kind": "measure",
    "value": 2100000,
    "unit": "years",
    "surface": "2.1 million years"
   },
-  "f82": {
+  "f52": {
    "kind": "date",
    "value": "2007",
    "surface": "2007"
   },
-  "f172": {
+  "f114": {
    "kind": "date",
    "value": "2025",
    "surface": "2025"
@@ -83,11 +83,11 @@
    },
    {
     "type": "sentence",
-    "text": "The lion inhabits grasslands, savannahs, and shrublands."
+    "text": "The lion is a large cat of the genus Panthera."
    },
    {
     "type": "bignumber",
-    "fact": "f33",
+    "fact": "f17",
     "display": "2.1 million years",
     "caption": "Hybridisation between lion and snow leopard ancestors possibly continued until about 2.1 million years ago."
    },
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f32",
+    "fact": "f16",
     "display": "10.8 million years",
     "caption": "The Panthera lineage is estimated to have genetically diverged from the common ancestor of the Felidae around 10.8 million years ago."
    },
@@ -130,11 +130,11 @@
       "label": "The genus name Panthera was coined by Lorenz Oken in 1816."
      },
      {
-      "fact": "f82",
+      "fact": "f52",
       "label": "Nevertheless, 17 births have been recorded in five prides between 2007 and 2015."
      },
      {
-      "fact": "f172",
+      "fact": "f114",
       "label": "A 2025 study identified four stages in a roaring sequence: moaning, full-roaring, intermediary roaring."
      }
     ]
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f32",
+    "fact": "f16",
     "display": "10.8 million years",
     "caption": "The Panthera lineage is estimated to have genetically diverged from the common ancestor of the Felidae around 10.8 million years ago."
    },
@@ -182,18 +182,14 @@
       "label": "The genus name Panthera was coined by Lorenz Oken in 1816."
      },
      {
-      "fact": "f82",
+      "fact": "f52",
       "label": "Nevertheless, 17 births have been recorded in five prides between 2007 and 2015."
      },
      {
-      "fact": "f172",
+      "fact": "f114",
       "label": "A 2025 study identified four stages in a roaring sequence: moaning, full-roaring, intermediary roaring."
      }
     ]
-   },
-   {
-    "type": "sentence",
-    "text": "The generic name Panthera is traceable to the classical Latin word 'panthēra’ and the ancient Greek word πάνθηρ 'panther'."
    },
    {
     "type": "sentence",
@@ -213,7 +209,11 @@
    },
    {
     "type": "sentence",
-    "text": "The tail of all lions ends in a dark, hairy tuft that, in some lions, conceals an approximately 5 mm-long, hard “spine” or “spur” composed of dermal papillae."
+    "text": "The English word lion is derived via Anglo-Norman liun from Latin leōnem, which in turn was a borrowing from ancient Greek λέων léōn."
+   },
+   {
+    "type": "sentence",
+    "text": "The fur varies in colour from light buff to silvery grey, yellowish red, and dark brown."
    },
    {
     "type": "closing",
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.95,
  "verified": {
   "version": 1,
-  "hash": "1e3d82d661e82a.00ce05682b997b"
+  "hash": "03071d2611f5fb.0390497787a9a2"
  }
 }

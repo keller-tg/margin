@@ -28,6 +28,7 @@ export function cleanSentence(raw: string): string | null {
   if (/[()[\]{}]|==|\|/.test(s)) return null; // leftovers of markup or unbalanced brackets
   if (/\p{L}-\s(?!(und|oder|bzw|sowie|and|or|et|ou)\b)/u.test(s)) return null; // "Hopewell- folgte": a compound broken by a removed parenthetical
   if ((s.match(/(^|\s)\p{L}\.(?=\s)/gu) ?? []).length >= 3) return null; // "P. l. persica, P. l. kamptzi": lists of abbreviations
+  if (/^\d{3,4}(\s*[-–]\s*\d{2,4})?\s*:/.test(s)) return null; // "1506-1516 : curé de Glaris." — a chronology item
   if (!/[.!?…]$/.test(s)) return null;
   if (countWords(s) < 4) return null;
   return s;
@@ -81,12 +82,26 @@ export function fitToWords(s: string, max: number, lang: Lang): { text: string; 
     const words = countWords(head);
     const lastSeg = head.split(/,\s*/).pop() ?? '';
     const openRelative = /^(whose|which|who|whom|where|that|dont|qui|où|lequel|laquelle|welche[rsn]?|deren|dessen|wo)\b/i.test(lastSeg) && head.includes(',');
-    const fragment = lacksSubject(head + '.', lang); // the cut must keep the subject ("Placed on sale…, the X was…")
+    // the cut must keep the subject ("Placed on sale…, the X was…") and a main clause
+    // ("Mary Wollstonecraft, née le …, un quartier du Grand Londres." has neither verb nor copula)
+    const nameThenAppositive = /^[^,]{2,40}, (née?|born|geboren|geb\.|un|une|a|an|ein|eine)(?=\s)/iu.test(head) && !COPULA[lang].test(head);
+    const fragment = lacksSubject(head + '.', lang) || nameThenAppositive || !hasFiniteVerb(head, lang);
     if (words <= max && words >= 5 && !openRelative && !fragment && !/\b(the|a|an|of|der|die|das|des|le|la|les|de|du)$/i.test(head)) {
       return { text: head.replace(/[,;:–—\s]+$/, '') + '.', truncated: true };
     }
   }
   return null;
+}
+
+const B = (alts: string) => new RegExp(`(?<![\\p{L}’'])(${alts})(?![\\p{L}])`, 'u');
+// Rough finite-verb signals; used only to refuse clause cuts that leave no verb behind.
+const FINITE_VERB: Record<Lang, RegExp> = {
+  en: B('is|are|was|were|has|have|had|can|could|will|would|may|might|does|did|became|becomes|remains|lies|lives|grows|\\p{Ll}{2,}ed|\\p{Ll}{3,}s'),
+  de: B('ist|sind|war|waren|hat|haben|hatte|hatten|wird|werden|wurde|wurden|kann|können|lebt|liegt|gilt|\\p{Ll}{2,}t|\\p{Ll}{2,}en'),
+  fr: B('est|sont|était|étaient|a|ont|avait|fut|sera|peut|vit|\\p{Ll}{2,}(e|es|ent|ait|aient|it|ut)'),
+};
+export function hasFiniteVerb(s: string, lang: Lang): boolean {
+  return FINITE_VERB[lang].test(s);
 }
 
 /** "order of cephalopods" → "Order of cephalopods" (descriptions are lower-case by convention). */
@@ -102,14 +117,14 @@ export function capitalizeFirst(s: string): string {
 export function proseForSplitting(text: string): string {
   return text
     .split('\n')
-    .map((para) => tidy(dropParentheticals(para)).replace(/(["“„«])\s+/g, '$1').replace(/\s+(["”“»])(?=[\s.,;:]|$)/g, '$1'))
+    .map((para) => tidy(dropParentheticals(para)).replace(/"\s*([^"\n]*?)\s*"/g, '"$1"'))
     .filter(Boolean)
     .join('\n');
 }
 
 const ETYMOLOGY: Record<Lang, RegExp> = {
   en: /\b(etymolog\w*|derives? from|derived from|the name\b.*\b(comes|derives|means)|(ancient )?greek|latin)\b.*\b(meaning|for|word)\b|\bnamed after\b|\bthe (genus|species|word|term) name\b/i,
-  de: /\b(etymolog\w*|leitet sich|abgeleitet|griechisch|lateinisch|altgriechisch)\b|\bder name\b.*\b(bedeutet|stammt)\b|\bbenannt nach\b/i,
+  de: /\b(etymolog\w*|leitet sich|abgeleitet|griechisch|lateinisch|altgriechisch|arabischen|transkription)\b|\bder name\b.*\b(bedeutet|stammt)\b|\bbenannt nach\b/i,
   fr: /\b(étymolog\w*|vient du|dérivé du|provient du|grec ancien|du latin|du grec)\b|\ble nom\b.*\b(signifie|vient)\b|\bnommée? d'après\b/i,
 };
 
@@ -120,14 +135,18 @@ export function isEtymology(s: string, lang: Lang): boolean {
 
 const COPULA: Record<Lang, RegExp> = {
   en: /\b(is|are|was|were)\b/i,
-  de: /\b(ist|sind|war|waren|bezeichnet|bildet|gehört)\b/i,
-  fr: /\b(est|sont|était|étaient|désigne|constitue)\b/i,
+  de: /\b(ist|sind|war|waren|bezeichnet|bezeichnen|bildet|bilden|gehört|gehören|zählt|zählen)\b/i,
+  fr: /\b(est|sont|était|étaient|fut|désigne|désignent|constitue|constituent|forme|forment)\b/i,
 };
+
+const fold = (x: string) => x.toLowerCase().replace(/ß/g, 'ss').normalize('NFC');
 
 /** Says what the thing is: names the topic and uses a copula ("Archaeopteryx … is an extinct genus…"). */
 export function isDefinition(s: string, lang: Lang, topic: string): boolean {
-  const head = topic.replace(/\s*\(.*\)$/, '').split(/\s+/)[0]!.toLowerCase().slice(0, 5);
-  return s.toLowerCase().includes(head) && COPULA[lang].test(s);
+  // any word of the title may be the subject ("Wollstonecraft is…" for "Mary Wollstonecraft")
+  const heads = fold(topic.replace(/\s*\([^)]*\)\s*/g, ' ')).split(/[\s-]+/).filter((w) => w.length >= 3).map((w) => w.slice(0, 5));
+  const text = fold(s);
+  return heads.some((h) => text.includes(h)) && COPULA[lang].test(s);
 }
 
 /** "X, sometimes referred to as Y, is Z." → "X is Z." (drops one appositive between subject and copula). */
@@ -159,4 +178,33 @@ export function lacksSubject(s: string, lang: Lang): boolean {
   if (comma < 0) return true;
   const rest = s.slice(comma + 2).trim();
   return SUBJECT_PRONOUN[lang].test(rest) || !/^[\p{L}]/u.test(rest);
+}
+
+/**
+ * A long definition cut right after its predicate: "X est un peintre allemand, considéré comme…" →
+ * "X est un peintre allemand." The head must keep the copula and at least two words after it.
+ */
+export function cutDefinition(s: string, lang: Lang, max: number): string | null {
+  const m = COPULA[lang].exec(s);
+  if (!m) return null;
+  const after = m.index + m[0].length;
+  const rest = s.slice(after);
+  const stop = rest.search(/,\s|;\s|\s[–—]\s/);
+  if (stop < 0) return null;
+  const head = tidy(s.slice(0, after + stop)).replace(/[,;:–—\s]+$/, '');
+  const words = countWords(head);
+  if (words > max || words < 4 || countWords(rest.slice(0, stop)) < 2) return null;
+  return head + '.';
+}
+
+/** The predicate of a definition, as a title line: "Le sel alimentaire est un condiment…" → "Un condiment…". */
+export function definitionComplement(s: string, lang: Lang, maxWords = 12): string | null {
+  const m = COPULA[lang].exec(s);
+  if (!m) return null;
+  let rest = s.slice(m.index + m[0].length).trim();
+  const stop = rest.search(/,\s|;\s|\s[–—]\s|\.$/);
+  if (stop > 0) rest = rest.slice(0, stop);
+  rest = rest.replace(/[.,;:\s]+$/, '');
+  const words = countWords(rest);
+  return words >= 2 && words <= maxWords ? capitalizeFirst(rest) : null;
 }

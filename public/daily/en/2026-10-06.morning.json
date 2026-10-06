@@ -40,17 +40,17 @@
   }
  },
  "facts": {
-  "f14": {
+  "f10": {
    "kind": "date",
    "value": "1798",
    "surface": "1798"
   },
-  "f29": {
+  "f24": {
    "kind": "date",
    "value": "1820",
    "surface": "1820"
   },
-  "f60": {
+  "f42": {
    "kind": "date",
    "value": "1826",
    "surface": "1826"
@@ -66,16 +66,15 @@
    },
    {
     "type": "sentence",
+    "text": "Caspar David Friedrich was a German Romantic landscape painter."
+   },
+   {
+    "type": "sentence",
     "text": "Art historian Christopher John Murray described their presence, in diminished perspective, amid expansive landscapes."
    },
    {
-    "type": "image",
-    "image": "img1",
-    "caption": "Caspar David Friedrich"
-   },
-   {
     "type": "closing",
-    "text": "The rise of Nazism in the early 1930s saw a resurgence in Friedrich’s popularity."
+    "text": "Moved by the deaths of three friends killed in battle against France."
    }
   ],
   "medium": [
@@ -87,7 +86,7 @@
    },
    {
     "type": "sentence",
-    "text": "Friedrich’s paintings often set contemplative human figures silhouetted against night skies, morning mists, barren trees or Gothic ruins."
+    "text": "Caspar David Friedrich was a German Romantic landscape painter."
    },
    {
     "type": "image",
@@ -98,30 +97,30 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f14",
+      "fact": "f10",
       "label": "Friedrich settled permanently in Dresden in 1798."
      },
      {
-      "fact": "f29",
+      "fact": "f24",
       "label": "The couple had three children, with their first, Emma, arriving in 1820."
      },
      {
-      "fact": "f60",
+      "fact": "f42",
       "label": "From 1826, these motifs became a permanent feature of his output."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Art historian Christopher John Murray described their presence, in diminished perspective, amid expansive landscapes."
+    "text": "Friedrich’s paintings often set contemplative human figures silhouetted against night skies, morning mists, barren trees or Gothic ruins."
    },
    {
     "type": "sentence",
-    "text": "Friedrich was born in the town of Greifswald on the Baltic Sea in what was at the time Swedish Pomerania."
+    "text": "Art historian Christopher John Murray described their presence, in diminished perspective, amid expansive landscapes."
    },
    {
     "type": "closing",
-    "text": "The rise of Nazism in the early 1930s saw a resurgence in Friedrich’s popularity."
+    "text": "The early 20th century brought a renewed appreciation of his art, beginning in 1906 with an exhibition of thirty-two of his paintings in Berlin."
    }
   ],
   "deep": [
@@ -144,15 +143,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f14",
+      "fact": "f10",
       "label": "Friedrich settled permanently in Dresden in 1798."
      },
      {
-      "fact": "f29",
+      "fact": "f24",
       "label": "The couple had three children, with their first, Emma, arriving in 1820."
      },
      {
-      "fact": "f60",
+      "fact": "f42",
       "label": "From 1826, these motifs became a permanent feature of his output."
      }
     ]
@@ -192,9 +191,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1543d14f7ca825.0ff78a69543745"
+  "hash": "0d46b94080240e.1358e06e681a6c"
  }
 }

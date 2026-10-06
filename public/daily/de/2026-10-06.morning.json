@@ -40,34 +40,34 @@
   }
  },
  "facts": {
-  "f13": {
+  "f12": {
    "kind": "measure",
    "value": 213.47,
    "unit": "km²",
    "surface": "213,47 km²"
   },
-  "f17": {
+  "f15": {
    "kind": "measure",
    "value": 750,
    "unit": "meter",
    "surface": "750 Meter"
   },
-  "f42": {
+  "f36": {
    "kind": "date",
    "value": "1994",
    "surface": "1994"
   },
-  "f48": {
+  "f42": {
    "kind": "date",
    "value": "1988",
    "surface": "1988"
   },
-  "f63": {
+  "f53": {
    "kind": "date",
    "value": "1640",
    "surface": "1640"
   },
-  "f70": {
+  "f60": {
    "kind": "date",
    "value": "1818",
    "surface": "1818"
@@ -87,7 +87,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
+    "fact": "f15",
     "display": "750 Meter",
     "caption": "Das Stadtzentrum 750 Meter landeinwärts liegt bereits 25 Meter über dem Seespiegel."
    },
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
+    "fact": "f15",
     "display": "750 Meter",
     "caption": "Das Stadtzentrum 750 Meter landeinwärts liegt bereits 25 Meter über dem Seespiegel."
    },
@@ -122,19 +122,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f63",
+      "fact": "f53",
       "label": "So ist zwischen 1640 und 1740 gar keine Siedlungstätigkeit zu verzeichnen."
      },
      {
-      "fact": "f70",
+      "fact": "f60",
       "label": "1818 wurden die ersten zwei Zeitungen gegründet."
      },
      {
-      "fact": "f48",
+      "fact": "f42",
       "label": "Die höchste Temperatur wurde am 25. Juni 1988 mit 40 °C gemessen."
      },
      {
-      "fact": "f42",
+      "fact": "f36",
       "label": "Die bisher niedrigste Temperatur wurde am 19. Januar 1994 mit −28,8 °C gemessen."
      }
     ]
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f13",
+    "fact": "f12",
     "display": "213,47 km²",
     "caption": "Das Stadtgebiet ist 213,47 km² gross und erstreckt sich mit einer Unterbrechung durch die Gemeinde Bratenahl über 22,5 Kilometer entlang des Seeufers sowie unregelmässig bis zu 14,5 Kilometer tief ins Landesinnere."
    },
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f63",
+      "fact": "f53",
       "label": "So ist zwischen 1640 und 1740 gar keine Siedlungstätigkeit zu verzeichnen."
      },
      {
-      "fact": "f70",
+      "fact": "f60",
       "label": "1818 wurden die ersten zwei Zeitungen gegründet."
      },
      {
-      "fact": "f48",
+      "fact": "f42",
       "label": "Die höchste Temperatur wurde am 25. Juni 1988 mit 40 °C gemessen."
      },
      {
-      "fact": "f42",
+      "fact": "f36",
       "label": "Die bisher niedrigste Temperatur wurde am 19. Januar 1994 mit −28,8 °C gemessen."
      }
     ]
@@ -201,19 +201,19 @@
    },
    {
     "type": "sentence",
-    "text": "Die Gruppen, wohl Grossfamilien, lebten zunächst nomadisch, ab der mittleren Archaischen Periode nach 4500 v. Chr. wurden sie zunehmend sesshaft."
-   },
-   {
-    "type": "sentence",
-    "text": "Eine grössere Siedlung bestand im äussersten Westen Clevelands, dort wo der Hilliard Boulevard den Rocky River überquert."
-   },
-   {
-    "type": "sentence",
     "text": "Der zugehörige Bezirk, das Cuyahoga County, umgibt die Stadt gleichmässig von allen drei Seiten und bildet zusammen mit vier der fünf angrenzenden Countys das Cleveland-Elyria-Mentor Metropolitan Statistical Area, umgangssprachlich Greater Cleveland genannt."
    },
    {
     "type": "sentence",
-    "text": "Erstmals sind abgrenzbare Territorien nachweisbar, innerhalb derer saisonale Wanderungen inzwischen angewachsener und sozial stärker differenzierter Gruppen stattfanden."
+    "text": "Die Gruppen, wohl Grossfamilien, lebten zunächst nomadisch, ab der mittleren Archaischen Periode nach 4500 v. Chr. wurden sie zunehmend sesshaft."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Stadtzentrum 750 Meter landeinwärts liegt bereits 25 Meter über dem Seespiegel."
+   },
+   {
+    "type": "sentence",
+    "text": "Wirtschaftsgeographisch gesehen liegt Cleveland inmitten des Rust Belt und früheren Manufacturing Belt, des dicht besiedelten, ersten Industriegebiets der USA, dessen einstige Zentren heute vielfach vom Niedergang der Schwerindustrie gekennzeichnet sind."
    },
    {
     "type": "closing",
@@ -225,6 +225,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1e596b50391467.007aa1905369de"
+  "hash": "0a9474f8acfcd0.09a7dfbddf42ca"
  }
 }

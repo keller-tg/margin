@@ -51,23 +51,23 @@
    "unit": "ans",
    "surface": "20 ans"
   },
-  "f36": {
+  "f34": {
    "kind": "date",
    "value": "1978",
    "surface": "1978"
   },
-  "f43": {
+  "f41": {
    "kind": "date",
    "value": "2008",
    "surface": "2008"
   },
-  "f44": {
+  "f42": {
    "kind": "measure",
    "value": 76,
    "unit": "ans",
    "surface": "76 ans"
   },
-  "f47": {
+  "f45": {
    "kind": "date",
    "value": "1990",
    "surface": "1990"
@@ -82,15 +82,14 @@
     "image": "img1"
    },
    {
-    "type": "bignumber",
-    "fact": "f44",
-    "display": "76 ans",
-    "caption": "Le 9 novembre 2008, à 76 ans."
+    "type": "sentence",
+    "text": "Miriam Makeba est une chanteuse d’ethno-jazz et une militante politique sud-africaine."
    },
    {
-    "type": "image",
-    "image": "img1",
-    "caption": "Miriam Makeba"
+    "type": "bignumber",
+    "fact": "f42",
+    "display": "76 ans",
+    "caption": "Le 9 novembre 2008, à 76 ans."
    },
    {
     "type": "closing",
@@ -106,7 +105,7 @@
    },
    {
     "type": "sentence",
-    "text": "Contrainte à l’exil pendant une trentaine d’années, elle parcourt le monde et multiplie les succès musicaux."
+    "text": "Miriam Makeba est une chanteuse d’ethno-jazz et une militante politique sud-africaine, naturalisée guinéenne dans les années 1960, puis algérienne en 1972."
    },
    {
     "type": "image",
@@ -127,22 +126,22 @@
       "label": "Makeba épouse James Kubay en 1950."
      },
      {
-      "fact": "f36",
+      "fact": "f34",
       "label": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
      },
      {
-      "fact": "f47",
+      "fact": "f45",
       "label": "En 1990, Nelson Mandela la persuade de rentrer en Afrique du Sud."
      },
      {
-      "fact": "f43",
+      "fact": "f41",
       "label": "Le 9 novembre 2008, à 76 ans."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Zenzile Makeba Qgwashu Nguvama, dite Miriam Makeba, naît le 4 mars 1932, dans un township de Johannesbourg."
+    "text": "Contrainte à l’exil pendant une trentaine d’années, elle parcourt le monde et multiplie les succès musicaux."
    },
    {
     "type": "closing",
@@ -179,15 +178,15 @@
       "label": "Makeba épouse James Kubay en 1950."
      },
      {
-      "fact": "f36",
+      "fact": "f34",
       "label": "En 1978, lors des Jeux panafricains d’Alger, elle interprète en arabe la chanson Ifriqyia."
      },
      {
-      "fact": "f47",
+      "fact": "f45",
       "label": "En 1990, Nelson Mandela la persuade de rentrer en Afrique du Sud."
      },
      {
-      "fact": "f43",
+      "fact": "f41",
       "label": "Le 9 novembre 2008, à 76 ans."
      }
     ]
@@ -198,11 +197,11 @@
    },
    {
     "type": "sentence",
-    "text": "Le collège Miriam-Makeba de Lille-Moulins à Lille fut inauguré en septembre 2018, le collège Miriam-Makeba à Aubervilliers en Seine-Saint-Denis et le groupe scolaire Miriam-Makeba à Châlette-sur-Loing dans le Loiret en septembre 2019."
+    "text": "En 1948, les nationalistes afrikaners gagnent les élections et mettent en place le régime de l’apartheid."
    },
    {
     "type": "sentence",
-    "text": "En 1948, les nationalistes afrikaners gagnent les élections et mettent en place le régime de l’apartheid."
+    "text": "Le collège Miriam-Makeba de Lille-Moulins à Lille fut inauguré en septembre 2018, le collège Miriam-Makeba à Aubervilliers en Seine-Saint-Denis et le groupe scolaire Miriam-Makeba à Châlette-sur-Loing dans le Loiret en septembre 2019."
    },
    {
     "type": "sentence",
@@ -210,11 +209,11 @@
    },
    {
     "type": "sentence",
-    "text": "Le navire océanographique sud-africain S.A. Agulhas II porte une dédicace à la chanteuse sur sa timonerie."
+    "text": "Prénommée « Zenzi », diminutif d’Uzenzile, qui signifie « tu ne peux t’en prendre qu’à toi-même », elle n’a que quelques jours lorsque sa mère est emprisonnée."
    },
    {
     "type": "sentence",
-    "text": "Prénommée « Zenzi », diminutif d’Uzenzile, qui signifie « tu ne peux t’en prendre qu’à toi-même », elle n’a que quelques jours lorsque sa mère est emprisonnée."
+    "text": "La version la plus connue a été effectuée sous la direction de Jerry Ragovoy en 1967."
    },
    {
     "type": "closing",
@@ -223,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "16b21f1ce46c86.1e18a14e9902d9"
+  "hash": "0575607e257d0a.16c2effdc9e1a4"
  }
 }

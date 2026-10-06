@@ -52,27 +52,27 @@
    "unit": "km",
    "surface": "120 km"
   },
-  "f37": {
+  "f36": {
    "kind": "date",
    "value": "2026",
    "surface": "2026"
   },
-  "f46": {
+  "f45": {
    "kind": "date",
    "value": "1902",
    "surface": "1902"
   },
-  "f47": {
+  "f46": {
    "kind": "date",
    "value": "1921",
    "surface": "1921"
   },
-  "f50": {
+  "f49": {
    "kind": "date",
    "value": "1922",
    "surface": "1922"
   },
-  "f51": {
+  "f50": {
    "kind": "measure",
    "value": 25,
    "unit": "%",
@@ -93,7 +93,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f51",
+    "fact": "f50",
     "display": "25 %",
     "caption": "La base de prélèvement est alors de 25 % supérieur au débit annuel moyen."
    },
@@ -128,19 +128,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f46",
+      "fact": "f45",
       "label": "En 1902, Theodore Roosevelt fonde le Bureau of Reclamation."
      },
      {
-      "fact": "f47",
+      "fact": "f46",
       "label": "En 1921, la Grand River devient officiellement le fleuve Colorado."
      },
      {
-      "fact": "f50",
+      "fact": "f49",
       "label": "En 1922, le Colorado River Compact est négocié entre sept États américains."
      },
      {
-      "fact": "f37",
+      "fact": "f36",
       "label": "La sécheresse est notamment critique à l’été 2026."
      }
     ]
@@ -180,19 +180,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f46",
+      "fact": "f45",
       "label": "En 1902, Theodore Roosevelt fonde le Bureau of Reclamation."
      },
      {
-      "fact": "f47",
+      "fact": "f46",
       "label": "En 1921, la Grand River devient officiellement le fleuve Colorado."
      },
      {
-      "fact": "f50",
+      "fact": "f49",
       "label": "En 1922, le Colorado River Compact est négocié entre sept États américains."
      },
      {
-      "fact": "f37",
+      "fact": "f36",
       "label": "La sécheresse est notamment critique à l’été 2026."
      }
     ]
@@ -228,9 +228,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.84,
  "verified": {
   "version": 1,
-  "hash": "1cd7eec45c37cf.19a877170d4df1"
+  "hash": "1134eb20172394.17d9e1f706337e"
  }
 }

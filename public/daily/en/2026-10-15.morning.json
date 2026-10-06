@@ -40,29 +40,29 @@
   }
  },
  "facts": {
-  "f16": {
+  "f14": {
    "kind": "date",
    "value": "1971",
    "surface": "1971"
   },
-  "f18": {
+  "f16": {
    "kind": "date",
    "value": "1989",
    "surface": "1989"
   },
-  "f22": {
+  "f20": {
    "kind": "measure",
    "value": 5.894,
    "unit": "kg",
    "surface": "5.894 kg"
   },
-  "f25": {
+  "f23": {
    "kind": "measure",
    "value": 3.1,
    "unit": "g",
    "surface": "3.100 g"
   },
-  "f48": {
+  "f39": {
    "kind": "date",
    "value": "1998",
    "surface": "1998"
@@ -82,7 +82,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f25",
+    "fact": "f23",
     "display": "3.100 g",
     "caption": "As a liquid, xenon has a density of up to 3.100 g/cm3."
    },
@@ -109,7 +109,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f25",
+    "fact": "f23",
     "display": "3.100 g",
     "caption": "As a liquid, xenon has a density of up to 3.100 g/cm3, with the density maximum occurring at the triple point."
    },
@@ -117,15 +117,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f16",
+      "fact": "f14",
       "label": "By 1971, more than 80 xenon compounds were known."
      },
      {
-      "fact": "f18",
+      "fact": "f16",
       "label": "In November 1989, IBM scientists demonstrated a technology capable of manipulating individual atoms."
      },
      {
-      "fact": "f48",
+      "fact": "f39",
       "label": "Worldwide production of xenon in 1998 was estimated at 5,000–7,000 cubic metres."
      }
     ]
@@ -157,7 +157,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f22",
+    "fact": "f20",
     "display": "5.894 kg",
     "caption": "At standard temperature and pressure, pure xenon gas has a density of 5.894 kg/m3, about 4.5 times the density of the Earth’s atmosphere at sea level, 1.217 kg/m3."
    },
@@ -165,15 +165,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f16",
+      "fact": "f14",
       "label": "By 1971, more than 80 xenon compounds were known."
      },
      {
-      "fact": "f18",
+      "fact": "f16",
       "label": "In November 1989, IBM scientists demonstrated a technology capable of manipulating individual atoms."
      },
      {
-      "fact": "f48",
+      "fact": "f39",
       "label": "Worldwide production of xenon in 1998 was estimated at 5,000–7,000 cubic metres."
      }
     ]
@@ -209,9 +209,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "14ea385de115e6.004ce05b8d08ab"
+  "hash": "1f8f64537a8647.1b58ccc337acb4"
  }
 }

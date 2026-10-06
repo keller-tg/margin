@@ -46,33 +46,33 @@
    "unit": "%",
    "surface": "75%"
   },
-  "f8": {
-   "kind": "date",
-   "value": "1853",
-   "surface": "1853"
-  },
-  "f20": {
+  "f19": {
    "kind": "measure",
    "value": 38000,
    "unit": "years",
    "surface": "38,000 years"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "552",
    "surface": "552"
   },
-  "f36": {
+  "f27": {
    "kind": "date",
    "value": "784",
    "surface": "784"
   },
-  "f45": {
+  "f32": {
    "kind": "date",
    "value": "1336",
    "surface": "1336"
   },
-  "f100": {
+  "f44": {
+   "kind": "date",
+   "value": "1873",
+   "surface": "1873"
+  },
+  "f70": {
    "kind": "measure",
    "value": 377975.24,
    "unit": "km2",
@@ -93,7 +93,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f100",
+    "fact": "f70",
     "display": "377,975.24 km2",
     "caption": "As of 2019, Japan’s territory is 377,975.24 km2."
    },
@@ -120,7 +120,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f20",
+    "fact": "f19",
     "display": "38,000 years",
     "caption": "Modern humans arrived in Japan around 38,000 years ago, marking the beginning of the Japanese Paleolithic."
    },
@@ -128,20 +128,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f25",
+      "fact": "f23",
       "label": "Buddhism was introduced to Japan from Baekje in 552."
      },
      {
-      "fact": "f36",
+      "fact": "f27",
       "label": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō in 794."
      },
      {
-      "fact": "f45",
+      "fact": "f32",
       "label": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period."
      },
      {
-      "fact": "f8",
-      "label": "In 1853, an American fleet forced Japan to open trade to the West."
+      "fact": "f44",
+      "label": "The Japanese population doubled from 35 million in 1873 to 70 million by 1935."
      }
     ]
    },
@@ -180,30 +180,30 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f25",
+      "fact": "f23",
       "label": "Buddhism was introduced to Japan from Baekje in 552."
      },
      {
-      "fact": "f36",
+      "fact": "f27",
       "label": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō in 794."
      },
      {
-      "fact": "f45",
+      "fact": "f32",
       "label": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period."
      },
      {
-      "fact": "f8",
-      "label": "In 1853, an American fleet forced Japan to open trade to the West."
+      "fact": "f44",
+      "label": "The Japanese population doubled from 35 million in 1873 to 70 million by 1935."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Before 日本 was adopted in the early 8th century, the country was known in China as Wa and in Japan by the endonym Yamato."
+    "text": "The name for Japan in Japanese is written using the kanji 日本 and is pronounced Nihon or Nippon."
    },
    {
     "type": "sentence",
-    "text": "The name for Japan in Japanese is written using the kanji 日本 and is pronounced Nihon or Nippon."
+    "text": "Before 日本 was adopted in the early 8th century, the country was known in China as Wa and in Japan by the endonym Yamato."
    },
    {
     "type": "sentence",
@@ -215,11 +215,11 @@
    },
    {
     "type": "sentence",
-    "text": "Around 14,500 BC, a Mesolithic to Neolithic semi-sedentary hunter-gatherer culture characterized by pit dwelling and rudimentary agriculture emerged."
+    "text": "Nippon, the original Sino-Japanese reading of the characters, is favored for official uses, including on Japanese banknotes and postage stamps."
    },
    {
     "type": "sentence",
-    "text": "According to legend, Emperor Jimmu founded a kingdom in central Japan in 660 BC, beginning a continuous imperial line."
+    "text": "Around 14,500 BC, a Mesolithic to Neolithic semi-sedentary hunter-gatherer culture characterized by pit dwelling and rudimentary agriculture emerged."
    },
    {
     "type": "closing",
@@ -228,9 +228,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "05274c47c56c2c.1fb1110f443cad"
+  "hash": "09423013e5451d.1b27b8fe269d44"
  }
 }

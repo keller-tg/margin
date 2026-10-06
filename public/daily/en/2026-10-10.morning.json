@@ -40,27 +40,27 @@
   }
  },
  "facts": {
-  "f14": {
+  "f5": {
    "kind": "date",
    "value": "1821",
    "surface": "1821"
   },
-  "f18": {
+  "f9": {
    "kind": "date",
    "value": "1824",
    "surface": "1824"
   },
-  "f26": {
+  "f16": {
    "kind": "date",
    "value": "1830",
    "surface": "1830"
   },
-  "f30": {
+  "f20": {
    "kind": "date",
    "value": "1832",
    "surface": "1832"
   },
-  "f83": {
+  "f64": {
    "kind": "measure",
    "value": 30,
    "unit": "years",
@@ -106,7 +106,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f83",
+    "fact": "f64",
     "display": "30 years",
     "caption": "Berlioz did not seek a revival of Les Troyens and none took place for nearly 30 years."
    },
@@ -114,19 +114,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f14",
+      "fact": "f5",
       "label": "In March 1821 Berlioz passed the baccalauréat examination at the University of Grenoble."
      },
      {
-      "fact": "f18",
+      "fact": "f9",
       "label": "In 1824 Berlioz composed a Messe solennelle."
      },
      {
-      "fact": "f26",
+      "fact": "f16",
       "label": "Berlioz was largely apolitical, and neither supported nor opposed the July Revolution of 1830."
      },
      {
-      "fact": "f30",
+      "fact": "f20",
       "label": "On 9 December 1832 Berlioz presented a concert of his works at the Conservatoire."
      }
     ]
@@ -158,7 +158,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f83",
+    "fact": "f64",
     "display": "30 years",
     "caption": "Berlioz did not seek a revival of Les Troyens and none took place for nearly 30 years."
    },
@@ -166,19 +166,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f14",
+      "fact": "f5",
       "label": "In March 1821 Berlioz passed the baccalauréat examination at the University of Grenoble."
      },
      {
-      "fact": "f18",
+      "fact": "f9",
       "label": "In 1824 Berlioz composed a Messe solennelle."
      },
      {
-      "fact": "f26",
+      "fact": "f16",
       "label": "Berlioz was largely apolitical, and neither supported nor opposed the July Revolution of 1830."
      },
      {
-      "fact": "f30",
+      "fact": "f20",
       "label": "On 9 December 1832 Berlioz presented a concert of his works at the Conservatoire."
      }
     ]
@@ -201,11 +201,11 @@
    },
    {
     "type": "sentence",
-    "text": "At the age of twelve Berlioz fell in love for the first time."
+    "text": "The horrors of the medical college were mitigated thanks to an ample allowance from his father, which enabled him to take full advantage of the cultural, and particularly musical, life of Paris."
    },
    {
     "type": "sentence",
-    "text": "The horrors of the medical college were mitigated thanks to an ample allowance from his father, which enabled him to take full advantage of the cultural, and particularly musical, life of Paris."
+    "text": "Music did not at that time enjoy the prestige of literature in French culture, but Paris nonetheless possessed two major opera houses and the country’s most important music library."
    },
    {
     "type": "closing",
@@ -214,9 +214,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "00a55bfcc12894.1ea7d47ecb17dc"
+  "hash": "1ced03c5135ed0.10eb5315d8f097"
  }
 }

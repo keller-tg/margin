@@ -40,27 +40,27 @@
   }
  },
  "facts": {
-  "f11": {
-   "kind": "date",
-   "value": "1301",
-   "surface": "1301"
-  },
-  "f17": {
+  "f16": {
    "kind": "date",
    "value": "1620",
    "surface": "1620"
   },
-  "f18": {
+  "f22": {
    "kind": "date",
-   "value": "1642",
-   "surface": "1642"
+   "value": "1832",
+   "surface": "1832"
   },
-  "f20": {
+  "f30": {
    "kind": "date",
-   "value": "1761",
-   "surface": "1761"
+   "value": "1853",
+   "surface": "1853"
   },
-  "f71": {
+  "f39": {
+   "kind": "date",
+   "value": "1910",
+   "surface": "1910"
+  },
+  "f65": {
    "kind": "measure",
    "value": 1500,
    "unit": "kg",
@@ -77,17 +77,17 @@
    },
    {
     "type": "sentence",
-    "text": "Vor allem im Zeitalter der Industriellen Revolution wurde Manchester zu einem wichtigen Wirtschaftsstandort."
+    "text": "Heute ist Manchester dennoch eines der wichtigsten Wirtschaftszentren des Königreichs und beherbergt zudem zahlreiche Museen."
    },
    {
     "type": "bignumber",
-    "fact": "f71",
+    "fact": "f65",
     "display": "1500 kg",
     "caption": "Am 15. Juni 1996 um 11:20 Uhr explodierten 1500 kg Sprengstoff im Zentrum Manchesters."
    },
    {
     "type": "closing",
-    "text": "Die Einwohner Manchesters werden «Mancunians»oder verkürzt «Mancs»genannt."
+    "text": "Vor allem im Zeitalter der Industriellen Revolution wurde Manchester zu einem wichtigen Wirtschaftsstandort."
    }
   ],
   "medium": [
@@ -108,7 +108,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f71",
+    "fact": "f65",
     "display": "1500 kg",
     "caption": "Am 15. Juni 1996 um 11:20 Uhr explodierten 1500 kg Sprengstoff im Zentrum Manchesters."
    },
@@ -116,26 +116,26 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
-      "label": "Im Jahr 1301 folgte das Recht auf Selbstverwaltung."
-     },
-     {
-      "fact": "f17",
+      "fact": "f16",
       "label": "Das Wachstum erhielt um 1620 einen weiteren Schub durch die Einführung der Baumwollweberei."
      },
      {
-      "fact": "f18",
-      "label": "Als 1642 der Englische Bürgerkrieg ausbrach, stand Manchester auf der Seite des Parlaments."
+      "fact": "f22",
+      "label": "Nach der Parlamentsreform von 1832 durfte die Stadt wieder Abgeordnete ins Unterhaus entsenden."
      },
      {
-      "fact": "f20",
-      "label": "Die Eröffnung des Bridgewater-Kanals 1761."
+      "fact": "f30",
+      "label": "1853 wurde Manchester offiziell eine Stadt."
+     },
+     {
+      "fact": "f39",
+      "label": "1910 wurde Trafford Park eröffnet."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Die Ursprünge der Stadt gehen auf ein römisches Kastell am Zusammenfluss von Irwell und Medlock zurück."
+    "text": "Die Einwohner Manchesters werden «Mancunians»oder verkürzt «Mancs»genannt."
    },
    {
     "type": "closing",
@@ -160,7 +160,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f71",
+    "fact": "f65",
     "display": "1500 kg",
     "caption": "Am 15. Juni 1996 um 11:20 Uhr explodierten 1500 kg Sprengstoff im Zentrum Manchesters."
    },
@@ -168,20 +168,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f11",
-      "label": "Im Jahr 1301 folgte das Recht auf Selbstverwaltung."
-     },
-     {
-      "fact": "f17",
+      "fact": "f16",
       "label": "Das Wachstum erhielt um 1620 einen weiteren Schub durch die Einführung der Baumwollweberei."
      },
      {
-      "fact": "f18",
-      "label": "Als 1642 der Englische Bürgerkrieg ausbrach, stand Manchester auf der Seite des Parlaments."
+      "fact": "f22",
+      "label": "Nach der Parlamentsreform von 1832 durfte die Stadt wieder Abgeordnete ins Unterhaus entsenden."
      },
      {
-      "fact": "f20",
-      "label": "Die Eröffnung des Bridgewater-Kanals 1761."
+      "fact": "f30",
+      "label": "1853 wurde Manchester offiziell eine Stadt."
+     },
+     {
+      "fact": "f39",
+      "label": "1910 wurde Trafford Park eröffnet."
      }
     ]
    },
@@ -216,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "17d0e8fcd8577c.1ccd8fe2ff6255"
+  "hash": "1cb24fbbe692ff.1ce4de0f381e18"
  }
 }

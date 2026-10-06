@@ -50,7 +50,7 @@
    },
    {
     "type": "closing",
-    "text": "Stegosaurus had a relatively low brain-to-body mass ratio."
+    "text": "One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians."
    }
   ],
   "medium": [
@@ -62,7 +62,7 @@
    },
    {
     "type": "sentence",
-    "text": "The remains of over 80 individual animals of this genus have been found."
+    "text": "Stegosaurus is a genus of extinct herbivorous four-legged armored dinosaurs from the Late Jurassic."
    },
    {
     "type": "closing",
@@ -78,7 +78,7 @@
    },
    {
     "type": "sentence",
-    "text": "The remains of over 80 individual animals of this genus have been found."
+    "text": "Stegosaurus is a genus of extinct herbivorous four-legged armored dinosaurs from the Late Jurassic, characterized by the distinctive kite-shaped upright plates along their backs and spikes on their tails."
    },
    {
     "type": "image",
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "1800e964a1aa8e.00e305de485bab"
+  "hash": "112411be15e292.1e4404b05b1a83"
  }
 }

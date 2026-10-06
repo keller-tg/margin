@@ -62,7 +62,7 @@
    },
    {
     "type": "sentence",
-    "text": "Electric eels grow for as long as they live, adding more vertebrae to their spinal column."
+    "text": "The electric eels are a genus."
    },
    {
     "type": "closing",
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "13e621e052649a.1126a5912fe348"
+  "hash": "07e1bc1f640014.0b2f2be45e9dd6"
  }
 }

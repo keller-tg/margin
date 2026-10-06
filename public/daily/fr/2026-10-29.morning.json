@@ -5,230 +5,182 @@
  "lang": "fr",
  "slot": "morning",
  "topic": {
-  "title": "Palmyre",
-  "qid": "Q5747",
-  "pageid": 71299,
-  "revid": 238813001,
-  "domain": "cities",
-  "teaser": "Ville antique"
+  "title": "Mary Wollstonecraft",
+  "qid": "Q101638",
+  "pageid": 613194,
+  "revid": 239887938,
+  "domain": "people-other",
+  "teaser": "Enseignante d’école primaire, autrice, philosophe et féministe anglaise"
  },
  "sources": [
   {
-   "title": "Palmyre",
-   "url": "https://fr.wikipedia.org/w/index.php?title=Palmyre&oldid=238813001",
-   "revid": 238813001,
+   "title": "Mary Wollstonecraft",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Mary_Wollstonecraft&oldid=239887938",
+   "revid": 239887938,
    "license": "CC BY-SA 4.0"
   }
  ],
  "images": {
   "img1": {
-   "file": "File:Palmyra, Syria - 2.jpg",
-   "w": 3000,
-   "h": 2008,
-   "alt": "Palmyre",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Palmyra%2C_Syria_-_2.jpg/960px-Palmyra%2C_Syria_-_2.jpg",
-   "sha1": "35047664a2251989fbe3ae91a0a158f3b7b0131b",
+   "file": "File:Mary Wollstonecraft by John Opie (c. 1797).jpg",
+   "w": 1020,
+   "h": 1244,
+   "alt": "Mary Wollstonecraft",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg/960px-Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg",
+   "sha1": "5eb5d6dbf26de75b8e9b57f1da02b98cf2d4c703",
    "credit": {
-    "author": "James Gordon from Los Angeles, California, USA",
+    "author": "John Opie",
     "authorSource": "artist",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "fileUrl": "https://commons.wikimedia.org/wiki/File:Palmyra,_Syria_-_2.jpg",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg",
     "attribution": null,
-    "attributionRequired": true
+    "attributionRequired": false
    }
   }
  },
  "facts": {
-  "f2": {
+  "f9": {
    "kind": "date",
-   "value": "1980",
-   "surface": "1980"
+   "value": "1787",
+   "surface": "1787"
   },
-  "f14": {
+  "f11": {
    "kind": "date",
-   "value": "1935",
-   "surface": "1935"
-  },
-  "f18": {
-   "kind": "date",
-   "value": "1965",
-   "surface": "1965"
-  },
-  "f28": {
-   "kind": "number",
-   "value": 129,
-   "surface": "129"
-  },
-  "f48": {
-   "kind": "date",
-   "value": "1401",
-   "surface": "1401"
-  },
-  "f78": {
-   "kind": "measure",
-   "value": 80,
-   "unit": "%",
-   "surface": "80 %"
-  },
-  "f84": {
-   "kind": "date",
-   "value": "2016",
-   "surface": "2016"
+   "value": "1785",
+   "surface": "1785"
   }
  },
  "paces": {
   "easy": [
    {
     "type": "title",
-    "title": "Palmyre",
-    "line": "Ville antique",
+    "title": "Mary Wollstonecraft",
+    "line": "Enseignante d’école primaire, autrice, philosophe et féministe anglaise",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Le site est classé patrimoine mondial de l’UNESCO depuis 1980."
+    "text": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre."
    },
    {
-    "type": "bignumber",
-    "fact": "f28",
-    "display": "129",
-    "caption": "Palmyre atteignit ensuite son apogée sous Hadrien, qui la visita en 129."
+    "type": "sentence",
+    "text": "Après plusieurs jours d’agonie, Mary Wollstonecraft meurt de septicémie le 10 septembre."
    },
    {
     "type": "closing",
-    "text": "Le site est repris par les loyalistes début mars 2017."
+    "text": "De plus, paraissent de vicieuses satires, telle The Unsex’d Females."
    }
   ],
   "medium": [
    {
     "type": "title",
-    "title": "Palmyre",
-    "line": "Ville antique",
+    "title": "Mary Wollstonecraft",
+    "line": "Enseignante d’école primaire, autrice, philosophe et féministe anglaise",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Le site est classé patrimoine mondial de l’UNESCO depuis 1980."
+    "text": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Palmyre"
-   },
-   {
-    "type": "bignumber",
-    "fact": "f78",
-    "display": "80 %",
-    "caption": "Selon le directeur des antiquités et musées de Syrie Maamoun Abdelkarim, 80 % des sites archéologiques auraient été épargnés par les djihadistes."
+    "caption": "Mary Wollstonecraft"
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f48",
-      "label": "La ville fut pillée par Tamerlan en 1401, mais semble s’en être relevée."
+      "fact": "f11",
+      "label": "En 1785, Mary décide de la rejoindre pour prendre soin d’elle."
      },
      {
-      "fact": "f14",
-      "label": "Robert Amy, architecte DPLG, s’acquitte de cette tâche de 1935 à 1945."
-     },
-     {
-      "fact": "f18",
-      "label": "En 1965 et 1967, Robert du Mesnil du Buisson dirige deux campagnes."
-     },
-     {
-      "fact": "f84",
-      "label": "Mais en décembre 2016, l’État islamique mène une nouvelle offensive."
+      "fact": "f9",
+      "label": "Mary décrira cette expérience en 1787 dans Thoughts on the Education of Daughters."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Au début du XVIIe siècle, la Mésopotamie commence à attirer les voyageurs européens, comme Pietro Della Valle."
+    "text": "Après deux aventures malheureuses, l’une avec Henry Fuseli et l’autre avec Gilbert Imlay, elle épouse le philosophe William Godwin, l’un des pères du mouvement anarchiste."
+   },
+   {
+    "type": "sentence",
+    "text": "Mary Wollstonecraft s’embarque pour Paris en décembre 1792 et y arrive environ un mois avant que Louis XVI ne soit guillotiné."
    },
    {
     "type": "closing",
-    "text": "Le peintre ayant perçu dans un éclair visionnaire – trois ans avant le saccage du site archéologique de Palmyre – un désastre à venir."
+    "text": "Les Memoirs de Godwin présentent en Mary Wollstonecraft une femme tout entière habitée par des sentiments que freine sa seule raison."
    }
   ],
   "deep": [
    {
     "type": "title",
-    "title": "Palmyre",
-    "line": "Ville antique",
+    "title": "Mary Wollstonecraft",
+    "line": "Enseignante d’école primaire, autrice, philosophe et féministe anglaise",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Palmyre ou Tadmor est une ville antique de Syrie, située à proximité d’une oasis du désert de Syrie, à 210 km au nord-est de Damas et dont les ruines sont adjacentes à la ville moderne de Tadmor."
+    "text": "Mary Wollstonecraft, née le 27 avril 1759 à Spitalfields, un quartier du Grand Londres, et morte le 10 septembre 1797 à Londres, est une maîtresse d’école, femme de lettres, philosophe et femme engagée britannique."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Palmyre"
-   },
-   {
-    "type": "bignumber",
-    "fact": "f78",
-    "display": "80 %",
-    "caption": "Selon le directeur des antiquités et musées de Syrie Maamoun Abdelkarim, 80 % des sites archéologiques auraient été épargnés par les djihadistes."
+    "caption": "Mary Wollstonecraft"
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f48",
-      "label": "La ville fut pillée par Tamerlan en 1401, mais semble s’en être relevée."
+      "fact": "f11",
+      "label": "En 1785, Mary décide de la rejoindre pour prendre soin d’elle."
      },
      {
-      "fact": "f14",
-      "label": "Robert Amy, architecte DPLG, s’acquitte de cette tâche de 1935 à 1945."
-     },
-     {
-      "fact": "f18",
-      "label": "En 1965 et 1967, Robert du Mesnil du Buisson dirige deux campagnes."
-     },
-     {
-      "fact": "f2",
-      "label": "Le site est classé patrimoine mondial de l’UNESCO depuis 1980."
+      "fact": "f9",
+      "label": "Mary décrira cette expérience en 1787 dans Thoughts on the Education of Daughters."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Au début du XVIIe siècle, la Mésopotamie commence à attirer les voyageurs européens, comme Pietro Della Valle, qui évitent les environs de Palmyre, alors occupés par des tribus bédouines hostiles."
+    "text": "Pour le grand public, la vie de Mary Wollstonecraft attire plus l’attention que son œuvre."
    },
    {
     "type": "sentence",
-    "text": "En 1678, une première expédition de seize marchands anglais accompagnés de vingt-quatre serviteurs, organisée notamment par l’orientaliste et aumônier de la Levant Company Robert Huntington, tourne mal."
+    "text": "Après la mort de Fanny Blood, les amis de Mary Wollstonecraft l’aident à obtenir une place de gouvernante en Irlande, auprès des filles d’une famille anglo-irlandaise, les Kingsborough."
    },
    {
     "type": "sentence",
-    "text": "L’émir local craint que les curieux ne révèlent leurs positions aux Turcs, et les contraint à partir après le paiement d’une rançon."
+    "text": "Le père se voit même obligé de contraindre sa fille à lui remettre les sommes dont elle devrait jouir à sa majorité."
    },
    {
     "type": "sentence",
-    "text": "En 1691, une seconde tentative réussit et le pasteur Wiliam Hallifax témoigne de ses observations dans les Philosophical Transactions en 1695."
+    "text": "Mary Wollstonecraft s’embarque pour Paris en décembre 1792 et y arrive environ un mois avant que Louis XVI ne soit guillotiné."
    },
    {
     "type": "sentence",
-    "text": "Après un voyage de deux ans en 1751-1752, accompagné des antiquaires John Bouverie et James Dawkins, Robert Wood publie en 1753 The ruins of Palmyra ; otherwise Tedmor in the desert."
+    "text": "Ainsi, lors d’un épisode fondateur survenu en 1784, elle parvient à convaincre Eliza, sans doute victime d’une dépression post-partum, de quitter mari et enfant."
    },
    {
     "type": "sentence",
-    "text": "L’étude scientifique du site commence véritablement au début du XXe siècle, avec les campagnes allemandes d’Otto Puchstein en 1902, de Theodor Wiegand en 1917 et de Daniel Krencker en 1928."
+    "text": "En outre, c’est un homme violent qui, sous l’emprise de la boisson, bat son épouse."
+   },
+   {
+    "type": "sentence",
+    "text": "La France est dans la tourmente, Mary cherche la compagnie d’autres Britanniques, comme Helen Maria Williams, et rejoint le cercle des expatriés résidant dans la capitale française."
    },
    {
     "type": "closing",
-    "text": "Le peintre ayant perçu dans un éclair visionnaire – trois ans avant le saccage du site archéologique de Palmyre – un désastre à venir."
+    "text": "Toutefois, avec l’émergence du mouvement féministe au tournant du XXe siècle, la promotion de l’égalité des femmes et les critiques de la féminité conventionnelle, Mary Wollstonecraft prend de plus en plus d’importance."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.76,
  "verified": {
   "version": 1,
-  "hash": "0b2ab5d1a672de.0cfa5ff238b3b4"
+  "hash": "121cca94d653b5.1cf8f5331ba23e"
  }
 }

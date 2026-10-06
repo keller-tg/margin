@@ -40,12 +40,12 @@
   }
  },
  "facts": {
-  "f57": {
+  "f40": {
    "kind": "number",
-   "value": 127,
-   "surface": "127"
+   "value": 20000,
+   "surface": "20,000"
   },
-  "f191": {
+  "f81": {
    "kind": "measure",
    "value": 400,
    "unit": "years",
@@ -62,13 +62,13 @@
    },
    {
     "type": "sentence",
-    "text": "Mithridates I greatly expanded the empire by seizing Media and Mesopotamia from the Seleucids."
+    "text": "The Arsacid rulers were titled “King of Kings”, claiming the inheritance of the Achaemenid Empire."
    },
    {
     "type": "bignumber",
-    "fact": "f57",
-    "display": "127",
-    "caption": "When this failed, Hyspaosines invaded Babylonia in 127 BC and occupied Seleucia."
+    "fact": "f40",
+    "display": "20,000",
+    "caption": "With some 20,000 Romans dead, approximately 10,000 captured."
    },
    {
     "type": "closing",
@@ -84,7 +84,7 @@
    },
    {
     "type": "sentence",
-    "text": "Mithridates I greatly expanded the empire by seizing Media and Mesopotamia from the Seleucids."
+    "text": "The Parthian Empire was a major Iranian political and cultural power centered in ancient Iran from 247 BC to 224 AD."
    },
    {
     "type": "image",
@@ -93,17 +93,17 @@
    },
    {
     "type": "bignumber",
-    "fact": "f191",
+    "fact": "f81",
     "display": "400 years",
     "caption": "Nevertheless, for a period of more than 400 years, they succeeded the Parthian realm as Rome’s principal rival."
    },
    {
     "type": "sentence",
-    "text": "The Parthians largely adopted the art, architecture, religious beliefs, and regalia of their culturally heterogeneous empire, which encompassed Persian, Hellenistic, and regional cultures."
+    "text": "Mithridates I greatly expanded the empire by seizing Media and Mesopotamia from the Seleucids."
    },
    {
     "type": "sentence",
-    "text": "The Arsacid court initially adopted elements of Greek culture, though it eventually saw a gradual revival of Iranian cultural traditions."
+    "text": "The Parthians largely adopted the art, architecture, religious beliefs, and regalia of their culturally heterogeneous empire, which encompassed Persian, Hellenistic, and regional cultures."
    },
    {
     "type": "closing",
@@ -128,7 +128,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f191",
+    "fact": "f81",
     "display": "400 years",
     "caption": "Nevertheless, for a period of more than 400 years, they succeeded the Parthian realm as Rome’s principal rival."
    },
@@ -139,10 +139,6 @@
    {
     "type": "sentence",
     "text": "Before Arsaces I founded the Arsacid dynasty, he was chieftain of the Parni, an ancient Central Asian tribe of Iranian peoples and one of several nomadic tribes within the confederation of the Dahae."
-   },
-   {
-    "type": "sentence",
-    "text": "The Parni most likely spoke an eastern Iranian language, in contrast to the northwestern Iranian language spoken at the time in Parthia."
    },
    {
     "type": "sentence",
@@ -161,15 +157,19 @@
     "text": "Why the Arsacid court retroactively chose 247 BC as the first year of the Arsacid era is uncertain."
    },
    {
+    "type": "sentence",
+    "text": "However, Vesta Sarkhosh Curtis asserts that this was simply the year Arsaces was made chief of the Parni tribe."
+   },
+   {
     "type": "closing",
     "text": "Parthian artwork is a means of understanding aspects of society and culture that are otherwise absent in textual sources."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "18a41a1be8ce2d.1309ef0ebd1b53"
+  "hash": "00f62c0288233d.0363bd0c93bb8b"
  }
 }

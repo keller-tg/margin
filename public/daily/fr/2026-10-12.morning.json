@@ -46,7 +46,7 @@
    "unit": "km",
    "surface": "6 700 km"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 90,
    "unit": "%",
@@ -67,7 +67,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f10",
+    "fact": "f9",
     "display": "90 %",
     "caption": "90 % de l’eau et 96 % des sédiments transportés par le Nil proviennent de l’Éthiopie."
    },
@@ -168,9 +168,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "031938b02c161f.023b61945581f9"
+  "hash": "0ae798d963e2c3.11cdf384a4b225"
  }
 }

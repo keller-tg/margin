@@ -5,226 +5,172 @@
  "lang": "fr",
  "slot": "morning",
  "topic": {
-  "title": "Hyderabad",
-  "qid": "Q1361",
-  "pageid": 1605687,
-  "revid": 240092167,
-  "domain": "cities",
-  "teaser": "Ville en Inde"
+  "title": "Columbia (fleuve)",
+  "qid": "Q2251",
+  "pageid": 201454,
+  "revid": 234667932,
+  "domain": "water",
+  "teaser": "Fleuve d’Amérique du Nord"
  },
  "sources": [
   {
-   "title": "Hyderabad",
-   "url": "https://fr.wikipedia.org/w/index.php?title=Hyderabad&oldid=240092167",
-   "revid": 240092167,
+   "title": "Columbia (fleuve)",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Columbia_(fleuve)&oldid=234667932",
+   "revid": 234667932,
    "license": "CC BY-SA 4.0"
   }
  ],
  "images": {
   "img1": {
-   "file": "File:Charminar close up.jpg",
-   "w": 5164,
-   "h": 3443,
-   "alt": "Hyderabad",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Charminar_close_up.jpg/960px-Charminar_close_up.jpg",
-   "sha1": "e104f87e2c7f7d9936098c8769cd8617d152b86c",
+   "file": "File:ColumbiarivergorgeJRH.jpg",
+   "w": 800,
+   "h": 600,
+   "alt": "Columbia (fleuve)",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ColumbiarivergorgeJRH.jpg",
+   "sha1": "cd9177684443ecedb8be60361aae67b0f0bb26bc",
    "credit": {
-    "author": "Karthik Easvur",
+    "author": "The original uploader was Cacophony at English Wikipedia.",
     "authorSource": "artist",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "fileUrl": "https://commons.wikimedia.org/wiki/File:Charminar_close_up.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:ColumbiarivergorgeJRH.jpg",
     "attribution": null,
     "attributionRequired": true
    }
   }
  },
  "facts": {
-  "f6": {
-   "kind": "date",
-   "value": "2020",
-   "surface": "2020"
-  },
-  "f8": {
+  "f1": {
    "kind": "measure",
-   "value": 30,
-   "unit": "%",
-   "surface": "30 %"
-  },
-  "f12": {
-   "kind": "date",
-   "value": "1763",
-   "surface": "1763"
+   "value": 2000,
+   "unit": "kilomètres",
+   "surface": "2 000 kilomètres"
   },
   "f13": {
-   "kind": "date",
-   "value": "1947",
-   "surface": "1947"
-  },
-  "f24": {
-   "kind": "date",
-   "value": "2011",
-   "surface": "2011"
-  },
-  "f44": {
    "kind": "measure",
-   "value": 80,
-   "unit": "ans",
-   "surface": "80 ans"
+   "value": 497,
+   "unit": "kilomètres",
+   "surface": "497 kilomètres"
   }
  },
  "paces": {
   "easy": [
    {
     "type": "title",
-    "title": "Hyderabad",
-    "line": "Ville en Inde",
+    "title": "Columbia (fleuve)",
+    "line": "Fleuve d’Amérique du Nord",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Selon les estimations du gouvernement, Hyderabad devrait commencer à manquer d’eau souterraine dès 2020."
+    "text": "Le fleuve mesure environ 2 000 kilomètres et son principal affluent est la Snake."
    },
    {
     "type": "bignumber",
-    "fact": "f44",
-    "display": "80 ans",
-    "caption": "Pendant près de 80 ans, Golkonda fut la capitale de l’État indépendant de Telangana."
+    "fact": "f13",
+    "display": "497 kilomètres",
+    "caption": "Le fleuve définit même cette frontière pour les 497 kilomètres finaux de son voyage."
    },
    {
     "type": "closing",
-    "text": "Le football et le cricket sont les deux sports les plus pratiqués à Hyderabad."
+    "text": "Toutes ces évolutions eurent un impact énorme sur les écosystèmes locaux."
    }
   ],
   "medium": [
    {
     "type": "title",
-    "title": "Hyderabad",
-    "line": "Ville en Inde",
+    "title": "Columbia (fleuve)",
+    "line": "Fleuve d’Amérique du Nord",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Hyderabad est la capitale et la plus grande ville de l’État indien du Telangana, créé le 2 juin 2014 à partir de l’Andhra Pradesh."
+    "text": "Le Columbia est un fleuve circulant du Canada aux États-Unis avant de se jeter dans l’océan Pacifique."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Hyderabad"
+    "caption": "Columbia (fleuve)"
    },
    {
     "type": "bignumber",
-    "fact": "f8",
-    "display": "30 %",
-    "caption": "Près de 30 % des médicaments génériques et 40 % des vaccins consommés dans le monde sont produits dans ce complexe."
-   },
-   {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f12",
-      "label": "À partir de 1763 Hyderabad est la capitale de l’État d’Hyderabad."
-     },
-     {
-      "fact": "f13",
-      "label": "Après l’indépendance de l’Inde en 1947, la région."
-     },
-     {
-      "fact": "f24",
-      "label": "Hyderabad a une population recensée de 6,8 millions d’habitants en 2011."
-     },
-     {
-      "fact": "f6",
-      "label": "Selon les estimations du gouvernement, Hyderabad devrait commencer à manquer d’eau souterraine dès 2020."
-     }
-    ]
+    "fact": "f1",
+    "display": "2 000 kilomètres",
+    "caption": "Le fleuve mesure environ 2 000 kilomètres et son principal affluent est la Snake."
    },
    {
     "type": "sentence",
-    "text": "Le marché indien est considérable avec une prévision de plus de 800 millions de clients potentiels par téléphone portable en 2022."
+    "text": "Les quatorze barrages hydroélectriques sur le cours principal du Columbia produisent à eux seuls plus d’énergie hydroélectrique que ceux de tout autre fleuve nord-américain."
+   },
+   {
+    "type": "sentence",
+    "text": "Le Columbia et ses affluents ont été au centre de la culture et de l’économie de la région depuis des milliers d’années."
    },
    {
     "type": "closing",
-    "text": "L’Hyderabad FC, franchise de football fondée en 2019, évolue en Indian Super League, la première division du pays."
+    "text": "Toutes ces évolutions eurent un impact énorme sur les écosystèmes locaux."
    }
   ],
   "deep": [
    {
     "type": "title",
-    "title": "Hyderabad",
-    "line": "Ville en Inde",
+    "title": "Columbia (fleuve)",
+    "line": "Fleuve d’Amérique du Nord",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Hyderabad est la capitale et la plus grande ville de l’État indien du Telangana, créé le 2 juin 2014 à partir de l’Andhra Pradesh."
+    "text": "Le Columbia est un fleuve circulant du Canada aux États-Unis avant de se jeter dans l’océan Pacifique."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Hyderabad"
+    "caption": "Columbia (fleuve)"
    },
    {
     "type": "bignumber",
-    "fact": "f8",
-    "display": "30 %",
-    "caption": "Près de 30 % des médicaments génériques et 40 % des vaccins consommés dans le monde sont produits dans ce complexe."
-   },
-   {
-    "type": "timeline",
-    "events": [
-     {
-      "fact": "f12",
-      "label": "À partir de 1763 Hyderabad est la capitale de l’État d’Hyderabad."
-     },
-     {
-      "fact": "f13",
-      "label": "Après l’indépendance de l’Inde en 1947, la région."
-     },
-     {
-      "fact": "f24",
-      "label": "Hyderabad a une population recensée de 6,8 millions d’habitants en 2011."
-     },
-     {
-      "fact": "f6",
-      "label": "Selon les estimations du gouvernement, Hyderabad devrait commencer à manquer d’eau souterraine dès 2020."
-     }
-    ]
+    "fact": "f1",
+    "display": "2 000 kilomètres",
+    "caption": "Le fleuve mesure environ 2 000 kilomètres et son principal affluent est la Snake."
    },
    {
     "type": "sentence",
-    "text": "Hyderabad et Secunderabad sont deux villes jumelles, séparées par le Hussein Sagar, un lac artificiel creusé sous le règne d’Ibrahim Qutb Shah en 1562."
+    "text": "C’est le plus grand cours d’eau de la région Nord-Ouest Pacifique de l’Amérique du Nord, que ce soit par sa longueur totale, la taille du bassin versant ou son débit à l’embouchure."
    },
    {
     "type": "sentence",
-    "text": "Le complexe pharmaceutique Hyderabad Pharma City, construit près de cette mégalopole de 8 millions d’habitants, engendre une pollution importante de la Musi."
+    "text": "Robert Gray rebaptise le fleuve du nom de son navire, le sloop privé américain Columbia Rediviva préposé à la traite des fourrures."
    },
    {
     "type": "sentence",
-    "text": "Charminar, symbole de la ville, est un arc de triomphe à quatre minarets contenant une mosquée construite au centre d’Hyderabad par Muhammad Quli Qutb Shah en 1591, après la fin d’une épidémie de peste bubonique qui sévissait dans la région."
+    "text": "Les deux termes ont la même signification de « grande rivière » ou de « grand fleuve »."
    },
    {
     "type": "sentence",
-    "text": "Sur une superficie de plus de 3 hectares dans le quartier financier se trouve le plus grand bâtiment d’Amazon au monde et le seul campus d’Amazon en dehors des États-Unis."
+    "text": "Le fleuve Columbia commence son cours de 1 954 kilomètres — généralement arrondi à 2 000 kilomètres — dans le sillon des Rocheuses en Colombie-Britannique, au Canada."
    },
    {
     "type": "sentence",
-    "text": "Le complexe est assez grand pour faire travailler 15 000 employés."
+    "text": "Le lac Columbia, situé à environ 800 mètres au-dessus du niveau de la mer forme la source du fleuve."
    },
    {
     "type": "sentence",
-    "text": "L’année 2007 est marquée par plusieurs attentats à la bombe : 18 mai, une puissante bombe tue 11 personnes et en blesse une cinquantaine à la Mecca Masjid, proche de Charminar, alors que des centaines de musulmans étaient à la prière."
+    "text": "Les zones humides du Columbia, désignées comme zone humide d’importance internationale de la convention de Ramsar, se situent à proximité du lac."
+   },
+   {
+    "type": "sentence",
+    "text": "Le sillon des Rocheuses est une large et profonde vallée glaciaire entre les Rocheuses canadiennes et la chaîne Columbia en Colombie-Britannique."
    },
    {
     "type": "closing",
-    "text": "Hyderabad est connue pour son histoire, sa culture et son architecture largement influencées par le caractère cosmopolite de ses souverains, les sultans de Golconde et les nizams."
+    "text": "Toutes ces évolutions eurent un impact énorme sur les écosystèmes locaux, et peut-être plus particulièrement par la pollution industrielle et les obstacles à la migration des poissons."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "1a30bb50cf185a.067f5881ad86a3"
+  "hash": "17d2951f10bc41.1197805dabf023"
  }
 }

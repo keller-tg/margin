@@ -46,33 +46,33 @@
    "unit": "mi",
    "surface": "300 mi"
   },
-  "f10": {
+  "f7": {
    "kind": "date",
    "value": "1982",
    "surface": "1982"
   },
-  "f15": {
+  "f12": {
    "kind": "date",
    "value": "1983",
    "surface": "1983"
   },
-  "f16": {
-   "kind": "measure",
-   "value": 2300,
-   "unit": "ft",
-   "surface": "2,300 ft"
-  },
-  "f26": {
+  "f22": {
    "kind": "date",
    "value": "1770",
    "surface": "1770"
   },
-  "f34": {
+  "f30": {
    "kind": "date",
    "value": "1826",
    "surface": "1826"
   },
-  "f99": {
+  "f75": {
+   "kind": "measure",
+   "value": 99.8,
+   "unit": "%",
+   "surface": "99.8%"
+  },
+  "f90": {
    "kind": "measure",
    "value": 610,
    "unit": "mm",
@@ -89,11 +89,11 @@
    },
    {
     "type": "sentence",
-    "text": "The archipelago, with an area of 4,700 sq mi, comprises East Falkland, West Falkland."
+    "text": "The Falkland Islands is an archipelago in the South Atlantic Ocean on the Patagonian Shelf."
    },
    {
     "type": "bignumber",
-    "fact": "f99",
+    "fact": "f90",
     "display": "610 mm",
     "caption": "Rainfall is common over half of the year, averaging 610 mm in Stanley."
    },
@@ -120,27 +120,27 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
-    "display": "2,300 ft",
-    "caption": "The islands lie at the boundary of the subantarctic oceanic and tundra climate zones, and both major islands have mountain ranges reaching 2,300 ft."
+    "fact": "f75",
+    "display": "99.8%",
+    "caption": "In March 2013, the Falkland Islands held a referendum on its political status: 99.8% of votes cast favoured remaining a British overseas territory."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f26",
+      "fact": "f22",
       "label": "Problems began when Spain detected and captured Port Egmont in 1770."
      },
      {
-      "fact": "f34",
+      "fact": "f30",
       "label": "Vernet settled at the ruins of Puerto Soledad in 1826."
      },
      {
-      "fact": "f10",
+      "fact": "f7",
       "label": "In April 1982, Argentine military forces invaded the islands."
      },
      {
-      "fact": "f15",
+      "fact": "f12",
       "label": "Under the British Nationality Act 1983, Falkland Islanders are British citizens."
      }
     ]
@@ -180,19 +180,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f26",
+      "fact": "f22",
       "label": "Problems began when Spain detected and captured Port Egmont in 1770."
      },
      {
-      "fact": "f34",
+      "fact": "f30",
       "label": "Vernet settled at the ruins of Puerto Soledad in 1826."
      },
      {
-      "fact": "f10",
+      "fact": "f7",
       "label": "In April 1982, Argentine military forces invaded the islands."
      },
      {
-      "fact": "f15",
+      "fact": "f12",
       "label": "Under the British Nationality Act 1983, Falkland Islanders are British citizens."
      }
     ]
@@ -207,10 +207,6 @@
    },
    {
     "type": "sentence",
-    "text": "Governor Colin Martin-Reynolds was appointed in July 2025 and Chief Executive Andrea Clausen took up the post on 1 April 2025."
-   },
-   {
-    "type": "sentence",
     "text": "The name Falkland Islands comes from Falkland Sound, the strait that separates the two main islands."
    },
    {
@@ -222,15 +218,19 @@
     "text": "The Falkland Islands are a self-governing British Overseas Territory."
    },
    {
+    "type": "sentence",
+    "text": "Governor Colin Martin-Reynolds was appointed in July 2025 and Chief Executive Andrea Clausen took up the post on 1 April 2025."
+   },
+   {
     "type": "closing",
     "text": "Oil exploration, licensed by the Falkland Islands Government, remains controversial as a result of maritime disputes with Argentina."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0aa2a7a3bc0cd8.139b52d0a5794f"
+  "hash": "187ae51a5ec329.0363e0f0110162"
  }
 }

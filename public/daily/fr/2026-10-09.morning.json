@@ -40,19 +40,19 @@
   }
  },
  "facts": {
-  "f38": {
+  "f31": {
    "kind": "measure",
    "value": 100,
    "unit": "°c",
    "surface": "100 °C"
   },
-  "f40": {
+  "f33": {
    "kind": "measure",
    "value": 45,
    "unit": "°c",
    "surface": "45 °C"
   },
-  "f42": {
+  "f35": {
    "kind": "measure",
    "value": 113,
    "unit": "°c",
@@ -69,7 +69,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f42",
+    "fact": "f35",
     "display": "113 °C",
     "caption": "Pyrolobus fumarii est capable de se multiplier jusqu’à 113 °C."
    },
@@ -92,7 +92,7 @@
    },
    {
     "type": "sentence",
-    "text": "Cependant les analyses moléculaires montrent que les eucaryotes prennent leur origine parmi les Archées et plus précisément les Archées d’Asgård."
+    "text": "De ce fait, ces Archées procaryotes forment un clade avec les eucaryotes mais ne constituent qu’un groupe paraphylétique situé à la base de ces derniers."
    },
    {
     "type": "image",
@@ -101,17 +101,17 @@
    },
    {
     "type": "bignumber",
-    "fact": "f40",
+    "fact": "f33",
     "display": "45 °C",
     "caption": "Les thermophiles se développent mieux à des températures supérieures à 45 °C, dans des lieux tels que les sources d’eau chaude."
    },
    {
     "type": "sentence",
-    "text": "De ce fait, ces Archées procaryotes forment un clade avec les eucaryotes mais ne constituent qu’un groupe paraphylétique situé à la base de ces derniers."
+    "text": "Comme les poissons ou les reptiles, ils forment une entité pratique à utiliser car morphologiquement identifiable."
    },
    {
     "type": "sentence",
-    "text": "Comme les poissons ou les reptiles, ils forment une entité pratique à utiliser car morphologiquement identifiable."
+    "text": "Par ailleurs, les gènes des Archées possèdent des introns et leur ARN messager subit des modifications post-transcriptionnelles."
    },
    {
     "type": "closing",
@@ -127,7 +127,7 @@
    },
    {
     "type": "sentence",
-    "text": "Les Archaea ou Archées, du grec ancien ἀρχαῖος / arkhaîos, anciennement archéobactéries, sont des micro-organismes unicellulaires procaryotes, c’est-à-dire des organismes constitués, comme les bactéries, d’une cellule unique qui ne comprend ni noyau ni organites, à la différence des eucaryotes."
+    "text": "Les Archées sont classiquement présentées comme formant un domaine d’organismes procaryotes phylogénétiquement distincts des bactéries et morphologiquement distincts des eucaryotes, dans un système à trois domaines."
    },
    {
     "type": "image",
@@ -136,13 +136,13 @@
    },
    {
     "type": "bignumber",
-    "fact": "f38",
+    "fact": "f31",
     "display": "100 °C",
     "caption": "En effet, certaines Archées vivent à des températures élevées, souvent supérieures à 100 °C, que l’on rencontre dans les geysers, les fumeurs noirs et des puits de pétrole."
    },
    {
     "type": "sentence",
-    "text": "Les Archées sont classiquement présentées comme formant un domaine d’organismes procaryotes phylogénétiquement distincts des bactéries et morphologiquement distincts des eucaryotes, dans un système à trois domaines."
+    "text": "De ce fait, ces Archées procaryotes forment un clade avec les eucaryotes mais ne constituent qu’un groupe paraphylétique situé à la base de ces derniers."
    },
    {
     "type": "sentence",
@@ -175,9 +175,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.68,
  "verified": {
   "version": 1,
-  "hash": "1313a7c2c737a7.03ef85d4edffc1"
+  "hash": "1377a5af05e211.10021957f175e4"
  }
 }

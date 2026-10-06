@@ -46,27 +46,27 @@
    "unit": "km2",
    "surface": "12 173 km2"
   },
-  "f13": {
+  "f11": {
    "kind": "date",
    "value": "1690",
    "surface": "1690"
   },
-  "f21": {
+  "f19": {
    "kind": "date",
    "value": "1833",
    "surface": "1833"
   },
-  "f22": {
+  "f20": {
    "kind": "date",
    "value": "1911",
    "surface": "1911"
   },
-  "f29": {
+  "f27": {
    "kind": "date",
    "value": "2009",
    "surface": "2009"
   },
-  "f35": {
+  "f33": {
    "kind": "measure",
    "value": 12173,
    "unit": "km2",
@@ -83,11 +83,11 @@
    },
    {
     "type": "sentence",
-    "text": "La température maximale moyenne est 13 °C en janvier et 4 °C en juillet."
+    "text": "L’archipel est composé de deux îles principales."
    },
    {
     "type": "bignumber",
-    "fact": "f35",
+    "fact": "f33",
     "display": "12 173 km2",
     "caption": "L’ensemble représente une surface de 12 173 km2."
    },
@@ -105,7 +105,7 @@
    },
    {
     "type": "sentence",
-    "text": "La superficie de l’archipel est de 12 173 km2, soit la plus importante des îles sub-antarctiques, équivalente à celle de l’Irlande du Nord."
+    "text": "Les îles Malouines ou îles Falkland sont un archipel de l’océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan."
    },
    {
     "type": "image",
@@ -114,27 +114,27 @@
    },
    {
     "type": "bignumber",
-    "fact": "f35",
+    "fact": "f6",
     "display": "12 173 km2",
-    "caption": "L’ensemble représente une surface de 12 173 km2."
+    "caption": "La superficie de l’archipel est de 12 173 km2, soit la plus importante des îles sub-antarctiques, équivalente à celle de l’Irlande du Nord."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f13",
+      "fact": "f11",
       "label": "Lors d’une nouvelle exploration en 1690, John Strong."
      },
      {
-      "fact": "f21",
+      "fact": "f19",
       "label": "Le Royaume-Uni contrôle cependant l’archipel à partir de 1833."
      },
      {
-      "fact": "f22",
+      "fact": "f20",
       "label": "En 1911, les îles Malouines avaient 3275 habitants."
      },
      {
-      "fact": "f29",
+      "fact": "f27",
       "label": "Selon la Constitution de 2009, l’archipel dispose d’une autonomie interne complète."
      }
     ]
@@ -157,7 +157,7 @@
    },
    {
     "type": "sentence",
-    "text": "L’archipel est composé de deux îles principales, la Grande Malouine et la Malouine orientale, séparées par un large chenal, le détroit des Malouines, ainsi que de plus de 750 îles et îlots."
+    "text": "Les îles Malouines ou îles Falkland sont un archipel de l’océan Atlantique Sud situé à 361 km au nord-nord-est du cap San Juan."
    },
    {
     "type": "image",
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f13",
+      "fact": "f11",
       "label": "Lors d’une nouvelle exploration en 1690, John Strong."
      },
      {
-      "fact": "f21",
+      "fact": "f19",
       "label": "Le Royaume-Uni contrôle cependant l’archipel à partir de 1833."
      },
      {
-      "fact": "f22",
+      "fact": "f20",
       "label": "En 1911, les îles Malouines avaient 3275 habitants."
      },
      {
-      "fact": "f29",
+      "fact": "f27",
       "label": "Selon la Constitution de 2009, l’archipel dispose d’une autonomie interne complète."
      }
     ]
@@ -201,11 +201,11 @@
    },
    {
     "type": "sentence",
-    "text": "Des réserves substantielles mais encore inexploitées de matières premières se trouveraient dans les fonds marins de leur territoire."
+    "text": "Durant l’occupation argentine d’avril 1982 au 14 juin 1982, les timbres d’Argentine furent utilisés sans surcharge."
    },
    {
     "type": "sentence",
-    "text": "Durant l’occupation argentine d’avril 1982 au 14 juin 1982, les timbres d’Argentine furent utilisés sans surcharge."
+    "text": "L’ensemble représente une surface de 12 173 km2."
    },
    {
     "type": "sentence",
@@ -213,18 +213,18 @@
    },
    {
     "type": "sentence",
-    "text": "L’ensemble représente une surface de 12 173 km2."
+    "text": "Les timbres-à-date du bureau de poste de Port Stanley furent retirés et remplacés dès le 6 avril par un cachet argentin libellé « 9409 ISLAS MALVINAS * REPUBLICA ARGENTINA – date – surmonté du drapeau argentin »."
    },
    {
     "type": "closing",
-    "text": "La langue officielle des Îles Malouines est l’anglais, parlé par 89 % de la population selon le recensement de 2006."
+    "text": "L’archipel est composé de deux îles principales, la Grande Malouine et la Malouine orientale, séparées par un large chenal, le détroit des Malouines, ainsi que de plus de 750 îles et îlots."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0bd13f82a33fc8.16cd3a14cc1fd8"
+  "hash": "1b5eadd0d97756.0812e3f8b481c4"
  }
 }

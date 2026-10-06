@@ -40,13 +40,13 @@
   }
  },
  "facts": {
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 4.4,
    "unit": "cm",
    "surface": "4,4 cm"
   },
-  "f5": {
+  "f4": {
    "kind": "measure",
    "value": 100,
    "unit": "g",
@@ -67,7 +67,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f5",
+    "fact": "f4",
     "display": "100 g",
     "caption": "La plupart des espèces de rongeurs pèsent moins de 100 g."
    },
@@ -94,7 +94,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f3",
+    "fact": "f2",
     "display": "4,4 cm",
     "caption": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur."
    },
@@ -129,7 +129,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f3",
+    "fact": "f2",
     "display": "4,4 cm",
     "caption": "Le plus petit rongeur existant est la gerboise Salpingotulus michaelis, qui mesure en moyenne 4,4 cm de longueur, avec des femelles adultes ne pesant que 3,75 g."
    },
@@ -168,9 +168,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "16dc7d55ed8b7c.0f038e33dd33f3"
+  "hash": "1640d2d045cbb4.1618be13c87d5e"
  }
 }

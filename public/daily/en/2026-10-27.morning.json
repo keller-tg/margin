@@ -46,28 +46,28 @@
    "unit": "years",
    "surface": "7,000 years"
   },
-  "f20": {
-   "kind": "date",
-   "value": "2024",
-   "surface": "2024"
-  },
   "f22": {
    "kind": "measure",
    "value": 4.9,
    "unit": "m",
    "surface": "4.9 m"
   },
-  "f33": {
+  "f27": {
    "kind": "date",
    "value": "680",
    "surface": "680"
   },
-  "f140": {
+  "f60": {
+   "kind": "date",
+   "value": "2024",
+   "surface": "2024"
+  },
+  "f91": {
    "kind": "date",
    "value": "2015",
    "surface": "2015"
   },
-  "f163": {
+  "f107": {
    "kind": "date",
    "value": "2000",
    "surface": "2000"
@@ -83,7 +83,7 @@
    },
    {
     "type": "sentence",
-    "text": "White sharks are estimated to swim 2.88–4.86 km/h but can sprint up to 24.12 km/h."
+    "text": "The white shark is one of the largest living shark and fish species."
    },
    {
     "type": "bignumber",
@@ -122,20 +122,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f33",
+      "fact": "f27",
       "label": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg."
      },
      {
-      "fact": "f163",
+      "fact": "f107",
       "label": "Another similar attack apparently occurred there in 2000, but its outcome is not clear."
      },
      {
-      "fact": "f140",
+      "fact": "f91",
       "label": "Conversely, a 2015 study concluded that white sharks are a slow-growing and long-lived species."
      },
      {
-      "fact": "f20",
-      "label": "Datings by the 2024 study coincide with the penultimate glaciation."
+      "fact": "f60",
+      "label": "In May 2024, a satellite tag was recovered from an Indonesian fisherman."
      }
     ]
    },
@@ -174,20 +174,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f33",
+      "fact": "f27",
       "label": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg."
      },
      {
-      "fact": "f163",
+      "fact": "f107",
       "label": "Another similar attack apparently occurred there in 2000, but its outcome is not clear."
      },
      {
-      "fact": "f140",
+      "fact": "f91",
       "label": "Conversely, a 2015 study concluded that white sharks are a slow-growing and long-lived species."
      },
      {
-      "fact": "f20",
-      "label": "Datings by the 2024 study coincide with the penultimate glaciation."
+      "fact": "f60",
+      "label": "In May 2024, a satellite tag was recovered from an Indonesian fisherman."
      }
     ]
    },
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "076cebd67dce7f.1563fe4755ac0d"
+  "hash": "05c51577bc7fd4.00d23fd0c73560"
  }
 }

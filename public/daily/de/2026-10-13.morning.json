@@ -40,34 +40,34 @@
   }
  },
  "facts": {
-  "f6": {
+  "f5": {
    "kind": "date",
    "value": "1881",
    "surface": "1881"
   },
-  "f9": {
+  "f8": {
    "kind": "date",
    "value": "1861",
    "surface": "1861"
   },
-  "f10": {
+  "f9": {
    "kind": "measure",
    "value": 123.35,
    "unit": "g",
    "surface": "123,35 g"
   },
-  "f14": {
+  "f13": {
    "kind": "date",
    "value": "2025",
    "surface": "2025"
   },
-  "f72": {
+  "f58": {
    "kind": "measure",
    "value": 1.2,
    "unit": "%",
    "surface": "1,2 %"
   },
-  "f80": {
+  "f65": {
    "kind": "date",
    "value": "600",
    "surface": "600"
@@ -78,7 +78,7 @@
    {
     "type": "title",
     "title": "Caesium",
-    "line": "",
+    "line": "Das schwerste stabile Alkalimetall",
     "image": "img1"
    },
    {
@@ -87,7 +87,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f72",
+    "fact": "f58",
     "display": "1,2 %",
     "caption": "Das Lithiumerz Lepidolith enthält bis zu 1,2 % Caesium, sodass eine Gewinnung als Nebenprodukt möglich ist."
    },
@@ -100,12 +100,12 @@
    {
     "type": "title",
     "title": "Caesium",
-    "line": "",
+    "line": "Das schwerste stabile Alkalimetall",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Caesium ist das schwerste stabile Alkalimetall."
+    "text": "Caesium, standardsprachlich Cäsium, ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe."
    },
    {
     "type": "image",
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f10",
+    "fact": "f9",
     "display": "123,35 g",
     "caption": "Caesiumchlorid diente Bunsen und Kirchhoff auch für eine erste Bestimmung der molaren Masse des neuen Elements, wofür sie den Wert von 123,35 g/mol fanden."
    },
@@ -122,26 +122,26 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f80",
+      "fact": "f65",
       "label": "Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert."
      },
      {
-      "fact": "f9",
+      "fact": "f8",
       "label": "Caesium wurde erstmals 1861 von Gustav Robert Kirchhoff und Robert Wilhelm Bunsen beschrieben."
      },
      {
-      "fact": "f6",
+      "fact": "f5",
       "label": "Das Reinelement konnte erstmals 1881 von Carl Theodor Setterberg dargestellt werden."
      },
      {
-      "fact": "f14",
+      "fact": "f13",
       "label": "2025 sind 27 caesiumhaltige Minerale bekannt."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Caesium wurde 1861 von Robert Wilhelm Bunsen und Gustav Robert Kirchhoff im Dürkheimer Mineralwasser der Maxquelle entdeckt."
+    "text": "Caesium ist das schwerste stabile Alkalimetall."
    },
    {
     "type": "closing",
@@ -152,7 +152,7 @@
    {
     "type": "title",
     "title": "Caesium",
-    "line": "",
+    "line": "Das schwerste stabile Alkalimetall",
     "image": "img1"
    },
    {
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f10",
+    "fact": "f9",
     "display": "123,35 g",
     "caption": "Caesiumchlorid diente Bunsen und Kirchhoff auch für eine erste Bestimmung der molaren Masse des neuen Elements, wofür sie den Wert von 123,35 g/mol fanden."
    },
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f80",
+      "fact": "f65",
       "label": "Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert."
      },
      {
-      "fact": "f9",
+      "fact": "f8",
       "label": "Caesium wurde erstmals 1861 von Gustav Robert Kirchhoff und Robert Wilhelm Bunsen beschrieben."
      },
      {
-      "fact": "f6",
+      "fact": "f5",
       "label": "Das Reinelement konnte erstmals 1881 von Carl Theodor Setterberg dargestellt werden."
      },
      {
-      "fact": "f14",
+      "fact": "f13",
       "label": "2025 sind 27 caesiumhaltige Minerale bekannt."
      }
     ]
@@ -213,7 +213,7 @@
    },
    {
     "type": "sentence",
-    "text": "Caesium ist sehr weich und sehr dehnbar."
+    "text": "Bei einem Verhältnis von 41 % Caesium, 12 % Natrium und 47 % Kalium entsteht eine eutektische Legierung mit dem bisher niedrigsten bekannten Schmelzpunkt für Metallische Materialien von −78 °C."
    },
    {
     "type": "closing",
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.8,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "058050918d4540.0afefdfe32ccc7"
+  "hash": "17d39a1af0809b.1edec4ccf7614a"
  }
 }

@@ -114,6 +114,12 @@ function stopwordCounts(text: string): Record<Lang, number> {
   return r;
 }
 
+/** Another language's stopwords outnumber this one's by 2 or more: the text does not read as `lang`. */
+export function languageMismatch(text: string, lang: Lang): boolean {
+  const c = stopwordCounts(text);
+  return Math.max(...(['en', 'de', 'fr'] as Lang[]).filter((l) => l !== lang).map((l) => c[l])) >= c[lang] + 2;
+}
+
 const VOICE: Record<Lang, RegExp> = {
   en: /\b(did you know|amazing|incredible|mind-blowing|unbelievable|stunning|epic|insane|you won['’]t believe)\b/i,
   de: /\b(wussten sie|weisst du|wusstest du|unglaublich|krass|atemberaubend|sensationell|der hammer)\b/i,

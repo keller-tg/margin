@@ -5,226 +5,232 @@
  "lang": "de",
  "slot": "morning",
  "topic": {
-  "title": "Robert Oppenheimer",
-  "qid": "Q132537",
-  "pageid": 57522,
-  "revid": 271013653,
-  "domain": "people-science",
-  "teaser": "US-amerikanischer Physiker"
+  "title": "Edelgase",
+  "qid": "Q19609",
+  "pageid": 1252,
+  "revid": 268346789,
+  "domain": "chemistry",
+  "teaser": "Chemische Elemente der 18. Gruppe des Periodensystems"
  },
  "sources": [
   {
-   "title": "Robert Oppenheimer",
-   "url": "https://de.wikipedia.org/w/index.php?title=Robert_Oppenheimer&oldid=271013653",
-   "revid": 271013653,
+   "title": "Edelgase",
+   "url": "https://de.wikipedia.org/w/index.php?title=Edelgase&oldid=268346789",
+   "revid": 268346789,
    "license": "CC BY-SA 4.0"
   }
  ],
  "images": {
   "img1": {
-   "file": "File:Oppenheimer (cropped).jpg",
-   "w": 1698,
-   "h": 2471,
-   "alt": "Robert Oppenheimer",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/960px-Oppenheimer_%28cropped%29.jpg",
-   "sha1": "c0d52b57c762739f4bcbe8c9f60d835cae54da67",
+   "file": "File:Edelgase in Entladungsroehren.jpg",
+   "w": 5300,
+   "h": 3000,
+   "alt": "Edelgase",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Edelgase_in_Entladungsroehren.jpg/960px-Edelgase_in_Entladungsroehren.jpg",
+   "sha1": "2704893c4a058dd028ab7379c5769e8c06dd5ccc",
    "credit": {
-    "author": "Unknown authorUnknown author",
+    "author": "Alchemist-hp www.pse-mendelejew.de",
     "authorSource": "artist",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "fileUrl": "https://commons.wikimedia.org/wiki/File:Oppenheimer_(cropped).jpg",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Edelgase_in_Entladungsroehren.jpg",
     "attribution": null,
-    "attributionRequired": false
+    "attributionRequired": true
    }
   }
  },
  "facts": {
-  "f18": {
+  "f7": {
    "kind": "date",
-   "value": "1921",
-   "surface": "1921"
+   "value": "1868",
+   "surface": "1868"
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 587.49,
+   "unit": "nm",
+   "surface": "587,49 nm"
+  },
+  "f10": {
+   "kind": "date",
+   "value": "1888",
+   "surface": "1888"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1894",
+   "surface": "1894"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000"
   },
   "f23": {
-   "kind": "date",
-   "value": "1926",
-   "surface": "1926"
-  },
-  "f30": {
    "kind": "measure",
-   "value": 13,
-   "unit": "jahren",
-   "surface": "13 Jahren"
+   "value": 0.934,
+   "unit": "%",
+   "surface": "0,934 %"
   },
-  "f32": {
-   "kind": "date",
-   "value": "1936",
-   "surface": "1936"
-  },
-  "f36": {
-   "kind": "date",
-   "value": "1940",
-   "surface": "1940"
-  },
-  "f48": {
+  "f26": {
    "kind": "measure",
-   "value": 9,
-   "unit": "km",
-   "surface": "9 km"
+   "value": 40,
+   "unit": "k",
+   "surface": "40K"
   }
  },
  "paces": {
   "easy": [
    {
     "type": "title",
-    "title": "Robert Oppenheimer",
-    "line": "US-amerikanischer Physiker",
+    "title": "Edelgase",
+    "line": "Chemische Elemente der 18. Gruppe des Periodensystems",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Julius Robert Oppenheimer war ein US-amerikanischer theoretischer Physiker."
+    "text": "Die Edelgase, auch inerte Gase oder Inertgase bilden eine Gruppe im Periodensystem der Elemente."
    },
    {
     "type": "bignumber",
-    "fact": "f48",
-    "display": "9 km",
-    "caption": "9 km davon entfernt war ein Bunker errichtet worden."
+    "fact": "f26",
+    "display": "40K",
+    "caption": "Argon, vor allem das Isotop 40Ar, wird durch Zerfall des Kaliumisotops 40K gebildet."
    },
    {
     "type": "closing",
-    "text": "Präsident John F. Kennedy wollte damit Oppenheimer rehabilitieren."
+    "text": "Trotz der geringen Reaktivität sind von den schwereren Edelgasen, insbesondere Xenon, chemische Verbindungen bekannt."
    }
   ],
   "medium": [
    {
     "type": "title",
-    "title": "Robert Oppenheimer",
-    "line": "US-amerikanischer Physiker",
+    "title": "Edelgase",
+    "line": "Chemische Elemente der 18. Gruppe des Periodensystems",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Julius Robert Oppenheimer war ein US-amerikanischer theoretischer Physiker."
+    "text": "Die Edelgase, auch inerte Gase oder Inertgase bilden eine Gruppe im Periodensystem der Elemente."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Robert Oppenheimer"
+    "caption": "Edelgase"
    },
    {
     "type": "bignumber",
-    "fact": "f30",
-    "display": "13 Jahren",
-    "caption": "In den folgenden 13 Jahren pendelte er zwischen den beiden Universitäten und lehrte in Herbst und Winter in Berkeley und im Frühjahr in Pasadena."
+    "fact": "f23",
+    "display": "0,934 %",
+    "caption": "Das mit Abstand häufigste ist Argon, das mit einem Volumenanteil von 0,934 % einen nennenswerten Anteil der gesamten Atmosphäre ausmacht."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f18",
-      "label": "Im Februar 1921 ging Oppenheimer mit zehn Bestnoten von der Schule ab."
+      "fact": "f7",
+      "label": "Als erstes Edelgas entdeckten 1868 Jules Janssen und Norman Lockyer das Helium unabhängig voneinander."
      },
      {
-      "fact": "f23",
-      "label": "1926 veröffentlichte Oppenheimer mehrere Arbeiten über die quantenmechanische Behandlung komplexer Fragen der Atomstruktur."
+      "fact": "f10",
+      "label": "Cavendishs Experimente zur Untersuchung der Luft wurden ab 1888 von Lord Rayleigh fortgesetzt."
      },
      {
-      "fact": "f32",
-      "label": "Ab 1936 soll Oppenheimer eine romantische Beziehung zu Jean Tatlock unterhalten haben."
+      "fact": "f11",
+      "label": "Schliesslich gelang ihnen 1894 spektroskopisch der Nachweis eines neuen Elementes."
      },
      {
-      "fact": "f36",
-      "label": "1940 wurde Oppenheimer in die American Academy of Arts and Sciences gewählt."
+      "fact": "f22",
+      "label": "Im Jahr 2000 wurde die erste Argonverbindung, das sehr instabile Argonfluorohydrid, synthetisiert."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Knapp ein Jahrzehnt später wurde Oppenheimer 1963 als Zeichen seiner politischen Rehabilitierung der Enrico-Fermi-Preis der AEC verliehen."
+    "text": "Ob Oganesson dazugehört, ist unklar, weil bislang nur wenige Atome erzeugt werden konnten und die Lebensdauer der Kerne im Millisekundenbereich liegt."
    },
    {
     "type": "closing",
-    "text": "Präsident John F. Kennedy wollte damit Oppenheimer rehabilitieren."
+    "text": "Trotz der geringen Reaktivität sind von den schwereren Edelgasen, insbesondere Xenon, chemische Verbindungen bekannt."
    }
   ],
   "deep": [
    {
     "type": "title",
-    "title": "Robert Oppenheimer",
-    "line": "US-amerikanischer Physiker",
+    "title": "Edelgase",
+    "line": "Chemische Elemente der 18. Gruppe des Periodensystems",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Julius Robert Oppenheimer war ein US-amerikanischer theoretischer Physiker."
+    "text": "Die Edelgase, auch inerte Gase oder Inertgase bilden eine Gruppe im Periodensystem der Elemente, die mindestens sechs Elemente umfasst: Helium, Neon, Argon, Krypton, Xenon und das radioaktive Radon."
    },
    {
     "type": "image",
     "image": "img1",
-    "caption": "Robert Oppenheimer"
+    "caption": "Edelgase"
    },
    {
     "type": "bignumber",
-    "fact": "f30",
-    "display": "13 Jahren",
-    "caption": "In den folgenden 13 Jahren pendelte er zwischen den beiden Universitäten und lehrte in Herbst und Winter in Berkeley und im Frühjahr in Pasadena."
+    "fact": "f8",
+    "display": "587,49 nm",
+    "caption": "Die beiden Astronomen beobachteten – Janssen in Indien, Lockyer in England – das Sonnenspektrum und entdeckten darin eine bislang unbekannte gelbe Spektrallinie bei einer Wellenlänge von 587,49 nm."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f18",
-      "label": "Im Februar 1921 ging Oppenheimer mit zehn Bestnoten von der Schule ab."
+      "fact": "f7",
+      "label": "Als erstes Edelgas entdeckten 1868 Jules Janssen und Norman Lockyer das Helium unabhängig voneinander."
      },
      {
-      "fact": "f23",
-      "label": "1926 veröffentlichte Oppenheimer mehrere Arbeiten über die quantenmechanische Behandlung komplexer Fragen der Atomstruktur."
+      "fact": "f10",
+      "label": "Cavendishs Experimente zur Untersuchung der Luft wurden ab 1888 von Lord Rayleigh fortgesetzt."
      },
      {
-      "fact": "f32",
-      "label": "Ab 1936 soll Oppenheimer eine romantische Beziehung zu Jean Tatlock unterhalten haben."
+      "fact": "f11",
+      "label": "Schliesslich gelang ihnen 1894 spektroskopisch der Nachweis eines neuen Elementes."
      },
      {
-      "fact": "f36",
-      "label": "1940 wurde Oppenheimer in die American Academy of Arts and Sciences gewählt."
+      "fact": "f22",
+      "label": "Im Jahr 2000 wurde die erste Argonverbindung, das sehr instabile Argonfluorohydrid, synthetisiert."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Robert Oppenheimers Vater Julius Seligmann Oppenheimer war 1888 als Textilimporteur in die Vereinigten Staaten eingewandert."
+    "text": "Einen ersten Hinweis, dass in der Luft ein unreaktives Gas enthalten ist, fand 1783 Henry Cavendish."
    },
    {
     "type": "sentence",
-    "text": "Roberts Mutter Ella Friedman war Kunsterzieherin."
+    "text": "Edelgase finden sich vorwiegend in der Erdatmosphäre, in geringem Masse aber auch in der Erdkruste; ihre Häufigkeiten sind jedoch sehr unterschiedlich."
    },
    {
     "type": "sentence",
-    "text": "Roberts Bruder Frank, war ebenfalls Physiker."
+    "text": "Das mit Abstand häufigste ist Argon, das mit einem Volumenanteil von 0,934 % einen nennenswerten Anteil der gesamten Atmosphäre ausmacht."
    },
    {
     "type": "sentence",
-    "text": "Band 41, Nr. 4–5, August 1927, S. 268–293, doi:10.1007/BF01391242."
+    "text": "Alle anderen sind mit Anteilen unter 20 ppm sehr viel seltener, sie zählen daher zu den Spurengasen."
    },
    {
     "type": "sentence",
-    "text": "Auch das Uranmineral Oppenheimerit wurde im Jahre 2016 nach ihm benannt."
+    "text": "Mit Ausnahme eines Grossteils des Heliums und der radioaktiven Elemente erfolgt die Gewinnung der Edelgase ausschliesslich aus der Luft."
    },
    {
     "type": "sentence",
-    "text": "Das Centre for Theoretical Physics der Universität Florida vergab ihm zu Ehren den J. Robert Oppenheimer Memorial Prize."
+    "text": "Alle Edelgase sind unter Normalbedingungen einatomige, farb- und geruchlose Gase."
    },
    {
     "type": "closing",
-    "text": "Präsident John F. Kennedy wollte damit Oppenheimer rehabilitieren; die Preisverleihung erfolgte im Dezember 1963 aber durch Präsident Lyndon B. Johnson, weil Kennedy am 22. November erschossen worden war."
+    "text": "Trotz der geringen Reaktivität sind von den schwereren Edelgasen, insbesondere Xenon, chemische Verbindungen bekannt."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "0d6d1aaede480d.08ef2572859d87"
+  "hash": "11b6964097c82f.0ceb84d2e3f7cf"
  }
 }

@@ -50,7 +50,7 @@
    },
    {
     "type": "closing",
-    "text": "Ceres ist nach der römischen Göttin des Ackerbaus benannt."
+    "text": "Ceres ist der erste Zwergplanet, der durch eine Raumsonde untersucht wurde."
    }
   ],
   "medium": [
@@ -62,7 +62,7 @@
    },
    {
     "type": "sentence",
-    "text": "Ceres oder – in der Nomenklatur für Asteroiden."
+    "text": "Ceres ist nach der römischen Göttin des Ackerbaus benannt; ihr astronomisches Symbol ist daher eine stilisierte Sichel:."
    },
    {
     "type": "closing",
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "02ad3f4981834a.1ee0424e085529"
+  "hash": "12457ec74e7ff5.1c4503fa356e1d"
  }
 }

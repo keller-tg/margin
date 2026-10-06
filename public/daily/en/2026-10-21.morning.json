@@ -71,7 +71,7 @@
    "value": "1846",
    "surface": "1846"
   },
-  "f78": {
+  "f74": {
    "kind": "number",
    "value": 50000,
    "surface": "50,000"
@@ -87,11 +87,11 @@
    },
    {
     "type": "sentence",
-    "text": "Permanent settlement followed in 1532."
+    "text": "The Empire’s bicameral parliament was elected under comparatively democratic methods for the era."
    },
    {
     "type": "bignumber",
-    "fact": "f78",
+    "fact": "f74",
     "display": "50,000",
     "caption": "More than 50,000 Brazilian soldiers had died."
    },
@@ -118,7 +118,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f78",
+    "fact": "f74",
     "display": "50,000",
     "caption": "More than 50,000 Brazilian soldiers had died, and war costs were eleven times the government’s annual budget."
    },
@@ -226,9 +226,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "046fce23a8d8d0.10945339f63755"
+  "hash": "08516143882f47.1bb90c259bb78d"
  }
 }

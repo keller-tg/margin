@@ -45,28 +45,28 @@
    "value": "1886",
    "surface": "1886"
   },
-  "f8": {
+  "f5": {
    "kind": "date",
    "value": "1876",
    "surface": "1876"
   },
-  "f21": {
+  "f17": {
    "kind": "date",
    "value": "1869",
    "surface": "1869"
   },
-  "f23": {
+  "f19": {
    "kind": "date",
    "value": "1871",
    "surface": "1871"
   },
-  "f26": {
+  "f22": {
    "kind": "measure",
    "value": 73,
    "unit": "feet",
    "surface": "73 feet"
   },
-  "f38": {
+  "f29": {
    "kind": "number",
    "value": 181,
    "surface": "181"
@@ -82,11 +82,11 @@
    },
    {
     "type": "sentence",
-    "text": "The statue was dedicated on October 28, 1886."
+    "text": "The copper-clad statue was designed by French sculptor Frédéric Auguste Bartholdi."
    },
    {
     "type": "bignumber",
-    "fact": "f38",
+    "fact": "f29",
     "display": "181",
     "caption": "Schoolchildren and ordinary citizens gave, as did 181 French municipalities."
    },
@@ -104,7 +104,7 @@
    },
    {
     "type": "sentence",
-    "text": "The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi."
+    "text": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman on Liberty Island."
    },
    {
     "type": "image",
@@ -113,7 +113,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f26",
+    "fact": "f22",
     "display": "73 feet",
     "caption": "The defiant lion, 73 feet long and half that in height, displays an emotional quality characteristic of Romanticism."
    },
@@ -121,15 +121,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f21",
+      "fact": "f17",
       "label": "The Port Said Lighthouse was built instead, by François Coignet in 1869."
      },
      {
-      "fact": "f23",
+      "fact": "f19",
       "label": "In June 1871, Bartholdi crossed the Atlantic, with letters of introduction signed by Laboulaye."
      },
      {
-      "fact": "f8",
+      "fact": "f5",
       "label": "The torch-bearing arm was displayed at the Centennial Exposition in Philadelphia in 1876."
      },
      {
@@ -140,11 +140,11 @@
    },
    {
     "type": "sentence",
-    "text": "The statue is a figure of a classically draped woman, inspired by the Roman goddess of liberty, Libertas."
+    "text": "The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi."
    },
    {
     "type": "closing",
-    "text": "Limited numbers of visitors can access the rim of the pedestal and the interior of the statue’s crown from within."
+    "text": "The statue was administered by the United States Lighthouse Board until 1901 and then by the Department of War."
    }
   ],
   "deep": [
@@ -165,7 +165,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f26",
+    "fact": "f22",
     "display": "73 feet",
     "caption": "The defiant lion, 73 feet long and half that in height, displays an emotional quality characteristic of Romanticism, which Bartholdi would later bring to the Statue of Liberty."
    },
@@ -173,15 +173,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f21",
+      "fact": "f17",
       "label": "The Port Said Lighthouse was built instead, by François Coignet in 1869."
      },
      {
-      "fact": "f23",
+      "fact": "f19",
       "label": "In June 1871, Bartholdi crossed the Atlantic, with letters of introduction signed by Laboulaye."
      },
      {
-      "fact": "f8",
+      "fact": "f5",
       "label": "The torch-bearing arm was displayed at the Centennial Exposition in Philadelphia in 1876."
      },
      {
@@ -216,14 +216,14 @@
    },
    {
     "type": "closing",
-    "text": "Limited numbers of visitors can access the rim of the pedestal and the interior of the statue’s crown from within; public access to the torch has been barred since 1916."
+    "text": "The statue was administered by the United States Lighthouse Board until 1901 and then by the Department of War; since 1933, it has been maintained by the National Park Service as part of the Statue of Liberty National Monument."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0f4ac8d8c21b6f.014901b1e1da36"
+  "hash": "00d1c3d31111cf.12d41c44792051"
  }
 }

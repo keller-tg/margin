@@ -6,6 +6,7 @@ npm run content:prepare   # pick topics into the frozen queue, write authoring p
 npm run content:bake      # compose (extractive for now), verify, write public/daily/*.json
 npm run content:verify    # re-verify everything that is baked
 npm run content:preview -- en/2026-10-06.morning de/2026-10-06.evening
+npm run content:quality   # seeded random samples + the weakest 10% with reasons
 ```
 
 ## Talking to Wikimedia (rules approved 2026-10-05)
@@ -29,7 +30,9 @@ All traffic goes through `scripts/content/lib/wiki.ts`:
 3. the same props for the de and fr articles
 4. imageinfo + extmetadata for every candidate image
 
-Output: `content/pool/{lang}.jsonl`, `content/images/meta.json` (every evaluated image, with verdict, credit and events) and `content/reports/pool.json` (counts, fallbacks, rejections).
+Output: `content/pool/{lang}.jsonl.gz`, `content/pool/dropped.{lang}.json` (compact: dropped topic → reason), `content/images/index.json.gz` (compact: every evaluated file → `ok` + event codes, or the rejection reason), `content/images/rejected.json` (file → reason, readable) and `content/reports/pool.json` (counts, fallbacks, rejections).
+
+**Storage (decision of 2026-10-06).** Full records are kept only for what is used: `content/images/used.json` holds the full credits of the images in the queues, and the packets hold the full source text of the queued topics. Everything else is compact (id → reason) or compressed. The API cache is gzip. Raw image-metadata responses are not kept: `content:prepare` derives a used image's full record on demand (one batched request per 50 files, then cached). After pruning, the cache shrank from 83 MB to 9 MB, the image records from 15 MB to 1 MB, and the pool from 7 MB to 2 MB. `pool:build` still runs offline from the compact index.
 
 **Image per topic and language.** Images are shared across editions, so the image is chosen in this order: the edition's own free lead image, then another edition's lead image, then Wikidata P18. A topic is dropped only if no free image exists anywhere.
 
@@ -47,6 +50,13 @@ Output: `content/pool/{lang}.jsonl`, `content/images/meta.json` (every evaluated
 
 Every fallback and rejection is counted in `content/reports/pool.json` and listed per file in `content/images/meta.json`.
 
+## Review queue, word scan, image screen (decisions of 2026-10-06)
+
+- **Category blocklist, narrow.** Only explicit sexual content, recreational drug use and trafficking, graphic violence *events* (massacres, genocide, terrorism, executions) and live political controversy block a topic. Biographical war categories and substance classes don't block (Fauré, Achebe, Armstrong and xenon are eligible again). Earlier rejects get re-checked on every `content:prepare`.
+- **Word scan → review.** After composing, every page is scanned for words like bomb, massacre, execution, genocide, murder or suicide (`src/core/review/scan.ts`, en/de/fr). A hit sends the topic to `content/review/topics-queue.json` with status `review`, along with the matching pages, and the slot re-picks. Set `status` to `approved` to let the topic back in, or `rejected` to keep it out.
+- **Manual review.** Robert Oppenheimer (de), Ezra Pound (en) and Palmyre (fr) are in the review queue, waiting for the owner's decision.
+- **Image screen.** A file's own Commons categories, description and title are checked for nudity, explosions, corpses, weapons and combat. A hit falls back to the topic's next image (`altImages`). If no safe image is left, the topic is rejected. Hits are listed in `content/reports/image-screen.json`. **Known limit:** the screen only sees metadata. The sculpture of children behind fr "Nudité" has no tell-tale category, so only the topic blocklist caught it. The screen is a safety net, not a guarantee, and a human look at the images remains part of the review.
+
 ## Picking
 
 `src/core/pick` is pure: seed = `hash(date|lang|slot|attempt)`. It scores FA/GA class, penalises abstract headings ("Basics", "General"), favours a length sweet spot, avoids the previous two days' domains and today's other slot, and excludes anything used within 365 days. It then draws from the top 40, weighted.
@@ -59,7 +69,12 @@ A rejected candidate goes to `content/pool/rejects.json`, and the slot re-picks 
 
 ## Composer and verifier
 
-- `src/core/compose` builds all three paces from source sentences only. It cleans parentheticals, cuts long sentences only at clause boundaries, avoids dangling pronouns, and builds big-number and timeline pages from extracted facts. A quality score below 0.6 switches to a minimal template. If even that cannot fill the page budget, the build fails.
+- `src/core/compose` builds all three paces from source sentences only. Rules added after the 2026-10-06 review, each with a regression test from real cases:
+  - **Big numbers** are never part of a catalogue ID or code (`SMNK-PAL 10,000`). They need a unit or a counted word.
+  - **Every sentence and timeline label needs a proper subject and a finite verb.** No "Placed on sale between 1877 and 1881.", no clause cut that leaves only a name and an appositive, no bibliography entries.
+  - **Page 1 after the title says what the thing is.** It's a definitional lead sentence, shortened if needed by dropping an appositive or cutting after the predicate. Etymology never opens, and only Deep may use it, late.
+  - The title line falls back to the definition's predicate when Wikidata has no description. Sentences in another language (book titles in a list of works) are never used.
+- `src/core/quality/assess.ts` scores every baked thing by named problems: weak number, missing subject, dangling pronoun, short page, image instead of text, opener that isn't a definition, early etymology, few page types, no title line, foreign script, dense pages. `npm run content:quality` prints a seeded random sample and the weakest 10%. It cleans parentheticals, cuts long sentences only at clause boundaries, avoids dangling pronouns, and builds big-number and timeline pages from extracted facts. A quality score below 0.6 switches to a minimal template. If even that cannot fill the page budget, the build fails.
 - Evening things have exactly 2/3/4 pages (Easygoing/Medium/Deep), with the title and closing included.
 - `src/core/verify` implements plan §6. Its attribution rule follows the license rules above.
 - Nothing ships unverified: `content:bake` writes a thing only if it verifies, and stamps it with the verifier version and hashes.

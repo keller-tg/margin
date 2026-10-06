@@ -46,18 +46,18 @@
    "unit": "m",
    "surface": "99m"
   },
-  "f25": {
+  "f23": {
    "kind": "date",
    "value": "1925",
    "surface": "1925"
   },
-  "f112": {
+  "f84": {
    "kind": "measure",
    "value": 27,
    "unit": "mg",
    "surface": "27 mg"
   },
-  "f146": {
+  "f114": {
    "kind": "date",
    "value": "2000",
    "surface": "2000"
@@ -77,7 +77,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f112",
+    "fact": "f84",
     "display": "27 mg",
     "caption": "La fission d’un gramme d’uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc."
    },
@@ -112,11 +112,11 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f25",
+      "fact": "f23",
       "label": "La question de l’authenticité de la découverte de l’élément 43 en 1925 reste débattue."
      },
      {
-      "fact": "f146",
+      "fact": "f114",
       "label": "Depuis l’an 2000, la réglementation limite les rejets à 90 TBq par an."
      }
     ]
@@ -156,11 +156,11 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f25",
+      "fact": "f23",
       "label": "La question de l’authenticité de la découverte de l’élément 43 en 1925 reste débattue."
      },
      {
-      "fact": "f146",
+      "fact": "f114",
       "label": "Depuis l’an 2000, la réglementation limite les rejets à 90 TBq par an."
      }
     ]
@@ -196,9 +196,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "0920fc65f49fea.1f591c0dc2187b"
+  "hash": "0de1bbdd8400ed.1ae3f62d354285"
  }
 }

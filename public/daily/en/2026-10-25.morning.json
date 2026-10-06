@@ -40,13 +40,13 @@
   }
  },
  "facts": {
-  "f3": {
+  "f2": {
    "kind": "measure",
    "value": 97.2,
    "unit": "percent",
    "surface": "97.2 percent"
   },
-  "f25": {
+  "f16": {
    "kind": "measure",
    "value": 1.8,
    "unit": "°c",
@@ -67,7 +67,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f25",
+    "fact": "f16",
     "display": "1.8 °C",
     "caption": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C."
    },
@@ -94,7 +94,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f3",
+    "fact": "f2",
     "display": "97.2 percent",
     "caption": "Earth’s 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface."
    },
@@ -129,7 +129,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f3",
+    "fact": "f2",
     "display": "97.2 percent",
     "caption": "Earth’s 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface."
    },
@@ -171,6 +171,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1bd5b52dea82bb.13031b23a0d03e"
+  "hash": "032efa8f390790.0e34dd8a137fff"
  }
 }

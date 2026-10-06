@@ -40,31 +40,36 @@
   }
  },
  "facts": {
-  "f14": {
+  "f6": {
    "kind": "date",
    "value": "1840",
    "surface": "1840"
   },
-  "f16": {
+  "f8": {
    "kind": "date",
    "value": "1843",
    "surface": "1843"
   },
-  "f17": {
+  "f12": {
    "kind": "measure",
-   "value": 20,
+   "value": 23,
    "unit": "jahren",
-   "surface": "20 Jahren"
+   "surface": "23 Jahren"
   },
-  "f51": {
+  "f25": {
+   "kind": "number",
+   "value": 5000,
+   "surface": "5000"
+  },
+  "f30": {
    "kind": "date",
    "value": "1864",
    "surface": "1864"
   },
-  "f55": {
+  "f44": {
    "kind": "date",
-   "value": "1872",
-   "surface": "1872"
+   "value": "1879",
+   "surface": "1879"
   }
  },
  "paces": {
@@ -80,10 +85,8 @@
     "text": "Alfred Russel Wallace OM war ein weitgehend autodidaktisch gebildeter britischer Naturforscher."
    },
    {
-    "type": "bignumber",
-    "fact": "f17",
-    "display": "20 Jahren",
-    "caption": "Daraufhin ging Wallace im Alter von 20 Jahren weg."
+    "type": "sentence",
+    "text": "Zwischen 1840 und 1843 arbeitete Wallace als Landvermesser im östlichen England und Wales."
    },
    {
     "type": "closing",
@@ -108,28 +111,28 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
-    "display": "20 Jahren",
-    "caption": "Daraufhin ging Wallace im Alter von 20 Jahren weg."
+    "fact": "f25",
+    "display": "5000",
+    "caption": "Während Wallace Insekten sammelte, wurden viele der Vogelexemplare von seinen Assistenten gesammelt, darunter etwa 5000 Exemplare, die von Ali gesammelt und präpariert wurden."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f14",
+      "fact": "f6",
       "label": "Zwischen 1840 und 1843 arbeitete Wallace als Landvermesser im östlichen England und Wales."
      },
      {
-      "fact": "f16",
+      "fact": "f8",
       "label": "Gegen Ende 1843 war das Geschäft von William aufgrund schwieriger wirtschaftlicher Bedingungen zurückgegangen."
      },
      {
-      "fact": "f51",
+      "fact": "f30",
       "label": "Nach einem Jahr Umwerbung verlobte sich Wallace 1864 mit einer jungen Frau."
      },
      {
-      "fact": "f55",
-      "label": "1872 baute Wallace ein Betonhaus auf gepachtetem Land in Grays in Essex."
+      "fact": "f44",
+      "label": "1879 beteiligte sich Wallace engagiert an der Diskussion über Handelsgrundsätze und Landreform."
      }
     ]
    },
@@ -160,28 +163,28 @@
    },
    {
     "type": "bignumber",
-    "fact": "f17",
-    "display": "20 Jahren",
-    "caption": "Daraufhin ging Wallace im Alter von 20 Jahren weg."
+    "fact": "f12",
+    "display": "23 Jahren",
+    "caption": "Im Herbst 1846, im Alter von 23 Jahren, konnten Wallace und sein Bruder John eine Hütte in der Nähe von Neath kaufen, in der sie mit ihrer Mutter und ihrer Schwester Fanny lebten."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f14",
+      "fact": "f6",
       "label": "Zwischen 1840 und 1843 arbeitete Wallace als Landvermesser im östlichen England und Wales."
      },
      {
-      "fact": "f16",
+      "fact": "f8",
       "label": "Gegen Ende 1843 war das Geschäft von William aufgrund schwieriger wirtschaftlicher Bedingungen zurückgegangen."
      },
      {
-      "fact": "f51",
+      "fact": "f30",
       "label": "Nach einem Jahr Umwerbung verlobte sich Wallace 1864 mit einer jungen Frau."
      },
      {
-      "fact": "f55",
-      "label": "1872 baute Wallace ein Betonhaus auf gepachtetem Land in Grays in Essex."
+      "fact": "f44",
+      "label": "1879 beteiligte sich Wallace engagiert an der Diskussion über Handelsgrundsätze und Landreform."
      }
     ]
    },
@@ -216,9 +219,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c9f9e5d7411f0.19ea362296d89b"
+  "hash": "0cb3eab32cb952.17f73500988abd"
  }
 }

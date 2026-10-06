@@ -40,33 +40,33 @@
   }
  },
  "facts": {
-  "f26": {
+  "f20": {
    "kind": "measure",
    "value": 1918,
    "unit": "l",
    "surface": "1918 l"
   },
-  "f51": {
+  "f42": {
    "kind": "date",
    "value": "1848",
    "surface": "1848"
   },
-  "f53": {
+  "f44": {
    "kind": "date",
    "value": "1815",
    "surface": "1815"
   },
-  "f54": {
+  "f45": {
    "kind": "date",
    "value": "1862",
    "surface": "1862"
   },
-  "f55": {
+  "f46": {
    "kind": "date",
    "value": "1866",
    "surface": "1866"
   },
-  "f79": {
+  "f66": {
    "kind": "measure",
    "value": 88000,
    "unit": "km2",
@@ -83,11 +83,11 @@
    },
    {
     "type": "sentence",
-    "text": "La langue officielle du pays est principalement l’allemand, à côté d’autres langues régionales ou minoritaires."
+    "text": "L’Allemagne, en forme longue la République fédérale d’Allemagne, est un État d’Europe centrale."
    },
    {
     "type": "bignumber",
-    "fact": "f79",
+    "fact": "f66",
     "display": "88 000 km2",
     "caption": "L’Allemagne perd 88 000 km2 et huit millions d’habitants."
    },
@@ -105,7 +105,7 @@
    },
    {
     "type": "sentence",
-    "text": "Décentralisée et fédérale, l’Allemagne compte quatre villes de plus d’un million d’habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne."
+    "text": "L’Allemagne, en forme longue la République fédérale d’Allemagne, est un État d’Europe centrale."
    },
    {
     "type": "image",
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f26",
+    "fact": "f20",
     "display": "1918 l",
     "caption": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l’avènement de la République, puis en 1933 celui du Troisième Reich."
    },
@@ -122,26 +122,26 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f53",
+      "fact": "f44",
       "label": "L’Allemagne se retrouve dans la même situation politique qu’en 1815."
      },
      {
-      "fact": "f51",
+      "fact": "f42",
       "label": "Les révolutions de l’année 1848 touchent la plupart des États allemands."
      },
      {
-      "fact": "f54",
+      "fact": "f45",
       "label": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier."
      },
      {
-      "fact": "f55",
+      "fact": "f46",
       "label": "En 1866, l’armée prussienne écrase l’armée autrichienne à Sadowa."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "Le siège du Gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn, ancienne capitale de la République fédérale d’Allemagne."
+    "text": "Décentralisée et fédérale, l’Allemagne compte quatre villes de plus d’un million d’habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne."
    },
    {
     "type": "closing",
@@ -157,7 +157,7 @@
    },
    {
     "type": "sentence",
-    "text": "Décentralisée et fédérale, l’Allemagne compte quatre villes de plus d’un million d’habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr, Francfort-sur-le-Main, Berlin et Stuttgart."
+    "text": "L’Allemagne, en forme longue la République fédérale d’Allemagne, est un État d’Europe centrale."
    },
    {
     "type": "image",
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f26",
+    "fact": "f20",
     "display": "1918 l",
     "caption": "La défaite allemande qui suivit la Première Guerre mondiale provoqua en 1918 l’avènement de la République, puis en 1933 celui du Troisième Reich, lequel s’effondra en 1945 dans la défaite qu’entraîna la Seconde Guerre mondiale."
    },
@@ -174,19 +174,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f53",
+      "fact": "f44",
       "label": "L’Allemagne se retrouve dans la même situation politique qu’en 1815."
      },
      {
-      "fact": "f51",
+      "fact": "f42",
       "label": "Les révolutions de l’année 1848 touchent la plupart des États allemands."
      },
      {
-      "fact": "f54",
+      "fact": "f45",
       "label": "En 1862, Otto von Bismarck devient le ministre-président du roi de Prusse Guillaume Ier."
      },
      {
-      "fact": "f55",
+      "fact": "f46",
       "label": "En 1866, l’armée prussienne écrase l’armée autrichienne à Sadowa."
      }
     ]
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1fcbb553618919.07a627835ff1e6"
+  "hash": "19f6a134ee6287.1613f072524319"
  }
 }

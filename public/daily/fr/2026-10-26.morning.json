@@ -40,7 +40,7 @@
   }
  },
  "facts": {
-  "f33": {
+  "f23": {
    "kind": "measure",
    "value": 95,
    "unit": "%",
@@ -61,7 +61,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f33",
+    "fact": "f23",
     "display": "95 %",
     "caption": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine."
    },
@@ -88,7 +88,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f33",
+    "fact": "f23",
     "display": "95 %",
     "caption": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine."
    },
@@ -123,7 +123,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f33",
+    "fact": "f23",
     "display": "95 %",
     "caption": "En 1998 ces deux aliments représentaient 95 % du 137Cs total ingéré en Ukraine."
    },
@@ -137,6 +137,10 @@
    },
    {
     "type": "sentence",
+    "text": "Le nom a été formé sur le latin caesius, en raison de la couleur bleu clair des deux lignes caractéristiques de son spectre d’émission."
+   },
+   {
+    "type": "sentence",
     "text": "Le césium est le moins électronégatif des métaux, ce qui le rend intéressant pour l’effet photoélectrique."
    },
    {
@@ -145,15 +149,11 @@
    },
    {
     "type": "sentence",
-    "text": "Le nom a été formé sur le latin caesius, en raison de la couleur bleu clair des deux lignes caractéristiques de son spectre d’émission."
-   },
-   {
-    "type": "sentence",
     "text": "Néanmoins, au-delà d’une certaine dose et par exemple sous forme de chlorure de césium absorbé par voie orale, il provoque une perte d’appétit, des nausées ou des vomissements, des diarrhées, voire une arythmie cardiaque."
    },
    {
     "type": "sentence",
-    "text": "Forage : le formiate de césium saturé dans l’eau est thermiquement stable, stable à la pression, et assez dense pour que certains sédiments y flottent."
+    "text": "En contact avec l’œil, l’hydroxyde de césium est source de sévères irritations."
    },
    {
     "type": "closing",
@@ -162,9 +162,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1b181ff52f3258.1f7743fa0eb979"
+  "hash": "18ac41f3c14757.180e2f85081db0"
  }
 }

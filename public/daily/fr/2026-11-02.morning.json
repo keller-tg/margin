@@ -50,24 +50,24 @@
    "value": "1371",
    "surface": "1371"
   },
-  "f16": {
+  "f15": {
    "kind": "measure",
    "value": 1808,
    "unit": "km",
    "surface": "1 808 km"
   },
-  "f39": {
+  "f25": {
    "kind": "measure",
    "value": 470,
    "unit": "mètres",
    "surface": "470 mètres"
   },
-  "f43": {
+  "f28": {
    "kind": "date",
    "value": "540",
    "surface": "540"
   },
-  "f67": {
+  "f51": {
    "kind": "date",
    "value": "1999",
    "surface": "1999"
@@ -83,11 +83,11 @@
    },
    {
     "type": "sentence",
-    "text": "La Bulgarie couvre approximativement la Thrace antique."
+    "text": "La Bulgarie est un pays d’Europe du Sud-Est situé dans les Balkans."
    },
    {
     "type": "bignumber",
-    "fact": "f39",
+    "fact": "f25",
     "display": "470 mètres",
     "caption": "L’altitude moyenne de la Bulgarie est de 470 mètres."
    },
@@ -114,7 +114,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
+    "fact": "f15",
     "display": "1 808 km",
     "caption": "La Bulgarie se trouve dans le Sud-Est de l’Europe, avec 1 808 km de frontières terrestres."
    },
@@ -122,7 +122,7 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f43",
+      "fact": "f28",
       "label": "La Bulgarie a un réseau de 540 rivières, dont la plupart sont plutôt courtes."
      },
      {
@@ -134,7 +134,7 @@
       "label": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
      },
      {
-      "fact": "f67",
+      "fact": "f51",
       "label": "Depuis 1999, la Bulgarie est subdivisée en 28 oblasti."
      }
     ]
@@ -166,7 +166,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
+    "fact": "f15",
     "display": "1 808 km",
     "caption": "La Bulgarie se trouve dans le Sud-Est de l’Europe, avec 1 808 km de frontières terrestres."
    },
@@ -174,7 +174,7 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f43",
+      "fact": "f28",
       "label": "La Bulgarie a un réseau de 540 rivières, dont la plupart sont plutôt courtes."
      },
      {
@@ -186,14 +186,14 @@
       "label": "Après 1371, ce « Second Empire » se morcelle en plusieurs principautés."
      },
      {
-      "fact": "f67",
+      "fact": "f51",
       "label": "Depuis 1999, la Bulgarie est subdivisée en 28 oblasti."
      }
     ]
    },
    {
     "type": "sentence",
-    "text": "La longueur du littoral est de 354 km et l’altitude s’élève de 0 m à 2 925 m."
+    "text": "La longueur du littoral est de 354 km et l’altitude s’élève de 0 m à 2 925 m. La principale caractéristique du pays est sa division en bandes de montagnes et de plaines orientées est-ouest."
    },
    {
     "type": "sentence",
@@ -205,15 +205,15 @@
    },
    {
     "type": "sentence",
+    "text": "Plus des deux tiers du pays, constitués de plaines, plateaux et collines, se situent à une altitude inférieure à 600 mètres."
+   },
+   {
+    "type": "sentence",
     "text": "Le climat de la Bulgarie est de type continental et méditerranéen."
    },
    {
     "type": "sentence",
     "text": "Le nom bŭlgar désignait les Proto-Bulgares, peuple cavalier venu de la steppe pontique et dont les origines sont, semble-t-il, multiples, en partie iraniennes avec des composantes alanes, mais surtout turques avec des composantes koutrigoures, outigoures, saragoures, khazares, petchénègues et coumanes."
-   },
-   {
-    "type": "sentence",
-    "text": "La principale caractéristique du pays est sa division en bandes de montagnes et de plaines orientées est-ouest."
    },
    {
     "type": "closing",
@@ -222,9 +222,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "010e597fc2e455.15a55c1c68f0db"
+  "hash": "067c4adecfe158.134e89857a2d4e"
  }
 }

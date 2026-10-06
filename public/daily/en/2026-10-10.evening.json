@@ -50,7 +50,7 @@
    },
    {
     "type": "closing",
-    "text": "Simple sugars, also called monosaccharides, include glucose, fructose and galactose."
+    "text": "Compound sugars, also called disaccharides or double sugars, are molecules made of two bonded monosaccharides."
    }
   ],
   "medium": [
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "061d30c7b2e2b3.1f76ef888b9da6"
+  "hash": "1a457ae5db9085.13dfbe458be1be"
  }
 }

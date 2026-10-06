@@ -46,22 +46,22 @@
    "unit": "light-years",
    "surface": "42.9 light-years"
   },
-  "f48": {
+  "f43": {
    "kind": "date",
    "value": "1974",
    "surface": "1974"
   },
-  "f75": {
+  "f64": {
    "kind": "date",
    "value": "723",
    "surface": "723"
   },
-  "f123": {
+  "f110": {
    "kind": "date",
    "value": "2015",
    "surface": "2015"
   },
-  "f130": {
+  "f114": {
    "kind": "date",
    "value": "1975",
    "surface": "1975"
@@ -116,19 +116,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f75",
+      "fact": "f64",
       "label": "The pair of giants is separated from the pair of red dwarfs by 723”."
      },
      {
-      "fact": "f48",
+      "fact": "f43",
       "label": "A major milestone in stellar X-ray astronomy happened on April 5, 1974."
      },
      {
-      "fact": "f130",
+      "fact": "f114",
       "label": "In 1975, an eccentric 388-year orbit gave masses of 0.65 M☉ and 0.13 M☉."
      },
      {
-      "fact": "f123",
+      "fact": "f110",
       "label": "In 2015 the separation had increased to 3.5″."
      }
     ]
@@ -168,26 +168,22 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f75",
+      "fact": "f64",
       "label": "The pair of giants is separated from the pair of red dwarfs by 723”."
      },
      {
-      "fact": "f48",
+      "fact": "f43",
       "label": "A major milestone in stellar X-ray astronomy happened on April 5, 1974."
      },
      {
-      "fact": "f130",
+      "fact": "f114",
       "label": "In 1975, an eccentric 388-year orbit gave masses of 0.65 M☉ and 0.13 M☉."
      },
      {
-      "fact": "f123",
+      "fact": "f110",
       "label": "In 2015 the separation had increased to 3.5″."
      }
     ]
-   },
-   {
-    "type": "sentence",
-    "text": "As a relatively nearby star system, Capella is listed in the Gliese-Jahreiss Catalogue with designations GJ 194 for the bright pair of giants and GJ 195 for the faint pair of red dwarfs."
    },
    {
     "type": "sentence",
@@ -210,15 +206,19 @@
     "text": "Based on an annual parallax shift of 76.20 milliarcseconds as measured by the Hipparcos satellite, this system is estimated to be 42.8 light-years from Earth, with a margin of error of 0.3 light-year."
    },
    {
+    "type": "sentence",
+    "text": "An alternative method to determine the distance is via the orbital parallax, which gives a distance of 42.92 light-years with a margin of error of only 0.1%."
+   },
+   {
     "type": "closing",
     "text": "Several other stars in the same visual field have been catalogued as companions but are physically unrelated."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c4eff61d278d7.0997c9204bee3c"
+  "hash": "17acc01d1258be.13fbfd0f9bbf8e"
  }
 }

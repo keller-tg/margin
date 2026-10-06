@@ -45,24 +45,24 @@
    {
     "type": "title",
     "title": "Hydrogène",
-    "line": "",
+    "line": "L’élément chimique de numéro atomique 1",
     "image": "img1"
    },
    {
     "type": "closing",
-    "text": "L’hydrogène peut avoir les nombres d’oxydation 0, +I et –I."
+    "text": "L’hydrogène est un élément électropositif, fréquemment ionisé à l’état H+ ou H3O+."
    }
   ],
   "medium": [
    {
     "type": "title",
     "title": "Hydrogène",
-    "line": "",
+    "line": "L’élément chimique de numéro atomique 1",
     "image": "img1"
    },
    {
     "type": "sentence",
-    "text": "Un troisième isotope, le tritium 3H, instable, est produit dans les réactions de fission nucléaire."
+    "text": "L’hydrogène est l’élément chimique de numéro atomique 1."
    },
    {
     "type": "closing",
@@ -73,7 +73,7 @@
    {
     "type": "title",
     "title": "Hydrogène",
-    "line": "",
+    "line": "L’élément chimique de numéro atomique 1",
     "image": "img1"
    },
    {
@@ -92,9 +92,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.8,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "00c5d21c461937.116a3b02a5dbde"
+  "hash": "132bdea3694243.107432eeee7542"
  }
 }

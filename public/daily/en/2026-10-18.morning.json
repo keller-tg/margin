@@ -40,42 +40,37 @@
   }
  },
  "facts": {
-  "f10": {
+  "f5": {
    "kind": "date",
    "value": "1814",
    "surface": "1814"
   },
-  "f11": {
+  "f6": {
    "kind": "date",
    "value": "1820",
    "surface": "1820"
   },
-  "f15": {
+  "f9": {
    "kind": "date",
    "value": "1827",
    "surface": "1827"
   },
-  "f16": {
+  "f10": {
    "kind": "date",
    "value": "1828",
    "surface": "1828"
   },
-  "f83": {
+  "f65": {
    "kind": "measure",
    "value": 15,
    "unit": "years",
    "surface": "15 years"
   },
-  "f85": {
+  "f66": {
    "kind": "measure",
    "value": 24,
    "unit": "years",
    "surface": "24 years"
-  },
-  "f111": {
-   "kind": "number",
-   "value": 150000,
-   "surface": "150,000"
   }
  },
  "paces": {
@@ -91,14 +86,12 @@
     "text": "Wilhelm Richard Wagner was a German composer, theatre director, essayist."
    },
    {
-    "type": "bignumber",
-    "fact": "f111",
-    "display": "150,000",
-    "caption": "Moreover, the festival finished with a deficit of about 150,000 marks."
+    "type": "sentence",
+    "text": "In that approach, the drama unfolds as a continuously sung narrative."
    },
    {
     "type": "closing",
-    "text": "Declared a “genius” by some and a “disease” by others, his views on religion, politics."
+    "text": "Wagner’s unorthodox operas, provocative essays, and contentious personal conduct engendered considerable controversy during his lifetime."
    }
   ],
   "medium": [
@@ -119,7 +112,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f85",
+    "fact": "f66",
     "display": "24 years",
     "caption": "Cosima was 24 years younger than Wagner and was herself illegitimate, the daughter of the Countess Marie d’Agoult."
    },
@@ -127,19 +120,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
+      "fact": "f5",
       "label": "In August 1814 Johanna and Geyer probably married."
      },
      {
-      "fact": "f11",
+      "fact": "f6",
       "label": "In late 1820, Wagner was enrolled at Pastor Wetzel’s school at Possendorf, near Dresden."
      },
      {
-      "fact": "f15",
+      "fact": "f9",
       "label": "By 1827, the family had returned to Leipzig."
      },
      {
-      "fact": "f16",
+      "fact": "f10",
       "label": "Wagner’s first lessons in harmony were taken during 1828–1831 with Christian Gottlieb Müller."
      }
     ]
@@ -150,7 +143,7 @@
    },
    {
     "type": "closing",
-    "text": "Declared a “genius” by some and a “disease” by others, his views on religion, politics."
+    "text": "Wagner’s unorthodox operas, provocative essays, and contentious personal conduct engendered considerable controversy during his lifetime, and continue to do so."
    }
   ],
   "deep": [
@@ -171,7 +164,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f83",
+    "fact": "f65",
     "display": "15 years",
     "caption": "After grave difficulties in rehearsal, Tristan und Isolde premiered at the National Theatre Munich on 10 June 1865, the first Wagner opera premiere in almost 15 years."
    },
@@ -179,19 +172,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f10",
+      "fact": "f5",
       "label": "In August 1814 Johanna and Geyer probably married."
      },
      {
-      "fact": "f11",
+      "fact": "f6",
       "label": "In late 1820, Wagner was enrolled at Pastor Wetzel’s school at Possendorf, near Dresden."
      },
      {
-      "fact": "f15",
+      "fact": "f9",
       "label": "By 1827, the family had returned to Leipzig."
      },
      {
-      "fact": "f16",
+      "fact": "f10",
       "label": "Wagner’s first lessons in harmony were taken during 1828–1831 with Christian Gottlieb Müller."
      }
     ]
@@ -222,14 +215,14 @@
    },
    {
     "type": "closing",
-    "text": "Declared a “genius” by some and a “disease” by others, his views on religion, politics, and society remain debated—most notably the extent to which his antisemitism finds expression in his stage and prose works."
+    "text": "Wagner’s unorthodox operas, provocative essays, and contentious personal conduct engendered considerable controversy during his lifetime, and continue to do so."
    }
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "168f0ce889996b.0f5a82150bffd1"
+  "hash": "0138c8d76e012b.0063cb0f81e53b"
  }
 }

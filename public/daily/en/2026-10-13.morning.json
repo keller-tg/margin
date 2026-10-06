@@ -45,23 +45,18 @@
    "value": "2020",
    "surface": "2020"
   },
-  "f21": {
+  "f20": {
    "kind": "measure",
    "value": 40,
    "unit": "kilometres",
    "surface": "40 kilometres"
   },
-  "f28": {
-   "kind": "date",
-   "value": "1905",
-   "surface": "1905"
-  },
-  "f41": {
+  "f39": {
    "kind": "date",
    "value": "1962",
    "surface": "1962"
   },
-  "f65": {
+  "f60": {
    "kind": "measure",
    "value": 70,
    "unit": "per cent",
@@ -78,11 +73,11 @@
    },
    {
     "type": "sentence",
-    "text": "As Rwanda’s primary city, Kigali is a relatively young urban centre."
+    "text": "Kigali is the capital, largest city, and a province-level administrative unit of Rwanda."
    },
    {
     "type": "bignumber",
-    "fact": "f65",
+    "fact": "f60",
     "display": "70 per cent",
     "caption": "The built-up urban area covers about 70 per cent of the municipal boundaries."
    },
@@ -109,7 +104,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f65",
+    "fact": "f60",
     "display": "70 per cent",
     "caption": "The built-up urban area covers about 70 per cent of the municipal boundaries."
    },
@@ -117,11 +112,7 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f28",
-      "label": "Despite a German ordinance written in 1905."
-     },
-     {
-      "fact": "f41",
+      "fact": "f39",
       "label": "Kigali became the capital upon Rwandan independence in 1962."
      },
      {
@@ -157,7 +148,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f21",
+    "fact": "f20",
     "display": "40 kilometres",
     "caption": "According to oral history, the Kingdom of Rwanda was founded in the 14th century on the shores of Lake Muhazi, around 40 kilometres east of modern Kigali."
    },
@@ -165,11 +156,7 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f28",
-      "label": "Despite a German ordinance written in 1905."
-     },
-     {
-      "fact": "f41",
+      "fact": "f39",
       "label": "Kigali became the capital upon Rwandan independence in 1962."
      },
      {
@@ -209,9 +196,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.96,
  "verified": {
   "version": 1,
-  "hash": "084c998a2e379a.0802a541ac27d7"
+  "hash": "1ef382b246066c.06430054deaaa4"
  }
 }

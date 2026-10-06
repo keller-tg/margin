@@ -40,10 +40,15 @@
   }
  },
  "facts": {
-  "f7": {
+  "f8": {
    "kind": "number",
-   "value": 428,
-   "surface": "428"
+   "value": 211,
+   "surface": "211"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 130,
+   "surface": "130"
   }
  },
  "paces": {
@@ -56,13 +61,11 @@
    },
    {
     "type": "sentence",
-    "text": "La cour parthe maintient des documents historiques."
+    "text": "L’Empire parthe est une importante puissance politique et culturelle iranienne dans la Perse antique."
    },
    {
-    "type": "bignumber",
-    "fact": "f7",
-    "display": "428",
-    "caption": "La dynastie arsacide parvient à se maintenir en Arménie jusqu’en 428."
+    "type": "sentence",
+    "text": "Mithridate Ier agrandit l’Empire en prenant la Médie et la Mésopotamie aux Séleucides."
    },
    {
     "type": "closing",
@@ -87,17 +90,17 @@
    },
    {
     "type": "bignumber",
-    "fact": "f7",
-    "display": "428",
-    "caption": "La dynastie arsacide parvient à se maintenir en Arménie jusqu’en 428."
+    "fact": "f19",
+    "display": "130",
+    "caption": "Après avoir éliminé Diodote Tryphon, Antiochos lance une campagne en 130 pour reprendre la Mésopotamie alors possession de Phraatès II de Parthie."
+   },
+   {
+    "type": "sentence",
+    "text": "Mithridate Ier agrandit l’Empire en prenant la Médie et la Mésopotamie aux Séleucides."
    },
    {
     "type": "sentence",
     "text": "La cour nomme quelques satrapes, la plupart hors d’Iran, mais ces satrapies sont plus petites et moins puissantes que les potentats achéménides."
-   },
-   {
-    "type": "sentence",
-    "text": "La cour parthe maintient des documents historiques, mais les Parthes n’ont aucune étude formelle de l’histoire."
    },
    {
     "type": "closing",
@@ -122,9 +125,9 @@
    },
    {
     "type": "bignumber",
-    "fact": "f7",
-    "display": "428",
-    "caption": "La dynastie arsacide parvient à se maintenir en Arménie jusqu’en 428."
+    "fact": "f8",
+    "display": "211",
+    "caption": "Cependant Curtis et Brosius avancent qu’Arsace II est le successeur immédiat d’Arsace Ier, Curtis prétend que la succession a eu lieu en 211 tandis que Brosius évoque 217."
    },
    {
     "type": "sentence",
@@ -161,9 +164,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "0c912d9214ed16.01192eb3b27cef"
+  "hash": "0fd7886b20ccf3.14996d68f8e33e"
  }
 }

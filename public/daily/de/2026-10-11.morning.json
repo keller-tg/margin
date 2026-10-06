@@ -51,29 +51,29 @@
    "value": "2022",
    "surface": "2022"
   },
-  "f16": {
+  "f17": {
+   "kind": "measure",
+   "value": 85,
+   "unit": "prozent",
+   "surface": "85 Prozent"
+  },
+  "f21": {
    "kind": "measure",
    "value": 80,
    "unit": "prozent",
    "surface": "80 Prozent"
   },
-  "f23": {
-   "kind": "measure",
-   "value": 80,
-   "unit": "prozent",
-   "surface": "80 Prozent"
-  },
-  "f30": {
+  "f27": {
    "kind": "date",
    "value": "1966",
    "surface": "1966"
   },
-  "f42": {
+  "f34": {
    "kind": "date",
    "value": "2014",
    "surface": "2014"
   },
-  "f49": {
+  "f40": {
    "kind": "date",
    "value": "2010",
    "surface": "2010"
@@ -93,13 +93,13 @@
    },
    {
     "type": "bignumber",
-    "fact": "f23",
+    "fact": "f21",
     "display": "80 Prozent",
     "caption": "Etwa 80 Prozent des Wassers des Colorado River wird für landwirtschaftliche Zwecke genutzt."
    },
    {
     "type": "closing",
-    "text": "44-minütige Fernsehdokumentation von Katja Esson."
+    "text": "Wasser ist Zukunft: Der Colorado – Ein Fluss sucht seine Mündung."
    }
   ],
   "medium": [
@@ -120,23 +120,23 @@
    },
    {
     "type": "bignumber",
-    "fact": "f16",
-    "display": "80 Prozent",
-    "caption": "In den 1970er Jahren machten Karpfen 70–80 Prozent aller im Mittellauf des Colorado gefangenen Fische aus."
+    "fact": "f17",
+    "display": "85 Prozent",
+    "caption": "Weiterhin machen eingeführte Arten rund 85 Prozent des Bestandes im am besten untersuchten Abschnitt innerhalb des Grand-Canyon-Nationalparks aus."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f30",
+      "fact": "f27",
       "label": "Damm-Bauten, vor allem des Glen Canyon Dam im Jahr 1966, halten das Wasser zurück."
      },
      {
-      "fact": "f49",
+      "fact": "f40",
       "label": "Das Experiment wurde möglich, weil 2010 ein Erdbeben mexikanische Bewässerungskanäle zerstört hatte."
      },
      {
-      "fact": "f42",
+      "fact": "f34",
       "label": "Im Jahr 2014 hielt der See noch 14,8 km³."
      },
      {
@@ -180,15 +180,15 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f30",
+      "fact": "f27",
       "label": "Damm-Bauten, vor allem des Glen Canyon Dam im Jahr 1966, halten das Wasser zurück."
      },
      {
-      "fact": "f49",
+      "fact": "f40",
       "label": "Das Experiment wurde möglich, weil 2010 ein Erdbeben mexikanische Bewässerungskanäle zerstört hatte."
      },
      {
-      "fact": "f42",
+      "fact": "f34",
       "label": "Im Jahr 2014 hielt der See noch 14,8 km³."
      },
      {
@@ -207,19 +207,19 @@
    },
    {
     "type": "sentence",
-    "text": "So versorgt der Fluss rund 40 Millionen Amerikaner und eine rund acht Milliarden Dollar umfassende Landwirtschaftsindustrie mit Wasser."
-   },
-   {
-    "type": "sentence",
-    "text": "Etwa 80 Prozent des Wassers des Colorado River wird für landwirtschaftliche Zwecke genutzt."
-   },
-   {
-    "type": "sentence",
-    "text": "Über 90 Prozent des Wassers, welches der Colorado River normalerweise führt, stammt aus der Schneeschmelze."
-   },
-   {
-    "type": "sentence",
     "text": "Der Fluss entspringt im Rocky-Mountain-Nationalpark im US-Bundesstaat Colorado, nordwestlich von Denver auf der Westflanke der Nordamerikanischen Kontinentalen Wasserscheide."
+   },
+   {
+    "type": "sentence",
+    "text": "Der historische Zustand des Colorado River ist weitgehend unbekannt."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Colorado River gehört zu den am meisten durch den Menschen genutzten Flüssen weltweit."
+   },
+   {
+    "type": "sentence",
+    "text": "So versorgt der Fluss rund 40 Millionen Amerikaner und eine rund acht Milliarden Dollar umfassende Landwirtschaftsindustrie mit Wasser."
    },
    {
     "type": "closing",
@@ -231,6 +231,6 @@
  "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1b8a8182905f3b.181e8e8a1ddd1d"
+  "hash": "04492a9159b0f3.1745f675615611"
  }
 }

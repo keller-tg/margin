@@ -45,28 +45,23 @@
    "value": "1862",
    "surface": "1862"
   },
-  "f26": {
+  "f24": {
    "kind": "date",
    "value": "1821",
    "surface": "1821"
   },
-  "f64": {
+  "f59": {
    "kind": "measure",
    "value": 25,
    "unit": "ans",
    "surface": "25 ans"
   },
-  "f103": {
+  "f87": {
    "kind": "date",
    "value": "1830",
    "surface": "1830"
   },
-  "f109": {
-   "kind": "date",
-   "value": "1834",
-   "surface": "1834"
-  },
-  "f125": {
+  "f108": {
    "kind": "date",
    "value": "1847",
    "surface": "1847"
@@ -82,15 +77,15 @@
    },
    {
     "type": "sentence",
-    "text": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
+    "text": "Hector Berlioz est un compositeur."
    },
    {
     "type": "sentence",
-    "text": "Berlioz invente les genres du « monodrame lyrique »."
+    "text": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
    },
    {
     "type": "closing",
-    "text": "Les Troyens sont achevés deux ans plus tard."
+    "text": "Berlioz invente les genres du « monodrame lyrique »."
    }
   ],
   "medium": [
@@ -102,7 +97,7 @@
    },
    {
     "type": "sentence",
-    "text": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
+    "text": "Hector Berlioz est un compositeur."
    },
    {
     "type": "image",
@@ -111,7 +106,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f64",
+    "fact": "f59",
     "display": "25 ans",
     "caption": "De même, le thème de l’Agnus Dei est repris 25 ans plus tard dans son Te Deum."
    },
@@ -119,20 +114,20 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f26",
+      "fact": "f24",
       "label": "Berlioz est promu bachelier ès lettres à Grenoble, le 22 mars 1821."
      },
      {
-      "fact": "f103",
+      "fact": "f87",
       "label": "Le chef d’orchestre, François-Antoine Habeneck, la crée au Conservatoire le 5 décembre 1830."
      },
      {
-      "fact": "f109",
-      "label": "Un fils, Louis, naît le 14 août 1834."
+      "fact": "f108",
+      "label": "La période anglaise de 1847-1848 est particulièrement fertile en aventures."
      },
      {
-      "fact": "f125",
-      "label": "La période anglaise de 1847-1848 est particulièrement fertile en aventures."
+      "fact": "f6",
+      "label": "En conséquence, l’opéra-comique Béatrice et Bénédict est créé à Baden-Baden en 1862."
      }
     ]
    },
@@ -163,7 +158,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f64",
+    "fact": "f59",
     "display": "25 ans",
     "caption": "De même, le thème de l’Agnus Dei est repris 25 ans plus tard dans son Te Deum."
    },
@@ -171,16 +166,16 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f26",
+      "fact": "f24",
       "label": "Berlioz est promu bachelier ès lettres à Grenoble, le 22 mars 1821."
      },
      {
-      "fact": "f103",
+      "fact": "f87",
       "label": "Le chef d’orchestre, François-Antoine Habeneck, la crée au Conservatoire le 5 décembre 1830."
      },
      {
-      "fact": "f109",
-      "label": "Un fils, Louis, naît le 14 août 1834."
+      "fact": "f108",
+      "label": "La période anglaise de 1847-1848 est particulièrement fertile en aventures."
      },
      {
       "fact": "f6",
@@ -219,9 +214,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.85,
+ "qualityScore": 0.92,
  "verified": {
   "version": 1,
-  "hash": "1655385350f719.0154085cd5dfa8"
+  "hash": "05f11d3a826643.07552426c5cf8a"
  }
 }

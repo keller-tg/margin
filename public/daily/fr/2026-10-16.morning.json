@@ -51,17 +51,17 @@
    "unit": "%",
    "surface": "90%"
   },
-  "f22": {
+  "f21": {
    "kind": "date",
    "value": "1966",
    "surface": "1966"
   },
-  "f29": {
+  "f28": {
    "kind": "date",
    "value": "1969",
    "surface": "1969"
   },
-  "f57": {
+  "f54": {
    "kind": "measure",
    "value": 15,
    "unit": "%",
@@ -78,7 +78,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f57",
+    "fact": "f54",
     "display": "15%",
     "caption": "Parmi les courriers que le CTW a reçus, 15% d’avis étaient les protestations."
    },
@@ -101,7 +101,7 @@
    },
    {
     "type": "sentence",
-    "text": "En France, l’émission doublée en français fait son apparition dès 1974 sous la forme d’une séquence intitulée « Bonjour Sésame »."
+    "text": "Sesame Street est une série télévisée éducative américaine pour enfants créée par Joan Ganz Cooney et Lloyd Morrisett."
    },
    {
     "type": "image",
@@ -118,11 +118,11 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f22",
+      "fact": "f21",
       "label": "En février 1966, cette idée parvient à Lloyd Morriset."
      },
      {
-      "fact": "f29",
+      "fact": "f28",
       "label": "L’émission commença ainsi le 10 novembre 1969."
      },
      {
@@ -133,11 +133,11 @@
    },
    {
     "type": "sentence",
-    "text": "Puis, l’adaptation française nommée 1, rue Sésame est produite et diffusée de 1978 à 1982 sur TF1."
+    "text": "En France, l’émission doublée en français fait son apparition dès 1974 sous la forme d’une séquence intitulée « Bonjour Sésame »."
    },
    {
     "type": "closing",
-    "text": "La communauté des noirs, de la classe moyenne, a protesté, en considérant que ce personnage représentait un stéréotype des noirs, négatif."
+    "text": "Puis, l’adaptation française nommée 1, rue Sésame est produite et diffusée de 1978 à 1982 sur TF1."
    }
   ],
   "deep": [
@@ -166,11 +166,11 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f22",
+      "fact": "f21",
       "label": "En février 1966, cette idée parvient à Lloyd Morriset."
      },
      {
-      "fact": "f29",
+      "fact": "f28",
       "label": "L’émission commença ainsi le 10 novembre 1969."
      },
      {
@@ -210,9 +210,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 1,
+ "qualityScore": 0.88,
  "verified": {
   "version": 1,
-  "hash": "07a49e8092dc06.09f11cc6f7f8d8"
+  "hash": "0339104ab687b8.04473845f33bd7"
  }
 }

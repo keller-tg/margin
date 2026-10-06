@@ -40,32 +40,27 @@
   }
  },
  "facts": {
-  "f13": {
+  "f9": {
    "kind": "date",
    "value": "1669",
    "surface": "1669"
   },
-  "f35": {
+  "f31": {
    "kind": "date",
    "value": "1485",
    "surface": "1485"
   },
   "f36": {
    "kind": "date",
-   "value": "1484",
-   "surface": "1484"
-  },
-  "f40": {
-   "kind": "date",
    "value": "1489",
    "surface": "1489"
   },
-  "f64": {
-   "kind": "number",
-   "value": 130,
-   "surface": "130"
+  "f48": {
+   "kind": "date",
+   "value": "1498",
+   "surface": "1498"
   },
-  "f73": {
+  "f67": {
    "kind": "number",
    "value": 200,
    "surface": "200"
@@ -110,7 +105,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f73",
+    "fact": "f67",
     "display": "200",
     "caption": "Around three months later, Josquin was chosen; his salary of 200 ducats was the highest ever for a ducal chapel member."
    },
@@ -118,19 +113,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f36",
-      "label": "Josquin went to Rome with Ascanio in July 1484 for a year."
-     },
-     {
-      "fact": "f35",
+      "fact": "f31",
       "label": "Virgo serena to this time, c. 1485."
      },
      {
-      "fact": "f40",
+      "fact": "f36",
       "label": "Josquin was in Milan again in January 1489, probably until early May."
      },
      {
-      "fact": "f13",
+      "fact": "f48",
+      "label": "From then to 1498 there is no firm evidence for his activities."
+     },
+     {
+      "fact": "f9",
       "label": "All records from Saint-Quentin were destroyed in 1669."
      }
     ]
@@ -162,27 +157,27 @@
    },
    {
     "type": "bignumber",
-    "fact": "f64",
-    "display": "130",
-    "caption": "The five-voice De profundis, a setting of Psalm 130, seems to have been written for a royal funeral, perhaps that of Louis XII, Anne of Brittany or Philip I of Castile."
+    "fact": "f67",
+    "display": "200",
+    "caption": "Around three months later, Josquin was chosen; his salary of 200 ducats was the highest ever for a ducal chapel member."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f36",
-      "label": "Josquin went to Rome with Ascanio in July 1484 for a year."
-     },
-     {
-      "fact": "f35",
+      "fact": "f31",
       "label": "Virgo serena to this time, c. 1485."
      },
      {
-      "fact": "f40",
+      "fact": "f36",
       "label": "Josquin was in Milan again in January 1489, probably until early May."
      },
      {
-      "fact": "f13",
+      "fact": "f48",
+      "label": "From then to 1498 there is no firm evidence for his activities."
+     },
+     {
+      "fact": "f9",
       "label": "All records from Saint-Quentin were destroyed in 1669."
      }
     ]
@@ -218,9 +213,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.95,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1cb2bfcb9acd9c.03a7a89eafa331"
+  "hash": "0f9c333a0b5429.02462af4f7f404"
  }
 }

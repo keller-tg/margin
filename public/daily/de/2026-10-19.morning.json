@@ -40,37 +40,31 @@
   }
  },
  "facts": {
-  "f8": {
-   "kind": "measure",
-   "value": 30,
-   "unit": "jahre",
-   "surface": "30 Jahre"
-  },
-  "f18": {
+  "f16": {
    "kind": "measure",
    "value": 290,
    "unit": "km",
    "surface": "290 km"
   },
-  "f55": {
+  "f45": {
    "kind": "date",
    "value": "2002",
    "surface": "2002"
   },
-  "f64": {
+  "f53": {
    "kind": "date",
    "value": "700",
    "surface": "700"
   },
-  "f76": {
+  "f62": {
    "kind": "date",
    "value": "1925",
    "surface": "1925"
   },
-  "f84": {
+  "f72": {
    "kind": "date",
-   "value": "1830",
-   "surface": "1830"
+   "value": "1900",
+   "surface": "1900"
   }
  },
  "paces": {
@@ -87,7 +81,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f18",
+    "fact": "f16",
     "display": "290 km",
     "caption": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich."
    },
@@ -114,7 +108,7 @@
    },
    {
     "type": "bignumber",
-    "fact": "f18",
+    "fact": "f16",
     "display": "290 km",
     "caption": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich, die zu Kiribati gehört und die eine ähnliche Bedeutung wegen reicher Phosphatlagerstätten hatte."
    },
@@ -122,19 +116,19 @@
     "type": "timeline",
     "events": [
      {
-      "fact": "f64",
+      "fact": "f53",
       "label": "Auf einen Arzt kommen etwa 700 Einwohner."
      },
      {
-      "fact": "f84",
-      "label": "Die europäische Einwanderung begann ca. 1830."
+      "fact": "f72",
+      "label": "Nachdem 1900 die bedeutenden Phosphatvorkommen entdeckt worden waren, beteiligte sich Deutschland am Abbau."
      },
      {
-      "fact": "f76",
+      "fact": "f62",
       "label": "Der erste Diabetesfall ist auf 1925 datiert."
      },
      {
-      "fact": "f55",
+      "fact": "f45",
       "label": "Das jährliche Bevölkerungswachstum beträgt 1,6 % nach einer Phase leichten Bevölkerungsrückgangs in den Jahren 2002–2011."
      }
     ]
@@ -166,27 +160,27 @@
    },
    {
     "type": "bignumber",
-    "fact": "f8",
-    "display": "30 Jahre",
-    "caption": "Der elsässische katholische Missionar Alois Kayser, MSC, der mehr als 30 Jahre auf Nauru missionierte und die nauruische Sprache studierte, lehnte Hambruchs Erklärung ab, da im Nauruischen das Wort «Strand», als Ziel eines Verbs der Bewegung, das richtungsweisende Wort «rodu»."
+    "fact": "f16",
+    "display": "290 km",
+    "caption": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich, die zu Kiribati gehört und die eine ähnliche Bedeutung wegen reicher Phosphatlagerstätten hatte."
    },
    {
     "type": "timeline",
     "events": [
      {
-      "fact": "f64",
+      "fact": "f53",
       "label": "Auf einen Arzt kommen etwa 700 Einwohner."
      },
      {
-      "fact": "f84",
-      "label": "Die europäische Einwanderung begann ca. 1830."
+      "fact": "f72",
+      "label": "Nachdem 1900 die bedeutenden Phosphatvorkommen entdeckt worden waren, beteiligte sich Deutschland am Abbau."
      },
      {
-      "fact": "f76",
+      "fact": "f62",
       "label": "Der erste Diabetesfall ist auf 1925 datiert."
      },
      {
-      "fact": "f55",
+      "fact": "f45",
       "label": "Das jährliche Bevölkerungswachstum beträgt 1,6 % nach einer Phase leichten Bevölkerungsrückgangs in den Jahren 2002–2011."
      }
     ]
@@ -197,7 +191,11 @@
    },
    {
     "type": "sentence",
-    "text": "Naurus hat eine ausschliessliche Wirtschaftszone mit einer Grösse von 308.480 km², die an die entsprechenden Zonen von Kiribati im Osten und von den Marshallinseln im Norden grenzt."
+    "text": "Der riesige Korallenstock reicht etwa 2000 Meter tief in das Meer und erhebt sich maximal etwa 60 m über den Meeresspiegel."
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru besteht aus der gleichnamigen Koralleninsel, die zur Inselwelt Mikronesiens gehört, sowie den zum Staat gehörenden Hoheitsgewässern im Umkreis von zwölf Seemeilen."
    },
    {
     "type": "sentence",
@@ -205,15 +203,11 @@
    },
    {
     "type": "sentence",
-    "text": "Der Deutsche Paul Hambruch, der die Insel im Mai 1909 und von September bis November 1910 besuchte, gab die etymologische Erklärung, dass «Naoero»als Kontraktion des Satzes «ã-nuau-a-a-ororo»interpretiert werden müsse."
+    "text": "Naurus hat eine ausschliessliche Wirtschaftszone mit einer Grösse von 308.480 km², die an die entsprechenden Zonen von Kiribati im Osten und von den Marshallinseln im Norden grenzt."
    },
    {
     "type": "sentence",
-    "text": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich, die zu Kiribati gehört und die eine ähnliche Bedeutung wegen reicher Phosphatlagerstätten hatte."
-   },
-   {
-    "type": "sentence",
-    "text": "Der riesige Korallenstock reicht etwa 2000 Meter tief in das Meer und erhebt sich maximal etwa 60 m über den Meeresspiegel."
+    "text": "Der in früheren Jahren extrem hohe Anteil von Ausländern an der Bevölkerung ist durch die Krise des Phosphatbergbaus und die damit verbundene massenhafte Abwanderung der auswärtigen Bergleute auf etwa 6 % geschrumpft."
    },
    {
     "type": "closing",
@@ -222,9 +216,9 @@
   ]
  },
  "authoredBy": "extractive",
- "qualityScore": 0.9,
+ "qualityScore": 1,
  "verified": {
   "version": 1,
-  "hash": "1714f601c5d104.0901ce288af5db"
+  "hash": "008bd5fda692eb.002613a5660628"
  }
 }
