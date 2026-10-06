@@ -1,0 +1,970 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-29",
+ "slot": "evening",
+ "lang": "fr",
+ "topic": {
+  "title": "Ceinture de Kuiper",
+  "qid": "Q427",
+  "pageid": 25051,
+  "revid": 237473772,
+  "domain": "astronomy",
+  "url": "https://fr.wikipedia.org/w/index.php?title=Ceinture_de_Kuiper&oldid=237473772"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "zone du Système solaire s'étendant au-delà de l'orbite de Neptune",
+  "lead": "La ceinture de Kuiper (parfois appelée ceinture d'Edgeworth-Kuiper, prononcé en néerlandais : /ˈkœypər/) est une zone du Système solaire s'étendant au-delà de l'orbite de Neptune, entre 30 et 55 unités astronomiques (au). Cette zone en forme d'anneau est similaire à la ceinture d'astéroïdes, mais plus étendue, 20 fois plus large et de 20 à 200 fois plus massive. Comme la ceinture d'astéroïdes, elle est principalement composée de petits corps, restes de la formation du Système solaire, et d'au moins trois planètes naines, Pluton, Makémaké et Hauméa (Éris est un objet épars, situé au-delà de la ceinture de Kuiper). En revanche, tandis que la ceinture d'astéroïdes est principalement composée de corps rocheux et métalliques, les objets de la ceinture de Kuiper sont majoritairement constitués de composés volatils gelés comme le méthane, l'ammoniac ou l'eau.\nEn dehors de Pluton, repéré dès 1930, et son satellite Charon, détecté en 1978, le premier objet de Kuiper fut découvert en 1992. Ce serait le principal réservoir des comètes périodiques dont la période de révolution est inférieure à 200 ans. Les centaures et les objets épars, tels qu'Éris, en seraient issus. Triton, le plus gros satellite de Neptune, pourrait être un objet de la ceinture de Kuiper qui aurait été capturé par la planète. (134340) Pluton est le plus grand objet connu de la ceinture de Kuiper.\nLa ceinture de Kuiper ne doit pas être confondue avec le nuage d'Oort, zone encore théorique et supposée être mille fois plus éloignée. Les objets de la ceinture de Kuiper, ainsi que les objets épars et tout membre potentiel des nuages de Hills et de Oort, sont collectivement nommés objets transneptuniens.",
+  "sections": [
+   {
+    "heading": "Historique",
+    "text": "À la suite de la découverte de Pluton en 1930, de nombreux astronomes émirent l'hypothèse que d'autres corps pourraient être situés dans la même zone du Système solaire. Diverses théories furent émises concernant l'existence de la région appelée aujourd'hui ceinture de Kuiper durant les décennies suivantes. Ce n'est cependant qu'en 1992 que la première observation directe d'un de ses membres fut réalisée. Il est toutefois difficile d'attribuer la paternité de l'invention à un astronome, étant donné le nombre et la variété des théories proposées.\nLe premier astronome à avoir suggéré l'existence d'une population transneptunienne est Frederick C. Leonard. En 1930, peu après la découverte de Pluton, il émit l'hypothèse que Pluton n'était que le premier d'une série de corps « ultra-neptuniens ».\nEn 1943, dans le Journal of the British Astronomical Association, Kenneth Edgeworth émit l'hypothèse selon laquelle, dans la région au-delà de Neptune, le matériau de la nébuleuse solaire était trop espacé pour se condenser en planètes, et avait donc plutôt formé une myriade de petits corps. Il conclut que « la région externe du Système solaire, au-delà de l'orbite des planètes, est occupée par un très grand nombre de petits corps de taille comparable » et que, de temps en temps, un des objets « s'écarte de sa propre sphère et apparaît comme un visiteur occasionnel dans le Système solaire interne », objet désigné de nos jours sous le nom de « comète ».\nEn 1951, dans un article publié dans le journal Astrophysics, Gerard Kuiper émit l'idée d'un disque s'étant formé au début de l'évolution du Système solaire et qui n'existerait plus. Les travaux de Kuiper se fondaient sur l'hypothèse que Pluton était de la taille de la Terre, hypothèse commune à l'époque ; dans ce cas, Pluton aurait alors éparpillé les petits corps vers le nuage d'Oort ou en dehors du Système solaire. Selon la formulation de Kuiper, il n'existerait plus aucune ceinture de Kuiper.\nL'hypothèse prit diverses formes au fil des décennies suivantes : en 1962, le physicien Alastair Cameron postula l'existence d'une « énorme masse de petits matériaux aux frontières du Système solaire », tandis qu'en 1964, Fred Whipple estima qu'une « ceinture cométaire » pourrait être assez massive pour être à l'origine des anomalies constatées de l'orbite d'Uranus à l'origine de la recherche de la planète X, ou au moins pour modifier l'orbite des comètes connues. Les observations démentirent cette hypothèse.\nEn 1977, Charles Kowal découvrit Chiron, un planétoïde glacé en orbite entre Saturne et Uranus. En 1992, Pholos fut découvert sur une orbite similaire. Actuellement, une population entière de corps analogues aux comètes, les centaures, est connue dans cette région entre Jupiter et Neptune. Leurs orbites sont instables au-delà de la centaine de millions d'années, une durée de vie brève par rapport à l'âge du Système solaire. Les astronomes estiment que cette position devrait être fréquemment alimentée par un réservoir externe.\nL'étude des comètes apporta d'autres preuves de l'existence de la ceinture. Les comètes ont une durée de vie finie, l'approche du Soleil sublimant leur surface et les réduisant petit à petit : leur population doit être réalimentée fréquemment car dans le cas contraire, les comètes auraient disparu du Système solaire. Si l'origine des comètes de longue période est le nuage d'Oort, l'existence de comètes à courte période (inférieure à 200 ans) était moins bien expliquée, sauf à penser qu'elles étaient toutes des comètes à longue période déviées par les géantes gazeuses. Dans les années 1970, la vitesse de découverte de telles comètes devint incompatible avec l'hypothèse selon laquelle toutes les comètes étaient issues du nuage d'Oort : un objet du nuage d'Oort doit être capturé par les planètes géantes pour devenir une comète à courte période. En 1980, Julio Fernandez affirma que pour chaque comète déviée dans le Système solaire interne depuis le nuage d'Oort, 600 devaient être éjectées dans l'espace interstellaire. Il spécula qu'une ceinture cométaire située entre 35 et 50 ua permettrait de rendre compte du nombre de comètes observées. En 1988, Martin Duncan, Tom Quinn et Scott Tremaine effectuèrent un ensemble de simulations informatiques pour déterminer si toutes les comètes observées pouvaient provenir du nuage d'Oort. Ils conclurent que celui-ci ne pouvait pas être à l'origine des comètes à courte période, notamment parce qu'elles sont situées près du plan de l'écliptique, tandis que les comètes du nuage d'Oort viennent de l'ensemble du ciel. Les simulations correspondaient aux observations lorsqu'une ceinture analogue à celle décrite par Fernandez était incluse dans le modèle. Il semblerait que ce soit parce que les termes « Kuiper » et « ceinture cométaire » apparaissaient dans la première phrase de la publication de Fernandez que Tremaine nomma cette région la « ceinture de Kuiper ».\nEn 1987, l'astronome David Jewitt, alors au MIT, s'interrogea sur l'« apparente vacuité du Système solaire externe ». Il entreprit des travaux avec Jane Luu, une de ses étudiantes, afin de trouver un objet au-delà de l'orbite de Pluton. À l'aide des télescopes de l'observatoire de Kitt Peak en Arizona et du Cerro Tololo Inter-American Observatory au Chili, puis à partir de 1988 du télescope de 2,24 m de Mauna Kea, Jewitt et Luu menèrent leur recherche avec un comparateur à clignotement, comme Clyde Tombaugh et Charles Kowal. Après cinq années de recherche, le 30 août 1992, Jewitt et Luu annoncèrent la « découverte de l'objet candidat à la ceinture de Kuiper 1992 QB1 ». Six mois plus tard, ils découvrirent un second objet dans la région, 1993 FW."
+   },
+   {
+    "heading": "Origine",
+    "text": "La ceinture de Kuiper serait constituée de planétésimaux, des fragments du disque protoplanétaire qui entouraient initialement le Soleil et qui n'ont pas réussi à former des planètes, mais seulement de petits corps, le plus grand mesurant moins de 3 000 km de diamètre.\nL'origine et la structure complexe de la ceinture de Kuiper demeurent mal comprises. Les modèles actuels échouent à expliquer précisément la distribution d'objets dans la ceinture de Kuiper et ce problème « continue de mettre en défaut les techniques analytiques ainsi que les ordinateurs et les logiciels de simulation les plus rapides ». Le futur télescope Pan-STARRS pourrait permettre d'approfondir la question.\nLes modèles de formation du Système solaire lui prédisent une masse d'environ 30 masses terrestres, nécessaire pour provoquer l'accrétion d'objets de plus de 100 km de diamètre. Seule 1 % de cette masse est actuellement observée, une densité trop faible pour expliquer simplement l'existence de ces objets. De plus, l'excentricité et l'inclinaison des orbites dans la ceinture de Kuiper rendent les rencontres plus destructrices que créatrices.\nLes simulations informatiques modernes montrent que la ceinture de Kuiper fut fortement influencée par Jupiter et Neptune. Elles suggèrent également qu'Uranus et Neptune n'ont pas été formées à leurs orbites actuelles car la matière n'était pas en quantité suffisante sur ces orbites pour permettre l'apparition d'objets d'une telle masse. Ces planètes se seraient formées plus près de Jupiter et auraient ensuite migré au début de l'évolution du Système solaire. Des travaux de Fernandez et Ip de 1984 émettent l'hypothèse qu'un phénomène d'échange de moment angulaire entre les objets épars et les planètes pourrait être à l'origine de la migration de ces dernières. À un stade de l'évolution du Système solaire, les orbites de Jupiter et de Saturne ont pu se retrouver en résonance 2:1 de sorte que Jupiter effectuait exactement deux tours du Soleil quand Saturne en faisait un. Une telle résonance aurait fortement perturbé les orbites d'Uranus et Neptune, provoquant un échange de leur orbite et une migration externe de Neptune dans une proto-ceinture de Kuiper, perturbant fortement cette dernière. Cette migration de Neptune aurait déplacé de nombreux objets transneptuniens vers des orbites plus lointaines et plus excentriques.\nL'influence seule de Neptune semble cependant trop faible pour expliquer une perte de masse aussi importante. Les autres hypothèses proposées incluent le passage d'une étoile à proximité ou l'émiettage des petits objets, par collisions, en une poussière suffisamment fine pour être affectée par le rayonnement solaire."
+   },
+   {
+    "heading": "Structure",
+    "text": "La ceinture de Kuiper s'étend entre 30 et 55 ua, si l'on inclut ses régions externes. Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua. La ceinture de Kuiper est assez épaisse, sa concentration principale s'étendant jusqu'à 10° de chaque côté du plan de l'écliptique et une distribution plus diffuse d'objets jusqu'à plusieurs dizaines de degrés. Elle ressemble par conséquent davantage à un tore qu'à une ceinture. Sa position moyenne est inclinée de 1,86° par rapport à l'écliptique.\nLa présence de Neptune a eu un effet important sur la ceinture de Kuiper du fait des résonances orbitales. Sur des périodes comparables à l'âge du Système solaire, l'influence gravitationnelle de Neptune déstabilise les orbites de tout objet se trouvant dans certaines régions, soit en les envoyant vers le Système solaire interne, soit vers le disque épars ou l'espace interstellaire. Cette influence est à l'origine des lacunes prononcées que présente la structure de la ceinture de Kuiper et qui sont analogues aux lacunes de Kirkwood de la ceinture d'astéroïdes. Entre 40 et 42 ua, par exemple, aucun objet ne peut conserver une orbite stable sur des périodes si longues et ceux qu'on y observe actuellement ont migré relativement récemment.\nEntre 42 et 48 ua, l'influence gravitationnelle de Neptune est négligeable et les objets peuvent exister sans que leur orbite soit modifiée. Cette région est désignée comme la ceinture de Kuiper classique (en anglais, classical Kuiper belt objects, abrégé en CKBO) et les deux tiers des objets de la ceinture de Kuiper connus en 2007 en font partie. Le premier KBO observé, (15760) Albion (désignation provisoire 1992 QB1) est considéré comme le prototype de ce groupe et les CKBO sont souvent appelés « cubewanos » (d'après la prononciation anglaise de QB1). Parmi les cubewanos, on peut citer la planète naine Makémaké (entre 1 300 et 1 900 km de diamètre), Quaoar (1 280 km de diamètre), Ixion ou Lempo (un système binaire qui possède un satellite).\nLa ceinture de Kuiper classique semble être composée de deux populations distinctes. La première, nommée population « dynamiquement froide », possède, à l'instar des planètes, des orbites presque circulaires avec une excentricité inférieure à 0,1 et une inclinaison inférieure à 10°. La deuxième, « dynamiquement chaude », possède des orbites nettement plus inclinées sur l'écliptique, jusqu'à 30°. Ces deux populations furent nommées ainsi non pas à cause de leur température, mais par analogie avec les particules d'un gaz dont la vitesse relative s'accroît avec la température. Les deux populations ont également des compositions différentes ; la population froide est nettement plus rouge que la chaude, suggérant une origine distincte. La population chaude se serait formée près de Jupiter et aurait été éjectée par les géantes gazeuses. La population froide se serait formée plus ou moins à son emplacement actuel, bien qu'elle ait pu être ensuite rejetée vers l'extérieur par Neptune lors de la migration de cette planète.\nDe nombreux objets de la ceinture de Kuiper sont en résonance orbitale avec Neptune ; le rapport de leur période orbitale avec celle de Neptune est une fraction entière. Plus de 200 objets en résonance 2:3 sont connus (c'est-à-dire qu'ils effectuent exactement deux révolutions autour du Soleil quand Neptune en fait trois), parmi lesquels Pluton et ses lunes. Les membres de cette famille portent le nom de plutinos et ont un demi-grand axe d'environ 39,4 ua.\nParmi les plutinos les plus grands, on trouve Orcus et Ixion qui pourraient être désignées planètes naines, lorsque leurs caractéristiques physiques auront été déterminées plus précisément. De nombreux plutinos, y compris Pluton, ont une orbite qui croise celle de Neptune. Ils ne sont cependant pas susceptibles d'entrer en collision avec la planète en raison de la résonance des orbites. Les plutinos possèdent une excentricité élevée, ce qui suggère qu'ils n'occupent pas leur orbite initiale mais ont été déplacés lors de la migration de Neptune.\nLa résonance 1:2 (dont les objets parcourent une demi-orbite pour chacune de Neptune) correspond à des demi-grands axes d'environ 47,7 ua, et est peu peuplée.\nLes objets qui la peuplent sont parfois appelés twotinos. D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5. En outre, Neptune possède des astéroïdes troyens qui occupent ses points de Lagrange L4 et L5, des régions gravitationnellement stables en avance et en retard sur son orbite. Ces troyens de Neptune sont parfois décrits comme étant en résonance 1:1 avec Neptune. Leur orbite est remarquablement stable et il est improbable qu'ils aient été capturés par Neptune. Ils se seraient formés en même temps que la planète.\nIl existe relativement peu d'objets ayant un demi-grand axe inférieur à 39 ua, phénomène qui ne peut être expliqué par les résonances actuelles.\nL'hypothèse couramment acceptée est que la zone a été soumise à des résonances orbitales instables lors de la migration de Neptune et que les objets présents ont été déplacés ou éjectés de la ceinture.\nLa résonance 1:2 semble être une limite à la ceinture de Kuiper, au-delà de laquelle peu d'objets sont connus. On ignore s'il s'agit du bord extérieur de la ceinture classique ou juste du début d'une lacune très large. Des objets ont été découverts à la résonance 2:5, vers 55 ua, très en dehors de la ceinture classique ; cependant, les prédictions concernant l'existence d'un grand nombre d'objets situés entre ces résonances n'ont pas été confirmées par l'observation.\nHistoriquement, les premiers modèles de la ceinture de Kuiper suggéraient que le nombre de grands objets augmenterait d'un facteur deux au-delà de 50 ua. La chute brutale du nombre d'objets au-delà de cette distance, connue sous le nom de « falaise de Kuiper », fut complètement inattendue et reste inexpliquée en 2008. Selon Bernstein, Trilling et al., la diminution rapide du nombre d'objets de rayon supérieur à 100 km au-delà de 50 ua est réelle et ne correspond pas à un biais observationnel.\nUne explication possible serait que les matériaux seraient trop épars ou en quantité insuffisante pour s'agréger en de grands objets. Il est également possible que de grands objets se soient formés, mais qu'ils aient été déplacés ou détruits pour des raisons inconnues. Selon Alan Stern du Southwest Research Institute, la cause pourrait en être l'interaction gravitationnelle d'un grand objet planétaire inconnu, de la taille de Mars ou de la Terre.\nCette limite ne signifie pas qu'aucun objet n'existe plus loin, ni n'exclut l'existence d'une deuxième ceinture de Kuiper plus éloignée. En fait, en 2004, la découverte de Sedna a confirmé l'existence d'objets entre la ceinture de Kuiper et le lointain et hypothétique nuage d'Oort."
+   },
+   {
+    "heading": "Objets",
+    "text": "Depuis la découverte du premier objet en 1992, plus de mille autres objets ont été découverts dans la ceinture de Kuiper et celle-ci contiendrait plus de 70 000 corps de plus de 100 km de diamètre.\nEn 2007, Pluton était le plus grand objet connu de la ceinture de Kuiper avec un diamètre de 2 300 km. Depuis 2000, plusieurs objets de la ceinture de Kuiper de diamètre compris entre 500 et 1 200 km ont été découverts. Quaoar, un objet classique découvert en 2002, a un diamètre supérieur à 1 200 km. Makémaké et Hauméa dont les découvertes furent annoncées simultanément le 29 juillet 2005 sont encore plus grands. D'autres objets, tels que Ixion (découvert en 2001) et Varuna (découvert en 2000) ont un diamètre d'environ 500 km.\nBien que Pluton soit l'un des plus gros corps de la ceinture de Kuiper, plusieurs objets en dehors de la ceinture de Kuiper mais qui pourraient en être issus, sont plus grands que cette planète naine. Éris, un objet épars, est environ 27 % plus massif, quoique légèrement plus petit, de même que Triton (17 %), un satellite de Neptune.\nEn 2015, seuls cinq objets du Système solaire, Cérès, Pluton, Hauméa, Makémaké et Éris, sont officiellement considérés comme des planètes naines, les quatre derniers cités étant des plutoïdes. Cependant, plusieurs autres objets de la ceinture de Kuiper ont une taille suffisante pour qu'ils soient sphériques et pourraient être classés parmi les planètes naines dans le futur.\nMalgré sa grande étendue, la masse totale de la ceinture de Kuiper est assez faible, estimée à environ un dixième de celle de la Terre. La plupart des objets sont faiblement lumineux, ce qui est en accord avec les modèles de formation par accrétion, dans la mesure où seule une partie des objets possédant une certaine taille ont été capables de grossir davantage. De manière générale, le nombre d'objets d'une certaine taille N est inversement proportionnelle à une certaine puissance q du diamètre D : N ~ D-q. Cette relation de proportionnalité est confirmée par les observations et la valeur de q est estimée à 4 ± 0,5. Dans l'état actuel des connaissances (2008), seule la magnitude des objets est connue ; leur taille est déduite en supposant leur albédo constant.\nDeux des trois plus grands objets de la ceinture de Kuiper possèdent des satellites : Pluton en possède cinq et Hauméa deux. En outre, Éris, un objet épars, qui se serait formé dans la ceinture de Kuiper, en possède un. La proportion d'objets de la ceinture de Kuiper possédant un satellite est plus élevée pour les grands objets que pour les petits, ce qui suggère un mécanisme de formation différent. Par ailleurs, 1 % (soit un pourcentage élevé) des objets seraient des systèmes binaires, c'est-à-dire deux objets de masse relativement proche en orbite l'un autour de l'autre. Pluton et Charon sont l'exemple le plus connu.\nLa masse totale des objets de la ceinture de Kuiper a été estimée à partir d'un recensement des objets par télescope, en se fondant sur leur nombre et leur magnitude, en estimant l'albédo moyen à 0.04 et la densité moyenne à 1 g/cm3. Cela donne une masse à peu près équivalente à seulement 1 % de la masse terrestre.\nLes études menées sur la ceinture de Kuiper depuis sa découverte ont permis de déterminer que ses membres sont principalement composés de glaces : ils sont constitués d'un mélange d'hydrocarbures légers (comme le méthane), d'ammoniac et de glace d'eau, une composition identique à celle des comètes. La température de la ceinture est d'environ 50 K, soit −223 °C : les composés sont donc présents à l'état solide.\nLa distance et la faible taille des objets de la ceinture de Kuiper rendent extrêmement difficile la détermination de leur composition chimique par spectroscopie. Quelques succès ont néanmoins été obtenus. En 1996, des données spectrographiques de (15789) 1993 SC furent obtenues et mirent en évidence que sa surface avait une composition similaire à celle de Pluton ou de la lune de Neptune, Triton ; de grandes quantités de glace de méthane ont été identifiées. De la glace d'eau a été détectée sur plusieurs objets, dont (19308) 1996 TO66, Huya et Varuna. En 2004, l'existence de glace d'eau cristalline et d'hydrate d'ammoniac fut établie sur Quaoar. Ces deux substances auraient été détruites si elles avaient existé depuis le début du Système solaire, ce qui suggère qu'elles sont apparues à la surface de Quaoar récemment, soit par une activité tectonique interne, soit à la suite d'impacts météoritiques.\nLa couleur des objets de la ceinture de Kuiper a été l'une des premières caractéristiques qu'il a été possible de déterminer. Ces premières données ont indiqué une grande diversité de couleurs, allant du gris au rouge profond, suggérant que leurs surfaces sont composées d'un grand nombre de matériaux différents, allant des glaces sales aux hydrocarbures. Cette diversité de couleurs a surpris les astronomes qui s'attendaient à observer des objets uniformément sombres, en raison de la perte de leurs composés volatils gelés, du fait des rayons cosmiques. Diverses explications ont été avancées, dont une réalimentation des surfaces par impact ou un dégazage. Selon une analyse des objets de la ceinture de Kuiper connus en 2001, réalisée par Jewitt et Luu, ces variations de couleurs sont trop extrêmes pour être simplement expliquées par des impacts aléatoires."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "La ceinture de Kuiper (parfois appelée ceinture d'Edgeworth-Kuiper, prononcé en néerlandais : /ˈkœypər/) est une zone du Système solaire s'étendant au-delà de l'orbite de Neptune, entre 30 et 55 unités astronomiques (au)."
+  },
+  "f2": {
+   "kind": "number",
+   "value": 55,
+   "surface": "55",
+   "sentence": "La ceinture de Kuiper (parfois appelée ceinture d'Edgeworth-Kuiper, prononcé en néerlandais : /ˈkœypər/) est une zone du Système solaire s'étendant au-delà de l'orbite de Neptune, entre 30 et 55 unités astronomiques (au)."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Cette zone en forme d'anneau est similaire à la ceinture d'astéroïdes, mais plus étendue, 20 fois plus large et de 20 à 200 fois plus massive."
+  },
+  "f4": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Cette zone en forme d'anneau est similaire à la ceinture d'astéroïdes, mais plus étendue, 20 fois plus large et de 20 à 200 fois plus massive."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "Cette zone en forme d'anneau est similaire à la ceinture d'astéroïdes, mais plus étendue, 20 fois plus large et de 20 à 200 fois plus massive."
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1930",
+   "surface": "1930",
+   "sentence": "En dehors de Pluton, repéré dès 1930, et son satellite Charon, détecté en 1978, le premier objet de Kuiper fut découvert en 1992."
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1978",
+   "surface": "1978",
+   "sentence": "En dehors de Pluton, repéré dès 1930, et son satellite Charon, détecté en 1978, le premier objet de Kuiper fut découvert en 1992."
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "En dehors de Pluton, repéré dès 1930, et son satellite Charon, détecté en 1978, le premier objet de Kuiper fut découvert en 1992."
+  },
+  "f9": {
+   "kind": "measure",
+   "value": 200,
+   "unit": "ans",
+   "surface": "200 ans",
+   "sentence": "Ce serait le principal réservoir des comètes périodiques dont la période de révolution est inférieure à 200 ans."
+  },
+  "f10": {
+   "kind": "number",
+   "value": 134340,
+   "surface": "134340",
+   "sentence": "(134340) Pluton est le plus grand objet connu de la ceinture de Kuiper."
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1930",
+   "surface": "1930",
+   "sentence": "À la suite de la découverte de Pluton en 1930, de nombreux astronomes émirent l'hypothèse que d'autres corps pourraient être situés dans la même zone du Système solaire.",
+   "section": "Historique"
+  },
+  "f12": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "Ce n'est cependant qu'en 1992 que la première observation directe d'un de ses membres fut réalisée.",
+   "section": "Historique"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1930",
+   "surface": "1930",
+   "sentence": "En 1930, peu après la découverte de Pluton, il émit l'hypothèse que Pluton n'était que le premier d'une série de corps « ultra-neptuniens ».",
+   "section": "Historique"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "En 1943, dans le Journal of the British Astronomical Association, Kenneth Edgeworth émit l'hypothèse selon laquelle, dans la région au-delà de Neptune, le matériau de la nébuleuse solaire était trop espacé pour se condenser en planètes, et avait donc plutôt formé une myriade de petits corps.",
+   "section": "Historique"
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1951",
+   "surface": "1951",
+   "sentence": "En 1951, dans un article publié dans le journal Astrophysics, Gerard Kuiper émit l'idée d'un disque s'étant formé au début de l'évolution du Système solaire et qui n'existerait plus.",
+   "section": "Historique"
+  },
+  "f16": {
+   "kind": "date",
+   "value": "1962",
+   "surface": "1962",
+   "sentence": "L'hypothèse prit diverses formes au fil des décennies suivantes : en 1962, le physicien Alastair Cameron postula l'existence d'une « énorme masse de petits matériaux aux frontières du Système solaire », tandis qu'en 1964, Fred Whipple estima qu'une « ceinture cométaire » pourrait être assez massive pour être à l'origine des anomalies constatées de l'orbite d'Uranus à l'origine de la recherche de la planète X, ou au moins pour modifier l'orbite des comètes connues.",
+   "section": "Historique"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1964",
+   "surface": "1964",
+   "sentence": "L'hypothèse prit diverses formes au fil des décennies suivantes : en 1962, le physicien Alastair Cameron postula l'existence d'une « énorme masse de petits matériaux aux frontières du Système solaire », tandis qu'en 1964, Fred Whipple estima qu'une « ceinture cométaire » pourrait être assez massive pour être à l'origine des anomalies constatées de l'orbite d'Uranus à l'origine de la recherche de la planète X, ou au moins pour modifier l'orbite des comètes connues.",
+   "section": "Historique"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1977",
+   "surface": "1977",
+   "sentence": "En 1977, Charles Kowal découvrit Chiron, un planétoïde glacé en orbite entre Saturne et Uranus.",
+   "section": "Historique"
+  },
+  "f19": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "En 1992, Pholos fut découvert sur une orbite similaire.",
+   "section": "Historique"
+  },
+  "f20": {
+   "kind": "measure",
+   "value": 200,
+   "unit": "ans",
+   "surface": "200 ans",
+   "sentence": "Si l'origine des comètes de longue période est le nuage d'Oort, l'existence de comètes à courte période (inférieure à 200 ans) était moins bien expliquée, sauf à penser qu'elles étaient toutes des comètes à longue période déviées par les géantes gazeuses.",
+   "section": "Historique"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1970",
+   "surface": "1970",
+   "sentence": "Dans les années 1970, la vitesse de découverte de telles comètes devint incompatible avec l'hypothèse selon laquelle toutes les comètes étaient issues du nuage d'Oort : un objet du nuage d'Oort doit être capturé par les planètes géantes pour devenir une comète à courte période.",
+   "section": "Historique"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1980",
+   "surface": "1980",
+   "sentence": "En 1980, Julio Fernandez affirma que pour chaque comète déviée dans le Système solaire interne depuis le nuage d'Oort, 600 devaient être éjectées dans l'espace interstellaire.",
+   "section": "Historique"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "600",
+   "surface": "600",
+   "sentence": "En 1980, Julio Fernandez affirma que pour chaque comète déviée dans le Système solaire interne depuis le nuage d'Oort, 600 devaient être éjectées dans l'espace interstellaire.",
+   "section": "Historique"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 35,
+   "surface": "35",
+   "sentence": "Il spécula qu'une ceinture cométaire située entre 35 et 50 ua permettrait de rendre compte du nombre de comètes observées.",
+   "section": "Historique"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Il spécula qu'une ceinture cométaire située entre 35 et 50 ua permettrait de rendre compte du nombre de comètes observées.",
+   "section": "Historique"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1988",
+   "surface": "1988",
+   "sentence": "En 1988, Martin Duncan, Tom Quinn et Scott Tremaine effectuèrent un ensemble de simulations informatiques pour déterminer si toutes les comètes observées pouvaient provenir du nuage d'Oort.",
+   "section": "Historique"
+  },
+  "f27": {
+   "kind": "date",
+   "value": "1987",
+   "surface": "1987",
+   "sentence": "En 1987, l'astronome David Jewitt, alors au MIT, s'interrogea sur l'« apparente vacuité du Système solaire externe ».",
+   "section": "Historique"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1988",
+   "surface": "1988",
+   "sentence": "À l'aide des télescopes de l'observatoire de Kitt Peak en Arizona et du Cerro Tololo Inter-American Observatory au Chili, puis à partir de 1988 du télescope de 2,24 m de Mauna Kea, Jewitt et Luu menèrent leur recherche avec un comparateur à clignotement, comme Clyde Tombaugh et Charles Kowal.",
+   "section": "Historique"
+  },
+  "f29": {
+   "kind": "measure",
+   "value": 2.24,
+   "unit": "m",
+   "surface": "2,24 m",
+   "sentence": "À l'aide des télescopes de l'observatoire de Kitt Peak en Arizona et du Cerro Tololo Inter-American Observatory au Chili, puis à partir de 1988 du télescope de 2,24 m de Mauna Kea, Jewitt et Luu menèrent leur recherche avec un comparateur à clignotement, comme Clyde Tombaugh et Charles Kowal.",
+   "section": "Historique"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Après cinq années de recherche, le 30 août 1992, Jewitt et Luu annoncèrent la « découverte de l'objet candidat à la ceinture de Kuiper 1992 QB1 ».",
+   "section": "Historique"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "Après cinq années de recherche, le 30 août 1992, Jewitt et Luu annoncèrent la « découverte de l'objet candidat à la ceinture de Kuiper 1992 QB1 ».",
+   "section": "Historique"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "Après cinq années de recherche, le 30 août 1992, Jewitt et Luu annoncèrent la « découverte de l'objet candidat à la ceinture de Kuiper 1992 QB1 ».",
+   "section": "Historique"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1993",
+   "surface": "1993",
+   "sentence": "Six mois plus tard, ils découvrirent un second objet dans la région, 1993 FW.",
+   "section": "Historique"
+  },
+  "f34": {
+   "kind": "measure",
+   "value": 3000,
+   "unit": "km",
+   "surface": "3 000 km",
+   "sentence": "La ceinture de Kuiper serait constituée de planétésimaux, des fragments du disque protoplanétaire qui entouraient initialement le Soleil et qui n'ont pas réussi à former des planètes, mais seulement de petits corps, le plus grand mesurant moins de 3 000 km de diamètre.",
+   "section": "Origine"
+  },
+  "f35": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Les modèles de formation du Système solaire lui prédisent une masse d'environ 30 masses terrestres, nécessaire pour provoquer l'accrétion d'objets de plus de 100 km de diamètre.",
+   "section": "Origine"
+  },
+  "f36": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "km",
+   "surface": "100 km",
+   "sentence": "Les modèles de formation du Système solaire lui prédisent une masse d'environ 30 masses terrestres, nécessaire pour provoquer l'accrétion d'objets de plus de 100 km de diamètre.",
+   "section": "Origine"
+  },
+  "f37": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1 %",
+   "sentence": "Seule 1 % de cette masse est actuellement observée, une densité trop faible pour expliquer simplement l'existence de ces objets.",
+   "section": "Origine"
+  },
+  "f38": {
+   "kind": "date",
+   "value": "1984",
+   "surface": "1984",
+   "sentence": "Des travaux de Fernandez et Ip de 1984 émettent l'hypothèse qu'un phénomène d'échange de moment angulaire entre les objets épars et les planètes pourrait être à l'origine de la migration de ces dernières.",
+   "section": "Origine"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "À un stade de l'évolution du Système solaire, les orbites de Jupiter et de Saturne ont pu se retrouver en résonance 2:1 de sorte que Jupiter effectuait exactement deux tours du Soleil quand Saturne en faisait un.",
+   "section": "Origine"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "À un stade de l'évolution du Système solaire, les orbites de Jupiter et de Saturne ont pu se retrouver en résonance 2:1 de sorte que Jupiter effectuait exactement deux tours du Soleil quand Saturne en faisait un.",
+   "section": "Origine"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "La ceinture de Kuiper s'étend entre 30 et 55 ua, si l'on inclut ses régions externes.",
+   "section": "Structure"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 55,
+   "surface": "55",
+   "sentence": "La ceinture de Kuiper s'étend entre 30 et 55 ua, si l'on inclut ses régions externes.",
+   "section": "Structure"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua.",
+   "section": "Structure"
+  },
+  "f44": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua.",
+   "section": "Structure"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 39.5,
+   "surface": "39,5",
+   "sentence": "Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua.",
+   "section": "Structure"
+  },
+  "f46": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua.",
+   "section": "Structure"
+  },
+  "f47": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua.",
+   "section": "Structure"
+  },
+  "f48": {
+   "kind": "number",
+   "value": 48,
+   "surface": "48",
+   "sentence": "Cependant, la partie principale de la ceinture s'étendrait entre la résonance orbitale 2:3 avec Neptune à 39,5 ua et la résonance 1:2 vers 48 ua.",
+   "section": "Structure"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "La ceinture de Kuiper est assez épaisse, sa concentration principale s'étendant jusqu'à 10° de chaque côté du plan de l'écliptique et une distribution plus diffuse d'objets jusqu'à plusieurs dizaines de degrés.",
+   "section": "Structure"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 1.86,
+   "surface": "1,86",
+   "sentence": "Sa position moyenne est inclinée de 1,86° par rapport à l'écliptique.",
+   "section": "Structure"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "Entre 40 et 42 ua, par exemple, aucun objet ne peut conserver une orbite stable sur des périodes si longues et ceux qu'on y observe actuellement ont migré relativement récemment.",
+   "section": "Structure"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 42,
+   "surface": "42",
+   "sentence": "Entre 40 et 42 ua, par exemple, aucun objet ne peut conserver une orbite stable sur des périodes si longues et ceux qu'on y observe actuellement ont migré relativement récemment.",
+   "section": "Structure"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 42,
+   "surface": "42",
+   "sentence": "Entre 42 et 48 ua, l'influence gravitationnelle de Neptune est négligeable et les objets peuvent exister sans que leur orbite soit modifiée.",
+   "section": "Structure"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 48,
+   "surface": "48",
+   "sentence": "Entre 42 et 48 ua, l'influence gravitationnelle de Neptune est négligeable et les objets peuvent exister sans que leur orbite soit modifiée.",
+   "section": "Structure"
+  },
+  "f55": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007",
+   "sentence": "Cette région est désignée comme la ceinture de Kuiper classique (en anglais, classical Kuiper belt objects, abrégé en CKBO) et les deux tiers des objets de la ceinture de Kuiper connus en 2007 en font partie.",
+   "section": "Structure"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 15760,
+   "surface": "15760",
+   "sentence": "Le premier KBO observé, (15760) Albion (désignation provisoire 1992 QB1) est considéré comme le prototype de ce groupe et les CKBO sont souvent appelés « cubewanos » (d'après la prononciation anglaise de QB1).",
+   "section": "Structure"
+  },
+  "f57": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "Le premier KBO observé, (15760) Albion (désignation provisoire 1992 QB1) est considéré comme le prototype de ce groupe et les CKBO sont souvent appelés « cubewanos » (d'après la prononciation anglaise de QB1).",
+   "section": "Structure"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 1300,
+   "surface": "1 300",
+   "sentence": "Parmi les cubewanos, on peut citer la planète naine Makémaké (entre 1 300 et 1 900 km de diamètre), Quaoar (1 280 km de diamètre), Ixion ou Lempo (un système binaire qui possède un satellite).",
+   "section": "Structure"
+  },
+  "f59": {
+   "kind": "measure",
+   "value": 1900,
+   "unit": "km",
+   "surface": "1 900 km",
+   "sentence": "Parmi les cubewanos, on peut citer la planète naine Makémaké (entre 1 300 et 1 900 km de diamètre), Quaoar (1 280 km de diamètre), Ixion ou Lempo (un système binaire qui possède un satellite).",
+   "section": "Structure"
+  },
+  "f60": {
+   "kind": "measure",
+   "value": 1280,
+   "unit": "km",
+   "surface": "1 280 km",
+   "sentence": "Parmi les cubewanos, on peut citer la planète naine Makémaké (entre 1 300 et 1 900 km de diamètre), Quaoar (1 280 km de diamètre), Ixion ou Lempo (un système binaire qui possède un satellite).",
+   "section": "Structure"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 0.1,
+   "surface": "0,1",
+   "sentence": "La première, nommée population « dynamiquement froide », possède, à l'instar des planètes, des orbites presque circulaires avec une excentricité inférieure à 0,1 et une inclinaison inférieure à 10°.",
+   "section": "Structure"
+  },
+  "f62": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "La première, nommée population « dynamiquement froide », possède, à l'instar des planètes, des orbites presque circulaires avec une excentricité inférieure à 0,1 et une inclinaison inférieure à 10°.",
+   "section": "Structure"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "La deuxième, « dynamiquement chaude », possède des orbites nettement plus inclinées sur l'écliptique, jusqu'à 30°.",
+   "section": "Structure"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "Plus de 200 objets en résonance 2:3 sont connus (c'est-à-dire qu'ils effectuent exactement deux révolutions autour du Soleil quand Neptune en fait trois), parmi lesquels Pluton et ses lunes.",
+   "section": "Structure"
+  },
+  "f65": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Plus de 200 objets en résonance 2:3 sont connus (c'est-à-dire qu'ils effectuent exactement deux révolutions autour du Soleil quand Neptune en fait trois), parmi lesquels Pluton et ses lunes.",
+   "section": "Structure"
+  },
+  "f66": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Plus de 200 objets en résonance 2:3 sont connus (c'est-à-dire qu'ils effectuent exactement deux révolutions autour du Soleil quand Neptune en fait trois), parmi lesquels Pluton et ses lunes.",
+   "section": "Structure"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 39.4,
+   "surface": "39,4",
+   "sentence": "Les membres de cette famille portent le nom de plutinos et ont un demi-grand axe d'environ 39,4 ua.",
+   "section": "Structure"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "La résonance 1:2 (dont les objets parcourent une demi-orbite pour chacune de Neptune) correspond à des demi-grands axes d'environ 47,7 ua, et est peu peuplée.",
+   "section": "Structure"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "La résonance 1:2 (dont les objets parcourent une demi-orbite pour chacune de Neptune) correspond à des demi-grands axes d'environ 47,7 ua, et est peu peuplée.",
+   "section": "Structure"
+  },
+  "f70": {
+   "kind": "number",
+   "value": 47.7,
+   "surface": "47,7",
+   "sentence": "La résonance 1:2 (dont les objets parcourent une demi-orbite pour chacune de Neptune) correspond à des demi-grands axes d'environ 47,7 ua, et est peu peuplée.",
+   "section": "Structure"
+  },
+  "f71": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f74": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f75": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f77": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f78": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "D'autres résonances mineures existent à 3:4, 3:5, 4:7 et 2:5.",
+   "section": "Structure"
+  },
+  "f79": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Ces troyens de Neptune sont parfois décrits comme étant en résonance 1:1 avec Neptune.",
+   "section": "Structure"
+  },
+  "f80": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Ces troyens de Neptune sont parfois décrits comme étant en résonance 1:1 avec Neptune.",
+   "section": "Structure"
+  },
+  "f81": {
+   "kind": "number",
+   "value": 39,
+   "surface": "39",
+   "sentence": "Il existe relativement peu d'objets ayant un demi-grand axe inférieur à 39 ua, phénomène qui ne peut être expliqué par les résonances actuelles.",
+   "section": "Structure"
+  },
+  "f82": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "La résonance 1:2 semble être une limite à la ceinture de Kuiper, au-delà de laquelle peu d'objets sont connus.",
+   "section": "Structure"
+  },
+  "f83": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "La résonance 1:2 semble être une limite à la ceinture de Kuiper, au-delà de laquelle peu d'objets sont connus.",
+   "section": "Structure"
+  },
+  "f84": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Des objets ont été découverts à la résonance 2:5, vers 55 ua, très en dehors de la ceinture classique ; cependant, les prédictions concernant l'existence d'un grand nombre d'objets situés entre ces résonances n'ont pas été confirmées par l'observation.",
+   "section": "Structure"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Des objets ont été découverts à la résonance 2:5, vers 55 ua, très en dehors de la ceinture classique ; cependant, les prédictions concernant l'existence d'un grand nombre d'objets situés entre ces résonances n'ont pas été confirmées par l'observation.",
+   "section": "Structure"
+  },
+  "f86": {
+   "kind": "number",
+   "value": 55,
+   "surface": "55",
+   "sentence": "Des objets ont été découverts à la résonance 2:5, vers 55 ua, très en dehors de la ceinture classique ; cependant, les prédictions concernant l'existence d'un grand nombre d'objets situés entre ces résonances n'ont pas été confirmées par l'observation.",
+   "section": "Structure"
+  },
+  "f87": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Historiquement, les premiers modèles de la ceinture de Kuiper suggéraient que le nombre de grands objets augmenterait d'un facteur deux au-delà de 50 ua.",
+   "section": "Structure"
+  },
+  "f88": {
+   "kind": "date",
+   "value": "2008",
+   "surface": "2008",
+   "sentence": "La chute brutale du nombre d'objets au-delà de cette distance, connue sous le nom de « falaise de Kuiper », fut complètement inattendue et reste inexpliquée en 2008.",
+   "section": "Structure"
+  },
+  "f89": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "km",
+   "surface": "100 km",
+   "sentence": "Selon Bernstein, Trilling et al., la diminution rapide du nombre d'objets de rayon supérieur à 100 km au-delà de 50 ua est réelle et ne correspond pas à un biais observationnel.",
+   "section": "Structure"
+  },
+  "f90": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Selon Bernstein, Trilling et al., la diminution rapide du nombre d'objets de rayon supérieur à 100 km au-delà de 50 ua est réelle et ne correspond pas à un biais observationnel.",
+   "section": "Structure"
+  },
+  "f91": {
+   "kind": "date",
+   "value": "2004",
+   "surface": "2004",
+   "sentence": "En fait, en 2004, la découverte de Sedna a confirmé l'existence d'objets entre la ceinture de Kuiper et le lointain et hypothétique nuage d'Oort.",
+   "section": "Structure"
+  },
+  "f92": {
+   "kind": "date",
+   "value": "1992",
+   "surface": "1992",
+   "sentence": "Depuis la découverte du premier objet en 1992, plus de mille autres objets ont été découverts dans la ceinture de Kuiper et celle-ci contiendrait plus de 70 000 corps de plus de 100 km de diamètre.",
+   "section": "Objets"
+  },
+  "f93": {
+   "kind": "number",
+   "value": 70000,
+   "surface": "70 000",
+   "sentence": "Depuis la découverte du premier objet en 1992, plus de mille autres objets ont été découverts dans la ceinture de Kuiper et celle-ci contiendrait plus de 70 000 corps de plus de 100 km de diamètre.",
+   "section": "Objets"
+  },
+  "f94": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "km",
+   "surface": "100 km",
+   "sentence": "Depuis la découverte du premier objet en 1992, plus de mille autres objets ont été découverts dans la ceinture de Kuiper et celle-ci contiendrait plus de 70 000 corps de plus de 100 km de diamètre.",
+   "section": "Objets"
+  },
+  "f95": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007",
+   "sentence": "En 2007, Pluton était le plus grand objet connu de la ceinture de Kuiper avec un diamètre de 2 300 km.",
+   "section": "Objets"
+  },
+  "f96": {
+   "kind": "measure",
+   "value": 2300,
+   "unit": "km",
+   "surface": "2 300 km",
+   "sentence": "En 2007, Pluton était le plus grand objet connu de la ceinture de Kuiper avec un diamètre de 2 300 km.",
+   "section": "Objets"
+  },
+  "f97": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000",
+   "sentence": "Depuis 2000, plusieurs objets de la ceinture de Kuiper de diamètre compris entre 500 et 1 200 km ont été découverts.",
+   "section": "Objets"
+  },
+  "f98": {
+   "kind": "date",
+   "value": "500",
+   "surface": "500",
+   "sentence": "Depuis 2000, plusieurs objets de la ceinture de Kuiper de diamètre compris entre 500 et 1 200 km ont été découverts.",
+   "section": "Objets"
+  },
+  "f99": {
+   "kind": "measure",
+   "value": 1200,
+   "unit": "km",
+   "surface": "1 200 km",
+   "sentence": "Depuis 2000, plusieurs objets de la ceinture de Kuiper de diamètre compris entre 500 et 1 200 km ont été découverts.",
+   "section": "Objets"
+  },
+  "f100": {
+   "kind": "date",
+   "value": "2002",
+   "surface": "2002",
+   "sentence": "Quaoar, un objet classique découvert en 2002, a un diamètre supérieur à 1 200 km.",
+   "section": "Objets"
+  },
+  "f101": {
+   "kind": "measure",
+   "value": 1200,
+   "unit": "km",
+   "surface": "1 200 km",
+   "sentence": "Quaoar, un objet classique découvert en 2002, a un diamètre supérieur à 1 200 km.",
+   "section": "Objets"
+  },
+  "f102": {
+   "kind": "number",
+   "value": 29,
+   "surface": "29",
+   "sentence": "Makémaké et Hauméa dont les découvertes furent annoncées simultanément le 29 juillet 2005 sont encore plus grands.",
+   "section": "Objets"
+  },
+  "f103": {
+   "kind": "date",
+   "value": "2005",
+   "surface": "2005",
+   "sentence": "Makémaké et Hauméa dont les découvertes furent annoncées simultanément le 29 juillet 2005 sont encore plus grands.",
+   "section": "Objets"
+  },
+  "f104": {
+   "kind": "date",
+   "value": "2001",
+   "surface": "2001",
+   "sentence": "D'autres objets, tels que Ixion (découvert en 2001) et Varuna (découvert en 2000) ont un diamètre d'environ 500 km.",
+   "section": "Objets"
+  },
+  "f105": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000",
+   "sentence": "D'autres objets, tels que Ixion (découvert en 2001) et Varuna (découvert en 2000) ont un diamètre d'environ 500 km.",
+   "section": "Objets"
+  },
+  "f106": {
+   "kind": "measure",
+   "value": 500,
+   "unit": "km",
+   "surface": "500 km",
+   "sentence": "D'autres objets, tels que Ixion (découvert en 2001) et Varuna (découvert en 2000) ont un diamètre d'environ 500 km.",
+   "section": "Objets"
+  },
+  "f107": {
+   "kind": "measure",
+   "value": 27,
+   "unit": "%",
+   "surface": "27 %",
+   "sentence": "Éris, un objet épars, est environ 27 % plus massif, quoique légèrement plus petit, de même que Triton (17 %), un satellite de Neptune.",
+   "section": "Objets"
+  },
+  "f108": {
+   "kind": "measure",
+   "value": 17,
+   "unit": "%",
+   "surface": "17 %",
+   "sentence": "Éris, un objet épars, est environ 27 % plus massif, quoique légèrement plus petit, de même que Triton (17 %), un satellite de Neptune.",
+   "section": "Objets"
+  },
+  "f109": {
+   "kind": "date",
+   "value": "2015",
+   "surface": "2015",
+   "sentence": "En 2015, seuls cinq objets du Système solaire, Cérès, Pluton, Hauméa, Makémaké et Éris, sont officiellement considérés comme des planètes naines, les quatre derniers cités étant des plutoïdes.",
+   "section": "Objets"
+  },
+  "f110": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Cette relation de proportionnalité est confirmée par les observations et la valeur de q est estimée à 4 ± 0,5.",
+   "section": "Objets"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 0.5,
+   "surface": "0,5",
+   "sentence": "Cette relation de proportionnalité est confirmée par les observations et la valeur de q est estimée à 4 ± 0,5.",
+   "section": "Objets"
+  },
+  "f112": {
+   "kind": "date",
+   "value": "2008",
+   "surface": "2008",
+   "sentence": "Dans l'état actuel des connaissances (2008), seule la magnitude des objets est connue ; leur taille est déduite en supposant leur albédo constant.",
+   "section": "Objets"
+  },
+  "f113": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1 %",
+   "sentence": "Par ailleurs, 1 % (soit un pourcentage élevé) des objets seraient des systèmes binaires, c'est-à-dire deux objets de masse relativement proche en orbite l'un autour de l'autre.",
+   "section": "Objets"
+  },
+  "f114": {
+   "kind": "number",
+   "value": 0.04,
+   "surface": "0.04",
+   "sentence": "La masse totale des objets de la ceinture de Kuiper a été estimée à partir d'un recensement des objets par télescope, en se fondant sur leur nombre et leur magnitude, en estimant l'albédo moyen à 0.04 et la densité moyenne à 1 g/cm3.",
+   "section": "Objets"
+  },
+  "f115": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "g",
+   "surface": "1 g",
+   "sentence": "La masse totale des objets de la ceinture de Kuiper a été estimée à partir d'un recensement des objets par télescope, en se fondant sur leur nombre et leur magnitude, en estimant l'albédo moyen à 0.04 et la densité moyenne à 1 g/cm3.",
+   "section": "Objets"
+  },
+  "f116": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1 %",
+   "sentence": "Cela donne une masse à peu près équivalente à seulement 1 % de la masse terrestre.",
+   "section": "Objets"
+  },
+  "f117": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "k",
+   "surface": "50 K",
+   "sentence": "La température de la ceinture est d'environ 50 K, soit −223 °C : les composés sont donc présents à l'état solide.",
+   "section": "Objets"
+  },
+  "f118": {
+   "kind": "measure",
+   "value": 223,
+   "unit": "°c",
+   "surface": "223 °C",
+   "sentence": "La température de la ceinture est d'environ 50 K, soit −223 °C : les composés sont donc présents à l'état solide.",
+   "section": "Objets"
+  },
+  "f119": {
+   "kind": "date",
+   "value": "1996",
+   "surface": "1996",
+   "sentence": "En 1996, des données spectrographiques de (15789) 1993 SC furent obtenues et mirent en évidence que sa surface avait une composition similaire à celle de Pluton ou de la lune de Neptune, Triton ; de grandes quantités de glace de méthane ont été identifiées.",
+   "section": "Objets"
+  },
+  "f120": {
+   "kind": "number",
+   "value": 15789,
+   "surface": "15789",
+   "sentence": "En 1996, des données spectrographiques de (15789) 1993 SC furent obtenues et mirent en évidence que sa surface avait une composition similaire à celle de Pluton ou de la lune de Neptune, Triton ; de grandes quantités de glace de méthane ont été identifiées.",
+   "section": "Objets"
+  },
+  "f121": {
+   "kind": "date",
+   "value": "1993",
+   "surface": "1993",
+   "sentence": "En 1996, des données spectrographiques de (15789) 1993 SC furent obtenues et mirent en évidence que sa surface avait une composition similaire à celle de Pluton ou de la lune de Neptune, Triton ; de grandes quantités de glace de méthane ont été identifiées.",
+   "section": "Objets"
+  },
+  "f122": {
+   "kind": "number",
+   "value": 19308,
+   "surface": "19308",
+   "sentence": "De la glace d'eau a été détectée sur plusieurs objets, dont (19308) 1996 TO66, Huya et Varuna.",
+   "section": "Objets"
+  },
+  "f123": {
+   "kind": "date",
+   "value": "1996",
+   "surface": "1996",
+   "sentence": "De la glace d'eau a été détectée sur plusieurs objets, dont (19308) 1996 TO66, Huya et Varuna.",
+   "section": "Objets"
+  },
+  "f124": {
+   "kind": "date",
+   "value": "2004",
+   "surface": "2004",
+   "sentence": "En 2004, l'existence de glace d'eau cristalline et d'hydrate d'ammoniac fut établie sur Quaoar.",
+   "section": "Objets"
+  },
+  "f125": {
+   "kind": "date",
+   "value": "2001",
+   "surface": "2001",
+   "sentence": "Selon une analyse des objets de la ceinture de Kuiper connus en 2001, réalisée par Jewitt et Luu, ces variations de couleurs sont trop extrêmes pour être simplement expliquées par des impacts aléatoires.",
+   "section": "Objets"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Outersolarsystem objectpositions labels comp-fr.png",
+   "w": 2708,
+   "h": 2656,
+   "alt": "Ceinture de Kuiper",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Outersolarsystem_objectpositions_labels_comp-fr.png/960px-Outersolarsystem_objectpositions_labels_comp-fr.png",
+   "sha1": "51c87ac019cbc6f25e912f97f3fa1719d0992942",
+   "credit": {
+    "author": "WilyD",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Outersolarsystem_objectpositions_labels_comp-fr.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Disque de débris du Système solaire",
+  "Objet de la ceinture de Kuiper"
+ ]
+}

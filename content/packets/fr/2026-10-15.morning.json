@@ -1,0 +1,730 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-15",
+ "slot": "morning",
+ "lang": "fr",
+ "topic": {
+  "title": "Projet Manhattan",
+  "qid": "Q127050",
+  "pageid": 26073,
+  "revid": 239401707,
+  "domain": "history",
+  "url": "https://fr.wikipedia.org/w/index.php?title=Projet_Manhattan&oldid=239401707"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "programme R&D américain des premières bombes atomiques",
+  "lead": "Le projet Manhattan est le projet de recherche du gouvernement américain dont l'objectif était de produire une bombe atomique au cours de la Seconde Guerre mondiale. Il fut progressivement mené de manière conjointe avec les gouvernements britannique et canadien. De 1942 à 1946, il fut dirigé par le major général Leslie Richard Groves du corps du génie de l'armée des États-Unis. Sa composante militaire fut appelée « Manhattan District » et le terme « Manhattan » remplaça graduellement le nom de code officiel, Development of Substitute Materials, pour désigner l'ensemble du projet. Au cours de son développement, le projet absorba son équivalent britannique, Tube Alloys, à la suite de l'accord de Québec en août 1943.\nOrdonné par le président Franklin D. Roosevelt à la suite de la réception de la lettre Einstein-Szilárd, le projet Manhattan commença modestement en 1939 mais il finit par employer plus de 130 000 personnes et coûta près de deux milliards de dollars américains en 1945, soit 1 % du PIB américain cette année-là. Plus de 90 % des frais furent consacrés à la construction des usines et à la production des matériaux fissiles et moins de 10 % au développement et à la fabrication des armes comportant les matières explosives. Les travaux de recherche et de production se déroulèrent sur plus de trente sites, certains étant secrets, aux États-Unis, au Royaume-Uni et au Canada. À la suite de ceux-ci, deux modèles d'armes furent développés durant la guerre. Dans le premier modèle, dit de type canon, un bloc d'uranium était projeté sur un autre pour déclencher une réaction en chaîne. Les blocs étaient composés d'uranium 235, un isotope comptant pour 0,7 % de l'uranium naturel. Comme il était chimiquement similaire à l'isotope le plus abondant, l'uranium 238, et avait presque la même masse, la séparation des deux isotopes fut difficile. Trois méthodes furent employées pour enrichir l'uranium : la séparation électromagnétique, la diffusion gazeuse et la diffusion thermique. L'essentiel de ces opérations fut réalisé au laboratoire national d'Oak Ridge dans le Tennessee.\nEn parallèle des travaux sur l'uranium, des recherches furent menées pour produire du plutonium. Des réacteurs furent construits au laboratoire national de Hanford dans l'État de Washington pour irradier l'uranium et le transmuter en plutonium. Ce dernier était ensuite séparé chimiquement de l'uranium. Le principe du canon employé pour le premier modèle d'arme ne pouvait pas être utilisé avec le plutonium et un modèle plus complexe fut développé dans lequel la réaction en chaîne était déclenchée par l'implosion du cœur de l'arme. Les travaux de conception et de fabrication des composants furent menés au laboratoire national de Los Alamos dans le Nouveau-Mexique. L'arme au plutonium fut testée pour la première fois lors de l'essai Trinity réalisé le 16 juillet 1945 à Alamogordo au Nouveau-Mexique. Les bombes Little Boy à l'uranium et Fat Man au plutonium furent respectivement utilisées lors des bombardements atomiques d'Hiroshima et de Nagasaki.\nLe projet Manhattan était étroitement contrôlé et hautement secret mais des espions soviétiques parvinrent à s'infiltrer dans le programme. Il fut également chargé de rassembler des informations sur les recherches atomiques allemandes et, dans le cadre de l'opération Alsos, des personnels du projet Manhattan servirent en Europe, parfois derrière les lignes ennemies, pour rassembler des matériels de recherche et des scientifiques allemands. Dans l'immédiat après-guerre, le projet réalisa des essais sur l'atoll de Bikini dans le cadre de l'opération Crossroads, développa de nouvelles armes, promut le réseau des laboratoires nationaux du département de l'Énergie des États-Unis, soutint la recherche médicale dans le domaine de la radiologie et posa les bases de la propulsion nucléaire navale. Il conserva le contrôle de la recherche et de la production des armes nucléaires américaines jusqu'à la formation de la Commission de l'énergie atomique des États-Unis en janvier 1947.",
+  "sections": [
+   {
+    "heading": "Origines",
+    "text": "En août 1939, les physiciens Leó Szilárd et Eugene Wigner rédigèrent la lettre Einstein-Szilárd adressée au président américain Franklin Delano Roosevelt pour l'avertir que des travaux scientifiques récents permettaient d'envisager la réalisation de « bombes d'un nouveau type et extrêmement puissantes » en déclenchant une réaction en chaîne avec de grandes quantités d'uranium. Certains indices laissaient penser que l'Allemagne pouvait être parvenue aux mêmes conclusions. Les rédacteurs de la lettre suggéraient que les États-Unis acquissent des stocks de minerai d'uranium dans le but d'accélérer les travaux de recherche sur la réaction en chaîne menés jusque-là, entre autres par Enrico Fermi. Pour lui donner plus de poids, la lettre avait été finalisée et signée par Albert Einstein. Roosevelt demanda à Lyman James Briggs du National Institute of Standards and Technology de diriger un comité consultatif pour l'uranium chargé d'étudier les questions soulevées par la lettre. Briggs organisa une réunion le 21 octobre 1939 à laquelle participèrent Szilárd, Wigner et le physicien Edward Teller. En novembre, le comité informa Roosevelt que l'uranium « pourrait être la source possible de bombes avec une puissance de destruction largement supérieure à tout ce que nous connaissons ». Briggs propose alors que le National Defense Research Committee (NDRC, « Commission nationale de recherche pour la défense ») dépense 167 000 $ dans des recherches sur l'uranium, en particulier sur l'uranium 235 et sur le plutonium (découvert en 1940). Le 28 juin 1941, Roosevelt signa l'ordre exécutif 8807 créant l'Office of Scientific Research and Development (OSRD, « Bureau de recherches et de développement scientifiques ») avec Vannevar Bush à sa tête. Le bureau était autorisé à mener des projets d'ingénierie de grande taille en plus de ses travaux de recherches. Le comité du NDRC sur l'uranium devint le comité S-1 de l'uranium de l'OSRD mais le terme « uranium » fut rapidement supprimé pour des raisons de sécurité.\nEn Grande-Bretagne, Otto Frisch et Rudolf Peierls de l'université de Birmingham avaient réalisé une grande avancée en déterminant la masse critique de l'uranium 235 en juin 1939. Leurs calculs indiquaient qu'elle se trouvait dans un ordre de grandeur de 10 kg, ce qui était suffisamment léger pour réaliser une bombe pouvant être transportée par un bombardier de l'époque. Leur mémorandum de mars 1940 fut le point de départ du projet de recherche nucléaire britannique et de sa commission MAUD qui recommanda à l'unanimité la poursuite du développement d'une bombe atomique. L'un de ses membres, le physicien australien Marcus Oliphant, fut envoyé en mission aux États-Unis à la fin du mois d'août 1941 dans le but de connaître l'état de la recherche. Il découvrit que les informations concernant la faisabilité d'une bombe atomique, pourtant transmises au gouvernement américain en octobre 1940, n'étaient pas parvenues jusqu'aux physiciens américains les plus importants. Briggs avait reçu le rapport, mais n'avait transmis aucune information aux autres membres du comité, ne croyant qu'aux possibilités d'utilisation civile de l'uranium. Oliphant rencontra le comité S-1 et visita le laboratoire de Berkeley où il exposa les découvertes des scientifiques anglais à Ernest Orlando Lawrence. Très impressionné, ce dernier commença immédiatement à mener ses propres recherches sur l'uranium. Oliphant en parla ensuite au chimiste James Bryant Conant, au physicien Arthur Compton et au physicien George Braxton Pegram. Ces scientifiques américains étaient à présent conscients du potentiel de la bombe atomique.\nLe 9 octobre 1941, au cours d'une réunion à laquelle participaient Vannevar Bush, le vice-président Henry Wallace et le président Roosevelt, ce dernier approuva le lancement du programme atomique. Pour le contrôler, il créa un comité stratégique composé de lui-même — même s'il n'assista à aucune réunion —, de Wallace, de Bush, de Conant, du secrétaire à la Guerre Henry Lewis Stimson et du chef d'état-major de l'armée, le général George Marshall. Roosevelt confia le projet à l'armée de terre plutôt qu'à la marine car la première avait une plus grande expérience dans la gestion de programmes importants. Il donna également son accord pour que les efforts de recherche soient coordonnés avec ceux des Britanniques et, le 11 octobre, il envoya un message au premier ministre Winston Churchill, suggérant qu'ils s'informent mutuellement des questions atomiques."
+   },
+   {
+    "heading": "Faisabilité",
+    "text": "Le comité S-1 organisa sa première réunion le 18 décembre 1941 dans une « atmosphère pleine d'enthousiasme et d'urgence » à la suite de l'attaque de Pearl Harbor et de la déclaration de guerre des États-Unis au Japon et de l'Allemagne aux États-Unis. Trois techniques différentes de séparation isotopique de l'uranium 235 et l'uranium 238 allaient être étudiées. Lawrence et son équipe de l'université de Californie à Berkeley travaillaient sur la séparation électromagnétique tandis que l'équipe d'Eger Murphree et de Jesse Beams développaient la diffusion gazeuse à l'université Columbia et que Philip Abelson dirigeait des recherches sur la diffusion thermique à la Carnegie Institution puis au Naval Research Laboratory. Murphee supervisait également un projet de séparation avec des centrifugeuses.\nParallèlement deux filières pour la technologie des réacteurs nucléaires était étudiées : Harold Clayton Urey poursuivait ses travaux sur l'eau lourde à l'université Columbia tandis qu'Arthur Compton avec son équipe de chercheurs de l'université Columbia et de l'université de Princeton s'installa à l'université de Chicago, où il fonda le Metallurgical Laboratory début 1942 pour étudier le plutonium et les réacteurs utilisant le graphite en tant que modérateur. Briggs, Compton, Lawrence, Murphree et Urey se rencontrèrent le 23 mai 1942 pour finaliser les recommandations du comité S-1 qui demandaient la poursuite des recherches sur les cinq technologies. Cette décision fut approuvée par Bush, Conant et le brigadier-général Wilhelm D. Styer, le chef d'état-major du major-général Brehon Burke Somervell qui avait été désigné par les représentants de l'armée pour superviser les questions atomiques. Bush et Conant présentèrent alors ces recommandations au Comité Stratégique avec une demande budgétaire de 54 millions de dollars pour les constructions devant être réalisées par le Corps du génie de l'armée des États-Unis, de 31 millions pour les recherches menées par l'OSRD et de 5 millions pour les frais imprévus de l'année fiscale 1943. Le Comité Stratégique présenta le rapport au président qui l'approuva le 17 juin 1942 en écrivant « OK FDR » sur le document.\nCompton demanda au physicien Robert Oppenheimer de l'université de Californie à Berkeley de prendre en charge les recherches sur les neutrons rapides, déterminantes pour calculer la masse critique et la puissance de la bombe, en remplacement de Gregory Breit qui avait quitté le projet du fait de ses inquiétudes sur le manque de secret du programme. John H. Manley, un physicien du Metallurgical Laboratory, fut nommé pour assister Oppenheimer en coordonnant les travaux de recherche expérimentale menés par différents groupes dans tout le pays. De très nombreux savants participèrent à ce projet, mais Einstein ne fut pas mis à contribution, en raison de ses convictions pacifistes. Oppenheimer et Robert Serber, de l'université de l'Illinois, examinèrent les problèmes liés à la diffusion des neutrons, la façon dont les neutrons se déplacent lors de la réaction en chaîne, la dynamique des fluides et le comportement de l'explosion provoquée par la réaction en chaîne. Pour évaluer ces recherches et la théorie générale de la fission nucléaire, Oppenheimer organisa des réunions à l'université de Chicago en juin et à l'université de Californie à Berkeley en juillet 1942 avec les physiciens théoriciens Hans Bethe, John Hasbrouck van Vleck, Edward Teller, Emil Konopinski, Robert Serber, Stan Frankel et Eldred C. Nelson (les trois derniers étaient des anciens élèves d'Oppenheimer) et les physiciens expérimentaux Félix Bloch, Emilio Gino Segrè, John Manley et Edwin McMillan. Ils confirmèrent prudemment qu'une bombe à fission était théoriquement possible.\nIl restait encore de nombreux facteurs inconnus. Les propriétés de l'uranium 235 pur et du plutonium, un élément découvert en 1940 par Glenn Theodore Seaborg et son équipe, étaient encore relativement inconnues. Les scientifiques de la réunion à Berkeley envisagèrent de produire du plutonium dans des réacteurs nucléaires où l'uranium 238 absorberait des neutrons émis lors de la fission des noyaux d'uranium 235. À ce moment, aucun réacteur n'avait été construit et le plutonium n'avait été produit qu'en quantités très limitées par les cyclotrons. Même en décembre 1943, seuls deux milligrammes avaient été produits. Il existait de nombreuses manières de disposer la matière fissile pour obtenir une masse critique. La plus simple était de projeter un « bloc cylindrique » dans une sphère de « matière active » avec un matériau dense qui concentrerait les neutrons vers l'intérieur pour maintenir la cohésion de la masse active et accroître son efficacité. Richard Tolman suggéra d'utiliser des sphéroïdes pour déclencher une forme primitive d'« implosion » et on envisagea la possibilité d'une réaction autocatalytique qui accroîtrait l'efficacité de la bombe alors qu'elle explosait.\nConsidérant que le concept d'une bombe à fission était théoriquement validé, du moins jusqu'à ce que davantage de données expérimentales soient disponibles, la conférence de Berkeley se tourna vers une nouvelle direction. Edward Teller lança la discussion sur une bombe encore plus puissante, la « super », aujourd'hui appelée « bombe à hydrogène », qui utiliserait la puissance explosive d'une bombe à fission pour déclencher une réaction de fusion nucléaire avec du deutérium et du tritium. Teller présenta de nombreux schémas, mais Bethe les rejeta tous. L'idée de la fusion fut mise de côté pour se concentrer sur la production de bombes à fission. Teller envisagea également l'hypothèse terrifiante qu'une bombe atomique ne puisse littéralement « enflammer » l'azote atmosphérique (N2, représentant 78 % en volume des gaz de l'atmosphère terrestre) au cas où une réaction de fusion nucléaire potentielle des noyaux d'azote serait susceptible de survenir. Bethe calcula qu'une telle réaction nucléaire n'était pas possible et un rapport coécrit par Teller montra qu'« aucune chaîne incontrôlée de réactions nucléaires [impliquant des noyaux d'azote de l'atmosphère] n'était susceptible de démarrer ». Dans le récit de Serber, Oppenheimer mentionna l'idée à Arthur Compton qui « n'eut pas assez de bon sens pour la fermer à ce sujet. Cela fut d'une manière ou d'une autre écrit dans un document qui fut envoyé à Washington » et qui « ne fut jamais enterré »."
+   },
+   {
+    "heading": "Organisation",
+    "text": "Le chef des ingénieurs, le major-général Eugene Reybold, nomma le colonel James C. Marshall pour superviser la partie militaire du projet en juin 1942. Marshall créa un bureau de liaison à Washington, D.C. mais il installa son quartier-général temporaire au 18e étage du 270 Broadway à New York d'où il pourrait recevoir le soutien administratif de la division Nord-Atlantique du corps du génie. Il était à proximité du bureau de Manhattan de la firme de génie Stone & Webster, le principal maître d'œuvre du projet, et de l'université Columbia. Il eut la permission de recruter au sein de son ancien commandement, le Syracuse District, et il engagea le lieutenant-colonel Kenneth Nichols qui devint son adjoint.\nComme la plupart de ses missions impliquaient des travaux de construction, Marshall travailla en coopération avec le directeur de la division construction du corps des ingénieurs, le major-général Thomas M. Robbins et son adjoint, le colonel Leslie Richard Groves. Reybold, Somervell et Styer décidèrent de nommer le projet « Development of Substitute Materials » (en français : « Développement de matériaux de substitution ») mais Groves jugea que cela attirerait l'attention. Comme les districts des ingénieurs portaient habituellement le nom de la ville où ils se trouvaient, Marshall et Groves acceptèrent de nommer la partie militaire du projet le « Manhattan District ». Cela devint le nom officiel le 13 août lorsque Reynold délivra l'ordre créant le nouveau district. À la différence des autres entités du corps des ingénieurs, il n'avait aucune limite géographique et Marshall avait l'autorité d'un ingénieur de division. Le nom de Development of Substitute Materials resta le nom de code officiel de l'ensemble du projet mais il fut progressivement supplanté par « Manhattan ».\nMarshall concéda plus tard qu'« il n'avait jamais entendu parler de la fission atomique mais qu'il savait que l'on ne pouvait pas construire une usine, et encore moins quatre, avec 90 millions de dollars ». Une seule usine de TNT que Nichols avait récemment construite en Pennsylvanie avait coûté 128 millions de dollars. Ils furent également décontenancés par les estimations d'ordre de grandeur du projet que Groves compara à demander à un traiteur de préparer un banquet pour entre dix et mille convives. Une équipe de la firme Stone & Webster avait déjà exploré un site pouvant accueillir les usines de production. Le War Production Board recommanda des sites autour de Knoxville dans le Tennessee, une zone isolée où la Tennessee Valley Authority pouvait fournir d'importantes quantités d'électricité et où l'eau des rivières pouvait permettre de refroidir les réacteurs. Après avoir examiné plusieurs sites, l'équipe d'étude sélectionna un site près d'Elza dans le Tennessee. Conant conseilla de l'acquérir immédiatement et Styer accepta mais Marshall temporisa en attendant les résultats des expériences de Conant sur les réacteurs. Parmi les pistes de recherche, seule la technique de séparation électromagnétique de Lawrence semblait suffisamment avancée pour justifier la construction.\nMarshall et Nichols commencèrent à rassembler les ressources nécessaires. La première étape était d'obtenir une haute priorité pour le projet. Les rangs allaient de AA-1 à AA-4 en ordre décroissant de priorité ; il existait également un rang AAA réservé aux urgences. Les rangs AA-1 et AA-2 étaient appliqués aux armements et aux équipements essentiels. Le colonel Lucius D. Clay, l'adjoint du chef d'état-major du Service of Supply (« Service du ravitaillement ») pour les ressources et les équipements, estima que le plus haut rang qu'il pouvait assigner était AA-3. Il était néanmoins disposé, en cas de besoin, à accorder la priorité AAA aux demandes concernant des matériaux critiques. Nichols et Marshall étaient déçus car l'usine de production de TNT de Nichols en Pennsylvanie avait également le rang AA-3.\nVannevar Bush fut déçu par l'incapacité du colonel James Creel Marshall à faire avancer efficacement le programme, en particulier la non-acquisition du site du Tennessee, la faible priorité accordée au projet par l'armée et l'emplacement de son quartier-général à New York. Bush sentit qu'une direction plus énergique était nécessaire et il évoqua ses inquiétudes à Harvey Bundy et aux généraux Marshall, Somervell et Styer. Il voulait placer le projet sous la direction d'un comité expérimenté avec un officier prestigieux à sa tête.\nSomervell et Styer choisirent Groves pour le poste et l'informèrent le 17 septembre de la décision. Groves détenait en effet l'expérience et les compétences qui cadraient avec la mission. Il venait de superviser la construction du Pentagone, « le plus important immeuble de bureaux au monde », et bien qu'il ait des défauts importants, « imbu de lui-même, brusque à l'extrême dans ses manières et dans ses propos », il savait se montrer à la hauteur des tâches difficiles, était tenace, intelligent et capable de travailler de façon autonome. Le général Marshall ordonna qu'il soit promu au grade de général de brigade car on considérait que le titre de « général » lui accorderait une plus grande autorité sur les scientifiques du projet Manhattan. Les ordres de Groves le plaçaient directement sous l'autorité de Somervell plutôt que sous celle de Reybold et le colonel Marshall était maintenant directement responsable devant Groves. Groves installa son quartier-général à Washington, D.C. au 5e étage du New War Department Building où le colonel Marshall avait installé son bureau de liaison. Il prit ses fonctions de commandant du projet Manhattan le 23 septembre. Plus tard dans la journée, il participa à une réunion organisée par Stimson, qui établit un comité militaire, responsable devant le Comité Stratégique, composé de Bush (avec Conant en alternance), Styer et le rear amiral William R. Purnell. Tolman et Conant furent ensuite nommés en tant que conseillers scientifiques de Groves.\nLe 19 septembre, Groves rencontra Donald M. Nelson, le président du War Production Board, pour pouvoir disposer d'une plus large autonomie dans la décision d'accorder un rang AAA à chaque fois que cela était nécessaire. Nelson était initialement réticent mais céda après que Groves eut menacé de faire appel au président des États-Unis. Groves promit de n'utiliser le rang AAA qu'en cas de nécessité. Il apparut par la suite qu'AAA était trop élevé pour les besoins routiniers du projet et qu'AA-3 était trop faible. Après avoir exercé régulièrement des pressions, Groves reçut l'autorisation d'utiliser AA-1 le 1er juillet 1944.\nL'un des premiers problèmes de Groves était de trouver un directeur pour le projet Y, le groupe chargé de concevoir et de construire la bombe. Les directeurs des trois laboratoires, Urey, Lawrence ou Compton étaient des candidats parfaitement adaptés mais ils ne pouvaient pas être détachés de leur poste actuel. Compton recommanda Oppenheimer, qui maitrisait déjà bien les principes de conception de la bombe. Cependant, Oppenheimer avait peu d'expérience administrative et, à la différence d'Urey, de Lawrence et de Compton, il n'avait pas reçu de prix Nobel, ce que de nombreux scientifiques considéraient comme indispensable pour le responsable d'un laboratoire aussi important. On s'inquiétait également des relations d'Oppenheimer car beaucoup de ses associés étaient communistes de même que son frère, Frank Oppenheimer, son épouse, Kitty et sa petite amie, Jean Tatlock. Une longue conversation durant un déplacement en train en octobre 1942 convainquit Groves et Nichols qu'Oppenheimer avait complètement compris les problèmes liés à la création d'un laboratoire dans une région isolée et qu'il devait être placé à sa tête. Groves décida de passer outre aux exigences de sécurité et autorisa la nomination d'Oppenheimer le 20 juillet 1943.\nSous Groves, le colonel Kennet Nichols a été nommé « Manhattan Engineer District Engineer » et le major Charles Vanden Bulck a continué en tant que directeur administratif et d'approvisionnement.\nLes Britanniques et les Américains échangèrent des informations sur le nucléaire mais ne mirent initialement pas en commun leurs efforts. Le Royaume-Uni refusa les propositions de Bush et de Conant en 1941 visant à renforcer la coopération avec son propre projet, Tube Alloys. Cependant, il ne disposait pas des ressources et de la main-d'œuvre des États-Unis et, malgré son avance initiale, le projet Tube Alloys prit du retard sur son homologue américain. Le 30 juillet 1942, Sir John Anderson, le ministre responsable du projet, confia à Winston Churchill que « Nous devons faire face au fait que… [nos] travaux pionniers… sont un atout éphémère et, si nous ne capitalisions pas rapidement, nous serons dépassés. Aujourd'hui, nous pouvons apporter une contribution à un projet commun. Bientôt nous aurons peu ou pas de choses à offrir ».\nÀ ce moment, la position britannique s'était détériorée. Bush et Conant avaient décidé que les États-Unis n'avaient plus besoin d'aide extérieure ; d'autres membres du comité sur la bombe voulaient empêcher que le Royaume-Uni dispose de la capacité de fabriquer une bombe atomique dans l'après-guerre. Le comité proposa de réduire les échanges d'informations avec le Royaume-Uni, même si cela devait ralentir le projet américain, et le président Roosevelt accepta l'idée. Le transfert d'information diminua ; Bush et Conant indiquèrent aux Britanniques que l'ordre venait « d'en haut ». Début 1943, constatant que les membres du projet américain ne fournissaient plus de données, les Britanniques arrêtèrent d'envoyer des scientifiques et d'envoyer les résultats de leurs recherches aux États-Unis. Les Britanniques envisagèrent de mettre un terme à la fourniture d'eau lourde et d'uranium canadien pour pousser les Américains à reprendre les échanges mais le Canada avait besoin de l'aide américaine pour les produire. Ils envisagèrent également de lancer un programme nucléaire indépendant mais ce dernier ne pourrait pas être terminé à temps pour infléchir le cours de la guerre en Europe.\nEn mars 1943, Conant estima que l'aide britannique profiterait à certains aspects du projet. L'équipe chargée de la conception de la bombe à Los Alamos indiqua qu'elle aurait besoin de James Chadwick et de quelques autres scientifiques britanniques importants malgré le risque de dévoiler les plans secrets de la bombe. En août 1943, Churchill et Roosevelt se rencontrèrent lors de la conférence de Québec et relancèrent la coopération. Le Royaume-Uni accepta néanmoins que certaines informations concernant la construction des grandes usines nécessaires à la fabrication de la bombe ne lui soit pas communiquées. L'accord suivant, conclu à Hyde Park dans l'État de New York en septembre 1944, prolongea cette coopération dans l'après-guerre. L'accord de Québec mit en place un comité — le Combined Policy Committee — pour coordonner les efforts des États-Unis, du Royaume-Uni et du Canada. Les États-Unis y étaient représentés par Stimson, Bush et Conant, le Royaume-Uni par le maréchal britannique John Dill et le colonel John Llewellin et le Canada par Clarence Decatur Howe. Llewellin rentra au Royaume-Uni à la fin de l'année 1943 et fut remplacé dans le comité par Sir Ronald Ian Campbell qui, à son tour, fut remplacé par l'ambassadeur britannique aux États-Unis, Lord Halifax au début de l'année 1945. Sir John Dill mourut à Washington D.C. en novembre 1944 et fut remplacé en tant que chef de la mission britannique et comme membre du Combined Policy Committee par le maréchal Sir Henry Maitland Wilson.\nAprès la reprise des échanges d'informations qui suivit l'accord de Québec, les Britanniques eurent accès à l'état d'avancement et furent très impressionnés par les dépenses engagées et les progrès réalisés par les Américains. Les États-Unis avaient à l'époque déjà dépensé plus d'un milliard de dollars (13 400 000 000 $ de 2012) alors qu'en 1943 le Royaume-Uni n'avait dépensé que 500 000 £ (environ 2 500 000 $). Chadwick recommanda que, compte tenu de l'avance du projet américain, le Royaume-Uni accroisse au maximum sa participation dans le projet Manhattan et renonce à mener son propre projet tant que la guerre durait. Avec l'appui de Churchill, il s'assura que toutes les demandes d'assistance de Groves soient satisfaites. La mission britannique qui arriva aux États-Unis en décembre 1943 incluait Niels Bohr, Otto Frisch, Klaus Fuchs, Rudolf Peierls et Ernest Titterton. De nouveaux scientifiques arrivèrent au début de l'année 1944. Ceux assignés à la diffusion gazeuse quittèrent le projet à l'automne 1944 et les 35 chercheurs assignés au laboratoire de Lawrence à Berkeley furent redéployés dans d'autres groupes de recherche et restèrent aux États-Unis jusqu'à la fin de la guerre. Les 19 scientifiques envoyés à Los Alamos rejoignirent également des groupes existants, en particulier ceux chargés de l'implosion et de l'assemblage de la bombe mais pas ceux responsables de l'étude et de l'emploi du plutonium. Une clause de l'accord de Québec spécifiait que les armes nucléaires ne devraient pas être utilisées sans l'accord du Royaume-Uni. En juin 1945, Wilson accepta que l'emploi d'armes nucléaires contre le Japon soit enregistré comme décision du Combined Policy Committee.\nLe Combined Policy Committee créa en juin 1944 le Combined Development Trust dirigé par Groves et chargé d'acquérir du minerai d'uranium et de thorium sur les marchés internationaux. Le Congo belge et le Canada détenaient les plus grandes réserves d'uranium en dehors d'Europe et le gouvernement belge en exil était à Londres. Le Royaume-Uni accepta de céder l'essentiel du minerai belge aux États-Unis car il ne pouvait pas utiliser la plus grande partie de ce stock compte tenu de leur accès limités aux résultats des recherches américaines. En 1944, le Trust acheta 1 560 t de minerai d'uranium auprès de sociétés gérant des mines dans le Congo belge. Pour que le secrétaire au Trésor Henry Morgenthau ne découvre pas le projet, un compte spécial non soumis aux contrôles habituels fut mis en place pour gérer les fonds du Trust. Entre 1944 et 1947, quand il quitta le Trust, Groves déposa un total de 37,5 millions de dollars sur le compte du Trust.\nGroves apprécia l'apport initial des recherches britanniques et la contribution des scientifiques britanniques au projet Manhattan mais il affirma que les États-Unis auraient réussi sans l'aide britannique. Que cette appréciation soit vraie ou fausse, la participation britannique au projet Manhattan joua un rôle crucial dans la réussite du programme nucléaire britannique mené après la guerre lorsque l’Atomic Energy Act de 1946 mit temporairement fin à la coopération nucléaire entre les deux pays.\nMême si des scientifiques français collaboraient au projet Manhattan à la suite d'une entente avec les Britanniques, les responsables du projet refusèrent d'informer les autorités françaises des travaux en cours et exigeaient le secret des scientifiques. Pourtant, lors d'une visite du général Charles de Gaulle à Ottawa au Canada en 1944, les scientifiques français Pierre Auger, Bertrand Goldschmidt et Jules Guéron, craignant de voir les Américains s'approprier le monopole d'une telle arme, informèrent le général « des conséquences révolutionnaires de ce nouvel élément de la politique mondiale »."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "De 1942 à 1946, il fut dirigé par le major général Leslie Richard Groves du corps du génie de l'armée des États-Unis."
+  },
+  "f2": {
+   "kind": "date",
+   "value": "1946",
+   "surface": "1946",
+   "sentence": "De 1942 à 1946, il fut dirigé par le major général Leslie Richard Groves du corps du génie de l'armée des États-Unis."
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Au cours de son développement, le projet absorba son équivalent britannique, Tube Alloys, à la suite de l'accord de Québec en août 1943."
+  },
+  "f4": {
+   "kind": "date",
+   "value": "1939",
+   "surface": "1939",
+   "sentence": "Ordonné par le président Franklin D. Roosevelt à la suite de la réception de la lettre Einstein-Szilárd, le projet Manhattan commença modestement en 1939 mais il finit par employer plus de 130 000 personnes et coûta près de deux milliards de dollars américains en 1945, soit 1 % du PIB américain cette année-là."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 130000,
+   "surface": "130 000",
+   "sentence": "Ordonné par le président Franklin D. Roosevelt à la suite de la réception de la lettre Einstein-Szilárd, le projet Manhattan commença modestement en 1939 mais il finit par employer plus de 130 000 personnes et coûta près de deux milliards de dollars américains en 1945, soit 1 % du PIB américain cette année-là."
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1945",
+   "surface": "1945",
+   "sentence": "Ordonné par le président Franklin D. Roosevelt à la suite de la réception de la lettre Einstein-Szilárd, le projet Manhattan commença modestement en 1939 mais il finit par employer plus de 130 000 personnes et coûta près de deux milliards de dollars américains en 1945, soit 1 % du PIB américain cette année-là."
+  },
+  "f7": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1 %",
+   "sentence": "Ordonné par le président Franklin D. Roosevelt à la suite de la réception de la lettre Einstein-Szilárd, le projet Manhattan commença modestement en 1939 mais il finit par employer plus de 130 000 personnes et coûta près de deux milliards de dollars américains en 1945, soit 1 % du PIB américain cette année-là."
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90 %",
+   "sentence": "Plus de 90 % des frais furent consacrés à la construction des usines et à la production des matériaux fissiles et moins de 10 % au développement et à la fabrication des armes comportant les matières explosives."
+  },
+  "f9": {
+   "kind": "measure",
+   "value": 10,
+   "unit": "%",
+   "surface": "10 %",
+   "sentence": "Plus de 90 % des frais furent consacrés à la construction des usines et à la production des matériaux fissiles et moins de 10 % au développement et à la fabrication des armes comportant les matières explosives."
+  },
+  "f10": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "Les blocs étaient composés d'uranium 235, un isotope comptant pour 0,7 % de l'uranium naturel."
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 0.7,
+   "unit": "%",
+   "surface": "0,7 %",
+   "sentence": "Les blocs étaient composés d'uranium 235, un isotope comptant pour 0,7 % de l'uranium naturel."
+  },
+  "f12": {
+   "kind": "number",
+   "value": 238,
+   "surface": "238",
+   "sentence": "Comme il était chimiquement similaire à l'isotope le plus abondant, l'uranium 238, et avait presque la même masse, la séparation des deux isotopes fut difficile."
+  },
+  "f13": {
+   "kind": "number",
+   "value": 16,
+   "surface": "16",
+   "sentence": "L'arme au plutonium fut testée pour la première fois lors de l'essai Trinity réalisé le 16 juillet 1945 à Alamogordo au Nouveau-Mexique."
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1945",
+   "surface": "1945",
+   "sentence": "L'arme au plutonium fut testée pour la première fois lors de l'essai Trinity réalisé le 16 juillet 1945 à Alamogordo au Nouveau-Mexique."
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947",
+   "sentence": "Il conserva le contrôle de la recherche et de la production des armes nucléaires américaines jusqu'à la formation de la Commission de l'énergie atomique des États-Unis en janvier 1947."
+  },
+  "f16": {
+   "kind": "date",
+   "value": "1939",
+   "surface": "1939",
+   "sentence": "En août 1939, les physiciens Leó Szilárd et Eugene Wigner rédigèrent la lettre Einstein-Szilárd adressée au président américain Franklin Delano Roosevelt pour l'avertir que des travaux scientifiques récents permettaient d'envisager la réalisation de « bombes d'un nouveau type et extrêmement puissantes » en déclenchant une réaction en chaîne avec de grandes quantités d'uranium.",
+   "section": "Origines"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 21,
+   "surface": "21",
+   "sentence": "Briggs organisa une réunion le 21 octobre 1939 à laquelle participèrent Szilárd, Wigner et le physicien Edward Teller.",
+   "section": "Origines"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1939",
+   "surface": "1939",
+   "sentence": "Briggs organisa une réunion le 21 octobre 1939 à laquelle participèrent Szilárd, Wigner et le physicien Edward Teller.",
+   "section": "Origines"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 167000,
+   "surface": "167 000",
+   "sentence": "Briggs propose alors que le National Defense Research Committee (NDRC, « Commission nationale de recherche pour la défense ») dépense 167 000 $ dans des recherches sur l'uranium, en particulier sur l'uranium 235 et sur le plutonium (découvert en 1940).",
+   "section": "Origines"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "Briggs propose alors que le National Defense Research Committee (NDRC, « Commission nationale de recherche pour la défense ») dépense 167 000 $ dans des recherches sur l'uranium, en particulier sur l'uranium 235 et sur le plutonium (découvert en 1940).",
+   "section": "Origines"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1940",
+   "surface": "1940",
+   "sentence": "Briggs propose alors que le National Defense Research Committee (NDRC, « Commission nationale de recherche pour la défense ») dépense 167 000 $ dans des recherches sur l'uranium, en particulier sur l'uranium 235 et sur le plutonium (découvert en 1940).",
+   "section": "Origines"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 28,
+   "surface": "28",
+   "sentence": "Le 28 juin 1941, Roosevelt signa l'ordre exécutif 8807 créant l'Office of Scientific Research and Development (OSRD, « Bureau de recherches et de développement scientifiques ») avec Vannevar Bush à sa tête.",
+   "section": "Origines"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1941",
+   "surface": "1941",
+   "sentence": "Le 28 juin 1941, Roosevelt signa l'ordre exécutif 8807 créant l'Office of Scientific Research and Development (OSRD, « Bureau de recherches et de développement scientifiques ») avec Vannevar Bush à sa tête.",
+   "section": "Origines"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 8807,
+   "surface": "8807",
+   "sentence": "Le 28 juin 1941, Roosevelt signa l'ordre exécutif 8807 créant l'Office of Scientific Research and Development (OSRD, « Bureau de recherches et de développement scientifiques ») avec Vannevar Bush à sa tête.",
+   "section": "Origines"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "En Grande-Bretagne, Otto Frisch et Rudolf Peierls de l'université de Birmingham avaient réalisé une grande avancée en déterminant la masse critique de l'uranium 235 en juin 1939.",
+   "section": "Origines"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1939",
+   "surface": "1939",
+   "sentence": "En Grande-Bretagne, Otto Frisch et Rudolf Peierls de l'université de Birmingham avaient réalisé une grande avancée en déterminant la masse critique de l'uranium 235 en juin 1939.",
+   "section": "Origines"
+  },
+  "f27": {
+   "kind": "measure",
+   "value": 10,
+   "unit": "kg",
+   "surface": "10 kg",
+   "sentence": "Leurs calculs indiquaient qu'elle se trouvait dans un ordre de grandeur de 10 kg, ce qui était suffisamment léger pour réaliser une bombe pouvant être transportée par un bombardier de l'époque.",
+   "section": "Origines"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1940",
+   "surface": "1940",
+   "sentence": "Leur mémorandum de mars 1940 fut le point de départ du projet de recherche nucléaire britannique et de sa commission MAUD qui recommanda à l'unanimité la poursuite du développement d'une bombe atomique.",
+   "section": "Origines"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1941",
+   "surface": "1941",
+   "sentence": "L'un de ses membres, le physicien australien Marcus Oliphant, fut envoyé en mission aux États-Unis à la fin du mois d'août 1941 dans le but de connaître l'état de la recherche.",
+   "section": "Origines"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1940",
+   "surface": "1940",
+   "sentence": "Il découvrit que les informations concernant la faisabilité d'une bombe atomique, pourtant transmises au gouvernement américain en octobre 1940, n'étaient pas parvenues jusqu'aux physiciens américains les plus importants.",
+   "section": "Origines"
+  },
+  "f31": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "Le 9 octobre 1941, au cours d'une réunion à laquelle participaient Vannevar Bush, le vice-président Henry Wallace et le président Roosevelt, ce dernier approuva le lancement du programme atomique.",
+   "section": "Origines"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1941",
+   "surface": "1941",
+   "sentence": "Le 9 octobre 1941, au cours d'une réunion à laquelle participaient Vannevar Bush, le vice-président Henry Wallace et le président Roosevelt, ce dernier approuva le lancement du programme atomique.",
+   "section": "Origines"
+  },
+  "f33": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "Il donna également son accord pour que les efforts de recherche soient coordonnés avec ceux des Britanniques et, le 11 octobre, il envoya un message au premier ministre Winston Churchill, suggérant qu'ils s'informent mutuellement des questions atomiques.",
+   "section": "Origines"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 18,
+   "surface": "18",
+   "sentence": "Le comité S-1 organisa sa première réunion le 18 décembre 1941 dans une « atmosphère pleine d'enthousiasme et d'urgence » à la suite de l'attaque de Pearl Harbor et de la déclaration de guerre des États-Unis au Japon et de l'Allemagne aux États-Unis.",
+   "section": "Faisabilité"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1941",
+   "surface": "1941",
+   "sentence": "Le comité S-1 organisa sa première réunion le 18 décembre 1941 dans une « atmosphère pleine d'enthousiasme et d'urgence » à la suite de l'attaque de Pearl Harbor et de la déclaration de guerre des États-Unis au Japon et de l'Allemagne aux États-Unis.",
+   "section": "Faisabilité"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "Trois techniques différentes de séparation isotopique de l'uranium 235 et l'uranium 238 allaient être étudiées.",
+   "section": "Faisabilité"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 238,
+   "surface": "238",
+   "sentence": "Trois techniques différentes de séparation isotopique de l'uranium 235 et l'uranium 238 allaient être étudiées.",
+   "section": "Faisabilité"
+  },
+  "f38": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Parallèlement deux filières pour la technologie des réacteurs nucléaires était étudiées : Harold Clayton Urey poursuivait ses travaux sur l'eau lourde à l'université Columbia tandis qu'Arthur Compton avec son équipe de chercheurs de l'université Columbia et de l'université de Princeton s'installa à l'université de Chicago, où il fonda le Metallurgical Laboratory début 1942 pour étudier le plutonium et les réacteurs utilisant le graphite en tant que modérateur.",
+   "section": "Faisabilité"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 23,
+   "surface": "23",
+   "sentence": "Briggs, Compton, Lawrence, Murphree et Urey se rencontrèrent le 23 mai 1942 pour finaliser les recommandations du comité S-1 qui demandaient la poursuite des recherches sur les cinq technologies.",
+   "section": "Faisabilité"
+  },
+  "f40": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Briggs, Compton, Lawrence, Murphree et Urey se rencontrèrent le 23 mai 1942 pour finaliser les recommandations du comité S-1 qui demandaient la poursuite des recherches sur les cinq technologies.",
+   "section": "Faisabilité"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 54000000,
+   "surface": "54 millions",
+   "sentence": "Bush et Conant présentèrent alors ces recommandations au Comité Stratégique avec une demande budgétaire de 54 millions de dollars pour les constructions devant être réalisées par le Corps du génie de l'armée des États-Unis, de 31 millions pour les recherches menées par l'OSRD et de 5 millions pour les frais imprévus de l'année fiscale 1943.",
+   "section": "Faisabilité"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 31000000,
+   "surface": "31 millions",
+   "sentence": "Bush et Conant présentèrent alors ces recommandations au Comité Stratégique avec une demande budgétaire de 54 millions de dollars pour les constructions devant être réalisées par le Corps du génie de l'armée des États-Unis, de 31 millions pour les recherches menées par l'OSRD et de 5 millions pour les frais imprévus de l'année fiscale 1943.",
+   "section": "Faisabilité"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 5000000,
+   "surface": "5 millions",
+   "sentence": "Bush et Conant présentèrent alors ces recommandations au Comité Stratégique avec une demande budgétaire de 54 millions de dollars pour les constructions devant être réalisées par le Corps du génie de l'armée des États-Unis, de 31 millions pour les recherches menées par l'OSRD et de 5 millions pour les frais imprévus de l'année fiscale 1943.",
+   "section": "Faisabilité"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Bush et Conant présentèrent alors ces recommandations au Comité Stratégique avec une demande budgétaire de 54 millions de dollars pour les constructions devant être réalisées par le Corps du génie de l'armée des États-Unis, de 31 millions pour les recherches menées par l'OSRD et de 5 millions pour les frais imprévus de l'année fiscale 1943.",
+   "section": "Faisabilité"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 17,
+   "surface": "17",
+   "sentence": "Le Comité Stratégique présenta le rapport au président qui l'approuva le 17 juin 1942 en écrivant « OK FDR » sur le document.",
+   "section": "Faisabilité"
+  },
+  "f46": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Le Comité Stratégique présenta le rapport au président qui l'approuva le 17 juin 1942 en écrivant « OK FDR » sur le document.",
+   "section": "Faisabilité"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Pour évaluer ces recherches et la théorie générale de la fission nucléaire, Oppenheimer organisa des réunions à l'université de Chicago en juin et à l'université de Californie à Berkeley en juillet 1942 avec les physiciens théoriciens Hans Bethe, John Hasbrouck van Vleck, Edward Teller, Emil Konopinski, Robert Serber, Stan Frankel et Eldred C. Nelson (les trois derniers étaient des anciens élèves d'Oppenheimer) et les physiciens expérimentaux Félix Bloch, Emilio Gino Segrè, John Manley et Edwin McMillan.",
+   "section": "Faisabilité"
+  },
+  "f48": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "Les propriétés de l'uranium 235 pur et du plutonium, un élément découvert en 1940 par Glenn Theodore Seaborg et son équipe, étaient encore relativement inconnues.",
+   "section": "Faisabilité"
+  },
+  "f49": {
+   "kind": "date",
+   "value": "1940",
+   "surface": "1940",
+   "sentence": "Les propriétés de l'uranium 235 pur et du plutonium, un élément découvert en 1940 par Glenn Theodore Seaborg et son équipe, étaient encore relativement inconnues.",
+   "section": "Faisabilité"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 238,
+   "surface": "238",
+   "sentence": "Les scientifiques de la réunion à Berkeley envisagèrent de produire du plutonium dans des réacteurs nucléaires où l'uranium 238 absorberait des neutrons émis lors de la fission des noyaux d'uranium 235.",
+   "section": "Faisabilité"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "Les scientifiques de la réunion à Berkeley envisagèrent de produire du plutonium dans des réacteurs nucléaires où l'uranium 238 absorberait des neutrons émis lors de la fission des noyaux d'uranium 235.",
+   "section": "Faisabilité"
+  },
+  "f52": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Même en décembre 1943, seuls deux milligrammes avaient été produits.",
+   "section": "Faisabilité"
+  },
+  "f53": {
+   "kind": "measure",
+   "value": 78,
+   "unit": "%",
+   "surface": "78 %",
+   "sentence": "Teller envisagea également l'hypothèse terrifiante qu'une bombe atomique ne puisse littéralement « enflammer » l'azote atmosphérique (N2, représentant 78 % en volume des gaz de l'atmosphère terrestre) au cas où une réaction de fusion nucléaire potentielle des noyaux d'azote serait susceptible de survenir.",
+   "section": "Faisabilité"
+  },
+  "f54": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Le chef des ingénieurs, le major-général Eugene Reybold, nomma le colonel James C. Marshall pour superviser la partie militaire du projet en juin 1942.",
+   "section": "Organisation"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 270,
+   "surface": "270",
+   "sentence": "Marshall créa un bureau de liaison à Washington, D.C. mais il installa son quartier-général temporaire au 18e étage du 270 Broadway à New York d'où il pourrait recevoir le soutien administratif de la division Nord-Atlantique du corps du génie.",
+   "section": "Organisation"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 13,
+   "surface": "13",
+   "sentence": "Cela devint le nom officiel le 13 août lorsque Reynold délivra l'ordre créant le nouveau district.",
+   "section": "Organisation"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 90000000,
+   "surface": "90 millions",
+   "sentence": "Marshall concéda plus tard qu'« il n'avait jamais entendu parler de la fission atomique mais qu'il savait que l'on ne pouvait pas construire une usine, et encore moins quatre, avec 90 millions de dollars ».",
+   "section": "Organisation"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 128000000,
+   "surface": "128 millions",
+   "sentence": "Une seule usine de TNT que Nichols avait récemment construite en Pennsylvanie avait coûté 128 millions de dollars.",
+   "section": "Organisation"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 17,
+   "surface": "17",
+   "sentence": "Somervell et Styer choisirent Groves pour le poste et l'informèrent le 17 septembre de la décision.",
+   "section": "Organisation"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 23,
+   "surface": "23",
+   "sentence": "Il prit ses fonctions de commandant du projet Manhattan le 23 septembre.",
+   "section": "Organisation"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Le 19 septembre, Groves rencontra Donald M. Nelson, le président du War Production Board, pour pouvoir disposer d'une plus large autonomie dans la décision d'accorder un rang AAA à chaque fois que cela était nécessaire.",
+   "section": "Organisation"
+  },
+  "f62": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "Après avoir exercé régulièrement des pressions, Groves reçut l'autorisation d'utiliser AA-1 le 1er juillet 1944.",
+   "section": "Organisation"
+  },
+  "f63": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Une longue conversation durant un déplacement en train en octobre 1942 convainquit Groves et Nichols qu'Oppenheimer avait complètement compris les problèmes liés à la création d'un laboratoire dans une région isolée et qu'il devait être placé à sa tête.",
+   "section": "Organisation"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Groves décida de passer outre aux exigences de sécurité et autorisa la nomination d'Oppenheimer le 20 juillet 1943.",
+   "section": "Organisation"
+  },
+  "f65": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Groves décida de passer outre aux exigences de sécurité et autorisa la nomination d'Oppenheimer le 20 juillet 1943.",
+   "section": "Organisation"
+  },
+  "f66": {
+   "kind": "date",
+   "value": "1941",
+   "surface": "1941",
+   "sentence": "Le Royaume-Uni refusa les propositions de Bush et de Conant en 1941 visant à renforcer la coopération avec son propre projet, Tube Alloys.",
+   "section": "Organisation"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Le 30 juillet 1942, Sir John Anderson, le ministre responsable du projet, confia à Winston Churchill que « Nous devons faire face au fait que…",
+   "section": "Organisation"
+  },
+  "f68": {
+   "kind": "date",
+   "value": "1942",
+   "surface": "1942",
+   "sentence": "Le 30 juillet 1942, Sir John Anderson, le ministre responsable du projet, confia à Winston Churchill que « Nous devons faire face au fait que…",
+   "section": "Organisation"
+  },
+  "f69": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Début 1943, constatant que les membres du projet américain ne fournissaient plus de données, les Britanniques arrêtèrent d'envoyer des scientifiques et d'envoyer les résultats de leurs recherches aux États-Unis.",
+   "section": "Organisation"
+  },
+  "f70": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "En mars 1943, Conant estima que l'aide britannique profiterait à certains aspects du projet.",
+   "section": "Organisation"
+  },
+  "f71": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "En août 1943, Churchill et Roosevelt se rencontrèrent lors de la conférence de Québec et relancèrent la coopération.",
+   "section": "Organisation"
+  },
+  "f72": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "L'accord suivant, conclu à Hyde Park dans l'État de New York en septembre 1944, prolongea cette coopération dans l'après-guerre.",
+   "section": "Organisation"
+  },
+  "f73": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Llewellin rentra au Royaume-Uni à la fin de l'année 1943 et fut remplacé dans le comité par Sir Ronald Ian Campbell qui, à son tour, fut remplacé par l'ambassadeur britannique aux États-Unis, Lord Halifax au début de l'année 1945.",
+   "section": "Organisation"
+  },
+  "f74": {
+   "kind": "date",
+   "value": "1945",
+   "surface": "1945",
+   "sentence": "Llewellin rentra au Royaume-Uni à la fin de l'année 1943 et fut remplacé dans le comité par Sir Ronald Ian Campbell qui, à son tour, fut remplacé par l'ambassadeur britannique aux États-Unis, Lord Halifax au début de l'année 1945.",
+   "section": "Organisation"
+  },
+  "f75": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "Sir John Dill mourut à Washington D.C. en novembre 1944 et fut remplacé en tant que chef de la mission britannique et comme membre du Combined Policy Committee par le maréchal Sir Henry Maitland Wilson.",
+   "section": "Organisation"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 13400000000,
+   "surface": "13 400 000 000",
+   "sentence": "Les États-Unis avaient à l'époque déjà dépensé plus d'un milliard de dollars (13 400 000 000 $ de 2012) alors qu'en 1943 le Royaume-Uni n'avait dépensé que 500 000 £ (environ 2 500 000 $).",
+   "section": "Organisation"
+  },
+  "f77": {
+   "kind": "date",
+   "value": "2012",
+   "surface": "2012",
+   "sentence": "Les États-Unis avaient à l'époque déjà dépensé plus d'un milliard de dollars (13 400 000 000 $ de 2012) alors qu'en 1943 le Royaume-Uni n'avait dépensé que 500 000 £ (environ 2 500 000 $).",
+   "section": "Organisation"
+  },
+  "f78": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Les États-Unis avaient à l'époque déjà dépensé plus d'un milliard de dollars (13 400 000 000 $ de 2012) alors qu'en 1943 le Royaume-Uni n'avait dépensé que 500 000 £ (environ 2 500 000 $).",
+   "section": "Organisation"
+  },
+  "f79": {
+   "kind": "number",
+   "value": 500000,
+   "surface": "500 000",
+   "sentence": "Les États-Unis avaient à l'époque déjà dépensé plus d'un milliard de dollars (13 400 000 000 $ de 2012) alors qu'en 1943 le Royaume-Uni n'avait dépensé que 500 000 £ (environ 2 500 000 $).",
+   "section": "Organisation"
+  },
+  "f80": {
+   "kind": "number",
+   "value": 2500000,
+   "surface": "2 500 000",
+   "sentence": "Les États-Unis avaient à l'époque déjà dépensé plus d'un milliard de dollars (13 400 000 000 $ de 2012) alors qu'en 1943 le Royaume-Uni n'avait dépensé que 500 000 £ (environ 2 500 000 $).",
+   "section": "Organisation"
+  },
+  "f81": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "La mission britannique qui arriva aux États-Unis en décembre 1943 incluait Niels Bohr, Otto Frisch, Klaus Fuchs, Rudolf Peierls et Ernest Titterton.",
+   "section": "Organisation"
+  },
+  "f82": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "De nouveaux scientifiques arrivèrent au début de l'année 1944.",
+   "section": "Organisation"
+  },
+  "f83": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "Ceux assignés à la diffusion gazeuse quittèrent le projet à l'automne 1944 et les 35 chercheurs assignés au laboratoire de Lawrence à Berkeley furent redéployés dans d'autres groupes de recherche et restèrent aux États-Unis jusqu'à la fin de la guerre.",
+   "section": "Organisation"
+  },
+  "f84": {
+   "kind": "number",
+   "value": 35,
+   "surface": "35",
+   "sentence": "Ceux assignés à la diffusion gazeuse quittèrent le projet à l'automne 1944 et les 35 chercheurs assignés au laboratoire de Lawrence à Berkeley furent redéployés dans d'autres groupes de recherche et restèrent aux États-Unis jusqu'à la fin de la guerre.",
+   "section": "Organisation"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 19,
+   "surface": "19",
+   "sentence": "Les 19 scientifiques envoyés à Los Alamos rejoignirent également des groupes existants, en particulier ceux chargés de l'implosion et de l'assemblage de la bombe mais pas ceux responsables de l'étude et de l'emploi du plutonium.",
+   "section": "Organisation"
+  },
+  "f86": {
+   "kind": "date",
+   "value": "1945",
+   "surface": "1945",
+   "sentence": "En juin 1945, Wilson accepta que l'emploi d'armes nucléaires contre le Japon soit enregistré comme décision du Combined Policy Committee.",
+   "section": "Organisation"
+  },
+  "f87": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "Le Combined Policy Committee créa en juin 1944 le Combined Development Trust dirigé par Groves et chargé d'acquérir du minerai d'uranium et de thorium sur les marchés internationaux.",
+   "section": "Organisation"
+  },
+  "f88": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "En 1944, le Trust acheta 1 560 t de minerai d'uranium auprès de sociétés gérant des mines dans le Congo belge.",
+   "section": "Organisation"
+  },
+  "f89": {
+   "kind": "measure",
+   "value": 1560,
+   "unit": "t",
+   "surface": "1 560 t",
+   "sentence": "En 1944, le Trust acheta 1 560 t de minerai d'uranium auprès de sociétés gérant des mines dans le Congo belge.",
+   "section": "Organisation"
+  },
+  "f90": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "Entre 1944 et 1947, quand il quitta le Trust, Groves déposa un total de 37,5 millions de dollars sur le compte du Trust.",
+   "section": "Organisation"
+  },
+  "f91": {
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947",
+   "sentence": "Entre 1944 et 1947, quand il quitta le Trust, Groves déposa un total de 37,5 millions de dollars sur le compte du Trust.",
+   "section": "Organisation"
+  },
+  "f92": {
+   "kind": "number",
+   "value": 37500000,
+   "surface": "37,5 millions",
+   "sentence": "Entre 1944 et 1947, quand il quitta le Trust, Groves déposa un total de 37,5 millions de dollars sur le compte du Trust.",
+   "section": "Organisation"
+  },
+  "f93": {
+   "kind": "date",
+   "value": "1946",
+   "surface": "1946",
+   "sentence": "Que cette appréciation soit vraie ou fausse, la participation britannique au projet Manhattan joua un rôle crucial dans la réussite du programme nucléaire britannique mené après la guerre lorsque l’Atomic Energy Act de 1946 mit temporairement fin à la coopération nucléaire entre les deux pays.",
+   "section": "Organisation"
+  },
+  "f94": {
+   "kind": "date",
+   "value": "1944",
+   "surface": "1944",
+   "sentence": "Pourtant, lors d'une visite du général Charles de Gaulle à Ottawa au Canada en 1944, les scientifiques français Pierre Auger, Bertrand Goldschmidt et Jules Guéron, craignant de voir les Américains s'approprier le monopole d'une telle arme, informèrent le général « des conséquences révolutionnaires de ce nouvel élément de la politique mondiale ».",
+   "section": "Organisation"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Trinity shot color.jpg",
+   "w": 2426,
+   "h": 2790,
+   "alt": "Projet Manhattan",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Trinity_shot_color.jpg/960px-Trinity_shot_color.jpg",
+   "sha1": "c4b203844732dff4df48bc1162cb4f25c63aab75",
+   "credit": {
+    "author": "Fastfission~commonswiki",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Trinity_shot_color.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "Projet Manhattan",
+  "Projet de recherche"
+ ]
+}

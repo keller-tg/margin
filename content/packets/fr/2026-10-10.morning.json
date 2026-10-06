@@ -1,0 +1,1219 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-10",
+ "slot": "morning",
+ "lang": "fr",
+ "topic": {
+  "title": "Technétium",
+  "qid": "Q1054",
+  "pageid": 11736,
+  "revid": 240020703,
+  "domain": "chemistry",
+  "url": "https://fr.wikipedia.org/w/index.php?title=Techn%C3%A9tium&oldid=240020703"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    6,
+    7
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    10,
+    12
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "élément chimique de numéro atomique 43 et de symbole Tc",
+  "lead": "Le technétium est l'élément chimique de numéro atomique 43, de symbole Tc.\nLe technétium est l'élément le plus léger ne possédant pas d'isotope stable. Les propriétés chimiques de ce métal de transition radioactif de couleur gris métallique, rarement présent dans la nature, sont intermédiaires entre celles du rhénium et du manganèse. Son nom provient du grec τεχνητός / tekhnêtós, « artificiel » : il a été le premier élément chimique produit artificiellement. Le technétium est aussi le plus léger des éléments découverts par création artificielle.\nLe technétium 99m (99mTc), un isotope de faible demi-vie, émetteur de rayons γ, est utilisé en médecine nucléaire pour effectuer de nombreux diagnostics. Un autre isotope, le technétium 99 (99Tc), de longue durée de vie, est une source de particules β. De plus, l'ion pertechnétate (TcO4−) a été proposé comme un inhibiteur fort de la corrosion anodique des aciers doux dans les systèmes de refroidissement fermés.\nAvant la découverte de cet élément, de nombreuses propriétés furent prédites par Dmitri Mendeleïev, qui remarqua une lacune dans sa classification et appela cet élément « ekamanganèse ». En 1937, l'isotope technétium 97 (97Tc) fut le premier élément à être produit artificiellement comme son nom l'indique. La plupart du technétium produit sur Terre est issu de la fission de l'uranium 235 dans les réacteurs nucléaires et est extrait du cycle du combustible nucléaire. Aucun des isotopes du technétium ne possède une demi-vie supérieure à 4,2 millions d'années (98Tc), donc sa détection dans les géantes rouges en 1952 apporta la preuve que les étoiles peuvent produire des éléments plus lourds lors de la nucléosynthèse stellaire. Sur Terre, le technétium existe sous forme de traces en quantité mesurable comme un produit de la fission spontanée d'un alliage d'uranium ou par la capture d'un neutron d'un alliage de molybdène.",
+  "sections": [
+   {
+    "heading": "Histoire",
+    "text": "La place dans la table périodique entre le molybdène (Z = 42) et le ruthénium (Z = 44) est restée longtemps vacante. De nombreux chercheurs avaient l'ambition de trouver cet élément, car sa place dans la table périodique laissait suggérer que la découverte serait plus facile que pour les autres éléments chimiques inconnus. Sa présence fut tout d'abord supposée dans un alliage de platine en 1828 et cet élément fut nommé polinium avant de se révéler être de l'iridium impur. En 1846, l'élément \"ilménium\" a été déclaré découvert mais il s'agissait en fait du niobium impur. Cette erreur a été répétée en 1844 avec la pseudo-découverte par Heinrich Rose du pélopium. Dmitri Mendeleïev prédisait que l'élément chimique aurait les mêmes propriétés que le manganèse et il lui donna le nom d'eka-manganèse (de symbole Em).\nEn 1877, le chimiste russe Serge Kern rapporta avoir trouvé l'élément manquant dans un alliage métallique. Kern nomma ce qu'il pensa être le nouvel élément davyum en hommage au chimiste anglais Sir Humphry Davy, mais l'élément s'avéra être un mélange d'iridium, de rhodium et de fer. Un autre candidat, le lucium suivit en 1896 mais fut déterminé comme étant de l'yttrium. En 1908, le chimiste japonais Masataka Ogawa crut trouver des preuves de la présence de l'élément 43 dans un minerai de thorianite. Ogawa appela cet élément le nipponium (d'après nippon qui signifie japon). Des examens ultérieurs montrèrent la présence de rhénium dans les plaques photographiques d'Ogawa, mais pas celle de l'élément 43.\nEn 1925, Walter Noddack, Otto Berg et Ida Tacke (qui devint Mrs Noddack) annoncèrent leur découverte à laquelle ils donnèrent le nom de masurium, mais ils ne réussirent pas à renouveler l'expérience. Le nom masurium vient de Mazurie, une région de l'est de la Prusse, actuellement située en Pologne, la région dont la famille de Walter Noddack est originaire. Cette équipe a bombardé de la ferrocolumbite avec des électrons et en a déduit la présence de l'élément 43 en examinant le spectre en rayon X. Les expérimentateurs de cette époque ne parvinrent pas à reproduire cette expérience qui fut considérée comme erronée.\nEn 1998, John T. Armstrong du National Institute of Standards and Technology (NIST) lança une simulation numérique de cette expérience de 1925 ; il obtint des résultats assez proches de ceux de l'équipe Noddack. Selon lui, la découverte aurait bien été faite en 1925, d'autant que cela semble étayé par les mesures de la présence naturelle du technétium réalisées par David Curtis au Los Alamos National Laboratory. Cependant, les résultats expérimentaux de Noddack n'ont jamais été reproduits. La question de l'authenticité de la découverte de l'élément 43 en 1925 reste débattue.\nLa découverte du technétium est attribuée à Carlo Perrier et Emilio Segrè qui isolèrent les isotopes 95 et 97 en 1937.\nLa découverte de l'élément 43 a été confirmée officiellement en 1937 à l'université de Palerme en Sicile, à la suite d'une expérience dirigée par Carlo Perrier et Emilio Segrè. Au cours de l'été de 1936, Segrè fit un voyage aux États-Unis, d'abord à New York puis à Berkeley au Laboratoire national Lawrence-Berkeley, où il persuada Ernest Orlando Lawrence, l'inventeur du cyclotron, de lui laisser des produits du cyclotron devenus radioactifs. Le 17 décembre 1936, Lawrence envoya à Segrè et Perrier une feuille de molybdène qui avait fait partie du déflecteur dans le cyclotron, la recherche d'un nouvel élément commençant le 30 janvier 1937. Segré effectua une liste des expériences de chimie de son collègue Perrier pour essayer de prouver à travers la chimie comparative que l'activité du molybdène était en fait celle de l'élément Z = 43, un élément n'existant pas dans la nature à cause de son instabilité par décroissance radioactive. Avec des difficultés considérables, ils parvinrent à isoler trois produits avec des périodes de décroissance (90, 80, et 50 jours) qui se transformèrent finalement en deux isotopes 95Tc et 97Tc du technétium, le nom donné plus tard par Perrier et Segrè.\nLes noms panormium, en référence à l'université de Palerme, et trinacrium, d'après la Sicile, sont proposés. Les chercheurs préférèrent s'inspirer du mot grec τεχνητός, tekhnêtos, signifiant artificiel, puisqu'il s'agissait du premier élément chimique artificiel. Segrè retourna à Berkeley et sollicita Glenn T. Seaborg. Ils isolèrent l'isotope technétium 99m qui est maintenant utilisé dans 10 millions de diagnostics médicaux chaque année.\nEn 1953, l'astronome Paul W. Merrill en Californie détecta la signature spectrale du technétium (en particulier des raies à 403,1 nm, 423,8 nm, 426,8 nm et à 429,7 nm) dans les géantes rouges de type S. Ces étoiles massives en fin de vie sont riches en éléments ayant une faible durée de vie, apportant la preuve que s'y déroulent des réactions nucléaires produisant ces éléments. Cette preuve a été utilisée pour soutenir la théorie non prouvée que les étoiles sont le lieu de nucléosynthèse des éléments chimiques les plus lourds. Plus récemment des observations ont apporté la preuve que les éléments étaient formés par la capture des neutrons dans les processus s.\nDepuis cette découverte, des recherches ont été entreprises afin de détecter la présence de technétium sur Terre à l'état naturel. En 1962, du technétium 99 a été isolé et identifié par B. T. Kenna et P. K. Kuroda dans de la pechblende au Congo belge, en très faible quantité (environ 0,2 ng/kg). Il est produit par la fission spontanée de l'uranium 238. Il a également été démontré que le réacteur nucléaire naturel d'Oklo a produit une quantité significative de technétium 99, qui s'est ensuite désintégré en ruthénium 99."
+   },
+   {
+    "heading": "Propriétés nucléaires",
+    "text": "Le technétium n'a aucun isotope stable ; il est donc exclusivement radioactif. C'est l'élément le plus léger présentant cette propriété. Parmi les 82 premiers éléments chimiques, seuls deux éléments sont exclusivement radioactifs : le technétium est le premier, l'autre est le prométhium.\nLe technétium est produit principalement par les réactions nucléaires et se propage plus rapidement que de nombreux radioisotopes[Quoi ?]. Il a une faible toxicité chimique. La toxicité radiologique (par unité de masse) dépend de l'isotope, du type de radiation et de la demi-vie de cet isotope. En dépit de l'importance de la compréhension de la toxicité du technétium, les études expérimentales sont en nombre très limité.\nTous les isotopes du technétium doivent être manipulés avec précaution. L'isotope le plus courant, le technétium 99 est un faible émetteur de rayonnement β. Ces radiations peuvent être stoppées par les vitres de protection du laboratoire. De faibles rayons X sont émis par rayonnement continu de freinage lorsque les électrons sont stoppés, mais ces radiations ne présentent pas de danger tant que le corps humain se situe à plus de 30 centimètres de ces vitres. Le principal danger lorsqu'on travaille avec du technétium est l'inhalation de poussières radioactives. La contamination radioactive dans les poumons est un risque important de cancer. Pour la plupart des travaux avec le technétium, une hotte est suffisante et une boîte à gants n'est pas nécessaire.\nLes isotopes les plus stables sont le 98Tc (demi-vie de 4,2 Ma), le 97Tc (2,6 Ma) et le 99Tc (211,1 ka).\nAu total, 22 autres isotopes ont été caractérisés. Leur masse atomique varie entre 87,933 u (88Tc) et 112,931 u (113Tc). La plupart d'entre eux ont une demi-vie inférieure à une heure. Les exceptions sont le 93Tc (2,75 heures), le 94Tc (4,883 heures), le 95Tc (20 heures), et le 96Tc (4,28 jours).\nLe technétium a de nombreux états métastables : le 97mTc est le plus stable avec une demi-vie de 90,1 jours (0,097 MeV). Il est suivi par le 95mTc (demi-vie: 61 jours ; 0,038 MeV), et le 99mTc (demi-vie : 6,01 heures ; 0,1405 MeV). Le 99mTc émet seulement des rayons gamma, pour former le 99Tc.\nPour les isotopes plus légers que le 98Tc, l'isotope le plus stable, le mode de décroissance radioactive est la capture électronique qui donne le molybdène. Pour les isotopes plus lourds que le 98Tc, le mode principal de décroissance est l'émission bêta qui donne le ruthénium. Le 100Tc est une exception : il peut subir une décroissance à la fois par capture électronique et par émission bêta.\nLe technétium 99 (99Tc) est le plus courant des isotopes du technétium. Un gramme de 99Tc produit 6,2×108 désintégrations par seconde (soit 0,62 GBq/g).\nLe technétium et le prométhium sont des éléments chimiques légers inhabituels dans le sens où ils ne possèdent pas d'isotopes stables. L'explication de ce phénomène est quelque peu compliquée.\nÀ partir du modèle de la goutte liquide décrivant les noyaux atomiques, on peut établir une formule semi-empirique (la formule de Weizsäcker) pour estimer l'énergie de liaison nucléaire. Cette formule prédit l'existence d'une \"vallée de la stabilité bêta\" dans laquelle un nucléide ne va pas subir de désintégration bêta. Les nucléides qui sont en haut de la paroi de la vallée vont se désintégrer pour « tomber » vers le centre de la vallée, en émettant un électron ou un positron, ou encore en capturant un électron.\nPour un nombre impair fixé de nucléons A, le graphe de l'énergie de liaison nucléaire en fonction du numéro atomique (nombre de protons) a la forme d'une parabole orientée vers le haut, le nucléide le plus stable étant situé à la base de la parabole. Une seule émission bêta ou une simple capture d'électron transforme le nucléide de masse A en nucléide de masse A+1 ou A−1 si le produit a une plus faible énergie de liaison nucléaire et si la différence d'énergie est suffisante pour permettre la décroissance radioactive. Quand il existe une seule parabole, il ne peut y avoir qu'un seul isotope stable sur cette parabole : celui dont l'énergie de liaison nucléaire est la plus élevée.\nPour un nombre pair fixé de nucléons A, le graphe de l'énergie de liaison nucléaire en fonction du numéro atomique est irrégulier et se représente plutôt par deux paraboles pour les numéros atomiques pairs et impairs, car les isotopes ayant un nombre pair de protons et de neutrons sont plus stables que ceux ayant un nombre impair de nucléons.\nDans le cas à deux paraboles, lorsque le nombre de nucléons est pair, il arrive exceptionnellement qu'il existe un noyau stable ayant un nombre impair de neutrons et de protons — c'est le cas pour quatre noyaux légers : 2H, 6Li, 10B, 14N. Dans ce cas, il ne peut y avoir d'isotopes stables ayant un nombre pair de neutrons et de protons.\nPour le technétium, (Z = 43), la \"vallée de la stabilité bêta\" est centrée autour de 98 nucléons. Cependant pour chaque nombre de nucléons entre 95 et 102, il existe déjà un nucléide stable de molybdène (Z = 42) ou le ruthénium (Z = 44). Or le technétium ne peut avoir qu'un seul isotope stable, car il a un nombre impair de protons et ne peut donc avoir d'isotope stable qu'avec un nombre impair de neutrons, maximisant l'énergie de liaison nucléaire ; dans la mesure où il existe déjà des isotopes stables de molybdène ou de ruthénium ayant le même nombre de masse que chacun des isotopes « stables » possibles du technétium, ces derniers auront nécessairement tendance à se transformer en l'un de ces isotopes stables de molybdène ou de ruthénium en changeant un neutron en proton ou réciproquement, respectivement par émission bêta ou par émission de positron ou capture électronique."
+   },
+   {
+    "heading": "Propriétés physiques et chimiques",
+    "text": "Dans la classification périodique, le technétium est situé entre les lignes du rhénium et du manganèse, et ses propriétés sont intermédiaires entre celles de ces deux éléments chimiques. Le technétium est très rare sur Terre, car il ne possède pas d'isotope stable ou de très longue durée de vie. Il ne joue pas de rôle biologique et ne se trouve normalement pas dans le corps humain, ni dans aucun autre être vivant. Il est par ailleurs de faible toxicité chimique.\nLe corps simple technétium est un métal gris-argent d'apparence semblable au platine ; il se présente généralement sous la forme d'une poudre grise. La structure cristalline du métal pur en vrac est hexagonale compacte. La structure cristalline du métal pur nanodispersé est cubique. Le technétium nanodispersé n'a pas de spectre RMN divisé, tandis que le technétium massif hexagonal a le spectre Tc-99-NMR divisé en 9 satellites. Avec l'introduction même d'une petite impureté d'atomes de carbone, la structure du technétium métallique est déformée et devient orthorhombique.La forme métallique du technétium se ternit lentement dans l'air humide. Ses oxydes sont TcO2 et Tc2O7. Le technétium peut brûler dans le dioxygène lorsqu'il se trouve sous forme de poudre grise. Il est soluble dans l'eau régale, l'acide nitrique et dans l'acide sulfurique concentré, mais pas dans l'acide chlorhydrique. Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.\nDe nombreux agrégats atomiques de technétium sont connus, incluant Tc4, Tc6, Tc8 et Tc13. Les plus stables, Tc6 et Tc8, ont des formes prismatiques où des couples verticaux d'atomes de technétium sont connectés par des liaisons triples et les atomes plans par des liaisons simples.\nLe technétium est paramagnétique de susceptibilité molaire χ=3,35 × 10−9 m3 mol−1. Il cristallise dans une structure hexagonale compacte. Le monocristal métallique pur de technétium est un supraconducteur de type II avec une température de transition à 7,46 K. Des cristaux irréguliers et des traces d'impuretés augmentent cette température à 11,2 K pour du technétium en poudre pur à 99,9 %. En dessous de cette température, le technétium est l'élément qui a la plus grande profondeur de pénétration magnétique après le niobium.\nLe technétium est connu dans tous les états d'oxydation de -1 à +7. Dans des conditions oxydantes, le technétium (VII) existe sous forme d'ion pertechnétate TcO4−.\nLe technétium métallique se ternit lentement dans l’air humide et, sous forme de poudre, brûle dans l’oxygène. En réagissant avec l'hydrogène à haute pression, il forme l'hydrure TcH1.3, en réagissant avec le carbone, il forme Tc6C avec un paramètre de cellule de 3,98 Å ou, également, le carbure nanodispercé à faible teneur en carbone avec un paramètre de 4. ,02 Å."
+   },
+   {
+    "heading": "Gisements et production",
+    "text": "L'isotope le plus stable du technétium (98Tc) ayant une période radioactive de l'ordre du millième de l'âge de la Terre, toute trace de technétium primordial a aujourd'hui disparu du milieu naturel. En revanche, du technétium secondaire peut être trouvé à l'état de traces comme produits de désintégration nucléaire récente d'éléments radioactifs plus lourds, notamment dans les minerais d'uranium.\nDepuis sa découverte, beaucoup de recherches ont tenté de trouver des sources terrestres naturelles. En 1962, le technétium 99 a été isolé et identifié en très petite quantité dans l’uraninite provenant d'Afrique comme produit de fission spontanée d'uranium 238. Cette découverte a été faite par B.T. Kenna et P.T. Kuroda. En 1999, David Curtis, du Laboratoire national de Los Alamos, estime qu'un kilogramme d'uranium devrait contenir 1 nanogramme (10−9g) de technétium.\nDans l'espace, quelques étoiles de type géantes rouges contiennent une raie d'absorption dans leur spectre correspondant à la présence de technétium. La présence de cet élément dans les géantes rouges a conduit à la preuve de la production des éléments lourds (nucléosynthèse) dans les étoiles.\nSi le technétium 99 est très rare dans la nature, il est en revanche produit en quantité significative chaque année, comme produit de fission du combustible nucléaire. La fission d'un gramme d'uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc, ce qui lui confère un taux de production de 6,1 %. D'autres éléments fissiles permettent également d'en produire avec des taux similaires, par exemple 4,9 % à partir de l'uranium 233 ou 6,21 % pour le plutonium 239.\nOn estime que jusqu'en 1994, environ 49 000 TBq (78 tonnes) de technétium ont été produites dans les réacteurs nucléaires, ce qui constitue de loin la première source de technétium terrestre. Cependant seule une petite fraction du technétium produit est utilisé commercialement. En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960. Cela en fait un élément plus cher que le platine qui n'a jamais été vendu à plus de 72,40 dollars/g.\nPuisque le technétium est un produit de la fission de l'uranium 235 et du plutonium 239, il est présent dans les déchets nucléaires des réacteurs à fission et est également produit lors de l'explosion d'une bombe nucléaire. Dans l'environnement, la quantité de technétium produit artificiellement dépasse de plusieurs ordres de grandeur la quantité de technétium naturel. Ce technétium est dégagé lors d'essais nucléaires dans l'atmosphère ainsi que par le rejet et le traitement des déchets nucléaires. Son fort taux de radioactivité, et sa longue demi-vie et sa volatilité font du technétium 99 un des composants principaux et problématique des déchets nucléaires. Sa désintégration, mesurée en becquerels par unité de combustible usé, domine dans un intervalle de 104 à 106 ans après la création du déchet.\nEn 1994, on estimait que 160 TBq (environ 250 kg) de technétium 99 avaient été libérées dans l'environnement à la suite des essais nucléaires dans l'atmosphère. La quantité de technétium produit dans les réacteurs nucléaires et relâché dans l'environnement se montait en 1986 à environ 1 000 TBq (1 600 kg) en tout, principalement dégagée au cours du traitement du combustible usé et rejeté dans la mer. Au cours des dernières années, les méthodes de retraitement ont été améliorées afin de réduire ces émissions. En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande. Depuis l'an 2000, la réglementation limite les rejets à 90 TBq (140 kg) par an.\nÀ la suite du retraitement du combustible usé, du technétium a été relâché dans la mer en divers endroits, et se retrouve en quantités faibles mais mesurables dans la faune aquatique. Par exemple, le homard de Cumbrie en contient des traces. Les bactéries anaérobies sporulantes du genre clostridium ont la capacité de réduire le Tc(VII) en Tc(IV). Les clostridia jouent également un rôle dans la réduction du fer, du manganèse et de l'uranium, modifiant ainsi la solubilité de ces éléments dans les sols et les sédiments. Leur capacité à réduire le technétium pourrait déterminer une grande part de la mobilité du Tc dans les déchets industriels et d'autres environnements souterrains.\nLa longue durée de vie du technétium 99 et sa capacité à former des espèces anioniques en fait, avec l'iode 129I, un des problèmes principaux dans le traitement à long terme des déchets radioactifs. De plus, beaucoup de procédés conçus pour enlever les produits de fission dans les usines de retraitement sont conçus pour retirer les espèces cationiques comme le césium 137Cs ou le strontium 90Sr. Les ions pertechnétate échappent donc à ces procédés de retraitement. Les solutions de traitement envisagées s'orientent vers l'enfouissement dans des couches géologiques profondes. Le risque principal de cette technique est le contact possible avec l'eau, ce qui pourrait conduire à la contamination de substances radioactives dans l'environnement. Les anions pertechnétate et iodure sont moins facilement absorbés sur les surfaces des minéraux et donc plus facilement mobiles.\nEn comparaison, le plutonium, le césium et l'uranium se lient plus facilement que le technétium aux particules du sol. Pour cette raison, la chimie environnementale du technétium fait l'objet de recherches intenses[réf. nécessaire]. La démonstration d'une méthode alternative d'élimination du technétium 99, la transmutation nucléaire, a été réalisée au CERN. Dans ce procédé de transmutation, le technétium 99 sous forme d'une cible métallique est bombardé par des neutrons pour former le 100Tc à faible durée de vie (demi-vie de 16 s) qui se désintègre aussitôt par radioactivité bêta en ruthénium (100Ru). Si on cherche à obtenir du ruthénium utilisable, une cible de technétium extrêmement pur est nécessaire. Si des faibles traces d'actinides mineurs comme l'américium et le curium sont présentes, elles sont susceptibles de subir une fission et de former des produits de fission qui rendent la cible irradiée encore plus radioactive. La formation de 106Ru (demi-vie de 374 jours) de la \"fresh fission\" est susceptible d'augmenter l'activité du ruthénium métallique obtenu, ce qui nécessite alors un long temps de refroidissement après l'irradiation et avant que le ruthénium puisse être utilisé.\nLa production de technétium 99 à partir de combustible nucléaire usé est un procédé long. Il apparait dans le déchet liquide, fortement radioactif. Après plusieurs années, après que la radioactivité a suffisamment diminué, l'extraction des isotopes avec une longue durée de vie, dont le technétium 99, devient possible. Plusieurs processus d'extraction chimique sont ensuite utilisés, qui permettent d'obtenir du technétium métallique très pur.\nIl est donc préparé en le séparant chimiquement du combustible appauvri des réacteurs. Les deux tiers de la production mondiale de 99Tc proviennent du réacteur national de recherche universel des Laboratoires nucléaires de Chalk River, en Ontario, au Canada.\nL'isotope métastable 99mTc est produit lors de la fission de l'uranium ou du plutonium dans les réacteurs nucléaires. Dans une organisation conventionnelle du traitement des déchets nucléaires, le combustible usagé peut être stocké pendant plusieurs années avant le retraitement, de sorte que la totalité du 99Mo et du 99mTc qu'il contient se soit désintégrée avant d'être séparée des actinides majeurs. Le produit de raffinement PUREX contient une forte de concentration de technétium sous forme de TcO4−, mais il s'agit en quasi-totalité de l'isotope 99Tc.\nLa majeure partie du 99mTc utilisé en médecine est produite à partir de 99Mo, lui-même produit par activation neutronique de 98Mo. 99Mo a une demi-vie de 67 heures, de sorte que le 99mTc à faible durée de vie (demi-vie égale à 6 heures) qui est produit par sa désintégration est produit en continu. Dans les hôpitaux, on extrait ensuite le technétium de la solution par un procédé chimique en utilisant un générateur de technétium 99m (appelé en anglais technetium cow, vache à technétium, ou encore molybdenum cow). Le générateur de technétium standard est une colonne d'alumine contenant du molybdène 98. Dans la mesure où l'alumine a une très faible section efficace pour les neutrons, la colonne peut être facilement irradiée par des neutrons afin de produire le molybdène 99 radioactif.\nUne méthode alternative consiste à irradier de l'uranium enrichi afin de produire le 99Mo comme produit de la fission. Mais il faut ensuite séparer le molybdène des autres produits de fission par un procédé chimique complexe que la première méthode ne nécessite pas.\nLes autres isotopes du technétium ne sont pas produits en quantités significatives par fission. En cas de besoin, ils sont fabriqués par irradiation de neutrons sur des isotopes parents. Par exemple, 97Tc est fabriqué à partir de 96Ru."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "Le technétium est l'élément chimique de numéro atomique 43, de symbole Tc."
+  },
+  "f2": {
+   "kind": "measure",
+   "value": 99,
+   "unit": "m",
+   "surface": "99m",
+   "sentence": "Le technétium 99m (99mTc), un isotope de faible demi-vie, émetteur de rayons γ, est utilisé en médecine nucléaire pour effectuer de nombreux diagnostics."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Un autre isotope, le technétium 99 (99Tc), de longue durée de vie, est une source de particules β."
+  },
+  "f4": {
+   "kind": "date",
+   "value": "1937",
+   "surface": "1937",
+   "sentence": "En 1937, l'isotope technétium 97 (97Tc) fut le premier élément à être produit artificiellement comme son nom l'indique."
+  },
+  "f5": {
+   "kind": "number",
+   "value": 97,
+   "surface": "97",
+   "sentence": "En 1937, l'isotope technétium 97 (97Tc) fut le premier élément à être produit artificiellement comme son nom l'indique."
+  },
+  "f6": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "La plupart du technétium produit sur Terre est issu de la fission de l'uranium 235 dans les réacteurs nucléaires et est extrait du cycle du combustible nucléaire."
+  },
+  "f7": {
+   "kind": "number",
+   "value": 4200000,
+   "surface": "4,2 millions",
+   "sentence": "Aucun des isotopes du technétium ne possède une demi-vie supérieure à 4,2 millions d'années (98Tc), donc sa détection dans les géantes rouges en 1952 apporta la preuve que les étoiles peuvent produire des éléments plus lourds lors de la nucléosynthèse stellaire."
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1952",
+   "surface": "1952",
+   "sentence": "Aucun des isotopes du technétium ne possède une demi-vie supérieure à 4,2 millions d'années (98Tc), donc sa détection dans les géantes rouges en 1952 apporta la preuve que les étoiles peuvent produire des éléments plus lourds lors de la nucléosynthèse stellaire."
+  },
+  "f9": {
+   "kind": "number",
+   "value": 42,
+   "surface": "42",
+   "sentence": "La place dans la table périodique entre le molybdène (Z = 42) et le ruthénium (Z = 44) est restée longtemps vacante.",
+   "section": "Histoire"
+  },
+  "f10": {
+   "kind": "number",
+   "value": 44,
+   "surface": "44",
+   "sentence": "La place dans la table périodique entre le molybdène (Z = 42) et le ruthénium (Z = 44) est restée longtemps vacante.",
+   "section": "Histoire"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1828",
+   "surface": "1828",
+   "sentence": "Sa présence fut tout d'abord supposée dans un alliage de platine en 1828 et cet élément fut nommé polinium avant de se révéler être de l'iridium impur.",
+   "section": "Histoire"
+  },
+  "f12": {
+   "kind": "date",
+   "value": "1846",
+   "surface": "1846",
+   "sentence": "En 1846, l'élément \"ilménium\" a été déclaré découvert mais il s'agissait en fait du niobium impur.",
+   "section": "Histoire"
+  },
+  "f13": {
+   "kind": "date",
+   "value": "1844",
+   "surface": "1844",
+   "sentence": "Cette erreur a été répétée en 1844 avec la pseudo-découverte par Heinrich Rose du pélopium.",
+   "section": "Histoire"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877",
+   "sentence": "En 1877, le chimiste russe Serge Kern rapporta avoir trouvé l'élément manquant dans un alliage métallique.",
+   "section": "Histoire"
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1896",
+   "surface": "1896",
+   "sentence": "Un autre candidat, le lucium suivit en 1896 mais fut déterminé comme étant de l'yttrium.",
+   "section": "Histoire"
+  },
+  "f16": {
+   "kind": "date",
+   "value": "1908",
+   "surface": "1908",
+   "sentence": "En 1908, le chimiste japonais Masataka Ogawa crut trouver des preuves de la présence de l'élément 43 dans un minerai de thorianite.",
+   "section": "Histoire"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "En 1908, le chimiste japonais Masataka Ogawa crut trouver des preuves de la présence de l'élément 43 dans un minerai de thorianite.",
+   "section": "Histoire"
+  },
+  "f18": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "Des examens ultérieurs montrèrent la présence de rhénium dans les plaques photographiques d'Ogawa, mais pas celle de l'élément 43.",
+   "section": "Histoire"
+  },
+  "f19": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925",
+   "sentence": "En 1925, Walter Noddack, Otto Berg et Ida Tacke (qui devint Mrs Noddack) annoncèrent leur découverte à laquelle ils donnèrent le nom de masurium, mais ils ne réussirent pas à renouveler l'expérience.",
+   "section": "Histoire"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "Cette équipe a bombardé de la ferrocolumbite avec des électrons et en a déduit la présence de l'élément 43 en examinant le spectre en rayon X. Les expérimentateurs de cette époque ne parvinrent pas à reproduire cette expérience qui fut considérée comme erronée.",
+   "section": "Histoire"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1998",
+   "surface": "1998",
+   "sentence": "En 1998, John T. Armstrong du National Institute of Standards and Technology (NIST) lança une simulation numérique de cette expérience de 1925 ; il obtint des résultats assez proches de ceux de l'équipe Noddack.",
+   "section": "Histoire"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925",
+   "sentence": "En 1998, John T. Armstrong du National Institute of Standards and Technology (NIST) lança une simulation numérique de cette expérience de 1925 ; il obtint des résultats assez proches de ceux de l'équipe Noddack.",
+   "section": "Histoire"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925",
+   "sentence": "Selon lui, la découverte aurait bien été faite en 1925, d'autant que cela semble étayé par les mesures de la présence naturelle du technétium réalisées par David Curtis au Los Alamos National Laboratory.",
+   "section": "Histoire"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "La question de l'authenticité de la découverte de l'élément 43 en 1925 reste débattue.",
+   "section": "Histoire"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925",
+   "sentence": "La question de l'authenticité de la découverte de l'élément 43 en 1925 reste débattue.",
+   "section": "Histoire"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 95,
+   "surface": "95",
+   "sentence": "La découverte du technétium est attribuée à Carlo Perrier et Emilio Segrè qui isolèrent les isotopes 95 et 97 en 1937.",
+   "section": "Histoire"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 97,
+   "surface": "97",
+   "sentence": "La découverte du technétium est attribuée à Carlo Perrier et Emilio Segrè qui isolèrent les isotopes 95 et 97 en 1937.",
+   "section": "Histoire"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1937",
+   "surface": "1937",
+   "sentence": "La découverte du technétium est attribuée à Carlo Perrier et Emilio Segrè qui isolèrent les isotopes 95 et 97 en 1937.",
+   "section": "Histoire"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "La découverte de l'élément 43 a été confirmée officiellement en 1937 à l'université de Palerme en Sicile, à la suite d'une expérience dirigée par Carlo Perrier et Emilio Segrè.",
+   "section": "Histoire"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1937",
+   "surface": "1937",
+   "sentence": "La découverte de l'élément 43 a été confirmée officiellement en 1937 à l'université de Palerme en Sicile, à la suite d'une expérience dirigée par Carlo Perrier et Emilio Segrè.",
+   "section": "Histoire"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "1936",
+   "surface": "1936",
+   "sentence": "Au cours de l'été de 1936, Segrè fit un voyage aux États-Unis, d'abord à New York puis à Berkeley au Laboratoire national Lawrence-Berkeley, où il persuada Ernest Orlando Lawrence, l'inventeur du cyclotron, de lui laisser des produits du cyclotron devenus radioactifs.",
+   "section": "Histoire"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 17,
+   "surface": "17",
+   "sentence": "Le 17 décembre 1936, Lawrence envoya à Segrè et Perrier une feuille de molybdène qui avait fait partie du déflecteur dans le cyclotron, la recherche d'un nouvel élément commençant le 30 janvier 1937.",
+   "section": "Histoire"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "1936",
+   "surface": "1936",
+   "sentence": "Le 17 décembre 1936, Lawrence envoya à Segrè et Perrier une feuille de molybdène qui avait fait partie du déflecteur dans le cyclotron, la recherche d'un nouvel élément commençant le 30 janvier 1937.",
+   "section": "Histoire"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Le 17 décembre 1936, Lawrence envoya à Segrè et Perrier une feuille de molybdène qui avait fait partie du déflecteur dans le cyclotron, la recherche d'un nouvel élément commençant le 30 janvier 1937.",
+   "section": "Histoire"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1937",
+   "surface": "1937",
+   "sentence": "Le 17 décembre 1936, Lawrence envoya à Segrè et Perrier une feuille de molybdène qui avait fait partie du déflecteur dans le cyclotron, la recherche d'un nouvel élément commençant le 30 janvier 1937.",
+   "section": "Histoire"
+  },
+  "f36": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "Segré effectua une liste des expériences de chimie de son collègue Perrier pour essayer de prouver à travers la chimie comparative que l'activité du molybdène était en fait celle de l'élément Z = 43, un élément n'existant pas dans la nature à cause de son instabilité par décroissance radioactive.",
+   "section": "Histoire"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Avec des difficultés considérables, ils parvinrent à isoler trois produits avec des périodes de décroissance (90, 80, et 50 jours) qui se transformèrent finalement en deux isotopes 95Tc et 97Tc du technétium, le nom donné plus tard par Perrier et Segrè.",
+   "section": "Histoire"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 80,
+   "surface": "80",
+   "sentence": "Avec des difficultés considérables, ils parvinrent à isoler trois produits avec des périodes de décroissance (90, 80, et 50 jours) qui se transformèrent finalement en deux isotopes 95Tc et 97Tc du technétium, le nom donné plus tard par Perrier et Segrè.",
+   "section": "Histoire"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 50,
+   "surface": "50",
+   "sentence": "Avec des difficultés considérables, ils parvinrent à isoler trois produits avec des périodes de décroissance (90, 80, et 50 jours) qui se transformèrent finalement en deux isotopes 95Tc et 97Tc du technétium, le nom donné plus tard par Perrier et Segrè.",
+   "section": "Histoire"
+  },
+  "f40": {
+   "kind": "measure",
+   "value": 99,
+   "unit": "m",
+   "surface": "99m",
+   "sentence": "Ils isolèrent l'isotope technétium 99m qui est maintenant utilisé dans 10 millions de diagnostics médicaux chaque année.",
+   "section": "Histoire"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 10000000,
+   "surface": "10 millions",
+   "sentence": "Ils isolèrent l'isotope technétium 99m qui est maintenant utilisé dans 10 millions de diagnostics médicaux chaque année.",
+   "section": "Histoire"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1953",
+   "surface": "1953",
+   "sentence": "En 1953, l'astronome Paul W. Merrill en Californie détecta la signature spectrale du technétium (en particulier des raies à 403,1 nm, 423,8 nm, 426,8 nm et à 429,7 nm) dans les géantes rouges de type S. Ces étoiles massives en fin de vie sont riches en éléments ayant une faible durée de vie, apportant la preuve que s'y déroulent des réactions nucléaires produisant ces éléments.",
+   "section": "Histoire"
+  },
+  "f43": {
+   "kind": "measure",
+   "value": 403.1,
+   "unit": "nm",
+   "surface": "403,1 nm",
+   "sentence": "En 1953, l'astronome Paul W. Merrill en Californie détecta la signature spectrale du technétium (en particulier des raies à 403,1 nm, 423,8 nm, 426,8 nm et à 429,7 nm) dans les géantes rouges de type S. Ces étoiles massives en fin de vie sont riches en éléments ayant une faible durée de vie, apportant la preuve que s'y déroulent des réactions nucléaires produisant ces éléments.",
+   "section": "Histoire"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 423.8,
+   "unit": "nm",
+   "surface": "423,8 nm",
+   "sentence": "En 1953, l'astronome Paul W. Merrill en Californie détecta la signature spectrale du technétium (en particulier des raies à 403,1 nm, 423,8 nm, 426,8 nm et à 429,7 nm) dans les géantes rouges de type S. Ces étoiles massives en fin de vie sont riches en éléments ayant une faible durée de vie, apportant la preuve que s'y déroulent des réactions nucléaires produisant ces éléments.",
+   "section": "Histoire"
+  },
+  "f45": {
+   "kind": "measure",
+   "value": 426.8,
+   "unit": "nm",
+   "surface": "426,8 nm",
+   "sentence": "En 1953, l'astronome Paul W. Merrill en Californie détecta la signature spectrale du technétium (en particulier des raies à 403,1 nm, 423,8 nm, 426,8 nm et à 429,7 nm) dans les géantes rouges de type S. Ces étoiles massives en fin de vie sont riches en éléments ayant une faible durée de vie, apportant la preuve que s'y déroulent des réactions nucléaires produisant ces éléments.",
+   "section": "Histoire"
+  },
+  "f46": {
+   "kind": "measure",
+   "value": 429.7,
+   "unit": "nm",
+   "surface": "429,7 nm",
+   "sentence": "En 1953, l'astronome Paul W. Merrill en Californie détecta la signature spectrale du technétium (en particulier des raies à 403,1 nm, 423,8 nm, 426,8 nm et à 429,7 nm) dans les géantes rouges de type S. Ces étoiles massives en fin de vie sont riches en éléments ayant une faible durée de vie, apportant la preuve que s'y déroulent des réactions nucléaires produisant ces éléments.",
+   "section": "Histoire"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "1962",
+   "surface": "1962",
+   "sentence": "En 1962, du technétium 99 a été isolé et identifié par B. T. Kenna et P. K. Kuroda dans de la pechblende au Congo belge, en très faible quantité (environ 0,2 ng/kg).",
+   "section": "Histoire"
+  },
+  "f48": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "En 1962, du technétium 99 a été isolé et identifié par B. T. Kenna et P. K. Kuroda dans de la pechblende au Congo belge, en très faible quantité (environ 0,2 ng/kg).",
+   "section": "Histoire"
+  },
+  "f49": {
+   "kind": "number",
+   "value": 0.2,
+   "surface": "0,2",
+   "sentence": "En 1962, du technétium 99 a été isolé et identifié par B. T. Kenna et P. K. Kuroda dans de la pechblende au Congo belge, en très faible quantité (environ 0,2 ng/kg).",
+   "section": "Histoire"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 238,
+   "surface": "238",
+   "sentence": "Il est produit par la fission spontanée de l'uranium 238.",
+   "section": "Histoire"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Il a également été démontré que le réacteur nucléaire naturel d'Oklo a produit une quantité significative de technétium 99, qui s'est ensuite désintégré en ruthénium 99.",
+   "section": "Histoire"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Il a également été démontré que le réacteur nucléaire naturel d'Oklo a produit une quantité significative de technétium 99, qui s'est ensuite désintégré en ruthénium 99.",
+   "section": "Histoire"
+  },
+  "f53": {
+   "kind": "number",
+   "value": 82,
+   "surface": "82",
+   "sentence": "Parmi les 82 premiers éléments chimiques, seuls deux éléments sont exclusivement radioactifs : le technétium est le premier, l'autre est le prométhium.",
+   "section": "Propriétés nucléaires"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "L'isotope le plus courant, le technétium 99 est un faible émetteur de rayonnement β.",
+   "section": "Propriétés nucléaires"
+  },
+  "f55": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "centimètres",
+   "surface": "30 centimètres",
+   "sentence": "De faibles rayons X sont émis par rayonnement continu de freinage lorsque les électrons sont stoppés, mais ces radiations ne présentent pas de danger tant que le corps humain se situe à plus de 30 centimètres de ces vitres.",
+   "section": "Propriétés nucléaires"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 4.2,
+   "surface": "4,2",
+   "sentence": "Les isotopes les plus stables sont le 98Tc (demi-vie de 4,2 Ma), le 97Tc (2,6 Ma) et le 99Tc (211,1 ka).",
+   "section": "Propriétés nucléaires"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 2.6,
+   "surface": "2,6",
+   "sentence": "Les isotopes les plus stables sont le 98Tc (demi-vie de 4,2 Ma), le 97Tc (2,6 Ma) et le 99Tc (211,1 ka).",
+   "section": "Propriétés nucléaires"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 211.1,
+   "surface": "211,1",
+   "sentence": "Les isotopes les plus stables sont le 98Tc (demi-vie de 4,2 Ma), le 97Tc (2,6 Ma) et le 99Tc (211,1 ka).",
+   "section": "Propriétés nucléaires"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 22,
+   "surface": "22",
+   "sentence": "Au total, 22 autres isotopes ont été caractérisés.",
+   "section": "Propriétés nucléaires"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 87.933,
+   "surface": "87,933",
+   "sentence": "Leur masse atomique varie entre 87,933 u (88Tc) et 112,931 u (113Tc).",
+   "section": "Propriétés nucléaires"
+  },
+  "f61": {
+   "kind": "number",
+   "value": 112.931,
+   "surface": "112,931",
+   "sentence": "Leur masse atomique varie entre 87,933 u (88Tc) et 112,931 u (113Tc).",
+   "section": "Propriétés nucléaires"
+  },
+  "f62": {
+   "kind": "number",
+   "value": 2.75,
+   "surface": "2,75",
+   "sentence": "Les exceptions sont le 93Tc (2,75 heures), le 94Tc (4,883 heures), le 95Tc (20 heures), et le 96Tc (4,28 jours).",
+   "section": "Propriétés nucléaires"
+  },
+  "f63": {
+   "kind": "number",
+   "value": 4.883,
+   "surface": "4,883",
+   "sentence": "Les exceptions sont le 93Tc (2,75 heures), le 94Tc (4,883 heures), le 95Tc (20 heures), et le 96Tc (4,28 jours).",
+   "section": "Propriétés nucléaires"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Les exceptions sont le 93Tc (2,75 heures), le 94Tc (4,883 heures), le 95Tc (20 heures), et le 96Tc (4,28 jours).",
+   "section": "Propriétés nucléaires"
+  },
+  "f65": {
+   "kind": "number",
+   "value": 4.28,
+   "surface": "4,28",
+   "sentence": "Les exceptions sont le 93Tc (2,75 heures), le 94Tc (4,883 heures), le 95Tc (20 heures), et le 96Tc (4,28 jours).",
+   "section": "Propriétés nucléaires"
+  },
+  "f66": {
+   "kind": "number",
+   "value": 90.1,
+   "surface": "90,1",
+   "sentence": "Le technétium a de nombreux états métastables : le 97mTc est le plus stable avec une demi-vie de 90,1 jours (0,097 MeV).",
+   "section": "Propriétés nucléaires"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 0.097,
+   "surface": "0,097",
+   "sentence": "Le technétium a de nombreux états métastables : le 97mTc est le plus stable avec une demi-vie de 90,1 jours (0,097 MeV).",
+   "section": "Propriétés nucléaires"
+  },
+  "f68": {
+   "kind": "number",
+   "value": 61,
+   "surface": "61",
+   "sentence": "Il est suivi par le 95mTc (demi-vie: 61 jours ; 0,038 MeV), et le 99mTc (demi-vie : 6,01 heures ; 0,1405 MeV).",
+   "section": "Propriétés nucléaires"
+  },
+  "f69": {
+   "kind": "number",
+   "value": 0.038,
+   "surface": "0,038",
+   "sentence": "Il est suivi par le 95mTc (demi-vie: 61 jours ; 0,038 MeV), et le 99mTc (demi-vie : 6,01 heures ; 0,1405 MeV).",
+   "section": "Propriétés nucléaires"
+  },
+  "f70": {
+   "kind": "number",
+   "value": 6.01,
+   "surface": "6,01",
+   "sentence": "Il est suivi par le 95mTc (demi-vie: 61 jours ; 0,038 MeV), et le 99mTc (demi-vie : 6,01 heures ; 0,1405 MeV).",
+   "section": "Propriétés nucléaires"
+  },
+  "f71": {
+   "kind": "number",
+   "value": 0.1405,
+   "surface": "0,1405",
+   "sentence": "Il est suivi par le 95mTc (demi-vie: 61 jours ; 0,038 MeV), et le 99mTc (demi-vie : 6,01 heures ; 0,1405 MeV).",
+   "section": "Propriétés nucléaires"
+  },
+  "f72": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Le technétium 99 (99Tc) est le plus courant des isotopes du technétium.",
+   "section": "Propriétés nucléaires"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 6.2,
+   "surface": "6,2",
+   "sentence": "Un gramme de 99Tc produit 6,2×108 désintégrations par seconde (soit 0,62 GBq/g).",
+   "section": "Propriétés nucléaires"
+  },
+  "f74": {
+   "kind": "number",
+   "value": 108,
+   "surface": "108",
+   "sentence": "Un gramme de 99Tc produit 6,2×108 désintégrations par seconde (soit 0,62 GBq/g).",
+   "section": "Propriétés nucléaires"
+  },
+  "f75": {
+   "kind": "number",
+   "value": 0.62,
+   "surface": "0,62",
+   "sentence": "Un gramme de 99Tc produit 6,2×108 désintégrations par seconde (soit 0,62 GBq/g).",
+   "section": "Propriétés nucléaires"
+  },
+  "f76": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Une seule émission bêta ou une simple capture d'électron transforme le nucléide de masse A en nucléide de masse A+1 ou A−1 si le produit a une plus faible énergie de liaison nucléaire et si la différence d'énergie est suffisante pour permettre la décroissance radioactive.",
+   "section": "Propriétés nucléaires"
+  },
+  "f77": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Une seule émission bêta ou une simple capture d'électron transforme le nucléide de masse A en nucléide de masse A+1 ou A−1 si le produit a une plus faible énergie de liaison nucléaire et si la différence d'énergie est suffisante pour permettre la décroissance radioactive.",
+   "section": "Propriétés nucléaires"
+  },
+  "f78": {
+   "kind": "number",
+   "value": 43,
+   "surface": "43",
+   "sentence": "Pour le technétium, (Z = 43), la \"vallée de la stabilité bêta\" est centrée autour de 98 nucléons.",
+   "section": "Propriétés nucléaires"
+  },
+  "f79": {
+   "kind": "number",
+   "value": 98,
+   "surface": "98",
+   "sentence": "Pour le technétium, (Z = 43), la \"vallée de la stabilité bêta\" est centrée autour de 98 nucléons.",
+   "section": "Propriétés nucléaires"
+  },
+  "f80": {
+   "kind": "number",
+   "value": 95,
+   "surface": "95",
+   "sentence": "Cependant pour chaque nombre de nucléons entre 95 et 102, il existe déjà un nucléide stable de molybdène (Z = 42) ou le ruthénium (Z = 44).",
+   "section": "Propriétés nucléaires"
+  },
+  "f81": {
+   "kind": "number",
+   "value": 102,
+   "surface": "102",
+   "sentence": "Cependant pour chaque nombre de nucléons entre 95 et 102, il existe déjà un nucléide stable de molybdène (Z = 42) ou le ruthénium (Z = 44).",
+   "section": "Propriétés nucléaires"
+  },
+  "f82": {
+   "kind": "number",
+   "value": 42,
+   "surface": "42",
+   "sentence": "Cependant pour chaque nombre de nucléons entre 95 et 102, il existe déjà un nucléide stable de molybdène (Z = 42) ou le ruthénium (Z = 44).",
+   "section": "Propriétés nucléaires"
+  },
+  "f83": {
+   "kind": "number",
+   "value": 44,
+   "surface": "44",
+   "sentence": "Cependant pour chaque nombre de nucléons entre 95 et 102, il existe déjà un nucléide stable de molybdène (Z = 42) ou le ruthénium (Z = 44).",
+   "section": "Propriétés nucléaires"
+  },
+  "f84": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "Le technétium nanodispersé n'a pas de spectre RMN divisé, tandis que le technétium massif hexagonal a le spectre Tc-99-NMR divisé en 9 satellites.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f85": {
+   "kind": "number",
+   "value": 363,
+   "surface": "363",
+   "sentence": "Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f86": {
+   "kind": "number",
+   "value": 403,
+   "surface": "403",
+   "sentence": "Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f87": {
+   "kind": "number",
+   "value": 410,
+   "surface": "410",
+   "sentence": "Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f88": {
+   "kind": "number",
+   "value": 426,
+   "surface": "426",
+   "sentence": "Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f89": {
+   "kind": "number",
+   "value": 430,
+   "surface": "430",
+   "sentence": "Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f90": {
+   "kind": "measure",
+   "value": 485,
+   "unit": "nm",
+   "surface": "485 nm",
+   "sentence": "Son spectre possède des raies spectrales caractéristiques à 363, 403, 410, 426, 430, et à 485 nm.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f91": {
+   "kind": "number",
+   "value": 3.35,
+   "surface": "3,35",
+   "sentence": "Le technétium est paramagnétique de susceptibilité molaire χ=3,35 × 10−9 m3 mol−1.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f92": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Le technétium est paramagnétique de susceptibilité molaire χ=3,35 × 10−9 m3 mol−1.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f93": {
+   "kind": "number",
+   "value": 9,
+   "surface": "9",
+   "sentence": "Le technétium est paramagnétique de susceptibilité molaire χ=3,35 × 10−9 m3 mol−1.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f94": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Le technétium est paramagnétique de susceptibilité molaire χ=3,35 × 10−9 m3 mol−1.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f95": {
+   "kind": "measure",
+   "value": 7.46,
+   "unit": "k",
+   "surface": "7,46 K",
+   "sentence": "Le monocristal métallique pur de technétium est un supraconducteur de type II avec une température de transition à 7,46 K. Des cristaux irréguliers et des traces d'impuretés augmentent cette température à 11,2 K pour du technétium en poudre pur à 99,9 %.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f96": {
+   "kind": "measure",
+   "value": 11.2,
+   "unit": "k",
+   "surface": "11,2 K",
+   "sentence": "Le monocristal métallique pur de technétium est un supraconducteur de type II avec une température de transition à 7,46 K. Des cristaux irréguliers et des traces d'impuretés augmentent cette température à 11,2 K pour du technétium en poudre pur à 99,9 %.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f97": {
+   "kind": "measure",
+   "value": 99.9,
+   "unit": "%",
+   "surface": "99,9 %",
+   "sentence": "Le monocristal métallique pur de technétium est un supraconducteur de type II avec une température de transition à 7,46 K. Des cristaux irréguliers et des traces d'impuretés augmentent cette température à 11,2 K pour du technétium en poudre pur à 99,9 %.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f98": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "Le technétium est connu dans tous les états d'oxydation de -1 à +7.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f99": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "En réagissant avec l'hydrogène à haute pression, il forme l'hydrure TcH1.3, en réagissant avec le carbone, il forme Tc6C avec un paramètre de cellule de 3,98 Å ou, également, le carbure nanodispercé à faible teneur en carbone avec un paramètre de 4. ,02 Å.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 3.98,
+   "surface": "3,98",
+   "sentence": "En réagissant avec l'hydrogène à haute pression, il forme l'hydrure TcH1.3, en réagissant avec le carbone, il forme Tc6C avec un paramètre de cellule de 3,98 Å ou, également, le carbure nanodispercé à faible teneur en carbone avec un paramètre de 4. ,02 Å.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f101": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "En réagissant avec l'hydrogène à haute pression, il forme l'hydrure TcH1.3, en réagissant avec le carbone, il forme Tc6C avec un paramètre de cellule de 3,98 Å ou, également, le carbure nanodispercé à faible teneur en carbone avec un paramètre de 4. ,02 Å.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f102": {
+   "kind": "number",
+   "value": 2,
+   "surface": "02",
+   "sentence": "En réagissant avec l'hydrogène à haute pression, il forme l'hydrure TcH1.3, en réagissant avec le carbone, il forme Tc6C avec un paramètre de cellule de 3,98 Å ou, également, le carbure nanodispercé à faible teneur en carbone avec un paramètre de 4. ,02 Å.",
+   "section": "Propriétés physiques et chimiques"
+  },
+  "f103": {
+   "kind": "date",
+   "value": "1962",
+   "surface": "1962",
+   "sentence": "En 1962, le technétium 99 a été isolé et identifié en très petite quantité dans l’uraninite provenant d'Afrique comme produit de fission spontanée d'uranium 238.",
+   "section": "Gisements et production"
+  },
+  "f104": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "En 1962, le technétium 99 a été isolé et identifié en très petite quantité dans l’uraninite provenant d'Afrique comme produit de fission spontanée d'uranium 238.",
+   "section": "Gisements et production"
+  },
+  "f105": {
+   "kind": "number",
+   "value": 238,
+   "surface": "238",
+   "sentence": "En 1962, le technétium 99 a été isolé et identifié en très petite quantité dans l’uraninite provenant d'Afrique comme produit de fission spontanée d'uranium 238.",
+   "section": "Gisements et production"
+  },
+  "f106": {
+   "kind": "date",
+   "value": "1999",
+   "surface": "1999",
+   "sentence": "En 1999, David Curtis, du Laboratoire national de Los Alamos, estime qu'un kilogramme d'uranium devrait contenir 1 nanogramme (10−9g) de technétium.",
+   "section": "Gisements et production"
+  },
+  "f107": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "En 1999, David Curtis, du Laboratoire national de Los Alamos, estime qu'un kilogramme d'uranium devrait contenir 1 nanogramme (10−9g) de technétium.",
+   "section": "Gisements et production"
+  },
+  "f108": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "En 1999, David Curtis, du Laboratoire national de Los Alamos, estime qu'un kilogramme d'uranium devrait contenir 1 nanogramme (10−9g) de technétium.",
+   "section": "Gisements et production"
+  },
+  "f109": {
+   "kind": "measure",
+   "value": 9,
+   "unit": "g",
+   "surface": "9g",
+   "sentence": "En 1999, David Curtis, du Laboratoire national de Los Alamos, estime qu'un kilogramme d'uranium devrait contenir 1 nanogramme (10−9g) de technétium.",
+   "section": "Gisements et production"
+  },
+  "f110": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Si le technétium 99 est très rare dans la nature, il est en revanche produit en quantité significative chaque année, comme produit de fission du combustible nucléaire.",
+   "section": "Gisements et production"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "La fission d'un gramme d'uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc, ce qui lui confère un taux de production de 6,1 %.",
+   "section": "Gisements et production"
+  },
+  "f112": {
+   "kind": "measure",
+   "value": 27,
+   "unit": "mg",
+   "surface": "27 mg",
+   "sentence": "La fission d'un gramme d'uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc, ce qui lui confère un taux de production de 6,1 %.",
+   "section": "Gisements et production"
+  },
+  "f113": {
+   "kind": "measure",
+   "value": 6.1,
+   "unit": "%",
+   "surface": "6,1 %",
+   "sentence": "La fission d'un gramme d'uranium 235 dans un réacteur nucléaire produit 27 mg de 99Tc, ce qui lui confère un taux de production de 6,1 %.",
+   "section": "Gisements et production"
+  },
+  "f114": {
+   "kind": "measure",
+   "value": 4.9,
+   "unit": "%",
+   "surface": "4,9 %",
+   "sentence": "D'autres éléments fissiles permettent également d'en produire avec des taux similaires, par exemple 4,9 % à partir de l'uranium 233 ou 6,21 % pour le plutonium 239.",
+   "section": "Gisements et production"
+  },
+  "f115": {
+   "kind": "number",
+   "value": 233,
+   "surface": "233",
+   "sentence": "D'autres éléments fissiles permettent également d'en produire avec des taux similaires, par exemple 4,9 % à partir de l'uranium 233 ou 6,21 % pour le plutonium 239.",
+   "section": "Gisements et production"
+  },
+  "f116": {
+   "kind": "measure",
+   "value": 6.21,
+   "unit": "%",
+   "surface": "6,21 %",
+   "sentence": "D'autres éléments fissiles permettent également d'en produire avec des taux similaires, par exemple 4,9 % à partir de l'uranium 233 ou 6,21 % pour le plutonium 239.",
+   "section": "Gisements et production"
+  },
+  "f117": {
+   "kind": "number",
+   "value": 239,
+   "surface": "239",
+   "sentence": "D'autres éléments fissiles permettent également d'en produire avec des taux similaires, par exemple 4,9 % à partir de l'uranium 233 ou 6,21 % pour le plutonium 239.",
+   "section": "Gisements et production"
+  },
+  "f118": {
+   "kind": "date",
+   "value": "1994",
+   "surface": "1994",
+   "sentence": "On estime que jusqu'en 1994, environ 49 000 TBq (78 tonnes) de technétium ont été produites dans les réacteurs nucléaires, ce qui constitue de loin la première source de technétium terrestre.",
+   "section": "Gisements et production"
+  },
+  "f119": {
+   "kind": "number",
+   "value": 49000,
+   "surface": "49 000",
+   "sentence": "On estime que jusqu'en 1994, environ 49 000 TBq (78 tonnes) de technétium ont été produites dans les réacteurs nucléaires, ce qui constitue de loin la première source de technétium terrestre.",
+   "section": "Gisements et production"
+  },
+  "f120": {
+   "kind": "measure",
+   "value": 78,
+   "unit": "tonnes",
+   "surface": "78 tonnes",
+   "sentence": "On estime que jusqu'en 1994, environ 49 000 TBq (78 tonnes) de technétium ont été produites dans les réacteurs nucléaires, ce qui constitue de loin la première source de technétium terrestre.",
+   "section": "Gisements et production"
+  },
+  "f121": {
+   "kind": "date",
+   "value": "2016",
+   "surface": "2016",
+   "sentence": "En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960.",
+   "section": "Gisements et production"
+  },
+  "f122": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100",
+   "sentence": "En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960.",
+   "section": "Gisements et production"
+  },
+  "f123": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960.",
+   "section": "Gisements et production"
+  },
+  "f124": {
+   "kind": "number",
+   "value": 2800,
+   "surface": "2 800",
+   "sentence": "En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960.",
+   "section": "Gisements et production"
+  },
+  "f125": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960.",
+   "section": "Gisements et production"
+  },
+  "f126": {
+   "kind": "date",
+   "value": "1960",
+   "surface": "1960",
+   "sentence": "En 2016, le technétium s'achetait pour environ 100 $ g−1 contre 2 800 $ g−1 en 1960.",
+   "section": "Gisements et production"
+  },
+  "f127": {
+   "kind": "number",
+   "value": 72.4,
+   "surface": "72,40",
+   "sentence": "Cela en fait un élément plus cher que le platine qui n'a jamais été vendu à plus de 72,40 dollars/g.",
+   "section": "Gisements et production"
+  },
+  "f128": {
+   "kind": "number",
+   "value": 235,
+   "surface": "235",
+   "sentence": "Puisque le technétium est un produit de la fission de l'uranium 235 et du plutonium 239, il est présent dans les déchets nucléaires des réacteurs à fission et est également produit lors de l'explosion d'une bombe nucléaire.",
+   "section": "Gisements et production"
+  },
+  "f129": {
+   "kind": "number",
+   "value": 239,
+   "surface": "239",
+   "sentence": "Puisque le technétium est un produit de la fission de l'uranium 235 et du plutonium 239, il est présent dans les déchets nucléaires des réacteurs à fission et est également produit lors de l'explosion d'une bombe nucléaire.",
+   "section": "Gisements et production"
+  },
+  "f130": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Son fort taux de radioactivité, et sa longue demi-vie et sa volatilité font du technétium 99 un des composants principaux et problématique des déchets nucléaires.",
+   "section": "Gisements et production"
+  },
+  "f131": {
+   "kind": "number",
+   "value": 104,
+   "surface": "104",
+   "sentence": "Sa désintégration, mesurée en becquerels par unité de combustible usé, domine dans un intervalle de 104 à 106 ans après la création du déchet.",
+   "section": "Gisements et production"
+  },
+  "f132": {
+   "kind": "measure",
+   "value": 106,
+   "unit": "ans",
+   "surface": "106 ans",
+   "sentence": "Sa désintégration, mesurée en becquerels par unité de combustible usé, domine dans un intervalle de 104 à 106 ans après la création du déchet.",
+   "section": "Gisements et production"
+  },
+  "f133": {
+   "kind": "date",
+   "value": "1994",
+   "surface": "1994",
+   "sentence": "En 1994, on estimait que 160 TBq (environ 250 kg) de technétium 99 avaient été libérées dans l'environnement à la suite des essais nucléaires dans l'atmosphère.",
+   "section": "Gisements et production"
+  },
+  "f134": {
+   "kind": "number",
+   "value": 160,
+   "surface": "160",
+   "sentence": "En 1994, on estimait que 160 TBq (environ 250 kg) de technétium 99 avaient été libérées dans l'environnement à la suite des essais nucléaires dans l'atmosphère.",
+   "section": "Gisements et production"
+  },
+  "f135": {
+   "kind": "measure",
+   "value": 250,
+   "unit": "kg",
+   "surface": "250 kg",
+   "sentence": "En 1994, on estimait que 160 TBq (environ 250 kg) de technétium 99 avaient été libérées dans l'environnement à la suite des essais nucléaires dans l'atmosphère.",
+   "section": "Gisements et production"
+  },
+  "f136": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "En 1994, on estimait que 160 TBq (environ 250 kg) de technétium 99 avaient été libérées dans l'environnement à la suite des essais nucléaires dans l'atmosphère.",
+   "section": "Gisements et production"
+  },
+  "f137": {
+   "kind": "date",
+   "value": "1986",
+   "surface": "1986",
+   "sentence": "La quantité de technétium produit dans les réacteurs nucléaires et relâché dans l'environnement se montait en 1986 à environ 1 000 TBq (1 600 kg) en tout, principalement dégagée au cours du traitement du combustible usé et rejeté dans la mer.",
+   "section": "Gisements et production"
+  },
+  "f138": {
+   "kind": "number",
+   "value": 1000,
+   "surface": "1 000",
+   "sentence": "La quantité de technétium produit dans les réacteurs nucléaires et relâché dans l'environnement se montait en 1986 à environ 1 000 TBq (1 600 kg) en tout, principalement dégagée au cours du traitement du combustible usé et rejeté dans la mer.",
+   "section": "Gisements et production"
+  },
+  "f139": {
+   "kind": "measure",
+   "value": 1600,
+   "unit": "kg",
+   "surface": "1 600 kg",
+   "sentence": "La quantité de technétium produit dans les réacteurs nucléaires et relâché dans l'environnement se montait en 1986 à environ 1 000 TBq (1 600 kg) en tout, principalement dégagée au cours du traitement du combustible usé et rejeté dans la mer.",
+   "section": "Gisements et production"
+  },
+  "f140": {
+   "kind": "date",
+   "value": "2005",
+   "surface": "2005",
+   "sentence": "En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande.",
+   "section": "Gisements et production"
+  },
+  "f141": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande.",
+   "section": "Gisements et production"
+  },
+  "f142": {
+   "kind": "date",
+   "value": "550",
+   "surface": "550",
+   "sentence": "En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande.",
+   "section": "Gisements et production"
+  },
+  "f143": {
+   "kind": "measure",
+   "value": 900,
+   "unit": "kg",
+   "surface": "900 kg",
+   "sentence": "En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande.",
+   "section": "Gisements et production"
+  },
+  "f144": {
+   "kind": "date",
+   "value": "1995",
+   "surface": "1995",
+   "sentence": "En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande.",
+   "section": "Gisements et production"
+  },
+  "f145": {
+   "kind": "date",
+   "value": "1999",
+   "surface": "1999",
+   "sentence": "En 2005, la première source de rejet de technétium 99 dans l'environnement était le site de Sellafield, qui a relâché environ 550 TBq (900 kg) entre 1995 et 1999 dans la mer d'Irlande.",
+   "section": "Gisements et production"
+  },
+  "f146": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000",
+   "sentence": "Depuis l'an 2000, la réglementation limite les rejets à 90 TBq (140 kg) par an.",
+   "section": "Gisements et production"
+  },
+  "f147": {
+   "kind": "number",
+   "value": 90,
+   "surface": "90",
+   "sentence": "Depuis l'an 2000, la réglementation limite les rejets à 90 TBq (140 kg) par an.",
+   "section": "Gisements et production"
+  },
+  "f148": {
+   "kind": "measure",
+   "value": 140,
+   "unit": "kg",
+   "surface": "140 kg",
+   "sentence": "Depuis l'an 2000, la réglementation limite les rejets à 90 TBq (140 kg) par an.",
+   "section": "Gisements et production"
+  },
+  "f149": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "La longue durée de vie du technétium 99 et sa capacité à former des espèces anioniques en fait, avec l'iode 129I, un des problèmes principaux dans le traitement à long terme des déchets radioactifs.",
+   "section": "Gisements et production"
+  },
+  "f150": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "La démonstration d'une méthode alternative d'élimination du technétium 99, la transmutation nucléaire, a été réalisée au CERN.",
+   "section": "Gisements et production"
+  },
+  "f151": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Dans ce procédé de transmutation, le technétium 99 sous forme d'une cible métallique est bombardé par des neutrons pour former le 100Tc à faible durée de vie (demi-vie de 16 s) qui se désintègre aussitôt par radioactivité bêta en ruthénium (100Ru).",
+   "section": "Gisements et production"
+  },
+  "f152": {
+   "kind": "number",
+   "value": 16,
+   "surface": "16",
+   "sentence": "Dans ce procédé de transmutation, le technétium 99 sous forme d'une cible métallique est bombardé par des neutrons pour former le 100Tc à faible durée de vie (demi-vie de 16 s) qui se désintègre aussitôt par radioactivité bêta en ruthénium (100Ru).",
+   "section": "Gisements et production"
+  },
+  "f153": {
+   "kind": "number",
+   "value": 374,
+   "surface": "374",
+   "sentence": "La formation de 106Ru (demi-vie de 374 jours) de la \"fresh fission\" est susceptible d'augmenter l'activité du ruthénium métallique obtenu, ce qui nécessite alors un long temps de refroidissement après l'irradiation et avant que le ruthénium puisse être utilisé.",
+   "section": "Gisements et production"
+  },
+  "f154": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "La production de technétium 99 à partir de combustible nucléaire usé est un procédé long.",
+   "section": "Gisements et production"
+  },
+  "f155": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Après plusieurs années, après que la radioactivité a suffisamment diminué, l'extraction des isotopes avec une longue durée de vie, dont le technétium 99, devient possible.",
+   "section": "Gisements et production"
+  },
+  "f156": {
+   "kind": "number",
+   "value": 67,
+   "surface": "67",
+   "sentence": "99Mo a une demi-vie de 67 heures, de sorte que le 99mTc à faible durée de vie (demi-vie égale à 6 heures) qui est produit par sa désintégration est produit en continu.",
+   "section": "Gisements et production"
+  },
+  "f157": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "99Mo a une demi-vie de 67 heures, de sorte que le 99mTc à faible durée de vie (demi-vie égale à 6 heures) qui est produit par sa désintégration est produit en continu.",
+   "section": "Gisements et production"
+  },
+  "f158": {
+   "kind": "measure",
+   "value": 99,
+   "unit": "m",
+   "surface": "99m",
+   "sentence": "Dans les hôpitaux, on extrait ensuite le technétium de la solution par un procédé chimique en utilisant un générateur de technétium 99m (appelé en anglais technetium cow, vache à technétium, ou encore molybdenum cow).",
+   "section": "Gisements et production"
+  },
+  "f159": {
+   "kind": "number",
+   "value": 98,
+   "surface": "98",
+   "sentence": "Le générateur de technétium standard est une colonne d'alumine contenant du molybdène 98.",
+   "section": "Gisements et production"
+  },
+  "f160": {
+   "kind": "number",
+   "value": 99,
+   "surface": "99",
+   "sentence": "Dans la mesure où l'alumine a une très faible section efficace pour les neutrons, la colonne peut être facilement irradiée par des neutrons afin de produire le molybdène 99 radioactif.",
+   "section": "Gisements et production"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Technetium-sample-cropped.jpg",
+   "w": 971,
+   "h": 526,
+   "alt": "Technétium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Technetium-sample-cropped.jpg/960px-Technetium-sample-cropped.jpg",
+   "sha1": "7d0d9b37f8cbd9f9ffbeda7f11ac692a278f0b13",
+   "credit": {
+    "author": "Marco Cardin",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Technetium-sample-cropped.jpg",
+    "attribution": "GFDL",
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Radiobiologie",
+  "Technétium"
+ ]
+}

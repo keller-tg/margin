@@ -1,0 +1,425 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-17",
+ "slot": "evening",
+ "lang": "fr",
+ "topic": {
+  "title": "Hydrogène",
+  "qid": "Q556",
+  "pageid": 3823265,
+  "revid": 240005027,
+  "domain": "chemistry",
+  "url": "https://fr.wikipedia.org/w/index.php?title=Hydrog%C3%A8ne&oldid=240005027"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "élément chimique de numéro atomique 1 et de symbole H ; substance la plus légère et la plus abondante de l'univers",
+  "lead": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H (ou protium, comportant un proton et aucun neutron) et d'environ 0,01 % de deutérium 2H (un proton, un neutron). Ces deux isotopes de l'hydrogène sont stables. Un troisième isotope, le tritium 3H (un proton, deux neutrons), instable, est produit dans les réactions de fission nucléaire (réacteurs nucléaires ou bombes).\nL'hydrogène peut avoir les nombres d'oxydation 0 (dihydrogène H2 ou hydrogène métallique), +I (dans la plupart de ses composés chimiques) et –I (dans les hydrures métalliques). L'hydrogène est un élément électropositif, fréquemment ionisé à l'état H+ ou H3O+. Il forme aussi des liaisons covalentes (notamment dans le dihydrogène et les hydrocarbures) et des liaisons de nature intermédiaire appelées liaisons hydrogène (notamment dans la molécule d'eau et la matière organique).\nL'hydrogène est le principal constituant du Soleil et de la plupart des étoiles (dont l'énergie provient de la fusion thermonucléaire de cet hydrogène), et de la matière interstellaire ou intergalactique. C'est un composant majeur des planètes géantes, sous forme métallique au cœur de Jupiter et de Saturne, et sous la forme de dihydrogène solide, liquide ou gazeux dans leurs couches plus externes et dans les autres planètes géantes. Sur Terre, il est surtout présent à l'état d'eau liquide, solide (glace) ou gazeuse (vapeur d'eau), mais on le trouve aussi dans les émanations de certains volcans sous la forme de H2 et de CH4 (méthane).",
+  "sections": [
+   {
+    "heading": "Découverte",
+    "text": "Le corps simple H2 est mis en évidence à l'état gazeux par Henry Cavendish en 1766, qui l'appelle « air inflammable » parce qu'il brûle ou explose en présence d'oxygène, produisant de la vapeur d'eau. Lavoisier désigne ce gaz sous le nom d'hydrogène, composé du préfixe hydro-, du grec ὕδωρ / húdôr, « eau », et du suffixe -gène, du grec γεννάω / gennáô, « engendrer ». Son nom correct est désormais « dihydrogène », mais dans la langue courante on continue à l'appeler « hydrogène »."
+   },
+   {
+    "heading": "Abondance",
+    "text": "L'hydrogène est l'élément le plus abondant de l'Univers : 75 % en masse et 92 % en nombre d'atomes de matière baryonique (c'est-à-dire hors matière noire). Il est présent en grande quantité dans les étoiles et les planètes gazeuses ; il est également le composant principal des nébuleuses et du gaz interstellaire.\nDans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %). Il est rare également dans l'atmosphère terrestre, dont il ne représente en volume que 0,55 ppm des gaz atmosphériques. Sur Terre, la source la plus commune d'hydrogène est l'eau, dont la molécule est constituée de deux atomes d'hydrogène et d'un atome d'oxygène ; l'hydrogène est surtout le principal constituant (en nombre d'atomes) de toute matière vivante, associé au carbone dans tous les composés organiques. Par exemple, l'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain.\nDes accumulations de dihydrogène natif ont été détectées dans la croûte terrestre. L'une d'elles au Mali est quasiment pure (à 96 %) et est utilisée pour produire de l'électricité depuis les années 2010. D'autres sont recherchées pour produire du dihydrogène.\nSous de très faibles pressions, comme celles qui existent dans l'espace, l'hydrogène a tendance à exister sous forme d'atomes individuels car il n'entre pas en collision avec d'autres atomes pour se combiner. Les nuages d'hydrogène sont à la base du processus de la formation des étoiles."
+   },
+   {
+    "heading": "Atome d'hydrogène",
+    "text": "L'hydrogène est l'élément chimique le plus simple, de numéro atomique 1 ; son isotope le plus commun est constitué seulement d'un proton et d'un électron. L'hydrogène est l'atome le plus léger. Comme il ne possède qu'un électron, il ne peut former qu'une liaison covalente : c'est un atome univalent.\nCependant, l'hydrogène solide peut être métallique lorsqu'il se trouve sous très haute pression. Il cristallise alors avec une liaison métallique (voir Hydrogène métallique). Dans le tableau périodique des éléments, il se trouve dans la colonne des métaux alcalins. N'étant toutefois pas présent dans cet état sur Terre, il n'est pas considéré comme un métal en chimie.\nLa section efficace de capture de l'hydrogène (200 mb aux neutrons thermiques et 0,04 mb aux neutrons rapides)[réf. nécessaire] est suffisamment faible pour permettre l'utilisation de l'eau comme modérateur et réfrigérant des réacteurs nucléaires.\nL'atome d'hydrogène est le plus simple qui existe. C'est donc celui pour lequel la résolution de l'équation de Schrödinger, en mécanique quantique, est la plus simple. L'étude de ce cas est fondamentale, puisqu'elle a permis d'expliquer les orbitales atomiques, et ensuite les différentes liaisons chimiques par la théorie des orbitales moléculaires."
+   },
+   {
+    "heading": "Isotopes et propriétés nucléaires",
+    "text": "L’hydrogène est le seul élément dont chaque isotope porte un nom spécifique, car leur différence de masse (comparativement à celle de l'atome d'hydrogène) est significative : du simple au double ou au triple, ce qui explique que, contrairement à ce qui vaut pour les isotopes en général, ces différences peuvent influencer les propriétés chimiques du deutérium ou du tritium par rapport au protium (effet isotopique). L'eau lourde (D2O), qui contient des isotopes d'hydrogène lourds, est par exemple toxique (à forte dose) pour de nombreuses espèces. En effet, en raison de la grande différence de masse entre les isotopes, la cinétique des réactions en solution aqueuse est considérablement ralentie.\nLes isotopes les plus notables de l'hydrogène sont :\nl'hydrogène léger ou protium 1H, le plus abondant (~99,98 % de l'hydrogène naturel). Le noyau atomique est simplement constitué d'un proton et ne possède donc pas de neutron. C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne). Le noyau est constitué d'un proton et d'un neutron, c'est aussi un isotope stable. Sur Terre, il est essentiellement présent sous forme d'eau deutérée HDO (eau semi-lourde) ;\nle tritium 3H (ou T), présent seulement en quantité infime dans l'hydrogène naturel (un atome de tritium pour 1018 atomes d’hydrogène). Le noyau est constitué d’un proton et de deux neutrons, il est radioactif et se transforme en 3He par émission d'un électron (radioactivité β−). 2H et 3H peuvent participer à des réactions de fusion nucléaire. La radiotoxicité du tritium est réputée très faible lorsqu'il est présent sous forme HTO (eau tritiée, ou eau lourde), elle est moins connue et moins bien comprise lorsqu'il est présent sous forme organique (les études présentent des résultats contradictoires ou très variables selon leurs protocoles expérimentaux). Dans l’environnement naturel, le tritium peut prendre la place du protium dans les molécules comprenant de l'hydrogène, y compris dans les molécules biologiques et jusque dans l'ADN où il peut être cause de cassures de l'information génétique, de mutations ou d'apoptoses cellulaires. Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde). Il se décompose par émission de neutron ;\nl'hydrogène 7 (7H), le nucléide le plus riche en neutrons jamais observé, relativement au nombre de protons (N/Z = 6). Sa demi-vie est de l'ordre de 10−21 seconde.\nL'hydrogène, présent en grandes quantités dans le cœur des étoiles, est une source d'énergie par les réactions de fusion nucléaire, qui combinent deux noyaux d'atomes d'hydrogène (deux protons) pour former un noyau d'atome d'hélium. Les deux voies de cette fusion nucléaire naturelle sont la chaîne proton-proton, de Eddington, et le cycle carbone-azote-oxygène catalytique, de Bethe et von Weizsäcker.\nLa fusion nucléaire réalisée dans les bombes à hydrogène ou bombes H concerne des isotopes intermédiaires de la fusion (l'hydrogène se transforme en hélium), comme celle qui se déroule dans les étoiles : isotopes lourds de l'hydrogène, hélium 3, tritium, etc. Mais, dans une bombe H, les réactions nucléaires ne durent que quelques dizaines de nanosecondes, ce qui permet uniquement des réactions en une unique étape. Or, pour aboutir à la transformation de l'hydrogène en hélium, il faut plusieurs étapes dont la première, la réaction d'un proton, est très lente.\nDepuis 2006, le projet ITER vise à vérifier la « faisabilité scientifique et technique de la fusion nucléaire comme nouvelle source d’énergie »."
+   },
+   {
+    "heading": "Corps simple hydrogène",
+    "text": "Sauf aux pressions extrêmement basses (comme dans l'espace intergalactique) ou extrêmement hautes (comme dans les parties centrales de Jupiter et Saturne), le corps simple hydrogène est formé de molécules H2 (dihydrogène).\nAux pressions extrêmement hautes, l'hydrogène est dans un état dit « sombre », intermédiaire entre un gaz et un métal. Il ne reflète pas la lumière et ne la transmet pas. Il devient aussi très faiblement conducteur d'électricité. Il s'apparente aux métaux alcalins qui le suivent dans le groupe 1 du tableau de Mendeleïev.\nAux pressions les plus basses, l'hydrogène est un gaz monoatomique.\nLa molécule de dihydrogène existe sous deux isomères de spin nucléaire : l'hydrogène ortho (spins parallèles) et l'hydrogène para (spins antiparallèles).\nDans les conditions normales de température et de pression, comme dans la plupart des conditions qui intéressent la chimie et les sciences de la Terre, l'hydrogène est un gaz moléculaire de formule H2, le dihydrogène. Le dihydrogène forme aussi de vastes « nuages moléculaires » dans les galaxies, qui sont à l'origine de la formation des étoiles.\nÀ très basse pression et très haute température l'hydrogène est un gaz monoatomique (donc de formule H), c'est notamment le cas du gaz interstellaire ou intergalactique. En raison de l'immensité de ces espaces et malgré la très faible densité du gaz, l'hydrogène monoatomique constitue près de 75 % de la masse baryonique de l'univers.\nL'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K (−259,14 °C). L'état solide fut obtenu pour la première fois en 1899 par James Dewar.\nL'hydrogène métallique est une phase de l'hydrogène survenant lorsqu'il est soumis à une très forte pression et à de très basses températures. C'est un exemple de matière dégénérée. D'aucuns estiment qu'il y a un intervalle de pressions (autour de 400 GPa) dans lequel l'hydrogène métallique est liquide, même à de très basses températures.\nL'hydrogène triatomique est une forme allotropique très instable du corps simple hydrogène, de formule H3."
+   },
+   {
+    "heading": "Propriétés chimiques et composés",
+    "text": "L'atome d'hydrogène peut perdre son unique électron pour donner l'ion H+, désigné couramment par le nom de proton. En effet l'atome qui a perdu son seul électron est réduit à son noyau, et dans le cas de l'isotope le plus abondant 1H, ce noyau n'est constitué que d'un proton. Cette appellation n'est pas rigoureusement correcte si l'on tient compte de la présence, certes discrète (inférieure à 0,02 %), des autres isotopes. L'appellation hydron est plus générale (on dit aussi ion hydrogène, malgré la confusion possible avec l'anion H−). Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.\nEn solution, le proton n'existe pas à l'état libre mais est toujours lié au nuage électronique d'une molécule. En solution aqueuse il est solvaté par des molécules d'eau ; on peut en simplifiant considérer qu'il est capté par une molécule d'eau H2O, formant un ion « hydronium » H3O+, aussi appelé « oxonium » ou « hydroxonium ».\nL'atome d'hydrogène peut aussi acquérir un second électron pour donner l'ion « hydrure » H−, ce qui lui confère le même cortège électronique stable que l'atome d'hélium.\nL'hydrogène joue un rôle primordial dans une réaction acido-basique (au sens de la théorie de Brønsted-Lowry) puisque cette dernière correspond formellement à l'échange d'un ion hydrogène H+ entre deux espèces, la première (l'acide) libérant H+ par rupture d'une liaison covalente, et la deuxième (la base) captant cet H+ par formation d'une nouvelle liaison covalente :\nAH\n+\nB\n=\nA\n−\n+\nBH\n+\nacide1\nbase2\nbase1\nacide2\n{\\mbox{AH}}&+&{\\mbox{B}}&=&{\\mbox{A}}^{-}&+&{\\mbox{BH}}^{+}\\\\{\\mbox{acide1}}&&{\\mbox{base2}}&&{\\mbox{base1}}&&{\\mbox{acide2}}\\end{matrix}}}\nLa liaison hydrogène est une interaction électrostatique entre un atome d'hydrogène, lié chimiquement à un atome électronégatif A, et un autre atome électronégatif B (A et B étant typiquement O, N ou F en chimie organique).\nCette liaison joue un rôle important en chimie organique, puisque les atomes d'oxygène O, d'azote N ou de fluor F sont susceptibles de créer des liaisons hydrogène, mais aussi en chimie inorganique, entre les alcools et les alcoolates métalliques.\nL'atome d'hydrogène peut engager son unique électron pour former une liaison covalente avec de nombreux atomes non-métalliques.\nLes composés les plus connus sont :\nla molécule de dihydrogène H2 ;\nla molécule d'eau H2O ;\nles molécules d'hydrocarbures CxHy.\nL'hydrogène est également présent dans toutes les molécules organiques, où il est lié principalement à des atomes de carbone, d'oxygène et d'azote.\nL'hydrogène se combine avec la plupart des autres éléments car il possède une électronégativité moyenne (2,2) et peut ainsi former des composés avec des éléments métalliques ou non-métalliques. Les composés qu'il forme avec les métaux sont appelés « hydrures », dans lesquels il se trouve sous forme d'ions H− trouvés généralement en solution. Dans les composés avec les éléments non-métalliques, l'hydrogène forme des liaisons covalentes, car l'ion H+ a une forte tendance à s'associer avec les électrons. Dans les acides en solution aqueuse, il se forme des ions H3O+ appelés ions « hydronium » ou « oxonium », association du proton et d'une molécule d'eau."
+   },
+   {
+    "heading": "Applications",
+    "text": "L'hydrogène est utilisé dans l'industrie chimique, notamment pour la synthèse de l'ammoniac par le procédé Haber-Bosch, qui sert de base à la fabrication des engrais azotés. Il est principalement employé dans le raffinage du pétrole (hydrocraquage) et dans la production de méthanol. Dans le domaine énergétique, le dihydrogène est envisagé comme vecteur énergétique propre, notamment via les piles à combustible qui produisent de l'électricité en combinant H₂ et O₂. Enfin, il est utilisé comme carburant dans les lanceurs spatiaux en raison de sa haute densité énergétique massique."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H (ou protium, comportant un proton et aucun neutron) et d'environ 0,01 % de deutérium 2H (un proton, un neutron)."
+  },
+  "f2": {
+   "kind": "measure",
+   "value": 0.01,
+   "unit": "%",
+   "surface": "0,01 %",
+   "sentence": "L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H (ou protium, comportant un proton et aucun neutron) et d'environ 0,01 % de deutérium 2H (un proton, un neutron)."
+  },
+  "f3": {
+   "kind": "number",
+   "value": 0,
+   "surface": "0",
+   "sentence": "L'hydrogène peut avoir les nombres d'oxydation 0 (dihydrogène H2 ou hydrogène métallique), +I (dans la plupart de ses composés chimiques) et –I (dans les hydrures métalliques)."
+  },
+  "f4": {
+   "kind": "date",
+   "value": "1766",
+   "surface": "1766",
+   "sentence": "Le corps simple H2 est mis en évidence à l'état gazeux par Henry Cavendish en 1766, qui l'appelle « air inflammable » parce qu'il brûle ou explose en présence d'oxygène, produisant de la vapeur d'eau.",
+   "section": "Découverte"
+  },
+  "f5": {
+   "kind": "measure",
+   "value": 75,
+   "unit": "%",
+   "surface": "75 %",
+   "sentence": "L'hydrogène est l'élément le plus abondant de l'Univers : 75 % en masse et 92 % en nombre d'atomes de matière baryonique (c'est-à-dire hors matière noire).",
+   "section": "Abondance"
+  },
+  "f6": {
+   "kind": "measure",
+   "value": 92,
+   "unit": "%",
+   "surface": "92 %",
+   "sentence": "L'hydrogène est l'élément le plus abondant de l'Univers : 75 % en masse et 92 % en nombre d'atomes de matière baryonique (c'est-à-dire hors matière noire).",
+   "section": "Abondance"
+  },
+  "f7": {
+   "kind": "measure",
+   "value": 0.22,
+   "unit": "%",
+   "surface": "0,22 %",
+   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %).",
+   "section": "Abondance"
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 47,
+   "unit": "%",
+   "surface": "47 %",
+   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %).",
+   "section": "Abondance"
+  },
+  "f9": {
+   "kind": "measure",
+   "value": 27,
+   "unit": "%",
+   "surface": "27 %",
+   "sentence": "Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %).",
+   "section": "Abondance"
+  },
+  "f10": {
+   "kind": "number",
+   "value": 0.55,
+   "surface": "0,55",
+   "sentence": "Il est rare également dans l'atmosphère terrestre, dont il ne représente en volume que 0,55 ppm des gaz atmosphériques.",
+   "section": "Abondance"
+  },
+  "f11": {
+   "kind": "measure",
+   "value": 63,
+   "unit": "%",
+   "surface": "63 %",
+   "sentence": "Par exemple, l'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain.",
+   "section": "Abondance"
+  },
+  "f12": {
+   "kind": "measure",
+   "value": 10,
+   "unit": "%",
+   "surface": "10 %",
+   "sentence": "Par exemple, l'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain.",
+   "section": "Abondance"
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 96,
+   "unit": "%",
+   "surface": "96 %",
+   "sentence": "L'une d'elles au Mali est quasiment pure (à 96 %) et est utilisée pour produire de l'électricité depuis les années 2010.",
+   "section": "Abondance"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "2010",
+   "surface": "2010",
+   "sentence": "L'une d'elles au Mali est quasiment pure (à 96 %) et est utilisée pour produire de l'électricité depuis les années 2010.",
+   "section": "Abondance"
+  },
+  "f15": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "L'hydrogène est l'élément chimique le plus simple, de numéro atomique 1 ; son isotope le plus commun est constitué seulement d'un proton et d'un électron.",
+   "section": "Atome d'hydrogène"
+  },
+  "f16": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "La section efficace de capture de l'hydrogène (200 mb aux neutrons thermiques et 0,04 mb aux neutrons rapides)[réf. nécessaire] est suffisamment faible pour permettre l'utilisation de l'eau comme modérateur et réfrigérant des réacteurs nucléaires.",
+   "section": "Atome d'hydrogène"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 0.04,
+   "surface": "0,04",
+   "sentence": "La section efficace de capture de l'hydrogène (200 mb aux neutrons thermiques et 0,04 mb aux neutrons rapides)[réf. nécessaire] est suffisamment faible pour permettre l'utilisation de l'eau comme modérateur et réfrigérant des réacteurs nucléaires.",
+   "section": "Atome d'hydrogène"
+  },
+  "f18": {
+   "kind": "measure",
+   "value": 99.98,
+   "unit": "%",
+   "surface": "99,98 %",
+   "sentence": "Les isotopes les plus notables de l'hydrogène sont :\nl'hydrogène léger ou protium 1H, le plus abondant (~99,98 % de l'hydrogène naturel).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f19": {
+   "kind": "number",
+   "value": 0.0082,
+   "surface": "0,0082",
+   "sentence": "C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f20": {
+   "kind": "measure",
+   "value": 0.0184,
+   "unit": "%",
+   "surface": "0,0184 %",
+   "sentence": "C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f21": {
+   "kind": "measure",
+   "value": 0.015,
+   "unit": "%",
+   "surface": "0,015 %",
+   "sentence": "C'est un isotope stable ;\nle deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1018",
+   "surface": "1018",
+   "sentence": "Sur Terre, il est essentiellement présent sous forme d'eau deutérée HDO (eau semi-lourde) ;\nle tritium 3H (ou T), présent seulement en quantité infime dans l'hydrogène naturel (un atome de tritium pour 1018 atomes d’hydrogène).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 1.39,
+   "surface": "1,39",
+   "sentence": "Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f25": {
+   "kind": "number",
+   "value": 22,
+   "surface": "22",
+   "sentence": "Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;\nle quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f26": {
+   "kind": "number",
+   "value": 7,
+   "surface": "7",
+   "sentence": "Il se décompose par émission de neutron ;\nl'hydrogène 7 (7H), le nucléide le plus riche en neutrons jamais observé, relativement au nombre de protons (N/Z = 6).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f27": {
+   "kind": "number",
+   "value": 6,
+   "surface": "6",
+   "sentence": "Il se décompose par émission de neutron ;\nl'hydrogène 7 (7H), le nucléide le plus riche en neutrons jamais observé, relativement au nombre de protons (N/Z = 6).",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Sa demi-vie est de l'ordre de 10−21 seconde.",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f29": {
+   "kind": "number",
+   "value": 21,
+   "surface": "21",
+   "sentence": "Sa demi-vie est de l'ordre de 10−21 seconde.",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "La fusion nucléaire réalisée dans les bombes à hydrogène ou bombes H concerne des isotopes intermédiaires de la fusion (l'hydrogène se transforme en hélium), comme celle qui se déroule dans les étoiles : isotopes lourds de l'hydrogène, hélium 3, tritium, etc. Mais, dans une bombe H, les réactions nucléaires ne durent que quelques dizaines de nanosecondes, ce qui permet uniquement des réactions en une unique étape.",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f31": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006",
+   "sentence": "Depuis 2006, le projet ITER vise à vérifier la « faisabilité scientifique et technique de la fusion nucléaire comme nouvelle source d’énergie ».",
+   "section": "Isotopes et propriétés nucléaires"
+  },
+  "f32": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Il s'apparente aux métaux alcalins qui le suivent dans le groupe 1 du tableau de Mendeleïev.",
+   "section": "Corps simple hydrogène"
+  },
+  "f33": {
+   "kind": "measure",
+   "value": 75,
+   "unit": "%",
+   "surface": "75 %",
+   "sentence": "En raison de l'immensité de ces espaces et malgré la très faible densité du gaz, l'hydrogène monoatomique constitue près de 75 % de la masse baryonique de l'univers.",
+   "section": "Corps simple hydrogène"
+  },
+  "f34": {
+   "kind": "measure",
+   "value": 14.01,
+   "unit": "k",
+   "surface": "14,01 K",
+   "sentence": "L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K (−259,14 °C).",
+   "section": "Corps simple hydrogène"
+  },
+  "f35": {
+   "kind": "measure",
+   "value": 259.14,
+   "unit": "°c",
+   "surface": "259,14 °C",
+   "sentence": "L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K (−259,14 °C).",
+   "section": "Corps simple hydrogène"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1899",
+   "surface": "1899",
+   "sentence": "L'état solide fut obtenu pour la première fois en 1899 par James Dewar.",
+   "section": "Corps simple hydrogène"
+  },
+  "f37": {
+   "kind": "number",
+   "value": 400,
+   "surface": "400",
+   "sentence": "D'aucuns estiment qu'il y a un intervalle de pressions (autour de 400 GPa) dans lequel l'hydrogène métallique est liquide, même à de très basses températures.",
+   "section": "Corps simple hydrogène"
+  },
+  "f38": {
+   "kind": "measure",
+   "value": 0.02,
+   "unit": "%",
+   "surface": "0,02 %",
+   "sentence": "Cette appellation n'est pas rigoureusement correcte si l'on tient compte de la présence, certes discrète (inférieure à 0,02 %), des autres isotopes.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 1.5,
+   "surface": "1,5",
+   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f41": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "m",
+   "surface": "15 m",
+   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f44": {
+   "kind": "measure",
+   "value": 11,
+   "unit": "m",
+   "surface": "11 m",
+   "sentence": "Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.",
+   "section": "Propriétés chimiques et composés"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 2.2,
+   "surface": "2,2",
+   "sentence": "L'hydrogène se combine avec la plupart des autres éléments car il possède une électronégativité moyenne (2,2) et peut ainsi former des composés avec des éléments métalliques ou non-métalliques.",
+   "section": "Propriétés chimiques et composés"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Liquid hydrogen bubblechamber.jpg",
+   "w": 640,
+   "h": 852,
+   "alt": "Hydrogène",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/76/Liquid_hydrogen_bubblechamber.jpg",
+   "sha1": "ac30ccc3dbfc0e860355afa09ebd63e08d8a2996",
+   "credit": {
+    "author": "Uncredited/DOE",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Liquid_hydrogen_bubblechamber.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "categories": [
+  "Hydrogène"
+ ]
+}

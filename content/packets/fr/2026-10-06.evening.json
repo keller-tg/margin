@@ -1,0 +1,526 @@
+{
+ "packetVersion": 1,
+ "date": "2026-10-06",
+ "slot": "evening",
+ "lang": "fr",
+ "topic": {
+  "title": "Ornithorynque",
+  "qid": "Q15343",
+  "pageid": 30674,
+  "revid": 239922555,
+  "domain": "animals",
+  "url": "https://fr.wikipedia.org/w/index.php?title=Ornithorynque&oldid=239922555"
+ },
+ "limits": {
+  "easy": {
+   "pages": [
+    2,
+    2
+   ],
+   "maxWords": 15
+  },
+  "medium": {
+   "pages": [
+    3,
+    3
+   ],
+   "maxWords": 25
+  },
+  "deep": {
+   "pages": [
+    4,
+    4
+   ],
+   "maxWords": 40
+  }
+ },
+ "source": {
+  "description": "mammifère ovipare semi-aquatique endémique à l'Australie",
+  "lead": "L'ornithorynque (Ornithorhynchus anatinus) est un animal semi-aquatique endémique de l'est de l'Australie et de la Tasmanie. C'est l'une des cinq espèces de l'ordre des monotrèmes, seul ordre de mammifères qui pond des œufs au lieu de donner naissance à des petits complètement formés (les quatre autres espèces sont des échidnés). C'est la seule espèce actuelle de la famille des Ornithorhynchidae et du genre Ornithorhynchus bien qu'un grand nombre de fragments d'espèces fossiles de cette famille et de ce genre aient été découverts.\nL'apparence fantasmagorique de ce mammifère pondant des œufs, à la mâchoire cornée ressemblant au bec d'un canard, à queue évoquant un castor, qui lui sert à la fois de gouvernail dans l'eau et de réserve de graisse, et à pattes de loutre a fortement surpris les explorateurs qui l'ont découvert ; bon nombre de naturalistes européens ont cru à une plaisanterie. C'est l'un des rares mammifères venimeux : le mâle porte sur les pattes postérieures un aiguillon qui peut libérer du venin capable de paralyser une jambe humaine ou même de tuer un chien. Les traits originaux de l'ornithorynque en font un sujet d'études important pour mieux comprendre l'évolution des espèces animales et en ont fait un des symboles de l'Australie : il a été utilisé comme mascotte pour de nombreux évènements nationaux et il figure au verso de la pièce de monnaie de vingt cents australiens.\nJusqu'au début du XXe siècle, il a été chassé pour sa fourrure mais il est à l'heure actuelle protégé. Bien que les programmes de reproduction en captivité aient eu un succès très limité et qu'il soit sensible aux effets de la pollution, l'espèce n'était pas considérée comme en danger jusque récemment ; depuis 2019, elle est décrite comme « quasi-menacée », et un rapport de l'Australian Conservation Foundation (ACF) (en) de novembre 2020 a recommandé de la classer parmi les espèces menacées en vertu du code EPBC.",
+  "sections": [
+   {
+    "heading": "Taxonomie, dénominations et étymologie",
+    "text": "Les aborigènes d'Australie nomment ou ont nommé l'ornithorynque de diverses façons en fonction de leurs langues. Parmi les noms relevés on retrouve : boondaburra, mallingong, tambreet, watjarang (régions de Yas, Murrumbidgee et Tumat), tohunbuck (région de Goomburra, Darling Downs), dulaiwarrung ou dulai warrung (langue woiwurrung, Wurundjeri, Victoria), djanbang (bundjalung, Queensland), djumulung (langue yuin, Yuin, Nouvelle-Galles du Sud), maluŋgaŋ (langue ngunnawal, Ngunnawal, ACT/Territoire de la capitale australienne), biladurang, wamul, dyiimalung, oornie, dungidany (langue wiradjuri (en), Vic, NSW), oonah, etc. Le nom choisi et approuvé en palawa kani (langue tasmanienne reconstruite) est larila.\nQuand le premier ornithorynque fut rencontré par les Européens en 1797, le gouverneur de Nouvelle-Galles du Sud, le capitaine John Hunter, en fit envoyer un pelage et des dessins en Grande-Bretagne. Les scientifiques britanniques furent en premier lieu persuadés qu’il s’agissait d’un canular. George Kearsley Shaw, qui fit la première description de l’animal dans le Naturalist’s Miscellany en 1799, expliquait qu’il était impossible de ne pas avoir de doute sur l’existence réelle de l’animal et Robert Knox croyait qu’il s’agissait d’un montage, œuvre d’un taxidermiste asiatique. Il pensait que quelqu’un avait cousu un bec de canard sur la fourrure d’un animal ressemblant à un castor, et Shaw essaya même de trouver les points de couture.\nL’animal fut appelé Platypus par les Anglais, nom composite dérivé des mots du grec ancien πλατύς / platús (« plat, large ») et πούς / poús (« pied »), c’est-à-dire « pied plat ». Mais on s’aperçut très vite que ce nom avait déjà été utilisé pour désigner un genre de coléoptères de la famille des Platypodidae, Platypus, par l’entomologiste Johann Friedrich Wilhelm Herbst. Un autre zoologiste, Johann Friedrich Blumenbach, qui avait reçu également un animal de la part de Joseph Banks, lui avait donné en parallèle un nom différent en 1800 : Ornithorhynchus paradoxus, et il fut finalement appelé Ornithorhynchus anatinus. Le nom ornithorynque vient des mots du grec ancien ὄρνις / órnis (« oiseau ») et ῥύγχος / rhúnkhos (« bec »), ce qui signifie « à bec d’oiseau », et le nom d’espèce anatinus signifie « comme un canard » en latin.\nLe mot a ensuite été francisé avec une graphie longtemps instable : « ornithoringue » en 1803 chez Faujas de Saint-Fond, « ornithorhynque » (graphie la plus étymologique) chez Georges Cuvier en 1805 dans ses Leçons d'anatomie comparée, qui l'orthographie cependant « ornithorinque » 136 pages plus loin. C'est finalement la graphie intermédiaire « ornithorynque » qui s'est imposée, même si l'absence du second « H » la rend inétymologique.\nLe monde entier ne découvrit l’ornithorynque qu’en 1939 quand le magazine National Geographic publia un article décrivant les efforts pour l’étudier et le maintenir en captivité (tâche très difficile : le premier lieu où il a survécu — et toujours un des seuls — est la réserve d'Healesville au Victoria). Bien peu de jeunes ont pu être élevés jusqu’à présent : la première portée née en captivité date de 1943."
+   },
+   {
+    "heading": "Description",
+    "text": "C'est un animal nocturne et farouche. Il est longtemps passé pour une chimère, mais se révèle un animal très adapté aux conditions de vie du continent australien.\nL'ornithorynque a une masse corporelle très variable allant de 0,7 à 2,4 kilogrammes, les mâles étant habituellement d'un tiers plus gros que les femelles. La taille totale, entre 40 et 50 centimètres en moyenne, varie considérablement d'une région à l'autre, sans qu'elle soit liée au climat. La queue mesure 12 cm et la mâchoire 6 cm.\nIl ressemble à un castor par son pelage : le corps et la queue, larges et plats, sont couverts d'une fourrure marron qui emprisonne entre ses poils de l'air afin d'isoler l'animal du froid, sa queue stocke des réserves de graisse comme chez le diable de Tasmanie et certains moutons. Comme les canards, il est pourvu de pieds palmés surtout au niveau des pattes antérieures, avec une palmure dépassant les doigts, qu'il utilise pour nager ou pour se déplacer sur des sols vaseux. Il peut partiellement replier sa palmure lorsqu'il se déplace sur sol sec ou qu'il doit utiliser ses griffes puissantes pour grimper sur les berges ou creuser sa tanière. Il est également pourvu d'une grande mâchoire cornée lui ayant donné son surnom anglais « duck-billed platypus » (« pied plat à bec de canard »). Cette mâchoire, gris-bleu, est surtout un organe sensoriel remontant sur le front, l'ouverture de la bouche se trouvant sur sa face inférieure ; les narines s'ouvrent à l'avant de la face supérieure, tandis que les yeux et les oreilles sont situés dans une rainure placée juste en arrière du bec. Cette rainure se referme lorsque l'animal nage, ce qui le rend sourd et aveugle dans l'eau. La cavité buccale est prolongée latéralement par des abajoues qui lui servent à stocker sa nourriture lorsqu'il chasse sous l'eau. La langue, charnue, a un renflement à sa partie postérieure qui peut obstruer complètement le fond de la bouche. Les premiers Européens à s'être procuré un ornithorynque mort ont d'abord cru à une blague ; ils ont cherché d'éventuelles traces de coutures, en vain.L'animal émettrait un petit grognement lorsqu'il est dérangé et l'on a rapporté l'émission de toute une série d'autres petits sons chez les spécimens en captivité ; mais selon d'autres témoignages, le seul bruit que ferait l'animal serait, lorsqu'il est gêné par de l'eau dans les narines, de souffler fortement pour l'en chasser.\nL'ornithorynque est un animal homéotherme dont la température corporelle moyenne est de 31–32 °C contre 37 °C en moyenne chez les mammifères placentaires. Les recherches laissent à penser qu'il s'agit plus d'une adaptation progressive aux conditions environnementales du petit nombre de monotrèmes survivants plutôt que d'une caractéristique historique des monotrèmes.\nLes jeunes ornithorynques ont des molaires à 3 cuspides qu'ils perdent au moment de quitter le nid et les adultes disposent de blocs de kératine pour les remplacer ; la mâchoire de l'ornithorynque est faite de façon différente de celle des autres mammifères et le muscle chargé de son ouverture est dissemblable. Comme chez les autres mammifères, les os de l'oreille moyenne sont incorporés au crâne plutôt que d'être situés à la base de la mâchoire comme chez les cynodontes et les autres synapsides ; cependant le conduit auditif externe s'ouvre à la base de la mâchoire.L'ornithorynque, comme les reptiles, a des os surnuméraires dans la ceinture scapulaire comprenant notamment une interclavicule qu'on ne retrouve pas chez les autres mammifères. Il a la démarche d'un reptile avec les pattes situées sur les côtés du corps au lieu d'être en dessous comme chez les autres mammifères.\nLes jeunes et les ornithorynques mâles portent des aiguillons venimeux de 15 millimètres de long aux chevilles reliés à une glande située dans la cuisse, appelée glande crurale. L'aiguillon s'atrophie chez la femelle et la glande n'est fonctionnelle que chez le mâle adulte pendant la période de reproduction. Son venin, formé de plusieurs enzymes, n'est pas mortel pour les humains, mais provoque d'importantes douleurs et des œdèmes qui peuvent durer plusieurs mois. Ils peuvent provoquer une paralysie des membres inférieurs pendant quelques jours. On ne connaît pas d'antidote. On se contente de traiter par des analgésiques et un vaccin antitétanique si besoin. Le venin peut être mortel pour un chien ou pour de petits animaux domestiques par dépression respiratoire.\nDans l'eau, il garde les yeux et les oreilles hermétiquement fermés et se sert de ses autres sens pour se diriger. Il détecte le plus souvent ses proies grâce à des détecteurs de champ électrique situés sur sa mâchoire (voir plus loin). Les quatre pattes de l'ornithorynque sont palmées. Quand il nage, il se propulse par des battements alternatifs de ses pattes avant, sa queue et ses pattes postérieures l'aidant à se diriger, mais non à se propulser.\nDoublée de tissus adipeux, la fourrure de l'ornithorynque lui permet d'affronter les rivières les plus froides d'Australie. La durée moyenne de plongée de l'animal est de 31 à 35 secondes, la plus longue plongée observée a été de 138 secondes soit plus de deux minutes. L'animal plonge en moyenne à 1,3 mètre et un record à 8 mètres a été établi.\nSous lumière ultraviolette, son pelage apparaît vert-bleu fluorescent, propriété qui « pourrait l'aider à se camoufler des autres prédateurs nocturnes sensibles aux UV en absorbant la lumière UV au lieu de la réfléchir ».\nIl supporte mal la chaleur[réf. nécessaire]. Après son bain, il aime regagner son terrier après avoir essuyé son pelage, qui fut jadis très prisé des pelletiers pour ses qualités isolantes et sa grande finesse.\nAlors que les ornithorynques mâles et femelles naissent avec des éperons aux chevilles, seuls les éperons du mâle délivrent du venin, composé en grande partie de défensines, comme les protéines (DLPS), dont trois sont particulières à l'ornithorynque. Les DLP sont produites par le système immunitaire de l'ornithorynque. Les défensines ont pour fonction de provoquer la lyse des bactéries et virus pathogènes, mais chez les ornithorynques, elles sont également transformées en venin destiné à la défense. Bien que suffisamment puissant pour tuer des animaux plus petits tels que les chiens, le venin n'est pas mortel pour l'Homme, mais la douleur est si atroce que la victime peut être frappée d'incapacité. Un œdème se développe rapidement autour de la plaie et se propage progressivement dans tout le membre affecté. Les informations obtenues à partir des études de cas et d'anecdotes indiquent que la douleur se développe en une hyperalgésie de longue durée (une sensibilité accrue à la douleur) qui persiste pendant des jours, voire des mois. Le venin est produit dans les glandes crurales du mâle, qui sont des glandes alvéolaires en forme de rein reliées par un conduit à paroi mince à un éperon calcanéum sur chaque membre postérieur. L'ornithorynque femelle a, en commun avec les échidnés, des bourgeons d'éperon rudimentaires qui ne se développent pas (tombant avant la fin de leur première année) et n'a pas de glandes crurales fonctionnelles.\nLe venin semble avoir une fonction différente de ceux produits par les espèces non mammifères. Les mâles étant seuls à produire du venin et la production augmentant pendant la saison de reproduction, il peut être utilisé comme une arme offensive pour affirmer la domination pendant cette période.\nDes éperons similaires se trouvent sur de nombreux groupes de mammifères archaïques, ce qui indique qu'il s'agit d'une caractéristique ancienne pour les mammifères dans leur ensemble, et non exclusive à l'ornithorynque ou à d'autres monotrèmes.\nLes monotrèmes sont les seuls mammifères à être dotés du sens de l'électroperception : ils peuvent en partie localiser leurs proies en détectant le champ électrique produit par leurs contractions musculaires. L'électrolocalisation de l'ornithorynque est la plus sensible de celles de tous les monotrèmes.\nLes électrorécepteurs sont situés dans la partie caudale de la peau du bec tandis que les mécanorécepteurs (qui détectent le toucher) sont répartis uniformément dans tout le bec. Ces récepteurs vont transmettre leurs informations à une partie du cortex cérébral située dans la partie somesthésique. Quelques cellules reçoivent leurs informations des deux types de récepteurs, suggérant une association étroite entre eux. Ces deux types de récepteurs dominent la carte somatotopique du cerveau de l'ornithorynque, un peu comme la main domine la carte de l'homonculus de Penfield chez l'homme.\nOn pense que l'ornithorynque peut déterminer la direction de la source électrique en comparant l'intensité du signal selon l'orientation de son bec. Ceci expliquerait les mouvements caractéristiques de va-et-vient de la tête pendant qu'il chasse. Les cellules communes pour les deux types de récepteur suggèrent un mécanisme de détermination de distance de la proie par comparaison du temps d'arrivée des deux types de signaux.\nDans des études récentes, il a été suggéré que les yeux de l'ornithorynque ressemblaient davantage à ceux de la myxine du Pacifique ou de la lamproie du Nord qu'à ceux de la plupart des tétrapodes. Les yeux contiennent également des cônes doubles, que la plupart des mammifères n'ont pas.\nBien que les yeux de l'ornithorynque soient petits et qu'il ne les utilise pas sous l'eau, plusieurs caractéristiques indiquent que la vision a joué un rôle important chez ses ancêtres. La surface de la cornée et la surface adjacente du cristallin sont plates, tandis que la surface postérieure du cristallin est fortement incurvée, semblable aux yeux d'autres mammifères aquatiques tels que les loutres et les otaries. Une concentration temporale de cellules ganglionnaires rétiniennes, importante pour la vision binoculaire, indique un rôle dans la prédation, tandis que l'acuité visuelle qui l'accompagne est insuffisante pour de telles activités. De plus, cette acuité limitée s'accompagne d'un faible grossissement cortical, d'un petit noyau géniculé latéral et d'un grand tectum optique, suggérant que le mésencéphale visuel joue un rôle plus important que le cortex visuel, comme chez certains rongeurs. Ces caractéristiques suggèrent que l'ornithorynque s'est adapté à un mode de vie aquatique et nocturne, développant son système électro-sensoriel au détriment de son système visuel ; un processus évolutif parallèle au petit nombre d'électrorécepteurs dans l'échidné à nez court, qui habite dans des environnements secs, tandis que l'échidné à nez long, qui vit dans des environnements humides, est intermédiaire entre les deux autres monotrèmes."
+   },
+   {
+    "heading": "Environnement et comportement",
+    "text": "L'ornithorynque est un animal carnivore qui a besoin de consommer tous les jours l'équivalent en nourriture de 20 % de sa masse corporelle, soit entre 200 et 500 grammes, ce qui lui demande de passer en moyenne douze heures par jour dans l'eau pour cette activité. Il se nourrit de vers, de larves d'insectes, de crevettes d'eau douce, de petits poissons et de leurs œufs ou encore d'écrevisses qu'il déniche dans le lit des rivières en fourrageant avec son bec ou en les attrapant en nageant. Il les emmagasine dans ses bajoues et les mange ensuite sur le rivage une fois arrivé.\nL'ornithorynque est un animal semi-aquatique qui vit dans les petits cours d'eau sur un territoire s'étendant des régions froides des hautes terres de Tasmanie et des Alpes australiennes jusqu'aux forêts pluviales tropicales du Queensland côtier dans le bas de la péninsule du Cap York. À l'intérieur du pays, sa répartition n'est pas bien connue : il s'est éteint en Australie du sud (à l'exception d'une population introduite sur l'île Kangourou) ainsi que dans la plus grande partie du Bassin Murray-Darling, probablement à cause d'une dégradation de la qualité de l'eau provoquée par le défrichement et l'irrigation intensifs. Sa distribution est aléatoire le long des divers fleuves côtiers : il semble absent de certains cours d'eau relativement salubres, alors qu'il se maintient dans d'autres passablement dégradés (le bas Maribyrnong par exemple).\nEn captivité, l'ornithorynque peut vivre jusqu'à vingt-et-un ans et dans la nature, son espérance de vie est comprise entre 10 et 15 ans. Le taux de mortalité naturelle est faible. Ses prédateurs naturels sont les serpents, les rakalis, les goannas et les rapaces. Il se peut que les ornithorynques soient rares dans le nord de l'Australie à cause des crocodiles. L'introduction des renards comme prédateurs des lapins semble avoir joué sur la baisse de la population sur le continent australien. C'est un animal essentiellement nocturne, mais que l'on peut voir quelquefois en activité dans la journée, surtout lorsque le ciel est couvert. Il vit sur les berges des cours d'eau et les zones ripariennes où il peut trouver à la fois sa nourriture dans et au bord de l'eau et son habitat en creusant des terriers pour se reposer et se reproduire. Un mâle peut ainsi posséder jusqu'à 7 kilomètres (4,4 miles) de berges qu'il partage avec 3 à 4 femelles.\nL'ornithorynque est un excellent nageur et il passe beaucoup de temps dans l'eau à la recherche de nourriture. C'est le seul mammifère qui se déplace dans l'eau en utilisant uniquement ses pattes antérieures dans un mouvement alterné pour avancer ; bien que les pattes postérieures soient également palmées, il ne les utilise pas pour avancer, mais uniquement en les plaçant le long du corps pour se diriger comme il le fait aussi avec sa queue. Bien qu'il passe des heures entières à fourrager dans une eau à moins de 5 °C, c'est un animal homéotherme qui maintient la température de son corps à 31 °C. En plongée, son cœur ralentit pour économiser sa consommation d'oxygène. Il plonge pendant 30 secondes environ et ne peut pas dépasser 40 secondes sous l'eau lorsqu'il recherche de la nourriture, mais il pourrait y rester jusqu'à 11 minutes (3 minutes en moyenne) au repos. Il a besoin de 10 à 20 secondes de récupération en surface avant de replonger, mais il n'y a pas de relation entre le temps de plongée et le temps de récupération.\nQuand le premier ornithorynque fut découvert par le monde scientifique, on ne savait pas que les femelles pondaient. On le suspecta assez rapidement, mais le fait ne fut confirmé qu'en 1884 quand W. H. Caldwell fut envoyé en Australie pour vérifier cela, et que, après d'intensives recherches menées par 150 Aborigènes, il put découvrir quelques œufs.\nL'ornithorynque atteint sa maturité sexuelle vers l'âge de 2 ans et n'a qu'une saison des amours par an avec un accouplement entre juin et octobre ; on observe quelques variations dans les dates suivant les régions. L'accouplement a lieu dans l'eau. Les observations sur une longue période, le marquage et la recapture, puis les premières études génétiques montrent la possibilité d'existence de populations sédentaires et de populations transhumantes, ce qui permettrait une polygamie des individus. Les femelles deviennent matures leur deuxième année et la période de fécondité dure plus de 9 ans.\nEn dehors de la période des amours, l'ornithorynque vit dans un simple terrier creusé dans la berge d'un cours d'eau, dont l'entrée est située à environ 30 cm au-dessus de la surface de l'eau. Après l'accouplement, la femelle construit un terrier situé plus au-dessus de la surface de l'eau, beaucoup plus profond – pouvant atteindre 20 m de long – et entrecoupé de bouchons de terre par intervalles (qui servent probablement de sécurité contre une montée des eaux et contre la venue de prédateurs, tout en régulant la température et l'humidité du nid). Le mâle ne participe ni à la couvaison ni à l'élevage des petits et reste dans son ancien terrier. La femelle tapisse le sol de sa galerie avec des feuilles mortes et remplit le nid situé au bout du tunnel de feuilles de tiges et de branches qu'elle transporte à l'aide de sa queue enroulée.\nLa femelle ornithorynque a deux ovaires, mais seul le gauche est fonctionnel. Elle pond de 1 à 3 œufs (le plus souvent 2) à la coquille cuirassée comme les œufs de reptiles, mesurant 11 mm de diamètre et légèrement plus sphériques que les œufs d'oiseaux. Les œufs se développent dans l'utérus pendant 28 jours (à la différence des oiseaux où ils ne restent qu'un jour) et sont incubés ensuite pendant 10 jours par la mère qui se roule en boule autour d'eux (contre une vingtaine de jours chez les oiseaux).\nTraditionnellement, on divise la période d'incubation en 3 périodes :\npendant la 1re, l'embryon n'a pas d'organe fonctionnel et il se nourrit du vitellus;\npendant la 2e, il développe ses doigts;\ndurant la 3e se forme le diamant qui permettra au jeune de casser sa coquille pour en sortir.\nÀ la naissance, les jeunes sont très vulnérables, aveugles et dépourvus de poils. Dès la sortie de l'œuf, les petits s'accrochent à la mère et elle les protège en s'enroulant autour d'eux. Comme pour les autres mammifères, la femelle allaite ses petits. Elle n'a pas de mamelons apparents, mais émet son lait à travers de petites ouvertures dans la peau (les pores). Ce lait s'amasse en gouttelettes accrochées aux poils de la mère que les petits ornithorynques lèchent quand leur mère est étendue sur le dos. Les jeunes vont ainsi passer 3 à 4 mois avec elle. Pendant toute la période d'incubation et les premières semaines d'allaitement, la femelle ne quitte son nid que pendant de courtes périodes pour aller se nourrir. En sortant de sa tanière, elle forme sur le trajet du tunnel plusieurs bouchons de terre qui ont certainement pour rôle de protéger les petits des prédateurs. Lorsqu'elle revient, elle doit les défaire et ce faisant, elle sèche sa fourrure, ce qui permet de maintenir le nid au sec. Au bout de 5 semaines, la femelle passe de plus en plus de temps hors du nid et, vers 4 mois, les jeunes vont sortir du nid pour la première fois."
+   }
+  ]
+ },
+ "facts": {
+  "f1": {
+   "kind": "date",
+   "value": "2019",
+   "surface": "2019",
+   "sentence": "Bien que les programmes de reproduction en captivité aient eu un succès très limité et qu'il soit sensible aux effets de la pollution, l'espèce n'était pas considérée comme en danger jusque récemment ; depuis 2019, elle est décrite comme « quasi-menacée », et un rapport de l'Australian Conservation Foundation (ACF) (en) de novembre 2020 a recommandé de la classer parmi les espèces menacées en vertu du code EPBC."
+  },
+  "f2": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020",
+   "sentence": "Bien que les programmes de reproduction en captivité aient eu un succès très limité et qu'il soit sensible aux effets de la pollution, l'espèce n'était pas considérée comme en danger jusque récemment ; depuis 2019, elle est décrite comme « quasi-menacée », et un rapport de l'Australian Conservation Foundation (ACF) (en) de novembre 2020 a recommandé de la classer parmi les espèces menacées en vertu du code EPBC."
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1797",
+   "surface": "1797",
+   "sentence": "Quand le premier ornithorynque fut rencontré par les Européens en 1797, le gouverneur de Nouvelle-Galles du Sud, le capitaine John Hunter, en fit envoyer un pelage et des dessins en Grande-Bretagne.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f4": {
+   "kind": "date",
+   "value": "1799",
+   "surface": "1799",
+   "sentence": "George Kearsley Shaw, qui fit la première description de l’animal dans le Naturalist’s Miscellany en 1799, expliquait qu’il était impossible de ne pas avoir de doute sur l’existence réelle de l’animal et Robert Knox croyait qu’il s’agissait d’un montage, œuvre d’un taxidermiste asiatique.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f5": {
+   "kind": "date",
+   "value": "1800",
+   "surface": "1800",
+   "sentence": "Un autre zoologiste, Johann Friedrich Blumenbach, qui avait reçu également un animal de la part de Joseph Banks, lui avait donné en parallèle un nom différent en 1800 : Ornithorhynchus paradoxus, et il fut finalement appelé Ornithorhynchus anatinus.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1803",
+   "surface": "1803",
+   "sentence": "Le mot a ensuite été francisé avec une graphie longtemps instable : « ornithoringue » en 1803 chez Faujas de Saint-Fond, « ornithorhynque » (graphie la plus étymologique) chez Georges Cuvier en 1805 dans ses Leçons d'anatomie comparée, qui l'orthographie cependant « ornithorinque » 136 pages plus loin.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1805",
+   "surface": "1805",
+   "sentence": "Le mot a ensuite été francisé avec une graphie longtemps instable : « ornithoringue » en 1803 chez Faujas de Saint-Fond, « ornithorhynque » (graphie la plus étymologique) chez Georges Cuvier en 1805 dans ses Leçons d'anatomie comparée, qui l'orthographie cependant « ornithorinque » 136 pages plus loin.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f8": {
+   "kind": "number",
+   "value": 136,
+   "surface": "136",
+   "sentence": "Le mot a ensuite été francisé avec une graphie longtemps instable : « ornithoringue » en 1803 chez Faujas de Saint-Fond, « ornithorhynque » (graphie la plus étymologique) chez Georges Cuvier en 1805 dans ses Leçons d'anatomie comparée, qui l'orthographie cependant « ornithorinque » 136 pages plus loin.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1939",
+   "surface": "1939",
+   "sentence": "Le monde entier ne découvrit l’ornithorynque qu’en 1939 quand le magazine National Geographic publia un article décrivant les efforts pour l’étudier et le maintenir en captivité (tâche très difficile : le premier lieu où il a survécu — et toujours un des seuls — est la réserve d'Healesville au Victoria).",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f10": {
+   "kind": "date",
+   "value": "1943",
+   "surface": "1943",
+   "sentence": "Bien peu de jeunes ont pu être élevés jusqu’à présent : la première portée née en captivité date de 1943.",
+   "section": "Taxonomie, dénominations et étymologie"
+  },
+  "f11": {
+   "kind": "number",
+   "value": 0.7,
+   "surface": "0,7",
+   "sentence": "L'ornithorynque a une masse corporelle très variable allant de 0,7 à 2,4 kilogrammes, les mâles étant habituellement d'un tiers plus gros que les femelles.",
+   "section": "Description"
+  },
+  "f12": {
+   "kind": "measure",
+   "value": 2.4,
+   "unit": "kilogrammes",
+   "surface": "2,4 kilogrammes",
+   "sentence": "L'ornithorynque a une masse corporelle très variable allant de 0,7 à 2,4 kilogrammes, les mâles étant habituellement d'un tiers plus gros que les femelles.",
+   "section": "Description"
+  },
+  "f13": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "La taille totale, entre 40 et 50 centimètres en moyenne, varie considérablement d'une région à l'autre, sans qu'elle soit liée au climat.",
+   "section": "Description"
+  },
+  "f14": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "centimètres",
+   "surface": "50 centimètres",
+   "sentence": "La taille totale, entre 40 et 50 centimètres en moyenne, varie considérablement d'une région à l'autre, sans qu'elle soit liée au climat.",
+   "section": "Description"
+  },
+  "f15": {
+   "kind": "measure",
+   "value": 12,
+   "unit": "cm",
+   "surface": "12 cm",
+   "sentence": "La queue mesure 12 cm et la mâchoire 6 cm.",
+   "section": "Description"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 6,
+   "unit": "cm",
+   "surface": "6 cm",
+   "sentence": "La queue mesure 12 cm et la mâchoire 6 cm.",
+   "section": "Description"
+  },
+  "f17": {
+   "kind": "number",
+   "value": 31,
+   "surface": "31",
+   "sentence": "L'ornithorynque est un animal homéotherme dont la température corporelle moyenne est de 31–32 °C contre 37 °C en moyenne chez les mammifères placentaires.",
+   "section": "Description"
+  },
+  "f18": {
+   "kind": "measure",
+   "value": 32,
+   "unit": "°c",
+   "surface": "32 °C",
+   "sentence": "L'ornithorynque est un animal homéotherme dont la température corporelle moyenne est de 31–32 °C contre 37 °C en moyenne chez les mammifères placentaires.",
+   "section": "Description"
+  },
+  "f19": {
+   "kind": "measure",
+   "value": 37,
+   "unit": "°c",
+   "surface": "37 °C",
+   "sentence": "L'ornithorynque est un animal homéotherme dont la température corporelle moyenne est de 31–32 °C contre 37 °C en moyenne chez les mammifères placentaires.",
+   "section": "Description"
+  },
+  "f20": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Les jeunes ornithorynques ont des molaires à 3 cuspides qu'ils perdent au moment de quitter le nid et les adultes disposent de blocs de kératine pour les remplacer ; la mâchoire de l'ornithorynque est faite de façon différente de celle des autres mammifères et le muscle chargé de son ouverture est dissemblable.",
+   "section": "Description"
+  },
+  "f21": {
+   "kind": "number",
+   "value": 15,
+   "surface": "15",
+   "sentence": "Les jeunes et les ornithorynques mâles portent des aiguillons venimeux de 15 millimètres de long aux chevilles reliés à une glande située dans la cuisse, appelée glande crurale.",
+   "section": "Description"
+  },
+  "f22": {
+   "kind": "number",
+   "value": 31,
+   "surface": "31",
+   "sentence": "La durée moyenne de plongée de l'animal est de 31 à 35 secondes, la plus longue plongée observée a été de 138 secondes soit plus de deux minutes.",
+   "section": "Description"
+  },
+  "f23": {
+   "kind": "number",
+   "value": 35,
+   "surface": "35",
+   "sentence": "La durée moyenne de plongée de l'animal est de 31 à 35 secondes, la plus longue plongée observée a été de 138 secondes soit plus de deux minutes.",
+   "section": "Description"
+  },
+  "f24": {
+   "kind": "number",
+   "value": 138,
+   "surface": "138",
+   "sentence": "La durée moyenne de plongée de l'animal est de 31 à 35 secondes, la plus longue plongée observée a été de 138 secondes soit plus de deux minutes.",
+   "section": "Description"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 1.3,
+   "unit": "mètre",
+   "surface": "1,3 mètre",
+   "sentence": "L'animal plonge en moyenne à 1,3 mètre et un record à 8 mètres a été établi.",
+   "section": "Description"
+  },
+  "f26": {
+   "kind": "measure",
+   "value": 8,
+   "unit": "mètres",
+   "surface": "8 mètres",
+   "sentence": "L'animal plonge en moyenne à 1,3 mètre et un record à 8 mètres a été établi.",
+   "section": "Description"
+  },
+  "f27": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "%",
+   "surface": "20 %",
+   "sentence": "L'ornithorynque est un animal carnivore qui a besoin de consommer tous les jours l'équivalent en nourriture de 20 % de sa masse corporelle, soit entre 200 et 500 grammes, ce qui lui demande de passer en moyenne douze heures par jour dans l'eau pour cette activité.",
+   "section": "Environnement et comportement"
+  },
+  "f28": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200",
+   "sentence": "L'ornithorynque est un animal carnivore qui a besoin de consommer tous les jours l'équivalent en nourriture de 20 % de sa masse corporelle, soit entre 200 et 500 grammes, ce qui lui demande de passer en moyenne douze heures par jour dans l'eau pour cette activité.",
+   "section": "Environnement et comportement"
+  },
+  "f29": {
+   "kind": "measure",
+   "value": 500,
+   "unit": "grammes",
+   "surface": "500 grammes",
+   "sentence": "L'ornithorynque est un animal carnivore qui a besoin de consommer tous les jours l'équivalent en nourriture de 20 % de sa masse corporelle, soit entre 200 et 500 grammes, ce qui lui demande de passer en moyenne douze heures par jour dans l'eau pour cette activité.",
+   "section": "Environnement et comportement"
+  },
+  "f30": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "En captivité, l'ornithorynque peut vivre jusqu'à vingt-et-un ans et dans la nature, son espérance de vie est comprise entre 10 et 15 ans.",
+   "section": "Environnement et comportement"
+  },
+  "f31": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "ans",
+   "surface": "15 ans",
+   "sentence": "En captivité, l'ornithorynque peut vivre jusqu'à vingt-et-un ans et dans la nature, son espérance de vie est comprise entre 10 et 15 ans.",
+   "section": "Environnement et comportement"
+  },
+  "f32": {
+   "kind": "measure",
+   "value": 7,
+   "unit": "kilomètres",
+   "surface": "7 kilomètres",
+   "sentence": "Un mâle peut ainsi posséder jusqu'à 7 kilomètres (4,4 miles) de berges qu'il partage avec 3 à 4 femelles.",
+   "section": "Environnement et comportement"
+  },
+  "f33": {
+   "kind": "measure",
+   "value": 4.4,
+   "unit": "miles",
+   "surface": "4,4 miles",
+   "sentence": "Un mâle peut ainsi posséder jusqu'à 7 kilomètres (4,4 miles) de berges qu'il partage avec 3 à 4 femelles.",
+   "section": "Environnement et comportement"
+  },
+  "f34": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Un mâle peut ainsi posséder jusqu'à 7 kilomètres (4,4 miles) de berges qu'il partage avec 3 à 4 femelles.",
+   "section": "Environnement et comportement"
+  },
+  "f35": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Un mâle peut ainsi posséder jusqu'à 7 kilomètres (4,4 miles) de berges qu'il partage avec 3 à 4 femelles.",
+   "section": "Environnement et comportement"
+  },
+  "f36": {
+   "kind": "measure",
+   "value": 5,
+   "unit": "°c",
+   "surface": "5 °C",
+   "sentence": "Bien qu'il passe des heures entières à fourrager dans une eau à moins de 5 °C, c'est un animal homéotherme qui maintient la température de son corps à 31 °C.",
+   "section": "Environnement et comportement"
+  },
+  "f37": {
+   "kind": "measure",
+   "value": 31,
+   "unit": "°c",
+   "surface": "31 °C",
+   "sentence": "Bien qu'il passe des heures entières à fourrager dans une eau à moins de 5 °C, c'est un animal homéotherme qui maintient la température de son corps à 31 °C.",
+   "section": "Environnement et comportement"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 30,
+   "surface": "30",
+   "sentence": "Il plonge pendant 30 secondes environ et ne peut pas dépasser 40 secondes sous l'eau lorsqu'il recherche de la nourriture, mais il pourrait y rester jusqu'à 11 minutes (3 minutes en moyenne) au repos.",
+   "section": "Environnement et comportement"
+  },
+  "f39": {
+   "kind": "number",
+   "value": 40,
+   "surface": "40",
+   "sentence": "Il plonge pendant 30 secondes environ et ne peut pas dépasser 40 secondes sous l'eau lorsqu'il recherche de la nourriture, mais il pourrait y rester jusqu'à 11 minutes (3 minutes en moyenne) au repos.",
+   "section": "Environnement et comportement"
+  },
+  "f40": {
+   "kind": "number",
+   "value": 11,
+   "surface": "11",
+   "sentence": "Il plonge pendant 30 secondes environ et ne peut pas dépasser 40 secondes sous l'eau lorsqu'il recherche de la nourriture, mais il pourrait y rester jusqu'à 11 minutes (3 minutes en moyenne) au repos.",
+   "section": "Environnement et comportement"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Il plonge pendant 30 secondes environ et ne peut pas dépasser 40 secondes sous l'eau lorsqu'il recherche de la nourriture, mais il pourrait y rester jusqu'à 11 minutes (3 minutes en moyenne) au repos.",
+   "section": "Environnement et comportement"
+  },
+  "f42": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Il a besoin de 10 à 20 secondes de récupération en surface avant de replonger, mais il n'y a pas de relation entre le temps de plongée et le temps de récupération.",
+   "section": "Environnement et comportement"
+  },
+  "f43": {
+   "kind": "number",
+   "value": 20,
+   "surface": "20",
+   "sentence": "Il a besoin de 10 à 20 secondes de récupération en surface avant de replonger, mais il n'y a pas de relation entre le temps de plongée et le temps de récupération.",
+   "section": "Environnement et comportement"
+  },
+  "f44": {
+   "kind": "date",
+   "value": "1884",
+   "surface": "1884",
+   "sentence": "On le suspecta assez rapidement, mais le fait ne fut confirmé qu'en 1884 quand W. H. Caldwell fut envoyé en Australie pour vérifier cela, et que, après d'intensives recherches menées par 150 Aborigènes, il put découvrir quelques œufs.",
+   "section": "Environnement et comportement"
+  },
+  "f45": {
+   "kind": "number",
+   "value": 150,
+   "surface": "150",
+   "sentence": "On le suspecta assez rapidement, mais le fait ne fut confirmé qu'en 1884 quand W. H. Caldwell fut envoyé en Australie pour vérifier cela, et que, après d'intensives recherches menées par 150 Aborigènes, il put découvrir quelques œufs.",
+   "section": "Environnement et comportement"
+  },
+  "f46": {
+   "kind": "measure",
+   "value": 2,
+   "unit": "ans",
+   "surface": "2 ans",
+   "sentence": "L'ornithorynque atteint sa maturité sexuelle vers l'âge de 2 ans et n'a qu'une saison des amours par an avec un accouplement entre juin et octobre ; on observe quelques variations dans les dates suivant les régions.",
+   "section": "Environnement et comportement"
+  },
+  "f47": {
+   "kind": "measure",
+   "value": 9,
+   "unit": "ans",
+   "surface": "9 ans",
+   "sentence": "Les femelles deviennent matures leur deuxième année et la période de fécondité dure plus de 9 ans.",
+   "section": "Environnement et comportement"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "cm",
+   "surface": "30 cm",
+   "sentence": "En dehors de la période des amours, l'ornithorynque vit dans un simple terrier creusé dans la berge d'un cours d'eau, dont l'entrée est située à environ 30 cm au-dessus de la surface de l'eau.",
+   "section": "Environnement et comportement"
+  },
+  "f49": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "m",
+   "surface": "20 m",
+   "sentence": "Après l'accouplement, la femelle construit un terrier situé plus au-dessus de la surface de l'eau, beaucoup plus profond – pouvant atteindre 20 m de long – et entrecoupé de bouchons de terre par intervalles (qui servent probablement de sécurité contre une montée des eaux et contre la venue de prédateurs, tout en régulant la température et l'humidité du nid).",
+   "section": "Environnement et comportement"
+  },
+  "f50": {
+   "kind": "number",
+   "value": 1,
+   "surface": "1",
+   "sentence": "Elle pond de 1 à 3 œufs (le plus souvent 2) à la coquille cuirassée comme les œufs de reptiles, mesurant 11 mm de diamètre et légèrement plus sphériques que les œufs d'oiseaux.",
+   "section": "Environnement et comportement"
+  },
+  "f51": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Elle pond de 1 à 3 œufs (le plus souvent 2) à la coquille cuirassée comme les œufs de reptiles, mesurant 11 mm de diamètre et légèrement plus sphériques que les œufs d'oiseaux.",
+   "section": "Environnement et comportement"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 2,
+   "surface": "2",
+   "sentence": "Elle pond de 1 à 3 œufs (le plus souvent 2) à la coquille cuirassée comme les œufs de reptiles, mesurant 11 mm de diamètre et légèrement plus sphériques que les œufs d'oiseaux.",
+   "section": "Environnement et comportement"
+  },
+  "f53": {
+   "kind": "measure",
+   "value": 11,
+   "unit": "mm",
+   "surface": "11 mm",
+   "sentence": "Elle pond de 1 à 3 œufs (le plus souvent 2) à la coquille cuirassée comme les œufs de reptiles, mesurant 11 mm de diamètre et légèrement plus sphériques que les œufs d'oiseaux.",
+   "section": "Environnement et comportement"
+  },
+  "f54": {
+   "kind": "number",
+   "value": 28,
+   "surface": "28",
+   "sentence": "Les œufs se développent dans l'utérus pendant 28 jours (à la différence des oiseaux où ils ne restent qu'un jour) et sont incubés ensuite pendant 10 jours par la mère qui se roule en boule autour d'eux (contre une vingtaine de jours chez les oiseaux).",
+   "section": "Environnement et comportement"
+  },
+  "f55": {
+   "kind": "number",
+   "value": 10,
+   "surface": "10",
+   "sentence": "Les œufs se développent dans l'utérus pendant 28 jours (à la différence des oiseaux où ils ne restent qu'un jour) et sont incubés ensuite pendant 10 jours par la mère qui se roule en boule autour d'eux (contre une vingtaine de jours chez les oiseaux).",
+   "section": "Environnement et comportement"
+  },
+  "f56": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Traditionnellement, on divise la période d'incubation en 3 périodes :\npendant la 1re, l'embryon n'a pas d'organe fonctionnel et il se nourrit du vitellus;\npendant la 2e, il développe ses doigts;\ndurant la 3e se forme le diamant qui permettra au jeune de casser sa coquille pour en sortir.",
+   "section": "Environnement et comportement"
+  },
+  "f57": {
+   "kind": "number",
+   "value": 3,
+   "surface": "3",
+   "sentence": "Les jeunes vont ainsi passer 3 à 4 mois avec elle.",
+   "section": "Environnement et comportement"
+  },
+  "f58": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Les jeunes vont ainsi passer 3 à 4 mois avec elle.",
+   "section": "Environnement et comportement"
+  },
+  "f59": {
+   "kind": "number",
+   "value": 5,
+   "surface": "5",
+   "sentence": "Au bout de 5 semaines, la femelle passe de plus en plus de temps hors du nid et, vers 4 mois, les jeunes vont sortir du nid pour la première fois.",
+   "section": "Environnement et comportement"
+  },
+  "f60": {
+   "kind": "number",
+   "value": 4,
+   "surface": "4",
+   "sentence": "Au bout de 5 semaines, la femelle passe de plus en plus de temps hors du nid et, vers 4 mois, les jeunes vont sortir du nid pour la première fois.",
+   "section": "Environnement et comportement"
+  }
+ },
+ "images": {
+  "img1": {
+   "file": "File:Ornithorhynchus.jpg",
+   "w": 1781,
+   "h": 1860,
+   "alt": "Ornithorynque",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ornithorhynchus.jpg/960px-Ornithorhynchus.jpg",
+   "sha1": "6048c2073c9cfb98377d36e434cb5ea33b92832d",
+   "credit": {
+    "author": "Dr. Philip Bethge",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ornithorhynchus.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "categories": [
+  "Animal venimeux",
+  "Faune endémique d'Australie",
+  "Mammifère (nom vernaculaire)",
+  "Mammifère aquatique",
+  "Mammifère dont le génome est séquencé",
+  "Mammifère décrit en 1799",
+  "Monotremata",
+  "Statut UICN Quasi menacé",
+  "Taxon décrit en 1800",
+  "Taxon décrit par George Kearsley Shaw"
+ ]
+}
