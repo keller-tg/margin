@@ -25,7 +25,7 @@ These override anything in the plan below that says otherwise.
    - Image metadata comes through the language editions' Action API (`prop=pageimages|imageinfo` with `extmetadata`), never from commons.wikimedia.org directly. Titles are batched (at most 50 per request), requests run sequentially with a descriptive User-Agent and `maxlag`, and `Retry-After` is honored on 429.
    - Every API response is cached to disk and committed (`content/cache/api/`), so each item is fetched once, ever. Tests use clearly marked fixtures only (`fixtures/`). The only live Wikimedia call at runtime is in the visitor's browser, and only if truly needed.
    - License URL: required for CC BY / CC BY-SA. It may be empty for Public domain / CC0, and the credit then links the Commons file page. A URL is never invented.
-   - Author: the cleaned first line of Artist. If that is empty or over 80 characters, fall back to the uploader's username. Reject the image only if both fail. Every fallback and rejection is logged.
+   - Author: the cleaned first line of Artist. If that is empty or over 80 characters, fall back to the uploader's username (the *original* uploader from the file history; bots never count). Reject the image only if both fail. Every fallback and rejection is logged.
    - Attribution: the uploader's Attribution text verbatim if present, otherwise author + license + file page. `AttributionRequired` is stored. All API strings are untrusted and rendered as plain text.
    - A topic with no free lead image in one edition takes the image from another edition or from Wikidata P18. It is dropped only if no free image exists anywhere.
    - /about says that images may be cropped, resized, rotated or animated for display.

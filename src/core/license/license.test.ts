@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import recorded from '../../../fixtures/wikimedia/imageinfo.recorded.json';
-import { classifyLicense, cleanAuthor, creditLine, evaluateImage, type ImageInfo } from './license';
+import { classifyLicense, cleanAuthor, creditLine, evaluateImage, isBotAccount, type ImageInfo } from './license';
 
 // RECORDED FIXTURE: real imageinfo responses from en/de/fr.wikipedia.org (see fixtures/README.md).
 const pages = recorded.pages as unknown as ImageInfo[];
@@ -47,6 +47,13 @@ describe('cleanAuthor', () => {
   });
 });
 
+describe('isBotAccount', () => {
+  it('knows bots from people', () => {
+    for (const b of ['Rotatebot', 'Topjabot', 'FlickreviewR', 'File Upload Bot (Magnus Manske)', 'CropBot']) expect(isBotAccount(b)).toBe(true);
+    for (const h of ['Fæ', 'Jastrow', 'Abbott Lab', 'Benh']) expect(isBotAccount(h)).toBe(false);
+  });
+});
+
 describe('evaluateImage (recorded responses)', () => {
   it('CC BY-SA with a license URL', () => {
     const v = evaluateImage(byName('Octopus2'));
@@ -82,6 +89,15 @@ describe('evaluateImage (recorded responses)', () => {
     p.imageinfo![0]!.user = 'Albert kok';
     const v = evaluateImage(p);
     expect(v.ok && v.record.credit).toMatchObject({ author: 'Albert kok', authorSource: 'uploader' });
+  });
+  it('uses the original uploader when given, and never a bot', () => {
+    const p = byName('Octopus2');
+    ext(p).Artist = { value: '' }; // HANDMADE EDIT
+    p.imageinfo![0]!.user = 'Rotatebot';
+    expect(evaluateImage(p).ok).toBe(false); // latest uploader is a bot → both fail
+    const v = evaluateImage(p, { originalUploader: 'Albert kok' });
+    expect(v.ok && v.record.credit).toMatchObject({ author: 'Albert kok', authorSource: 'uploader' });
+    expect(evaluateImage(p, { originalUploader: 'FlickreviewR' }).ok).toBe(false);
   });
   it('rejects only when artist and uploader both fail', () => {
     const p = byName('Octopus2');

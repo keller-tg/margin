@@ -32,3 +32,11 @@ describe('periods', () => {
     expect(romanToInt('XIV')).toBe(14);
   });
 });
+
+describe('numbers glued to letters are not numbers', () => {
+  it('ignores ordinals, decades and identifiers', () => {
+    expect(findNumbers('in the 19th century', 'en')).toEqual([]);
+    expect(findNumbers('in the early 1930s', 'en')).toEqual([]);
+    expect(findNumbers('the A380 and COVID-19', 'en').filter((h) => h.value === 380)).toEqual([]);
+  });
+});

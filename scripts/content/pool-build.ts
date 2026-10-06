@@ -16,7 +16,7 @@
 //   6. choose each topic's image per language: own edition → other editions → Wikidata P18
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { evaluateImage, canonicalFileTitle, type ImageVerdict, type ImageRecord } from '../../src/core/license/license';
+import { evaluateImage, canonicalFileTitle, isBotAccount, type ImageVerdict, type ImageRecord } from '../../src/core/license/license';
 import type { Domain } from '../../src/core/schema/thing';
 import { classify } from './config/domains';
 import { actionApi, actionQueryAll, batches, sparql, stats, titleBatches, type WikiLang } from './lib/wiki';
@@ -163,6 +163,7 @@ const EXTMETA = 'LicenseShortName|LicenseUrl|Artist|Credit|Attribution|Attributi
 
 async function imageVerdicts(files: string[]): Promise<Map<string, ImageVerdict>> {
   const out = new Map<string, ImageVerdict>();
+  const infos = new Map<string, Parameters<typeof evaluateImage>[0]>();
   const all = titleBatches(files);
   let i = 0;
   for (const b of all) {
@@ -178,6 +179,30 @@ async function imageVerdicts(files: string[]): Promise<Map<string, ImageVerdict>
     for (const f of b) {
       const p = byTitle.get(alias.get(f) ?? f);
       out.set(f, p ? evaluateImage(p) : { ok: false, file: f, reason: 'missing', events: [] });
+      if (p) infos.set(f, p);
+    }
+  }
+
+  // Author fell back to the uploader: use the uploader of the FIRST version (the latest one is often
+  // a rotate/crop/review bot), from the file history. Bots never count as authors.
+  const fallback = [...out].filter(([, v]) => v.events.includes('author-uploader-fallback')).map(([f]) => f);
+  progress(`  ${fallback.length} files use the uploader fallback; fetching their original uploaders`);
+  const all2 = titleBatches(fallback);
+  let j = 0;
+  for (const b of all2) {
+    if (++j % 10 === 0) progress(`  history ${j}/${all2.length}`);
+    const { pages, raw } = await actionQueryAll('en', { titles: b.join('|'), prop: 'imageinfo', iiprop: 'user|timestamp', iilimit: 'max' });
+    const alias = new Map<string, string>();
+    for (const r of raw) for (const n of r.query?.normalized ?? []) alias.set(n.from, n.to);
+    const byTitle = new Map(pages.map((p) => [p.title as string, p]));
+    for (const f of b) {
+      const versions: { user?: string; timestamp?: string }[] = byTitle.get(alias.get(f) ?? f)?.imageinfo ?? [];
+      const first = [...versions].sort((a, c) => (a.timestamp ?? '').localeCompare(c.timestamp ?? ''))[0];
+      const latest = infos.get(f);
+      if (!latest) continue;
+      const v = evaluateImage(latest, { originalUploader: first?.user ?? null });
+      if (first?.user && isBotAccount(first.user)) v.events.push('author-uploader-is-bot');
+      out.set(f, v);
     }
   }
   return out;

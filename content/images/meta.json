@@ -2348,7 +2348,7 @@
    "height": 1171
   },
   "credit": {
-   "author": "Joalbertine",
+   "author": "GordonGlottal",
    "authorSource": "uploader",
    "license": "CC0",
    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -7545,7 +7545,7 @@
    "height": 721
   },
   "credit": {
-   "author": "Dragons flight",
+   "author": "Saperaud~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -8221,7 +8221,7 @@
    "height": 1409
   },
   "credit": {
-   "author": "Soerfm",
+   "author": "Gernot Keller",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -13198,7 +13198,7 @@
    "height": 666
   },
   "credit": {
-   "author": "Holger.Ellgaard",
+   "author": "Soebe",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -13673,30 +13673,10 @@
   }
  },
  "File:5560989059 4099322358 bMicroscopeElectronique.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:5560989059 4099322358 bMicroscopeElectronique.jpg",
-  "width": 4288,
-  "height": 3216,
-  "mime": "image/jpeg",
-  "sha1": "f6a1f098195c1fd4dbd4f45ebb2e1b71ed05128c",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/5560989059_4099322358_bMicroscopeElectronique.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/5560989059_4099322358_bMicroscopeElectronique.jpg/960px-5560989059_4099322358_bMicroscopeElectronique.jpg",
-   "width": 960,
-   "height": 720
-  },
-  "credit": {
-   "author": "FlickreviewR",
-   "authorSource": "uploader",
-   "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:5560989059_4099322358_bMicroscopeElectronique.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:55936-Lijiang (27941831943).jpg": {
   "ok": true,
@@ -14295,7 +14275,7 @@
    "height": 742
   },
   "credit": {
-   "author": "Lucquessoy",
+   "author": "Marshallsumter",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -14837,7 +14817,7 @@
    "height": 773
   },
   "credit": {
-   "author": "Mike Rosoft",
+   "author": "Fæ",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -15699,7 +15679,7 @@
    "height": 665
   },
   "credit": {
-   "author": "MPF",
+   "author": "Fæ",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -17719,7 +17699,7 @@
    "height": 1029
   },
   "credit": {
-   "author": "Huntster",
+   "author": "Tom",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -18862,7 +18842,7 @@
    "height": 713
   },
   "credit": {
-   "author": "Time3000~commonswiki",
+   "author": "Benjah-bmm27",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -19952,7 +19932,7 @@
    "height": 1433
   },
   "credit": {
-   "author": "Protonk",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -21051,7 +21031,7 @@
    "height": 761
   },
   "credit": {
-   "author": "Verdy p",
+   "author": "AxelBoldt",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -21122,7 +21102,7 @@
    "height": 1290
   },
   "credit": {
-   "author": "קודקוד צהוב",
+   "author": "Koko~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -24091,7 +24071,7 @@
    "height": 735
   },
   "credit": {
-   "author": "Plugwash~commonswiki",
+   "author": "燈馬想~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -24124,7 +24104,7 @@
    "height": 948
   },
   "credit": {
-   "author": "Mharrsch",
+   "author": "Apollomelos~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -24815,7 +24795,7 @@
    "height": 1046
   },
   "credit": {
-   "author": "Leinad-Z~commonswiki",
+   "author": "EugeneZelenko",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -26589,31 +26569,13 @@
   }
  },
  "File:Alexander-fleming.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Alexander-fleming.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Alexander-fleming.jpg",
-  "width": 1176,
-  "height": 1705,
-  "mime": "image/jpeg",
-  "sha1": "51a6f2a79b3267d11265e781019597a5b6f8b83c",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alexander-fleming.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Alexander-fleming.jpg/960px-Alexander-fleming.jpg",
-   "width": 960,
-   "height": 1392
-  },
-  "credit": {
-   "author": "1Veertje",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Alexander-fleming.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Alexander-Island.jpg": {
   "ok": true,
@@ -29664,7 +29626,7 @@
    "height": 735
   },
   "credit": {
-   "author": "0m9Ep",
+   "author": "HenryLi",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -31359,7 +31321,7 @@
    "height": 1315
   },
   "credit": {
-   "author": "Hedwig in Washington",
+   "author": "Fanghong",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -32556,7 +32518,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "User-duck",
+   "author": "Fæ",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -32907,7 +32869,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Weblars",
+   "author": "Richard Bartz",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -34760,7 +34722,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Aero BSC",
+   "author": "Peo~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -35387,7 +35349,7 @@
    "height": 1536
   },
   "credit": {
-   "author": "T3ru",
+   "author": "Mrlopez2681",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -35414,7 +35376,7 @@
    "height": 1502
   },
   "credit": {
-   "author": "Bogomolov.PL",
+   "author": "Torvindus~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -36113,7 +36075,7 @@
    "height": 652
   },
   "credit": {
-   "author": "Biopics",
+   "author": "Uwe kils",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -36165,7 +36127,7 @@
    "height": 592
   },
   "credit": {
-   "author": "Cmdrjameson",
+   "author": "Hgrobe",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -37624,7 +37586,7 @@
    "height": 649
   },
   "credit": {
-   "author": "Hic et nunc",
+   "author": "Rbrausse",
    "authorSource": "uploader",
    "license": "CC BY 3.0 us",
    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
@@ -38833,7 +38795,7 @@
    "height": 513
   },
   "credit": {
-   "author": "Maphobbyist",
+   "author": "GifTagger",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -40905,7 +40867,7 @@
    "height": 1348
   },
   "credit": {
-   "author": "Aavindraa",
+   "author": "Tomisti",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -41400,7 +41362,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Xiong Chiamiov",
+   "author": "Meelar",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -42577,31 +42539,12 @@
   }
  },
  "File:Artischocketoskana.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Artischocketoskana.jpg",
-  "width": 1944,
-  "height": 2592,
-  "mime": "image/jpeg",
-  "sha1": "b1e184682aab669e6b33776d2bf3ffa5624d1c65",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Artischocketoskana.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Artischocketoskana.jpg/960px-Artischocketoskana.jpg",
-   "width": 960,
-   "height": 1280
-  },
-  "credit": {
-   "author": "Rotatebot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Artischocketoskana.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Artist Concept Planetary System.jpg": {
   "ok": true,
@@ -43950,7 +43893,7 @@
    "height": 1365
   },
   "credit": {
-   "author": "Rainer Zenz",
+   "author": "Renamed user 34971c6624b373bd32a0c14b61407ac8",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -44532,7 +44475,7 @@
    "height": 1227
   },
   "credit": {
-   "author": "Rainer Zenz",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -47832,7 +47775,7 @@
    "height": 722
   },
   "credit": {
-   "author": "Velatrix",
+   "author": "Profberger",
    "authorSource": "uploader",
    "license": "CC BY-SA 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -47891,7 +47834,7 @@
    "height": 573
   },
   "credit": {
-   "author": "Von Sprat",
+   "author": "Oudeís",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -49429,7 +49372,7 @@
    "height": 628
   },
   "credit": {
-   "author": "ArtMechanic",
+   "author": "Yareite",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -49943,7 +49886,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Ptkfgs",
+   "author": "Boivie",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -50654,7 +50597,7 @@
    "height": 1339
   },
   "credit": {
-   "author": "Nagualdesign",
+   "author": "Senemmar",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -51812,7 +51755,7 @@
    "height": 1360
   },
   "credit": {
-   "author": "DIREKTOR",
+   "author": "Thuresson",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -52665,7 +52608,7 @@
    "height": 637
   },
   "credit": {
-   "author": "ChrisHAu~commonswiki",
+   "author": "Kaihsu",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -53734,7 +53677,7 @@
    "height": 678
   },
   "credit": {
-   "author": "MPF",
+   "author": "Manuel Anastácio",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -53879,7 +53822,7 @@
    "height": 877
   },
   "credit": {
-   "author": "Ras67",
+   "author": "Olaf Studt",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -54186,7 +54129,7 @@
    "height": 721
   },
   "credit": {
-   "author": "Togabi",
+   "author": "MathKnight",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -54213,7 +54156,7 @@
    "height": 626
   },
   "credit": {
-   "author": "Togabi",
+   "author": "Qualc1",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -54290,7 +54233,7 @@
    "height": 638
   },
   "credit": {
-   "author": "Goszei",
+   "author": "KOKUYO",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -55363,7 +55306,7 @@
    "height": 559
   },
   "credit": {
-   "author": "Hailcolombia2009",
+   "author": "Maduixa",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -56082,30 +56025,10 @@
   "events": []
  },
  "File:Bayanzag.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Bayanzag.jpg",
-  "width": 2048,
-  "height": 1536,
-  "mime": "image/jpeg",
-  "sha1": "4b05810c236c233b6aa1097c8035e841180a2153",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bayanzag.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bayanzag.jpg/960px-Bayanzag.jpg",
-   "width": 960,
-   "height": 720
-  },
-  "credit": {
-   "author": "FlickreviewR",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Bayanzag.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Bayes' Theorem 2D.svg": {
   "ok": false,
@@ -60005,7 +59928,7 @@
    "height": 548
   },
   "credit": {
-   "author": "Ubcule",
+   "author": "Grm wnr",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -62819,30 +62742,10 @@
   "events": []
  },
  "File:Bivalvia.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Bivalvia.jpg",
-  "width": 1792,
-  "height": 1608,
-  "mime": "image/jpeg",
-  "sha1": "a95a4c544b876d427b070f2e329da58a8d848785",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bivalvia.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Bivalvia.jpg/960px-Bivalvia.jpg",
-   "width": 960,
-   "height": 861
-  },
-  "credit": {
-   "author": "Rotatebot",
-   "authorSource": "uploader",
-   "license": "CC BY 2.5",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Bivalvia.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:BJO Konzert Phil MR 098.jpg": {
   "ok": true,
@@ -63774,7 +63677,7 @@
    "height": 1143
   },
   "credit": {
-   "author": "UpdateNerd",
+   "author": "Janmad",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -65154,7 +65057,7 @@
    "height": 720
   },
   "credit": {
-   "author": "J. N. Squire",
+   "author": "Andro96~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -68343,7 +68246,7 @@
    "height": 567
   },
   "credit": {
-   "author": "Tiouraren",
+   "author": "Shizhao",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -69492,7 +69395,7 @@
    "height": 720
   },
   "credit": {
-   "author": "User-duck",
+   "author": "Nova",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -73043,7 +72946,7 @@
    "height": 1229
   },
   "credit": {
-   "author": "Ismoon",
+   "author": "Tevaprapas",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -73120,7 +73023,7 @@
    "height": 1123
   },
   "credit": {
-   "author": "Hohum",
+   "author": "GDuwen",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -79304,30 +79207,10 @@
   }
  },
  "File:Captain Condom and Lady Latex comic cover.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Captain Condom and Lady Latex comic cover.jpg",
-  "width": 2382,
-  "height": 2996,
-  "mime": "image/jpeg",
-  "sha1": "8f01dd8a017100683dd8e22f41cc7d08a8418ba3",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Captain_Condom_and_Lady_Latex_comic_cover.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Captain_Condom_and_Lady_Latex_comic_cover.jpg/960px-Captain_Condom_and_Lady_Latex_comic_cover.jpg",
-   "width": 960,
-   "height": 1207
-  },
-  "credit": {
-   "author": "FlickreviewR",
-   "authorSource": "uploader",
-   "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Captain_Condom_and_Lady_Latex_comic_cover.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Captain lemuel gulliver.png": {
   "ok": true,
@@ -79556,7 +79439,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Togabi",
+   "author": "Daiju Azuma",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -81132,7 +81015,7 @@
    "height": 777
   },
   "credit": {
-   "author": "Smooth O",
+   "author": "Jugrü",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -81735,7 +81618,7 @@
    "height": 1327
   },
   "credit": {
-   "author": "Gryffindor",
+   "author": "World Imaging",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -81761,7 +81644,7 @@
    "height": 497
   },
   "credit": {
-   "author": "Mélomène",
+   "author": "Fabienkhan",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -83953,7 +83836,7 @@
    "height": 1070
   },
   "credit": {
-   "author": "Hohum",
+   "author": "B.navez",
    "authorSource": "uploader",
    "license": "CC BY 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
@@ -87030,31 +86913,12 @@
   }
  },
  "File:Chanson \"chant des verriers de la verrerie ouvrière par l’Ami Gérault\" 1 - Archives Nationales - 14AS-132.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Chanson \"chant des verriers de la verrerie ouvrière par l’Ami Gérault\" 1 - Archives Nationales - 14AS-132.jpg",
-  "width": 872,
-  "height": 1280,
-  "mime": "image/jpeg",
-  "sha1": "762684ad4eb9383ff669500e8ce2afe4b4dafcd9",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chanson_%22chant_des_verriers_de_la_verrerie_ouvri%C3%A8re_par_l%E2%80%99Ami_G%C3%A9rault%22_1_-_Archives_Nationales_-_14AS-132.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chanson_%22chant_des_verriers_de_la_verrerie_ouvri%C3%A8re_par_l%E2%80%99Ami_G%C3%A9rault%22_1_-_Archives_Nationales_-_14AS-132.jpg",
-   "width": 960,
-   "height": 1409
-  },
-  "credit": {
-   "author": "ArchivesNationalesBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Chanson_%22chant_des_verriers_de_la_verrerie_ouvri%C3%A8re_par_l%E2%80%99Ami_G%C3%A9rault%22_1_-_Archives_Nationales_-_14AS-132.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Chaos Monster and Sun God.png": {
   "ok": true,
@@ -87783,7 +87647,7 @@
    "height": 1263
   },
   "credit": {
-   "author": "HombreDHojalata",
+   "author": "Beao",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -88111,7 +87975,7 @@
    "height": 1310
   },
   "credit": {
-   "author": "Materialscientist",
+   "author": "Helix84",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -88414,7 +88278,7 @@
    "height": 780
   },
   "credit": {
-   "author": "Julieta39",
+   "author": "Frode Inge Helland",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -88780,7 +88644,7 @@
    "height": 576
   },
   "credit": {
-   "author": "Puffin",
+   "author": "Neutrality",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -90834,7 +90698,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Conscious",
+   "author": "Donut~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -93411,7 +93275,7 @@
    "height": 1120
   },
   "credit": {
-   "author": "Tommy Kronkvist",
+   "author": "BotBln",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -95379,7 +95243,7 @@
    "height": 960
   },
   "credit": {
-   "author": "RP88",
+   "author": "הסיסמא123",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -98430,7 +98294,7 @@
    "height": 602
   },
   "credit": {
-   "author": "ErickTErick",
+   "author": "Madman2001",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -98938,7 +98802,7 @@
    "height": 1435
   },
   "credit": {
-   "author": "Lojwe",
+   "author": "TouchName",
    "authorSource": "uploader",
    "license": "CC BY-SA 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -100993,7 +100857,7 @@
    "height": 612
   },
   "credit": {
-   "author": "Pyb",
+   "author": "PRA",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -101717,7 +101581,7 @@
    "height": 1168
   },
   "credit": {
-   "author": "Soerfm",
+   "author": "Dodo",
    "authorSource": "uploader",
    "license": "CC BY-SA 1.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
@@ -103367,7 +103231,7 @@
    "height": 1436
   },
   "credit": {
-   "author": "1970gemini",
+   "author": "Fanghong",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -104497,7 +104361,7 @@
    "height": 458
   },
   "credit": {
-   "author": "Chiswick Chap",
+   "author": "Manuel Anastácio",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -105196,7 +105060,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Jul059",
+   "author": "AlexeySolodovnikov",
    "authorSource": "uploader",
    "license": "CC BY-SA 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -105856,31 +105720,12 @@
   }
  },
  "File:Cosmic ray event. Photograph taken July 1, 1960. Bubble Chamber-924 - DPLA - 191460725238ea887116556a03df3aba.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Cosmic ray event. Photograph taken July 1, 1960. Bubble Chamber-924 - DPLA - 191460725238ea887116556a03df3aba.jpg",
-  "width": 2250,
-  "height": 3000,
-  "mime": "image/jpeg",
-  "sha1": "209d688acf8f30b31309e12ad07171554372b852",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cosmic_ray_event._Photograph_taken_July_1%2C_1960._Bubble_Chamber-924_-_DPLA_-_191460725238ea887116556a03df3aba.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Cosmic_ray_event._Photograph_taken_July_1%2C_1960._Bubble_Chamber-924_-_DPLA_-_191460725238ea887116556a03df3aba.jpg/960px-Cosmic_ray_event._Photograph_taken_July_1%2C_1960._Bubble_Chamber-924_-_DPLA_-_191460725238ea887116556a03df3aba.jpg",
-   "width": 960,
-   "height": 1280
-  },
-  "credit": {
-   "author": "DPLA bot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Cosmic_ray_event._Photograph_taken_July_1,_1960._Bubble_Chamber-924_-_DPLA_-_191460725238ea887116556a03df3aba.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Cosmic ray flux versus particle energy.svg": {
   "ok": false,
@@ -107660,7 +107505,7 @@
    "height": 1131
   },
   "credit": {
-   "author": "Bogomolov.PL",
+   "author": "120",
    "authorSource": "uploader",
    "license": "CC BY 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
@@ -108798,7 +108643,7 @@
    "height": 687
   },
   "credit": {
-   "author": "MPF",
+   "author": "Manuel Anastácio",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -109937,7 +109782,7 @@
    "height": 720
   },
   "credit": {
-   "author": "H20",
+   "author": "Saperaud~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -110653,30 +110498,10 @@
   "events": []
  },
  "File:Cycas circinalis.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Cycas circinalis.jpg",
-  "width": 1512,
-  "height": 2016,
-  "mime": "image/jpeg",
-  "sha1": "7a056a45b66f663e3b6b3dd64b696c53c36a2a84",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cycas_circinalis.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cycas_circinalis.jpg/960px-Cycas_circinalis.jpg",
-   "width": 960,
-   "height": 1280
-  },
-  "credit": {
-   "author": "Raulbot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Cycas_circinalis.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Cycle eau.png": {
   "ok": false,
@@ -111172,7 +110997,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Hohum",
+   "author": "MPF",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -112711,7 +112536,7 @@
    "height": 720
   },
   "credit": {
-   "author": "McZusatz",
+   "author": "Per Palmkvist Knudsen",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -112937,31 +112762,12 @@
   "events": []
  },
  "File:Danvers State Hospital, Danvers, Massachusetts, Kirkbride Complex, circa 1893.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Danvers State Hospital, Danvers, Massachusetts, Kirkbride Complex, circa 1893.jpg",
-  "width": 1000,
-  "height": 680,
-  "mime": "image/jpeg",
-  "sha1": "3aee6bcc0172066544793fc8b7ac2e496cd8a1d7",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Danvers_State_Hospital%2C_Danvers%2C_Massachusetts%2C_Kirkbride_Complex%2C_circa_1893.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Danvers_State_Hospital%2C_Danvers%2C_Massachusetts%2C_Kirkbride_Complex%2C_circa_1893.jpg/960px-Danvers_State_Hospital%2C_Danvers%2C_Massachusetts%2C_Kirkbride_Complex%2C_circa_1893.jpg",
-   "width": 960,
-   "height": 653
-  },
-  "credit": {
-   "author": "File Upload Bot (Magnus Manske)",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Danvers_State_Hospital,_Danvers,_Massachusetts,_Kirkbride_Complex,_circa_1893.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Dao-caoshu.png": {
   "ok": false,
@@ -115555,7 +115361,7 @@
    "height": 1217
   },
   "credit": {
-   "author": "Pyb",
+   "author": "Shizhao",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -115642,7 +115448,7 @@
    "height": 1406
   },
   "credit": {
-   "author": "Jeff G.",
+   "author": "Quibik",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -116134,7 +115940,7 @@
    "height": 875
   },
   "credit": {
-   "author": "Soerfm",
+   "author": "Hellisp",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -119419,31 +119225,12 @@
   "events": []
  },
  "File:Dietrich Fischer-Dieskau - Buste, face - Baryton allemand - btv1b10219465v.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Dietrich Fischer-Dieskau - Buste, face - Baryton allemand - btv1b10219465v.jpg",
-  "width": 1364,
-  "height": 1892,
-  "mime": "image/jpeg",
-  "sha1": "0f06272ae6561ad369d801190ce4e42ca8548e07",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dietrich_Fischer-Dieskau_-_Buste%2C_face_-_Baryton_allemand_-_btv1b10219465v.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dietrich_Fischer-Dieskau_-_Buste%2C_face_-_Baryton_allemand_-_btv1b10219465v.jpg/960px-Dietrich_Fischer-Dieskau_-_Buste%2C_face_-_Baryton_allemand_-_btv1b10219465v.jpg",
-   "width": 960,
-   "height": 1332
-  },
-  "credit": {
-   "author": "Gzen92Bot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Dietrich_Fischer-Dieskau_-_Buste,_face_-_Baryton_allemand_-_btv1b10219465v.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Difference Between Newtonian and Relativistic Energies at 100% c.jpg": {
   "ok": false,
@@ -120103,7 +119890,7 @@
    "height": 1513
   },
   "credit": {
-   "author": "Leonid 2",
+   "author": "Schutz",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -120130,7 +119917,7 @@
    "height": 1512
   },
   "credit": {
-   "author": "Leonid 2",
+   "author": "Schutz",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -122001,7 +121788,7 @@
    "height": 1340
   },
   "credit": {
-   "author": "D. Benjamin Miller",
+   "author": "Improvist~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0 de",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
@@ -122541,7 +122328,7 @@
    "height": 403
   },
   "credit": {
-   "author": "Paddy.84",
+   "author": "Chstdu",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -127366,7 +127153,7 @@
    "height": 610
   },
   "credit": {
-   "author": "Lushess",
+   "author": "Michael A. F.",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -127443,7 +127230,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Togabi",
+   "author": "M@nt@r~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -127997,7 +127784,7 @@
    "height": 480
   },
   "credit": {
-   "author": "Tholme",
+   "author": "Nk",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -128356,7 +128143,7 @@
    "height": 743
   },
   "credit": {
-   "author": "Poeticbent",
+   "author": "Yellowmellow45~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -128599,7 +128386,7 @@
    "height": 981
   },
   "credit": {
-   "author": "Jacobolus",
+   "author": "Tosha",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -129348,7 +129135,7 @@
    "height": 1344
   },
   "credit": {
-   "author": "Yann",
+   "author": "Scewing",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -130757,7 +130544,7 @@
    "height": 1376
   },
   "credit": {
-   "author": "Fastfission~commonswiki",
+   "author": "BenTels",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -131747,7 +131534,7 @@
    "height": 731
   },
   "credit": {
-   "author": "WolfmanSF",
+   "author": "Nordelch",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -131891,31 +131678,13 @@
   }
  },
  "File:Einstein patentoffice.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Einstein patentoffice.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Einstein patentoffice.jpg",
-  "width": 4360,
-  "height": 5699,
-  "mime": "image/jpeg",
-  "sha1": "7bae6c5610387e4a62ca6f7217eefae1dda6d6dc",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Einstein_patentoffice.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Einstein_patentoffice.jpg/960px-Einstein_patentoffice.jpg",
-   "width": 960,
-   "height": 1255
-  },
-  "credit": {
-   "author": "Hohum",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Einstein_patentoffice.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:EinsteinLeiden4.jpg": {
   "ok": true,
@@ -137535,7 +137304,7 @@
    "height": 1391
   },
   "credit": {
-   "author": "Hohum",
+   "author": "Tomisti",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -138259,7 +138028,7 @@
    "height": 1331
   },
   "credit": {
-   "author": "Ariadacapo",
+   "author": "Kuebi",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -138441,7 +138210,7 @@
    "height": 638
   },
   "credit": {
-   "author": "Meidosensei",
+   "author": "Mscuthbert",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -139095,7 +138864,7 @@
    "height": 1011
   },
   "credit": {
-   "author": "Pine",
+   "author": "HorsePunchKid",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -139301,30 +139070,10 @@
   }
  },
  "File:Espresso-roasted coffee beans.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Espresso-roasted coffee beans.jpg",
-  "width": 1704,
-  "height": 2272,
-  "mime": "image/jpeg",
-  "sha1": "84de64e9e8f132a0edcda6ab431ffc36f4469985",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Espresso-roasted_coffee_beans.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Espresso-roasted_coffee_beans.jpg/960px-Espresso-roasted_coffee_beans.jpg",
-   "width": 960,
-   "height": 1280
-  },
-  "credit": {
-   "author": "Rotatebot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Espresso-roasted_coffee_beans.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Essais de Montaigne, H. Bossange, t. I, 1828 - titre.jpg": {
   "ok": true,
@@ -139470,7 +139219,7 @@
    "height": 1197
   },
   "credit": {
-   "author": "Howardcorn33",
+   "author": "Davepape",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -140112,7 +139861,7 @@
    "height": 744
   },
   "credit": {
-   "author": "Pittigrilli",
+   "author": "David.Monniaux",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -140347,7 +140096,7 @@
    "height": 746
   },
   "credit": {
-   "author": "Time3000~commonswiki",
+   "author": "Benjah-bmm27",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -140961,7 +140710,7 @@
    "height": 360
   },
   "credit": {
-   "author": "Cmdrjameson",
+   "author": "Peo~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -142205,7 +141954,7 @@
    "height": 754
   },
   "credit": {
-   "author": "Wiki-vr",
+   "author": "Ghalas",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -143139,7 +142888,7 @@
    "height": 1486
   },
   "credit": {
-   "author": "Sciencia58",
+   "author": "Geo-Science-International",
    "authorSource": "uploader",
    "license": "CC BY-SA 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -145394,7 +145143,7 @@
    "height": 1790
   },
   "credit": {
-   "author": "AstresEngine",
+   "author": "Skekzilla",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -147140,7 +146889,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Hohum",
+   "author": "Bierdimpfl~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -147625,7 +147374,7 @@
    "height": 677
   },
   "credit": {
-   "author": "Turn685",
+   "author": "RodrigoSampaioPrimo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -148617,7 +148366,7 @@
    "height": 1070
   },
   "credit": {
-   "author": "Redthoreau",
+   "author": "Ratatosk",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -149340,7 +149089,7 @@
    "height": 1437
   },
   "credit": {
-   "author": "Splintercellguy",
+   "author": "Fanghong",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -151861,7 +151610,7 @@
    "height": 640
   },
   "credit": {
-   "author": "Shebejeyebeb",
+   "author": "Jean Körp",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -153577,7 +153326,7 @@
    "height": 1020
   },
   "credit": {
-   "author": "Ivob",
+   "author": "Zxb",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.0 at",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/at/deed.en",
@@ -154037,30 +153786,10 @@
   }
  },
  "File:Flickr - Nic's events - 2008-04-04 (London, Greenwich and British Museum) - 172.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Flickr - Nic's events - 2008-04-04 (London, Greenwich and British Museum) - 172.jpg",
-  "width": 1024,
-  "height": 680,
-  "mime": "image/jpeg",
-  "sha1": "516135d2c9fd0f02124fb305886fccc4a1430466",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flickr_-_Nic%27s_events_-_2008-04-04_%28London%2C_Greenwich_and_British_Museum%29_-_172.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flickr_-_Nic%27s_events_-_2008-04-04_%28London%2C_Greenwich_and_British_Museum%29_-_172.jpg/960px-Flickr_-_Nic%27s_events_-_2008-04-04_%28London%2C_Greenwich_and_British_Museum%29_-_172.jpg",
-   "width": 960,
-   "height": 638
-  },
-  "credit": {
-   "author": "Dudubot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Nic%27s_events_-_2008-04-04_(London,_Greenwich_and_British_Museum)_-_172.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Flickr - Rainbirder - Golden Jackal (1).jpg": {
   "ok": true,
@@ -154546,7 +154275,7 @@
    "height": 1257
   },
   "credit": {
-   "author": "TaurusEmerald",
+   "author": "Lijealso",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -156794,85 +156523,29 @@
   }
  },
  "File:Fotothek df tg 0000230 Geometrie ^ Trigonometrie.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Fotothek df tg 0000230 Geometrie ^ Trigonometrie.jpg",
-  "width": 800,
-  "height": 503,
-  "mime": "image/jpeg",
-  "sha1": "48489780d542b6a330c2b33d7bc9e3e7264d9d39",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Fotothek_df_tg_0000230_Geometrie_%5E_Trigonometrie.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Fotothek_df_tg_0000230_Geometrie_%5E_Trigonometrie.jpg",
-   "width": 960,
-   "height": 604
-  },
-  "credit": {
-   "author": "FotothekBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0000230_Geometrie_%5E_Trigonometrie.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Fotothek df tg 0002080 Ständebuch ^ Philosoph.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Fotothek df tg 0002080 Ständebuch ^ Philosoph.jpg",
-  "width": 638,
-  "height": 820,
-  "mime": "image/jpeg",
-  "sha1": "494bf55a0fbfc0ad2424fedbd63356acc0eabb0c",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Fotothek_df_tg_0002080_St%C3%A4ndebuch_%5E_Philosoph.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Fotothek_df_tg_0002080_St%C3%A4ndebuch_%5E_Philosoph.jpg",
-   "width": 960,
-   "height": 1234
-  },
-  "credit": {
-   "author": "FotothekBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0002080_St%C3%A4ndebuch_%5E_Philosoph.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Fotothek df tg 0007167 Geometrie ^ Vermessung ^ Instrument.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Fotothek df tg 0007167 Geometrie ^ Vermessung ^ Instrument.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Fotothek df tg 0007167 Geometrie ^ Vermessung ^ Instrument.jpg",
-  "width": 540,
-  "height": 800,
-  "mime": "image/jpeg",
-  "sha1": "52802a67de5baefcdd59e4c5d12d59e8fce7d656",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fotothek_df_tg_0007167_Geometrie_%5E_Vermessung_%5E_Instrument.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fotothek_df_tg_0007167_Geometrie_%5E_Vermessung_%5E_Instrument.jpg",
-   "width": 960,
-   "height": 1422
-  },
-  "credit": {
-   "author": "1970gemini",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0007167_Geometrie_%5E_Vermessung_%5E_Instrument.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Foucault portre crop.jpg": {
   "ok": false,
@@ -157454,7 +157127,7 @@
    "height": 537
   },
   "credit": {
-   "author": "JayCubby",
+   "author": "Guest2625",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -157996,7 +157669,7 @@
    "height": 1224
   },
   "credit": {
-   "author": "Indefatigable2",
+   "author": "Evrik",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -159492,7 +159165,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "Materialscientist",
+   "author": "Stellatomailing",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -160765,7 +160438,7 @@
    "height": 1478
   },
   "credit": {
-   "author": "Soerfm",
+   "author": "AndreasPraefcke",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -162046,7 +161719,7 @@
    "height": 623
   },
   "credit": {
-   "author": "Archaeodontosaurus",
+   "author": "Michael Haferkamp",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -166695,7 +166368,7 @@
    "height": 1048
   },
   "credit": {
-   "author": "Чръный человек",
+   "author": "Ævar Arnfjörð Bjarmason",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -167177,7 +166850,7 @@
    "height": 1352
   },
   "credit": {
-   "author": "Lemuellio",
+   "author": "Charvex",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -167356,7 +167029,7 @@
    "height": 1314
   },
   "credit": {
-   "author": "PawełMM",
+   "author": "Tagishsimon",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -169247,7 +168920,7 @@
    "height": 634
   },
   "credit": {
-   "author": "Xhienne",
+   "author": "Lucero del Alba~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -169446,7 +169119,7 @@
    "height": 1078
   },
   "credit": {
-   "author": "Lasunncty",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -169765,7 +169438,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Kri",
+   "author": "Chris 73",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -170326,7 +169999,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Larrousiney",
+   "author": "Mtu33260",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -170368,31 +170041,13 @@
   "events": []
  },
  "File:Gitanjali title page Rabindranath Tagore.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Gitanjali title page Rabindranath Tagore.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Gitanjali title page Rabindranath Tagore.jpg",
-  "width": 1897,
-  "height": 3226,
-  "mime": "image/jpeg",
-  "sha1": "abbbd56f60f7e275f142594b8363cd7cf527dd15",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gitanjali_title_page_Rabindranath_Tagore.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Gitanjali_title_page_Rabindranath_Tagore.jpg/960px-Gitanjali_title_page_Rabindranath_Tagore.jpg",
-   "width": 960,
-   "height": 1633
-  },
-  "credit": {
-   "author": "Mar11",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Gitanjali_title_page_Rabindranath_Tagore.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:GitaUpadeshTirumala.jpg": {
   "ok": true,
@@ -171949,31 +171604,13 @@
   "events": []
  },
  "File:Godavari satellite view.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Godavari satellite view.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Godavari satellite view.jpg",
-  "width": 5248,
-  "height": 5248,
-  "mime": "image/jpeg",
-  "sha1": "4d93bb8be52cec05b05c3470745ae0974d0da201",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Godavari_satellite_view.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Godavari_satellite_view.jpg/960px-Godavari_satellite_view.jpg",
-   "width": 960,
-   "height": 960
-  },
-  "credit": {
-   "author": "Ras67",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Godavari_satellite_view.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Goddess Parvati and her son Ganesha.jpg": {
   "ok": true,
@@ -172742,31 +172379,12 @@
   }
  },
  "File:Golden rule sign - DPLA - 49f451158847e00398bdb30ef4bf667f.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Golden rule sign - DPLA - 49f451158847e00398bdb30ef4bf667f.jpg",
-  "width": 3812,
-  "height": 2535,
-  "mime": "image/jpeg",
-  "sha1": "f207c807631b9a972b912b85504af01041fa592a",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Golden_rule_sign_-_DPLA_-_49f451158847e00398bdb30ef4bf667f.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Golden_rule_sign_-_DPLA_-_49f451158847e00398bdb30ef4bf667f.jpg/960px-Golden_rule_sign_-_DPLA_-_49f451158847e00398bdb30ef4bf667f.jpg",
-   "width": 960,
-   "height": 638
-  },
-  "credit": {
-   "author": "DPLA bot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Golden_rule_sign_-_DPLA_-_49f451158847e00398bdb30ef4bf667f.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Golden Temple Amritsar Gurudwara (cropped).jpg": {
   "ok": true,
@@ -173368,7 +172986,7 @@
    "height": 638
   },
   "credit": {
-   "author": "Splintercellguy",
+   "author": "Patho",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -176252,7 +175870,7 @@
    "height": 756
   },
   "credit": {
-   "author": "Philafrenzy",
+   "author": "Angusmclellan",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -177787,7 +177405,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "Tangotango",
+   "author": "Tordenkrutt",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -178266,31 +177884,13 @@
   }
  },
  "File:GriffithDW.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:GriffithDW.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:GriffithDW.jpg",
-  "width": 2152,
-  "height": 2867,
-  "mime": "image/jpeg",
-  "sha1": "9cdc2296798cfb099af78c4d98209f1a83399f99",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/GriffithDW.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/GriffithDW.jpg/960px-GriffithDW.jpg",
-   "width": 960,
-   "height": 1279
-  },
-  "credit": {
-   "author": "JayCubby",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:GriffithDW.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Grignotine de poire chocolat.JPG": {
   "ok": true,
@@ -180259,7 +179859,7 @@
    "height": 784
   },
   "credit": {
-   "author": "Justass",
+   "author": "Gengiskanhg",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -180286,7 +179886,7 @@
    "height": 738
   },
   "credit": {
-   "author": "Racconish",
+   "author": "Galileo01",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -180370,30 +179970,10 @@
   }
  },
  "File:Gunshot Fracture of the Left Femur 1863.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Gunshot Fracture of the Left Femur 1863.jpg",
-  "width": 4537,
-  "height": 6609,
-  "mime": "image/jpeg",
-  "sha1": "692a967edc54704c0a81d94f06a0e65fcf4dfe24",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gunshot_Fracture_of_the_Left_Femur_1863.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Gunshot_Fracture_of_the_Left_Femur_1863.jpg/960px-Gunshot_Fracture_of_the_Left_Femur_1863.jpg",
-   "width": 960,
-   "height": 1398
-  },
-  "credit": {
-   "author": "FlickreviewR",
-   "authorSource": "uploader",
-   "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Gunshot_Fracture_of_the_Left_Femur_1863.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Gunung Kongkemul Borneo.png": {
   "ok": true,
@@ -181077,7 +180657,7 @@
    "height": 1220
   },
   "credit": {
-   "author": "Jacek Halicki",
+   "author": "Shizhao",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -183873,7 +183453,7 @@
    "height": 1924
   },
   "credit": {
-   "author": "Shibo77",
+   "author": "Hannah~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -184382,30 +183962,10 @@
   }
  },
  "File:Handtiegelpresse von 1811.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Handtiegelpresse von 1811.jpg",
-  "width": 2304,
-  "height": 3456,
-  "mime": "image/jpeg",
-  "sha1": "f10949ec550f927a800e578e654736c012feae25",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Handtiegelpresse_von_1811.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Handtiegelpresse_von_1811.jpg/960px-Handtiegelpresse_von_1811.jpg",
-   "width": 960,
-   "height": 1440
-  },
-  "credit": {
-   "author": "Rotatebot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Handtiegelpresse_von_1811.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Handwritten Arabic Manuscript of Canon Medicinae - BuAli Sina (Avicenna) Mausoleum - Hamadan - Western Iran (7423558016).jpg": {
   "ok": true,
@@ -189071,7 +188631,7 @@
    "height": 2046
   },
   "credit": {
-   "author": "DIEGO73",
+   "author": "Jastrow",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -190324,7 +189884,7 @@
    "height": 698
   },
   "credit": {
-   "author": "Wuselig",
+   "author": "Stefan-Xp",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -190598,31 +190158,13 @@
   "events": []
  },
  "File:Hieronymus Bosch 051.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Hieronymus Bosch 051.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Hieronymus Bosch 051.jpg",
-  "width": 4498,
-  "height": 3739,
-  "mime": "image/jpeg",
-  "sha1": "a5c3c27e251f9c621c0fe3ad558299c3b5dd68ad",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hieronymus_Bosch_051.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hieronymus_Bosch_051.jpg/960px-Hieronymus_Bosch_051.jpg",
-   "width": 960,
-   "height": 798
-  },
-  "credit": {
-   "author": "Hohum",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_051.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Hieronymus Bosch by Cornelis Cort.jpg": {
   "ok": true,
@@ -196171,7 +195713,7 @@
    "height": 1143
   },
   "credit": {
-   "author": "Ras67",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -196647,7 +196189,7 @@
    "height": 891
   },
   "credit": {
-   "author": "ToBeFree",
+   "author": "Stas1995",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -198073,7 +197615,7 @@
    "height": 1271
   },
   "credit": {
-   "author": "Jim Evans",
+   "author": "Renamed user 995577823Xyn",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -198332,7 +197874,7 @@
    "height": 1255
   },
   "credit": {
-   "author": "Star Manatee",
+   "author": "Blz 2049",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -199543,7 +199085,7 @@
    "height": 677
   },
   "credit": {
-   "author": "Drlf",
+   "author": "Redline",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -199653,7 +199195,7 @@
    "height": 707
   },
   "credit": {
-   "author": "Reseletti",
+   "author": "Boffy b",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -200493,7 +200035,7 @@
    "height": 710
   },
   "credit": {
-   "author": "Perhelion",
+   "author": "Lokal Profil",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -200925,7 +200467,7 @@
    "height": 1252
   },
   "credit": {
-   "author": "Gilbertus",
+   "author": "Bness2",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -201322,7 +200864,7 @@
    "height": 1288
   },
   "credit": {
-   "author": "Lasunncty",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -201658,31 +201200,13 @@
   "events": []
  },
  "File:Illustration Allium schoenoprasum and Allium cepa0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Allium schoenoprasum and Allium cepa0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Allium schoenoprasum and Allium cepa0.jpg",
-  "width": 1524,
-  "height": 2388,
-  "mime": "image/jpeg",
-  "sha1": "166bc327a08a8f2e1e370a38dc0b0fa1c63a600b",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg/960px-Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg",
-   "width": 960,
-   "height": 1504
-  },
-  "credit": {
-   "author": "Augiasstallputzer~commonswiki",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Asparagus officinalis0b.jpg": {
   "ok": true,
@@ -201711,166 +201235,54 @@
   }
  },
  "File:Illustration Avena sativa0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Avena sativa0.jpg",
-  "width": 1462,
-  "height": 2402,
-  "mime": "image/jpeg",
-  "sha1": "3ee720d9da926de67ffc2b63baa7ef0c9698488a",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Illustration_Avena_sativa0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Illustration_Avena_sativa0.jpg/960px-Illustration_Avena_sativa0.jpg",
-   "width": 960,
-   "height": 1577
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Avena_sativa0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Betula pendula0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Betula pendula0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Betula pendula0.jpg",
-  "width": 1337,
-  "height": 2291,
-  "mime": "image/jpeg",
-  "sha1": "dc9563da7276b62204362a46576f5f1b91d07edf",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Illustration_Betula_pendula0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Illustration_Betula_pendula0.jpg/960px-Illustration_Betula_pendula0.jpg",
-   "width": 960,
-   "height": 1645
-  },
-  "credit": {
-   "author": "Augiasstallputzer~commonswiki",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Betula_pendula0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Bryonia alba0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Bryonia alba0.jpg",
-  "width": 1406,
-  "height": 2415,
-  "mime": "image/jpeg",
-  "sha1": "108f27e18ef685e55b7d3c381d248e52bf906a87",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Illustration_Bryonia_alba0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Illustration_Bryonia_alba0.jpg/960px-Illustration_Bryonia_alba0.jpg",
-   "width": 960,
-   "height": 1649
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Bryonia_alba0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Calla palustris0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Calla palustris0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Calla palustris0.jpg",
-  "width": 1497,
-  "height": 2270,
-  "mime": "image/jpeg",
-  "sha1": "6526fed6986e0565b06d48ae947a08dc2227c6d6",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illustration_Calla_palustris0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Illustration_Calla_palustris0.jpg/960px-Illustration_Calla_palustris0.jpg",
-   "width": 960,
-   "height": 1456
-  },
-  "credit": {
-   "author": "Antonsusi",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Calla_palustris0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Carex pendula0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Carex pendula0.jpg",
-  "width": 1434,
-  "height": 2305,
-  "mime": "image/jpeg",
-  "sha1": "dbade355c8fc8c5b2c0e60e53d6e05f016fb0e94",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Illustration_Carex_pendula0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Illustration_Carex_pendula0.jpg/960px-Illustration_Carex_pendula0.jpg",
-   "width": 960,
-   "height": 1543
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Carex_pendula0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Castanea sativa0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Castanea sativa0.jpg",
-  "width": 1455,
-  "height": 2326,
-  "mime": "image/jpeg",
-  "sha1": "aa1594048aa72a42ec0b0c2f26789216f151fb87",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Illustration_Castanea_sativa0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Illustration_Castanea_sativa0.jpg/960px-Illustration_Castanea_sativa0.jpg",
-   "width": 960,
-   "height": 1535
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Castanea_sativa0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Cichorium intybus0 clean.jpg": {
   "ok": true,
@@ -201890,7 +201302,7 @@
    "height": 1570
   },
   "credit": {
-   "author": "IdLoveOne~commonswiki",
+   "author": "Sarang",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -201927,31 +201339,13 @@
   }
  },
  "File:Illustration Cornus mas0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Cornus mas0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Cornus mas0.jpg",
-  "width": 1469,
-  "height": 2284,
-  "mime": "image/jpeg",
-  "sha1": "d46ec61a31a8b88e90891c9d60b90e9c8d6ee023",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Illustration_Cornus_mas0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Illustration_Cornus_mas0.jpg/960px-Illustration_Cornus_mas0.jpg",
-   "width": 960,
-   "height": 1493
-  },
-  "credit": {
-   "author": "Augiasstallputzer~commonswiki",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Cornus_mas0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Das Volk im Zukunftsstaat 1904 001.jpg": {
   "ok": true,
@@ -201980,85 +201374,31 @@
   }
  },
  "File:Illustration Daucus carota0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Daucus carota0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Daucus carota0.jpg",
-  "width": 1455,
-  "height": 2347,
-  "mime": "image/jpeg",
-  "sha1": "df9fca33d55dae290d9640f06f3ebec0386d713c",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Illustration_Daucus_carota0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Illustration_Daucus_carota0.jpg/960px-Illustration_Daucus_carota0.jpg",
-   "width": 960,
-   "height": 1549
-  },
-  "credit": {
-   "author": "Augiasstallputzer~commonswiki",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Daucus_carota0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Fagopyrum esculentum0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Fagopyrum esculentum0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Fagopyrum esculentum0.jpg",
-  "width": 1414,
-  "height": 2332,
-  "mime": "image/jpeg",
-  "sha1": "f414a3468019989fa84981102b1f77999f822955",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Illustration_Fagopyrum_esculentum0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Illustration_Fagopyrum_esculentum0.jpg/960px-Illustration_Fagopyrum_esculentum0.jpg",
-   "width": 960,
-   "height": 1583
-  },
-  "credit": {
-   "author": "Augiasstallputzer~commonswiki",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Fagopyrum_esculentum0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Ficus carica0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Ficus carica0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Ficus carica0.jpg",
-  "width": 1469,
-  "height": 2318,
-  "mime": "image/jpeg",
-  "sha1": "00dc6771fd2ac6e0da2562291075706370e065da",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Illustration_Ficus_carica0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Illustration_Ficus_carica0.jpg/960px-Illustration_Ficus_carica0.jpg",
-   "width": 960,
-   "height": 1515
-  },
-  "credit": {
-   "author": "Augiasstallputzer~commonswiki",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Ficus_carica0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Foeniculum vulgare1.jpg": {
   "ok": true,
@@ -202087,31 +201427,12 @@
   }
  },
  "File:Illustration Glycyrrhiza glabra0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Glycyrrhiza glabra0.jpg",
-  "width": 1469,
-  "height": 2367,
-  "mime": "image/jpeg",
-  "sha1": "7d58956f8daf2367b6a608b402aedecd99cfd05d",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Illustration_Glycyrrhiza_glabra0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Illustration_Glycyrrhiza_glabra0.jpg/960px-Illustration_Glycyrrhiza_glabra0.jpg",
-   "width": 960,
-   "height": 1547
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Glycyrrhiza_glabra0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Hordeum vulgare1.jpg": {
   "ok": true,
@@ -202140,85 +201461,29 @@
   }
  },
  "File:Illustration Impatiens noli-tangere0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Impatiens noli-tangere0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Impatiens noli-tangere0.jpg",
-  "width": 1413,
-  "height": 2346,
-  "mime": "image/jpeg",
-  "sha1": "378beac898df9deca0222da73f85b0a4099bc8a1",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Illustration_Impatiens_noli-tangere0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Illustration_Impatiens_noli-tangere0.jpg/960px-Illustration_Impatiens_noli-tangere0.jpg",
-   "width": 960,
-   "height": 1594
-  },
-  "credit": {
-   "author": "Till.niermann",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Impatiens_noli-tangere0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Juniperus communis0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Juniperus communis0.jpg",
-  "width": 1448,
-  "height": 2415,
-  "mime": "image/jpeg",
-  "sha1": "b922452a8e450efa3b1fc8cba8d0e953da32121c",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/23/Illustration_Juniperus_communis0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Illustration_Juniperus_communis0.jpg/960px-Illustration_Juniperus_communis0.jpg",
-   "width": 960,
-   "height": 1601
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Juniperus_communis0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Lavandula angustifolia0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Lavandula angustifolia0.jpg",
-  "width": 1378,
-  "height": 2360,
-  "mime": "image/jpeg",
-  "sha1": "17453030b657efa2d1ff6d2c5738d690cd949cd8",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Illustration_Lavandula_angustifolia0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Illustration_Lavandula_angustifolia0.jpg/960px-Illustration_Lavandula_angustifolia0.jpg",
-   "width": 960,
-   "height": 1644
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Lavandula_angustifolia0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Legousia speculum-veneris0.jpg": {
   "ok": true,
@@ -202247,58 +201512,20 @@
   }
  },
  "File:Illustration Lens culinaris0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Lens culinaris0.jpg",
-  "width": 1489,
-  "height": 2325,
-  "mime": "image/jpeg",
-  "sha1": "5dc736f6375f1570b427fd1d7eecb39bc973d726",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Illustration_Lens_culinaris0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Illustration_Lens_culinaris0.jpg/960px-Illustration_Lens_culinaris0.jpg",
-   "width": 960,
-   "height": 1499
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Lens_culinaris0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Linum usitatissimum0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Linum usitatissimum0.jpg",
-  "width": 1344,
-  "height": 2332,
-  "mime": "image/jpeg",
-  "sha1": "25c83b5091a7e82dd51512a68a6706c352579df4",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Illustration_Linum_usitatissimum0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Illustration_Linum_usitatissimum0.jpg/960px-Illustration_Linum_usitatissimum0.jpg",
-   "width": 960,
-   "height": 1666
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Linum_usitatissimum0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Lupinus luteus1.jpg": {
   "ok": true,
@@ -202590,31 +201817,12 @@
   }
  },
  "File:Illustration Pisum sativum0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Pisum sativum0.jpg",
-  "width": 1559,
-  "height": 2478,
-  "mime": "image/jpeg",
-  "sha1": "35ff70455813a452fd6cf20811d136625bf72dd3",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Illustration_Pisum_sativum0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Illustration_Pisum_sativum0.jpg/960px-Illustration_Pisum_sativum0.jpg",
-   "width": 960,
-   "height": 1526
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Pisum_sativum0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Prunus persica clean no descr.jpg": {
   "ok": true,
@@ -202643,31 +201851,12 @@
   }
  },
  "File:Illustration Prunus persica0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Prunus persica0.jpg",
-  "width": 1510,
-  "height": 2443,
-  "mime": "image/jpeg",
-  "sha1": "046157b42af14d6eb5cfb525a71e9fc2483676f6",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Illustration_Prunus_persica0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Illustration_Prunus_persica0.jpg/960px-Illustration_Prunus_persica0.jpg",
-   "width": 960,
-   "height": 1553
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Prunus_persica0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Punica granatum1.jpg": {
   "ok": true,
@@ -202724,58 +201913,20 @@
   }
  },
  "File:Illustration Pyrus communis0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Pyrus communis0.jpg",
-  "width": 1496,
-  "height": 2381,
-  "mime": "image/jpeg",
-  "sha1": "0160005e46b573d7cb0dc5bfebe5d3c23ed3598d",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Illustration_Pyrus_communis0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Illustration_Pyrus_communis0.jpg/960px-Illustration_Pyrus_communis0.jpg",
-   "width": 960,
-   "height": 1528
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Pyrus_communis0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Quercus robur0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Quercus robur0.jpg",
-  "width": 1462,
-  "height": 2346,
-  "mime": "image/jpeg",
-  "sha1": "b83a63f0464d69ccab753e884fc5dcb480a55257",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Illustration_Quercus_robur0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Illustration_Quercus_robur0.jpg/960px-Illustration_Quercus_robur0.jpg",
-   "width": 960,
-   "height": 1540
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Quercus_robur0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Rosa canina1.jpg": {
   "ok": true,
@@ -202804,58 +201955,20 @@
   }
  },
  "File:Illustration Salix alba0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Salix alba0.jpg",
-  "width": 1386,
-  "height": 2291,
-  "mime": "image/jpeg",
-  "sha1": "0a004233878586390f0115278b97fe6b7c9c560f",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Illustration_Salix_alba0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Illustration_Salix_alba0.jpg/960px-Illustration_Salix_alba0.jpg",
-   "width": 960,
-   "height": 1587
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Salix_alba0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Salix caprea0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Salix caprea0.jpg",
-  "width": 1428,
-  "height": 2249,
-  "mime": "image/jpeg",
-  "sha1": "559c512646db1e85005127fd1e68574483b03b3b",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Illustration_Salix_caprea0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Illustration_Salix_caprea0.jpg/960px-Illustration_Salix_caprea0.jpg",
-   "width": 960,
-   "height": 1512
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Salix_caprea0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Secale cereale0 clean.jpg": {
   "ok": true,
@@ -202885,31 +201998,13 @@
   }
  },
  "File:Illustration Secale cereale0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Secale cereale0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Secale cereale0.jpg",
-  "width": 1455,
-  "height": 2360,
-  "mime": "image/jpeg",
-  "sha1": "207e34d3ade71a909db9840fcee8efefc5bcd94e",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Illustration_Secale_cereale0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Illustration_Secale_cereale0.jpg/960px-Illustration_Secale_cereale0.jpg",
-   "width": 960,
-   "height": 1557
-  },
-  "credit": {
-   "author": "Sarang",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Secale_cereale0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Solanum dulcamara0 clean.png": {
   "ok": true,
@@ -202965,112 +202060,37 @@
   }
  },
  "File:Illustration Thymus serpyllum0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Thymus serpyllum0.jpg",
-  "width": 1511,
-  "height": 2437,
-  "mime": "image/jpeg",
-  "sha1": "bd2af3d2e16031642bf4faeab324b56dbc8ca5e4",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Illustration_Thymus_serpyllum0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Illustration_Thymus_serpyllum0.jpg/960px-Illustration_Thymus_serpyllum0.jpg",
-   "width": 960,
-   "height": 1548
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Thymus_serpyllum0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Typha latifolia0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Typha latifolia0.jpg",
-  "width": 1393,
-  "height": 2374,
-  "mime": "image/jpeg",
-  "sha1": "0f84cfe7f621fc8637de086452a5fc9e7caa9a29",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Illustration_Typha_latifolia0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Illustration_Typha_latifolia0.jpg/960px-Illustration_Typha_latifolia0.jpg",
-   "width": 960,
-   "height": 1636
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Typha_latifolia0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Ulmus carpinifolia0.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Illustration Ulmus carpinifolia0.jpg",
-  "width": 1552,
-  "height": 2408,
-  "mime": "image/jpeg",
-  "sha1": "e1e62fda07f5ab62711a53ef5909be15477dd4b6",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Illustration_Ulmus_carpinifolia0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Illustration_Ulmus_carpinifolia0.jpg/960px-Illustration_Ulmus_carpinifolia0.jpg",
-   "width": 960,
-   "height": 1489
-  },
-  "credit": {
-   "author": "Topjabot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Ulmus_carpinifolia0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Illustration Verbena officinalis0.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Illustration Verbena officinalis0.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Illustration Verbena officinalis0.jpg",
-  "width": 1385,
-  "height": 2402,
-  "mime": "image/jpeg",
-  "sha1": "a31555c99741c3c3565a8183d2e4ff0831125d45",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Illustration_Verbena_officinalis0.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Illustration_Verbena_officinalis0.jpg/960px-Illustration_Verbena_officinalis0.jpg",
-   "width": 960,
-   "height": 1665
-  },
-  "credit": {
-   "author": "Vearthy",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Verbena_officinalis0.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Illustration Vicia faba1.jpg": {
   "ok": true,
@@ -204614,7 +203634,7 @@
    "height": 1235
   },
   "credit": {
-   "author": "Abhishek0831996",
+   "author": "Nataraja~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -204766,31 +203786,13 @@
   }
  },
  "File:Indian Rebellion of 1857.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Indian Rebellion of 1857.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Indian Rebellion of 1857.jpg",
-  "width": 1959,
-  "height": 1647,
-  "mime": "image/jpeg",
-  "sha1": "202efa667a134f690a39c0ec169a124fae4ae6f2",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Indian_Rebellion_of_1857.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Indian_Rebellion_of_1857.jpg/960px-Indian_Rebellion_of_1857.jpg",
-   "width": 960,
-   "height": 807
-  },
-  "credit": {
-   "author": "Yann",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Indian_Rebellion_of_1857.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Indian revolt of 1857 states map de.svg": {
   "ok": false,
@@ -205566,7 +204568,7 @@
    "height": 1100
   },
   "credit": {
-   "author": "WolfmanSF",
+   "author": "Pmarzio",
    "authorSource": "uploader",
    "license": "CC BY 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
@@ -208552,7 +207554,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "Boréal",
+   "author": "Dlanglois",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -209133,7 +208135,7 @@
    "height": 1432
   },
   "credit": {
-   "author": "Lpi4635",
+   "author": "Gobonobo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -210675,7 +209677,7 @@
    "height": 719
   },
   "credit": {
-   "author": ".:Ajvol:.",
+   "author": "Julo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -210877,30 +209879,10 @@
   "events": []
  },
  "File:IT-3-Ebenen-Modell Prozesse der Informationsverarbeitung und der IT.PNG": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:IT-3-Ebenen-Modell Prozesse der Informationsverarbeitung und der IT.PNG",
-  "width": 1075,
-  "height": 882,
-  "mime": "image/png",
-  "sha1": "c70ad6437b8e0e54112ae0993d1f0514ae761cb6",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/IT-3-Ebenen-Modell_Prozesse_der_Informationsverarbeitung_und_der_IT.PNG",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/IT-3-Ebenen-Modell_Prozesse_der_Informationsverarbeitung_und_der_IT.PNG/960px-IT-3-Ebenen-Modell_Prozesse_der_Informationsverarbeitung_und_der_IT.PNG",
-   "width": 960,
-   "height": 788
-  },
-  "credit": {
-   "author": "Wdwdbot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0 de",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:IT-3-Ebenen-Modell_Prozesse_der_Informationsverarbeitung_und_der_IT.PNG",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:IT-Rom-Pantheon-Kuppel.jpg": {
   "ok": true,
@@ -211034,32 +210016,13 @@
   }
  },
  "File:Italian - Euclid - Google Art Project.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Italian - Euclid - Google Art Project.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-multiline-trimmed",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Italian - Euclid - Google Art Project.jpg",
-  "width": 5952,
-  "height": 8046,
-  "mime": "image/jpeg",
-  "sha1": "22e5d163315f34c6543dfed3e8c4ff95d115f37d",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Italian_-_Euclid_-_Google_Art_Project.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Italian_-_Euclid_-_Google_Art_Project.jpg/960px-Italian_-_Euclid_-_Google_Art_Project.jpg",
-   "width": 960,
-   "height": 1298
-  },
-  "credit": {
-   "author": "DcoetzeeBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Italian_-_Euclid_-_Google_Art_Project.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-multiline-trimmed"
+  ]
  },
  "File:Italian explorers.jpg": {
   "ok": true,
@@ -211858,7 +210821,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "JayCubby",
+   "author": "The Hydrophilian",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -214240,7 +213203,7 @@
    "height": 1641
   },
   "credit": {
-   "author": "Adam Cuerden",
+   "author": "Staxringold",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -214560,7 +213523,7 @@
    "height": 422
   },
   "credit": {
-   "author": "Kurcke",
+   "author": "Taichi",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -216901,7 +215864,7 @@
    "height": 671
   },
   "credit": {
-   "author": "Earthsound",
+   "author": "Sitethief",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -217365,7 +216328,7 @@
    "height": 806
   },
   "credit": {
-   "author": "Kittycataclysm",
+   "author": "Rainer Zenz",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -217570,7 +216533,7 @@
    "height": 1097
   },
   "credit": {
-   "author": "Goszei",
+   "author": "Nuliukas~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -218929,7 +217892,7 @@
    "height": 1284
   },
   "credit": {
-   "author": "BevinKacon",
+   "author": "Airunp",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -219129,7 +218092,7 @@
    "height": 1411
   },
   "credit": {
-   "author": "Materialscientist",
+   "author": "Corso",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -219156,7 +218119,7 @@
    "height": 1152
   },
   "credit": {
-   "author": "Yann",
+   "author": "FMSky",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -219521,7 +218484,7 @@
    "height": 1140
   },
   "credit": {
-   "author": "Ch.Andrew",
+   "author": "Valentinian",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -219848,7 +218811,7 @@
    "height": 1048
   },
   "credit": {
-   "author": "Artanisen",
+   "author": "Weft",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -220235,7 +219198,7 @@
    "height": 1259
   },
   "credit": {
-   "author": "Centpacrr",
+   "author": "ADGE",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -220422,7 +219385,7 @@
    "height": 1264
   },
   "credit": {
-   "author": "Para",
+   "author": "Remus Lupin~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -220885,7 +219848,7 @@
    "height": 1285
   },
   "credit": {
-   "author": "UpdateNerd",
+   "author": "COGDEN",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -222026,7 +220989,7 @@
    "height": 636
   },
   "credit": {
-   "author": "Amakuha",
+   "author": "Chris 73",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -223349,7 +222312,7 @@
    "height": 1136
   },
   "credit": {
-   "author": "Passionné d'architecture",
+   "author": "DrFO.Jr.Tn",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -224087,7 +223050,7 @@
    "height": 622
   },
   "credit": {
-   "author": "Archaeodontosaurus",
+   "author": "Jonathan Hornung",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.0 de",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
@@ -224341,7 +223304,7 @@
    "height": 1606
   },
   "credit": {
-   "author": "Goszei",
+   "author": "Tomisti",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -224543,7 +223506,7 @@
    "height": 874
   },
   "credit": {
-   "author": "Ras67",
+   "author": "NormanEinstein",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -225021,7 +223984,7 @@
    "height": 1409
   },
   "credit": {
-   "author": "ArtMechanic",
+   "author": "Katpatuka",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -225756,7 +224719,7 @@
    "height": 1498
   },
   "credit": {
-   "author": "23prootie~commonswiki",
+   "author": "Slomox",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -226138,7 +225101,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Abu-Dun",
+   "author": "Sir48",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -228537,7 +227500,7 @@
    "height": 648
   },
   "credit": {
-   "author": "Fährtenleser",
+   "author": "Fæ",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -228871,7 +227834,7 @@
    "height": 1419
   },
   "credit": {
-   "author": "Mikrometermann",
+   "author": "ContributorQ",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -229354,7 +228317,7 @@
    "height": 1292
   },
   "credit": {
-   "author": "Dencey",
+   "author": "Kelson",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -230304,7 +229267,7 @@
    "height": 1357
   },
   "credit": {
-   "author": "Cold Season",
+   "author": "AetherBloom",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -230660,7 +229623,7 @@
    "height": 476
   },
   "credit": {
-   "author": "AKLand",
+   "author": "NVergopolan",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -235755,7 +234718,7 @@
    "height": 2097
   },
   "credit": {
-   "author": "TheWxResearcher",
+   "author": "CactiStaccingCrane",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -237878,31 +236841,12 @@
   }
  },
  "File:Larsen Ice Shelf in Antarctica.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Larsen Ice Shelf in Antarctica.jpg",
-  "width": 3000,
-  "height": 1982,
-  "mime": "image/jpeg",
-  "sha1": "baf6bce5fb38bbd71a039aa47bcb13df8995e64a",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Larsen_Ice_Shelf_in_Antarctica.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Larsen_Ice_Shelf_in_Antarctica.jpg/960px-Larsen_Ice_Shelf_in_Antarctica.jpg",
-   "width": 960,
-   "height": 634
-  },
-  "credit": {
-   "author": "OptimusPrimeBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Larsen_Ice_Shelf_in_Antarctica.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Larus argentatus, at Oslo Opera House.jpg": {
   "ok": true,
@@ -238123,7 +237067,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Color~commonswiki",
+   "author": "Sam916~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -238356,7 +237300,7 @@
    "height": 1435
   },
   "credit": {
-   "author": "Conscious",
+   "author": "Gryffindor",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -239061,7 +238005,7 @@
    "height": 698
   },
   "credit": {
-   "author": "Andrew pmk~commonswiki",
+   "author": "Ed g2s",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -242075,7 +241019,7 @@
    "height": 766
   },
   "credit": {
-   "author": "Conscious",
+   "author": "Sanao",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -243399,7 +242343,7 @@
    "height": 1465
   },
   "credit": {
-   "author": "Papa November",
+   "author": "Mattes",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -243426,7 +242370,7 @@
    "height": 1469
   },
   "credit": {
-   "author": "Epipelagic",
+   "author": "Achim Raschka",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -244592,31 +243536,12 @@
   }
  },
  "File:Limpopo.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Limpopo.jpg",
-  "width": 1681,
-  "height": 1105,
-  "mime": "image/jpeg",
-  "sha1": "5a584dc3c1c3b62990e73cb4c59c2bddd8f750e7",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Limpopo.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Limpopo.jpg/960px-Limpopo.jpg",
-   "width": 960,
-   "height": 631
-  },
-  "credit": {
-   "author": "BetacommandBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Limpopo.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Limule(dD).jpg": {
   "ok": true,
@@ -246098,7 +245023,7 @@
    "height": 752
   },
   "credit": {
-   "author": "Chiswick Chap",
+   "author": "Daniel Mietchen",
    "authorSource": "uploader",
    "license": "CC BY 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
@@ -246479,7 +245404,7 @@
    "height": 640
   },
   "credit": {
-   "author": "Conny",
+   "author": "Lucero del Alba~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -247247,7 +246172,7 @@
    "height": 421
   },
   "credit": {
-   "author": "Abhijitsathe",
+   "author": "Peka~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -248571,7 +247496,7 @@
    "height": 1202
   },
   "credit": {
-   "author": "Quibik",
+   "author": "Fastfission~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -248794,7 +247719,7 @@
    "height": 713
   },
   "credit": {
-   "author": "TedColes",
+   "author": "Dbenbenn",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -249282,7 +248207,7 @@
    "height": 1370
   },
   "credit": {
-   "author": "Mike Rosoft",
+   "author": "Doc James",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -252001,7 +250926,7 @@
    "height": 1371
   },
   "credit": {
-   "author": "Mikael Häggström",
+   "author": "Tdvorak",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -253312,7 +252237,7 @@
    "height": 752
   },
   "credit": {
-   "author": "DocNöck",
+   "author": "Johnprevedini",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -254299,7 +253224,7 @@
    "height": 640
   },
   "credit": {
-   "author": "Earthsound",
+   "author": "Oldie~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -256132,7 +255057,7 @@
    "height": 779
   },
   "credit": {
-   "author": "Madman2001",
+   "author": "Platonides",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -258927,7 +257852,7 @@
    "height": 444
   },
   "credit": {
-   "author": "Kurcke",
+   "author": "Fsolda~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -261714,7 +260639,7 @@
    "height": 1430
   },
   "credit": {
-   "author": "Shakko",
+   "author": "Taragui",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -261767,7 +260692,7 @@
    "height": 1153
   },
   "credit": {
-   "author": "Jacek Halicki",
+   "author": "Svajcr",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -264716,7 +263641,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "DominicBeatles359998",
+   "author": "Mu",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -264939,7 +263864,7 @@
    "height": 1280
   },
   "credit": {
-   "author": "Goszei",
+   "author": "Rex",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -266452,7 +265377,7 @@
    "height": 724
   },
   "credit": {
-   "author": "M@rkus~commonswiki",
+   "author": "Saperaud~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -267187,7 +266112,7 @@
    "height": 652
   },
   "credit": {
-   "author": "Common Good",
+   "author": "Factumquintus",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -268006,7 +266931,7 @@
    "height": 941
   },
   "credit": {
-   "author": "Tene~commonswiki",
+   "author": "Idarvol",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -268257,7 +267182,7 @@
    "height": 755
   },
   "credit": {
-   "author": "Till.niermann",
+   "author": "Stahlkocher",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -268458,7 +267383,7 @@
    "height": 960
   },
   "credit": {
-   "author": "CactiStaccingCrane",
+   "author": "Mirecki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -269607,7 +268532,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Andrzej 22",
+   "author": "Rama",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.0 fr",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
@@ -270563,7 +269488,7 @@
    "height": 1315
   },
   "credit": {
-   "author": "FMSky",
+   "author": "F1fans",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -271046,7 +269971,7 @@
    "height": 442
   },
   "credit": {
-   "author": "Jon Harald Søby",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -274344,7 +273269,7 @@
    "height": 1173
   },
   "credit": {
-   "author": "Szczureq",
+   "author": "Mattflaschen",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -274371,7 +273296,7 @@
    "height": 1504
   },
   "credit": {
-   "author": "Materialscientist",
+   "author": "Laurens~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -274786,7 +273711,7 @@
    "height": 1199
   },
   "credit": {
-   "author": "Pyb",
+   "author": "Fernando S. Aldado~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -275435,7 +274360,7 @@
    "height": 1117
   },
   "credit": {
-   "author": "Hohum",
+   "author": "Gaf.arq",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -275596,7 +274521,7 @@
    "height": 644
   },
   "credit": {
-   "author": "Ellywa",
+   "author": "Yonghokim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -279479,30 +278404,10 @@
   }
  },
  "File:MS Indic 37, Isa upanisad. Wellcome L0027330.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:MS Indic 37, Isa upanisad. Wellcome L0027330.jpg",
-  "width": 2128,
-  "height": 880,
-  "mime": "image/jpeg",
-  "sha1": "663790575159d1b524bc11da42d7de53738a4b9e",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/MS_Indic_37%2C_Isa_upanisad._Wellcome_L0027330.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/MS_Indic_37%2C_Isa_upanisad._Wellcome_L0027330.jpg/960px-MS_Indic_37%2C_Isa_upanisad._Wellcome_L0027330.jpg",
-   "width": 960,
-   "height": 397
-  },
-  "credit": {
-   "author": "SteinsplitterBot",
-   "authorSource": "uploader",
-   "license": "CC BY 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:MS_Indic_37,_Isa_upanisad._Wellcome_L0027330.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:MS Vantage.JPG": {
   "ok": true,
@@ -280156,7 +279061,7 @@
    "height": 387
   },
   "credit": {
-   "author": "Citron",
+   "author": "Eugene van der Pijll",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -280259,7 +279164,7 @@
    "height": 1648
   },
   "credit": {
-   "author": "Aavindraa",
+   "author": "Cold Season",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -284730,7 +283635,7 @@
    "height": 709
   },
   "credit": {
-   "author": "Pmsyyz",
+   "author": "Poulpy",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -285668,30 +284573,10 @@
   "events": []
  },
  "File:NBC Tower, Chicago.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:NBC Tower, Chicago.jpg",
-  "width": 1288,
-  "height": 1488,
-  "mime": "image/jpeg",
-  "sha1": "f51b52e2d9284f5b3305feee73ac1aeba33d3a1a",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/NBC_Tower%2C_Chicago.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/NBC_Tower%2C_Chicago.jpg/960px-NBC_Tower%2C_Chicago.jpg",
-   "width": 960,
-   "height": 1109
-  },
-  "credit": {
-   "author": "BetacommandBot",
-   "authorSource": "uploader",
-   "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:NBC_Tower,_Chicago.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:NBVp1.jpg": {
   "ok": false,
@@ -287866,7 +286751,7 @@
    "height": 583
   },
   "credit": {
-   "author": "Darwinek",
+   "author": "Vzb83~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -288884,31 +287769,12 @@
   }
  },
  "File:Nicolas Poussin - L'Inspiration du poète (1629).jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Nicolas Poussin - L'Inspiration du poète (1629).jpg",
-  "width": 1576,
-  "height": 1350,
-  "mime": "image/jpeg",
-  "sha1": "8398247a96c75978f0729eb32a9f746c36ecb439",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nicolas_Poussin_-_L%27Inspiration_du_po%C3%A8te_%281629%29.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Nicolas_Poussin_-_L%27Inspiration_du_po%C3%A8te_%281629%29.jpg/960px-Nicolas_Poussin_-_L%27Inspiration_du_po%C3%A8te_%281629%29.jpg",
-   "width": 960,
-   "height": 822
-  },
-  "credit": {
-   "author": "File Upload Bot (Eloquence)",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_-_L%27Inspiration_du_po%C3%A8te_(1629).jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Nicolas Poussin - Landscape during a Thunderstorm with Pyramus and thisbe - Google Art Project.jpg": {
   "ok": true,
@@ -289170,7 +288036,7 @@
    "height": 1350
   },
   "credit": {
-   "author": "Yeeno",
+   "author": "Katpatuka",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -290588,7 +289454,7 @@
    "height": 680
   },
   "credit": {
-   "author": "Bleistift2",
+   "author": "Benjah-bmm27",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -292038,7 +290904,7 @@
    "height": 508
   },
   "credit": {
-   "author": "Hydrargyrum",
+   "author": "Petrusbarbygere",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -293182,7 +292048,7 @@
    "height": 663
   },
   "credit": {
-   "author": "MPF",
+   "author": "Pybalo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -294670,7 +293536,7 @@
    "height": 570
   },
   "credit": {
-   "author": "ArionStar",
+   "author": "MattWade",
    "authorSource": "uploader",
    "license": "CC BY 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
@@ -295409,7 +294275,7 @@
    "height": 550
   },
   "credit": {
-   "author": "Treetoes023",
+   "author": "っ",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -296139,7 +295005,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Jonund",
+   "author": "Johann~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -296853,31 +295719,12 @@
   }
  },
  "File:Oldest Light in the Universe (SVS30133).jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Oldest Light in the Universe (SVS30133).jpg",
-  "width": 4096,
-  "height": 2304,
-  "mime": "image/jpeg",
-  "sha1": "f2cef339c4aee9ce5ee4eb487ab4bd9671d279fc",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Oldest_Light_in_the_Universe_%28SVS30133%29.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Oldest_Light_in_the_Universe_%28SVS30133%29.jpg/960px-Oldest_Light_in_the_Universe_%28SVS30133%29.jpg",
-   "width": 960,
-   "height": 540
-  },
-  "credit": {
-   "author": "OptimusPrimeBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Oldest_Light_in_the_Universe_(SVS30133).jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Oldoinyolengai.jpg": {
   "ok": false,
@@ -297139,7 +295986,7 @@
    "height": 803
   },
   "credit": {
-   "author": "Maximilian Schönherr",
+   "author": "LjL",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -297616,7 +296463,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Fährtenleser",
+   "author": "Guety",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -298789,7 +297636,7 @@
    "height": 633
   },
   "credit": {
-   "author": "Bricktop",
+   "author": "Achim Raschka",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -300087,7 +298934,7 @@
    "height": 1139
   },
   "credit": {
-   "author": "Serge Lachinov",
+   "author": "Tomisti",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -300336,7 +299183,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Fabian RRRR",
+   "author": "HInBC",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -300363,7 +299210,7 @@
    "height": 960
   },
   "credit": {
-   "author": "HInBC",
+   "author": "Davepape",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -300426,7 +299273,7 @@
    "height": 639
   },
   "credit": {
-   "author": "Nesnad",
+   "author": "Maxim Razin",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -310209,7 +309056,7 @@
    "height": 1342
   },
   "credit": {
-   "author": "Locutus Borg",
+   "author": "120",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -310354,7 +309201,7 @@
    "height": 647
   },
   "credit": {
-   "author": "Splintercellguy",
+   "author": "Gyllenhali",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -313019,7 +311866,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Bengt Nyman",
+   "author": "FrankDrebin",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -314446,7 +313293,7 @@
    "height": 1060
   },
   "credit": {
-   "author": "Phoenix7777",
+   "author": "Hautala",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -315147,7 +313994,7 @@
    "height": 720
   },
   "credit": {
-   "author": "MarshalN20",
+   "author": "Urban~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -315448,7 +314295,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Vlixes",
+   "author": "PhilipTerryGraham",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -316403,7 +315250,7 @@
    "height": 694
   },
   "credit": {
-   "author": "Patrick87",
+   "author": "Andreagrossmann",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -317360,7 +316207,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Archaeodontosaurus",
+   "author": "Dixi~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -317509,7 +316356,7 @@
    "height": 1794
   },
   "credit": {
-   "author": "Cuello de pepino",
+   "author": "Quadell",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -319885,7 +318732,7 @@
    "height": 720
   },
   "credit": {
-   "author": "GillesGillesGilles",
+   "author": "Andre Engels",
    "authorSource": "uploader",
    "license": "CC BY 1.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
@@ -320264,7 +319111,7 @@
    "height": 838
   },
   "credit": {
-   "author": "Hic et nunc",
+   "author": "Dietzel65",
    "authorSource": "uploader",
    "license": "CC BY 2.5",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
@@ -321099,7 +319946,7 @@
    "height": 630
   },
   "credit": {
-   "author": "L.m.k",
+   "author": "Manuel Anastácio",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -321535,30 +320382,10 @@
   "events": []
  },
  "File:Pole Vault Sequence 3.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Pole Vault Sequence 3.jpg",
-  "width": 768,
-  "height": 1024,
-  "mime": "image/jpeg",
-  "sha1": "46ce368f3e69ee6e613c5c3a24f683b445e45f38",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pole_Vault_Sequence_3.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pole_Vault_Sequence_3.jpg",
-   "width": 960,
-   "height": 1280
-  },
-  "credit": {
-   "author": "Rotatebot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Pole_Vault_Sequence_3.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Pole-south.gif": {
   "ok": false,
@@ -323921,7 +322748,7 @@
    "height": 1423
   },
   "credit": {
-   "author": "Crisco 1492",
+   "author": "Julian Felsenburgh",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -324568,7 +323395,7 @@
    "height": 1196
   },
   "credit": {
-   "author": "Kelson",
+   "author": "Rmhermen",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -325127,7 +323954,7 @@
    "height": 421
   },
   "credit": {
-   "author": "The Ogre",
+   "author": "CedricBLN",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -325293,7 +324120,7 @@
    "height": 1183
   },
   "credit": {
-   "author": "DIEGO73",
+   "author": "Hansjorn",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -326597,7 +325424,7 @@
    "height": 1285
   },
   "credit": {
-   "author": "Bagabondo",
+   "author": "Tsui",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -327049,7 +325876,7 @@
    "height": 1292
   },
   "credit": {
-   "author": "Ich",
+   "author": "119~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -327935,7 +326762,7 @@
    "height": 1196
   },
   "credit": {
-   "author": "Soerfm",
+   "author": "Haukurth",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -328381,7 +327208,7 @@
    "height": 691
   },
   "credit": {
-   "author": "MPF",
+   "author": "Sbisolo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -333015,7 +331842,7 @@
    "height": 1298
   },
   "credit": {
-   "author": "NickShaforostoff",
+   "author": "FoeNyx",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -336557,7 +335384,7 @@
    "height": 669
   },
   "credit": {
-   "author": "Amada44",
+   "author": "Dbenbenn",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -337509,7 +336336,7 @@
    "height": 776
   },
   "credit": {
-   "author": "Ras67",
+   "author": "Ctatkinson~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -340514,7 +339341,7 @@
    "height": 701
   },
   "credit": {
-   "author": "Pyb",
+   "author": "Justelipse",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -341058,7 +339885,7 @@
    "height": 956
   },
   "credit": {
-   "author": "Quibik",
+   "author": "Robin S",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -341395,7 +340222,7 @@
    "height": 1259
   },
   "credit": {
-   "author": "קפקא",
+   "author": "Tancrède~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -343382,7 +342209,7 @@
    "height": 1166
   },
   "credit": {
-   "author": "Materialscientist",
+   "author": "Kelson",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -344056,7 +342883,7 @@
    "height": 1440
   },
   "credit": {
-   "author": "Soerfm",
+   "author": "Olaf1541",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -344252,30 +343079,10 @@
   }
  },
  "File:Rock en Parque Roca (6796076495).jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Rock en Parque Roca (6796076495).jpg",
-  "width": 1200,
-  "height": 800,
-  "mime": "image/jpeg",
-  "sha1": "39b063dd3c87d8e98fa488939c82ba8709320a09",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rock_en_Parque_Roca_%286796076495%29.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Rock_en_Parque_Roca_%286796076495%29.jpg/960px-Rock_en_Parque_Roca_%286796076495%29.jpg",
-   "width": 960,
-   "height": 640
-  },
-  "credit": {
-   "author": "File Upload Bot (Magnus Manske)",
-   "authorSource": "uploader",
-   "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Rock_en_Parque_Roca_(6796076495).jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Rock Hyrax SA.jpg": {
   "ok": true,
@@ -345047,30 +343854,10 @@
   }
  },
  "File:Roman bronze copy of Myron’s Discobolos, 2nd century CE (Glyptothek Munich).jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Roman bronze copy of Myron’s Discobolos, 2nd century CE (Glyptothek Munich).jpg",
-  "width": 2030,
-  "height": 3274,
-  "mime": "image/jpeg",
-  "sha1": "158ed8b376d158e3ee08265dc58504c5a05ce8cb",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/42/Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg/960px-Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg",
-   "width": 960,
-   "height": 1548
-  },
-  "credit": {
-   "author": "Rotatebot",
-   "authorSource": "uploader",
-   "license": "CC BY 2.5",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos,_2nd_century_CE_(Glyptothek_Munich).jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Roman bust in Ny Carlsberg Glyptotek (cropped).jpg": {
   "ok": true,
@@ -348523,7 +347310,7 @@
    "height": 753
   },
   "credit": {
-   "author": "Spiridon Ion Cepleanu",
+   "author": "Halibutt",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -348549,7 +347336,7 @@
    "height": 753
   },
   "credit": {
-   "author": "AlexTref871",
+   "author": "Halibutt",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -350285,7 +349072,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Nonenmac",
+   "author": "JoJan",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -350971,7 +349758,7 @@
    "height": 768
   },
   "credit": {
-   "author": "Tetraktys",
+   "author": "Chumwa",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -351714,7 +350501,7 @@
    "height": 1278
   },
   "credit": {
-   "author": "Gavinpc",
+   "author": "Zubro",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -352874,7 +351661,7 @@
    "height": 1305
   },
   "credit": {
-   "author": "Richard Arthur Norton (1958- )",
+   "author": "Garrondo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -354235,7 +353022,7 @@
    "height": 1231
   },
   "credit": {
-   "author": "World Imaging",
+   "author": "Electionworld",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -356554,7 +355341,7 @@
    "height": 640
   },
   "credit": {
-   "author": "Graeme374",
+   "author": "The real Marcoman",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -357874,7 +356661,7 @@
    "height": 1518
   },
   "credit": {
-   "author": "SusanLesch",
+   "author": "Vrysxy",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -359544,7 +358331,7 @@
    "height": 497
   },
   "credit": {
-   "author": "NordNordWest",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -360792,7 +359579,7 @@
    "height": 1182
   },
   "credit": {
-   "author": "Scewing",
+   "author": "Haabet",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -361664,7 +360451,7 @@
    "height": 678
   },
   "credit": {
-   "author": "Artanisen",
+   "author": "Christian Dobrinoff",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -362111,7 +360898,7 @@
    "height": 653
   },
   "credit": {
-   "author": "Reda Raouchaia",
+   "author": "Med",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -362180,7 +360967,7 @@
    "height": 1274
   },
   "credit": {
-   "author": "Lokal Profil",
+   "author": "Dodo",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -362851,7 +361638,7 @@
    "height": 1004
   },
   "credit": {
-   "author": "Remsense",
+   "author": "Gary Lee Todd",
    "authorSource": "uploader",
    "license": "CC0",
    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -362907,7 +361694,7 @@
    "height": 1238
   },
   "credit": {
-   "author": "Pontmarcheur",
+   "author": "ASDFGHJ",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -363192,7 +361979,7 @@
    "height": 768
   },
   "credit": {
-   "author": "Rodrigo.Argenton",
+   "author": "Sturm",
    "authorSource": "uploader",
    "license": "CC BY-SA 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -364261,7 +363048,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Andrzej 22",
+   "author": "Mlepicki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -364544,7 +363331,7 @@
    "height": 739
   },
   "credit": {
-   "author": "Giga Bang",
+   "author": "Fæ",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -365996,30 +364783,10 @@
   }
  },
  "File:Silz cerf20-2.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Silz cerf20-2.jpg",
-  "width": 3456,
-  "height": 2304,
-  "mime": "image/jpeg",
-  "sha1": "05647e0ee821af2a25ff45c01b1d2f138ffab74e",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Silz_cerf20-2.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Silz_cerf20-2.jpg/960px-Silz_cerf20-2.jpg",
-   "width": 960,
-   "height": 640
-  },
-  "credit": {
-   "author": "Slick-o-bot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Silz_cerf20-2.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Sima Qian (painted portrait).jpg": {
   "ok": true,
@@ -366282,7 +365049,7 @@
    "height": 1111
   },
   "credit": {
-   "author": "CactiStaccingCrane",
+   "author": "Batty~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -368172,7 +366939,7 @@
    "height": 734
   },
   "credit": {
-   "author": "Deglr6328~commonswiki",
+   "author": "Raul654",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -368369,30 +367136,10 @@
   }
  },
  "File:Skor från 1700- till 1960-talet - Nordiska Museet - NMA.0056302.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Skor från 1700- till 1960-talet - Nordiska Museet - NMA.0056302.jpg",
-  "width": 1200,
-  "height": 967,
-  "mime": "image/jpeg",
-  "sha1": "f930cf1a0e60a710ec7c7186574605f7cff293d5",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Skor_fr%C3%A5n_1700-_till_1960-talet_-_Nordiska_Museet_-_NMA.0056302.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Skor_fr%C3%A5n_1700-_till_1960-talet_-_Nordiska_Museet_-_NMA.0056302.jpg/960px-Skor_fr%C3%A5n_1700-_till_1960-talet_-_Nordiska_Museet_-_NMA.0056302.jpg",
-   "width": 960,
-   "height": 774
-  },
-  "credit": {
-   "author": "NordiskaMuseetBot",
-   "authorSource": "uploader",
-   "license": "CC BY 3.0 no",
-   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/no/deed.en",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Skor_fr%C3%A5n_1700-_till_1960-talet_-_Nordiska_Museet_-_NMA.0056302.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Skovl.jpg": {
   "ok": true,
@@ -369591,7 +368338,7 @@
    "height": 720
   },
   "credit": {
-   "author": "Marcus Cyron",
+   "author": "B kimmel",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -371485,7 +370232,7 @@
    "height": 603
   },
   "credit": {
-   "author": "Brevam",
+   "author": "Superborsuk",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -371951,31 +370698,13 @@
   }
  },
  "File:Somali map.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Somali map.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Somali map.jpg",
-  "width": 1055,
-  "height": 1209,
-  "mime": "image/jpeg",
-  "sha1": "9fbf9932c038008ecdaaff27148090471e6a6fb3",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Somali_map.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Somali_map.jpg/960px-Somali_map.jpg",
-   "width": 960,
-   "height": 1100
-  },
-  "credit": {
-   "author": "Rabacha",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Somali_map.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Somalia (orthographic projection).svg": {
   "ok": false,
@@ -374758,7 +373487,7 @@
    "height": 715
   },
   "credit": {
-   "author": "Java13690~commonswiki",
+   "author": "Ish ishwar",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -376565,31 +375294,13 @@
   "events": []
  },
  "File:SS-joule.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:SS-joule.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:SS-joule.jpg",
-  "width": 702,
-  "height": 1059,
-  "mime": "image/jpeg",
-  "sha1": "8e15c381fcb004f551d2a946112dbc6e9c8931d5",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/SS-joule.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/SS-joule.jpg",
-   "width": 960,
-   "height": 1448
-  },
-  "credit": {
-   "author": "Kelson",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:SS-joule.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:SStringray.jpg": {
   "ok": true,
@@ -376667,7 +375378,7 @@
    "height": 1580
   },
   "credit": {
-   "author": "Ubediplomacy",
+   "author": "Thomas Gun",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -380018,7 +378729,7 @@
    "height": 1332
   },
   "credit": {
-   "author": "Daiju Azuma",
+   "author": "Maksim",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -380246,7 +378957,7 @@
    "height": 1535
   },
   "credit": {
-   "author": "CapLiber",
+   "author": "MetalGearLiquid",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -381307,7 +380018,7 @@
    "height": 721
   },
   "credit": {
-   "author": "Hohum",
+   "author": "NormanEinstein",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -382362,7 +381073,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Delirium",
+   "author": "Edward",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -382415,7 +381126,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Delirium",
+   "author": "EvgenyGenkin",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -384953,7 +383664,7 @@
    "height": 1030
   },
   "credit": {
-   "author": "Hohum",
+   "author": "W.wolny",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -385934,7 +384645,7 @@
    "height": 635
   },
   "credit": {
-   "author": "Enochlau",
+   "author": "Roybb95~commonswiki",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -386905,31 +385616,12 @@
   }
  },
  "File:Table de chiffrement de la guerre franco-prussienne de 1870, évoquant une série de mots classés par ordre alphabétique, - Archives Nationales - F-90-11676 - (1).jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Table de chiffrement de la guerre franco-prussienne de 1870, évoquant une série de mots classés par ordre alphabétique, - Archives Nationales - F-90-11676 - (1).jpg",
-  "width": 1024,
-  "height": 1248,
-  "mime": "image/jpeg",
-  "sha1": "50dde3ad724474e131566668bd368af02b7563fb",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Table_de_chiffrement_de_la_guerre_franco-prussienne_de_1870%2C_%C3%A9voquant_une_s%C3%A9rie_de_mots_class%C3%A9s_par_ordre_alphab%C3%A9tique%2C_-_Archives_Nationales_-_F-90-11676_-_%281%29.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Table_de_chiffrement_de_la_guerre_franco-prussienne_de_1870%2C_%C3%A9voquant_une_s%C3%A9rie_de_mots_class%C3%A9s_par_ordre_alphab%C3%A9tique%2C_-_Archives_Nationales_-_F-90-11676_-_%281%29.jpg/960px-thumbnail.jpg",
-   "width": 960,
-   "height": 1170
-  },
-  "credit": {
-   "author": "ArchivesNationalesBot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Table_de_chiffrement_de_la_guerre_franco-prussienne_de_1870,_%C3%A9voquant_une_s%C3%A9rie_de_mots_class%C3%A9s_par_ordre_alphab%C3%A9tique,_-_Archives_Nationales_-_F-90-11676_-_(1).jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Table fructose.JPG": {
   "ok": true,
@@ -387036,7 +385728,7 @@
    "height": 1556
   },
   "credit": {
-   "author": "Phreneticc",
+   "author": "Renamed user 8890c9ea641cb56d0315a459098630a3",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -387960,7 +386652,7 @@
    "height": 1090
   },
   "credit": {
-   "author": "Bijutsushitan",
+   "author": "Miuki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -388304,30 +386996,10 @@
   }
  },
  "File:Taklamakan-d43.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Taklamakan-d43.jpg",
-  "width": 1024,
-  "height": 768,
-  "mime": "image/jpeg",
-  "sha1": "3b4ff9042054c91f6c33655822a7b851755ff5a2",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/Taklamakan-d43.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Taklamakan-d43.jpg/960px-Taklamakan-d43.jpg",
-   "width": 960,
-   "height": 720
-  },
-  "credit": {
-   "author": "File Upload Bot (Colegota)",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 2.5 es",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Taklamakan-d43.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Taklimakanm.jpg": {
   "ok": true,
@@ -390238,7 +388910,7 @@
    "height": 718
   },
   "credit": {
-   "author": "Denniss",
+   "author": "Longbow4u",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -392369,57 +391041,18 @@
   }
  },
  "File:Terminal Tower.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Terminal Tower.jpg",
-  "width": 3583,
-  "height": 2376,
-  "mime": "image/jpeg",
-  "sha1": "79b3523482914453654cef9e2750fc3dfb2399e8",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Terminal_Tower.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Terminal_Tower.jpg/960px-Terminal_Tower.jpg",
-   "width": 960,
-   "height": 637
-  },
-  "credit": {
-   "author": "FlickreviewR",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Terminal_Tower.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Termiten.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Termiten.jpg",
-  "width": 722,
-  "height": 1080,
-  "mime": "image/jpeg",
-  "sha1": "edbef4b092f13fa0dac6bdb4e1e439d51b8bd64a",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Termiten.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Termiten.jpg",
-   "width": 960,
-   "height": 1436
-  },
-  "credit": {
-   "author": "File Upload Bot (Magnus Manske)",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Termiten.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:Terra Kyushu 20091028.jpg": {
   "ok": true,
@@ -392609,7 +391242,7 @@
    "height": 1158
   },
   "credit": {
-   "author": "Serge Lachinov",
+   "author": "Tomisti",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -392890,7 +391523,7 @@
    "height": 1435
   },
   "credit": {
-   "author": "DrJunge",
+   "author": "Apcpca",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -396458,7 +395091,7 @@
    "height": 1032
   },
   "credit": {
-   "author": "Spiridon Ion Cepleanu",
+   "author": "MapMaster",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -397831,7 +396464,7 @@
    "height": 666
   },
   "credit": {
-   "author": "Hohum",
+   "author": "Gsl~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -399629,7 +398262,7 @@
    "height": 1340
   },
   "credit": {
-   "author": "Sette-quattro",
+   "author": "Kefaire",
    "authorSource": "uploader",
    "license": "CC BY-SA 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -399819,31 +398452,13 @@
   }
  },
  "File:Thomas Young by Thomas Lawrence.jpg": {
-  "ok": true,
+  "ok": false,
+  "file": "File:Thomas Young by Thomas Lawrence.jpg",
+  "reason": "no-author (artist and uploader both unusable)",
   "events": [
    "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
-  "file": "File:Thomas Young by Thomas Lawrence.jpg",
-  "width": 717,
-  "height": 1089,
-  "mime": "image/jpeg",
-  "sha1": "fe3a55107cd5b391f20afc080064bb9775aea83d",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Thomas_Young_by_Thomas_Lawrence.jpg",
-  "thumb": {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Thomas_Young_by_Thomas_Lawrence.jpg",
-   "width": 960,
-   "height": 1458
-  },
-  "credit": {
-   "author": "Kelson",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Young_by_Thomas_Lawrence.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+   "author-uploader-is-bot"
+  ]
  },
  "File:Thomashardy restored.jpg": {
   "ok": true,
@@ -400139,7 +398754,7 @@
    "height": 1207
   },
   "credit": {
-   "author": "Dddcg",
+   "author": "Chris 73",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -400478,7 +399093,7 @@
    "height": 724
   },
   "credit": {
-   "author": "Patricia.fidi",
+   "author": "Faxe",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -401658,7 +400273,7 @@
    "height": 961
   },
   "credit": {
-   "author": "Szczureq",
+   "author": "J. Patrick Fischer",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -402009,7 +400624,7 @@
    "height": 898
   },
   "credit": {
-   "author": "Mirecki",
+   "author": "Uwe W.",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -404319,7 +402934,7 @@
    "height": 546
   },
   "credit": {
-   "author": "Xhienne",
+   "author": "Lucero del Alba~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -406809,7 +405424,7 @@
    "height": 779
   },
   "credit": {
-   "author": "Hoa112008",
+   "author": "Benjah-bmm27",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -406872,7 +405487,7 @@
    "height": 1104
   },
   "credit": {
-   "author": "NuclearSecrets",
+   "author": "Fastfission~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -407113,7 +405728,7 @@
    "height": 1358
   },
   "credit": {
-   "author": "Michael Bednarek",
+   "author": "Plaigueis",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -410671,7 +409286,7 @@
    "height": 655
   },
   "credit": {
-   "author": "Indianhilbilly",
+   "author": "Enthusiast10",
    "authorSource": "uploader",
    "license": "CC BY-SA 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -411470,7 +410085,7 @@
    "height": 685
   },
   "credit": {
-   "author": "Macucal",
+   "author": "Zufs~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -415033,58 +413648,20 @@
   }
  },
  "File:USMC-110806-M-IX060-148.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:USMC-110806-M-IX060-148.jpg",
-  "width": 3744,
-  "height": 5616,
-  "mime": "image/jpeg",
-  "sha1": "bc68f1d009ea2439abfc8ab9bff19ec01c51780e",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/USMC-110806-M-IX060-148.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/USMC-110806-M-IX060-148.jpg/960px-USMC-110806-M-IX060-148.jpg",
-   "width": 960,
-   "height": 1440
-  },
-  "credit": {
-   "author": "Slick-o-bot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:USMC-110806-M-IX060-148.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:USMC-111007-M-UV915-234.jpg": {
-  "ok": true,
-  "events": [
-   "license-url-absent-pd",
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:USMC-111007-M-UV915-234.jpg",
-  "width": 3392,
-  "height": 2673,
-  "mime": "image/jpeg",
-  "sha1": "b2d0199d2ce508b1e897ab43268c9f896969a664",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/USMC-111007-M-UV915-234.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/USMC-111007-M-UV915-234.jpg/960px-USMC-111007-M-UV915-234.jpg",
-   "width": 960,
-   "height": 757
-  },
-  "credit": {
-   "author": "Slick-o-bot",
-   "authorSource": "uploader",
-   "license": "Public domain",
-   "licenseUrl": null,
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:USMC-111007-M-UV915-234.jpg",
-   "attribution": null,
-   "attributionRequired": false
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": [
+   "license-url-absent-pd"
+  ]
  },
  "File:USMC-Rich Froning Jr.jpg": {
   "ok": true,
@@ -415238,7 +413815,7 @@
    "height": 657
   },
   "credit": {
-   "author": "Hoshie",
+   "author": "Aris Katsaris",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -415520,7 +414097,7 @@
    "height": 519
   },
   "credit": {
-   "author": "Pataliputra!",
+   "author": "Electionworld",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -415954,7 +414531,7 @@
    "height": 1279
   },
   "credit": {
-   "author": "MasterRus21thCentury",
+   "author": "You for Me and Me for You",
    "authorSource": "uploader",
    "license": "CC BY 4.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -416919,7 +415496,7 @@
    "height": 863
   },
   "credit": {
-   "author": "Monsieur X",
+   "author": "Dinoguy2",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -417141,30 +415718,10 @@
   }
  },
  "File:Vaseapothicaire.jpg": {
-  "ok": true,
-  "events": [
-   "author-uploader-fallback"
-  ],
+  "ok": false,
   "file": "File:Vaseapothicaire.jpg",
-  "width": 1200,
-  "height": 1600,
-  "mime": "image/jpeg",
-  "sha1": "e4086260ddc975865d3163a72dbf787880047571",
-  "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Vaseapothicaire.jpg",
-  "thumb": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Vaseapothicaire.jpg/960px-Vaseapothicaire.jpg",
-   "width": 960,
-   "height": 1280
-  },
-  "credit": {
-   "author": "Reedy RotateBot",
-   "authorSource": "uploader",
-   "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "fileUrl": "https://commons.wikimedia.org/wiki/File:Vaseapothicaire.jpg",
-   "attribution": null,
-   "attributionRequired": true
-  }
+  "reason": "no-author (artist and uploader both unusable)",
+  "events": []
  },
  "File:Vashishtiputra Sri Satakarni.jpg": {
   "ok": true,
@@ -418699,7 +417256,7 @@
    "height": 593
   },
   "credit": {
-   "author": "Super Dromaeosaurus",
+   "author": "Postmann Michael~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -420888,7 +419445,7 @@
    "height": 1025
   },
   "credit": {
-   "author": "Hohum",
+   "author": "OldakQuill",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -423340,7 +421897,7 @@
    "height": 753
   },
   "credit": {
-   "author": "Dencey",
+   "author": "Benjamín Otero",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -424654,7 +423211,7 @@
    "height": 1343
   },
   "credit": {
-   "author": "Frze",
+   "author": "Allander",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -424717,7 +423274,7 @@
    "height": 1127
   },
   "credit": {
-   "author": "WikiJunkie",
+   "author": "Davepape",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -424965,7 +423522,7 @@
    "height": 2259
   },
   "credit": {
-   "author": "Kcx36",
+   "author": "Hannah~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -425018,7 +423575,7 @@
    "height": 1174
   },
   "credit": {
-   "author": "Hzh",
+   "author": "Hannah~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -426899,7 +425456,7 @@
    "height": 653
   },
   "credit": {
-   "author": "Jacek Halicki",
+   "author": "Nathanael Bar-Aur L.~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -427607,7 +426164,7 @@
    "height": 1194
   },
   "credit": {
-   "author": "Hex",
+   "author": "HowardMorland",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -429748,7 +428305,7 @@
    "height": 960
   },
   "credit": {
-   "author": "Achim55",
+   "author": "Faager",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -431822,7 +430379,7 @@
    "height": 1222
   },
   "credit": {
-   "author": "Denniss",
+   "author": "WonYong~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -434170,7 +432727,7 @@
    "height": 686
   },
   "credit": {
-   "author": "Chronus",
+   "author": "Avsa",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -435930,7 +434487,7 @@
    "height": 1185
   },
   "credit": {
-   "author": "Karl432",
+   "author": "Immanuel Giel",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -437153,7 +435710,7 @@
    "height": 1155
   },
   "credit": {
-   "author": "Meidosensei",
+   "author": "Shizhao",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -437578,7 +436135,7 @@
    "height": 695
   },
   "credit": {
-   "author": "Kreuzschnabel",
+   "author": "Weft",
    "authorSource": "uploader",
    "license": "CC BY-SA 3.0",
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -438973,7 +437530,7 @@
    "height": 468
   },
   "credit": {
-   "author": "Lojwe",
+   "author": "Zarateman",
    "authorSource": "uploader",
    "license": "CC BY 2.0",
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -439006,7 +437563,7 @@
    "height": 1779
   },
   "credit": {
-   "author": "Begoon",
+   "author": "Zereshk",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,
@@ -439033,7 +437590,7 @@
    "height": 1743
   },
   "credit": {
-   "author": "Rodomonte",
+   "author": "Dr. Meierhofer~commonswiki",
    "authorSource": "uploader",
    "license": "Public domain",
    "licenseUrl": null,

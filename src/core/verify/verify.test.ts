@@ -55,6 +55,13 @@ describe('verifier', () => {
     thing.paces.easy[1] = { type: 'sentence', text: 'Glass sponges are sponges with skeletons made of silica and they live in deep water in every ocean.' };
     expect(rules(thing)).toContain('length');
   });
+  it('language: fails on evidence only (another language outscores), not on stopword-free text', () => {
+    const { thing } = base();
+    setSentence(thing, 'Scientists found living reefs in the Hecate Strait in 1987.');
+    expect(rules(thing)).not.toContain('language');
+    setSentence(thing, 'Die Riffe wurden im Jahr 1987 von der Forschung in der Strait gefunden.');
+    expect(rules(thing)).toContain('language');
+  });
   it('voice lint applies to curated text only', () => {
     const { thing } = base();
     setSentence(thing, 'Did you know that glass sponges live in deep water in every ocean?');

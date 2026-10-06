@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T08:31:04.367Z",
+  "generatedAt": "2026-10-06T08:39:05.389Z",
   "vitalEntries": 10023,
   "excludedByListPolicy": 989,
   "images": {
     "evaluated": 24092,
-    "accepted": 15839,
+    "accepted": 15763,
     "rejected": {
       "mime image/svg+xml": 3180,
       "too-small": 4021,
@@ -14,6 +14,7 @@
       "restricted": 61,
       "extreme-aspect": 43,
       "missing": 89,
+      "no-author": 76,
       "not-on-commons": 57,
       "mime application/ogg": 20,
       "mime video/mpeg": 1,
@@ -23,42 +24,43 @@
       "mime application/sla": 1
     },
     "events": {
-      "author-uploader-fallback": 1282,
+      "author-uploader-fallback": 1206,
       "license-url-absent-pd": 5591,
       "attribution-verbatim": 1156,
       "personality-rights": 180,
       "author-multiline-trimmed": 337,
+      "author-uploader-is-bot": 21,
       "author-signature-stripped": 39
     }
   },
   "perLang": {
     "en": {
-      "image:own": 5442,
-      "kept": 7452,
-      "image:other-edition": 1477,
-      "drop:no-free-image-anywhere": 1457,
+      "image:own": 5425,
+      "kept": 7437,
+      "image:other-edition": 1480,
+      "drop:no-free-image-anywhere": 1472,
       "drop:person-living-or-recent": 123,
-      "image:wikidata-p18": 533,
+      "image:wikidata-p18": 532,
       "drop:list-or-year": 2
     },
     "de": {
-      "image:other-edition": 2412,
-      "kept": 7119,
-      "drop:no-free-image-anywhere": 1367,
+      "image:other-edition": 2430,
+      "kept": 7104,
+      "drop:no-free-image-anywhere": 1382,
       "drop:person-living-or-recent": 123,
-      "image:own": 4203,
-      "image:wikidata-p18": 504,
+      "image:own": 4171,
+      "image:wikidata-p18": 503,
       "drop:no-article-in-edition": 422,
       "drop:disambiguation": 2,
       "drop:list-or-year": 1
     },
     "fr": {
-      "image:own": 4795,
-      "kept": 7327,
-      "drop:no-free-image-anywhere": 1416,
+      "image:own": 4764,
+      "kept": 7312,
+      "drop:no-free-image-anywhere": 1431,
       "drop:person-living-or-recent": 123,
-      "image:other-edition": 2017,
-      "image:wikidata-p18": 515,
+      "image:other-edition": 2034,
+      "image:wikidata-p18": 514,
       "drop:no-article-in-edition": 161,
       "drop:disambiguation": 6,
       "drop:list-or-year": 1

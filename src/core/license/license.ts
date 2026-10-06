@@ -66,6 +66,7 @@ export type ImageRecord = {
 
 export type ImageEvent =
   | 'author-uploader-fallback'
+  | 'author-uploader-is-bot'
   | 'author-signature-stripped'
   | 'author-multiline-trimmed'
   | 'attribution-verbatim'
@@ -129,8 +130,25 @@ function fileUrlOf(ii: NonNullable<ImageInfo['imageinfo']>[number]): string | nu
 
 const ACCEPTED_MIME = new Set(['image/jpeg', 'image/png', 'image/webp', 'image/tiff']);
 
+/**
+ * Maintenance and review bots upload new versions (rotations, crops) or transfer files; they are never
+ * the author. "FlickreviewR" reviews Flickr licenses; "File Upload Bot (Magnus Manske)" transfers files.
+ */
+export function isBotAccount(name: string): boolean {
+  return /bot\b|bot$|^FlickreviewR|^File Upload Bot|^CommonsDelinker|^Commons fair use upload bot/i.test(name.trim());
+}
+
+export type EvaluateOptions = {
+  /**
+   * The uploader of the file's first version (from its history). The `user` in a plain imageinfo
+   * response is the uploader of the latest version, often a bot that only rotated or cropped the file.
+   * When given, this is the uploader the author fallback uses.
+   */
+  originalUploader?: string | null;
+};
+
 /** Decide whether a file may be used, and build its credit. */
-export function evaluateImage(info: ImageInfo): ImageVerdict {
+export function evaluateImage(info: ImageInfo, opts: EvaluateOptions = {}): ImageVerdict {
   const file = canonicalFileTitle(info.title);
   const events: ImageEvent[] = [];
   const no = (reason: string): ImageVerdict => ({ ok: false, file, reason, events });
@@ -164,8 +182,8 @@ export function evaluateImage(info: ImageInfo): ImageVerdict {
   let author = a.name;
   let authorSource: Credit['authorSource'] = 'artist';
   if (!author) {
-    const uploader = htmlToText(ii.user ?? '').trim();
-    if (!uploader || uploader.length > AUTHOR_MAX) return no('no-author (artist and uploader both unusable)');
+    const uploader = htmlToText((opts.originalUploader !== undefined ? opts.originalUploader : ii.user) ?? '').trim();
+    if (!uploader || uploader.length > AUTHOR_MAX || isBotAccount(uploader)) return no('no-author (artist and uploader both unusable)');
     author = uploader;
     authorSource = 'uploader';
     events.push('author-uploader-fallback');

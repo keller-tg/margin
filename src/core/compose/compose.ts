@@ -6,7 +6,7 @@ import { PACES, PACE_IDS, pageRange } from '../pace/pace';
 import type { Page, PaceId, Thing } from '../schema/thing';
 import { countWords, splitSentences } from '../text/sentences';
 import { normalizeTypography, type Lang } from '../typography/typography';
-import { capitalizeFirst, cleanSentence, danglingPronoun, fitToWords } from './clean';
+import { capitalizeFirst, cleanSentence, danglingPronoun, dropParentheticals, fitToWords, tidy } from './clean';
 import type { Packet } from './packet';
 
 export const QUALITY_THRESHOLD = 0.6;
@@ -29,7 +29,7 @@ function candidates(p: Packet): Cand[] {
       if (words > 45) score -= 0.3;
       if (/["“”«»„]/.test(c)) score -= 0.15;
       if (/:\s/.test(c)) score -= 0.1;
-      out.push({ text: c, idx: out.length, section, score, dangling: danglingPronoun(c, lang), facts });
+      out.push({ text: c, idx: out.length, section, score, dangling: danglingPronoun(c, lang, p.topic.title), facts });
     });
   };
   add(p.source.lead, null, 1);
@@ -57,8 +57,8 @@ function take(ctx: Ctx, cands: Cand[], opts: { allowDangling?: boolean; afterIdx
 }
 
 function titleLine(ctx: Ctx, cands: Cand[]): string {
-  const d = ctx.p.source.description.trim();
-  if (d && countWords(d) <= Math.min(ctx.max, 12) && !/[()]/.test(d)) return capitalizeFirst(d);
+  const d = tidy(dropParentheticals(ctx.p.source.description)).trim();
+  if (d && countWords(d) <= Math.min(ctx.max, 12) && !/[()[\]]/.test(d)) return capitalizeFirst(d);
   // fall back to the first lead sentence, fitted
   const first = cands.find((c) => c.section === null);
   const fit = first && fitToWords(first.text, Math.min(ctx.max, 12), ctx.lang);
@@ -72,7 +72,7 @@ function titleLine(ctx: Ctx, cands: Cand[]): string {
 function bigNumber(ctx: Ctx, cands: Cand[]): Page | null {
   // measures first, then large plain numbers; never a bare year
   const facts = Object.entries(ctx.p.facts)
-    .filter(([, f]) => (f.kind === 'measure' || (f.kind === 'number' && Number(f.value) >= 10)) && f.sentence)
+    .filter(([, f]) => (f.kind === 'measure' || (f.kind === 'number' && Number(f.value) >= 100)) && f.sentence)
     .sort(([, a], [, b]) => Number(b.kind === 'measure') - Number(a.kind === 'measure'));
   for (const [id, f] of facts) {
     const c = cands.find((x) => !ctx.used.has(x.idx) && x.facts.includes(id) && !x.dangling);
@@ -107,10 +107,14 @@ function timeline(ctx: Ctx, cands: Cand[]): Page | null {
   return { type: 'timeline', events: events.map(({ fact, label }) => ({ fact, label })) };
 }
 
-function closing(ctx: Ctx, cands: Cand[]): Page | null {
-  // prefer a calm, self-contained sentence from later in the source
-  const later = cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling).sort((a, b) => b.idx - a.idx);
-  for (const c of [...later.filter((c) => c.section === null), ...later]) {
+function closing(ctx: Ctx, cands: Cand[], onlyPage: boolean): Page | null {
+  const free = cands.filter((c) => !ctx.used.has(c.idx) && !c.dangling);
+  // the only page after the title (Easygoing evening): the defining first sentence of the lead
+  // otherwise: a calm, self-contained sentence from later in the lead
+  const order = onlyPage
+    ? free.sort((a, b) => a.idx - b.idx)
+    : [...free.filter((c) => c.section === null).sort((a, b) => b.idx - a.idx), ...free.sort((a, b) => b.idx - a.idx)];
+  for (const c of order) {
     const fit = fitToWords(c.text, ctx.max, ctx.lang);
     if (!fit) continue;
     ctx.used.add(c.idx);
@@ -157,7 +161,7 @@ function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], mi
     if (body.length === before) break;
   }
 
-  const close = closing(ctx, cands);
+  const close = closing(ctx, cands, body.length === 0);
   if (!close) return null;
   const pages = [title, ...body, close];
   if (body.length < bodyMin) return null;
@@ -170,7 +174,7 @@ function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], mi
   if (p.slot === 'morning' && pace !== 'easy' && kinds.size < 4) score -= 0.1;
   for (const pg of pages) {
     const t = pg.type === 'sentence' || pg.type === 'closing' ? pg.text : '';
-    if (t && danglingPronoun(t, p.lang)) score -= 0.15;
+    if (t && danglingPronoun(t, p.lang, p.topic.title)) score -= 0.15;
   }
   return { pages: pages.slice(0, maxPages), score };
 }
@@ -205,7 +209,8 @@ export function composeExtractive(p: Packet): ComposeResult {
     scores.push(r.score);
   }
   const usedFacts = new Set(PACE_IDS.flatMap((k) => paces[k]).flatMap((pg) => (pg.type === 'bignumber' ? [pg.fact] : pg.type === 'timeline' ? pg.events.map((e) => e.fact) : [])));
-  const teaserFit = p.source.description ? capitalizeFirst(p.source.description) : p.topic.title;
+  const desc = tidy(dropParentheticals(p.source.description)).trim();
+  const teaserFit = desc ? capitalizeFirst(desc) : p.topic.title;
   const thing: Thing = {
     schema: 1,
     id: `${p.lang}-${p.date}-${p.slot}`,

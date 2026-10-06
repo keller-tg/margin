@@ -27,7 +27,7 @@ const UNIT_RE = UNITS.slice()
   .map((u) => u.replace(/[.*+?^${}()|[\]\\/]/g, '\\$&'))
   .join('|');
 
-const NUMBER_RE = new RegExp(String.raw`(?<![\p{L}\p{N}])(${NUM})(?:${SP}?(${Object.keys(SCALE).filter((k) => !k.includes('_')).join('|')})\b)?(?:${SP}?(${UNIT_RE})(?![\p{L}]))?`, 'giu');
+const NUMBER_RE = new RegExp(String.raw`(?<![\p{L}\p{N}])(${NUM})(?:${SP}?(${Object.keys(SCALE).filter((k) => !k.includes('_')).join('|')})\b)?(?:${SP}?(${UNIT_RE})(?![\p{L}]))?(?![\p{L}\d]|[.,]\d)`, 'giu');
 
 export type NumberHit = {
   surface: string;

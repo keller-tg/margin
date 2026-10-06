@@ -26,6 +26,7 @@ export function tidy(s: string): string {
 export function cleanSentence(raw: string): string | null {
   const s = tidy(dropParentheticals(raw.replace(/\s*\n\s*/g, ' ')));
   if (/[()[\]{}]|==|\|/.test(s)) return null; // leftovers of markup or unbalanced brackets
+  if (/\p{L}-\s(?!(und|oder|bzw|sowie|and|or|et|ou)\b)/u.test(s)) return null; // "Hopewell- folgte": a compound broken by a removed parenthetical
   if (!/[.!?…]$/.test(s)) return null;
   if (countWords(s) < 4) return null;
   return s;
@@ -37,9 +38,27 @@ const PRONOUN_START: Record<Lang, RegExp> = {
   fr: /^(il|elle|ils|elles|son|sa|ses|leur|leurs|ce|cette|ces|celui|celle|ceux|on|y)\b/i,
 };
 
-/** Starts with a pronoun that needs an antecedent ("It was…"). */
-export function danglingPronoun(s: string, lang: Lang): boolean {
-  return PRONOUN_START[lang].test(s.replace(/^[«„“"\s]+/, ''));
+// Subject/possessive pronouns that need an antecedent when they appear early in a sentence.
+const PRONOUN_EARLY: Record<Lang, RegExp> = {
+  en: /^(he|she|it|they|his|her|its|their|them|him)$/i,
+  de: /^(er|sie|es|ihr|ihre|sein|seine|ihm|ihn)$/i,
+  fr: /^(il|elle|ils|elles|lui|leur|leurs|son|sa|ses)$/i,
+};
+
+/**
+ * Needs an antecedent: starts with a pronoun ("It was…"), or has a subject pronoun within its first
+ * six words ("Lorsqu’elle revient, elle…", "By 1804 he had…") before naming the topic itself.
+ */
+export function danglingPronoun(s: string, lang: Lang, topic?: string): boolean {
+  const t = s.replace(/^[«„“"\s]+/, '');
+  if (PRONOUN_START[lang].test(t)) return true;
+  const words = t.split(/[\s,;:’']+/).slice(0, 6);
+  const topicWord = topic?.split(/\s+/)[0]?.toLowerCase();
+  for (const w of words) {
+    if (topicWord && w.toLowerCase().startsWith(topicWord.slice(0, Math.max(4, topicWord.length - 2)))) return false;
+    if (PRONOUN_EARLY[lang].test(w)) return true;
+  }
+  return false;
 }
 
 const CLAUSE_BREAK: Record<Lang, RegExp> = {
@@ -59,7 +78,9 @@ export function fitToWords(s: string, max: number, lang: Lang): { text: string; 
   for (const at of cuts.reverse()) {
     const head = tidy(s.slice(0, at));
     const words = countWords(head);
-    if (words <= max && words >= 5 && !/\b(the|a|an|of|der|die|das|des|le|la|les|de|du)$/i.test(head)) {
+    const lastSeg = head.split(/,\s*/).pop() ?? '';
+    const openRelative = /^(whose|which|who|whom|where|that|dont|qui|où|lequel|laquelle|welche[rsn]?|deren|dessen|wo)\b/i.test(lastSeg) && head.includes(',');
+    if (words <= max && words >= 5 && !openRelative && !/\b(the|a|an|of|der|die|das|des|le|la|les|de|du)$/i.test(head)) {
       return { text: head.replace(/[,;:–—\s]+$/, '') + '.', truncated: true };
     }
   }
