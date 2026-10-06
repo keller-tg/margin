@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-11-evening",
+ "date": "2026-10-11",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Uranus (Planet)",
+  "qid": "Q324",
+  "pageid": 5323,
+  "revid": 269311208,
+  "domain": "astronomy",
+  "teaser": "Siebter Planet unseres Sonnensystems"
+ },
+ "sources": [
+  {
+   "title": "Uranus (Planet)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Uranus_(Planet)&oldid=269311208",
+   "revid": 269311208,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Uranus Voyager2 color calibrated.png",
+   "w": 830,
+   "h": 830,
+   "alt": "Uranus (Planet)",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+   "sha1": "e320e68e31322cf50d0da0bc523cded6ed7a6de2",
+   "credit": {
+    "author": "Ardenau4",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Uranus (Planet)",
+    "line": "Siebter Planet unseres Sonnensystems",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Ein anderes, hauptsächlich in der Astrologie verwendetes Uranussymbol ist."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Uranus (Planet)",
+    "line": "Siebter Planet unseres Sonnensystems",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Durchmesser dieses Gasplaneten ist mit 51.000 Kilometern etwa viermal so gross wie der Durchmesser der Erde."
+   },
+   {
+    "type": "closing",
+    "text": "Mit Stand 2024 befand sich Uranus aus Perspektive der Erde im Sternbild Stier und ist damit am Herbst- und Winterhimmel gut zu beobachten."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Uranus (Planet)",
+    "line": "Siebter Planet unseres Sonnensystems",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Uranus ist von der Sonne aus mit einer durchschnittlichen Sonnenentfernung von 2,9 Milliarden Kilometern der siebte Planet im Sonnensystem und wird zu den Eisriesen gerechnet."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Uranus (Planet)"
+   },
+   {
+    "type": "closing",
+    "text": "Mit Stand 2024 befand sich Uranus aus Perspektive der Erde im Sternbild Stier und ist damit am Herbst- und Winterhimmel gut zu beobachten."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1439d5b1996862.0e2a4b53dd8089"
+ }
+}

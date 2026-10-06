@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-10-evening",
+ "date": "2026-10-10",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Sekretär (Vogel)",
+  "qid": "Q168748",
+  "pageid": 255481,
+  "revid": 267190158,
+  "domain": "animals",
+  "teaser": "Art der Gattung Sekretäre"
+ },
+ "sources": [
+  {
+   "title": "Sekretär (Vogel)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Sekret%C3%A4r_(Vogel)&oldid=267190158",
+   "revid": 267190158,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Sagittarius serpentarius Sekretär.JPG",
+   "w": 1832,
+   "h": 2517,
+   "alt": "Sekretär (Vogel)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sagittarius_serpentarius_Sekret%C3%A4r.JPG/960px-Sagittarius_serpentarius_Sekret%C3%A4r.JPG",
+   "sha1": "e7408acf5ccbe4227f37c2b293c8cf8151102648",
+   "credit": {
+    "author": "Yoky",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Sagittarius_serpentarius_Sekret%C3%A4r.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sekretär (Vogel)",
+    "line": "Art der Gattung Sekretäre",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Aber auch andere Kleintiere gehören zu seiner Beute."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sekretär (Vogel)",
+    "line": "Art der Gattung Sekretäre",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Sekretär ist eine grosse Greifvogelart, die weite Teile des afrikanischen Kontinents südlich der Sahara bewohnt."
+   },
+   {
+    "type": "closing",
+    "text": "Manche Autoren gehen sogar so weit, ihm eine eigene Ordnung Sagitariiformes zuzuweisen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sekretär (Vogel)",
+    "line": "Art der Gattung Sekretäre",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Sekretär ist eine grosse Greifvogelart, die weite Teile des afrikanischen Kontinents südlich der Sahara bewohnt."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sekretär (Vogel)"
+   },
+   {
+    "type": "closing",
+    "text": "Manche Autoren gehen sogar so weit, ihm eine eigene Ordnung Sagitariiformes zuzuweisen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "081430da95ce6c.1959b018c43900"
+ }
+}

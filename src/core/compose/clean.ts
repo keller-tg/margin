@@ -27,6 +27,7 @@ export function cleanSentence(raw: string): string | null {
   const s = tidy(dropParentheticals(raw.replace(/\s*\n\s*/g, ' ')));
   if (/[()[\]{}]|==|\|/.test(s)) return null; // leftovers of markup or unbalanced brackets
   if (/\p{L}-\s(?!(und|oder|bzw|sowie|and|or|et|ou)\b)/u.test(s)) return null; // "Hopewell- folgte": a compound broken by a removed parenthetical
+  if ((s.match(/(^|\s)\p{L}\.(?=\s)/gu) ?? []).length >= 3) return null; // "P. l. persica, P. l. kamptzi": lists of abbreviations
   if (!/[.!?…]$/.test(s)) return null;
   if (countWords(s) < 4) return null;
   return s;

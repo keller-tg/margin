@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-14-morning",
+ "date": "2026-10-14",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Japan",
+  "qid": "Q17",
+  "pageid": 15573,
+  "revid": 1378660280,
+  "domain": "places",
+  "teaser": "Country in East Asia"
+ },
+ "sources": [
+  {
+   "title": "Japan",
+   "url": "https://en.wikipedia.org/w/index.php?title=Japan&oldid=1378660280",
+   "revid": 1378660280,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Satellite image of Japan in May 2003.jpg",
+   "w": 5800,
+   "h": 7200,
+   "alt": "Japan",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Satellite_image_of_Japan_in_May_2003.jpg/960px-Satellite_image_of_Japan_in_May_2003.jpg",
+   "sha1": "b345f4da983b16251c0359d61bd8bf6333815885",
+   "credit": {
+    "author": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Japan_in_May_2003.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f3": {
+   "kind": "measure",
+   "value": 75,
+   "unit": "%",
+   "surface": "75%"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1853",
+   "surface": "1853"
+  },
+  "f20": {
+   "kind": "measure",
+   "value": 38000,
+   "unit": "years",
+   "surface": "38,000 years"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "552",
+   "surface": "552"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "784",
+   "surface": "784"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1336",
+   "surface": "1336"
+  },
+  "f100": {
+   "kind": "measure",
+   "value": 377975.24,
+   "unit": "km2",
+   "surface": "377,975.24 km2"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Japan",
+    "line": "Country in East Asia",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Japan is an island country in East Asia."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f100",
+    "display": "377,975.24 km2",
+    "caption": "As of 2019, Japan’s territory is 377,975.24 km2."
+   },
+   {
+    "type": "closing",
+    "text": "Japan is a constitutional monarchy with a bicameral legislature known as the National Diet."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Japan",
+    "line": "Country in East Asia",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Japan is an island country in East Asia."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Japan"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f20",
+    "display": "38,000 years",
+    "caption": "Modern humans arrived in Japan around 38,000 years ago, marking the beginning of the Japanese Paleolithic."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f25",
+      "label": "Buddhism was introduced to Japan from Baekje in 552."
+     },
+     {
+      "fact": "f36",
+      "label": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō in 794."
+     },
+     {
+      "fact": "f45",
+      "label": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period."
+     },
+     {
+      "fact": "f8",
+      "label": "In 1853, an American fleet forced Japan to open trade to the West."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The Japanese archipelago consists of four major islands alongside over 14,000 smaller islands."
+   },
+   {
+    "type": "closing",
+    "text": "A developed country with one of the world’s largest economies by nominal GDP, it is a global leader in the automotive, electronics."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Japan",
+    "line": "Country in East Asia",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Japan is an island country in East Asia."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Japan"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "75%",
+    "caption": "Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f25",
+      "label": "Buddhism was introduced to Japan from Baekje in 552."
+     },
+     {
+      "fact": "f36",
+      "label": "In 784, Emperor Kanmu moved the capital, settling on Heian-kyō in 794."
+     },
+     {
+      "fact": "f45",
+      "label": "Go-Daigo was defeated by Ashikaga Takauji in 1336, beginning the Muromachi period."
+     },
+     {
+      "fact": "f8",
+      "label": "In 1853, an American fleet forced Japan to open trade to the West."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Before 日本 was adopted in the early 8th century, the country was known in China as Wa and in Japan by the endonym Yamato."
+   },
+   {
+    "type": "sentence",
+    "text": "The name for Japan in Japanese is written using the kanji 日本 and is pronounced Nihon or Nippon."
+   },
+   {
+    "type": "sentence",
+    "text": "The first version of the name in English appears in a book published in 1577, which spelled the name as Giapan in a translation of a 1565 Portuguese letter."
+   },
+   {
+    "type": "sentence",
+    "text": "Modern humans arrived in Japan around 38,000 years ago, marking the beginning of the Japanese Paleolithic."
+   },
+   {
+    "type": "sentence",
+    "text": "Around 14,500 BC, a Mesolithic to Neolithic semi-sedentary hunter-gatherer culture characterized by pit dwelling and rudimentary agriculture emerged."
+   },
+   {
+    "type": "sentence",
+    "text": "According to legend, Emperor Jimmu founded a kingdom in central Japan in 660 BC, beginning a continuous imperial line."
+   },
+   {
+    "type": "closing",
+    "text": "The culture of Japan is well known around the world, particularly its popular culture as expressed in animation, art, comics, cuisine, fashion, films, music, television, theater, and video games."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "05274c47c56c2c.1fb1110f443cad"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-23-evening",
+ "date": "2026-10-23",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Oat",
+  "qid": "Q12104",
+  "pageid": 46573,
+  "revid": 1374262683,
+  "domain": "plants",
+  "teaser": "Cereal grass and grain"
+ },
+ "sources": [
+  {
+   "title": "Oat",
+   "url": "https://en.wikipedia.org/w/index.php?title=Oat&oldid=1374262683",
+   "revid": 1374262683,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:AvenaSativa3.jpg",
+   "w": 1500,
+   "h": 2000,
+   "alt": "Oat",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/AvenaSativa3.jpg/960px-AvenaSativa3.jpg",
+   "sha1": "3dcde1e722d1fd0db63ec2104b7bb1ee771599b9",
+   "credit": {
+    "author": "Christian Fischer",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:AvenaSativa3.jpg",
+    "attribution": "Christian Fischer",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Oat",
+    "line": "Cereal grass and grain",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Oats tolerate cold winters less well than cereals such as wheat, barley, and rye."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Oat",
+    "line": "Cereal grass and grain",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The oat, sometimes called the common oat, is a species of cereal grass grown for fodder and for its seed."
+   },
+   {
+    "type": "closing",
+    "text": "One of the most common uses of oats is as livestock feed."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Oat",
+    "line": "Cereal grass and grain",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The oat, sometimes called the common oat, is a species of cereal grass grown for fodder and for its seed, which is known by the same name."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Oat"
+   },
+   {
+    "type": "closing",
+    "text": "One of the most common uses of oats is as livestock feed; the crop can also be grown as groundcover and ploughed in as a green manure."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0ab96d0b57663b.1bd633cf240a10"
+ }
+}

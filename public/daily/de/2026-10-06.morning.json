@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-06-morning",
+ "date": "2026-10-06",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Cleveland",
+  "qid": "Q37320",
+  "pageid": 139275,
+  "revid": 270431856,
+  "domain": "cities",
+  "teaser": "Stadt im US-Bundesstaat Ohio"
+ },
+ "sources": [
+  {
+   "title": "Cleveland",
+   "url": "https://de.wikipedia.org/w/index.php?title=Cleveland&oldid=270431856",
+   "revid": 270431856,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Cleveland skyline from Lakewood Park, January 2026.jpg",
+   "w": 8199,
+   "h": 4340,
+   "alt": "Cleveland",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg/960px-Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg",
+   "sha1": "662c70ee0430c1a34e4a722ebe7c23470a6f7187",
+   "credit": {
+    "author": "Erik Drost",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Cleveland_skyline_from_Lakewood_Park,_January_2026.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f13": {
+   "kind": "measure",
+   "value": 213.47,
+   "unit": "km²",
+   "surface": "213,47 km²"
+  },
+  "f17": {
+   "kind": "measure",
+   "value": 750,
+   "unit": "meter",
+   "surface": "750 Meter"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1994",
+   "surface": "1994"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1988",
+   "surface": "1988"
+  },
+  "f63": {
+   "kind": "date",
+   "value": "1640",
+   "surface": "1640"
+  },
+  "f70": {
+   "kind": "date",
+   "value": "1818",
+   "surface": "1818"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Cleveland",
+    "line": "Stadt im US-Bundesstaat Ohio",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland ist eine City im Nordosten des US-Bundesstaates Ohio."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "750 Meter",
+    "caption": "Das Stadtzentrum 750 Meter landeinwärts liegt bereits 25 Meter über dem Seespiegel."
+   },
+   {
+    "type": "closing",
+    "text": "In der Vergangenheit hatten zudem progressivistische Strömungen und die Gewerkschaften grossen Einfluss."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Cleveland",
+    "line": "Stadt im US-Bundesstaat Ohio",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland ist eine City im Nordosten des US-Bundesstaates Ohio."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Cleveland"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "750 Meter",
+    "caption": "Das Stadtzentrum 750 Meter landeinwärts liegt bereits 25 Meter über dem Seespiegel."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f63",
+      "label": "So ist zwischen 1640 und 1740 gar keine Siedlungstätigkeit zu verzeichnen."
+     },
+     {
+      "fact": "f70",
+      "label": "1818 wurden die ersten zwei Zeitungen gegründet."
+     },
+     {
+      "fact": "f48",
+      "label": "Die höchste Temperatur wurde am 25. Juni 1988 mit 40 °C gemessen."
+     },
+     {
+      "fact": "f42",
+      "label": "Die bisher niedrigste Temperatur wurde am 19. Januar 1994 mit −28,8 °C gemessen."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Dem stehen Bemühungen gegenüber, Dienstleistungsunternehmen anzusiedeln, die Schulbildung zu verbessern und kulturelle Akzente zu setzen."
+   },
+   {
+    "type": "closing",
+    "text": "In der Vergangenheit hatten zudem progressivistische Strömungen und die Gewerkschaften grossen Einfluss."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Cleveland",
+    "line": "Stadt im US-Bundesstaat Ohio",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland ist eine City im Nordosten des US-Bundesstaates Ohio."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Cleveland"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f13",
+    "display": "213,47 km²",
+    "caption": "Das Stadtgebiet ist 213,47 km² gross und erstreckt sich mit einer Unterbrechung durch die Gemeinde Bratenahl über 22,5 Kilometer entlang des Seeufers sowie unregelmässig bis zu 14,5 Kilometer tief ins Landesinnere."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f63",
+      "label": "So ist zwischen 1640 und 1740 gar keine Siedlungstätigkeit zu verzeichnen."
+     },
+     {
+      "fact": "f70",
+      "label": "1818 wurden die ersten zwei Zeitungen gegründet."
+     },
+     {
+      "fact": "f48",
+      "label": "Die höchste Temperatur wurde am 25. Juni 1988 mit 40 °C gemessen."
+     },
+     {
+      "fact": "f42",
+      "label": "Die bisher niedrigste Temperatur wurde am 19. Januar 1994 mit −28,8 °C gemessen."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Stadt liegt zu beiden Seiten der Mündung des Cuyahoga in den See, wobei sich etwa zwei Drittel des Stadtgebietes und der Stadtkern östlich davon befinden."
+   },
+   {
+    "type": "sentence",
+    "text": "Die ältesten Spuren menschlicher Besiedelung gehen auf die Paläoindianer zurück und datieren aus der Zeit zwischen 10500 und 7500 v. Chr., etwa 2500 Jahre nach Ende der letzten Eiszeit."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Gruppen, wohl Grossfamilien, lebten zunächst nomadisch, ab der mittleren Archaischen Periode nach 4500 v. Chr. wurden sie zunehmend sesshaft."
+   },
+   {
+    "type": "sentence",
+    "text": "Eine grössere Siedlung bestand im äussersten Westen Clevelands, dort wo der Hilliard Boulevard den Rocky River überquert."
+   },
+   {
+    "type": "sentence",
+    "text": "Der zugehörige Bezirk, das Cuyahoga County, umgibt die Stadt gleichmässig von allen drei Seiten und bildet zusammen mit vier der fünf angrenzenden Countys das Cleveland-Elyria-Mentor Metropolitan Statistical Area, umgangssprachlich Greater Cleveland genannt."
+   },
+   {
+    "type": "sentence",
+    "text": "Erstmals sind abgrenzbare Territorien nachweisbar, innerhalb derer saisonale Wanderungen inzwischen angewachsener und sozial stärker differenzierter Gruppen stattfanden."
+   },
+   {
+    "type": "closing",
+    "text": "In der Vergangenheit hatten zudem progressivistische Strömungen und die Gewerkschaften grossen Einfluss."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1e596b50391467.007aa1905369de"
+ }
+}

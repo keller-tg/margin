@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-13-morning",
+ "date": "2026-10-13",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Kigali",
+  "qid": "Q3859",
+  "pageid": 56690,
+  "revid": 1377206149,
+  "domain": "cities",
+  "teaser": "Capital and largest city of Rwanda"
+ },
+ "sources": [
+  {
+   "title": "Kigali",
+   "url": "https://en.wikipedia.org/w/index.php?title=Kigali&oldid=1377206149",
+   "revid": 1377206149,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:High Angle View Of Kigali City Street on November 29, 2018. Emmanuel Kwizera.jpg",
+   "w": 2047,
+   "h": 1409,
+   "alt": "Kigali",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/High_Angle_View_Of_Kigali_City_Street_on_November_29%2C_2018._Emmanuel_Kwizera.jpg/960px-High_Angle_View_Of_Kigali_City_Street_on_November_29%2C_2018._Emmanuel_Kwizera.jpg",
+   "sha1": "2ca73796303cee94b02aea08a2560266d30a75d0",
+   "credit": {
+    "author": "Emmanuelkwizera",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:High_Angle_View_Of_Kigali_City_Street_on_November_29,_2018._Emmanuel_Kwizera.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f16": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020"
+  },
+  "f21": {
+   "kind": "measure",
+   "value": 40,
+   "unit": "kilometres",
+   "surface": "40 kilometres"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1905",
+   "surface": "1905"
+  },
+  "f41": {
+   "kind": "date",
+   "value": "1962",
+   "surface": "1962"
+  },
+  "f65": {
+   "kind": "measure",
+   "value": 70,
+   "unit": "per cent",
+   "surface": "70 per cent"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Kigali",
+    "line": "Capital and largest city of Rwanda",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "As Rwanda’s primary city, Kigali is a relatively young urban centre."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f65",
+    "display": "70 per cent",
+    "caption": "The built-up urban area covers about 70 per cent of the municipal boundaries."
+   },
+   {
+    "type": "closing",
+    "text": "Attracting international visitors is a priority for city authorities, including leisure tourism, conferences and exhibitions."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Kigali",
+    "line": "Capital and largest city of Rwanda",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Kigali, officially the City of Kigali also known as Kigali City, is the capital, largest city, and a province-level administrative unit of Rwanda."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Kigali"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f65",
+    "display": "70 per cent",
+    "caption": "The built-up urban area covers about 70 per cent of the municipal boundaries."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f28",
+      "label": "Despite a German ordinance written in 1905."
+     },
+     {
+      "fact": "f41",
+      "label": "Kigali became the capital upon Rwandan independence in 1962."
+     },
+     {
+      "fact": "f16",
+      "label": "Reforms in January 2020 transferred much of the districts’ power to the city-wide council."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "As Rwanda’s primary city, Kigali is a relatively young urban centre."
+   },
+   {
+    "type": "closing",
+    "text": "Attracting international visitors is a priority for city authorities, including leisure tourism, conferences and exhibitions."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Kigali",
+    "line": "Capital and largest city of Rwanda",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Kigali, officially the City of Kigali also known as Kigali City, is the capital, largest city, and a province-level administrative unit of Rwanda."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Kigali"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f21",
+    "display": "40 kilometres",
+    "caption": "According to oral history, the Kingdom of Rwanda was founded in the 14th century on the shores of Lake Muhazi, around 40 kilometres east of modern Kigali."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f28",
+      "label": "Despite a German ordinance written in 1905."
+     },
+     {
+      "fact": "f41",
+      "label": "Kigali became the capital upon Rwandan independence in 1962."
+     },
+     {
+      "fact": "f16",
+      "label": "Reforms in January 2020 transferred much of the districts’ power to the city-wide council."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The earliest inhabitants of what is now Rwanda were the Twa, a group of aboriginal pygmy hunter-gatherers who settled the area between 8000 and 3000 BC and remain in the country today."
+   },
+   {
+    "type": "sentence",
+    "text": "Kigali is located in the centre of Rwanda, at 1°57′S 30°4′E."
+   },
+   {
+    "type": "sentence",
+    "text": "The City of Kigali is a province-level administrative unit, one of five top-level subdivisions established in 2006 alongside the country’s four provinces as part of a restructuring of local government."
+   },
+   {
+    "type": "sentence",
+    "text": "The city has an average elevation of 1,567 m above sea level, with the lowest areas, in the valleys, lying at around 1,300 m."
+   },
+   {
+    "type": "sentence",
+    "text": "Kigali’s central business district, sometimes known by the Kinyarwanda term mu mujyi, is on Nyarugenge Hill and was the site of the original city founded by Richard Kandt in 1907."
+   },
+   {
+    "type": "sentence",
+    "text": "The house that Kandt lived in is now the Kandt House Museum of Natural History."
+   },
+   {
+    "type": "closing",
+    "text": "Attracting international visitors is a priority for city authorities, including leisure tourism, conferences and exhibitions."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "084c998a2e379a.0802a541ac27d7"
+ }
+}

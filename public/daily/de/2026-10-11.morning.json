@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-11-morning",
+ "date": "2026-10-11",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Colorado River",
+  "qid": "Q1265",
+  "pageid": 149829,
+  "revid": 269761922,
+  "domain": "water",
+  "teaser": "Grösster Fluss im Südwesten von Nordamerika"
+ },
+ "sources": [
+  {
+   "title": "Colorado River",
+   "url": "https://de.wikipedia.org/w/index.php?title=Colorado_River&oldid=269761922",
+   "revid": 269761922,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Colorado River, Grand Canyon.jpg",
+   "w": 3008,
+   "h": 2000,
+   "alt": "Colorado River",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Colorado_River%2C_Grand_Canyon.jpg/960px-Colorado_River%2C_Grand_Canyon.jpg",
+   "sha1": "7cf3e0a035b854191fc67b71b4d7f993b7be6303",
+   "credit": {
+    "author": "Wolfgang Staudt from Saarbruecken, Germany",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Colorado_River,_Grand_Canyon.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 1600,
+   "unit": "km",
+   "surface": "1.600 km"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "2022",
+   "surface": "2022"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 80,
+   "unit": "prozent",
+   "surface": "80 Prozent"
+  },
+  "f23": {
+   "kind": "measure",
+   "value": 80,
+   "unit": "prozent",
+   "surface": "80 Prozent"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1966",
+   "surface": "1966"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "2014",
+   "surface": "2014"
+  },
+  "f49": {
+   "kind": "date",
+   "value": "2010",
+   "surface": "2010"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Colorado River",
+    "line": "Grösster Fluss im Südwesten von Nordamerika",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Colorado ist der grösste und wichtigste Fluss im Südwesten Nordamerikas."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f23",
+    "display": "80 Prozent",
+    "caption": "Etwa 80 Prozent des Wassers des Colorado River wird für landwirtschaftliche Zwecke genutzt."
+   },
+   {
+    "type": "closing",
+    "text": "44-minütige Fernsehdokumentation von Katja Esson."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Colorado River",
+    "line": "Grösster Fluss im Südwesten von Nordamerika",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Colorado ist der grösste und wichtigste Fluss im Südwesten Nordamerikas."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Colorado River"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "80 Prozent",
+    "caption": "In den 1970er Jahren machten Karpfen 70–80 Prozent aller im Mittellauf des Colorado gefangenen Fische aus."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f30",
+      "label": "Damm-Bauten, vor allem des Glen Canyon Dam im Jahr 1966, halten das Wasser zurück."
+     },
+     {
+      "fact": "f49",
+      "label": "Das Experiment wurde möglich, weil 2010 ein Erdbeben mexikanische Bewässerungskanäle zerstört hatte."
+     },
+     {
+      "fact": "f42",
+      "label": "Im Jahr 2014 hielt der See noch 14,8 km³."
+     },
+     {
+      "fact": "f8",
+      "label": "Der Rotlachs ist ein prominentes Beispiel; im Jahr 2022 verendeten zehntausende Tiere durch Pilzinfektionen."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Landwirtschaft, Trinkwasser- und Elektrizitätsversorgung im Südwesten der Vereinigten Staaten und in Teilen Kaliforniens hängen stark vom Wasserregime des Colorado River ab."
+   },
+   {
+    "type": "closing",
+    "text": "Seit vielen Jahren gilt der durch Dürre, Trockenheit und Wasserentnahme bedrohte Colorado River als der am stärksten gefährdete Fluss der USA."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Colorado River",
+    "line": "Grösster Fluss im Südwesten von Nordamerika",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Colorado ist der grösste und wichtigste Fluss im Südwesten Nordamerikas."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Colorado River"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "1.600 km",
+    "caption": "Auf einer Länge von 1.600 km fliesst der Colorado River durch mehrere Canyons, unter anderem durch den Glenwood Canyon in Colorado, den Glen Canyon in Utah, den Marble Canyon und Grand Canyon in Arizona."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f30",
+      "label": "Damm-Bauten, vor allem des Glen Canyon Dam im Jahr 1966, halten das Wasser zurück."
+     },
+     {
+      "fact": "f49",
+      "label": "Das Experiment wurde möglich, weil 2010 ein Erdbeben mexikanische Bewässerungskanäle zerstört hatte."
+     },
+     {
+      "fact": "f42",
+      "label": "Im Jahr 2014 hielt der See noch 14,8 km³."
+     },
+     {
+      "fact": "f8",
+      "label": "Der Rotlachs ist ein prominentes Beispiel; im Jahr 2022 verendeten zehntausende Tiere durch Pilzinfektionen."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Vor dem Bau des Glen Canyon Dam, der 1963 vollendet wurde, gab es keine übergreifenden Untersuchungen."
+   },
+   {
+    "type": "sentence",
+    "text": "Die erste Welle an systematischer Forschung begann erst 1977 auf Anregung und bezahlt durch das Bureau of Reclamation, den Betreiber der Talsperre."
+   },
+   {
+    "type": "sentence",
+    "text": "So versorgt der Fluss rund 40 Millionen Amerikaner und eine rund acht Milliarden Dollar umfassende Landwirtschaftsindustrie mit Wasser."
+   },
+   {
+    "type": "sentence",
+    "text": "Etwa 80 Prozent des Wassers des Colorado River wird für landwirtschaftliche Zwecke genutzt."
+   },
+   {
+    "type": "sentence",
+    "text": "Über 90 Prozent des Wassers, welches der Colorado River normalerweise führt, stammt aus der Schneeschmelze."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Fluss entspringt im Rocky-Mountain-Nationalpark im US-Bundesstaat Colorado, nordwestlich von Denver auf der Westflanke der Nordamerikanischen Kontinentalen Wasserscheide."
+   },
+   {
+    "type": "closing",
+    "text": "Seit vielen Jahren gilt der durch Dürre, Trockenheit und Wasserentnahme bedrohte Colorado River als der am stärksten gefährdete Fluss der USA."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1b8a8182905f3b.181e8e8a1ddd1d"
+ }
+}

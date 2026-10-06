@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-14-evening",
+ "date": "2026-10-14",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Schildkröten",
+  "qid": "Q223044",
+  "pageid": 33397,
+  "revid": 269649027,
+  "domain": "animals",
+  "teaser": "Gepanzerte Kriechtiere aus der Ordnung der Sauropsida"
+ },
+ "sources": [
+  {
+   "title": "Schildkröten",
+   "url": "https://de.wikipedia.org/w/index.php?title=Schildkr%C3%B6ten&oldid=269649027",
+   "revid": 269649027,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Emys orbicularis 1.jpg",
+   "w": 1117,
+   "h": 830,
+   "alt": "Schildkröten",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Emys_orbicularis_1.jpg/960px-Emys_orbicularis_1.jpg",
+   "sha1": "a129ae083159ef457e6a6d2f7a0109b4590fe730",
+   "credit": {
+    "author": "Krüger (www.emys-home.de)",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Emys_orbicularis_1.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Schildkröten",
+    "line": "Gepanzerte Kriechtiere aus der Ordnung der Sauropsida",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Die Schildkröten haben sich den unterschiedlichsten Biotopen und ökologischen Nischen angepasst."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Schildkröten",
+    "line": "Gepanzerte Kriechtiere aus der Ordnung der Sauropsida",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Schildkröten sind eine Ordnung der Sauropsida und erschienen erstmals vor mehr als 220 Millionen Jahren im Karnium."
+   },
+   {
+    "type": "closing",
+    "text": "Durch menschliche Einflüsse sind aber viele Arten akut gefährdet."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Schildkröten",
+    "line": "Gepanzerte Kriechtiere aus der Ordnung der Sauropsida",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Schildkröten sind eine Ordnung der Sauropsida und erschienen erstmals vor mehr als 220 Millionen Jahren im Karnium."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Schildkröten"
+   },
+   {
+    "type": "closing",
+    "text": "Durch menschliche Einflüsse sind aber viele Arten akut gefährdet."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0f18c5a331725c.10f2d4e739f400"
+ }
+}

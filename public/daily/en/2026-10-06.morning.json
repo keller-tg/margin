@@ -1,0 +1,200 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-06-morning",
+ "date": "2026-10-06",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Caspar David Friedrich",
+  "qid": "Q104884",
+  "pageid": 5654,
+  "revid": 1373025076,
+  "domain": "people-arts",
+  "teaser": "German Romantic landscape painter"
+ },
+ "sources": [
+  {
+   "title": "Caspar David Friedrich",
+   "url": "https://en.wikipedia.org/w/index.php?title=Caspar_David_Friedrich&oldid=1373025076",
+   "revid": 1373025076,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Gerhard von Kügelgen portrait of Friedrich.jpg",
+   "w": 1443,
+   "h": 1871,
+   "alt": "Caspar David Friedrich",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/960px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg",
+   "sha1": "cff87128aee54dcb2f375c8ec6a38ff51a412925",
+   "credit": {
+    "author": "Gerhard von Kügelgen",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f14": {
+   "kind": "date",
+   "value": "1798",
+   "surface": "1798"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1820",
+   "surface": "1820"
+  },
+  "f60": {
+   "kind": "date",
+   "value": "1826",
+   "surface": "1826"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "German Romantic landscape painter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Art historian Christopher John Murray described their presence, in diminished perspective, amid expansive landscapes."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "closing",
+    "text": "The rise of Nazism in the early 1930s saw a resurgence in Friedrich’s popularity."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "German Romantic landscape painter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Friedrich’s paintings often set contemplative human figures silhouetted against night skies, morning mists, barren trees or Gothic ruins."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f14",
+      "label": "Friedrich settled permanently in Dresden in 1798."
+     },
+     {
+      "fact": "f29",
+      "label": "The couple had three children, with their first, Emma, arriving in 1820."
+     },
+     {
+      "fact": "f60",
+      "label": "From 1826, these motifs became a permanent feature of his output."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Art historian Christopher John Murray described their presence, in diminished perspective, amid expansive landscapes."
+   },
+   {
+    "type": "sentence",
+    "text": "Friedrich was born in the town of Greifswald on the Baltic Sea in what was at the time Swedish Pomerania."
+   },
+   {
+    "type": "closing",
+    "text": "The rise of Nazism in the early 1930s saw a resurgence in Friedrich’s popularity."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "German Romantic landscape painter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David Friedrich was a German Romantic landscape painter, generally considered the most important German artist of his generation, whose often symbolic, and anti-classical work, conveys a subjective, emotional response to the natural world."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f14",
+      "label": "Friedrich settled permanently in Dresden in 1798."
+     },
+     {
+      "fact": "f29",
+      "label": "The couple had three children, with their first, Emma, arriving in 1820."
+     },
+     {
+      "fact": "f60",
+      "label": "From 1826, these motifs became a permanent feature of his output."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Friedrich’s paintings often set contemplative human figures silhouetted against night skies, morning mists, barren trees or Gothic ruins."
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David Friedrich was born on 5 September 1774, in Greifswald, Swedish Pomerania, on the Baltic coast of Germany."
+   },
+   {
+    "type": "sentence",
+    "text": "Records of the family’s financial circumstances are contradictory; while some sources indicate the children were privately tutored, others record that they were raised in relative poverty."
+   },
+   {
+    "type": "sentence",
+    "text": "Friedrich’s reputation steadily declined over the final fifteen years of his life."
+   },
+   {
+    "type": "sentence",
+    "text": "Some accounts suggest that Johann Christoffer perished while trying to rescue Caspar David, who was also in danger on the ice."
+   },
+   {
+    "type": "sentence",
+    "text": "Through Quistorp, Friedrich met and was subsequently influenced by the theologian Ludwig Gotthard Kosegarten, who taught that nature was a revelation of God."
+   },
+   {
+    "type": "sentence",
+    "text": "As the ideals of early Romanticism passed from fashion, he came to be viewed as an eccentric and melancholy character, out of touch with the times."
+   },
+   {
+    "type": "closing",
+    "text": "Since the 1970s, Friedrich has experienced a major international revival and is regarded as one of the most important artists of German Romanticism and a national cultural icon."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1543d14f7ca825.0ff78a69543745"
+ }
+}

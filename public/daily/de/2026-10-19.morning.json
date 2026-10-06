@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-19-morning",
+ "date": "2026-10-19",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Nauru",
+  "qid": "Q697",
+  "pageid": 21599,
+  "revid": 270596421,
+  "domain": "places",
+  "teaser": "Inselstaat im Pazifischen Ozean"
+ },
+ "sources": [
+  {
+   "title": "Nauru",
+   "url": "https://de.wikipedia.org/w/index.php?title=Nauru&oldid=270596421",
+   "revid": 270596421,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Coral reef on Nauru.jpg",
+   "w": 1024,
+   "h": 768,
+   "alt": "Nauru",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Coral_reef_on_Nauru.jpg/960px-Coral_reef_on_Nauru.jpg",
+   "sha1": "c2874c6db7b9ad18295a2c84b714ae49cce97c98",
+   "credit": {
+    "author": "d-online",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Coral_reef_on_Nauru.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f8": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "jahre",
+   "surface": "30 Jahre"
+  },
+  "f18": {
+   "kind": "measure",
+   "value": 290,
+   "unit": "km",
+   "surface": "290 km"
+  },
+  "f55": {
+   "kind": "date",
+   "value": "2002",
+   "surface": "2002"
+  },
+  "f64": {
+   "kind": "date",
+   "value": "700",
+   "surface": "700"
+  },
+  "f76": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925"
+  },
+  "f84": {
+   "kind": "date",
+   "value": "1830",
+   "surface": "1830"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Nauru",
+    "line": "Inselstaat im Pazifischen Ozean",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru ist ein Inselstaat im Pazifischen Ozean mit 11.680 Einwohnern."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f18",
+    "display": "290 km",
+    "caption": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich."
+   },
+   {
+    "type": "closing",
+    "text": "Das politische System der Republik basiert auf dem britischen Westminster-System."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Nauru",
+    "line": "Inselstaat im Pazifischen Ozean",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru ist ein Inselstaat im Pazifischen Ozean mit 11.680 Einwohnern."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nauru"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f18",
+    "display": "290 km",
+    "caption": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich, die zu Kiribati gehört und die eine ähnliche Bedeutung wegen reicher Phosphatlagerstätten hatte."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f64",
+      "label": "Auf einen Arzt kommen etwa 700 Einwohner."
+     },
+     {
+      "fact": "f84",
+      "label": "Die europäische Einwanderung begann ca. 1830."
+     },
+     {
+      "fact": "f76",
+      "label": "Der erste Diabetesfall ist auf 1925 datiert."
+     },
+     {
+      "fact": "f55",
+      "label": "Das jährliche Bevölkerungswachstum beträgt 1,6 % nach einer Phase leichten Bevölkerungsrückgangs in den Jahren 2002–2011."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru ist nach Fläche der drittkleinste und nach Einwohnerzahl der dritt- oder viertkleinste anerkannte Staat sowie die kleinste Republik der Erde."
+   },
+   {
+    "type": "closing",
+    "text": "Die um 1900 entdeckten und ab 1906 ausgebeuteten Phosphat-Vorkommen waren fortan für die Wirtschaft des Staates entscheidend."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Nauru",
+    "line": "Inselstaat im Pazifischen Ozean",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Nauru ist ein Inselstaat im Pazifischen Ozean mit 11.680 Einwohnern."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nauru"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f8",
+    "display": "30 Jahre",
+    "caption": "Der elsässische katholische Missionar Alois Kayser, MSC, der mehr als 30 Jahre auf Nauru missionierte und die nauruische Sprache studierte, lehnte Hambruchs Erklärung ab, da im Nauruischen das Wort «Strand», als Ziel eines Verbs der Bewegung, das richtungsweisende Wort «rodu»."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f64",
+      "label": "Auf einen Arzt kommen etwa 700 Einwohner."
+     },
+     {
+      "fact": "f84",
+      "label": "Die europäische Einwanderung begann ca. 1830."
+     },
+     {
+      "fact": "f76",
+      "label": "Der erste Diabetesfall ist auf 1925 datiert."
+     },
+     {
+      "fact": "f55",
+      "label": "Das jährliche Bevölkerungswachstum beträgt 1,6 % nach einer Phase leichten Bevölkerungsrückgangs in den Jahren 2002–2011."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Insel liegt im westlichen Pazifischen Ozean bei 0° 32′ südlicher Breite und 166° 56′ östlicher Länge."
+   },
+   {
+    "type": "sentence",
+    "text": "Naurus hat eine ausschliessliche Wirtschaftszone mit einer Grösse von 308.480 km², die an die entsprechenden Zonen von Kiribati im Osten und von den Marshallinseln im Norden grenzt."
+   },
+   {
+    "type": "sentence",
+    "text": "Von den 11.680 Bewohnern Nauru sind 94,6 % Nauruer."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Deutsche Paul Hambruch, der die Insel im Mai 1909 und von September bis November 1910 besuchte, gab die etymologische Erklärung, dass «Naoero»als Kontraktion des Satzes «ã-nuau-a-a-ororo»interpretiert werden müsse."
+   },
+   {
+    "type": "sentence",
+    "text": "Die nächstgelegene Insel ist Banaba 290 km weiter östlich, die zu Kiribati gehört und die eine ähnliche Bedeutung wegen reicher Phosphatlagerstätten hatte."
+   },
+   {
+    "type": "sentence",
+    "text": "Der riesige Korallenstock reicht etwa 2000 Meter tief in das Meer und erhebt sich maximal etwa 60 m über den Meeresspiegel."
+   },
+   {
+    "type": "closing",
+    "text": "Die um 1900 entdeckten und ab 1906 ausgebeuteten Phosphat-Vorkommen waren fortan für die Wirtschaft des Staates entscheidend."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1714f601c5d104.0901ce288af5db"
+ }
+}

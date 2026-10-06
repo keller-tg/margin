@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-25-evening",
+ "date": "2026-10-25",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Adriatisches Meer",
+  "qid": "Q13924",
+  "pageid": 14034,
+  "revid": 270824035,
+  "domain": "water",
+  "teaser": "Teil des Mittelmeers"
+ },
+ "sources": [
+  {
+   "title": "Adriatisches Meer",
+   "url": "https://de.wikipedia.org/w/index.php?title=Adriatisches_Meer&oldid=270824035",
+   "revid": 270824035,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Adriatic Sea 2003.jpg",
+   "w": 2621,
+   "h": 3314,
+   "alt": "Adriatisches Meer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Adriatic_Sea_2003.jpg/960px-Adriatic_Sea_2003.jpg",
+   "sha1": "fa45f10cbe61e0e3711c7ffe3d9ee733e783ccbe",
+   "credit": {
+    "author": "National Aeronautics and Space Administration",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Adriatic_Sea_2003.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Adriatisches Meer",
+    "line": "Teil des Mittelmeers",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Das Adriatische Meer ist möglicherweise nach der italienischen Stadt Adria in der Provinz Rovigo benannt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Adriatisches Meer",
+    "line": "Teil des Mittelmeers",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Das Adriatische Meer, kurz auch die Adria, ist das langgestreckte nördliche Seitenbecken des Mittelmeeres zwischen der Apenninhalbinsel und der Balkanhalbinsel."
+   },
+   {
+    "type": "closing",
+    "text": "Das Adriatische Meer erstreckt sich von Venedig und Triest Richtung Südosten über 820 km bis zur Strasse von Otranto."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Adriatisches Meer",
+    "line": "Teil des Mittelmeers",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Das Adriatische Meer, kurz auch die Adria, ist das langgestreckte nördliche Seitenbecken des Mittelmeeres zwischen der Apenninhalbinsel und der Balkanhalbinsel."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Adriatisches Meer"
+   },
+   {
+    "type": "closing",
+    "text": "Das Adriatische Meer erstreckt sich von Venedig und Triest Richtung Südosten über 820 km bis zur Strasse von Otranto."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1bed2242da95a0.05d80eaad37b47"
+ }
+}

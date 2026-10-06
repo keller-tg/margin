@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-19-evening",
+ "date": "2026-10-19",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "(1) Ceres",
+  "qid": "Q596",
+  "pageid": 30371,
+  "revid": 269877086,
+  "domain": "astronomy",
+  "teaser": "Zwergplanet im Asteroidengürtel"
+ },
+ "sources": [
+  {
+   "title": "(1) Ceres",
+   "url": "https://de.wikipedia.org/w/index.php?title=(1)_Ceres&oldid=269877086",
+   "revid": 269877086,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg",
+   "w": 852,
+   "h": 836,
+   "alt": "(1) Ceres",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
+   "sha1": "ae533616059c89558ef1eac95324929dd5ceffe4",
+   "credit": {
+    "author": "Justin Cowart",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "(1) Ceres",
+    "line": "Zwergplanet im Asteroidengürtel",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Ceres ist nach der römischen Göttin des Ackerbaus benannt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "(1) Ceres",
+    "line": "Zwergplanet im Asteroidengürtel",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Ceres oder – in der Nomenklatur für Asteroiden."
+   },
+   {
+    "type": "closing",
+    "text": "Die mittlerweile inaktive Dawn umkreist den Zwergplaneten seit März 2015 als ein künstlicher Satellit."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "(1) Ceres",
+    "line": "Zwergplanet im Asteroidengürtel",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Ceres oder – in der Nomenklatur für Asteroiden – Ceres ist mit einem mittleren Äquatordurchmesser von 964 km das grösste Objekt im Asteroidengürtel und der kleinste von der Internationalen Astronomischen Union als Zwergplanet klassifizierte Himmelskörper."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "(1) Ceres"
+   },
+   {
+    "type": "closing",
+    "text": "Die mittlerweile inaktive Dawn umkreist den Zwergplaneten seit März 2015 als ein künstlicher Satellit."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "02ad3f4981834a.1ee0424e085529"
+ }
+}

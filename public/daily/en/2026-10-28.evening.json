@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-28-evening",
+ "date": "2026-10-28",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Thoroughbred",
+  "qid": "Q210826",
+  "pageid": 18842022,
+  "revid": 1370885509,
+  "domain": "animals",
+  "teaser": "Horse breed developed for racing"
+ },
+ "sources": [
+  {
+   "title": "Thoroughbred",
+   "url": "https://en.wikipedia.org/w/index.php?title=Thoroughbred&oldid=1370885509",
+   "revid": 1370885509,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Horseracing Churchill Downs.jpg",
+   "w": 3008,
+   "h": 2000,
+   "alt": "Thoroughbred",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Horseracing_Churchill_Downs.jpg/960px-Horseracing_Churchill_Downs.jpg",
+   "sha1": "06a0e200349a80e71130f679871aa71003004704",
+   "credit": {
+    "author": "Flickr user Jeff Kubina",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Horseracing_Churchill_Downs.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Thoroughbred",
+    "line": "Horse breed developed for racing",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Thoroughbreds are considered “hot-blooded” horses that are known for their agility, speed, and spirit."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Thoroughbred",
+    "line": "Horse breed developed for racing",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Thoroughbred is a horse breed developed for horse racing."
+   },
+   {
+    "type": "closing",
+    "text": "Other health concerns include low fertility, abnormally small hearts, and a small hoof-to-body-mass ratio."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Thoroughbred",
+    "line": "Horse breed developed for racing",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Thoroughbred is a horse breed developed for horse racing."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Thoroughbred"
+   },
+   {
+    "type": "closing",
+    "text": "Other health concerns include low fertility, abnormally small hearts, and a small hoof-to-body-mass ratio."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "008ac3542fb027.0da808178ba2ed"
+ }
+}

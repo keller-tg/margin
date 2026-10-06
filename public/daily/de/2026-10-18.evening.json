@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-18-evening",
+ "date": "2026-10-18",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Triceratops",
+  "qid": "Q14384",
+  "pageid": 112511,
+  "revid": 270966497,
+  "domain": "animals",
+  "teaser": "Gattung der Familie Ceratopsidae"
+ },
+ "sources": [
+  {
+   "title": "Triceratops",
+   "url": "https://de.wikipedia.org/w/index.php?title=Triceratops&oldid=270966497",
+   "revid": 270966497,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Triceratops Skeleton Senckenberg 2.jpg",
+   "w": 2799,
+   "h": 1703,
+   "alt": "Triceratops",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Triceratops_Skeleton_Senckenberg_2.jpg/960px-Triceratops_Skeleton_Senckenberg_2.jpg",
+   "sha1": "3f00e7846524fb1392f6cbf1c7104a901a599490",
+   "credit": {
+    "author": "EvaK",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Triceratops_Skeleton_Senckenberg_2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Triceratops",
+    "line": "Gattung der Familie Ceratopsidae",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Triceratops lebte am Ende der Oberkreide im heutigen Nordamerika."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Triceratops",
+    "line": "Gattung der Familie Ceratopsidae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Triceratops ist eine Gattung von Vogelbeckensauriern aus der Gruppe der Ceratopsia."
+   },
+   {
+    "type": "closing",
+    "text": "Triceratops lebte am Ende der Oberkreide im heutigen Nordamerika."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Triceratops",
+    "line": "Gattung der Familie Ceratopsidae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Triceratops ist eine Gattung von Vogelbeckensauriern aus der Gruppe der Ceratopsia."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Triceratops"
+   },
+   {
+    "type": "closing",
+    "text": "Triceratops lebte am Ende der Oberkreide im heutigen Nordamerika."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1e0c3056f84933.00fb3782d08e77"
+ }
+}

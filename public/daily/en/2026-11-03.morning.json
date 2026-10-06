@@ -1,0 +1,199 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-03-morning",
+ "date": "2026-11-03",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Carmen",
+  "qid": "Q185968",
+  "pageid": 37914,
+  "revid": 1369757348,
+  "domain": "music",
+  "teaser": "1875 opera by Georges Bizet"
+ },
+ "sources": [
+  {
+   "title": "Carmen",
+   "url": "https://en.wikipedia.org/w/index.php?title=Carmen&oldid=1369757348",
+   "revid": 1369757348,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Prudent-Louis Leray - Poster for the première of Georges Bizet's Carmen.jpg",
+   "w": 6536,
+   "h": 8944,
+   "alt": "Carmen",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg/960px-Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg",
+   "sha1": "81f058efec2c98d446dc7124e15bf226847685ce",
+   "credit": {
+    "author": "Prudent-Louis Leray (1820-1879); Restored by Adam Cuerden",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "date",
+   "value": "1875",
+   "surface": "1875"
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1908",
+   "surface": "1908"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1820",
+   "surface": "1820"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Carmen",
+    "line": "1875 opera by Georges Bizet",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Carmen is an opera in four acts by the French composer Georges Bizet."
+   },
+   {
+    "type": "sentence",
+    "text": "The opera was first performed by the Opéra-Comique in Paris on 3 March 1875."
+   },
+   {
+    "type": "closing",
+    "text": "The opera has been recorded many times since the first acoustical recording in 1908."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Carmen",
+    "line": "1875 opera by Georges Bizet",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Carmen is an opera in four acts by the French composer Georges Bizet."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Carmen"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f21",
+      "label": "Place: Seville, Spain, and surrounding hills Time: Around 1820 A square, in Seville."
+     },
+     {
+      "fact": "f2",
+      "label": "The opera was first performed by the Opéra-Comique in Paris on 3 March 1875."
+     },
+     {
+      "fact": "f6",
+      "label": "The opera has been recorded many times since the first acoustical recording in 1908."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The libretto was written by Henri Meilhac and Ludovic Halévy, based on the novella of the same title by Prosper Mérimée."
+   },
+   {
+    "type": "sentence",
+    "text": "Bizet died suddenly after the 33rd performance, unaware that the work would achieve international acclaim within the following ten years."
+   },
+   {
+    "type": "closing",
+    "text": "The music of Carmen has since been widely acclaimed for brilliance of melody, harmony, atmosphere, and orchestration."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Carmen",
+    "line": "1875 opera by Georges Bizet",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Carmen is an opera in four acts by the French composer Georges Bizet."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Carmen"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f21",
+      "label": "Place: Seville, Spain, and surrounding hills Time: Around 1820 A square, in Seville."
+     },
+     {
+      "fact": "f2",
+      "label": "The opera was first performed by the Opéra-Comique in Paris on 3 March 1875."
+     },
+     {
+      "fact": "f6",
+      "label": "The opera has been recorded many times since the first acoustical recording in 1908."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The libretto was written by Henri Meilhac and Ludovic Halévy, based on the novella of the same title by Prosper Mérimée."
+   },
+   {
+    "type": "sentence",
+    "text": "In the Paris of the 1860s, despite being a Prix de Rome laureate, Bizet struggled to get his stage works performed."
+   },
+   {
+    "type": "sentence",
+    "text": "Bizet’s professional relationship with Léon Carvalho, manager of the independent Théâtre Lyrique company, enabled him to bring to the stage two full-scale operas, Les pêcheurs de perles and La jolie fille de Perth, but neither enjoyed much public success."
+   },
+   {
+    "type": "sentence",
+    "text": "When artistic life in Paris resumed after the Franco-Prussian War of 1870–71, Bizet found wider opportunities for the performance of his works; his one-act opera Djamileh opened at the Opéra-Comique in May 1872."
+   },
+   {
+    "type": "sentence",
+    "text": "The capital’s two main state-funded opera houses—the Opéra and the Opéra-Comique—followed conservative repertoires that restricted opportunities for young native talent."
+   },
+   {
+    "type": "sentence",
+    "text": "Although this failed and was withdrawn after 11 performances, it led to a further commission from the theatre, this time for a full-length opera for which Henri Meilhac and Ludovic Halévy would provide the libretto."
+   },
+   {
+    "type": "sentence",
+    "text": "Cast details are as provided by Curtiss from the original piano and vocal score."
+   },
+   {
+    "type": "closing",
+    "text": "The music of Carmen has since been widely acclaimed for brilliance of melody, harmony, atmosphere, and orchestration, and for the skill with which the emotions and suffering of the characters are represented."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0b95884087a28c.04f5f08b163047"
+ }
+}

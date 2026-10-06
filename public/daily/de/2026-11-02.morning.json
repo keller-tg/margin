@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-02-morning",
+ "date": "2026-11-02",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+  "qid": "Q169226",
+  "pageid": 60079,
+  "revid": 271010466,
+  "domain": "music",
+  "teaser": "Studioalbum der Beatles von 1967"
+ },
+ "sources": [
+  {
+   "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+   "url": "https://de.wikipedia.org/w/index.php?title=Sgt._Pepper%E2%80%99s_Lonely_Hearts_Club_Band&oldid=271010466",
+   "revid": 271010466,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Sgt. Pepper's Lonely Hearts Club Band album art.jpg",
+   "w": 2744,
+   "h": 2744,
+   "alt": "Sgt. Pepper’s Lonely Hearts Club Band",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sgt._Pepper%27s_Lonely_Hearts_Club_Band_album_art.jpg/960px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band_album_art.jpg",
+   "sha1": "9d28a5615c6a5a47a16ee37fb834ae8564306cea",
+   "credit": {
+    "author": "Peter Blake / Parlophone, Capitol Records",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Sgt._Pepper%27s_Lonely_Hearts_Club_Band_album_art.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "number",
+   "value": 32000000,
+   "surface": "32 Millionen"
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1966",
+   "surface": "1966"
+  },
+  "f10": {
+   "kind": "date",
+   "value": "1967",
+   "surface": "1967"
+  },
+  "f54": {
+   "kind": "date",
+   "value": "1971",
+   "surface": "1971"
+  },
+  "f59": {
+   "kind": "date",
+   "value": "1968",
+   "surface": "1968"
+  },
+  "f76": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "meter",
+   "surface": "15 Meter"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "line": "Studioalbum der Beatles von 1967",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "32 Millionen",
+    "caption": "Mit über 32 Millionen verkauften Exemplaren gehört es zu den weltweit meistverkauften Musikalben."
+   },
+   {
+    "type": "closing",
+    "text": "Das Album erreichte in Deutschland, Grossbritannien und den USA die Spitze der Charts."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "line": "Studioalbum der Beatles von 1967",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sgt. Pepper’s Lonely Hearts Club Band"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "32 Millionen",
+    "caption": "Mit über 32 Millionen verkauften Exemplaren gehört es zu den weltweit meistverkauften Musikalben."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f7",
+      "label": "Vom 12. bis zum 29. August 1966 absolvierten die Beatles ihre vierte US-Tournee."
+     },
+     {
+      "fact": "f10",
+      "label": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status."
+     },
+     {
+      "fact": "f59",
+      "label": "Bei den Grammy Awards 1968 gewann Sgt."
+     },
+     {
+      "fact": "f54",
+      "label": "Bis zum 1. Januar 1971 wurde das Album rund sieben Millionen Mal verkauft."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Das Album erreichte in Deutschland, Grossbritannien und den USA die Spitze der Charts."
+   },
+   {
+    "type": "closing",
+    "text": "SLC PEPPER soll als fortlaufendes Kunstprojekt weiterentwickelt werden."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "line": "Studioalbum der Beatles von 1967",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "In Deutschland war das Album einschliesslich der beiden Kompilationsalben ihr zwölftes Album."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sgt. Pepper’s Lonely Hearts Club Band"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f76",
+    "display": "15 Meter",
+    "caption": "Im Jahr 2004 begann Jann Haworth in Salt Lake City im US-Bundesstaat Utah die Arbeit an SLC PEPPER, einem 15 Meter breiten und 9 Meter hohen Wandbild, das eine zeitgemässe bürgerliche Version des Sgt.-Pepper-Covers darstellen soll."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f7",
+      "label": "Vom 12. bis zum 29. August 1966 absolvierten die Beatles ihre vierte US-Tournee."
+     },
+     {
+      "fact": "f10",
+      "label": "Paul McCartney avancierte 1967 zum künstlerischen Kopf der Gruppe; ein Status."
+     },
+     {
+      "fact": "f59",
+      "label": "Bei den Grammy Awards 1968 gewann Sgt."
+     },
+     {
+      "fact": "f54",
+      "label": "Bis zum 1. Januar 1971 wurde das Album rund sieben Millionen Mal verkauft."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Tour wurde von einer Bemerkung John Lennons aus einem früheren Interview, wonach die Beatles «schon jetzt populärer als Jesus»wären, überschattet."
+   },
+   {
+    "type": "sentence",
+    "text": "Nach nervenaufreibenden Pressekonferenzen, öffentlichen Plattenverbrennungen und Demonstrationen des Ku-Klux-Klans in den USA entschloss sich die Gruppe, nicht mehr auf Tournee zu gehen und ihre Arbeit ausschliesslich ins Studio zu verlegen."
+   },
+   {
+    "type": "sentence",
+    "text": "George Martin erwähnte den Beginn der Aufnahmen: «Im November kamen die Beatles zum ersten Mal seit ihrer Entscheidung, nicht mehr auf Tour zu gehen, wieder ins Studio."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Cover des Albums wurde – in Zusammenarbeit mit Paul McCartney – von dem Galeristen Robert Fraser als Artdirector, dem Pop-Art-Künstler Peter Blake, seiner Frau Jann Haworth, Al Vandenberg und dem Fotografen Michael Cooper gestaltet."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Fotosession fand am 30. März 1967 in den Londoner Chelsea Manor Studios von Michael Cooper statt."
+   },
+   {
+    "type": "sentence",
+    "text": "Der kurzsichtige Lennon hatte sich zuvor bereits eine runde Nickelbrille zugelegt, die zu seinem Markenzeichen wurde."
+   },
+   {
+    "type": "closing",
+    "text": "Mit über 32 Millionen verkauften Exemplaren gehört es zu den weltweit meistverkauften Musikalben."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1d18cab6a9755e.158a3b15a7f47d"
+ }
+}

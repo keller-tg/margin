@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-30-morning",
+ "date": "2026-10-30",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Statue of Liberty",
+  "qid": "Q9202",
+  "pageid": 28617,
+  "revid": 1378697039,
+  "domain": "art",
+  "teaser": "Colossal sculpture in New York Harbor"
+ },
+ "sources": [
+  {
+   "title": "Statue of Liberty",
+   "url": "https://en.wikipedia.org/w/index.php?title=Statue_of_Liberty&oldid=1378697039",
+   "revid": 1378697039,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Front view of Statue of Liberty (cropped).jpg",
+   "w": 2498,
+   "h": 3828,
+   "alt": "Statue of Liberty",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/960px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+   "sha1": "e54ef8ff49539ca46f93ed19314246d5c834f4da",
+   "credit": {
+    "author": "AskALotl",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "date",
+   "value": "1886",
+   "surface": "1886"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1876",
+   "surface": "1876"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1869",
+   "surface": "1869"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1871",
+   "surface": "1871"
+  },
+  "f26": {
+   "kind": "measure",
+   "value": 73,
+   "unit": "feet",
+   "surface": "73 feet"
+  },
+  "f38": {
+   "kind": "number",
+   "value": 181,
+   "surface": "181"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Statue of Liberty",
+    "line": "Colossal sculpture in New York Harbor",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The statue was dedicated on October 28, 1886."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f38",
+    "display": "181",
+    "caption": "Schoolchildren and ordinary citizens gave, as did 181 French municipalities."
+   },
+   {
+    "type": "closing",
+    "text": "The statue was built in France, shipped overseas in crates."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Statue of Liberty",
+    "line": "Colossal sculpture in New York Harbor",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Statue of Liberty"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f26",
+    "display": "73 feet",
+    "caption": "The defiant lion, 73 feet long and half that in height, displays an emotional quality characteristic of Romanticism."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f21",
+      "label": "The Port Said Lighthouse was built instead, by François Coignet in 1869."
+     },
+     {
+      "fact": "f23",
+      "label": "In June 1871, Bartholdi crossed the Atlantic, with letters of introduction signed by Laboulaye."
+     },
+     {
+      "fact": "f8",
+      "label": "The torch-bearing arm was displayed at the Centennial Exposition in Philadelphia in 1876."
+     },
+     {
+      "fact": "f2",
+      "label": "The statue was dedicated on October 28, 1886."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The statue is a figure of a classically draped woman, inspired by the Roman goddess of liberty, Libertas."
+   },
+   {
+    "type": "closing",
+    "text": "Limited numbers of visitors can access the rim of the pedestal and the interior of the statue’s crown from within."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Statue of Liberty",
+    "line": "Colossal sculpture in New York Harbor",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman on Liberty Island, part of New York City, in New York Harbor."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Statue of Liberty"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f26",
+    "display": "73 feet",
+    "caption": "The defiant lion, 73 feet long and half that in height, displays an emotional quality characteristic of Romanticism, which Bartholdi would later bring to the Statue of Liberty."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f21",
+      "label": "The Port Said Lighthouse was built instead, by François Coignet in 1869."
+     },
+     {
+      "fact": "f23",
+      "label": "In June 1871, Bartholdi crossed the Atlantic, with letters of introduction signed by Laboulaye."
+     },
+     {
+      "fact": "f8",
+      "label": "The torch-bearing arm was displayed at the Centennial Exposition in Philadelphia in 1876."
+     },
+     {
+      "fact": "f2",
+      "label": "The statue was dedicated on October 28, 1886."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The project is traced to a mid-1865 conversation between Laboulaye, a staunch abolitionist, and Frédéric Auguste Bartholdi, a sculptor."
+   },
+   {
+    "type": "sentence",
+    "text": "The National Park Service, in a 2000 report, however, deemed this a legend traced to an 1885 fundraising pamphlet, and that the statue was most likely conceived in 1870."
+   },
+   {
+    "type": "sentence",
+    "text": "In order to honor these achievements, Laboulaye proposed that a gift be built for the United States on behalf of France."
+   },
+   {
+    "type": "sentence",
+    "text": "According to sculptor Bartholdi, who later recounted the story, Laboulaye’s alleged comment was not intended as a proposal, but it inspired Bartholdi."
+   },
+   {
+    "type": "sentence",
+    "text": "Given the repressive nature of the regime of Napoleon III, Bartholdi took no immediate action on the idea except to discuss it with Laboulaye."
+   },
+   {
+    "type": "sentence",
+    "text": "Bartholdi was in any event busy with other possible projects."
+   },
+   {
+    "type": "closing",
+    "text": "Limited numbers of visitors can access the rim of the pedestal and the interior of the statue’s crown from within; public access to the torch has been barred since 1916."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "0f4ac8d8c21b6f.014901b1e1da36"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-20-evening",
+ "date": "2026-10-20",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Neptunium",
+  "qid": "Q1105",
+  "pageid": 3519,
+  "revid": 265446126,
+  "domain": "chemistry",
+  "teaser": "Radioaktives chemisches Element mit dem Symbol Np und der Ordnungszahl 93"
+ },
+ "sources": [
+  {
+   "title": "Neptunium",
+   "url": "https://de.wikipedia.org/w/index.php?title=Neptunium&oldid=265446126",
+   "revid": 265446126,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Neptunium (Element - 93) 3.jpg",
+   "w": 808,
+   "h": 1116,
+   "alt": "Neptunium",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Neptunium_%28Element_-_93%29_3.jpg",
+   "sha1": "6aceb97373c8112a9abad4a73e7a636441603f69",
+   "credit": {
+    "author": "Originally by James St. John, edited by Arònel123",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Neptunium_(Element_-_93)_3.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Neptunium",
+    "line": "Radioaktives chemisches Element mit dem Symbol Np und der Ordnungszahl 93",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Neptunium ist ein giftiges und radioaktives Schwermetall."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Neptunium",
+    "line": "Radioaktives chemisches Element mit dem Symbol Np und der Ordnungszahl 93",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Neptunium ist ein chemisches Element mit dem Elementsymbol Np und der Ordnungszahl 93. Im Periodensystem steht es in der Gruppe der Actinoide."
+   },
+   {
+    "type": "closing",
+    "text": "Neptunium folgt im Periodensystem auf Uran, dann folgt Plutonium, das auf der Erde natürlich vorkommende Element mit der höchsten Ordnungszahl."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Neptunium",
+    "line": "Radioaktives chemisches Element mit dem Symbol Np und der Ordnungszahl 93",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Neptunium ist ein chemisches Element mit dem Elementsymbol Np und der Ordnungszahl 93. Im Periodensystem steht es in der Gruppe der Actinoide."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Neptunium"
+   },
+   {
+    "type": "closing",
+    "text": "Neptunium folgt im Periodensystem auf Uran, dann folgt Plutonium, das auf der Erde natürlich vorkommende Element mit der höchsten Ordnungszahl."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "02c4983257680b.0f0f0e88f77c59"
+ }
+}

@@ -1,14 +1,12 @@
 {
- "generatedAt": "2026-10-06T09:09:33.606Z",
- "failures": 6,
+ "generatedAt": "2026-10-06T09:10:04.861Z",
+ "failures": 0,
  "things": [
   {
    "id": "en-2026-10-06-morning",
    "title": "Caspar David Friedrich",
-   "quality": 0,
-   "notes": [
-    "compose failed: en/2026-10-06.morning Caspar David Friedrich (easy): not enough clean sentences"
-   ],
+   "quality": 0.9,
+   "notes": [],
    "issues": []
   },
   {
@@ -91,10 +89,8 @@
   {
    "id": "en-2026-10-12-morning",
    "title": "Charles Darwin",
-   "quality": 0,
-   "notes": [
-    "compose failed: en/2026-10-12.morning Charles Darwin (easy): not enough clean sentences"
-   ],
+   "quality": 0.95,
+   "notes": [],
    "issues": []
   },
   {
@@ -193,10 +189,7 @@
    "title": "Cleveland",
    "quality": 0.85,
    "notes": [],
-   "issues": [
-    "language @ medium[4] timeline.events[0].label: does not read as en ({\"en\":0,\"de\":0,\"fr\":1})",
-    "language @ deep[4] timeline.events[0].label: does not read as en ({\"en\":0,\"de\":0,\"fr\":1})"
-   ]
+   "issues": []
   },
   {
    "id": "en-2026-10-19-evening",
@@ -210,9 +203,7 @@
    "title": "Lion",
    "quality": 1,
    "notes": [],
-   "issues": [
-    "language @ deep[8] sentence.text: does not read as en ({\"en\":1,\"de\":0,\"fr\":4})"
-   ]
+   "issues": []
   },
   {
    "id": "en-2026-10-20-evening",
@@ -273,7 +264,7 @@
   {
    "id": "en-2026-10-24-evening",
    "title": "Manta ray",
-   "quality": 0.95,
+   "quality": 1,
    "notes": [],
    "issues": []
   },
@@ -548,9 +539,7 @@
    "title": "Charles Darwin",
    "quality": 0.9,
    "notes": [],
-   "issues": [
-    "language @ easy[3] closing.text: does not read as de ({\"en\":2,\"de\":1,\"fr\":0})"
-   ]
+   "issues": []
   },
   {
    "id": "de-2026-10-14-evening",
@@ -772,10 +761,8 @@
   {
    "id": "de-2026-10-30-morning",
    "title": "95 Thesen",
-   "quality": 0,
-   "notes": [
-    "compose failed: de/2026-10-30.morning 95 Thesen (easy): not enough clean sentences"
-   ],
+   "quality": 0.9,
+   "notes": [],
    "issues": []
   },
   {

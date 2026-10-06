@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-26-evening",
+ "date": "2026-10-26",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Beteigeuze",
+  "qid": "Q12124",
+  "pageid": 699,
+  "revid": 270550676,
+  "domain": "astronomy",
+  "teaser": "Stern im Sternbild des Orion"
+ },
+ "sources": [
+  {
+   "title": "Beteigeuze",
+   "url": "https://de.wikipedia.org/w/index.php?title=Beteigeuze&oldid=270550676",
+   "revid": 270550676,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Location of the binary system of Betelgeuse in constellation Orion.png",
+   "w": 2002,
+   "h": 2166,
+   "alt": "Beteigeuze",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Location_of_the_binary_system_of_Betelgeuse_in_constellation_Orion.png/960px-Location_of_the_binary_system_of_Betelgeuse_in_constellation_Orion.png",
+   "sha1": "ceb44a0f8f69e7fd3938b99ff6e876d869b76f95",
+   "credit": {
+    "author": "Aaron McKinnon, E. Slawik/NOIRLab/NSF/AURA/M. Zamani",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Location_of_the_binary_system_of_Betelgeuse_in_constellation_Orion.png",
+    "attribution": "NOIRLab",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Beteigeuze",
+    "line": "Stern im Sternbild des Orion",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Beteigeuze ist von grossem astronomischen Interesse."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Beteigeuze",
+    "line": "Stern im Sternbild des Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Beteigeuze, auch α Orionis, international Betelgeuse, ist ein Stern im Sternbild Orion."
+   },
+   {
+    "type": "closing",
+    "text": "Obwohl Beteigeuze die Bayer-Bezeichnung α trägt, ist er mit einer mittleren Helligkeit von 0,58 mag hinter Rigel nur der zweithellste Stern des Orion."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Beteigeuze",
+    "line": "Stern im Sternbild des Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Beteigeuze, auch α Orionis, international Betelgeuse, ist ein Stern im Sternbild Orion."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Beteigeuze"
+   },
+   {
+    "type": "closing",
+    "text": "Obwohl Beteigeuze die Bayer-Bezeichnung α trägt, ist er mit einer mittleren Helligkeit von 0,58 mag hinter Rigel nur der zweithellste Stern des Orion."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1f64b1c077cade.0debe60ac1ee8c"
+ }
+}

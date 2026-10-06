@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-13-evening",
+ "date": "2026-10-13",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Mauna Loa",
+  "qid": "Q159762",
+  "pageid": 3367,
+  "revid": 269566609,
+  "domain": "landscapes",
+  "teaser": "Vulkan auf der Hauptinsel der Inselgruppe von Hawaii"
+ },
+ "sources": [
+  {
+   "title": "Mauna Loa",
+   "url": "https://de.wikipedia.org/w/index.php?title=Mauna_Loa&oldid=269566609",
+   "revid": 269566609,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mauna Loa.jpg",
+   "w": 1280,
+   "h": 960,
+   "alt": "Mauna Loa",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mauna_Loa.jpg/960px-Mauna_Loa.jpg",
+   "sha1": "7a8a91eac47a1aa836e6e5baadac12f6d3dc7ffe",
+   "credit": {
+    "author": "Gordon Joly",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mauna_Loa.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Mauna Loa",
+    "line": "Vulkan auf der Hauptinsel der Inselgruppe von Hawaii",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Der hawaiische Name Mauna Loa bedeutet «langer Berg»."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Mauna Loa",
+    "line": "Vulkan auf der Hauptinsel der Inselgruppe von Hawaii",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mauna Loa ist einer der grössten aktiven Vulkane der Erde und liegt mitten im Pazifik auf Hawaii, der grössten Insel der Inselgruppe von Hawaii."
+   },
+   {
+    "type": "closing",
+    "text": "Auf über drei Kilometern Höhe liegt hier die NOAA-Messstation für den Kohlendioxidgehalt der Atmosphäre, deren Messdaten zur Erstellung von Klimamodellen genutzt werden."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Mauna Loa",
+    "line": "Vulkan auf der Hauptinsel der Inselgruppe von Hawaii",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mauna Loa ist einer der grössten aktiven Vulkane der Erde und liegt mitten im Pazifik auf Hawaii, der grössten Insel der Inselgruppe von Hawaii."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mauna Loa"
+   },
+   {
+    "type": "closing",
+    "text": "Auf über drei Kilometern Höhe liegt hier die NOAA-Messstation für den Kohlendioxidgehalt der Atmosphäre, deren Messdaten zur Erstellung von Klimamodellen genutzt werden."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "031d9b806df579.0c5eeb9d70680d"
+ }
+}

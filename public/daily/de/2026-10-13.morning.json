@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-13-morning",
+ "date": "2026-10-13",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Caesium",
+  "qid": "Q1108",
+  "pageid": 809,
+  "revid": 270584892,
+  "domain": "chemistry",
+  "teaser": "Chemisches Element mit dem Symbol Cs und der Ordnungszahl 55, Teil der Gruppe der Alkalimetalle"
+ },
+ "sources": [
+  {
+   "title": "Caesium",
+   "url": "https://de.wikipedia.org/w/index.php?title=Caesium&oldid=270584892",
+   "revid": 270584892,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Cesium.jpg",
+   "w": 4000,
+   "h": 3000,
+   "alt": "Caesium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cesium.jpg/960px-Cesium.jpg",
+   "sha1": "14f289d861039c1a19204a386c0fb786715ec412",
+   "credit": {
+    "author": "Dnn87 Contact email: Dnn87yahoo.dk",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Cesium.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f6": {
+   "kind": "date",
+   "value": "1881",
+   "surface": "1881"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1861",
+   "surface": "1861"
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 123.35,
+   "unit": "g",
+   "surface": "123,35 g"
+  },
+  "f14": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025"
+  },
+  "f72": {
+   "kind": "measure",
+   "value": 1.2,
+   "unit": "%",
+   "surface": "1,2 %"
+  },
+  "f80": {
+   "kind": "date",
+   "value": "600",
+   "surface": "600"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Caesium",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium ist das schwerste stabile Alkalimetall."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f72",
+    "display": "1,2 %",
+    "caption": "Das Lithiumerz Lepidolith enthält bis zu 1,2 % Caesium, sodass eine Gewinnung als Nebenprodukt möglich ist."
+   },
+   {
+    "type": "closing",
+    "text": "Durch die grossflächige Verteilung – und damit vergleichsweise geringe Konzentration."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Caesium",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium ist das schwerste stabile Alkalimetall."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caesium"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f10",
+    "display": "123,35 g",
+    "caption": "Caesiumchlorid diente Bunsen und Kirchhoff auch für eine erste Bestimmung der molaren Masse des neuen Elements, wofür sie den Wert von 123,35 g/mol fanden."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f80",
+      "label": "Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert."
+     },
+     {
+      "fact": "f9",
+      "label": "Caesium wurde erstmals 1861 von Gustav Robert Kirchhoff und Robert Wilhelm Bunsen beschrieben."
+     },
+     {
+      "fact": "f6",
+      "label": "Das Reinelement konnte erstmals 1881 von Carl Theodor Setterberg dargestellt werden."
+     },
+     {
+      "fact": "f14",
+      "label": "2025 sind 27 caesiumhaltige Minerale bekannt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium wurde 1861 von Robert Wilhelm Bunsen und Gustav Robert Kirchhoff im Dürkheimer Mineralwasser der Maxquelle entdeckt."
+   },
+   {
+    "type": "closing",
+    "text": "Durch die grossflächige Verteilung – und damit vergleichsweise geringe Konzentration."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Caesium",
+    "line": "",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium, standardsprachlich Cäsium, ist ein chemisches Element mit dem Elementsymbol Cs und der Ordnungszahl 55. Im Periodensystem steht es in der 1. Hauptgruppe, bzw. der 1. IUPAC-Gruppe und gehört zu den Alkalimetallen."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caesium"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f10",
+    "display": "123,35 g",
+    "caption": "Caesiumchlorid diente Bunsen und Kirchhoff auch für eine erste Bestimmung der molaren Masse des neuen Elements, wofür sie den Wert von 123,35 g/mol fanden."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f80",
+      "label": "Im Vakuum wird im zweiten Schritt das Caesiummetall bei 600–700 °C abdestilliert."
+     },
+     {
+      "fact": "f9",
+      "label": "Caesium wurde erstmals 1861 von Gustav Robert Kirchhoff und Robert Wilhelm Bunsen beschrieben."
+     },
+     {
+      "fact": "f6",
+      "label": "Das Reinelement konnte erstmals 1881 von Carl Theodor Setterberg dargestellt werden."
+     },
+     {
+      "fact": "f14",
+      "label": "2025 sind 27 caesiumhaltige Minerale bekannt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Mit einem Gehalt von 3 ppm in der kontinentalen Erdkruste ist Caesium auf der Erde ein seltenes Element."
+   },
+   {
+    "type": "sentence",
+    "text": "Einziges Mineral, das primär zur Gewinnung von Caesium abgebaut wird und wichtigste Quelle für das Element ist Pollucit."
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium ist ein Leichtmetall mit einer Dichte von 1,873 g/cm3, das, anders als die leichteren Alkalimetalle, goldfarben ist."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Grund liegt in der geringeren Bandlücke und damit an der geringeren Anregungsfrequenz, die in den blau-violetten Teil des sichtbaren Lichtspektrums reicht."
+   },
+   {
+    "type": "sentence",
+    "text": "Unter einem Druck von 41 kbar erfolgt eine Phasenumwandlung in eine kubisch-flächenzentrierte Kristallstruktur mit dem Gitterparameter a = 598 pm."
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium ist sehr weich und sehr dehnbar."
+   },
+   {
+    "type": "closing",
+    "text": "Unfälle mit grösseren Mengen Caesium-137 aus unsachgemäss entsorgten Abfällen der Nuklearmedizin wie der Goiânia-Unfall haben mehrfach zu Todesfällen durch die Strahlenkrankheit geführt, da hierbei sehr hohe akute Dosen auftraten."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.8,
+ "verified": {
+  "version": 1,
+  "hash": "058050918d4540.0afefdfe32ccc7"
+ }
+}

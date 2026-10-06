@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-29-evening",
+ "date": "2026-10-29",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Halbmetalle",
+  "qid": "Q19596",
+  "pageid": 50753,
+  "revid": 268988825,
+  "domain": "chemistry",
+  "teaser": "Gruppe von chemischen Elementen"
+ },
+ "sources": [
+  {
+   "title": "Halbmetalle",
+   "url": "https://de.wikipedia.org/w/index.php?title=Halbmetalle&oldid=268988825",
+   "revid": 268988825,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Boron R105.jpg",
+   "w": 1029,
+   "h": 768,
+   "alt": "Halbmetalle",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Boron_R105.jpg/960px-Boron_R105.jpg",
+   "sha1": "36d1206b0af50d9fc03318c1894f5202f2dfaa81",
+   "credit": {
+    "author": "James L Marshall",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Boron_R105.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Halbmetalle",
+    "line": "Gruppe von chemischen Elementen",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Alle Halbmetalle sind Feststoffe bei Normalbedingungen."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Halbmetalle",
+    "line": "Gruppe von chemischen Elementen",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Halbmetalle sind Elemente und stehen im Periodensystem zwischen den Metallen und den Nichtmetallen."
+   },
+   {
+    "type": "closing",
+    "text": "Letzterer bezieht sich immer auf Elemente, ersterer kann sich auf Verbindungen beziehen oder auch nur auf bestimmte Allotrope zutreffen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Halbmetalle",
+    "line": "Gruppe von chemischen Elementen",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Halbmetalle sind Elemente und stehen im Periodensystem zwischen den Metallen und den Nichtmetallen."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Halbmetalle"
+   },
+   {
+    "type": "closing",
+    "text": "Letzterer bezieht sich immer auf Elemente, ersterer kann sich auf Verbindungen beziehen oder auch nur auf bestimmte Allotrope zutreffen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "111855275373d2.0447a85e008663"
+ }
+}

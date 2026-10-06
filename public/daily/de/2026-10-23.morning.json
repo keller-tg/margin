@@ -1,0 +1,241 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-23-morning",
+ "date": "2026-10-23",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Stegosaurus",
+  "qid": "Q14388",
+  "pageid": 204338,
+  "revid": 268282673,
+  "domain": "animals",
+  "teaser": "Gattung in der Ordnung der Vogelbeckendinosauriern"
+ },
+ "sources": [
+  {
+   "title": "Stegosaurus",
+   "url": "https://de.wikipedia.org/w/index.php?title=Stegosaurus&oldid=268282673",
+   "revid": 268282673,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Stegosaurus Senckenberg.jpg",
+   "w": 2811,
+   "h": 1324,
+   "alt": "Stegosaurus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Stegosaurus_Senckenberg.jpg/960px-Stegosaurus_Senckenberg.jpg",
+   "sha1": "8578a063a8c5d8e1f440ca1d4bbc02a8ecbf620f",
+   "credit": {
+    "author": "EvaK",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Stegosaurus_Senckenberg.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f6": {
+   "kind": "measure",
+   "value": 4.5,
+   "unit": "tonnen",
+   "surface": "4,5 Tonnen"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1994",
+   "surface": "1994"
+  },
+  "f9": {
+   "kind": "measure",
+   "value": 4.6,
+   "unit": "meter",
+   "surface": "4,6 Meter"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1887",
+   "surface": "1887"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "2013",
+   "surface": "2013"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1879",
+   "surface": "1879"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1911",
+   "surface": "1911"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "cm",
+   "surface": "90 cm"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Stegosaurus",
+    "line": "Gattung in der Ordnung der Vogelbeckendinosauriern",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mit bis zu 9 Metern Länge war er der grösste bekannte Vertreter der Stegosauria."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f48",
+    "display": "90 cm",
+    "caption": "Stegosaurus stenops hatte vier dermale Schwanzstacheln, jeder war etwa 60–90 cm lang."
+   },
+   {
+    "type": "closing",
+    "text": "Den Schwanz hielt das Tier hoch in der Luft."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Stegosaurus",
+    "line": "Gattung in der Ordnung der Vogelbeckendinosauriern",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Stegosaurus ist ein thyreophorer Dinosaurier aus der Familie der Stegosauridae und damit ein Vertreter der Ornithischia, der im Oberjura lebte."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Stegosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f9",
+    "display": "4,6 Meter",
+    "caption": "Ein solcher Fund wurde 1994 in Wyoming gemacht – das Tier war 4,6 Meter lang, zwei Meter hoch, und das Gewicht wird auf 2,3 Tonnen geschätzt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f24",
+      "label": "Die Überreste waren 1879 von Edward Ashley in Como Bluff, Wyoming, geborgen worden."
+     },
+     {
+      "fact": "f18",
+      "label": "Stegosaurus stenops, «schmalköpfige Dachechse», wurde von Marsh im Jahr 1887 benannt."
+     },
+     {
+      "fact": "f30",
+      "label": "Stegosaurus priscus, beschrieben von Nopcsa im Jahr 1911, ist mit Lexovisaurus identisch."
+     },
+     {
+      "fact": "f20",
+      "label": "Seit 2013 gilt Stegosaurus stenops als Typusart."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Mit bis zu 9 Metern Länge war er der grösste bekannte Vertreter der Stegosauria."
+   },
+   {
+    "type": "closing",
+    "text": "Während letztere sehr wahrscheinlich zur Verteidigung dienten, wurden für die Knochenplatten Funktionen wie Verteidigung, Temperaturregulierung oder Brautwerbung vorgeschlagen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Stegosaurus",
+    "line": "Gattung in der Ordnung der Vogelbeckendinosauriern",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Stegosaurus ist ein thyreophorer Dinosaurier aus der Familie der Stegosauridae und damit ein Vertreter der Ornithischia, der im Oberjura lebte."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Stegosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f6",
+    "display": "4,5 Tonnen",
+    "caption": "Die Tatsache, dass ein Tier wie Stegosaurus mit einem Gewicht von über 4,5 Tonnen ein Gehirn von nur 80 Gramm haben konnte, trug massgeblich zu der früher weit verbreiteten Idee bei, Dinosaurier seien extrem dumm gewesen – eine Annahme."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f24",
+      "label": "Die Überreste waren 1879 von Edward Ashley in Como Bluff, Wyoming, geborgen worden."
+     },
+     {
+      "fact": "f18",
+      "label": "Stegosaurus stenops, «schmalköpfige Dachechse», wurde von Marsh im Jahr 1887 benannt."
+     },
+     {
+      "fact": "f8",
+      "label": "Ein solcher Fund wurde 1994 in Wyoming gemacht."
+     },
+     {
+      "fact": "f20",
+      "label": "Seit 2013 gilt Stegosaurus stenops als Typusart."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Stegosaurus stenops, die Typspezies, wurde etwa sieben Meter lang und etwas mehr als drei Meter hoch; die Überreste von Stegosaurus armatus lassen auf eine Gesamtlänge von neun Metern schliessen."
+   },
+   {
+    "type": "sentence",
+    "text": "Auf Hals, Rücken und Schwanz verliefen in zwei Reihen unterschiedlich grosse flache, drachenförmige Platten, deren Zahl zwischen 17 und 22 variiert."
+   },
+   {
+    "type": "sentence",
+    "text": "Stegosaurus war die als erstes benannte Gattung der Familie Stegosauridae."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Ursprünge von Stegosaurus sind ungewiss – es sind nur wenige Überreste von basalen Stegosauriern und ihren Vorfahren bekannt."
+   },
+   {
+    "type": "sentence",
+    "text": "Das frühere und ursprünglichere Genus Huayangosaurus aus dem mittleren Jura von China lebte etwa 20 Millionen Jahre früher."
+   },
+   {
+    "type": "sentence",
+    "text": "Kürzlich wurde ein neuer Stegosaurier – Hesperosaurus – aus der unteren Morrison-Formation entdeckt."
+   },
+   {
+    "type": "closing",
+    "text": "Während letztere sehr wahrscheinlich zur Verteidigung dienten, wurden für die Knochenplatten Funktionen wie Verteidigung, Temperaturregulierung oder Brautwerbung vorgeschlagen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1f348832c7c49f.1424300b6dea0b"
+ }
+}

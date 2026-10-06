@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-30-morning",
+ "date": "2026-10-30",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "95 Thesen",
+  "qid": "Q157506",
+  "pageid": 36210,
+  "revid": 267569708,
+  "domain": "literature",
+  "teaser": "Disputation zur Klärung der Kraft der Ablässe"
+ },
+ "sources": [
+  {
+   "title": "95 Thesen",
+   "url": "https://de.wikipedia.org/w/index.php?title=95_Thesen&oldid=267569708",
+   "revid": 267569708,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Luther 95 Thesen.png",
+   "w": 3228,
+   "h": 4611,
+   "alt": "95 Thesen",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/960px-Luther_95_Thesen.png",
+   "sha1": "ea6b4d3179f620f69abe29f02255de97751bf64a",
+   "credit": {
+    "author": "Martin Luther",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Luther_95_Thesen.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f118": {
+   "kind": "number",
+   "value": 100,
+   "surface": "100"
+  },
+  "f121": {
+   "kind": "date",
+   "value": "1522",
+   "surface": "1522"
+  },
+  "f126": {
+   "kind": "measure",
+   "value": 23,
+   "unit": "jahren",
+   "surface": "23 Jahren"
+  },
+  "f139": {
+   "kind": "date",
+   "value": "1546",
+   "surface": "1546"
+  },
+  "f143": {
+   "kind": "date",
+   "value": "1966",
+   "surface": "1966"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "95 Thesen",
+    "line": "Disputation zur Klärung der Kraft der Ablässe",
+    "image": "img1"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f118",
+    "display": "100",
+    "caption": "In den «100 gravamina nationis germanicae»."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "95 Thesen"
+   },
+   {
+    "type": "closing",
+    "text": "Möglicherweise kann diese Ansicht auf der Basis der Notiz des Luther-Sekretärs Georg Rörer revidiert werden."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "95 Thesen",
+    "line": "Disputation zur Klärung der Kraft der Ablässe",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Da eine Stellungnahme Albrechts von Brandenburg ausblieb, gab Luther die Thesen an einige Bekannte weiter, darunter auch Wilhelm Nesen und Konrad Nesen."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "95 Thesen"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f126",
+    "display": "23 Jahren",
+    "caption": "Albrecht von Brandenburg wurde schon 1513 im Alter von 23 Jahren Erzbischof von Magdeburg und Administrator des Bistums Halberstadt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f121",
+      "label": "Die Beschwerden waren schon im Jahre 1522 dem Papst Hadrian VI. übersendet worden."
+     },
+     {
+      "fact": "f139",
+      "label": "Bis zu Luthers Tod 1546 ist vom Thesenanschlag in keiner reformatorischen Publikation die Rede."
+     },
+     {
+      "fact": "f143",
+      "label": "Gerhard Prause fasste 1966 in seinem Buch Niemand hat Kolumbus ausgelacht."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
+   },
+   {
+    "type": "closing",
+    "text": "Für die grundsätzliche Faktizität des Thesenanschlags sprachen sich kurz vor dem Reformationsjubiläum von 2017 erneut renommierte Reformationshistoriker wie Dorothea Wendebourg und Thomas Kaufmann aus."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "95 Thesen",
+    "line": "Disputation zur Klärung der Kraft der Ablässe",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Da eine Stellungnahme Albrechts von Brandenburg ausblieb, gab Luther die Thesen an einige Bekannte weiter, darunter auch Wilhelm Nesen und Konrad Nesen."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "95 Thesen"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f126",
+    "display": "23 Jahren",
+    "caption": "Albrecht von Brandenburg wurde schon 1513 im Alter von 23 Jahren Erzbischof von Magdeburg und Administrator des Bistums Halberstadt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f121",
+      "label": "Die Beschwerden waren schon im Jahre 1522 dem Papst Hadrian VI. übersendet worden."
+     },
+     {
+      "fact": "f139",
+      "label": "Bis zu Luthers Tod 1546 ist vom Thesenanschlag in keiner reformatorischen Publikation die Rede."
+     },
+     {
+      "fact": "f143",
+      "label": "Gerhard Prause fasste 1966 in seinem Buch Niemand hat Kolumbus ausgelacht."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Ab der These Nr. 21 bildet der Ablasshandel den Schwerpunkt seiner Ausführungen."
+   },
+   {
+    "type": "sentence",
+    "text": "Ein offenbar von Luther selbst beauftragter Einblattdruck des lateinischen Textes erschien bereits 1517 bei Jacob Thanner in Leipzig."
+   },
+   {
+    "type": "sentence",
+    "text": "Obzwar der Leipziger Drucker Jacob Thanner die Thesen mit arabischen Ziffern durchnummerierte, irrte er sich dabei aber wiederholt, so stand vor der 24. These die Ziffer 42, nach der 26. These wurde mit 17 weitergezählt."
+   },
+   {
+    "type": "sentence",
+    "text": "Zweimal erhielt der zweite Teil einer These eine eigene Nummer."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Dokument folgt dem Stil von Disputationsthesen, wie sie zu jener Zeit bei akademischen Promotionen üblich waren, und ist auf Latein verfasst."
+   },
+   {
+    "type": "sentence",
+    "text": "Weder ist Luthers Handschrift der Thesen noch ein Wittenberger Druck überliefert."
+   },
+   {
+    "type": "closing",
+    "text": "Die Historizität des Thesenanschlags, bei dem Luther seine 95 Thesen am Mittwoch, dem 31. Oktober 1517, eigenhändig an die Tür der Schlosskirche in Wittenberg genagelt haben soll, ist umstritten."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "141114651fca2c.00eed08a8a62b6"
+ }
+}

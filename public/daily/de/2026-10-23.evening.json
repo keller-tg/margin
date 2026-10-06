@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-23-evening",
+ "date": "2026-10-23",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Kartoffel",
+  "qid": "Q10998",
+  "pageid": 8239,
+  "revid": 270562121,
+  "domain": "plants",
+  "teaser": "Art der Gattung Nachtschatten"
+ },
+ "sources": [
+  {
+   "title": "Kartoffel",
+   "url": "https://de.wikipedia.org/w/index.php?title=Kartoffel&oldid=270562121",
+   "revid": 270562121,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:234 Solanum tuberosum L.jpg",
+   "w": 600,
+   "h": 901,
+   "alt": "Kartoffel",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a3/234_Solanum_tuberosum_L.jpg",
+   "sha1": "d6a63897e583800bd55a500b0ef832ff9cfe8eef",
+   "credit": {
+    "author": "Amédée Masclef",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:234_Solanum_tuberosum_L.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Kartoffel",
+    "line": "Art der Gattung Nachtschatten",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Die Samen werden in tomatenähnlichen Beeren gebildet."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Kartoffel",
+    "line": "Art der Gattung Nachtschatten",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Das Wort Kartoffel leitet sich von tartufolo ab, dem italienischen Wort für Trüffel, das wiederum abgeleitet ist von lateinisch terrae tuber."
+   },
+   {
+    "type": "closing",
+    "text": "Wegen ihrer überwiegend giftigen Pflanzenteile wurde die Kartoffel im Jahr 2022 zur Giftpflanze des Jahres gewählt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Kartoffel",
+    "line": "Art der Gattung Nachtschatten",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Kartoffel, in Teilen Deutschlands, Österreichs und der Schweiz auch als Erdapfel, Erdbirne, Grundbirne, Potaten, Tüffke und unter weiteren Regionalnamen bekannt, ist eine Nutzpflanze aus der Familie der Nachtschattengewächse."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Kartoffel"
+   },
+   {
+    "type": "closing",
+    "text": "Wegen ihrer überwiegend giftigen Pflanzenteile wurde die Kartoffel im Jahr 2022 zur Giftpflanze des Jahres gewählt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "083e07cba1d419.107b9a12927776"
+ }
+}

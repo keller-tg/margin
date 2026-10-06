@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-21-evening",
+ "date": "2026-10-21",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Mantis",
+  "qid": "Q131250",
+  "pageid": 26977166,
+  "revid": 1377672970,
+  "domain": "animals",
+  "teaser": "Order of insects including praying mantises"
+ },
+ "sources": [
+  {
+   "title": "Mantis",
+   "url": "https://en.wikipedia.org/w/index.php?title=Mantis&oldid=1377672970",
+   "revid": 1377672970,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mantis (European).jpg",
+   "w": 2048,
+   "h": 1365,
+   "alt": "Mantis",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mantis_%28European%29.jpg/960px-Mantis_%28European%29.jpg",
+   "sha1": "8709b9f6c3bbe8695ab83dbcbc023c901b660359",
+   "credit": {
+    "author": "Mihai C. Popa",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mantis_(European).jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Mantis",
+    "line": "Order of insects including praying mantises",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Mantises are distributed worldwide in temperate and tropical habitats."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Mantis",
+    "line": "Order of insects including praying mantises",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mantises are an order of insects that contains over 2,400 species in about 460 genera in 33 families."
+   },
+   {
+    "type": "closing",
+    "text": "Mantises are among the insects most commonly kept as pets."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Mantis",
+    "line": "Order of insects including praying mantises",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mantises are an order of insects that contains over 2,400 species in about 460 genera in 33 families."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mantis"
+   },
+   {
+    "type": "closing",
+    "text": "Mantises are among the insects most commonly kept as pets."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0472b4a3e5ceea.15028a13e150d2"
+ }
+}

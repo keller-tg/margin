@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-16-evening",
+ "date": "2026-10-16",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Banff National Park",
+  "qid": "Q41858",
+  "pageid": 209131,
+  "revid": 1376953130,
+  "domain": "landscapes",
+  "teaser": "National park in Alberta, Canada"
+ },
+ "sources": [
+  {
+   "title": "Banff National Park",
+   "url": "https://en.wikipedia.org/w/index.php?title=Banff_National_Park&oldid=1376953130",
+   "revid": 1376953130,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Moraine Lake 17092005.jpg",
+   "w": 2048,
+   "h": 1536,
+   "alt": "Banff National Park",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg",
+   "sha1": "49ae7406505d7a28b8fe0b4bef9414c104064874",
+   "credit": {
+    "author": "Gorgo",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Banff National Park",
+    "line": "National park in Alberta, Canada",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Over the past few million years, glaciers have at times covered most of the park."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Banff National Park",
+    "line": "National park in Alberta, Canada",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Banff National Park is Canada’s first national park, established in 1885 as Rocky Mountains Park."
+   },
+   {
+    "type": "closing",
+    "text": "In the mid-1990s, Parks Canada responded by initiating a two-year study which resulted in management recommendations and new policies that aim to preserve ecological integrity."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Banff National Park",
+    "line": "National park in Alberta, Canada",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Banff National Park is Canada’s first national park, established in 1885 as Rocky Mountains Park."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Banff National Park"
+   },
+   {
+    "type": "closing",
+    "text": "In the mid-1990s, Parks Canada responded by initiating a two-year study which resulted in management recommendations and new policies that aim to preserve ecological integrity."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "16671ab02fdb79.041ce5b66e9377"
+ }
+}

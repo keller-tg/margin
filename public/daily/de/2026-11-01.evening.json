@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-01-evening",
+ "date": "2026-11-01",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Tschadsee",
+  "qid": "Q125309",
+  "pageid": 100937,
+  "revid": 269225065,
+  "domain": "water",
+  "teaser": "Abflussloser Binnensee im Tschadbecken in Afrika"
+ },
+ "sources": [
+  {
+   "title": "Tschadsee",
+   "url": "https://de.wikipedia.org/w/index.php?title=Tschadsee&oldid=269225065",
+   "revid": 269225065,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Lake Chad (MODIS 2018-06-07).jpg",
+   "w": 2223,
+   "h": 1723,
+   "alt": "Tschadsee",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Lake_Chad_%28MODIS_2018-06-07%29.jpg/960px-Lake_Chad_%28MODIS_2018-06-07%29.jpg",
+   "sha1": "9409815c15df31f6eadc30d283d6989eefc94d8a",
+   "credit": {
+    "author": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Lake_Chad_(MODIS_2018-06-07).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Tschadsee",
+    "line": "Abflussloser Binnensee im Tschadbecken in Afrika",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Zwei Dreiländerecke befinden sich im See: Kamerun-Tschad-Nigeria im südöstlichen Teil und Niger-Tschad-Nigeria im nordwestlichen Teil."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Tschadsee",
+    "line": "Abflussloser Binnensee im Tschadbecken in Afrika",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Tschadsee ist ein abflussloser See in West-, Zentralafrika."
+   },
+   {
+    "type": "closing",
+    "text": "Das Seevolumen beträgt 6,3 km³."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Tschadsee",
+    "line": "Abflussloser Binnensee im Tschadbecken in Afrika",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Tschadsee ist ein abflussloser See in West-, Zentralafrika."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Tschadsee"
+   },
+   {
+    "type": "closing",
+    "text": "Das Seevolumen beträgt 6,3 km³."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "099dbf605c794f.0da5ae2cc4ac78"
+ }
+}

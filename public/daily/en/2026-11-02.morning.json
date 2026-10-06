@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-02-morning",
+ "date": "2026-11-02",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Boletus edulis",
+  "qid": "Q19740",
+  "pageid": 427655,
+  "revid": 1369219999,
+  "domain": "plants",
+  "teaser": "Species of mushroom, widely distributed in the Northern Hemisphere"
+ },
+ "sources": [
+  {
+   "title": "Boletus edulis",
+   "url": "https://en.wikipedia.org/w/index.php?title=Boletus_edulis&oldid=1369219999",
+   "revid": 1369219999,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Boletus edulis IT.jpg",
+   "w": 3072,
+   "h": 4096,
+   "alt": "Boletus edulis",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Boletus_edulis_IT.jpg/960px-Boletus_edulis_IT.jpg",
+   "sha1": "61e623e543ea6529037feeb80c64caa6bda7113c",
+   "credit": {
+    "author": "ReddishClover",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Boletus_edulis_IT.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "cm",
+   "surface": "30 cm"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1809",
+   "surface": "1809"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1818",
+   "surface": "1818"
+  },
+  "f22": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "cm",
+   "surface": "30 cm"
+  },
+  "f58": {
+   "kind": "date",
+   "value": "2013",
+   "surface": "2013"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Boletus edulis",
+    "line": "Species of mushroom, widely distributed in the Northern Hemisphere",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Boletus edulis is a basidiomycete fungus, and the type species of the genus Boletus."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f22",
+    "display": "30 cm",
+    "caption": "The cap of this mushroom grows up to 8–30 cm wide, sometimes more."
+   },
+   {
+    "type": "closing",
+    "text": "B. edulis is also one of the few fungi sold pickled."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Boletus edulis",
+    "line": "Species of mushroom, widely distributed in the Northern Hemisphere",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Boletus edulis is a basidiomycete fungus, and the type species of the genus Boletus."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Boletus edulis"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "30 cm",
+    "caption": "The fruit body has a large brown cap which can reach 30 cm in diameter and 3 kg in weight."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f17",
+      "label": "Early alternate names include Boletus solidus by English naturalist James Sowerby in 1809."
+     },
+     {
+      "fact": "f20",
+      "label": "The French-born King Charles XIV John popularised B. edulis in Sweden after 1818."
+     },
+     {
+      "fact": "f58",
+      "label": "A similarly sized specimen found in Poland in 2013 made international news."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The fungus produces spore-bearing fruit bodies above ground in summer and autumn."
+   },
+   {
+    "type": "closing",
+    "text": "B. edulis is also one of the few fungi sold pickled."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Boletus edulis",
+    "line": "Species of mushroom, widely distributed in the Northern Hemisphere",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Boletus edulis is a basidiomycete fungus, and the type species of the genus Boletus."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Boletus edulis"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "30 cm",
+    "caption": "The fruit body has a large brown cap which can reach 30 cm in diameter and 3 kg in weight."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f17",
+      "label": "Early alternate names include Boletus solidus by English naturalist James Sowerby in 1809."
+     },
+     {
+      "fact": "f20",
+      "label": "The French-born King Charles XIV John popularised B. edulis in Sweden after 1818."
+     },
+     {
+      "fact": "f58",
+      "label": "A similarly sized specimen found in Poland in 2013 made international news."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Boletus edulis was first described in 1782 by the French botanist Pierre Bulliard and still bears its original name."
+   },
+   {
+    "type": "sentence",
+    "text": "A 1987 revision of the International Code of Botanical Nomenclature set the starting date at May 1, 1753, the date of publication of Carl Linnaeus’ Species Plantarum."
+   },
+   {
+    "type": "sentence",
+    "text": "The cap of this mushroom grows up to 8–30 cm wide, sometimes more."
+   },
+   {
+    "type": "sentence",
+    "text": "The stipe grows up to 8–25 cm tall and 2–7 cm thick—rather large in comparison to the cap."
+   },
+   {
+    "type": "sentence",
+    "text": "The undersurface of the cap consists of thin tubes, the site of spore production; they are 1 to 2 cm deep, and whitish in colour when young, but mature to a greenish-yellow."
+   },
+   {
+    "type": "sentence",
+    "text": "Viscid when moist, the cap is convex when young and flattens with age."
+   },
+   {
+    "type": "closing",
+    "text": "B. edulis is also one of the few fungi sold pickled."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "039319fb62b568.1ba7c11a85a234"
+ }
+}

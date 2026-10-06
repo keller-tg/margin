@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-30-evening",
+ "date": "2026-10-30",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Protactinium",
+  "qid": "Q1109",
+  "pageid": 23322,
+  "revid": 1368849907,
+  "domain": "chemistry",
+  "teaser": "Chemical element with atomic number 91"
+ },
+ "sources": [
+  {
+   "title": "Protactinium",
+   "url": "https://en.wikipedia.org/w/index.php?title=Protactinium&oldid=1368849907",
+   "revid": 1368849907,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Protactinium (Element - 91) 2.jpg",
+   "w": 1562,
+   "h": 1253,
+   "alt": "Protactinium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Protactinium_%28Element_-_91%29_2.jpg/960px-Protactinium_%28Element_-_91%29_2.jpg",
+   "sha1": "e8725d6b5a45ca3984e4ae2eca9984684168104e",
+   "credit": {
+    "author": "James St. John",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Protactinium_(Element_-_91)_2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Protactinium",
+    "line": "Chemical element with atomic number 91",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Concentrations of protactinium in the Earth’s crust are typically a few parts per trillion."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Protactinium",
+    "line": "Chemical element with atomic number 91",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Protactinium is a chemical element; it has symbol Pa and atomic number 91."
+   },
+   {
+    "type": "closing",
+    "text": "Ocean science uses the element to understand the ancient ocean’s geography: analysis of the relative concentrations of various uranium, thorium."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Protactinium",
+    "line": "Chemical element with atomic number 91",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Protactinium is a chemical element; it has symbol Pa and atomic number 91."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Protactinium"
+   },
+   {
+    "type": "closing",
+    "text": "Protactinium is unusual among non-primordial elements in that its natural isotopic composition is extremely uniform across typical terrestrial samples, because essentially all naturally occurring protactinium is 231Pa, produced solely along a single pathway."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "02c95f8f42b98c.0917ec694f9872"
+ }
+}

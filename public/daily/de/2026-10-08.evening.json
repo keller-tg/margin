@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-08-evening",
+ "date": "2026-10-08",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Essigsäure",
+  "qid": "Q47512",
+  "pageid": 41798,
+  "revid": 270432993,
+  "domain": "chemistry",
+  "teaser": "Ethansäure, einprotonige Carbonsäure"
+ },
+ "sources": [
+  {
+   "title": "Essigsäure",
+   "url": "https://de.wikipedia.org/w/index.php?title=Essigs%C3%A4ure&oldid=270432993",
+   "revid": 270432993,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Acetic acid.jpg",
+   "w": 598,
+   "h": 986,
+   "alt": "Essigsäure",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Acetic_acid.jpg",
+   "sha1": "33567cda6617c9dc3d0620a8d6dee5000d259132",
+   "credit": {
+    "author": "W. Oelen",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Acetic_acid.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Essigsäure",
+    "line": "Ethansäure, einprotonige Carbonsäure",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Essigsäure hat die Summenformel C2H4O2 und die Halbstrukturformel CH3COOH."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Essigsäure",
+    "line": "Ethansäure, einprotonige Carbonsäure",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Essigsäure ist eine organische chemische Verbindung aus der Gruppe der Carbonsäuren und die Alkansäure des Ethans."
+   },
+   {
+    "type": "closing",
+    "text": "Neben der Verwendung als Lebensmittel wird verdünnte Essigsäure als Entkalkungsmittel eingesetzt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Essigsäure",
+    "line": "Ethansäure, einprotonige Carbonsäure",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Essigsäure ist eine organische chemische Verbindung aus der Gruppe der Carbonsäuren und die Alkansäure des Ethans."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Essigsäure"
+   },
+   {
+    "type": "closing",
+    "text": "Neben der Verwendung als Lebensmittel wird verdünnte Essigsäure als Entkalkungsmittel eingesetzt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0834d55823e850.1faf5620d2dce3"
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-27-morning",
+ "date": "2026-10-27",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Great white shark",
+  "qid": "Q129026",
+  "pageid": 43619,
+  "revid": 1374051428,
+  "domain": "animals",
+  "teaser": "Species of large lamniform shark"
+ },
+ "sources": [
+  {
+   "title": "Great white shark",
+   "url": "https://en.wikipedia.org/w/index.php?title=Great_white_shark&oldid=1374051428",
+   "revid": 1374051428,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:White shark.jpg",
+   "w": 1200,
+   "h": 835,
+   "alt": "Great white shark",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/960px-White_shark.jpg",
+   "sha1": "e70be9e194e7d5242dd4f4324d679bd04d06470a",
+   "credit": {
+    "author": "Pterantula (Terry Goss) at en.wikipedia",
+    "authorSource": "artist",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
+    "attribution": "Terry Goss",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f18": {
+   "kind": "measure",
+   "value": 7000,
+   "unit": "years",
+   "surface": "7,000 years"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "2024",
+   "surface": "2024"
+  },
+  "f22": {
+   "kind": "measure",
+   "value": 4.9,
+   "unit": "m",
+   "surface": "4.9 m"
+  },
+  "f33": {
+   "kind": "date",
+   "value": "680",
+   "surface": "680"
+  },
+  "f140": {
+   "kind": "date",
+   "value": "2015",
+   "surface": "2015"
+  },
+  "f163": {
+   "kind": "date",
+   "value": "2000",
+   "surface": "2000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Great white shark",
+    "line": "Species of large lamniform shark",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "White sharks are estimated to swim 2.88–4.86 km/h but can sprint up to 24.12 km/h."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f22",
+    "display": "4.9 m",
+    "caption": "Female white sharks are mature at 4.6–4.9 m while males are mature at 3.4–4.0 m."
+   },
+   {
+    "type": "closing",
+    "text": "Several governments have enacted protections for the species, including bans on catching and killing it."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Great white shark",
+    "line": "Species of large lamniform shark",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The great white shark, also known as the white shark, white pointer, or great white, is a large shark."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Great white shark"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f22",
+    "display": "4.9 m",
+    "caption": "Female white sharks are mature at 4.6–4.9 m while males are mature at 3.4–4.0 m."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f33",
+      "label": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg."
+     },
+     {
+      "fact": "f163",
+      "label": "Another similar attack apparently occurred there in 2000, but its outcome is not clear."
+     },
+     {
+      "fact": "f140",
+      "label": "Conversely, a 2015 study concluded that white sharks are a slow-growing and long-lived species."
+     },
+     {
+      "fact": "f20",
+      "label": "Datings by the 2024 study coincide with the penultimate glaciation."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The white shark is one of the largest living shark and fish species, though it is still smaller than the whale shark and basking shark."
+   },
+   {
+    "type": "closing",
+    "text": "Several governments have enacted protections for the species, including bans on catching and killing it."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Great white shark",
+    "line": "Species of large lamniform shark",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The great white shark, also known as the white shark, white pointer, or great white, is a large shark."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Great white shark"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f18",
+    "display": "7,000 years",
+    "caption": "A 2025 study affirmed the existence of these three clades but found that they diverged around 7,000 years ago following a decline in the global white shark population, which started 800,000 years ago."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f33",
+      "label": "Females weigh 1,000–1,900 kg while males weigh 680–1,000 kg."
+     },
+     {
+      "fact": "f163",
+      "label": "Another similar attack apparently occurred there in 2000, but its outcome is not clear."
+     },
+     {
+      "fact": "f140",
+      "label": "Conversely, a 2015 study concluded that white sharks are a slow-growing and long-lived species."
+     },
+     {
+      "fact": "f20",
+      "label": "Datings by the 2024 study coincide with the penultimate glaciation."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The most common English names for the species include great white shark, white shark, and the Australian English variant white pointer."
+   },
+   {
+    "type": "sentence",
+    "text": "The white shark is the sole living species in the genus Carcharodon and is one of five living species of the family Lamnidae."
+   },
+   {
+    "type": "sentence",
+    "text": "The other four members of this family are the mako sharks, porbeagle, and salmon shark."
+   },
+   {
+    "type": "sentence",
+    "text": "The white shark first appears in the fossil record in the Pacific basin around 6–5 mya, between the late Miocene and early Pliocene."
+   },
+   {
+    "type": "sentence",
+    "text": "Around 8–6 mya, a Pacific population of C. hastalis evolved into C. hubbelli."
+   },
+   {
+    "type": "sentence",
+    "text": "The white shark has a stocky, torpedo-shaped body with a short, cone-shaped snout."
+   },
+   {
+    "type": "closing",
+    "text": "Several governments have enacted protections for the species, including bans on catching and killing it."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "076cebd67dce7f.1563fe4755ac0d"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-25-evening",
+ "date": "2026-10-25",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Triton (moon)",
+  "qid": "Q3359",
+  "pageid": 44371,
+  "revid": 1377782096,
+  "domain": "astronomy",
+  "teaser": "Largest moon of Neptune"
+ },
+ "sources": [
+  {
+   "title": "Triton (moon)",
+   "url": "https://en.wikipedia.org/w/index.php?title=Triton_(moon)&oldid=1377782096",
+   "revid": 1377782096,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Triton-usgs23-with-frame.jpg",
+   "w": 5000,
+   "h": 5000,
+   "alt": "Triton (moon)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Triton-usgs23-with-frame.jpg/960px-Triton-usgs23-with-frame.jpg",
+   "sha1": "c7214d57c9046b58f8d6edfec012e3e8d850f931",
+   "credit": {
+    "author": "Michael T. Bland, U.S. Geological Survey (USGS)",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Triton-usgs23-with-frame.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Triton (moon)",
+    "line": "Largest moon of Neptune",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Triton is one of the most geologically active worlds in the Solar System."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Triton (moon)",
+    "line": "Largest moon of Neptune",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Triton is the largest natural satellite of the planet Neptune."
+   },
+   {
+    "type": "closing",
+    "text": "As the probe was able to study only about 40% of the moon’s surface, multiple concept missions have been developed to revisit Triton."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Triton (moon)",
+    "line": "Largest moon of Neptune",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Triton is the largest natural satellite of the planet Neptune."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Triton (moon)"
+   },
+   {
+    "type": "closing",
+    "text": "As the probe was able to study only about 40% of the moon’s surface, multiple concept missions have been developed to revisit Triton."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "17fc608f58ebeb.15da9843d89ae0"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-22-evening",
+ "date": "2026-10-22",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Ganymede (moon)",
+  "qid": "Q3169",
+  "pageid": 54211,
+  "revid": 1377675723,
+  "domain": "astronomy",
+  "teaser": "Largest moon of Jupiter"
+ },
+ "sources": [
+  {
+   "title": "Ganymede (moon)",
+   "url": "https://en.wikipedia.org/w/index.php?title=Ganymede_(moon)&oldid=1377675723",
+   "revid": 1377675723,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Ganymede - Perijove 34 Composite.png",
+   "w": 3445,
+   "h": 3445,
+   "alt": "Ganymede (moon)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ganymede_-_Perijove_34_Composite.png/960px-Ganymede_-_Perijove_34_Composite.png",
+   "sha1": "95559cadeca336199141293b73a55f238897c608",
+   "credit": {
+    "author": "NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ganymede_-_Perijove_34_Composite.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Ganymede (moon)",
+    "line": "Largest moon of Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Ganymede is composed of silicate rock and water in approximately equal proportions."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Ganymede (moon)",
+    "line": "Largest moon of Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Ganymede is a natural satellite of Jupiter and is the largest and most massive moon in the Solar System."
+   },
+   {
+    "type": "closing",
+    "text": "After flybys of all three icy Galilean moons, it is planned to enter orbit around Ganymede."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Ganymede (moon)",
+    "line": "Largest moon of Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Ganymede is a natural satellite of Jupiter and is the largest and most massive moon in the Solar System."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Ganymede (moon)"
+   },
+   {
+    "type": "closing",
+    "text": "After flybys of all three icy Galilean moons, it is planned to enter orbit around Ganymede."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "01627d8f87e33b.14d56b6ee2deb1"
+ }
+}

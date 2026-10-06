@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-31-evening",
+ "date": "2026-10-31",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Kürbisse",
+  "qid": "Q5339301",
+  "pageid": 11788,
+  "revid": 271093612,
+  "domain": "plants",
+  "teaser": "Gattung der Familie Kürbisgewächse"
+ },
+ "sources": [
+  {
+   "title": "Kürbisse",
+   "url": "https://de.wikipedia.org/w/index.php?title=K%C3%BCrbisse&oldid=271093612",
+   "revid": 271093612,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Icones plantarum medico-oeconomico-technologicarum cum earum fructus ususque descriptione = (Tab. 148) (8096991138).jpg",
+   "w": 1286,
+   "h": 868,
+   "alt": "Kürbisse",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_%28Tab._148%29_%288096991138%29.jpg/960px-Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_%28Tab._148%29_%288096991138%29.jpg",
+   "sha1": "c8945de67b5301a7499c1fab32e7e63851dbe945",
+   "credit": {
+    "author": "Fæ",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_(Tab._148)_(8096991138).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Kürbisse",
+    "line": "Gattung der Familie Kürbisgewächse",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Bekannte Vertreter wie der Riesen-Kürbis, der Moschus-Kürbis und der Garten-Kürbis werden landwirtschaftlich und gärtnerisch genutzt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Kürbisse",
+    "line": "Gattung der Familie Kürbisgewächse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Kürbisse bilden eine Pflanzengattung innerhalb der Familie der Kürbisgewächse."
+   },
+   {
+    "type": "closing",
+    "text": "Die ebenfalls als Kürbis bezeichneten Früchte vieler Kürbispflanzen werden im Handel sowie kulinarisch zum Fruchtgemüse gezählt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Kürbisse",
+    "line": "Gattung der Familie Kürbisgewächse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Kürbisse bilden eine Pflanzengattung innerhalb der Familie der Kürbisgewächse."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Kürbisse"
+   },
+   {
+    "type": "closing",
+    "text": "Die ebenfalls als Kürbis bezeichneten Früchte vieler Kürbispflanzen werden im Handel sowie kulinarisch zum Fruchtgemüse gezählt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "131363632c76c2.1eff8ccbfeb6ca"
+ }
+}

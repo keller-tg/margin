@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-24-evening",
+ "date": "2026-10-24",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Bremsen",
+  "qid": "Q228241",
+  "pageid": 687,
+  "revid": 269045786,
+  "domain": "animals",
+  "teaser": "Familie der Ordnung Zweiflügler"
+ },
+ "sources": [
+  {
+   "title": "Bremsen",
+   "url": "https://de.wikipedia.org/w/index.php?title=Bremsen&oldid=269045786",
+   "revid": 269045786,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Tabanida.jpg",
+   "w": 778,
+   "h": 964,
+   "alt": "Bremsen",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tabanida.jpg",
+   "sha1": "40d54613aa05fa045d20b1f935133caf6966a4b2",
+   "credit": {
+    "author": "Soebe at German Wikipedia",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Tabanida.jpg",
+    "attribution": "Soebe",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Bremsen",
+    "line": "Familie der Ordnung Zweiflügler",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Die Männchen der meisten Arten sind Blütenbesucher und ernähren sich von Pollen und Nektar."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Bremsen",
+    "line": "Familie der Ordnung Zweiflügler",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Bremsen sind eine Familie aus der Unterordnung der Fliegen in der Ordnung der Zweiflügler."
+   },
+   {
+    "type": "closing",
+    "text": "Bremsen werden auch als Viehfliegen bezeichnet."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Bremsen",
+    "line": "Familie der Ordnung Zweiflügler",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Bremsen sind eine Familie aus der Unterordnung der Fliegen in der Ordnung der Zweiflügler."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bremsen"
+   },
+   {
+    "type": "closing",
+    "text": "Bremsen werden auch als Viehfliegen bezeichnet."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "121c78592c599c.0481608ce69a41"
+ }
+}

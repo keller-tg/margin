@@ -1,0 +1,228 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-29-morning",
+ "date": "2026-10-29",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Beutelteufel",
+  "qid": "Q134964",
+  "pageid": 246249,
+  "revid": 270512150,
+  "domain": "animals",
+  "teaser": "Art der Raubbeutler"
+ },
+ "sources": [
+  {
+   "title": "Beutelteufel",
+   "url": "https://de.wikipedia.org/w/index.php?title=Beutelteufel&oldid=270512150",
+   "revid": 270512150,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Sarcophilus harrisii taranna.jpg",
+   "w": 2200,
+   "h": 1435,
+   "alt": "Beutelteufel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sarcophilus_harrisii_taranna.jpg/960px-Sarcophilus_harrisii_taranna.jpg",
+   "sha1": "d791c656ada5c2be27eb4df042987892a0c75e81",
+   "credit": {
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 3200,
+   "unit": "jahren",
+   "surface": "3200 Jahren"
+  },
+  "f2": {
+   "kind": "date",
+   "value": "1941",
+   "surface": "1941"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1838",
+   "surface": "1838"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1841",
+   "surface": "1841"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 25,
+   "unit": "%",
+   "surface": "25 %"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1788",
+   "surface": "1788"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Beutelteufel",
+    "line": "Art der Raubbeutler",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "In der rekonstruierten Sprache Palawa Kani der tasmanischen Aborigines wird er als Purinina bezeichnet."
+   },
+   {
+    "type": "sentence",
+    "text": "Mit Ausnahme von wenigen dutzend Tieren als Teil eines Wiederansiedlungsprojekts auf dem australischen Festland."
+   },
+   {
+    "type": "closing",
+    "text": "Seitdem der Beutelteufel 1941 unter Schutz gestellt worden ist, hat sich der Bestand erholt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Beutelteufel",
+    "line": "Art der Raubbeutler",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Beutelteufel, auch Tasmanischer Teufel genannt, ist eine Tierart aus der Familie der Raubbeutler und deren grösster lebender Vertreter."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Beutelteufel"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "25 %",
+    "caption": "Im Pleistozän kam eine andere Beutelteufelart in Australien vor, die etwa um 25 % grösser war als der heutige Beutelteufel."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f35",
+      "label": "Europäer besiedelten Australien ab 1788 und liessen sich auch bald auf Tasmanien nieder."
+     },
+     {
+      "fact": "f8",
+      "label": "1838 beschrieb Richard Owen fossiles Material, das dem Beutelteufel stark ähnelte, als Dasyurus laniarius."
+     },
+     {
+      "fact": "f9",
+      "label": "1841 nannte Pierre Boitard die lebende Art Sarcophilus harrisii."
+     },
+     {
+      "fact": "f2",
+      "label": "Seitdem der Beutelteufel 1941 unter Schutz gestellt worden ist, hat sich der Bestand erholt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "In der rekonstruierten Sprache Palawa Kani der tasmanischen Aborigines wird er als Purinina bezeichnet."
+   },
+   {
+    "type": "closing",
+    "text": "Allerdings ist die Art seit den späten 1990er Jahren durch die Krankheit Devil Facial Tumour Disease bedroht."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Beutelteufel",
+    "line": "Art der Raubbeutler",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Beutelteufel, auch Tasmanischer Teufel genannt, ist eine Tierart aus der Familie der Raubbeutler und deren grösster lebender Vertreter."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Beutelteufel"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "3200 Jahren",
+    "caption": "Mit Ausnahme von wenigen dutzend Tieren als Teil eines Wiederansiedlungsprojekts auf dem australischen Festland, wo die Tierart wahrscheinlich schon vor ungefähr 3200 Jahren ausgestorben ist, ist das Verbreitungsgebiet auf Tasmanien und einige vorgelagerte Inseln beschränkt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f35",
+      "label": "Europäer besiedelten Australien ab 1788 und liessen sich auch bald auf Tasmanien nieder."
+     },
+     {
+      "fact": "f8",
+      "label": "1838 beschrieb Richard Owen fossiles Material, das dem Beutelteufel stark ähnelte, als Dasyurus laniarius."
+     },
+     {
+      "fact": "f9",
+      "label": "1841 nannte Pierre Boitard die lebende Art Sarcophilus harrisii."
+     },
+     {
+      "fact": "f2",
+      "label": "Seitdem der Beutelteufel 1941 unter Schutz gestellt worden ist, hat sich der Bestand erholt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Der Naturwissenschaftler George Harris beschrieb den Beutelteufel 1808 und gab ihm die wissenschaftliche Bezeichnung Didelphis ursina."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Männchen haben eine durchschnittliche Kopf-Rumpf-Länge von 65 Zentimetern, der Schwanz hat im Mittel eine Länge von knapp 26 Zentimetern und sie wiegen etwa acht Kilogramm."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Beutelteufel ist der grösste noch lebende Raubbeutler."
+   },
+   {
+    "type": "sentence",
+    "text": "Weibchen sind etwas kleiner und leichter: Ihre Kopf-Rumpf-Länge beträgt durchschnittlich 57 Zentimeter, der Schwanz bei ihnen ist 24 Zentimeter lang, und sie wiegen etwa sechs Kilogramm."
+   },
+   {
+    "type": "sentence",
+    "text": "Beutelteufel leben heute nur noch auf Tasmanien, weshalb sie gelegentlich auch als Tasmanischer Teufel oder Tasmanischer Beutelteufel bezeichnet werden."
+   },
+   {
+    "type": "sentence",
+    "text": "Funde, die auf einen späteren Zeitraum datiert wurden, sind Gegenstand der wissenschaftlichen Debatte, wie beispielsweise Funde, die nahelegen, dass der Beutelteufel erst im 14. Jahrhundert oder noch später auf dem australischen Festland ausgestorben ist."
+   },
+   {
+    "type": "closing",
+    "text": "Allerdings ist die Art seit den späten 1990er Jahren durch die Krankheit Devil Facial Tumour Disease bedroht."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0b97c7ddc97140.0eb2afbd75af95"
+ }
+}

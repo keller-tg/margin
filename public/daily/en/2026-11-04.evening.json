@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-04-evening",
+ "date": "2026-11-04",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Onion",
+  "qid": "Q23485",
+  "pageid": 51258,
+  "revid": 1378200900,
+  "domain": "plants",
+  "teaser": "Bulbous vegetable"
+ },
+ "sources": [
+  {
+   "title": "Onion",
+   "url": "https://en.wikipedia.org/w/index.php?title=Onion&oldid=1378200900",
+   "revid": 1378200900,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mixed onions.jpg",
+   "w": 2797,
+   "h": 2797,
+   "alt": "Onion",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/960px-Mixed_onions.jpg",
+   "sha1": "3b9b2907212d0d1ed314a9ee076cdf3e8c345ab3",
+   "credit": {
+    "author": "Colin",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+    "attribution": "© User:Colin / Wikimedia Commons",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Onion",
+    "line": "Bulbous vegetable",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "The name wild onion is applied to a number of Allium species."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Onion",
+    "line": "Bulbous vegetable",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium."
+   },
+   {
+    "type": "closing",
+    "text": "Onions are cultivated and used around the world."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Onion",
+    "line": "Bulbous vegetable",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Onion"
+   },
+   {
+    "type": "closing",
+    "text": "Onions are cultivated and used around the world."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0f2ad98f747ffc.19695e3789f2bf"
+ }
+}

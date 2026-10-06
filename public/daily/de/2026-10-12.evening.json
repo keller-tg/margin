@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-12-evening",
+ "date": "2026-10-12",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Gemeiner Steinpilz",
+  "qid": "Q19740",
+  "pageid": 48362,
+  "revid": 270816703,
+  "domain": "plants",
+  "teaser": "Art in der Klasse Agaricomycetes"
+ },
+ "sources": [
+  {
+   "title": "Gemeiner Steinpilz",
+   "url": "https://de.wikipedia.org/w/index.php?title=Gemeiner_Steinpilz&oldid=270816703",
+   "revid": 270816703,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Boletus edulis LC0371.jpg",
+   "w": 1600,
+   "h": 2001,
+   "alt": "Gemeiner Steinpilz",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Boletus_edulis_LC0371.jpg/960px-Boletus_edulis_LC0371.jpg",
+   "sha1": "e184b51f15ea1957474f714bbe66c01c72687818",
+   "credit": {
+    "author": "Jörg Hempel",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Boletus_edulis_LC0371.jpg",
+    "attribution": "Jörg Hempel",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Gemeiner Steinpilz",
+    "line": "Art in der Klasse Agaricomycetes",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Der Fichtensteinpilz bildet grosse, in Hut und Stiel gegliederte Fruchtkörper."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Gemeiner Steinpilz",
+    "line": "Art in der Klasse Agaricomycetes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Pilz bildet mit zahlreichen Laub- und Nadelbäumen eine Mykorrhiza, häufig lebt er mit Fichten in Symbiose."
+   },
+   {
+    "type": "closing",
+    "text": "Der Gemeine Steinpilz hat eine grosse Bedeutung als Speisepilz und wird kommerziell gehandelt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Gemeiner Steinpilz",
+    "line": "Art in der Klasse Agaricomycetes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Gemeine Steinpilz, auch Fichten-Steinpilz, Herrenpilz, Edelpilz oder in Ostbayern und Böhmen Dobernickel genannt, ist eine Pilzart aus der Familie der Steinpilzverwandten und Typusspezies der Gattung Steinpilze."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Gemeiner Steinpilz"
+   },
+   {
+    "type": "closing",
+    "text": "Der Gemeine Steinpilz hat eine grosse Bedeutung als Speisepilz und wird kommerziell gehandelt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1b3ed6cb6a4281.1043ea1511c2a9"
+ }
+}

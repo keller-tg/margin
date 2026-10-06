@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-31-evening",
+ "date": "2026-10-31",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Rodent",
+  "qid": "Q10850",
+  "pageid": 19337310,
+  "revid": 1376327476,
+  "domain": "animals",
+  "teaser": "Order of mammals"
+ },
+ "sources": [
+  {
+   "title": "Rodent",
+   "url": "https://en.wikipedia.org/w/index.php?title=Rodent&oldid=1376327476",
+   "revid": 1376327476,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Hydrochoeris hydrochaeris in Brazil in Petrópolis, Rio de Janeiro, Brazil 09.jpg",
+   "w": 8256,
+   "h": 5504,
+   "alt": "Rodent",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/960px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg",
+   "sha1": "906fe7f5a5717ed3c3830e1fc76ee7e818e0c62f",
+   "credit": {
+    "author": "Wilfredor",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis,_Rio_de_Janeiro,_Brazil_09.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Rodent",
+    "line": "Order of mammals",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Most rodents are small animals with robust bodies, short limbs, and long tails."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Rodent",
+    "line": "Order of mammals",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rodents make up about 40% of all mammal species."
+   },
+   {
+    "type": "closing",
+    "text": "Well-known rodents include mice, rats, squirrels, prairie dogs, porcupines, beavers, guinea pigs, and hamsters."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Rodent",
+    "line": "Order of mammals",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rodents are a group of mammals belonging to the order Rodentia characterized by a single pair of continuously growing incisors in each of the upper and lower jaws."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rodent"
+   },
+   {
+    "type": "closing",
+    "text": "Well-known rodents include mice, rats, squirrels, prairie dogs, porcupines, beavers, guinea pigs, and hamsters."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1b94f528a51f47.1a9a7c87924ac6"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-22-evening",
+ "date": "2026-10-22",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Enceladus (Mond)",
+  "qid": "Q3303",
+  "pageid": 306875,
+  "revid": 269260252,
+  "domain": "astronomy",
+  "teaser": "Mond des Saturns"
+ },
+ "sources": [
+  {
+   "title": "Enceladus (Mond)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Enceladus_(Mond)&oldid=269260252",
+   "revid": 269260252,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:PIA17202 - Approaching Enceladus.jpg",
+   "w": 1020,
+   "h": 1020,
+   "alt": "Enceladus (Mond)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/PIA17202_-_Approaching_Enceladus.jpg/960px-PIA17202_-_Approaching_Enceladus.jpg",
+   "sha1": "4765c12790da8eb90a6f5c9736edec7544cd346d",
+   "credit": {
+    "author": "PhilipTerryGraham",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:PIA17202_-_Approaching_Enceladus.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Enceladus (Mond)",
+    "line": "Mond des Saturns",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Im Bereich der vulkanischen Aktivität wurden auch Hinweise auf flüssiges Wasser gefunden."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Enceladus (Mond)",
+    "line": "Mond des Saturns",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Vorlage:Infobox Mond/Wartung/A_Fallen Enceladus ist einer der grössten Saturnmonde."
+   },
+   {
+    "type": "closing",
+    "text": "Im Bereich der vulkanischen Aktivität wurden auch Hinweise auf flüssiges Wasser gefunden."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Enceladus (Mond)",
+    "line": "Mond des Saturns",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Vorlage:Infobox Mond/Wartung/A_Fallen Enceladus ist einer der grössten Saturnmonde."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Enceladus (Mond)"
+   },
+   {
+    "type": "closing",
+    "text": "Im Bereich der vulkanischen Aktivität wurden auch Hinweise auf flüssiges Wasser gefunden, sodass Enceladus als einer der möglichen Orte im Sonnensystem mit günstigen Bedingungen für die Entstehung von Leben gilt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0c44c4eda8caad.0c7b8f08058a1c"
+ }
+}

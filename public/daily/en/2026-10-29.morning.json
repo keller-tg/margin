@@ -1,0 +1,175 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-29-morning",
+ "date": "2026-10-29",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Parthian Empire",
+  "qid": "Q1986139",
+  "pageid": 4501200,
+  "revid": 1376580869,
+  "domain": "history",
+  "teaser": "Iranian empire"
+ },
+ "sources": [
+  {
+   "title": "Parthian Empire",
+   "url": "https://en.wikipedia.org/w/index.php?title=Parthian_Empire&oldid=1376580869",
+   "revid": 1376580869,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Map Parthian Empire-fr.png",
+   "w": 1766,
+   "h": 914,
+   "alt": "Parthian Empire",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Map_Parthian_Empire-fr.png/960px-Map_Parthian_Empire-fr.png",
+   "sha1": "8b84689a917e9e7fe2db13c0aa1cfd212d15c560",
+   "credit": {
+    "author": "Fabienkhan",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Map_Parthian_Empire-fr.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f57": {
+   "kind": "number",
+   "value": 127,
+   "surface": "127"
+  },
+  "f191": {
+   "kind": "measure",
+   "value": 400,
+   "unit": "years",
+   "surface": "400 years"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Parthian Empire",
+    "line": "Iranian empire",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mithridates I greatly expanded the empire by seizing Media and Mesopotamia from the Seleucids."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f57",
+    "display": "127",
+    "caption": "When this failed, Hyspaosines invaded Babylonia in 127 BC and occupied Seleucia."
+   },
+   {
+    "type": "closing",
+    "text": "Aside from scattered cuneiform tablets, fragmentary ostraca, rock inscriptions, drachma coins."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Parthian Empire",
+    "line": "Iranian empire",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mithridates I greatly expanded the empire by seizing Media and Mesopotamia from the Seleucids."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Parthian Empire"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f191",
+    "display": "400 years",
+    "caption": "Nevertheless, for a period of more than 400 years, they succeeded the Parthian realm as Rome’s principal rival."
+   },
+   {
+    "type": "sentence",
+    "text": "The Parthians largely adopted the art, architecture, religious beliefs, and regalia of their culturally heterogeneous empire, which encompassed Persian, Hellenistic, and regional cultures."
+   },
+   {
+    "type": "sentence",
+    "text": "The Arsacid court initially adopted elements of Greek culture, though it eventually saw a gradual revival of Iranian cultural traditions."
+   },
+   {
+    "type": "closing",
+    "text": "Parthian artwork is a means of understanding aspects of society and culture that are otherwise absent in textual sources."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Parthian Empire",
+    "line": "Iranian empire",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Parthian Empire, also known as the Arsacid Empire, was a major Iranian political and cultural power centered in ancient Iran from 247 BC to 224 AD."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Parthian Empire"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f191",
+    "display": "400 years",
+    "caption": "Nevertheless, for a period of more than 400 years, they succeeded the Parthian realm as Rome’s principal rival."
+   },
+   {
+    "type": "sentence",
+    "text": "Mithridates I greatly expanded the empire by seizing Media and Mesopotamia from the Seleucids."
+   },
+   {
+    "type": "sentence",
+    "text": "Before Arsaces I founded the Arsacid dynasty, he was chieftain of the Parni, an ancient Central Asian tribe of Iranian peoples and one of several nomadic tribes within the confederation of the Dahae."
+   },
+   {
+    "type": "sentence",
+    "text": "The Parni most likely spoke an eastern Iranian language, in contrast to the northwestern Iranian language spoken at the time in Parthia."
+   },
+   {
+    "type": "sentence",
+    "text": "The latter was a northeastern province, first under the Achaemenid Empire, and then the Seleucid Empire."
+   },
+   {
+    "type": "sentence",
+    "text": "After conquering the region, the Parni adopted Parthian as the official court language, speaking it alongside Middle Persian, Aramaic, Greek, Babylonian, Sogdian and other languages in the multilingual territories they would conquer."
+   },
+   {
+    "type": "sentence",
+    "text": "Some academics debate the ethnic origins of Arsaces I, such as Hashem Kazemi and Mostafa Dehpahlavan, who argue that he was a Parthian native rather than a member of the invading Parni."
+   },
+   {
+    "type": "sentence",
+    "text": "Why the Arsacid court retroactively chose 247 BC as the first year of the Arsacid era is uncertain."
+   },
+   {
+    "type": "closing",
+    "text": "Parthian artwork is a means of understanding aspects of society and culture that are otherwise absent in textual sources."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "18a41a1be8ce2d.1309ef0ebd1b53"
+ }
+}

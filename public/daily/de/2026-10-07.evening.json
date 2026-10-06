@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-07-evening",
+ "date": "2026-10-07",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Wega",
+  "qid": "Q3427",
+  "pageid": 75988,
+  "revid": 269805291,
+  "domain": "astronomy",
+  "teaser": "Hauptstern des Sternbildes Leier"
+ },
+ "sources": [
+  {
+   "title": "Wega",
+   "url": "https://de.wikipedia.org/w/index.php?title=Wega&oldid=269805291",
+   "revid": 269805291,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Vega by Stephen Rahn.jpg",
+   "w": 2971,
+   "h": 2971,
+   "alt": "Wega",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Vega_by_Stephen_Rahn.jpg/960px-Vega_by_Stephen_Rahn.jpg",
+   "sha1": "b67775d52388abf9d15abcfcef227e340148a42e",
+   "credit": {
+    "author": "Stephen Rahn",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Vega_by_Stephen_Rahn.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Wega",
+    "line": "Hauptstern des Sternbildes Leier",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Der Name leitet sich vom arabischen Ausdruck النسر الواقع, an-nasr al-wāqiʿ ab."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Wega",
+    "line": "Hauptstern des Sternbildes Leier",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Wega, auch Vega, oder in der Bayer-Bezeichnung α Lyrae, ist der Hauptstern des Sternbildes Leier."
+   },
+   {
+    "type": "closing",
+    "text": "Wega befindet sich, wie auch die Sonne, in der Lokalen Flocke."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Wega",
+    "line": "Hauptstern des Sternbildes Leier",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Wega, auch Vega, oder in der Bayer-Bezeichnung α Lyrae, ist der Hauptstern des Sternbildes Leier."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Wega"
+   },
+   {
+    "type": "closing",
+    "text": "Wega befindet sich, wie auch die Sonne, in der Lokalen Flocke."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "107137fd14c3f7.01f346259a3f39"
+ }
+}

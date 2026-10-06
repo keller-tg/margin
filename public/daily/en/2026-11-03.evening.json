@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-03-evening",
+ "date": "2026-11-03",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Stegosaurus",
+  "qid": "Q14388",
+  "pageid": 192790,
+  "revid": 1376697038,
+  "domain": "animals",
+  "teaser": "Genus of Late Jurassic armored dinosaur"
+ },
+ "sources": [
+  {
+   "title": "Stegosaurus",
+   "url": "https://en.wikipedia.org/w/index.php?title=Stegosaurus&oldid=1376697038",
+   "revid": 1376697038,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Journal.pone.0138352.g001A.jpg",
+   "w": 1956,
+   "h": 1176,
+   "alt": "Stegosaurus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Journal.pone.0138352.g001A.jpg/960px-Journal.pone.0138352.g001A.jpg",
+   "sha1": "c1f98bd4e78b45ec4f2b84b5679d5b605d9cac2e",
+   "credit": {
+    "author": "Susannah Maidment et al. & Natural History Museum, London",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Journal.pone.0138352.g001A.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Stegosaurus",
+    "line": "Genus of Late Jurassic armored dinosaur",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Stegosaurus had a relatively low brain-to-body mass ratio."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Stegosaurus",
+    "line": "Genus of Late Jurassic armored dinosaur",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The remains of over 80 individual animals of this genus have been found."
+   },
+   {
+    "type": "closing",
+    "text": "Stegosaurus is one of the better-known dinosaurs and has been featured in film, on postal stamps, and in many other types of media."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Stegosaurus",
+    "line": "Genus of Late Jurassic armored dinosaur",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The remains of over 80 individual animals of this genus have been found."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Stegosaurus"
+   },
+   {
+    "type": "closing",
+    "text": "Stegosaurus is one of the better-known dinosaurs and has been featured in film, on postal stamps, and in many other types of media."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1800e964a1aa8e.00e305de485bab"
+ }
+}

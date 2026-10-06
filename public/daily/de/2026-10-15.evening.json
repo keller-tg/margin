@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-15-evening",
+ "date": "2026-10-15",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Sauerstoff",
+  "qid": "Q629",
+  "pageid": 4543,
+  "revid": 269857688,
+  "domain": "chemistry",
+  "teaser": "Chemisches Element mit dem Symbol O und der Ordnungszahl 8"
+ },
+ "sources": [
+  {
+   "title": "Sauerstoff",
+   "url": "https://de.wikipedia.org/w/index.php?title=Sauerstoff&oldid=269857688",
+   "revid": 269857688,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Liquid oxygen in a beaker (cropped and retouched).jpg",
+   "w": 1024,
+   "h": 1280,
+   "alt": "Sauerstoff",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Liquid_oxygen_in_a_beaker_%28cropped_and_retouched%29.jpg/960px-Liquid_oxygen_in_a_beaker_%28cropped_and_retouched%29.jpg",
+   "sha1": "b9a6e3824c4bbef419f3e5c13d2a92e5ee78cbf9",
+   "credit": {
+    "author": "Staff Sgt. Nika Glover, U.S. Air Force",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_beaker_(cropped_and_retouched).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sauerstoff",
+    "line": "Chemisches Element mit dem Symbol O und der Ordnungszahl 8",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Fast alle Lebewesen benötigen Sauerstoff zum Leben."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sauerstoff",
+    "line": "Chemisches Element mit dem Symbol O und der Ordnungszahl 8",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Sauerstoff ist bezüglich der Masse mit 48,9 % das häufigste Element der Erdkruste."
+   },
+   {
+    "type": "closing",
+    "text": "Die metastabile, energiereiche und reaktive allotrope Form aus drei Sauerstoffatomen wird Ozon genannt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sauerstoff",
+    "line": "Chemisches Element mit dem Symbol O und der Ordnungszahl 8",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Sauerstoff ist ein chemisches Element mit dem Symbol O und der Ordnungszahl 8. Es steht an achter Stelle im Periodensystem und dort zusammen mit den Elementen Schwefel, Selen, Tellur, Polonium und Livermorium."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sauerstoff"
+   },
+   {
+    "type": "closing",
+    "text": "Atomarer Sauerstoff, das heisst Sauerstoff in Form freier, einzelner Sauerstoffatome, kommt stabil nur unter extremen Bedingungen vor, beispielsweise im Vakuum des Weltalls oder in heissen Sternatmosphären."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "113a8d15569950.1706b239cdf10f"
+ }
+}

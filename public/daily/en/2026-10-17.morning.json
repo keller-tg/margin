@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-17-morning",
+ "date": "2026-10-17",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Nile",
+  "qid": "Q3392",
+  "pageid": 21244,
+  "revid": 1368885921,
+  "domain": "water",
+  "teaser": "Major river in northeast Africa"
+ },
+ "sources": [
+  {
+   "title": "Nile",
+   "url": "https://en.wikipedia.org/w/index.php?title=Nile&oldid=1368885921",
+   "revid": 1368885921,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Beautiful nature along Nile River 01.jpg",
+   "w": 3000,
+   "h": 2005,
+   "alt": "Nile",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Beautiful_nature_along_Nile_River_01.jpg/960px-Beautiful_nature_along_Nile_River_01.jpg",
+   "sha1": "d67e85b1765a8fd2478f9e85a9b00af9ded4194b",
+   "credit": {
+    "author": "Fiktube",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_nature_along_Nile_River_01.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f3": {
+   "kind": "measure",
+   "value": 15000,
+   "unit": "years",
+   "surface": "15,000 years"
+  },
+  "f37": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Nile",
+    "line": "Major river in northeast Africa",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile has played a central role in the environmental, economic."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f37",
+    "display": "1%",
+    "caption": "The Nile’s discharge is only about 1% of the Amazon, 6% of the Congo."
+   },
+   {
+    "type": "closing",
+    "text": "Some dams – such as the Aswan High Dam and Grand Ethiopian Renaissance Dam."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Nile",
+    "line": "Major river in northeast Africa",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile is a major north-flowing river in northeast Africa which empties into the Mediterranean Sea."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nile"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "15,000 years",
+    "caption": "Geologically, the Nile is a young river, having followed its present course for about 15,000 years."
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile has played a central role in the environmental, economic, and cultural history of Africa for millennia."
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile has two major tributaries: the White Nile and the Blue Nile."
+   },
+   {
+    "type": "closing",
+    "text": "Some dams – such as the Aswan High Dam and Grand Ethiopian Renaissance Dam."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Nile",
+    "line": "Major river in northeast Africa",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile is a major north-flowing river in northeast Africa which empties into the Mediterranean Sea."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Nile"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "15,000 years",
+    "caption": "Geologically, the Nile is a young river, having followed its present course for about 15,000 years."
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile has played a central role in the environmental, economic, and cultural history of Africa for millennia."
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile is a major river in northeast Africa which flows into the Mediterranean Sea."
+   },
+   {
+    "type": "sentence",
+    "text": "The Nile Basin is all land that drains into the Nile, and it covers 2,927,843 km2 – about 10% of the African continent."
+   },
+   {
+    "type": "sentence",
+    "text": "The basin covers a wide variety of climates, ecosystems, and topographies – ranging from arid, sandy deserts in the north, to flat, swampy wetlands in the middle, to rainy, forested mountains in the south."
+   },
+   {
+    "type": "sentence",
+    "text": "In the ancient Egyptian language, the same word was used for 'Nile’ and 'river': jtrw."
+   },
+   {
+    "type": "sentence",
+    "text": "The English word “Nile” is derived from the Latin Nilus and the Ancient Greek Νεῖλος, which possibly originated from the Semitic term naḥal, meaning 'river'."
+   },
+   {
+    "type": "sentence",
+    "text": "In the modern era, the river goes by several names within the Nile Basin."
+   },
+   {
+    "type": "closing",
+    "text": "Some dams – such as the Aswan High Dam and Grand Ethiopian Renaissance Dam – have been the source of international political disputes about water scarcity, safety, food security, and forced displacement of peoples."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "04a795564ad60b.14dffb33027536"
+ }
+}

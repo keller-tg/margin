@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-04-morning",
+ "date": "2026-11-04",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Manchester",
+  "qid": "Q18125",
+  "pageid": 3237,
+  "revid": 270453477,
+  "domain": "cities",
+  "teaser": "Grossstadt in Grossbritannien"
+ },
+ "sources": [
+  {
+   "title": "Manchester",
+   "url": "https://de.wikipedia.org/w/index.php?title=Manchester&oldid=270453477",
+   "revid": 270453477,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Manchester Montage.png",
+   "w": 518,
+   "h": 852,
+   "alt": "Manchester",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Manchester_Montage.png",
+   "sha1": "d03640ca7ecb056d6611e04fd6e85d775940f67b",
+   "credit": {
+    "author": "TransportJone",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Manchester_Montage.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f11": {
+   "kind": "date",
+   "value": "1301",
+   "surface": "1301"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1620",
+   "surface": "1620"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1642",
+   "surface": "1642"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1761",
+   "surface": "1761"
+  },
+  "f71": {
+   "kind": "measure",
+   "value": 1500,
+   "unit": "kg",
+   "surface": "1500 kg"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Manchester",
+    "line": "Grossstadt in Grossbritannien",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Vor allem im Zeitalter der Industriellen Revolution wurde Manchester zu einem wichtigen Wirtschaftsstandort."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f71",
+    "display": "1500 kg",
+    "caption": "Am 15. Juni 1996 um 11:20 Uhr explodierten 1500 kg Sprengstoff im Zentrum Manchesters."
+   },
+   {
+    "type": "closing",
+    "text": "Die Einwohner Manchesters werden «Mancunians»oder verkürzt «Mancs»genannt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Manchester",
+    "line": "Grossstadt in Grossbritannien",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester ist eine Stadt im Nordwesten von England im Vereinigten Königreich Grossbritannien und Nordirland mit dem Status eines Metropolitan Borough sowie einer City."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Manchester"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f71",
+    "display": "1500 kg",
+    "caption": "Am 15. Juni 1996 um 11:20 Uhr explodierten 1500 kg Sprengstoff im Zentrum Manchesters."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Im Jahr 1301 folgte das Recht auf Selbstverwaltung."
+     },
+     {
+      "fact": "f17",
+      "label": "Das Wachstum erhielt um 1620 einen weiteren Schub durch die Einführung der Baumwollweberei."
+     },
+     {
+      "fact": "f18",
+      "label": "Als 1642 der Englische Bürgerkrieg ausbrach, stand Manchester auf der Seite des Parlaments."
+     },
+     {
+      "fact": "f20",
+      "label": "Die Eröffnung des Bridgewater-Kanals 1761."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Ursprünge der Stadt gehen auf ein römisches Kastell am Zusammenfluss von Irwell und Medlock zurück."
+   },
+   {
+    "type": "closing",
+    "text": "Heute ist Manchester dennoch eines der wichtigsten Wirtschaftszentren des Königreichs und beherbergt zudem zahlreiche Museen, Hochschulen und Orte der Kunst und Kultur."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Manchester",
+    "line": "Grossstadt in Grossbritannien",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manchester ist eine Stadt im Nordwesten von England im Vereinigten Königreich Grossbritannien und Nordirland mit dem Status eines Metropolitan Borough sowie einer City."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Manchester"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f71",
+    "display": "1500 kg",
+    "caption": "Am 15. Juni 1996 um 11:20 Uhr explodierten 1500 kg Sprengstoff im Zentrum Manchesters."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Im Jahr 1301 folgte das Recht auf Selbstverwaltung."
+     },
+     {
+      "fact": "f17",
+      "label": "Das Wachstum erhielt um 1620 einen weiteren Schub durch die Einführung der Baumwollweberei."
+     },
+     {
+      "fact": "f18",
+      "label": "Als 1642 der Englische Bürgerkrieg ausbrach, stand Manchester auf der Seite des Parlaments."
+     },
+     {
+      "fact": "f20",
+      "label": "Die Eröffnung des Bridgewater-Kanals 1761."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Nachdem die römischen Truppen um das Jahr 407 Grossbritannien verlassen hatten, war die Gegend nur noch dünn besiedelt, bis sich im 7. Jahrhundert Angelsachsen niederliessen."
+   },
+   {
+    "type": "sentence",
+    "text": "Orte in der Umgebung Manchesters, die im Zuge der Industrialisierung Bedeutung erlangten, sind Altrincham, Sale, Stretford, Ashton-under-Lyne, Bury, Bolton, Oldham, Rochdale, Salford, Stockport und Wigan."
+   },
+   {
+    "type": "sentence",
+    "text": "Vor der Invasion Britanniens durch die Römer lag das heutige Stadtgebiet im Territorium des keltischen Stammes der Briganten."
+   },
+   {
+    "type": "sentence",
+    "text": "Das kleine Dorf Manchester stieg im 13. Jahrhundert zu einer Marktsiedlung auf und erhielt im Jahre 1222 das Recht, Jahrmärkte durchzuführen."
+   },
+   {
+    "type": "sentence",
+    "text": "Die folgende Übersicht zeigt die Einwohnerzahlen von Manchester nach den Angaben des Office for National Statistics."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Manchester City Council ist der Stadtrat von Manchester."
+   },
+   {
+    "type": "closing",
+    "text": "Heute ist Manchester dennoch eines der wichtigsten Wirtschaftszentren des Königreichs und beherbergt zudem zahlreiche Museen, Hochschulen und Orte der Kunst und Kultur."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "17d0e8fcd8577c.1ccd8fe2ff6255"
+ }
+}

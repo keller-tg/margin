@@ -1,0 +1,228 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-14-morning",
+ "date": "2026-10-14",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Charles Darwin",
+  "qid": "Q1035",
+  "pageid": 884,
+  "revid": 269070365,
+  "domain": "people-science",
+  "teaser": "Britischer Naturforscher, Begründer der modernen Evolutionstheorie"
+ },
+ "sources": [
+  {
+   "title": "Charles Darwin",
+   "url": "https://de.wikipedia.org/w/index.php?title=Charles_Darwin&oldid=269070365",
+   "revid": 269070365,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Charles Darwin seated crop.jpg",
+   "w": 2370,
+   "h": 3119,
+   "alt": "Charles Darwin",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
+   "sha1": "e2c8bd93d1f9493b4c57d6811c35839e0dab22e6",
+   "credit": {
+    "author": "Beao",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f5": {
+   "kind": "date",
+   "value": "1831",
+   "surface": "1831"
+  },
+  "f6": {
+   "kind": "date",
+   "value": "1839",
+   "surface": "1839"
+  },
+  "f9": {
+   "kind": "date",
+   "value": "1842",
+   "surface": "1842"
+  },
+  "f19": {
+   "kind": "date",
+   "value": "1817",
+   "surface": "1817"
+  },
+  "f56": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "meter",
+   "surface": "15 Meter"
+  },
+  "f194": {
+   "kind": "measure",
+   "value": 25,
+   "unit": "cm",
+   "surface": "25 cm"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Charles Darwin",
+    "line": "Britischer Naturforscher, Begründer der modernen Evolutionstheorie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin war ein britischer Naturforscher."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Ende 1831 begonnene und fast fünf Jahre andauernde zweite Reise mit der Beagle."
+   },
+   {
+    "type": "closing",
+    "text": "Ein Jahr später folgte Darwins Hauptwerk On the Origin of Species."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Charles Darwin",
+    "line": "Britischer Naturforscher, Begründer der modernen Evolutionstheorie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin war ein britischer Naturforscher."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Charles Darwin"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f194",
+    "display": "25 cm",
+    "caption": "Für die madagassische Orchidee Angraecum sesquipedale mit einem 25 cm langen Nektarsporn sagte er einen bestäubenden Schmetterling mit einem ebenso langen Rüssel vorher."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f19",
+      "label": "Am 15. Juli 1817, als Darwin acht Jahre alt war, starb seine Mutter."
+     },
+     {
+      "fact": "f5",
+      "label": "Die Ende 1831 begonnene und fast fünf Jahre andauernde zweite Reise mit der Beagle."
+     },
+     {
+      "fact": "f6",
+      "label": "Der breiten Öffentlichkeit wurde Darwin erstmals durch seinen 1839 herausgegebenen Reisebericht bekannt."
+     },
+     {
+      "fact": "f9",
+      "label": "1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht veröffentlichte."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Mit seiner Theorie über die Entstehung der Korallenriffe und weiteren geologischen Schriften erlangte er in wissenschaftlichen Kreisen die Anerkennung als Geologe."
+   },
+   {
+    "type": "closing",
+    "text": "In seinem letzten Lebensjahrzehnt untersuchte Darwin Kletterpflanzen, Orchideen und fleischfressende Pflanzen und leistete wichtige Beiträge zur Botanik."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Charles Darwin",
+    "line": "Britischer Naturforscher, Begründer der modernen Evolutionstheorie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin war ein britischer Naturforscher."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Charles Darwin"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f56",
+    "display": "15 Meter",
+    "caption": "Während des gut dreiwöchigen Aufenthalts entdeckte er in den Klippen der Küste ein in 15 Meter Höhe verlaufendes waagerechtes Muschelschalenband und fand zum ersten Mal eine Bestätigung für Lyells Theorie der langsamen, graduellen, geologischen Formung der Erde."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f19",
+      "label": "Am 15. Juli 1817, als Darwin acht Jahre alt war, starb seine Mutter."
+     },
+     {
+      "fact": "f5",
+      "label": "Die Ende 1831 begonnene und fast fünf Jahre andauernde zweite Reise mit der Beagle."
+     },
+     {
+      "fact": "f6",
+      "label": "Der breiten Öffentlichkeit wurde Darwin erstmals durch seinen 1839 herausgegebenen Reisebericht bekannt."
+     },
+     {
+      "fact": "f9",
+      "label": "1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht veröffentlichte."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Darwin wurde am 12. Februar 1809 auf dem in Shrewsbury gelegenen Anwesen Mount House geboren."
+   },
+   {
+    "type": "sentence",
+    "text": "Dem konventionellen, auf alte Sprachen und Literatur ausgerichteten Unterricht konnte Darwin jedoch nicht viel abgewinnen."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Durchdringen komplexer Sachverhalte wie Euklids Geometrie, in der ihn ein Privatlehrer unterrichtete, oder die Feineinstellung eines Barometers, die ihm sein Onkel Samuel Tertius Galton erläuterte, bereiteten ihm hingegen Freude."
+   },
+   {
+    "type": "sentence",
+    "text": "Schon zu dieser Zeit sammelte Darwin Muscheln, Siegel, Münzen und Mineralien, und seine unablässigen Streifzüge durch die Natur, bei denen er die Verhaltensweisen von Vögeln untersuchte, schärften seine Beobachtungsgabe."
+   },
+   {
+    "type": "sentence",
+    "text": "Angeregt durch Experimente seines älteren Bruders Erasmus, die dieser in einem selbstgebauten Labor im elterlichen Geräteschuppen durchführte und bei denen Darwin mithelfen durfte, beschäftigte er sich intensiv mit Chemie."
+   },
+   {
+    "type": "sentence",
+    "text": "Charles sollte wie sein Vater Arzt werden und hatte bereits in dessen Praxis hospitiert."
+   },
+   {
+    "type": "closing",
+    "text": "In seinem letzten Lebensjahrzehnt untersuchte Darwin Kletterpflanzen, Orchideen und fleischfressende Pflanzen und leistete wichtige Beiträge zur Botanik."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0c70e6259f48de.1863e1cb0711ac"
+ }
+}

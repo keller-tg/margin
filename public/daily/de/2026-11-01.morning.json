@@ -1,0 +1,170 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-01-morning",
+ "date": "2026-11-01",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Rigel",
+  "qid": "Q12126",
+  "pageid": 93843,
+  "revid": 263567263,
+  "domain": "astronomy",
+  "teaser": "Hellster Stern im Sternbild Orion"
+ },
+ "sources": [
+  {
+   "title": "Rigel",
+   "url": "https://de.wikipedia.org/w/index.php?title=Rigel&oldid=263567263",
+   "revid": 263567263,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:1e10m comparison Rigel, Aldebaran, and smaller - antialiased no transparency.png",
+   "w": 1024,
+   "h": 768,
+   "alt": "Rigel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/1e10m_comparison_Rigel%2C_Aldebaran%2C_and_smaller_-_antialiased_no_transparency.png/960px-1e10m_comparison_Rigel%2C_Aldebaran%2C_and_smaller_-_antialiased_no_transparency.png",
+   "sha1": "fee49ef454ab9758fb20b42595744a95cf15b5b8",
+   "credit": {
+    "author": "Paul Stansifer, and User:84user (see \"source\")",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:1e10m_comparison_Rigel,_Aldebaran,_and_smaller_-_antialiased_no_transparency.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f17": {
+   "kind": "measure",
+   "value": 20,
+   "unit": "lichtjahre",
+   "surface": "20 Lichtjahre"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Rigel",
+    "line": "Hellster Stern im Sternbild Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel ist der hellste Stern im Sternbild Orion und der siebthellste des Nachthimmels."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "20 Lichtjahre",
+    "caption": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt."
+   },
+   {
+    "type": "closing",
+    "text": "In der altägyptischen Sprache hiess Rigel «Seba-en-Sah», was übersetzt «Fussstern»beziehungsweise «Zehenstern»bedeutet."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Rigel",
+    "line": "Hellster Stern im Sternbild Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel ist der hellste Stern im Sternbild Orion und der siebthellste des Nachthimmels."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rigel"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "20 Lichtjahre",
+    "caption": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt."
+   },
+   {
+    "type": "sentence",
+    "text": "Das liegt daran, dass Beteigeuze ein unregelmässiger Veränderlicher ist und Rigel im Maximum hin und wieder übertreffen kann."
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel ist Teil des Wintersechsecks."
+   },
+   {
+    "type": "closing",
+    "text": "Als Hauptstern und Namensgeber des altägyptischen Sternbildes Sah spielte er eine bedeutende Rolle in der altägyptischen Mythologie."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Rigel",
+    "line": "Hellster Stern im Sternbild Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel ist der hellste Stern im Sternbild Orion und der siebthellste des Nachthimmels."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rigel"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "20 Lichtjahre",
+    "caption": "Demzufolge ist Rigel B etwa 1010 ± 20 Lichtjahre entfernt."
+   },
+   {
+    "type": "sentence",
+    "text": "Das liegt daran, dass Beteigeuze ein unregelmässiger Veränderlicher ist und Rigel im Maximum hin und wieder übertreffen kann."
+   },
+   {
+    "type": "sentence",
+    "text": "Die 1997 veröffentlichte Auswertung der Messdaten des Satelliten Hipparcos gab die Parallaxe von Rigel mit 4,22 ± 0,81 Millibogensekunden entsprechend einer Entfernung von 772 ± 184 Lichtjahren an."
+   },
+   {
+    "type": "sentence",
+    "text": "Rigels Entfernung vom Sonnensystem ist ziemlich unsicher, da verschiedene Methoden zur Bestimmung seiner Distanz zu unterschiedlichen Ergebnissen führten."
+   },
+   {
+    "type": "sentence",
+    "text": "Die korrigierte Parallaxe für Rigel beträgt 3,78 ± 0,34 Millibogensekunden, woraus sich die Distanz des Sterns zu 863 ± 85 Lichtjahren ergibt."
+   },
+   {
+    "type": "sentence",
+    "text": "Für seinen deutlich lichtschwächeren Begleiter Rigel B, der wahrscheinlich gravitativ an Rigel gebunden ist und sich daher in der gleichen Entfernung befindet, ergab Gaias 2022 herausgegebener dritter Daten-Release eine Parallaxe von 3,2352 ± 0,0553 Millibogensekunden."
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel ist ein Mehrfachsternsystem."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Hauptkomponente Rigel A ist ein Riesenstern der Spektralklasse B8."
+   },
+   {
+    "type": "closing",
+    "text": "Als Hauptstern und Namensgeber des altägyptischen Sternbildes Sah spielte er eine bedeutende Rolle in der altägyptischen Mythologie."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1dab217d863d7d.1583794e7ab825"
+ }
+}

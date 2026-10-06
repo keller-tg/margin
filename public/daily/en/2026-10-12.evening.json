@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-12-evening",
+ "date": "2026-10-12",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Coccinellidae",
+  "qid": "Q25327",
+  "pageid": 18973752,
+  "revid": 1377078518,
+  "domain": "animals",
+  "teaser": "Family of beetles"
+ },
+ "sources": [
+  {
+   "title": "Coccinellidae",
+   "url": "https://en.wikipedia.org/w/index.php?title=Coccinellidae&oldid=1377078518",
+   "revid": 1377078518,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Coccinella-septempunctata-15-fws.jpg",
+   "w": 1752,
+   "h": 1296,
+   "alt": "Coccinellidae",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/960px-Coccinella-septempunctata-15-fws.jpg",
+   "sha1": "255b370c793f36eac7db81292d448486ebf7f1de",
+   "credit": {
+    "author": "Francisco Welter-Schultes",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Coccinella-septempunctata-15-fws.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Coccinellidae",
+    "line": "Family of beetles",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Entomologists use the names ladybird beetles or lady beetles to avoid confusion with true bugs."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Coccinellidae",
+    "line": "Family of beetles",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Coccinellidae is a widespread family of small beetles."
+   },
+   {
+    "type": "closing",
+    "text": "Other threats to coccinellids include climate change and habitat destruction."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Coccinellidae",
+    "line": "Family of beetles",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Coccinellidae is a widespread family of small beetles."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Coccinellidae"
+   },
+   {
+    "type": "closing",
+    "text": "Other threats to coccinellids include climate change and habitat destruction."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "10b5a6579bd8d1.08e855ad70c930"
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-20-morning",
+ "date": "2026-10-20",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Lion",
+  "qid": "Q140",
+  "pageid": 36896,
+  "revid": 1378662097,
+  "domain": "animals",
+  "teaser": "Large cat native to Africa and India"
+ },
+ "sources": [
+  {
+   "title": "Lion",
+   "url": "https://en.wikipedia.org/w/index.php?title=Lion&oldid=1378662097",
+   "revid": 1378662097,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:020 The lion king Snyggve in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 5168,
+   "h": 3448,
+   "alt": "Lion",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/960px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "sha1": "2a500cdeca6a1a39303fe46d234f1068dea69ede",
+   "credit": {
+    "author": "Giles Laurent",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "attribution": "© Giles Laurent, gileslaurent.com, License CC BY-SA",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f3": {
+   "kind": "date",
+   "value": "1758",
+   "surface": "1758"
+  },
+  "f4": {
+   "kind": "date",
+   "value": "1816",
+   "surface": "1816"
+  },
+  "f32": {
+   "kind": "measure",
+   "value": 10800000,
+   "unit": "years",
+   "surface": "10.8 million years"
+  },
+  "f33": {
+   "kind": "measure",
+   "value": 2100000,
+   "unit": "years",
+   "surface": "2.1 million years"
+  },
+  "f82": {
+   "kind": "date",
+   "value": "2007",
+   "surface": "2007"
+  },
+  "f172": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Lion",
+    "line": "Large cat native to Africa and India",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The lion inhabits grasslands, savannahs, and shrublands."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f33",
+    "display": "2.1 million years",
+    "caption": "Hybridisation between lion and snow leopard ancestors possibly continued until about 2.1 million years ago."
+   },
+   {
+    "type": "closing",
+    "text": "Cultural depictions of lions have occurred worldwide, particularly as a symbol of power and royalty."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Lion",
+    "line": "Large cat native to Africa and India",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The lion is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Lion"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f32",
+    "display": "10.8 million years",
+    "caption": "The Panthera lineage is estimated to have genetically diverged from the common ancestor of the Felidae around 10.8 million years ago."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f3",
+      "label": "Felis leo was the scientific name used by Carl Linnaeus in 1758."
+     },
+     {
+      "fact": "f4",
+      "label": "The genus name Panthera was coined by Lorenz Oken in 1816."
+     },
+     {
+      "fact": "f82",
+      "label": "Nevertheless, 17 births have been recorded in five prides between 2007 and 2015."
+     },
+     {
+      "fact": "f172",
+      "label": "A 2025 study identified four stages in a roaring sequence: moaning, full-roaring, intermediary roaring."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The lion inhabits grasslands, savannahs, and shrublands."
+   },
+   {
+    "type": "closing",
+    "text": "Cultural depictions of lions have occurred worldwide, particularly as a symbol of power and royalty."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Lion",
+    "line": "Large cat native to Africa and India",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The lion is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Lion"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f32",
+    "display": "10.8 million years",
+    "caption": "The Panthera lineage is estimated to have genetically diverged from the common ancestor of the Felidae around 10.8 million years ago."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f3",
+      "label": "Felis leo was the scientific name used by Carl Linnaeus in 1758."
+     },
+     {
+      "fact": "f4",
+      "label": "The genus name Panthera was coined by Lorenz Oken in 1816."
+     },
+     {
+      "fact": "f82",
+      "label": "Nevertheless, 17 births have been recorded in five prides between 2007 and 2015."
+     },
+     {
+      "fact": "f172",
+      "label": "A 2025 study identified four stages in a roaring sequence: moaning, full-roaring, intermediary roaring."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The generic name Panthera is traceable to the classical Latin word 'panthēra’ and the ancient Greek word πάνθηρ 'panther'."
+   },
+   {
+    "type": "sentence",
+    "text": "Between the mid-18th and mid-20th centuries, 26 lion specimens were described and proposed as subspecies, of which 11 were recognised as valid in 2005."
+   },
+   {
+    "type": "sentence",
+    "text": "The lion is a muscular, broad-chested cat with a short, rounded head, a reduced neck, and round ears; males have broader heads."
+   },
+   {
+    "type": "sentence",
+    "text": "The tuft is absent at birth, develops at around 5+1⁄2 months of age, and is readily identifiable at the age of seven months."
+   },
+   {
+    "type": "sentence",
+    "text": "In the 19th and 20th centuries, several lion type specimens were described and proposed as subspecies, with about a dozen recognised as valid taxa until 2017."
+   },
+   {
+    "type": "sentence",
+    "text": "The tail of all lions ends in a dark, hairy tuft that, in some lions, conceals an approximately 5 mm-long, hard “spine” or “spur” composed of dermal papillae."
+   },
+   {
+    "type": "closing",
+    "text": "Cultural depictions of lions have occurred worldwide, particularly as a symbol of power and royalty."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1e3d82d661e82a.00ce05682b997b"
+ }
+}

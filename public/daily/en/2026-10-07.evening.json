@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-07-evening",
+ "date": "2026-10-07",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Cygnus X-1",
+  "qid": "Q332674",
+  "pageid": 86061,
+  "revid": 1374065663,
+  "domain": "astronomy",
+  "teaser": "X-ray binary in Cygnus containing a stellar black hole"
+ },
+ "sources": [
+  {
+   "title": "Cygnus X-1",
+   "url": "https://en.wikipedia.org/w/index.php?title=Cygnus_X-1&oldid=1374065663",
+   "revid": 1374065663,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Black hole Cygnus X-1.jpg",
+   "w": 1728,
+   "h": 1224,
+   "alt": "Cygnus X-1",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Black_hole_Cygnus_X-1.jpg/960px-Black_hole_Cygnus_X-1.jpg",
+   "sha1": "a0138d059d5c5a5e9b04bb8bc7e6bada06088b16",
+   "credit": {
+    "author": "NASA/CXC/M.Weiss",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Black_hole_Cygnus_X-1.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Cygnus X-1",
+    "line": "X-ray binary in Cygnus containing a stellar black hole",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Matter in the inner disk is heated to millions of degrees, generating the observed X-rays."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Cygnus X-1",
+    "line": "X-ray binary in Cygnus containing a stellar black hole",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cygnus X-1 is a galactic X-ray source in the constellation Cygnus and was the first such source widely accepted to be a black hole."
+   },
+   {
+    "type": "closing",
+    "text": "Hawking conceded the bet in 1990 after observational data had strengthened the case that there was indeed a black hole in the system."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Cygnus X-1",
+    "line": "X-ray binary in Cygnus containing a stellar black hole",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cygnus X-1 is a galactic X-ray source in the constellation Cygnus and was the first such source widely accepted to be a black hole."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Cygnus X-1"
+   },
+   {
+    "type": "closing",
+    "text": "Hawking conceded the bet in 1990 after observational data had strengthened the case that there was indeed a black hole in the system."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "055f7fce8443ee.0eb62cc1adda90"
+ }
+}

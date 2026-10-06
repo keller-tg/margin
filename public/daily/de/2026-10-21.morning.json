@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-21-morning",
+ "date": "2026-10-21",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Columbia River",
+  "qid": "Q2251",
+  "pageid": 295154,
+  "revid": 269847630,
+  "domain": "water",
+  "teaser": "Nordamerikanischer Fluss"
+ },
+ "sources": [
+  {
+   "title": "Columbia River",
+   "url": "https://de.wikipedia.org/w/index.php?title=Columbia_River&oldid=269847630",
+   "revid": 269847630,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:ColumbiarivergorgeJRH.jpg",
+   "w": 800,
+   "h": 600,
+   "alt": "Columbia River",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ColumbiarivergorgeJRH.jpg",
+   "sha1": "cd9177684443ecedb8be60361aae67b0f0bb26bc",
+   "credit": {
+    "author": "The original uploader was Cacophony at English Wikipedia.",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:ColumbiarivergorgeJRH.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 2240,
+   "unit": "km",
+   "surface": "2240 km"
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1805",
+   "surface": "1805"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1814",
+   "surface": "1814"
+  },
+  "f55": {
+   "kind": "date",
+   "value": "1792",
+   "surface": "1792"
+  },
+  "f67": {
+   "kind": "date",
+   "value": "1818",
+   "surface": "1818"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Columbia River",
+    "line": "Nordamerikanischer Fluss",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Columbia River ist ein 1953 Kilometer langer Fluss im westlichen Nordamerika."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "2240 km",
+    "caption": "Mit seinem linken Nebenfluss, dem Snake River, zusammen hat er eine Länge von 2240 km."
+   },
+   {
+    "type": "closing",
+    "text": "Der Columbia River wurde 1814 erstmals vollständig von David Thompson kartografiert."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Columbia River",
+    "line": "Nordamerikanischer Fluss",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Columbia River ist ein 1953 Kilometer langer Fluss im westlichen Nordamerika."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Columbia River"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "2240 km",
+    "caption": "Mit seinem linken Nebenfluss, dem Snake River, zusammen hat er eine Länge von 2240 km."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f55",
+      "label": "Gray kehrte nach Süden zurück und war am 12. Mai 1792 der erste Erforscher."
+     },
+     {
+      "fact": "f7",
+      "label": "Die Lewis-und-Clark-Expedition erreichte 1805 vom Osten auf dem Landweg die Mündung des Flusses."
+     },
+     {
+      "fact": "f8",
+      "label": "Der Columbia River wurde 1814 erstmals vollständig von David Thompson kartografiert."
+     },
+     {
+      "fact": "f67",
+      "label": "Die Vereinigten Staaten und Britisch-Nordamerika vereinbarten 1818 die gemeinsame Besiedlung des Oregon-Gebietes."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Der Fluss ist nach dem Schiff Columbia Rediviva des US-amerikanischen Kapitäns Robert Gray benannt."
+   },
+   {
+    "type": "closing",
+    "text": "Gray reiste in den pazifischen Nordwesten, um mit Fellen zu handeln."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Columbia River",
+    "line": "Nordamerikanischer Fluss",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Columbia River ist ein 1953 Kilometer langer Fluss im westlichen Nordamerika."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Columbia River"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "2240 km",
+    "caption": "Mit seinem linken Nebenfluss, dem Snake River, zusammen hat er eine Länge von 2240 km."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f55",
+      "label": "Gray kehrte nach Süden zurück und war am 12. Mai 1792 der erste Erforscher."
+     },
+     {
+      "fact": "f7",
+      "label": "Die Lewis-und-Clark-Expedition erreichte 1805 vom Osten auf dem Landweg die Mündung des Flusses."
+     },
+     {
+      "fact": "f8",
+      "label": "Der Columbia River wurde 1814 erstmals vollständig von David Thompson kartografiert."
+     },
+     {
+      "fact": "f67",
+      "label": "Die Vereinigten Staaten und Britisch-Nordamerika vereinbarten 1818 die gemeinsame Besiedlung des Oregon-Gebietes."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Auf den letzten 480 Kilometern vor seiner Mündung bildet der Flusslauf die Grenze zwischen den US-Bundesstaaten Washington und Oregon."
+   },
+   {
+    "type": "sentence",
+    "text": "Die vulkanische Aktivität in der Region kann bis zu 40 Millionen Jahre zurückverfolgt werden."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Quelle des Columbia River liegt in der kanadischen Provinz British Columbia; er fliesst durch den mittleren Osten des US-Bundesstaates Washington."
+   },
+   {
+    "type": "sentence",
+    "text": "Das landschaftsprägende Ereignis in der Zeit zwischen 17 und 14 Millionen Jahren vor heute war der Ausfluss grosser Lavamengen, die den Columbia-Plateaubasalt schufen, eine fast zwei Kilometer mächtige Schicht von Basalt."
+   },
+   {
+    "type": "sentence",
+    "text": "Während des Pleistozäns durchbrach der Fluss die Kaskadenkette und bildete die Columbia River Gorge."
+   },
+   {
+    "type": "sentence",
+    "text": "Die höchste je aufgezeichnete Abflussmenge bei The Dalles, Oregon, betrug am 6. Juni 1894 35.113 m³/s."
+   },
+   {
+    "type": "closing",
+    "text": "Von den 1820er Jahren bis in die 1840er Jahre folgte der York Factory Express, eine Handelsroute der Hudson’s Bay Company zwischen der York Factory an der Hudson Bay und dem Fort Vancouver, abschnittsweise dem Flusslauf."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "157afab42fe224.02098a8ee4e0b5"
+ }
+}

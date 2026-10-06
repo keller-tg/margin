@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-17-morning",
+ "date": "2026-10-17",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Allosaurus",
+  "qid": "Q14400",
+  "pageid": 155611,
+  "revid": 268908931,
+  "domain": "animals",
+  "teaser": "Gattung der Familie Allosauridae"
+ },
+ "sources": [
+  {
+   "title": "Allosaurus",
+   "url": "https://de.wikipedia.org/w/index.php?title=Allosaurus&oldid=268908931",
+   "revid": 268908931,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:WLA hmns Allosaurus White Background.jpg",
+   "w": 2818,
+   "h": 2277,
+   "alt": "Allosaurus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/WLA_hmns_Allosaurus_White_Background.jpg/960px-WLA_hmns_Allosaurus_White_Background.jpg",
+   "sha1": "3dcb6ad13d9e3d0bf9dd3512c86f930b444d5158",
+   "credit": {
+    "author": "The_Wookies",
+    "authorSource": "artist",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:WLA_hmns_Allosaurus_White_Background.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 6.36,
+   "unit": "m",
+   "surface": "6,36 m"
+  },
+  "f17": {
+   "kind": "measure",
+   "value": 19,
+   "unit": "jahren",
+   "surface": "19 Jahren"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877"
+  },
+  "f47": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020"
+  },
+  "f50": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006"
+  },
+  "f52": {
+   "kind": "date",
+   "value": "1925",
+   "surface": "1925"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Allosaurus",
+    "line": "Gattung der Familie Allosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Allosaurus ist eine Gattung von theropoden Dinosauriern."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "19 Jahren",
+    "caption": "Die meisten bekannten grossen Allosaurus-Exemplare werden auf ein Alter von 13 bis 19 Jahren geschätzt."
+   },
+   {
+    "type": "closing",
+    "text": "Zwei der bekanntesten Exemplare von Allosaurus sind Big Al und Big-Al2."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Allosaurus",
+    "line": "Gattung der Familie Allosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Allosaurus ist eine Gattung von theropoden Dinosauriern."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Allosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "19 Jahren",
+    "caption": "Die meisten bekannten grossen Allosaurus-Exemplare werden auf ein Alter von 13 bis 19 Jahren geschätzt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f45",
+      "label": "Allosaurus fragilis Marsh, 1877."
+     },
+     {
+      "fact": "f52",
+      "label": "Allosaurus tendagurensis Janesch, 1925: Beschrieben aus der Tendaguru-Formation, Tansania, Afrika."
+     },
+     {
+      "fact": "f50",
+      "label": "Allosaurus europaeus Mateus, Walon & Antunes, 2006."
+     },
+     {
+      "fact": "f47",
+      "label": "Allosaurus jimmadseni Chure und Loewen, 2020."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Othniel Charles Marsh gab in seiner Erstbeschreibung von 1877 der Gattung ihren Namen nach der Anatomie der Wirbelknochen."
+   },
+   {
+    "type": "closing",
+    "text": "Zwei der bekanntesten Exemplare von Allosaurus sind Big Al und Big-Al2."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Allosaurus",
+    "line": "Gattung der Familie Allosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Allosaurus ist eine Gattung von theropoden Dinosauriern."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Allosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "6,36 m",
+    "caption": "Allosaurus gehörte zu den grössten fleischfressenden Dinosauriern seiner Zeit und wird, je nach Rekonstruktion, auf eine Körperlänge zwischen 6,36 m und 10,4 m, meist 7,4 m und eine Körpermasse von 700 bis 4600 kg geschätzt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f45",
+      "label": "Allosaurus fragilis Marsh, 1877."
+     },
+     {
+      "fact": "f52",
+      "label": "Allosaurus tendagurensis Janesch, 1925: Beschrieben aus der Tendaguru-Formation, Tansania, Afrika."
+     },
+     {
+      "fact": "f50",
+      "label": "Allosaurus europaeus Mateus, Walon & Antunes, 2006."
+     },
+     {
+      "fact": "f47",
+      "label": "Allosaurus jimmadseni Chure und Loewen, 2020."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Allosaurus hatte im Oberkiefer 15 oder 16, selten 17 Zähne, plus fünf in der Prämaxilla, und 16 bis 17 Zähne im Unterkiefer."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Sedimente der Morrison-Formation überspannen einen Zeitraum von ca. 7 Millionen Jahren."
+   },
+   {
+    "type": "sentence",
+    "text": "Die meisten bekannten grossen Allosaurus-Exemplare werden auf ein Alter von 13 bis 19 Jahren geschätzt."
+   },
+   {
+    "type": "sentence",
+    "text": "Allosaurus war ein grosser Vertreter der Theropoden mit deren charakteristischem Körperbau."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Thesen über die Lebensweise von Allosaurus gehen auseinander."
+   },
+   {
+    "type": "sentence",
+    "text": "Die meisten Funde von Allosaurus stammen aus der Morrison-Formation, einer Abfolge von Gesteinen des späten Jura im Westen der USA."
+   },
+   {
+    "type": "closing",
+    "text": "Zwei der bekanntesten Exemplare von Allosaurus sind Big Al und Big-Al2, die von Paläontologen in den USA gefunden wurden und in der BBC-Dokumentation Die Geschichte von Big Al gezeigt wurden."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "02e780e479ebea.0e529b2266a967"
+ }
+}

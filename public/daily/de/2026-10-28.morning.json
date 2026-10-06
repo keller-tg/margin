@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-28-morning",
+ "date": "2026-10-28",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Hyderabad (Indien)",
+  "qid": "Q1361",
+  "pageid": 196826,
+  "revid": 269539899,
+  "domain": "cities",
+  "teaser": "Hauptstadt des indischen Bundesstaates Andhra Pradesh"
+ },
+ "sources": [
+  {
+   "title": "Hyderabad (Indien)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Hyderabad_(Indien)&oldid=269539899",
+   "revid": 269539899,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Hyderabad montage-2.png",
+   "w": 460,
+   "h": 860,
+   "alt": "Hyderabad (Indien)",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hyderabad_montage-2.png",
+   "sha1": "b13b498e08176785638cf1b7794fefccf6647e9a",
+   "credit": {
+    "author": "Srikar Kashyap (getting them together and fixes)",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Hyderabad_montage-2.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f5": {
+   "kind": "date",
+   "value": "2014",
+   "surface": "2014"
+  },
+  "f6": {
+   "kind": "measure",
+   "value": 540,
+   "unit": "m",
+   "surface": "540 m"
+  },
+  "f12": {
+   "kind": "date",
+   "value": "1724",
+   "surface": "1724"
+  },
+  "f14": {
+   "kind": "measure",
+   "value": 88,
+   "unit": "prozent",
+   "surface": "88 Prozent"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1956",
+   "surface": "1956"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Hyderabad (Indien)",
+    "line": "Hauptstadt des indischen Bundesstaates Andhra Pradesh",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad ist die Hauptstadt des im Jahr 2014 neu geschaffenen indischen Bundesstaates Telangana."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f14",
+    "display": "88 Prozent",
+    "caption": "Die Bevölkerung der Stadt war mehrheitlich muslimisch, während 88 Prozent der Staatsbevölkerung hinduistisch waren."
+   },
+   {
+    "type": "closing",
+    "text": "Für eine Übergangsphase von zehn Jahren fungierte Hyderabad als gemeinsame Hauptstadt Telanganas und Andhra Pradeshs."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Hyderabad (Indien)",
+    "line": "Hauptstadt des indischen Bundesstaates Andhra Pradesh",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad ist die Hauptstadt des im Jahr 2014 neu geschaffenen indischen Bundesstaates Telangana."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hyderabad (Indien)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f6",
+    "display": "540 m",
+    "caption": "Die ca. 540 m hoch gelegene Stadt Hyderabad liegt ca. 1600 km südlich der indischen Hauptstadt Delhi am Fluss Musi, einem der meistbelasteten Flüsse Indiens."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f12",
+      "label": "Von 1724 bis 1948 war diese Hauptstadt des Fürstenstaates Hyderabad unter der Asaf-Jahi-Dynastie."
+     },
+     {
+      "fact": "f21",
+      "label": "Bei den kurzen Kämpfen und Auseinandersetzungen 1947/1948 starben zahlreiche Zivilisten."
+     },
+     {
+      "fact": "f24",
+      "label": "Durch den States Reorganisation Act kam Hyderabad 1956 zum Bundesstaat Andhra Pradesh."
+     },
+     {
+      "fact": "f5",
+      "label": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad liegt im Zentrum der Dekkan-Hochebene am Fluss Musi."
+   },
+   {
+    "type": "closing",
+    "text": "Für eine Übergangsphase von zehn Jahren fungierte Hyderabad als gemeinsame Hauptstadt Telanganas und Andhra Pradeshs."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Hyderabad (Indien)",
+    "line": "Hauptstadt des indischen Bundesstaates Andhra Pradesh",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Hyderabad ist die Hauptstadt des im Jahr 2014 neu geschaffenen indischen Bundesstaates Telangana."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hyderabad (Indien)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f6",
+    "display": "540 m",
+    "caption": "Die ca. 540 m hoch gelegene Stadt Hyderabad liegt ca. 1600 km südlich der indischen Hauptstadt Delhi am Fluss Musi, einem der meistbelasteten Flüsse Indiens; die Küstenmetropole Mumbai ist ca. 700 km in nordwestlicher Richtung entfernt."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f12",
+      "label": "Von 1724 bis 1948 war diese Hauptstadt des Fürstenstaates Hyderabad unter der Asaf-Jahi-Dynastie."
+     },
+     {
+      "fact": "f21",
+      "label": "Bei den kurzen Kämpfen und Auseinandersetzungen 1947/1948 starben zahlreiche Zivilisten."
+     },
+     {
+      "fact": "f24",
+      "label": "Durch den States Reorganisation Act kam Hyderabad 1956 zum Bundesstaat Andhra Pradesh."
+     },
+     {
+      "fact": "f5",
+      "label": "Am 2. Juni 2014 kam Hyderabad zum neugegründeten Bundesstaat Telangana."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Übergeordnete Verwaltungsbehörde ist die am 16. April 2007 gegründete Greater Hyderabad Municipal Corporation."
+   },
+   {
+    "type": "sentence",
+    "text": "Nach der Volkszählung 2011 hat Hyderabad 6.809.970 Einwohner."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Stadtgebiet wuchs dadurch von 175 km² auf 650 km²."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Bevölkerungsdichte beträgt 10.896 Einwohner pro Quadratkilometer."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Charminar ist ein monumental wirkender 56 Meter hoher Triumphbogen mit einer Moschee im Obergeschoss, die von vier Minaretten umstellt ist."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Sommertemperaturen schwanken zwischen 18 und 43 Grad Celsius."
+   },
+   {
+    "type": "closing",
+    "text": "Für eine Übergangsphase von zehn Jahren fungierte Hyderabad als gemeinsame Hauptstadt Telanganas und Andhra Pradeshs."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "03c78808817ad4.0400b93b25fff4"
+ }
+}

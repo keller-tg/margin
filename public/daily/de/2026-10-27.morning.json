@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-27-morning",
+ "date": "2026-10-27",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Robert Falcon Scott",
+  "qid": "Q102527",
+  "pageid": 131547,
+  "revid": 268400211,
+  "domain": "people-other",
+  "teaser": "Britischer Polarforscher"
+ },
+ "sources": [
+  {
+   "title": "Robert Falcon Scott",
+   "url": "https://de.wikipedia.org/w/index.php?title=Robert_Falcon_Scott&oldid=268400211",
+   "revid": 268400211,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Scott of the Antarctic (bw) (cropped).jpg",
+   "w": 967,
+   "h": 1284,
+   "alt": "Robert Falcon Scott",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Scott_of_the_Antarctic_%28bw%29_%28cropped%29.jpg/960px-Scott_of_the_Antarctic_%28bw%29_%28cropped%29.jpg",
+   "sha1": "2ac532096208f7002deaaf1fb1b707bd279d0f14",
+   "credit": {
+    "author": "Henry Maull (1829–1914) and John Fox (1832–1907)",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Scott_of_the_Antarctic_(bw)_(cropped).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f22": {
+   "kind": "date",
+   "value": "1881",
+   "surface": "1881"
+  },
+  "f34": {
+   "kind": "date",
+   "value": "1894",
+   "surface": "1894"
+  },
+  "f35": {
+   "kind": "measure",
+   "value": 63,
+   "unit": "jahren",
+   "surface": "63 Jahren"
+  },
+  "f79": {
+   "kind": "date",
+   "value": "1903",
+   "surface": "1903"
+  },
+  "f96": {
+   "kind": "number",
+   "value": 40000,
+   "surface": "40.000"
+  },
+  "f118": {
+   "kind": "date",
+   "value": "1911",
+   "surface": "1911"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Robert Falcon Scott",
+    "line": "Britischer Polarforscher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Robert Falcon Scott war ein britischer Marineoffizier und Polarforscher."
+   },
+   {
+    "type": "sentence",
+    "text": "Zunächst durchlief Scott eine Offizierslaufbahn in der Royal Navy."
+   },
+   {
+    "type": "closing",
+    "text": "Erst zum Ende des 20. Jahrhunderts begann eine differenziertere Betrachtung und Neubewertung seiner Person."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Robert Falcon Scott",
+    "line": "Britischer Polarforscher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Robert Falcon Scott war ein britischer Marineoffizier und Polarforscher."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Robert Falcon Scott"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f96",
+    "display": "40.000",
+    "caption": "Um die erforderlichen 40.000 Pfund Sterling aufzutreiben, hielt Scott landesweit Vorträge und warb für sein Vorhaben, jedoch mit nur mässigem Erfolg."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f22",
+      "label": "1881 bestand Scott die Aufnahmeprüfungen der Royal Navy."
+     },
+     {
+      "fact": "f34",
+      "label": "Ab 1894 erschütterte eine Reihe von Schicksalsschlägen Scotts Leben."
+     },
+     {
+      "fact": "f79",
+      "label": "Scott hatte auch seinem Stellvertreter Albert Armitage angeboten, im März 1903 nach Hause zurückzukehren."
+     },
+     {
+      "fact": "f118",
+      "label": "Und so stieg Scotts Zuversicht im Verlauf des Winters 1911."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Zunächst durchlief Scott eine Offizierslaufbahn in der Royal Navy."
+   },
+   {
+    "type": "closing",
+    "text": "Erst zum Ende des 20. Jahrhunderts begann eine differenziertere Betrachtung und Neubewertung seiner Person."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Robert Falcon Scott",
+    "line": "Britischer Polarforscher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Robert Falcon Scott war ein britischer Marineoffizier und Polarforscher."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Robert Falcon Scott"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f35",
+    "display": "63 Jahren",
+    "caption": "Mit inzwischen 63 Jahren und gesundheitlich in schlechter Verfassung war John Edward Scott gezwungen, als einfacher Brauereiangestellter in Shepton Mallet, Somerset, für das Auskommen seiner Familie zu sorgen."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f22",
+      "label": "1881 bestand Scott die Aufnahmeprüfungen der Royal Navy."
+     },
+     {
+      "fact": "f34",
+      "label": "Ab 1894 erschütterte eine Reihe von Schicksalsschlägen Scotts Leben."
+     },
+     {
+      "fact": "f79",
+      "label": "Scott hatte auch seinem Stellvertreter Albert Armitage angeboten, im März 1903 nach Hause zurückzukehren."
+     },
+     {
+      "fact": "f118",
+      "label": "Und so stieg Scotts Zuversicht im Verlauf des Winters 1911."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Robert Falcon Scott wurde auf dem Familiensitz Outland House in Stoke Damerel, einer Kirchengemeinde unweit des Flottenstützpunkts Devonport im südwestenglischen Plymouth, als drittes von sechs Kindern des Brauereibesitzers John Edward Scott und dessen Frau Hannah geboren."
+   },
+   {
+    "type": "sentence",
+    "text": "Nach zweijähriger Ausbildung verliess Scott 1883 die HMS Britannia im Rang eines Midshipman als Siebtbester von 26 Seekadetten seines Jahrgangs."
+   },
+   {
+    "type": "sentence",
+    "text": "Die National Antarctic Expedition, wie die Discovery-Expedition offiziell bezeichnet wurde, war eine gemeinschaftliche Unternehmung der Royal Geographical Society und der Royal Society."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Planungen zur Durchführung der ersten ausschliesslich unter britischer Führung unternommenen Forschungsreise zum antarktischen Kontinent seit James Clark Ross rund 60 Jahre zuvor wurden ab 1893 durch Clements Markham vorangetrieben."
+   },
+   {
+    "type": "sentence",
+    "text": "Scotts Bewerbung um die Expeditionsleitung wurde von seinem Vorgesetzten, Kapitän George Egerton, der in den Jahren 1875/1876 an einer Arktis-Expedition teilgenommen hatte, dem amtierenden Ersten Lord der Admiralität George Goschen und dem damaligen Ersten Seelord Walter Kerr unterstützt."
+   },
+   {
+    "type": "sentence",
+    "text": "Zu Beginn seiner schulischen Ausbildung wurde Scott zu Hause unterrichtet; erst im Alter von acht Jahren besuchte er die örtliche Schule in Stoke Damerel."
+   },
+   {
+    "type": "closing",
+    "text": "Erst zum Ende des 20. Jahrhunderts begann eine differenziertere Betrachtung und Neubewertung seiner Person."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "125a9d54673613.019e77a90d5e7e"
+ }
+}

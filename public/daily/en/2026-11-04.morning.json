@@ -1,0 +1,210 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-04-morning",
+ "date": "2026-11-04",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Radiocarbon dating",
+  "qid": "Q173412",
+  "pageid": 26197,
+  "revid": 1376789713,
+  "domain": "history",
+  "teaser": "Method for determining the age of objects"
+ },
+ "sources": [
+  {
+   "title": "Radiocarbon dating",
+   "url": "https://en.wikipedia.org/w/index.php?title=Radiocarbon_dating&oldid=1376789713",
+   "revid": 1376789713,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:The Temple Scroll (11Q20) - Google Art Project.jpg",
+   "w": 6273,
+   "h": 4501,
+   "alt": "Radiocarbon dating",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Temple_Scroll_%2811Q20%29_-_Google_Art_Project.jpg/960px-The_Temple_Scroll_%2811Q20%29_-_Google_Art_Project.jpg",
+   "sha1": "b6fe85f50d833fbf2809396c3bf6199ac9dc1488",
+   "credit": {
+    "author": "Unknown authorUnknown author",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:The_Temple_Scroll_(11Q20)_-_Google_Art_Project.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 5730,
+   "unit": "years",
+   "surface": "5,730 years"
+  },
+  "f3": {
+   "kind": "date",
+   "value": "1960",
+   "surface": "1960"
+  },
+  "f4": {
+   "kind": "measure",
+   "value": 50000,
+   "unit": "years",
+   "surface": "50,000 years"
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1945",
+   "surface": "1945"
+  },
+  "f21": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "%",
+   "surface": "1%"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Radiocarbon dating",
+    "line": "Method for determining the age of objects",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The resulting 14C combines with atmospheric oxygen to form radioactive carbon dioxide."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f21",
+    "display": "1%",
+    "caption": "In addition, about 1% of the carbon atoms are of the stable isotope 13C."
+   },
+   {
+    "type": "closing",
+    "text": "Histories of archaeology often refer to its impact as the “radiocarbon revolution”."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Radiocarbon dating",
+    "line": "Method for determining the age of objects",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The method was developed in the late 1940s at the University of Chicago by Willard Libby."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Radiocarbon dating"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "50,000 years",
+    "caption": "Research has been ongoing since the 1960s to determine the proportion of 14C in the atmosphere over the past 50,000 years."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f7",
+      "label": "In 1945, Libby moved to the University of Chicago."
+     },
+     {
+      "fact": "f3",
+      "label": "Libby received the Nobel Prize in Chemistry for his work in 1960."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The resulting 14C combines with atmospheric oxygen to form radioactive carbon dioxide."
+   },
+   {
+    "type": "closing",
+    "text": "Radiocarbon dating has allowed key transitions in prehistory to be dated, such as the end of the last ice age."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Radiocarbon dating",
+    "line": "Method for determining the age of objects",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Radiocarbon dating is a method for determining the age of an object containing organic material by using the properties of radiocarbon, a radioactive isotope of carbon."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Radiocarbon dating"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "5,730 years",
+    "caption": "The half-life of 14C is about 5,730 years, so the oldest dates that can be reliably measured by this process date to approximately 50,000 years ago, although special preparation methods occasionally make an accurate analysis of older samples possible."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f7",
+      "label": "In 1945, Libby moved to the University of Chicago."
+     },
+     {
+      "fact": "f3",
+      "label": "Libby received the Nobel Prize in Chemistry for his work in 1960."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "In 1939, Martin Kamen and Samuel Ruben of the Radiation Laboratory at Berkeley began experiments to determine if any of the elements common in organic matter had isotopes with half-lives long enough to be of value in biomedical research."
+   },
+   {
+    "type": "sentence",
+    "text": "At some time during World War II, Willard Libby, who was then at Berkeley, learned of Korff’s research and conceived the idea that it might be possible to use radiocarbon for dating."
+   },
+   {
+    "type": "sentence",
+    "text": "For example, two samples taken from the tombs of two Egyptian kings, Zoser and Sneferu, independently dated to 2625 BC ± 75 years, were dated by radiocarbon measurement to an average of 2800 BC ± 250 years."
+   },
+   {
+    "type": "sentence",
+    "text": "In nature, carbon exists as three isotopes."
+   },
+   {
+    "type": "sentence",
+    "text": "Carbon-12, and carbon-13 are stable and not radioactive; carbon-14, also known as “radiocarbon”, is radioactive."
+   },
+   {
+    "type": "sentence",
+    "text": "Once produced, the 14C quickly combines with the oxygen in the atmosphere to form first carbon monoxide, and ultimately carbon dioxide."
+   },
+   {
+    "type": "closing",
+    "text": "Radiocarbon dating has allowed key transitions in prehistory to be dated, such as the end of the last ice age, and the beginning of the Neolithic and Bronze Age in different regions."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "01a71415607b9b.0b66e1cc08d3ca"
+ }
+}

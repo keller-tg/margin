@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-09-evening",
+ "date": "2026-10-09",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Common starling",
+  "qid": "Q25469",
+  "pageid": 250046,
+  "revid": 1375763236,
+  "domain": "animals",
+  "teaser": "Species of passerine birds"
+ },
+ "sources": [
+  {
+   "title": "Common starling",
+   "url": "https://en.wikipedia.org/w/index.php?title=Common_starling&oldid=1375763236",
+   "revid": 1375763236,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Common starling (Sturnus vulgaris) breeding male Marken.jpg",
+   "w": 7056,
+   "h": 4704,
+   "alt": "Common starling",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/960px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg",
+   "sha1": "a523a8a292a98683a8f1d70f356bceeb00b9f7a5",
+   "credit": {
+    "author": "Charles J. Sharp",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Common starling",
+    "line": "Species of passerine birds",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "The legs are pink and the bill is black in winter and yellow in summer."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Common starling",
+    "line": "Species of passerine birds",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The common starling, also known simply as the starling in Great Britain and Ireland."
+   },
+   {
+    "type": "closing",
+    "text": "Introduced populations in particular have been subjected to a range of controls, including culling."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Common starling",
+    "line": "Species of passerine birds",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The common starling, also known simply as the starling in Great Britain and Ireland, and as the European starling in North America, is a medium-sized passerine bird in the starling family, Sturnidae."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Common starling"
+   },
+   {
+    "type": "closing",
+    "text": "The species has declined in numbers in parts of northern and western Europe since the 1980s due to fewer grassland invertebrates being available as food for growing chicks."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1837adb371dfec.0768b2669bf55e"
+ }
+}

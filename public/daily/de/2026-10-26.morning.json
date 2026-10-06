@@ -1,0 +1,212 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-26-morning",
+ "date": "2026-10-26",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Velociraptor",
+  "qid": "Q14403",
+  "pageid": 126531,
+  "revid": 263351511,
+  "domain": "animals",
+  "teaser": "Gattung der Familie Dromaeosauridae"
+ },
+ "sources": [
+  {
+   "title": "Velociraptor",
+   "url": "https://de.wikipedia.org/w/index.php?title=Velociraptor&oldid=263351511",
+   "revid": 263351511,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Velociraptor mount.jpg",
+   "w": 1200,
+   "h": 800,
+   "alt": "Velociraptor",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Velociraptor_mount.jpg/960px-Velociraptor_mount.jpg",
+   "sha1": "8d195548f2b3d4eac47f4fcd48dfaf410bc56c43",
+   "credit": {
+    "author": "Kabacchi",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Velociraptor_mount.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f18": {
+   "kind": "date",
+   "value": "1924",
+   "surface": "1924"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1988",
+   "surface": "1988"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1999",
+   "surface": "1999"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "2008",
+   "surface": "2008"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Velociraptor",
+    "line": "Gattung der Familie Dromaeosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor ist eine Gattung theropoder Dinosaurier."
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor zählt zu den Dromaeosauridae."
+   },
+   {
+    "type": "closing",
+    "text": "Ein Unterscheidungsmerkmal zu anderen Dromaeosauriden ist die lange, flache und leicht nach oben gebogene Schnauze."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Velociraptor",
+    "line": "Gattung der Familie Dromaeosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor ist eine Gattung theropoder Dinosaurier, die vor etwa 85 bis 76 Millionen Jahren in der späten Kreidezeit lebte."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Velociraptor"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f18",
+      "label": "1924 erfolgte die Erstbeschreibung durch den Museumsleiter Henry Fairfield Osborn als Velociraptor mongoliensis."
+     },
+     {
+      "fact": "f22",
+      "label": "Zwischen 1988 und 1990 entdeckte ein chinesisch-kanadisches Team Überreste von Velociraptor in Nordchina."
+     },
+     {
+      "fact": "f25",
+      "label": "1999 entdeckte ein chinesisch-belgisches Team einen Oberkiefer und ein Tränenbein."
+     },
+     {
+      "fact": "f39",
+      "label": "2008 fanden Paläontologen in der Bayan-Mahandu-Formation Zähne."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor zählt zu den Dromaeosauridae."
+   },
+   {
+    "type": "sentence",
+    "text": "Mit über einem Dutzend entdeckten fossilen Skeletten ist Velociraptor einer der am besten untersuchten Dromaeosauriden."
+   },
+   {
+    "type": "closing",
+    "text": "Ein Unterscheidungsmerkmal zu anderen Dromaeosauriden ist die lange, flache und leicht nach oben gebogene Schnauze."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Velociraptor",
+    "line": "Gattung der Familie Dromaeosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor ist eine Gattung theropoder Dinosaurier, die vor etwa 85 bis 76 Millionen Jahren in der späten Kreidezeit lebte."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Velociraptor"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f18",
+      "label": "1924 erfolgte die Erstbeschreibung durch den Museumsleiter Henry Fairfield Osborn als Velociraptor mongoliensis."
+     },
+     {
+      "fact": "f22",
+      "label": "Zwischen 1988 und 1990 entdeckte ein chinesisch-kanadisches Team Überreste von Velociraptor in Nordchina."
+     },
+     {
+      "fact": "f25",
+      "label": "1999 entdeckte ein chinesisch-belgisches Team einen Oberkiefer und ein Tränenbein."
+     },
+     {
+      "fact": "f39",
+      "label": "2008 fanden Paläontologen in der Bayan-Mahandu-Formation Zähne."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor zählt zu den Dromaeosauridae."
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor war ein mittelgrosser Dromaeosauride mit einer Länge von bis zu 2,07 Metern, einer Hüfthöhe von 50 Zentimetern und einem geschätzten Gewicht von bis zu 15 Kilogramm."
+   },
+   {
+    "type": "sentence",
+    "text": "Jede Kieferseite war mit 26 bis 28 in grösseren Abständen stehenden Zähnen besetzt, welche an der hinteren Schneidekante stärker gesägt waren als an der vorderen – das kann als Anpassung an das Greifen schneller Beute gedeutet werden."
+   },
+   {
+    "type": "sentence",
+    "text": "Eine Expedition des American Museum of Natural History in die mongolische Gobi-Wüste entdeckte im Jahr 1922 das erste bekannte Velociraptor-Fossil: Einen zerdrückten, aber kompletten Schädel zusammen mit einer der vergrösserten Krallen des zweiten Zehs und Fragmenten der Fussknochen."
+   },
+   {
+    "type": "sentence",
+    "text": "Die meisten Fossilien von Velociraptor mongoliensis wurden in der Djadochta-Formation gefunden, sowohl im mongolischen Aimag Ömnö-Gobi als auch in der chinesischen Inneren Mongolei."
+   },
+   {
+    "type": "sentence",
+    "text": "Velociraptor wird zur Unterfamilie Velociraptorinae gezählt, einer fortschrittlichen Untergruppe der Familie Dromaeosauridae."
+   },
+   {
+    "type": "sentence",
+    "text": "Bislang noch nicht einer der beiden Arten zugeordnete Fundstücke von Velociraptor stammen auch aus der etwas jüngeren Barun-Goyot-Formation der Mongolei."
+   },
+   {
+    "type": "closing",
+    "text": "Der breiten Öffentlichkeit bekannt geworden ist Velociraptor insbesondere wegen seiner von künstlerischer Freiheit geprägten Rolle als intelligentes menschenfressendes Raubtier in der Jurassic-Park-Filmreihe, auch wenn die dort dargestellten Tiere eher seinen grösseren und älteren Verwandten Deinonychus und Utahraptor entsprechen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0cd63dbb1d9ed5.093454b90b5ecd"
+ }
+}

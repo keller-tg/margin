@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-20-evening",
+ "date": "2026-10-20",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Barley",
+  "qid": "Q11577",
+  "pageid": 19541428,
+  "revid": 1377470667,
+  "domain": "plants",
+  "teaser": "Cereal grain"
+ },
+ "sources": [
+  {
+   "title": "Barley",
+   "url": "https://en.wikipedia.org/w/index.php?title=Barley&oldid=1377470667",
+   "revid": 1377470667,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Barley (Hordeum vulgare) - United States National Arboretum - 24 May 2009.jpg",
+   "w": 1600,
+   "h": 1067,
+   "alt": "Barley",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/960px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+   "sha1": "6579afc8ccbb2d53c60fa5415541b600b4949c4a",
+   "credit": {
+    "author": "Cliff from Arlington, Virginia, USA",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Barley",
+    "line": "Cereal grain",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Barley prefers relatively low temperatures and well-drained soil to grow."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Barley",
+    "line": "Cereal grain",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Barley, a member of the grass family, is a major cereal grain grown in temperate climates globally."
+   },
+   {
+    "type": "closing",
+    "text": "English pub names such as The Barley Mow allude to its role in the production of beer."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Barley",
+    "line": "Cereal grain",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Barley, a member of the grass family, is a major cereal grain grown in temperate climates globally."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Barley"
+   },
+   {
+    "type": "closing",
+    "text": "English pub names such as The Barley Mow allude to its role in the production of beer."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0228f636f693bd.1d8e5a9313c483"
+ }
+}

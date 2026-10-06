@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-09-morning",
+ "date": "2026-10-09",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Bacteria",
+  "qid": "Q10876",
+  "pageid": 9028799,
+  "revid": 1376800995,
+  "domain": "biology",
+  "teaser": "Domain of microorganisms"
+ },
+ "sources": [
+  {
+   "title": "Bacteria",
+   "url": "https://en.wikipedia.org/w/index.php?title=Bacteria&oldid=1376800995",
+   "revid": 1376800995,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:E. coli Bacteria (7316101966).jpg",
+   "w": 2100,
+   "h": 1766,
+   "alt": "Bacteria",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/E._coli_Bacteria_%287316101966%29.jpg/960px-E._coli_Bacteria_%287316101966%29.jpg",
+   "sha1": "56456ea738d0e0a8788b609672fc2b7cd5699456",
+   "credit": {
+    "author": "NIAID",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_(7316101966).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 43000,
+   "unit": "species",
+   "surface": "43,000 species"
+  },
+  "f13": {
+   "kind": "measure",
+   "value": 3000000000,
+   "unit": "years",
+   "surface": "3 billion years"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Bacteria",
+    "line": "Domain of microorganisms",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f13",
+    "display": "3 billion years",
+    "caption": "For about 3 billion years, most organisms were microscopic."
+   },
+   {
+    "type": "closing",
+    "text": "Once regarded as plants constituting the class Schizomycetes, bacteria are now classified as prokaryotes."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Bacteria",
+    "line": "Domain of microorganisms",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bacteria"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "43,000 species",
+    "caption": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied."
+   },
+   {
+    "type": "sentence",
+    "text": "Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats."
+   },
+   {
+    "type": "sentence",
+    "text": "Bacteria inhabit the air, soil, water, acidic hot springs, radioactive waste, and the deep biosphere of Earth’s crust."
+   },
+   {
+    "type": "closing",
+    "text": "Unlike cells of animals and other eukaryotes, bacterial cells contain circular chromosomes, do not contain a nucleus and rarely harbour membrane-bound organelles."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Bacteria",
+    "line": "Domain of microorganisms",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bacteria"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "43,000 species",
+    "caption": "Although an estimated 43,000 species of bacteria have been named, most of them have never been studied."
+   },
+   {
+    "type": "sentence",
+    "text": "Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats."
+   },
+   {
+    "type": "sentence",
+    "text": "In fact, just 10 bacterial species account for half of all publications, whereas nearly 75% of all named bacteria have no academic research devoted to them."
+   },
+   {
+    "type": "sentence",
+    "text": "90% of scientific studies on bacteria focus on less than 1% of species, mostly pathogenic bacteria relevant to human health."
+   },
+   {
+    "type": "sentence",
+    "text": "The best-studied species, Escherichia coli, has more than 300,000 studies published on it, but many of these papers likely use it only as a cloning vehicle to study other species, without providing any insight into its own biology."
+   },
+   {
+    "type": "sentence",
+    "text": "The ancestors of bacteria were unicellular microorganisms that were the first forms of life to appear on Earth, about 4 billion years ago."
+   },
+   {
+    "type": "sentence",
+    "text": "The word bacteria is the plural of the Neo-Latin bacterium, which is the romanisation of the Ancient Greek βακτήριον, the diminutive of βακτηρία, meaning 'staff’ or 'cane', because the first ones to be discovered were rod-shaped."
+   },
+   {
+    "type": "sentence",
+    "text": "For about 3 billion years, most organisms were microscopic, and bacteria and archaea were the dominant forms of life."
+   },
+   {
+    "type": "closing",
+    "text": "Unlike Archaea, bacteria contain ester-linked lipids in the cell membrane, possess elongation factors that are resistant to ADP-ribosylation by diphtheria toxin, use formylmethionine in protein synthesis initiation, and have numerous genetic differences, including a different 16S rRNA."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1d60ca29ae44c1.014e7ab78c0802"
+ }
+}

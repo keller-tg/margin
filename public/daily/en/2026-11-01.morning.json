@@ -1,0 +1,182 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-01-morning",
+ "date": "2026-11-01",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Lemur",
+  "qid": "Q1192405",
+  "pageid": 477917,
+  "revid": 1376923498,
+  "domain": "animals",
+  "teaser": "Clade of primates endemic to the island of Madagascar"
+ },
+ "sources": [
+  {
+   "title": "Lemur",
+   "url": "https://en.wikipedia.org/w/index.php?title=Lemur&oldid=1376923498",
+   "revid": 1376923498,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Lemuroidea.jpg",
+   "w": 1123,
+   "h": 1739,
+   "alt": "Lemur",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Lemuroidea.jpg/960px-Lemuroidea.jpg",
+   "sha1": "a9d0d4e5ad716ca235be5968aea37e99e13cba75",
+   "credit": {
+    "author": "Katta család.jpg: Veszprémi Állatkert",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Lemuroidea.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f7": {
+   "kind": "measure",
+   "value": 2000,
+   "unit": "years",
+   "surface": "2,000 years"
+  },
+  "f45": {
+   "kind": "measure",
+   "value": 2000,
+   "unit": "years",
+   "surface": "2000 years"
+  },
+  "f50": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "species",
+   "surface": "100 species"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Lemur",
+    "line": "Clade of primates endemic to the island of Madagascar",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Most existing lemurs are small, with a pointed snout, large eyes, and a long tail."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f50",
+    "display": "100 species",
+    "caption": "Most of the approximately 100 species and subspecies of lemur are either threatened or endangered."
+   },
+   {
+    "type": "closing",
+    "text": "Collectively, lemurs exemplify the biodiverse fauna of Madagascar and have facilitated the emergence of ecotourism."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Lemur",
+    "line": "Clade of primates endemic to the island of Madagascar",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Lemurs are wet-nosed primates of the superfamily Lemuroidea, divided into eight families and consisting of 15 genera and around 100 extant species."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Lemur"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f45",
+    "display": "2000 years",
+    "caption": "Before the arrival of humans roughly 1500 to 2000 years ago, lemurs were found all across the island."
+   },
+   {
+    "type": "sentence",
+    "text": "Most existing lemurs are small, with a pointed snout, large eyes, and a long tail."
+   },
+   {
+    "type": "sentence",
+    "text": "Lemurs share resemblance with other primates, but evolved independently from monkeys and apes."
+   },
+   {
+    "type": "closing",
+    "text": "In addition, conservation organizations increasingly seek to implement community-based approaches to save lemur species and promote sustainability."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Lemur",
+    "line": "Clade of primates endemic to the island of Madagascar",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Lemurs are wet-nosed primates of the superfamily Lemuroidea, divided into eight families and consisting of 15 genera and around 100 extant species."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Lemur"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f7",
+    "display": "2,000 years",
+    "caption": "Since the arrival of humans on the island around 2,000 years ago, over a dozen species of “giant lemurs” larger than living lemur species have become extinct, including the gorilla-sized Archaeoindris."
+   },
+   {
+    "type": "sentence",
+    "text": "Most existing lemurs are small, with a pointed snout, large eyes, and a long tail."
+   },
+   {
+    "type": "sentence",
+    "text": "Carl Linnaeus, the founder of modern binomial nomenclature, gave lemurs their name as early as 1758."
+   },
+   {
+    "type": "sentence",
+    "text": "Lemurs are primates belonging to the suborder Strepsirrhini."
+   },
+   {
+    "type": "sentence",
+    "text": "All modern strepsirrhines including lemurs are traditionally thought to have evolved from early primates known as adapiforms during the Eocene or Paleocene."
+   },
+   {
+    "type": "sentence",
+    "text": "Lemurs have adapted to fill many open ecological niches since making their way to Madagascar."
+   },
+   {
+    "type": "sentence",
+    "text": "Ranging in size from the 30 g Madame Berthe’s mouse lemur, the world’s smallest primate, to the recently extinct 160–200 kg Archaeoindris fontoynonti, lemurs evolved diverse forms of locomotion, varying levels of social complexity."
+   },
+   {
+    "type": "sentence",
+    "text": "Before the arrival of humans roughly 1500 to 2000 years ago, lemurs were found all across the island."
+   },
+   {
+    "type": "closing",
+    "text": "In addition, conservation organizations increasingly seek to implement community-based approaches to save lemur species and promote sustainability."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0c4458f28e750d.18419f5a46eb2b"
+ }
+}

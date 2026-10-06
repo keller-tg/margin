@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-26-evening",
+ "date": "2026-10-26",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Noble gas",
+  "qid": "Q19609",
+  "pageid": 21140,
+  "revid": 1378816189,
+  "domain": "chemistry",
+  "teaser": "Group of low-reactive, gaseous chemical elements"
+ },
+ "sources": [
+  {
+   "title": "Noble gas",
+   "url": "https://en.wikipedia.org/w/index.php?title=Noble_gas&oldid=1378816189",
+   "revid": 1378816189,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Edelgase in Entladungsroehren.jpg",
+   "w": 5300,
+   "h": 3000,
+   "alt": "Noble gas",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Edelgase_in_Entladungsroehren.jpg/960px-Edelgase_in_Entladungsroehren.jpg",
+   "sha1": "2704893c4a058dd028ab7379c5769e8c06dd5ccc",
+   "credit": {
+    "author": "Alchemist-hp www.pse-mendelejew.de",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Edelgase_in_Entladungsroehren.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Noble gas",
+    "line": "Group of low-reactive, gaseous chemical elements",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Only a few hundred noble gas compounds are known to exist."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Noble gas",
+    "line": "Group of low-reactive, gaseous chemical elements",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The noble gases are the members of group 18 of the periodic table: helium, neon, argon, krypton, xenon, radon and, in some cases, oganesson."
+   },
+   {
+    "type": "closing",
+    "text": "IUPAC uses the term “noble gas” interchangeably with “group 18” and thus includes oganesson."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Noble gas",
+    "line": "Group of low-reactive, gaseous chemical elements",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The noble gases are the members of group 18 of the periodic table: helium, neon, argon, krypton, xenon, radon and, in some cases, oganesson."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Noble gas"
+   },
+   {
+    "type": "closing",
+    "text": "IUPAC uses the term “noble gas” interchangeably with “group 18” and thus includes oganesson; however, due to relativistic effects, oganesson is predicted to be a solid under standard conditions and reactive enough not to qualify functionally as “noble”."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "192e6c6458246c.18035a96e1a973"
+ }
+}

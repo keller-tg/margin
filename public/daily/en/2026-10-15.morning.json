@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-15-morning",
+ "date": "2026-10-15",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Xenon",
+  "qid": "Q1106",
+  "pageid": 34139,
+  "revid": 1377975656,
+  "domain": "chemistry",
+  "teaser": "Chemical element with atomic number 54"
+ },
+ "sources": [
+  {
+   "title": "Xenon",
+   "url": "https://en.wikipedia.org/w/index.php?title=Xenon&oldid=1377975656",
+   "revid": 1377975656,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:XeTube.jpg",
+   "w": 2000,
+   "h": 2000,
+   "alt": "Xenon",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/XeTube.jpg/960px-XeTube.jpg",
+   "sha1": "25693de14f7989ee2b71a7914c862d7e04eb6701",
+   "credit": {
+    "author": "Pslawinski",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:XeTube.jpg",
+    "attribution": "Pslawinski",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f16": {
+   "kind": "date",
+   "value": "1971",
+   "surface": "1971"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1989",
+   "surface": "1989"
+  },
+  "f22": {
+   "kind": "measure",
+   "value": 5.894,
+   "unit": "kg",
+   "surface": "5.894 kg"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 3.1,
+   "unit": "g",
+   "surface": "3.100 g"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1998",
+   "surface": "1998"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Xenon",
+    "line": "Chemical element with atomic number 54",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon is a chemical element; it has symbol Xe and atomic number 54."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "3.100 g",
+    "caption": "As a liquid, xenon has a density of up to 3.100 g/cm3."
+   },
+   {
+    "type": "closing",
+    "text": "Radioactive xenon-135 is produced by beta decay from iodine-135."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Xenon",
+    "line": "Chemical element with atomic number 54",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon is a chemical element; it has symbol Xe and atomic number 54."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Xenon"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "3.100 g",
+    "caption": "As a liquid, xenon has a density of up to 3.100 g/cm3, with the density maximum occurring at the triple point."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f16",
+      "label": "By 1971, more than 80 xenon compounds were known."
+     },
+     {
+      "fact": "f18",
+      "label": "In November 1989, IBM scientists demonstrated a technology capable of manipulating individual atoms."
+     },
+     {
+      "fact": "f48",
+      "label": "Worldwide production of xenon in 1998 was estimated at 5,000–7,000 cubic metres."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon is used in flash lamps and arc lamps, and as a general anesthetic."
+   },
+   {
+    "type": "closing",
+    "text": "Radioactive xenon-135 is produced by beta decay from iodine-135, and is the most significant neutron absorber in nuclear reactors."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Xenon",
+    "line": "Chemical element with atomic number 54",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon is a chemical element; it has symbol Xe and atomic number 54."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Xenon"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f22",
+    "display": "5.894 kg",
+    "caption": "At standard temperature and pressure, pure xenon gas has a density of 5.894 kg/m3, about 4.5 times the density of the Earth’s atmosphere at sea level, 1.217 kg/m3."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f16",
+      "label": "By 1971, more than 80 xenon compounds were known."
+     },
+     {
+      "fact": "f18",
+      "label": "In November 1989, IBM scientists demonstrated a technology capable of manipulating individual atoms."
+     },
+     {
+      "fact": "f48",
+      "label": "Worldwide production of xenon in 1998 was estimated at 5,000–7,000 cubic metres."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon was discovered in England by the Scottish chemist William Ramsay and English chemist Morris Travers on July 12, 1898, shortly after their discovery of the elements krypton and neon."
+   },
+   {
+    "type": "sentence",
+    "text": "In 1902, Ramsay estimated the proportion of xenon in the Earth’s atmosphere to be one part in 20 million."
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon has atomic number 54; that is, its nucleus contains 54 protons."
+   },
+   {
+    "type": "sentence",
+    "text": "As a liquid, xenon has a density of up to 3.100 g/cm3, with the density maximum occurring at the triple point."
+   },
+   {
+    "type": "sentence",
+    "text": "Under the same conditions, the density of solid xenon, 3.640 g/cm3, is greater than the average density of granite, 2.75 g/cm3."
+   },
+   {
+    "type": "sentence",
+    "text": "Xenon is a trace gas in Earth’s atmosphere, occurring at a volume fraction of 87±1 nL/L, or approximately 1 part per 11.5 million."
+   },
+   {
+    "type": "closing",
+    "text": "Radioactive xenon-135 is produced by beta decay from iodine-135, and is the most significant neutron absorber in nuclear reactors."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "14ea385de115e6.004ce05b8d08ab"
+ }
+}

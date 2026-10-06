@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-15-evening",
+ "date": "2026-10-15",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Octopus",
+  "qid": "Q40152",
+  "pageid": 22780,
+  "revid": 1376790243,
+  "domain": "animals",
+  "teaser": "Soft-bodied eight-limbed order of molluscs"
+ },
+ "sources": [
+  {
+   "title": "Octopus",
+   "url": "https://en.wikipedia.org/w/index.php?title=Octopus&oldid=1376790243",
+   "revid": 1376790243,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Octopus2.jpg",
+   "w": 2704,
+   "h": 2058,
+   "alt": "Octopus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg",
+   "sha1": "65fa923da26d967765be7b82ad12e07fdad496c3",
+   "credit": {
+    "author": "albert kok",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Octopus",
+    "line": "Soft-bodied eight-limbed order of molluscs",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "An octopus can radically deform its shape, enabling it to squeeze through small gaps."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Octopus",
+    "line": "Soft-bodied eight-limbed order of molluscs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "An octopus is a soft-bodied, eight-limbed mollusc of the order Octopoda."
+   },
+   {
+    "type": "closing",
+    "text": "Octopuses appear in Japanese shunga erotic art."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Octopus",
+    "line": "Soft-bodied eight-limbed order of molluscs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "An octopus is a soft-bodied, eight-limbed mollusc of the order Octopoda."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Octopus"
+   },
+   {
+    "type": "closing",
+    "text": "Octopuses appear in Japanese shunga erotic art."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1f7380c8d6be86.19e7eca494be5c"
+ }
+}

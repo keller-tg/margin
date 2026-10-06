@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-24-morning",
+ "date": "2026-10-24",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Banff-Nationalpark",
+  "qid": "Q41858",
+  "pageid": 390605,
+  "revid": 270799728,
+  "domain": "landscapes",
+  "teaser": "Nationalpark in der kanadischen Provinz Alberta"
+ },
+ "sources": [
+  {
+   "title": "Banff-Nationalpark",
+   "url": "https://de.wikipedia.org/w/index.php?title=Banff-Nationalpark&oldid=270799728",
+   "revid": 270799728,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Canada 35 bg 061904.jpg",
+   "w": 1024,
+   "h": 768,
+   "alt": "Banff-Nationalpark",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Canada_35_bg_061904.jpg/960px-Canada_35_bg_061904.jpg",
+   "sha1": "0be4dc6ae60c663da212bc2d2f68b8094b88b248",
+   "credit": {
+    "author": "Saforrest",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Canada_35_bg_061904.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 6641,
+   "unit": "km²",
+   "surface": "6641 km²"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1857",
+   "surface": "1857"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1965",
+   "surface": "1965"
+  },
+  "f22": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "1926",
+   "surface": "1926"
+  },
+  "f52": {
+   "kind": "measure",
+   "value": 3617,
+   "unit": "m",
+   "surface": "3617 m"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Banff-Nationalpark",
+    "line": "Nationalpark in der kanadischen Provinz Alberta",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Seinen Namen trägt der Park nach dem schottischen Banffshire."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f52",
+    "display": "3617 m",
+    "caption": "Mount Forbes – mit 3617 m Höhe der höchste Punkt im Park Peyto-Gletscher."
+   },
+   {
+    "type": "closing",
+    "text": "Drei Skigebiete, unter anderem das von Lake Louise, liegen dennoch innerhalb der Grenzen des Banff-Nationalparks."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Banff-Nationalpark",
+    "line": "Nationalpark in der kanadischen Provinz Alberta",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "i2i3i6 Der in der kanadischen Provinz Alberta gelegene Banff-Nationalpark wurde 1885 gegründet und war der erste Nationalpark Kanadas."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Banff-Nationalpark"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "6641 km²",
+    "caption": "Mit seinen 6641 km² Fläche gehört er zu den grösseren Nationalparks in den kanadischen Rocky Mountains."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Die britische Royal Geographical Society finanzierte die sogenannte Palliser-Expedition zwischen 1857 und 1860."
+     },
+     {
+      "fact": "f22",
+      "label": "Im Jahr 1877 unterzeichneten die First Nations des Gebiets den Vertrag Nr. 7."
+     },
+     {
+      "fact": "f29",
+      "label": "Im Jahr 1926 wurde die Stadt abgebaut."
+     },
+     {
+      "fact": "f21",
+      "label": "Als letztes wurde der Trans-Canada Highway durch den Park gebaut und 1965 fertiggestellt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Seinen Namen trägt der Park nach dem schottischen Banffshire, der Heimatregion zweier Geldgeber der Canadian Pacific Railway."
+   },
+   {
+    "type": "closing",
+    "text": "Drei Skigebiete, unter anderem das von Lake Louise, liegen dennoch innerhalb der Grenzen des Banff-Nationalparks."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Banff-Nationalpark",
+    "line": "Nationalpark in der kanadischen Provinz Alberta",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "i2i3i6 Der in der kanadischen Provinz Alberta gelegene Banff-Nationalpark wurde 1885 gegründet und war der erste Nationalpark Kanadas, der zweite in Nordamerika und weltweit der dritte ausgewiesene Park."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Banff-Nationalpark"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "6641 km²",
+    "caption": "Mit seinen 6641 km² Fläche gehört er zu den grösseren Nationalparks in den kanadischen Rocky Mountains."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Die britische Royal Geographical Society finanzierte die sogenannte Palliser-Expedition zwischen 1857 und 1860."
+     },
+     {
+      "fact": "f22",
+      "label": "Im Jahr 1877 unterzeichneten die First Nations des Gebiets den Vertrag Nr. 7."
+     },
+     {
+      "fact": "f29",
+      "label": "Im Jahr 1926 wurde die Stadt abgebaut."
+     },
+     {
+      "fact": "f21",
+      "label": "Als letztes wurde der Trans-Canada Highway durch den Park gebaut und 1965 fertiggestellt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Wesentlich zur heutigen Ausformung haben drei grössere Gebirgsbildungsphasen beigetragen, die über einen Zeitraum von rund 130 Millionen Jahren den Westen Nordamerikas formten."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Laramische Gebirgsbildung war die letzte der drei Phasen und verantwortlich für die Heraushebung der Rocky Mountains."
+   },
+   {
+    "type": "sentence",
+    "text": "Die kanadischen Rocky Mountains wurden durch intensive plattentektonische Aktivität im Mesozoikum und Känozoikum gebildet."
+   },
+   {
+    "type": "sentence",
+    "text": "Im Laufe seiner Geschichte wurde der Banff-Nationalpark von Spannungen zwischen Naturschützern und Landnutzungsinteressierten geprägt."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Park wurde am 25. November 1885 als «Banff Hot Springs Reserve»eingerichtet, als Reaktion auf widersprüchliche Ansprüche darüber, wer die heissen Quellen dort entdeckt hatte und wer das Recht zur kommerziellen Entwicklung besass."
+   },
+   {
+    "type": "sentence",
+    "text": "Mit der Stadt Banff und der Siedlung Lake Louise hat der Park rund 9000 ganzjährige und weitere etwa 1000 saisonale Bewohner."
+   },
+   {
+    "type": "closing",
+    "text": "Drei Skigebiete, unter anderem das von Lake Louise, liegen dennoch innerhalb der Grenzen des Banff-Nationalparks."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "03042c0b90d26c.00ea6c21d6e56f"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-02-evening",
+ "date": "2026-11-02",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Asteroidengürtel",
+  "qid": "Q2179",
+  "pageid": 80637,
+  "revid": 266799356,
+  "domain": "astronomy",
+  "teaser": "Ansammlung von Asteroiden und Zwergplaneten im Sonnensystem"
+ },
+ "sources": [
+  {
+   "title": "Asteroidengürtel",
+   "url": "https://de.wikipedia.org/w/index.php?title=Asteroideng%C3%BCrtel&oldid=266799356",
+   "revid": 266799356,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Asteroid belt positions-en.png",
+   "w": 10500,
+   "h": 15285,
+   "alt": "Asteroidengürtel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/960px-Asteroid_belt_positions-en.png",
+   "sha1": "9deef0f4312c2c1c6898e3ae36fdc494b603f771",
+   "credit": {
+    "author": "Thunkii",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Asteroid_belt_positions-en.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Asteroidengürtel",
+    "line": "Ansammlung von Asteroiden und Zwergplaneten im Sonnensystem",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Aufgrund der als Titius-Bode-Reihe bezeichneten empirischen Formel."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Asteroidengürtel",
+    "line": "Ansammlung von Asteroiden und Zwergplaneten im Sonnensystem",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Asteroidengürtel, Planetoidengürtel oder Hauptgürtel ist ein Bereich im Sonnensystem mit einer gehäuften Ansammlung von Asteroiden."
+   },
+   {
+    "type": "closing",
+    "text": "Inzwischen geht man davon aus, dass sich aufgrund der enormen Gravitation von Jupiter niemals aus der protoplanetaren Materie ein Planet bilden konnte."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Asteroidengürtel",
+    "line": "Ansammlung von Asteroiden und Zwergplaneten im Sonnensystem",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Asteroidengürtel, Planetoidengürtel oder Hauptgürtel ist ein Bereich im Sonnensystem mit einer gehäuften Ansammlung von Asteroiden."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Asteroidengürtel"
+   },
+   {
+    "type": "closing",
+    "text": "Inzwischen geht man davon aus, dass sich aufgrund der enormen Gravitation von Jupiter niemals aus der protoplanetaren Materie ein Planet bilden konnte, und der Asteroidengürtel ein sehr stark ausgedünntes Überbleibsel der protoplanetaren Scheibe ist."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0de73b1ff40b86.0d8ae6d9ad203c"
+ }
+}

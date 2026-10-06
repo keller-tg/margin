@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-17-evening",
+ "date": "2026-10-17",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Amanita phalloides",
+  "qid": "Q188643",
+  "pageid": 184774,
+  "revid": 1372135256,
+  "domain": "plants",
+  "teaser": "Poisonous mushroom"
+ },
+ "sources": [
+  {
+   "title": "Amanita phalloides",
+   "url": "https://en.wikipedia.org/w/index.php?title=Amanita_phalloides&oldid=1372135256",
+   "revid": 1372135256,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Amanita phalloides 1.JPG",
+   "w": 1200,
+   "h": 1600,
+   "alt": "Amanita phalloides",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_phalloides_1.JPG/960px-Amanita_phalloides_1.JPG",
+   "sha1": "dbd759dd27dbd877c08fcefaa4ea4b98d9f69882",
+   "credit": {
+    "author": "Archenzo",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Amanita_phalloides_1.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Amanita phalloides",
+    "line": "Poisonous mushroom",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "The cap colour is variable, including white forms, and is thus not a reliable identifier."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Amanita phalloides",
+    "line": "Poisonous mushroom",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Amanita phalloides, commonly known as the death cap, is a deadly poisonous basidiomycete fungus and mushroom, one of many in the genus Amanita."
+   },
+   {
+    "type": "closing",
+    "text": "The principal toxic constituent is α-Amanitin, which causes liver and kidney failure."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Amanita phalloides",
+    "line": "Poisonous mushroom",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Amanita phalloides, commonly known as the death cap, is a deadly poisonous basidiomycete fungus and mushroom, one of many in the genus Amanita."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Amanita phalloides"
+   },
+   {
+    "type": "closing",
+    "text": "The principal toxic constituent is α-Amanitin, which causes liver and kidney failure."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "01cb5ecbbfd221.0c8c08d369a37f"
+ }
+}

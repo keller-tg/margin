@@ -5,6 +5,9 @@ describe('cleanSentence', () => {
   it('drops parentheticals', () => {
     expect(cleanSentence('Ada Lovelace (10 December 1815 – 27 November 1852) was a mathematician.')).toBe('Ada Lovelace was a mathematician.');
   });
+  it('rejects lists of abbreviations', () => {
+    expect(cleanSentence('Synonyms include P. l. persica, P. l. senegalensis, P. l. kamptzi, and P. l. azandica.')).toBeNull();
+  });
   it('rejects compounds broken by a removed parenthetical, keeps suspended hyphens', () => {
     expect(cleanSentence('Der Hopewell- (100 v. Chr.) folgte die Whittlesey-Kultur.')).toBeNull();
     expect(cleanSentence('Die Hopewell- und Adena-Kultur waren älter als diese.')).not.toBeNull();

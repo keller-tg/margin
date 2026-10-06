@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-24-evening",
+ "date": "2026-10-24",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Manta ray",
+  "qid": "Q1536199",
+  "pageid": 50838,
+  "revid": 1378617563,
+  "domain": "animals",
+  "teaser": "Subgenus of fishes"
+ },
+ "sources": [
+  {
+   "title": "Manta ray",
+   "url": "https://en.wikipedia.org/w/index.php?title=Manta_ray&oldid=1378617563",
+   "revid": 1378617563,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Dharavandhoo Thila - Manata Black Pearl.JPG",
+   "w": 1029,
+   "h": 683,
+   "alt": "Manta ray",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG/960px-Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG",
+   "sha1": "81963a9d5981ae3f3f1eafcfbddd4d18045e1628",
+   "credit": {
+    "author": "Shiyam ElkCloner",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Manta ray",
+    "line": "Subgenus of fishes",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "All three have triangular pectoral fins, horn-shaped cephalic fins and large, forward-facing mouths."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Manta ray",
+    "line": "Subgenus of fishes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manta rays are large rays belonging to the genus Mobula."
+   },
+   {
+    "type": "closing",
+    "text": "Only a few public aquariums are large enough to house them."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Manta ray",
+    "line": "Subgenus of fishes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Manta rays are large rays belonging to the genus Mobula."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Manta ray"
+   },
+   {
+    "type": "closing",
+    "text": "Only a few public aquariums are large enough to house them."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "11afa5f5517680.08e3cefb73b807"
+ }
+}

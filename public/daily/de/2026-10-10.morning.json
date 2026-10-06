@@ -1,0 +1,228 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-10-morning",
+ "date": "2026-10-10",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "John Lennon",
+  "qid": "Q1203",
+  "pageid": 3433709,
+  "revid": 269986751,
+  "domain": "people-arts",
+  "teaser": "Britischer Musiker"
+ },
+ "sources": [
+  {
+   "title": "John Lennon",
+   "url": "https://de.wikipedia.org/w/index.php?title=John_Lennon&oldid=269986751",
+   "revid": 269986751,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:John Lennon 1969 (cropped).jpg",
+   "w": 612,
+   "h": 883,
+   "alt": "John Lennon",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg",
+   "sha1": "cef85f89b6eea4bb0bf5ed932aa22b043618bfd4",
+   "credit": {
+    "author": "Joost Evers / Anefo",
+    "authorSource": "artist",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:John_Lennon_1969_(cropped).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f10": {
+   "kind": "date",
+   "value": "1940",
+   "surface": "1940"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1946",
+   "surface": "1946"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1952",
+   "surface": "1952"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "1955",
+   "surface": "1955"
+  },
+  "f52": {
+   "kind": "number",
+   "value": 20000,
+   "surface": "20.000"
+  },
+  "f83": {
+   "kind": "number",
+   "value": 100000,
+   "surface": "100.000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "John Lennon",
+    "line": "Britischer Musiker",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "John Winston Lennon wurde am 9. Oktober 1940 in Liverpool geboren."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f83",
+    "display": "100.000",
+    "caption": "Cynthia Lennon erhielt eine Abfindung von 100.000 Pfund."
+   },
+   {
+    "type": "closing",
+    "text": "Im September 2025 wurde Chapmans mittlerweile 14. Antrag auf Entlassung abgelehnt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "John Lennon",
+    "line": "Britischer Musiker",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "John Winston Ono Lennon, MBE, geborener John Winston Lennon, war ein britischer Musiker, Komponist und Friedensaktivist sowie Oscar- und mehrfacher Grammy-Preisträger."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "John Lennon"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f83",
+    "display": "100.000",
+    "caption": "Cynthia Lennon erhielt eine Abfindung von 100.000 Pfund, die den Unterhalt für sie und den Sohn bis zu dessen 21. Geburtstag einschloss."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "John Winston Lennon wurde am 9. Oktober 1940 in Liverpool geboren."
+     },
+     {
+      "fact": "f21",
+      "label": "1946 wurde John in den Kindergarten Mospits Infant’s School aufgenommen."
+     },
+     {
+      "fact": "f24",
+      "label": "Im September 1952 wurde John Lennon in die Quarry Bank High School aufgenommen."
+     },
+     {
+      "fact": "f28",
+      "label": "Ab 1955 verbesserte sich der Kontakt John Lennons zu seiner Mutter wieder."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Urheber- bzw. Komponistenpartnerschaft Lennon/McCartney ist eine der bekanntesten und erfolgreichsten in der Geschichte der Popmusik."
+   },
+   {
+    "type": "closing",
+    "text": "Lennon wurde am Abend des 8. Dezember 1980 am New Yorker Central Park bei einem Mordanschlag von Mark David Chapman erschossen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "John Lennon",
+    "line": "Britischer Musiker",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "John Winston Ono Lennon, MBE, geborener John Winston Lennon, war ein britischer Musiker, Komponist und Friedensaktivist sowie Oscar- und mehrfacher Grammy-Preisträger."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "John Lennon"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f52",
+    "display": "20.000",
+    "caption": "Die Familie lebte von 1964 bis 1968 im Landhaus Kenwood in der Wood Lane in der St. George’s Hill-Siedlung in Weybridge, Surrey, das John Lennon am 15. Juli 1964 für 20.000 Pfund gekauft hatte."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "John Winston Lennon wurde am 9. Oktober 1940 in Liverpool geboren."
+     },
+     {
+      "fact": "f21",
+      "label": "1946 wurde John in den Kindergarten Mospits Infant’s School aufgenommen."
+     },
+     {
+      "fact": "f24",
+      "label": "Im September 1952 wurde John Lennon in die Quarry Bank High School aufgenommen."
+     },
+     {
+      "fact": "f28",
+      "label": "Ab 1955 verbesserte sich der Kontakt John Lennons zu seiner Mutter wieder."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Weil Julia Lennon 1945 ein Kind von einem anderen Mann bekam, trennten sich seine Eltern."
+   },
+   {
+    "type": "sentence",
+    "text": "John Lennon lebte nun auf Dauer bei Julia Lennons Schwester Mary Smith, genannt «Mimi», und deren Ehemann George, der eine Art Ersatzvater für ihn darstellte, in «Mendips»im Liverpooler Vorort Woolton."
+   },
+   {
+    "type": "sentence",
+    "text": "Die ersten Jahre seines Lebens verbrachte John Lennon hauptsächlich bei seiner Mutter und deren Familie in Liverpool, da sein Vater zu dieser Zeit häufig zur See fuhr."
+   },
+   {
+    "type": "sentence",
+    "text": "Von 1960 bis 1962 hatten die Beatles in der Grossen Freiheit in Hamburg mehrere Engagements im Indra, im Kaiserkeller, im Top Ten Club und im Star Club."
+   },
+   {
+    "type": "sentence",
+    "text": "Lennon behauptete später, in Hamburg und nicht in Liverpool erwachsen geworden zu sein."
+   },
+   {
+    "type": "sentence",
+    "text": "Im September 1946 wurde John Lennon in die Dovedale Primary School eingeschult, die er bis Juli 1952 besuchte."
+   },
+   {
+    "type": "closing",
+    "text": "Lennon wurde am Abend des 8. Dezember 1980 am New Yorker Central Park bei einem Mordanschlag von Mark David Chapman erschossen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "16441b005d03cd.181624cef9e44a"
+ }
+}

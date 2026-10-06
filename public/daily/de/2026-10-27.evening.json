@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-27-evening",
+ "date": "2026-10-27",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Diplodocus",
+  "qid": "Q14330",
+  "pageid": 128589,
+  "revid": 269371961,
+  "domain": "animals",
+  "teaser": "Gattung der Familie Diplodocidae"
+ },
+ "sources": [
+  {
+   "title": "Diplodocus",
+   "url": "https://de.wikipedia.org/w/index.php?title=Diplodocus&oldid=269371961",
+   "revid": 269371961,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:CM Diplodocus.jpg",
+   "w": 4928,
+   "h": 3264,
+   "alt": "Diplodocus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/CM_Diplodocus.jpg/960px-CM_Diplodocus.jpg",
+   "sha1": "e760112a2cd606409ed47a5baf039502f4b226b6",
+   "credit": {
+    "author": "ScottRobertAnselmo",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:CM_Diplodocus.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Diplodocus",
+    "line": "Gattung der Familie Diplodocidae",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Der Gattungsname bezieht sich auf die V-förmigen Chevron-Knochen auf der Unterseite der Schwanzwirbelsäule."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Diplodocus",
+    "line": "Gattung der Familie Diplodocidae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Diplodocus ist eine Gattung von sauropoden Dinosauriern aus dem Oberjura des westlichen Nordamerikas."
+   },
+   {
+    "type": "closing",
+    "text": "Die Dinosauriergattung ist eine der am einfachsten zu identifizierenden und galt für viele Jahre als diejenige mit der grössten Körperlänge."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Diplodocus",
+    "line": "Gattung der Familie Diplodocidae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Diplodocus ist eine Gattung von sauropoden Dinosauriern aus dem Oberjura des westlichen Nordamerikas."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Diplodocus"
+   },
+   {
+    "type": "closing",
+    "text": "Die Dinosauriergattung ist eine der am einfachsten zu identifizierenden und galt für viele Jahre als diejenige mit der grössten Körperlänge."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "113fb0edc9dae4.1a83dde0b4a275"
+ }
+}

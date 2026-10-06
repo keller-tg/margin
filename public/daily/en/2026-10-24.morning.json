@@ -1,0 +1,226 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-24-morning",
+ "date": "2026-10-24",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Josquin des Prez",
+  "qid": "Q143100",
+  "pageid": 55021,
+  "revid": 1371695204,
+  "domain": "people-arts",
+  "teaser": "Composer of the Renaissance"
+ },
+ "sources": [
+  {
+   "title": "Josquin des Prez",
+   "url": "https://en.wikipedia.org/w/index.php?title=Josquin_des_Prez&oldid=1371695204",
+   "revid": 1371695204,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Josquin.JPG",
+   "w": 1844,
+   "h": 1906,
+   "alt": "Josquin des Prez",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Josquin.JPG/960px-Josquin.JPG",
+   "sha1": "f35ae93e5dc466c5a92a170f0cca3d2faf8f5ddd",
+   "credit": {
+    "author": "unknown, upload by Adrian Michael",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Josquin.JPG",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f13": {
+   "kind": "date",
+   "value": "1669",
+   "surface": "1669"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1485",
+   "surface": "1485"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1484",
+   "surface": "1484"
+  },
+  "f40": {
+   "kind": "date",
+   "value": "1489",
+   "surface": "1489"
+  },
+  "f64": {
+   "kind": "number",
+   "value": 130,
+   "surface": "130"
+  },
+  "f73": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Josquin des Prez",
+    "line": "Composer of the Renaissance",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin Lebloitte dit des Prez was a composer of Renaissance music."
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin was a singer, and his compositions are mainly vocal."
+   },
+   {
+    "type": "closing",
+    "text": "Virgo serena, and the popular chansons Adieu mes amours and Que vous ma dame."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Josquin des Prez",
+    "line": "Composer of the Renaissance",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin Lebloitte dit des Prez was a composer of Renaissance music, who is variously described as French or Franco-Flemish."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Josquin des Prez"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f73",
+    "display": "200",
+    "caption": "Around three months later, Josquin was chosen; his salary of 200 ducats was the highest ever for a ducal chapel member."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f36",
+      "label": "Josquin went to Rome with Ascanio in July 1484 for a year."
+     },
+     {
+      "fact": "f35",
+      "label": "Virgo serena to this time, c. 1485."
+     },
+     {
+      "fact": "f40",
+      "label": "Josquin was in Milan again in January 1489, probably until early May."
+     },
+     {
+      "fact": "f13",
+      "label": "All records from Saint-Quentin were destroyed in 1669."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin was a singer, and his compositions are mainly vocal."
+   },
+   {
+    "type": "closing",
+    "text": "Josquin continues to draw interest in the 21st century and his music is frequently recorded and the subject of continuing scholarship."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Josquin des Prez",
+    "line": "Composer of the Renaissance",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin Lebloitte dit des Prez was a composer of Renaissance music, who is variously described as French or Franco-Flemish."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Josquin des Prez"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f64",
+    "display": "130",
+    "caption": "The five-voice De profundis, a setting of Psalm 130, seems to have been written for a royal funeral, perhaps that of Louis XII, Anne of Brittany or Philip I of Castile."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f36",
+      "label": "Josquin went to Rome with Ascanio in July 1484 for a year."
+     },
+     {
+      "fact": "f35",
+      "label": "Virgo serena to this time, c. 1485."
+     },
+     {
+      "fact": "f40",
+      "label": "Josquin was in Milan again in January 1489, probably until early May."
+     },
+     {
+      "fact": "f13",
+      "label": "All records from Saint-Quentin were destroyed in 1669."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin’s full name, Josquin Lebloitte dit des Prez, became known in the late 20th century."
+   },
+   {
+    "type": "sentence",
+    "text": "A pair of 1483 documents found in Condé-sur-l’Escaut identify the composer as the nephew of Gille Lebloitte dit des Prez and the son of Gossard Lebloitte dit des Prez."
+   },
+   {
+    "type": "sentence",
+    "text": "Josquin was a common name in Flanders and Northern France in the 15th and 16th centuries."
+   },
+   {
+    "type": "sentence",
+    "text": "Other documents indicate that the surname des Prez had been used by the family for at least two generations, perhaps to distinguish them from other branches of the Lebloitte family."
+   },
+   {
+    "type": "sentence",
+    "text": "At the time, the name Lebloitte was rare and the reason that Josquin’s family took up the more common surname des Prez as their dit name remains uncertain."
+   },
+   {
+    "type": "sentence",
+    "text": "Little is known about Josquin’s early years."
+   },
+   {
+    "type": "closing",
+    "text": "Josquin continues to draw interest in the 21st century and his music is frequently recorded and the subject of continuing scholarship."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1cb2bfcb9acd9c.03a7a89eafa331"
+ }
+}

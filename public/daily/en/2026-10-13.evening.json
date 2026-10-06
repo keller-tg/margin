@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-13-evening",
+ "date": "2026-10-13",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Technetium",
+  "qid": "Q1054",
+  "pageid": 30041,
+  "revid": 1376400411,
+  "domain": "chemistry",
+  "teaser": "Chemical element with atomic number 43"
+ },
+ "sources": [
+  {
+   "title": "Technetium",
+   "url": "https://en.wikipedia.org/w/index.php?title=Technetium&oldid=1376400411",
+   "revid": 1376400411,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Technetium-sample-cropped.jpg",
+   "w": 971,
+   "h": 526,
+   "alt": "Technetium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Technetium-sample-cropped.jpg/960px-Technetium-sample-cropped.jpg",
+   "sha1": "7d0d9b37f8cbd9f9ffbeda7f11ac692a278f0b13",
+   "credit": {
+    "author": "Marco Cardin",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Technetium-sample-cropped.jpg",
+    "attribution": "GFDL",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Technetium",
+    "line": "Chemical element with atomic number 43",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "All available technetium is produced as a synthetic element."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Technetium",
+    "line": "Chemical element with atomic number 43",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Technetium is a chemical element; it has symbol Tc and atomic number 43."
+   },
+   {
+    "type": "closing",
+    "text": "Long-lived technetium isotopes produced commercially are byproducts of the fission of uranium-235 in nuclear reactors and are extracted from nuclear fuel rods."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Technetium",
+    "line": "Chemical element with atomic number 43",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Technetium is a chemical element; it has symbol Tc and atomic number 43."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Technetium"
+   },
+   {
+    "type": "closing",
+    "text": "Because even the longest-lived isotope of technetium has a relatively short half-life, the 1952 detection of technetium in red giants helped to prove that stars can produce heavier elements."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "187a62b34cbb14.1c7e82dd1a69bc"
+ }
+}

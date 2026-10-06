@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-04-evening",
+ "date": "2026-11-04",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Star (Art)",
+  "qid": "Q25469",
+  "pageid": 195977,
+  "revid": 268356619,
+  "domain": "animals",
+  "teaser": "Art der Gattung Sturnus"
+ },
+ "sources": [
+  {
+   "title": "Star (Art)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Star_(Art)&oldid=268356619",
+   "revid": 268356619,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Common starling (Sturnus vulgaris) breeding male Marken.jpg",
+   "w": 7056,
+   "h": 4704,
+   "alt": "Star (Art)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/960px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg",
+   "sha1": "a523a8a292a98683a8f1d70f356bceeb00b9f7a5",
+   "credit": {
+    "author": "Charles J. Sharp",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Star (Art)",
+    "line": "Art der Gattung Sturnus",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Der Star war in Deutschland «Vogel des Jahres 2018»."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Star (Art)",
+    "line": "Art der Gattung Sturnus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Star, auch als Gemeiner Star bezeichnet, ist der in Eurasien am weitesten verbreitete und häufigste Vertreter der Familie der Stare."
+   },
+   {
+    "type": "closing",
+    "text": "Der Star war in Deutschland «Vogel des Jahres 2018»."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Star (Art)",
+    "line": "Art der Gattung Sturnus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Star, auch als Gemeiner Star bezeichnet, ist der in Eurasien am weitesten verbreitete und häufigste Vertreter der Familie der Stare."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Star (Art)"
+   },
+   {
+    "type": "closing",
+    "text": "Der Star war in Deutschland «Vogel des Jahres 2018»."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0bb9772c20cef7.1b36625c133063"
+ }
+}

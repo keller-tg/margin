@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-19-evening",
+ "date": "2026-10-19",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Curry",
+  "qid": "Q164606",
+  "pageid": 6597,
+  "revid": 1377505187,
+  "domain": "food",
+  "teaser": "Spiced Asian-inspired sauces and dishes"
+ },
+ "sources": [
+  {
+   "title": "Curry",
+   "url": "https://en.wikipedia.org/w/index.php?title=Curry&oldid=1377505187",
+   "revid": 1377505187,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Taj Mahal - Lamb Curry Madras.jpg",
+   "w": 4624,
+   "h": 3472,
+   "alt": "Curry",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Taj_Mahal_-_Lamb_Curry_Madras.jpg/960px-Taj_Mahal_-_Lamb_Curry_Madras.jpg",
+   "sha1": "62d13eb1f70ee94c3373569c26a613da2d087802",
+   "credit": {
+    "author": "Francesc Fort",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_-_Lamb_Curry_Madras.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Curry",
+    "line": "Spiced Asian-inspired sauces and dishes",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "In medieval India, proto-curries were flavoured with mild spices such as asafoetida, cardamom, coriander, cumin."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Curry",
+    "line": "Spiced Asian-inspired sauces and dishes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Curry is a dish with a spicy sauce, initially in Indian cuisine, then modified by interchange with the Portuguese, followed by the British."
+   },
+   {
+    "type": "closing",
+    "text": "In Britain, curry is a popular dish with some types adopted from India and others modified or invented."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Curry",
+    "line": "Spiced Asian-inspired sauces and dishes",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Curry is a dish with a spicy sauce, initially in Indian cuisine, then modified by interchange with the Portuguese, followed by the British, and eventually thoroughly internationalised."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Curry"
+   },
+   {
+    "type": "closing",
+    "text": "In Britain, curry is a popular dish with some types adopted from India and others modified or invented."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1a4137b658804f.14adb35dcb8afe"
+ }
+}

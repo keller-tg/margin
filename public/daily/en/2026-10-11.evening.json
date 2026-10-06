@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-11-evening",
+ "date": "2026-10-11",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Oak",
+  "qid": "Q12004",
+  "pageid": 39696,
+  "revid": 1378813628,
+  "domain": "plants",
+  "teaser": "Tree or shrub in the genus Quercus"
+ },
+ "sources": [
+  {
+   "title": "Oak",
+   "url": "https://en.wikipedia.org/w/index.php?title=Oak&oldid=1378813628",
+   "revid": 1378813628,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Quercus robur.jpg",
+   "w": 701,
+   "h": 948,
+   "alt": "Oak",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/af/Quercus_robur.jpg",
+   "sha1": "1cb9354c5cb6e0c7af5627d41e07c80615fc7579",
+   "credit": {
+    "author": "FoeNyx",
+    "authorSource": "uploader",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Oak",
+    "line": "Tree or shrub in the genus Quercus",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Fossil oaks date back to the Middle Eocene."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Oak",
+    "line": "Tree or shrub in the genus Quercus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "An oak is a hardwood tree or shrub in the genus Quercus of the beech family."
+   },
+   {
+    "type": "closing",
+    "text": "Individual oak trees of cultural significance include the Royal Oak in Britain, the Charter Oak in the United States."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Oak",
+    "line": "Tree or shrub in the genus Quercus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "An oak is a hardwood tree or shrub in the genus Quercus of the beech family."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Oak"
+   },
+   {
+    "type": "closing",
+    "text": "Individual oak trees of cultural significance include the Royal Oak in Britain, the Charter Oak in the United States, and the Guernica Oak in the Basque Country."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "09290f8a3923f8.0b8939035fcad1"
+ }
+}

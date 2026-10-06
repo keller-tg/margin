@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-07-morning",
+ "date": "2026-10-07",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Archaeopteryx",
+  "qid": "Q100196",
+  "pageid": 2995,
+  "revid": 1378563677,
+  "domain": "animals",
+  "teaser": "Extinct genus of bird-like dinosaurs"
+ },
+ "sources": [
+  {
+   "title": "Archaeopteryx",
+   "url": "https://en.wikipedia.org/w/index.php?title=Archaeopteryx&oldid=1378563677",
+   "revid": 1378563677,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Archaeopteryx lithographica (Berlin specimen).jpg",
+   "w": 1888,
+   "h": 2552,
+   "alt": "Archaeopteryx",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg/960px-Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg",
+   "sha1": "2721791999014cad0ee5c82621f4a0cc64a0274f",
+   "credit": {
+    "author": "H. Raab (User: Vesta)",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Archaeopteryx_lithographica_(Berlin_specimen).jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 50,
+   "unit": "cm",
+   "surface": "50 cm"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1877",
+   "surface": "1877"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1884",
+   "surface": "1884"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1956",
+   "surface": "1956"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1855",
+   "surface": "1855"
+  },
+  "f67": {
+   "kind": "number",
+   "value": 10000,
+   "surface": "10,000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Archaeopteryx",
+    "line": "Extinct genus of bird-like dinosaurs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The genus name derives from the Ancient Greek ἀρχαῖος, meaning 'ancient'."
+   },
+   {
+    "type": "sentence",
+    "text": "Older potential avialans have since been identified, including Anchiornis, Xiaotingia, Aurornis, and Baminornis."
+   },
+   {
+    "type": "closing",
+    "text": "Archaeopteryx was long considered to be the beginning of the evolutionary tree of birds."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Archaeopteryx",
+    "line": "Extinct genus of bird-like dinosaurs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The genus name derives from the Ancient Greek ἀρχαῖος, meaning 'ancient', and πτέρυξ, meaning 'feather, wing'."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaeopteryx"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f67",
+    "display": "10,000",
+    "caption": "A thirteenth specimen, SMNK-PAL 10,000, was published in January 2025, this one from the Mörnsheim Formation."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f32",
+      "label": "The Haarlem Specimen was discovered in 1855 near Riedenburg, Germany."
+     },
+     {
+      "fact": "f21",
+      "label": "Placed on sale between 1877 and 1881."
+     },
+     {
+      "fact": "f24",
+      "label": "Described in 1884 by Wilhelm Dames, it is the most complete specimen."
+     },
+     {
+      "fact": "f26",
+      "label": "Consisting of a torso, the Maxberg Specimen was discovered in 1956 near Langenaltheim."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Between the late 19th century and the early 21st century, Archaeopteryx was generally accepted by palaeontologists and popular reference books as the oldest known bird."
+   },
+   {
+    "type": "closing",
+    "text": "Archaeopteryx was long considered to be the beginning of the evolutionary tree of birds."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Archaeopteryx",
+    "line": "Extinct genus of bird-like dinosaurs",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The genus name derives from the Ancient Greek ἀρχαῖος, meaning 'ancient', and πτέρυξ, meaning 'feather, wing'."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Archaeopteryx"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "50 cm",
+    "caption": "Similar in size to a Eurasian magpie, with the largest individuals possibly attaining the size of a raven, the largest species of Archaeopteryx could grow to about 50 cm in length."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f32",
+      "label": "The Haarlem Specimen was discovered in 1855 near Riedenburg, Germany."
+     },
+     {
+      "fact": "f21",
+      "label": "Placed on sale between 1877 and 1881."
+     },
+     {
+      "fact": "f24",
+      "label": "Described in 1884 by Wilhelm Dames, it is the most complete specimen."
+     },
+     {
+      "fact": "f26",
+      "label": "Consisting of a torso, the Maxberg Specimen was discovered in 1956 near Langenaltheim."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Over the years, fourteen body fossil specimens of Archaeopteryx have been found."
+   },
+   {
+    "type": "sentence",
+    "text": "All of the fossils come from the limestone deposits, quarried for centuries, near Solnhofen, Germany."
+   },
+   {
+    "type": "sentence",
+    "text": "The initial specimen was the first dinosaur to be discovered with feathers."
+   },
+   {
+    "type": "sentence",
+    "text": "The initial discovery, a single feather, was unearthed in 1860 or 1861 and described in 1861 by Hermann von Meyer."
+   },
+   {
+    "type": "sentence",
+    "text": "The first skeleton, known as the London Specimen, was unearthed in 1861 near Langenaltheim, Germany, and perhaps given to local physician Karl Häberlein in return for medical services."
+   },
+   {
+    "type": "sentence",
+    "text": "Most of the specimens of Archaeopteryx that have been discovered come from the Solnhofen limestone in Bavaria, southern Germany."
+   },
+   {
+    "type": "closing",
+    "text": "However, in recent years, the discovery of several small, feathered dinosaurs has created a mystery for palaeontologists, raising questions about which animals are the ancestors of modern birds and which are their relatives."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "104ab236c862df.1ca0255e6815af"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-17-evening",
+ "date": "2026-10-17",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Tuba",
+  "qid": "Q131168",
+  "pageid": 14339,
+  "revid": 270752036,
+  "domain": "instruments",
+  "teaser": "Blechblasinstrument"
+ },
+ "sources": [
+  {
+   "title": "Tuba",
+   "url": "https://de.wikipedia.org/w/index.php?title=Tuba&oldid=270752036",
+   "revid": 270752036,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Yamaha Bass tuba YFB-822.tif",
+   "w": 873,
+   "h": 1417,
+   "alt": "Tuba",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Yamaha_Bass_tuba_YFB-822.tif/lossy-page1-500px-Yamaha_Bass_tuba_YFB-822.tif.jpg",
+   "sha1": "fddd59fc37f6b8e3eda0a5f2889d575460f84e73",
+   "credit": {
+    "author": "Yamaha Corporation",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Yamaha_Bass_tuba_YFB-822.tif",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Tuba",
+    "line": "Blechblasinstrument",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Die Tuba wurde zum Instrument des Jahres 2024 gekürt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Tuba",
+    "line": "Blechblasinstrument",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Tuba ist das tiefste aller Blechblasinstrumente."
+   },
+   {
+    "type": "closing",
+    "text": "Die Tuba wurde zum Instrument des Jahres 2024 gekürt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Tuba",
+    "line": "Blechblasinstrument",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Tuba ist das tiefste aller Blechblasinstrumente."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Tuba"
+   },
+   {
+    "type": "closing",
+    "text": "Die Tuba wurde zum Instrument des Jahres 2024 gekürt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "10b1b5576b9784.0af58b18987ea7"
+ }
+}

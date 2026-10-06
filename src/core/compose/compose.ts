@@ -161,6 +161,10 @@ function composePace(p: Packet, pace: PaceId, cands: Cand[], notes: string[], mi
     if (body.length === before) break;
   }
 
+  // plan §2: if nothing fits, use a non-text page (the image) instead of a weak sentence
+  if (body.length < bodyMin && img && allows('image') && !body.some((pg) => pg.type === 'image')) {
+    body.push({ type: 'image', image: img, caption: p.topic.title });
+  }
   const close = closing(ctx, cands, body.length === 0);
   if (!close) return null;
   const pages = [title, ...body, close];

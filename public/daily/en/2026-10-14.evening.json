@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-14-evening",
+ "date": "2026-10-14",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Rigel",
+  "qid": "Q12126",
+  "pageid": 26463,
+  "revid": 1374810813,
+  "domain": "astronomy",
+  "teaser": "Brightest star in the constellation Orion"
+ },
+ "sources": [
+  {
+   "title": "Rigel",
+   "url": "https://en.wikipedia.org/w/index.php?title=Rigel&oldid=1374810813",
+   "revid": 1374810813,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:1e10m comparison Rigel, Aldebaran, and smaller - antialiased no transparency.png",
+   "w": 1024,
+   "h": 768,
+   "alt": "Rigel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/1e10m_comparison_Rigel%2C_Aldebaran%2C_and_smaller_-_antialiased_no_transparency.png/960px-1e10m_comparison_Rigel%2C_Aldebaran%2C_and_smaller_-_antialiased_no_transparency.png",
+   "sha1": "fee49ef454ab9758fb20b42595744a95cf15b5b8",
+   "credit": {
+    "author": "Paul Stansifer, and User:84user (see \"source\")",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:1e10m_comparison_Rigel,_Aldebaran,_and_smaller_-_antialiased_no_transparency.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Rigel",
+    "line": "Brightest star in the constellation Orion",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Rigel is the brightest and most massive component – and the eponym."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Rigel",
+    "line": "Brightest star in the constellation Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel is a blue supergiant star in the equatorial constellation of Orion."
+   },
+   {
+    "type": "closing",
+    "text": "A much fainter star, separated from Rigel and the others by nearly an arc minute, may be part of the same star system."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Rigel",
+    "line": "Brightest star in the constellation Orion",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rigel is a blue supergiant star in the equatorial constellation of Orion."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rigel"
+   },
+   {
+    "type": "closing",
+    "text": "A much fainter star, separated from Rigel and the others by nearly an arc minute, may be part of the same star system."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "073d63874fee15.147148be563808"
+ }
+}

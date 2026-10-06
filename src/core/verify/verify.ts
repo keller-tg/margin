@@ -101,7 +101,7 @@ function inflections(word: string, lang: Lang): string[] {
 const STOPWORDS: Record<Lang, string[]> = {
   en: ['the', 'and', 'of', 'to', 'is', 'was', 'are', 'were', 'it', 'that', 'with', 'for', 'as', 'by', 'from', 'this', 'which', 'its', 'has', 'have', 'be', 'or', 'at', 'an', 'can', 'into', 'their', 'than', 'they', 'about', 'he', 'she', 'his', 'had', 'been', 'would', 'not', 'there', 'when', 'after'],
   de: ['der', 'die', 'das', 'und', 'ist', 'war', 'sind', 'den', 'dem', 'des', 'ein', 'eine', 'einer', 'mit', 'von', 'zu', 'auf', 'für', 'sich', 'nicht', 'auch', 'als', 'wird', 'wurde', 'bei', 'nach', 'aus', 'oder', 'im', 'zum', 'zur', 'vom', 'einem', 'eines', 'werden', 'hat', 'hatte', 'wurden', 'seine', 'sie'],
-  fr: ['le', 'la', 'les', 'et', 'est', 'des', 'du', 'une', 'un', 'dans', 'pour', 'par', 'sur', 'qui', 'que', 'au', 'aux', 'il', 'elle', 'sont', 'était', 'avec', 'ce', 'cette', 'se', 'son', 'sa', 'ses', 'plus', 'pas', 'de', 'l', 'd', 'en', 'ont', 'été', 'à', 'où', 'leur', 'nous'],
+  fr: ['le', 'la', 'les', 'et', 'est', 'des', 'du', 'une', 'un', 'dans', 'pour', 'par', 'sur', 'qui', 'que', 'au', 'aux', 'il', 'elle', 'sont', 'était', 'avec', 'ce', 'cette', 'se', 'son', 'sa', 'ses', 'plus', 'pas', 'de', 'en', 'ont', 'été', 'à', 'où', 'leur', 'nous'],
 };
 
 function stopwordCounts(text: string): Record<Lang, number> {
@@ -230,8 +230,9 @@ export function verifyThing(thing: Thing, packet: Packet, ctx: VerifyContext): I
         if (words >= 6) {
           const c = stopwordCounts(text);
           const others = (['en', 'de', 'fr'] as Lang[]).filter((l) => l !== lang).map((l) => c[l]);
-          // fails only on evidence: another language's stopwords outnumber this one's (all-zero is inconclusive)
-          if (c[lang] < Math.max(...others)) fail('language', w, `does not read as ${lang} (${JSON.stringify(c)})`);
+          // fails only on clear evidence: another language's stopwords outnumber this one's by 2 or more
+          // (all-zero is inconclusive; a quoted foreign title like "On the Origin of Species" is not enough)
+          if (Math.max(...others) >= c[lang] + 2) fail('language', w, `does not read as ${lang} (${JSON.stringify(c)})`);
         }
         if (lang === 'fr' && /[^\u00a0\u202f]([;:!?»])/.test(text.replace(/https?:\S+/g, '')) && !/\d:\d/.test(text)) {
           const m = text.match(/(.)([;:!?»])/);

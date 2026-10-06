@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-25-morning",
+ "date": "2026-10-25",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Sea",
+  "qid": "Q165",
+  "pageid": 18842323,
+  "revid": 1378038170,
+  "domain": "earth",
+  "teaser": "Large body of salt water"
+ },
+ "sources": [
+  {
+   "title": "Sea",
+   "url": "https://en.wikipedia.org/w/index.php?title=Sea&oldid=1378038170",
+   "revid": 1378038170,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mediterranean Sea 16.61811E 38.99124N.jpg",
+   "w": 2046,
+   "h": 1496,
+   "alt": "Sea",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/960px-Mediterranean_Sea_16.61811E_38.99124N.jpg",
+   "sha1": "dde20fde1c41fda0dad8168d18688835fd9e19b5",
+   "credit": {
+    "author": "of the modification : Eric Gaba (Sting)",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f3": {
+   "kind": "measure",
+   "value": 97.2,
+   "unit": "percent",
+   "surface": "97.2 percent"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 1.8,
+   "unit": "°c",
+   "surface": "1.8 °C"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sea",
+    "line": "Large body of salt water",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "A sea is a very large body of salty water."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "1.8 °C",
+    "caption": "Seawater with a typical salinity of 35 ‰ has a freezing point of about −1.8 °C."
+   },
+   {
+    "type": "closing",
+    "text": "Many of these activities create marine pollution."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sea",
+    "line": "Large body of salt water",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "A sea is a very large body of salty water."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sea"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "97.2 percent",
+    "caption": "Earth’s 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface."
+   },
+   {
+    "type": "sentence",
+    "text": "The term has two distinct meanings."
+   },
+   {
+    "type": "sentence",
+    "text": "The first is the interconnected body of seawater that spans most of Earth, known as the sea or the ocean."
+   },
+   {
+    "type": "closing",
+    "text": "Many of these activities create marine pollution."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sea",
+    "line": "Large body of salt water",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "A sea is a very large body of salty water."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sea"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f3",
+    "display": "97.2 percent",
+    "caption": "Earth’s 1,335,000,000 cubic kilometers of sea contain about 97.2 percent of its known water and covers approximately 71 percent of its surface."
+   },
+   {
+    "type": "sentence",
+    "text": "The term has two distinct meanings."
+   },
+   {
+    "type": "sentence",
+    "text": "The sea is the interconnected system of all the Earth’s oceanic waters, including the Atlantic, Pacific, Indian, Southern and Arctic Oceans."
+   },
+   {
+    "type": "sentence",
+    "text": "An exception to this is the Sargasso Sea which has no coastline and lies within a circular current, the North Atlantic Gyre."
+   },
+   {
+    "type": "sentence",
+    "text": "However, the word “sea” can also be used for many specific, much smaller bodies of seawater, such as the North Sea or the Red Sea."
+   },
+   {
+    "type": "sentence",
+    "text": "Seas are generally larger than lakes and contain salt water, but the Sea of Galilee is a freshwater lake."
+   },
+   {
+    "type": "sentence",
+    "text": "Earth is the only known planet with seas of liquid water on its surface, although Mars possesses ice caps and similar planets in other solar systems may have oceans."
+   },
+   {
+    "type": "sentence",
+    "text": "Another 2.15% of Earth’s water is frozen, found in the sea ice covering the Arctic Ocean, the ice cap covering Antarctica and its adjacent seas, and various glaciers and surface deposits around the world."
+   },
+   {
+    "type": "closing",
+    "text": "Many of these activities create marine pollution."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "1bd5b52dea82bb.13031b23a0d03e"
+ }
+}

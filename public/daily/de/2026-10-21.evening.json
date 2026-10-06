@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-21-evening",
+ "date": "2026-10-21",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Schwertwal",
+  "qid": "Q26843",
+  "pageid": 90507,
+  "revid": 269035008,
+  "domain": "animals",
+  "teaser": "Art der Wale aus der Familie der Delfine und der Gattung Orcinus"
+ },
+ "sources": [
+  {
+   "title": "Schwertwal",
+   "url": "https://de.wikipedia.org/w/index.php?title=Schwertwal&oldid=269035008",
+   "revid": 269035008,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Killerwhales jumping.jpg",
+   "w": 2186,
+   "h": 1453,
+   "alt": "Schwertwal",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/960px-Killerwhales_jumping.jpg",
+   "sha1": "ae8a877f30ca73eeba7339a89ffd1e9ba5c39e0f",
+   "credit": {
+    "author": "Robert Pittman",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Schwertwal",
+    "line": "Art der Wale aus der Familie der Delfine und der Gattung Orcinus",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Schwertwale sind soziale Tiere mit einer komplexen Populationsstruktur."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Schwertwal",
+    "line": "Art der Wale aus der Familie der Delfine und der Gattung Orcinus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Schwertwal, auch Orca, Killerwal, Mörderwal oder veraltet Butzkopf genannt, ist die grösste heute vorkommende Art der Delfine."
+   },
+   {
+    "type": "closing",
+    "text": "Die Bedeutung des Schwertwals für die Kultur von Menschen reicht von der traditionellen Verehrung durch nordamerikanische Ureinwohner bis hin zur heutigen, umstrittenen Haltung in Delfinarien."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Schwertwal",
+    "line": "Art der Wale aus der Familie der Delfine und der Gattung Orcinus",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Schwertwal, auch Orca, Killerwal, Mörderwal oder veraltet Butzkopf genannt, ist die grösste heute vorkommende Art der Delfine."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Schwertwal"
+   },
+   {
+    "type": "closing",
+    "text": "Die Bedeutung des Schwertwals für die Kultur von Menschen reicht von der traditionellen Verehrung durch nordamerikanische Ureinwohner bis hin zur heutigen, umstrittenen Haltung in Delfinarien."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "07b7fa33111eda.126e36b4c36fa7"
+ }
+}

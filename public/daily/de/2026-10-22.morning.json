@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-22-morning",
+ "date": "2026-10-22",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Bakterien",
+  "qid": "Q10876",
+  "pageid": 8207,
+  "revid": 269782269,
+  "domain": "biology",
+  "teaser": "Reich bzw. Domäne der Lebewesen"
+ },
+ "sources": [
+  {
+   "title": "Bakterien",
+   "url": "https://de.wikipedia.org/w/index.php?title=Bakterien&oldid=269782269",
+   "revid": 269782269,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:E. coli Bacteria (7316101966).jpg",
+   "w": 2100,
+   "h": 1766,
+   "alt": "Bakterien",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/E._coli_Bacteria_%287316101966%29.jpg/960px-E._coli_Bacteria_%287316101966%29.jpg",
+   "sha1": "56456ea738d0e0a8788b609672fc2b7cd5699456",
+   "credit": {
+    "author": "NIAID",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_(7316101966).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "date",
+   "value": "1873",
+   "surface": "1873"
+  },
+  "f7": {
+   "kind": "date",
+   "value": "1876",
+   "surface": "1876"
+  },
+  "f8": {
+   "kind": "date",
+   "value": "1887",
+   "surface": "1887"
+  },
+  "f18": {
+   "kind": "measure",
+   "value": 700,
+   "unit": "µm",
+   "surface": "700 µm"
+  },
+  "f25": {
+   "kind": "measure",
+   "value": 1,
+   "unit": "µm",
+   "surface": "1 µm"
+  },
+  "f69": {
+   "kind": "date",
+   "value": "2025",
+   "surface": "2025"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Bakterien",
+    "line": "Reich bzw. Domäne der Lebewesen",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Wissenschaft und Lehre von den Bakterien ist die Bakteriologie."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "1 µm",
+    "caption": "Das Volumen der meisten Bakterien liegt in der Grössenordnung von 1 µm³."
+   },
+   {
+    "type": "closing",
+    "text": "Bakterien sind wie die Archaeen Prokaryoten."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Bakterien",
+    "line": "Reich bzw. Domäne der Lebewesen",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Bakterien, umgangssprachlich auch Bazillen, bilden neben den Eukaryoten und Archaeen eine der drei grundlegenden Domänen, in die alle Lebewesen eingeteilt werden."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bakterien"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f25",
+    "display": "1 µm",
+    "caption": "Das Volumen der meisten Bakterien liegt in der Grössenordnung von 1 µm³."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f4",
+      "label": "1873 beschrieb Edwin Klebs Bazillen auf diphtherischen Belägen."
+     },
+     {
+      "fact": "f7",
+      "label": "Eine klare Trennung der verschiedenen Bakterienarten auf Nährboden gelang 1876 Ferdinand Julius Cohn."
+     },
+     {
+      "fact": "f8",
+      "label": "Wundinfektionen führte Robert Koch 1887 auf ganz bestimmte Bakterien zurück."
+     },
+     {
+      "fact": "f69",
+      "label": "Mit Stand 17. Oktober 2025 ist gemäss LPSN: Domäne Bacteria Woese et al."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Wissenschaft und Lehre von den Bakterien ist die Bakteriologie."
+   },
+   {
+    "type": "closing",
+    "text": "Bakterien sind wie die Archaeen Prokaryoten."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Bakterien",
+    "line": "Reich bzw. Domäne der Lebewesen",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Bakterien, umgangssprachlich auch Bazillen, bilden neben den Eukaryoten und Archaeen eine der drei grundlegenden Domänen, in die alle Lebewesen eingeteilt werden."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Bakterien"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f18",
+    "display": "700 µm",
+    "caption": "Die Grösse von Bakterien ist sehr unterschiedlich: Ihr Durchmesser liegt zwischen etwa 0,1 und 700 µm, bei den meisten bekannten Arten beträgt er etwa 0,6 bis 1,0 µm."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f4",
+      "label": "1873 beschrieb Edwin Klebs Bazillen auf diphtherischen Belägen."
+     },
+     {
+      "fact": "f7",
+      "label": "Eine klare Trennung der verschiedenen Bakterienarten auf Nährboden gelang 1876 Ferdinand Julius Cohn."
+     },
+     {
+      "fact": "f8",
+      "label": "Wundinfektionen führte Robert Koch 1887 auf ganz bestimmte Bakterien zurück."
+     },
+     {
+      "fact": "f69",
+      "label": "Mit Stand 17. Oktober 2025 ist gemäss LPSN: Domäne Bacteria Woese et al."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Bakterien wurden belegbar erstmals von Antoni van Leeuwenhoek mit Hilfe eines selbstgebauten Mikroskops in Gewässern und im menschlichen Speichel beobachtet und 1676 von ihm in Berichten an die Royal Society of London beschrieben."
+   },
+   {
+    "type": "sentence",
+    "text": "Im Jahr 1849 sah Alois Pollender erstmals Milzbrandstäbchen im Blut von an Milzbrand erkrankten Tieren."
+   },
+   {
+    "type": "sentence",
+    "text": "Besonders klein sind Mycoplasmen und Ca. Velamenicoccus archaeovorus."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Volumen der meisten Bakterien liegt in der Grössenordnung von 1 µm³."
+   },
+   {
+    "type": "sentence",
+    "text": "Das grösste bisher bekannte Bakterium ist Ca. Thiomargarita magnifica, daneben seine Schwesterart T. namibiensis, beide sind mit blossem Auge zu sehen."
+   },
+   {
+    "type": "sentence",
+    "text": "Ein Mensch besteht aus etwa 10 Billionen Zellen, die aus der befruchteten Eizelle hervorgegangen sind."
+   },
+   {
+    "type": "closing",
+    "text": "Die Wissenschaft und Lehre von den Bakterien ist die Bakteriologie."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0f49ccf86355a8.11e5c2ded3e7f2"
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-10-morning",
+ "date": "2026-10-10",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Hector Berlioz",
+  "qid": "Q1151",
+  "pageid": 53424,
+  "revid": 1378120952,
+  "domain": "people-arts",
+  "teaser": "French Romantic composer and conductor"
+ },
+ "sources": [
+  {
+   "title": "Hector Berlioz",
+   "url": "https://en.wikipedia.org/w/index.php?title=Hector_Berlioz&oldid=1378120952",
+   "revid": 1378120952,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Hector-Berlioz-1845.png",
+   "w": 674,
+   "h": 914,
+   "alt": "Hector Berlioz",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hector-Berlioz-1845.png",
+   "sha1": "2ca3a9440494625afe8283a139257ed562cc03d4",
+   "credit": {
+    "author": "w:August Prinzhofer (1816–1885)",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Hector-Berlioz-1845.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f14": {
+   "kind": "date",
+   "value": "1821",
+   "surface": "1821"
+  },
+  "f18": {
+   "kind": "date",
+   "value": "1824",
+   "surface": "1824"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1830",
+   "surface": "1830"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1832",
+   "surface": "1832"
+  },
+  "f83": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "years",
+   "surface": "30 years"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Hector Berlioz",
+    "line": "French Romantic composer and conductor",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Louis-Hector Berlioz was a French Romantic composer, conductor and critic."
+   },
+   {
+    "type": "sentence",
+    "text": "Berlioz completed three operas, the first of which, Benvenuto Cellini, was an outright failure."
+   },
+   {
+    "type": "closing",
+    "text": "Berlioz died in Paris at the age of 65."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Hector Berlioz",
+    "line": "French Romantic composer and conductor",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Louis-Hector Berlioz was a French Romantic composer, conductor and critic."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hector Berlioz"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f83",
+    "display": "30 years",
+    "caption": "Berlioz did not seek a revival of Les Troyens and none took place for nearly 30 years."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f14",
+      "label": "In March 1821 Berlioz passed the baccalauréat examination at the University of Grenoble."
+     },
+     {
+      "fact": "f18",
+      "label": "In 1824 Berlioz composed a Messe solennelle."
+     },
+     {
+      "fact": "f26",
+      "label": "Berlioz was largely apolitical, and neither supported nor opposed the July Revolution of 1830."
+     },
+     {
+      "fact": "f30",
+      "label": "On 9 December 1832 Berlioz presented a concert of his works at the Conservatoire."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The elder son of a provincial physician, Berlioz was expected to follow his father into medicine."
+   },
+   {
+    "type": "closing",
+    "text": "Berlioz died in Paris at the age of 65."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Hector Berlioz",
+    "line": "French Romantic composer and conductor",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Louis-Hector Berlioz was a French Romantic composer, conductor and critic."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Hector Berlioz"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f83",
+    "display": "30 years",
+    "caption": "Berlioz did not seek a revival of Les Troyens and none took place for nearly 30 years."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f14",
+      "label": "In March 1821 Berlioz passed the baccalauréat examination at the University of Grenoble."
+     },
+     {
+      "fact": "f18",
+      "label": "In 1824 Berlioz composed a Messe solennelle."
+     },
+     {
+      "fact": "f26",
+      "label": "Berlioz was largely apolitical, and neither supported nor opposed the July Revolution of 1830."
+     },
+     {
+      "fact": "f30",
+      "label": "On 9 December 1832 Berlioz presented a concert of his works at the Conservatoire."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Berlioz was born on 11 December 1803, the eldest child of Louis Berlioz, a physician, and his wife, Marie-Antoinette Joséphine, née Marmion."
+   },
+   {
+    "type": "sentence",
+    "text": "Berlioz’s father, a respected local figure, was a progressively minded doctor credited as the first European to practise and write about acupuncture."
+   },
+   {
+    "type": "sentence",
+    "text": "After briefly attending a local school when he was about ten, Berlioz was educated at home by his father."
+   },
+   {
+    "type": "sentence",
+    "text": "Music did not feature prominently in the young Berlioz’s education."
+   },
+   {
+    "type": "sentence",
+    "text": "At the age of twelve Berlioz fell in love for the first time."
+   },
+   {
+    "type": "sentence",
+    "text": "The horrors of the medical college were mitigated thanks to an ample allowance from his father, which enabled him to take full advantage of the cultural, and particularly musical, life of Paris."
+   },
+   {
+    "type": "closing",
+    "text": "Berlioz died in Paris at the age of 65."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "00a55bfcc12894.1ea7d47ecb17dc"
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-28-morning",
+ "date": "2026-10-28",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Alfred Russel Wallace",
+  "qid": "Q160627",
+  "pageid": 1494,
+  "revid": 1378558854,
+  "domain": "people-science",
+  "teaser": "English naturalist"
+ },
+ "sources": [
+  {
+   "title": "Alfred Russel Wallace",
+   "url": "https://en.wikipedia.org/w/index.php?title=Alfred_Russel_Wallace&oldid=1378558854",
+   "revid": 1378558854,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Alfred-Russel-Wallace-c1895.jpg",
+   "w": 2293,
+   "h": 3355,
+   "alt": "Alfred Russel Wallace",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Alfred-Russel-Wallace-c1895.jpg/960px-Alfred-Russel-Wallace-c1895.jpg",
+   "sha1": "f40a4cd2b16e2856c3276c0720705527b6bc731b",
+   "credit": {
+    "author": "London Stereoscopic and Photographic Company (active 1855-1922)",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Alfred-Russel-Wallace-c1895.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f11": {
+   "kind": "date",
+   "value": "1823",
+   "surface": "1823"
+  },
+  "f20": {
+   "kind": "date",
+   "value": "1843",
+   "surface": "1843"
+  },
+  "f22": {
+   "kind": "measure",
+   "value": 19,
+   "unit": "years",
+   "surface": "19 years"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1848",
+   "surface": "1848"
+  },
+  "f37": {
+   "kind": "date",
+   "value": "1852",
+   "surface": "1852"
+  },
+  "f41": {
+   "kind": "number",
+   "value": 200,
+   "surface": "200"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Alfred Russel Wallace",
+    "line": "English naturalist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alfred Russel Wallace was an English naturalist, explorer, geographer, anthropologist and illustrator."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f41",
+    "display": "200",
+    "caption": "The lost collection had been insured for £200 by Stevens."
+   },
+   {
+    "type": "closing",
+    "text": "Wallace did extensive fieldwork, starting in the Amazon River basin."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Alfred Russel Wallace",
+    "line": "English naturalist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alfred Russel Wallace was an English naturalist, explorer, geographer, anthropologist and illustrator."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Alfred Russel Wallace"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f22",
+    "display": "19 years",
+    "caption": "One evening Wallace met the entomologist Henry Walter Bates, who was 19 years old, and had published an 1843 paper on beetles in The Zoologist."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Alfred Russel Wallace was born on 8 January 1823 in Llanbadoc, Monmouthshire."
+     },
+     {
+      "fact": "f20",
+      "label": "In 1843 Wallace’s father died."
+     },
+     {
+      "fact": "f32",
+      "label": "In 1848, Wallace and Bates left for Brazil aboard the Mischief."
+     },
+     {
+      "fact": "f37",
+      "label": "On 12 July 1852, Wallace embarked for the UK on the brig Helen."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace did extensive fieldwork, starting in the Amazon River basin."
+   },
+   {
+    "type": "closing",
+    "text": "Wallace’s 1904 book Man’s Place in the Universe was the first serious attempt by a biologist to evaluate the likelihood of life on other planets."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Alfred Russel Wallace",
+    "line": "English naturalist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Alfred Russel Wallace was an English naturalist, explorer, geographer, anthropologist and illustrator."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Alfred Russel Wallace"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f22",
+    "display": "19 years",
+    "caption": "One evening Wallace met the entomologist Henry Walter Bates, who was 19 years old, and had published an 1843 paper on beetles in The Zoologist."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f11",
+      "label": "Alfred Russel Wallace was born on 8 January 1823 in Llanbadoc, Monmouthshire."
+     },
+     {
+      "fact": "f20",
+      "label": "In 1843 Wallace’s father died."
+     },
+     {
+      "fact": "f32",
+      "label": "In 1848, Wallace and Bates left for Brazil aboard the Mischief."
+     },
+     {
+      "fact": "f37",
+      "label": "On 12 July 1852, Wallace embarked for the UK on the brig Helen."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace’s father graduated in law but never practised it."
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace’s mother was from a middle-class family of Hertford, whereto his family moved when Wallace was five years old."
+   },
+   {
+    "type": "sentence",
+    "text": "Wallace then moved to London to board with his older brother John, a 19-year-old apprentice builder."
+   },
+   {
+    "type": "sentence",
+    "text": "While in London, Alfred attended lectures and read books at the London Mechanics Institute."
+   },
+   {
+    "type": "sentence",
+    "text": "Then at the end of 1839, they moved to Kington, Herefordshire, near the Welsh border, before eventually settling at Neath in Wales."
+   },
+   {
+    "type": "sentence",
+    "text": "Between 1840 and 1843, Wallace worked as a land surveyor in the countryside of the west of England and Wales."
+   },
+   {
+    "type": "closing",
+    "text": "Wallace’s 1904 book Man’s Place in the Universe was the first serious attempt by a biologist to evaluate the likelihood of life on other planets."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0432528c05f58e.19a3840f7975f4"
+ }
+}

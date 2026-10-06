@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-29-evening",
+ "date": "2026-10-29",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Asteroid belt",
+  "qid": "Q2179",
+  "pageid": 47264,
+  "revid": 1373195997,
+  "domain": "astronomy",
+  "teaser": "Region between the orbits of Mars and Jupiter"
+ },
+ "sources": [
+  {
+   "title": "Asteroid belt",
+   "url": "https://en.wikipedia.org/w/index.php?title=Asteroid_belt&oldid=1373195997",
+   "revid": 1373195997,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Asteroid belt positions-en.png",
+   "w": 10500,
+   "h": 15285,
+   "alt": "Asteroid belt",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/960px-Asteroid_belt_positions-en.png",
+   "sha1": "9deef0f4312c2c1c6898e3ae36fdc494b603f771",
+   "credit": {
+    "author": "Thunkii",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Asteroid_belt_positions-en.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Asteroid belt",
+    "line": "Region between the orbits of Mars and Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "The asteroid belt is the innermost and smallest circumstellar disc in the Solar System."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Asteroid belt",
+    "line": "Region between the orbits of Mars and Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The identified objects are of many sizes, but much smaller than planets, and, on average, are about one million kilometers apart."
+   },
+   {
+    "type": "closing",
+    "text": "At these orbital distances, a Kirkwood gap occurs as they are swept into other orbits."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Asteroid belt",
+    "line": "Region between the orbits of Mars and Jupiter",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Asteroid belt"
+   },
+   {
+    "type": "closing",
+    "text": "At these orbital distances, a Kirkwood gap occurs as they are swept into other orbits."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "199eb74994bff3.0ab85dfff196cb"
+ }
+}

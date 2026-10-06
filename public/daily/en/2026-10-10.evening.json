@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-10-evening",
+ "date": "2026-10-10",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Sugar",
+  "qid": "Q11002",
+  "pageid": 27712,
+  "revid": 1378815242,
+  "domain": "food",
+  "teaser": "Sweet-tasting, water-soluble carbohydrates"
+ },
+ "sources": [
+  {
+   "title": "Sugar",
+   "url": "https://en.wikipedia.org/w/index.php?title=Sugar&oldid=1378815242",
+   "revid": 1378815242,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Sucre blanc cassonade complet rapadura.jpg",
+   "w": 1149,
+   "h": 1068,
+   "alt": "Sugar",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Sucre_blanc_cassonade_complet_rapadura.jpg/960px-Sucre_blanc_cassonade_complet_rapadura.jpg",
+   "sha1": "badaa88dc824487ec7f8d8dc75efaaa43b7a9b70",
+   "credit": {
+    "author": "Romain Behar",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Sucre_blanc_cassonade_complet_rapadura.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Sugar",
+    "line": "Sweet-tasting, water-soluble carbohydrates",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Simple sugars, also called monosaccharides, include glucose, fructose and galactose."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Sugar",
+    "line": "Sweet-tasting, water-soluble carbohydrates",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Sugar is a class of sweet-tasting, soluble carbohydrates, many of which are used in food."
+   },
+   {
+    "type": "closing",
+    "text": "The use of added sugar in food and beverage manufacturing is a concern for elevated calorie intake."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Sugar",
+    "line": "Sweet-tasting, water-soluble carbohydrates",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Sugar is a class of sweet-tasting, soluble carbohydrates, many of which are used in food."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Sugar"
+   },
+   {
+    "type": "closing",
+    "text": "In 2015 the World Health Organization recommended that adults and children should reduce their intake of free sugars to less than 10% of their total energy intake, encouraging a reduction to below 5%."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "061d30c7b2e2b3.1f76ef888b9da6"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-02-evening",
+ "date": "2026-11-02",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Antimony",
+  "qid": "Q1099",
+  "pageid": 898,
+  "revid": 1375769793,
+  "domain": "chemistry",
+  "teaser": "Chemical element with atomic number 51"
+ },
+ "sources": [
+  {
+   "title": "Antimony",
+   "url": "https://en.wikipedia.org/w/index.php?title=Antimony&oldid=1375769793",
+   "revid": 1375769793,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Antimony-2.jpg",
+   "w": 1228,
+   "h": 1228,
+   "alt": "Antimony",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Antimony-2.jpg/960px-Antimony-2.jpg",
+   "sha1": "ad74eef169401f0140e9b676cab5413d8c9b080e",
+   "credit": {
+    "author": "Jurii",
+    "authorSource": "artist",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Antimony-2.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Antimony",
+    "line": "Chemical element with atomic number 51",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "China is the largest producer of antimony and its compounds."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Antimony",
+    "line": "Chemical element with atomic number 51",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Antimony is a chemical element with the symbol Sb and atomic number 51."
+   },
+   {
+    "type": "closing",
+    "text": "Antimony is used as a dopant in semiconductor devices."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Antimony",
+    "line": "Chemical element with atomic number 51",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Antimony is a chemical element with the symbol Sb and atomic number 51."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Antimony"
+   },
+   {
+    "type": "closing",
+    "text": "Antimony is used as a dopant in semiconductor devices."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1829749d48dadb.113f39865d48b7"
+ }
+}

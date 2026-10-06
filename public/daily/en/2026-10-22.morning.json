@@ -1,0 +1,212 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-22-morning",
+ "date": "2026-10-22",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Mary Wollstonecraft",
+  "qid": "Q101638",
+  "pageid": 19834,
+  "revid": 1375562955,
+  "domain": "people-other",
+  "teaser": "English writer and philosopher"
+ },
+ "sources": [
+  {
+   "title": "Mary Wollstonecraft",
+   "url": "https://en.wikipedia.org/w/index.php?title=Mary_Wollstonecraft&oldid=1375562955",
+   "revid": 1375562955,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mary Wollstonecraft Portrait.jpg",
+   "w": 1634,
+   "h": 1970,
+   "alt": "Mary Wollstonecraft",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/960px-Mary_Wollstonecraft_Portrait.jpg",
+   "sha1": "bdaee73fca6c6ea859ffd62273b12a58cabad00e",
+   "credit": {
+    "author": "John Opie",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_Portrait.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f10": {
+   "kind": "date",
+   "value": "1759",
+   "surface": "1759"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1784",
+   "surface": "1784"
+  },
+  "f24": {
+   "kind": "date",
+   "value": "1790",
+   "surface": "1790"
+  },
+  "f34": {
+   "kind": "date",
+   "value": "1792",
+   "surface": "1792"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Mary Wollstonecraft",
+    "line": "English writer and philosopher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Until the late twentieth century, Wollstonecraft’s life."
+   },
+   {
+    "type": "sentence",
+    "text": "Wollstonecraft is regarded as one of the founding feminist philosophers."
+   },
+   {
+    "type": "closing",
+    "text": "Wollstonecraft’s widower published a Memoir of her life, revealing her unorthodox lifestyle."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Mary Wollstonecraft",
+    "line": "English writer and philosopher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mary Wollstonecraft was an English writer and philosopher best known for her advocacy of women’s rights."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mary Wollstonecraft"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "Wollstonecraft was born on 27 April 1759 in Spitalfields, London."
+     },
+     {
+      "fact": "f11",
+      "label": "In a defining moment in 1784, she persuaded Eliza."
+     },
+     {
+      "fact": "f24",
+      "label": "Reflections on the Revolution in France was published on 1 November 1790."
+     },
+     {
+      "fact": "f34",
+      "label": "Wollstonecraft left for Paris in December 1792."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Until the late twentieth century, Wollstonecraft’s life, which encompassed several unconventional personal relationships, received more attention than her writing."
+   },
+   {
+    "type": "sentence",
+    "text": "Wollstonecraft is regarded as one of the founding feminist philosophers, and feminists often cite both her life and her works as important influences."
+   },
+   {
+    "type": "closing",
+    "text": "Wollstonecraft’s widower published a Memoir of her life, revealing her unorthodox lifestyle, which inadvertently destroyed her reputation for almost a century."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Mary Wollstonecraft",
+    "line": "English writer and philosopher",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Mary Wollstonecraft was an English writer and philosopher best known for her advocacy of women’s rights."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mary Wollstonecraft"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "Wollstonecraft was born on 27 April 1759 in Spitalfields, London."
+     },
+     {
+      "fact": "f11",
+      "label": "In a defining moment in 1784, she persuaded Eliza."
+     },
+     {
+      "fact": "f24",
+      "label": "Reflections on the Revolution in France was published on 1 November 1790."
+     },
+     {
+      "fact": "f34",
+      "label": "Wollstonecraft left for Paris in December 1792."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Until the late twentieth century, Wollstonecraft’s life, which encompassed several unconventional personal relationships, received more attention than her writing."
+   },
+   {
+    "type": "sentence",
+    "text": "Consequently, the family became financially unstable and they were frequently forced to move during Wollstonecraft’s youth."
+   },
+   {
+    "type": "sentence",
+    "text": "The family’s financial situation eventually became so dire that Wollstonecraft’s father compelled her to turn over money that she would have inherited at her maturity."
+   },
+   {
+    "type": "sentence",
+    "text": "As a teenager, Wollstonecraft used to lie outside the door of her mother’s bedroom to protect her."
+   },
+   {
+    "type": "sentence",
+    "text": "Wollstonecraft played a similar maternal role for her sisters, Everina and Eliza, throughout her life."
+   },
+   {
+    "type": "sentence",
+    "text": "The human costs, however, were severe: her sister suffered social condemnation and, because she could not remarry, was doomed to a life of poverty and hard work."
+   },
+   {
+    "type": "sentence",
+    "text": "Two friendships shaped Wollstonecraft’s early life."
+   },
+   {
+    "type": "closing",
+    "text": "However, with the emergence of the feminist movement at the turn of the twentieth century, Wollstonecraft’s advocacy of women’s equality and critiques of conventional femininity became increasingly important."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "19a51447a14131.15a61d013c5fd2"
+ }
+}

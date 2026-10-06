@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-23-morning",
+ "date": "2026-10-23",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Capella",
+  "qid": "Q12970",
+  "pageid": 1264072,
+  "revid": 1374633159,
+  "domain": "astronomy",
+  "teaser": "Brightest star in the constellation Auriga"
+ },
+ "sources": [
+  {
+   "title": "Capella",
+   "url": "https://en.wikipedia.org/w/index.php?title=Capella&oldid=1374633159",
+   "revid": 1374633159,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Capella-Sun comparison.png",
+   "w": 1900,
+   "h": 1121,
+   "alt": "Capella",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Capella-Sun_comparison.png/960px-Capella-Sun_comparison.png",
+   "sha1": "723ba8427b180fec3c8cf17bb303d6beaaa6da64",
+   "credit": {
+    "author": "Omnidoom 999",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Capella-Sun_comparison.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 42.9,
+   "unit": "light-years",
+   "surface": "42.9 light-years"
+  },
+  "f48": {
+   "kind": "date",
+   "value": "1974",
+   "surface": "1974"
+  },
+  "f75": {
+   "kind": "date",
+   "value": "723",
+   "surface": "723"
+  },
+  "f123": {
+   "kind": "date",
+   "value": "2015",
+   "surface": "2015"
+  },
+  "f130": {
+   "kind": "date",
+   "value": "1975",
+   "surface": "1975"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Capella",
+    "line": "Brightest star in the constellation Auriga",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Capella is the brightest star in the northern constellation of Auriga."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "42.9 light-years",
+    "caption": "Capella is relatively close, at 42.9 light-years."
+   },
+   {
+    "type": "closing",
+    "text": "Capella Ab is slightly smaller and hotter and of spectral class G0III."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Capella",
+    "line": "Brightest star in the constellation Auriga",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Capella is the brightest star in the northern constellation of Auriga."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Capella"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "42.9 light-years",
+    "caption": "Capella is relatively close, at 42.9 light-years."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f75",
+      "label": "The pair of giants is separated from the pair of red dwarfs by 723”."
+     },
+     {
+      "fact": "f48",
+      "label": "A major milestone in stellar X-ray astronomy happened on April 5, 1974."
+     },
+     {
+      "fact": "f130",
+      "label": "In 1975, an eccentric 388-year orbit gave masses of 0.65 M☉ and 0.13 M☉."
+     },
+     {
+      "fact": "f123",
+      "label": "In 2015 the separation had increased to 3.5″."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Capella is the sixth-brightest star in the night sky, and the third-brightest in the northern celestial hemisphere after Arcturus and Vega."
+   },
+   {
+    "type": "closing",
+    "text": "Several other stars in the same visual field have been catalogued as companions but are physically unrelated."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Capella",
+    "line": "Brightest star in the constellation Auriga",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Capella is the brightest star in the northern constellation of Auriga."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Capella"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "42.9 light-years",
+    "caption": "Capella is relatively close, at 42.9 light-years."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f75",
+      "label": "The pair of giants is separated from the pair of red dwarfs by 723”."
+     },
+     {
+      "fact": "f48",
+      "label": "A major milestone in stellar X-ray astronomy happened on April 5, 1974."
+     },
+     {
+      "fact": "f130",
+      "label": "In 1975, an eccentric 388-year orbit gave masses of 0.65 M☉ and 0.13 M☉."
+     },
+     {
+      "fact": "f123",
+      "label": "In 2015 the separation had increased to 3.5″."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "As a relatively nearby star system, Capella is listed in the Gliese-Jahreiss Catalogue with designations GJ 194 for the bright pair of giants and GJ 195 for the faint pair of red dwarfs."
+   },
+   {
+    "type": "sentence",
+    "text": "Capella was the brightest star in the night sky from 210,000 years ago to 160,000 years ago, at about −1.8 in apparent magnitude."
+   },
+   {
+    "type": "sentence",
+    "text": "At −1.1, Aldebaran was brightest before this period; it and Capella were situated rather close to each other in the sky and approximated boreal pole stars at the time."
+   },
+   {
+    "type": "sentence",
+    "text": "With an average apparent magnitude of +0.08, Capella is the brightest object in the constellation Auriga, the sixth-brightest star in the night sky, the third-brightest in the northern celestial hemisphere."
+   },
+   {
+    "type": "sentence",
+    "text": "α Aurigae is the star system’s Bayer designation."
+   },
+   {
+    "type": "sentence",
+    "text": "Based on an annual parallax shift of 76.20 milliarcseconds as measured by the Hipparcos satellite, this system is estimated to be 42.8 light-years from Earth, with a margin of error of 0.3 light-year."
+   },
+   {
+    "type": "closing",
+    "text": "Several other stars in the same visual field have been catalogued as companions but are physically unrelated."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0c4eff61d278d7.0997c9204bee3c"
+ }
+}

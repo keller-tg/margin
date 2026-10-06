@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-30-evening",
+ "date": "2026-10-30",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Fledertiere",
+  "qid": "Q28425",
+  "pageid": 1724,
+  "revid": 270764385,
+  "domain": "animals",
+  "teaser": "Ordnung der Klasse Säugetiere"
+ },
+ "sources": [
+  {
+   "title": "Fledertiere",
+   "url": "https://de.wikipedia.org/w/index.php?title=Fledertiere&oldid=270764385",
+   "revid": 270764385,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Wikipedia-Bats-001-v01.jpg",
+   "w": 1558,
+   "h": 1520,
+   "alt": "Fledertiere",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wikipedia-Bats-001-v01.jpg/960px-Wikipedia-Bats-001-v01.jpg",
+   "sha1": "1939d239ef332f75254cdfcbf9310eacc11245f7",
+   "credit": {
+    "author": "MathKnight",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Wikipedia-Bats-001-v01.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Fledertiere",
+    "line": "Ordnung der Klasse Säugetiere",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Auch in anderen polaren Regionen sowie auf entlegenen Inseln fehlen sie."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Fledertiere",
+    "line": "Ordnung der Klasse Säugetiere",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Fledertiere, auch Flattertiere, sind eine Ordnung der Säugetiere."
+   },
+   {
+    "type": "closing",
+    "text": "Mit mehr als 1460 Arten stellen die Fledertiere rund 22 % aller Säugetierarten und sind nach den Nagetieren die artenreichste Ordnung innerhalb der Säugetiere."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Fledertiere",
+    "line": "Ordnung der Klasse Säugetiere",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Fledertiere, auch Flattertiere, sind eine Ordnung der Säugetiere."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Fledertiere"
+   },
+   {
+    "type": "closing",
+    "text": "Mit mehr als 1460 Arten stellen die Fledertiere rund 22 % aller Säugetierarten und sind nach den Nagetieren die artenreichste Ordnung innerhalb der Säugetiere."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0cf36d3f8ff51d.145882c75d4148"
+ }
+}

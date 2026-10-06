@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-09-morning",
+ "date": "2026-10-09",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Messier 87",
+  "qid": "Q14041",
+  "pageid": 352456,
+  "revid": 270904383,
+  "domain": "astronomy",
+  "teaser": "Galaxie"
+ },
+ "sources": [
+  {
+   "title": "Messier 87",
+   "url": "https://de.wikipedia.org/w/index.php?title=Messier_87&oldid=270904383",
+   "revid": 270904383,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:M87-full jpg.jpg",
+   "w": 3854,
+   "h": 3815,
+   "alt": "Messier 87",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/M87-full_jpg.jpg/960px-M87-full_jpg.jpg",
+   "sha1": "df359f9c99e6c73c91db8f4d6e328feb74be1ab6",
+   "credit": {
+    "author": "Fabian RRRR",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:M87-full_jpg.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f27": {
+   "kind": "measure",
+   "value": 12.4,
+   "unit": "m",
+   "surface": "12,4m"
+  },
+  "f35": {
+   "kind": "date",
+   "value": "1947",
+   "surface": "1947"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1953",
+   "surface": "1953"
+  },
+  "f72": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011"
+  },
+  "f92": {
+   "kind": "date",
+   "value": "1049",
+   "surface": "1049"
+  },
+  "f103": {
+   "kind": "measure",
+   "value": 60,
+   "unit": "%",
+   "surface": "60 %"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Messier 87",
+    "line": "Galaxie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "M87 ist eine sehr aktive Galaxie."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f103",
+    "display": "60 %",
+    "caption": "Etwa 60 % der Häufigkeit dieser schweren Elemente dürfte durch Kernkollaps-Supernovae gebildet werden."
+   },
+   {
+    "type": "closing",
+    "text": "M87 besitzt das grösste bisher bekannte System von Kugelsternhaufen einer Galaxie."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Messier 87",
+    "line": "Galaxie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Messier 87 ist eine 8,6 mag helle elliptische Riesengalaxie mit einer Flächenausdehnung von 8,3′ × 6,6′ im Sternbild Jungfrau auf der Ekliptik."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Messier 87"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f27",
+    "display": "12,4m",
+    "caption": "Einen Monat später war die Helligkeit auf 12,4m gefallen, im folgenden Jahr wurde sie zum letzten Mal fotografiert und war nur noch etwa 20m hell."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f92",
+      "label": "Die Gesamtenergie der Elektronen im Jet wird auf etwa 5 × 1049 Joule geschätzt."
+     },
+     {
+      "fact": "f35",
+      "label": "Im Jahr 1947 wurde eine starke Radioquelle in Richtung von M87 entdeckt."
+     },
+     {
+      "fact": "f36",
+      "label": "Der Zusammenhang der Quelle mit der Galaxie wurde 1953 aufgedeckt, und der Jet."
+     },
+     {
+      "fact": "f72",
+      "label": "Messungen aus dem Jahr 2011 haben keine statistisch signifikante Verschiebung feststellen können."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "M87 ist eine sehr aktive Galaxie, die als Radioquelle mit Virgo A, als Röntgenquelle mit Virgo X-1 bezeichnet wird."
+   },
+   {
+    "type": "closing",
+    "text": "Während die Milchstrasse etwa 200 Kugelsternhaufen besitzt, geht man bei M87 von 12.000 solchen Objekten aus."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Messier 87",
+    "line": "Galaxie",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Messier 87 ist eine 8,6 mag helle elliptische Riesengalaxie mit einer Flächenausdehnung von 8,3′ × 6,6′ im Sternbild Jungfrau auf der Ekliptik."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Messier 87"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f27",
+    "display": "12,4m",
+    "caption": "Einen Monat später war die Helligkeit auf 12,4m gefallen, im folgenden Jahr wurde sie zum letzten Mal fotografiert und war nur noch etwa 20m hell."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f92",
+      "label": "Die Gesamtenergie der Elektronen im Jet wird auf etwa 5 × 1049 Joule geschätzt."
+     },
+     {
+      "fact": "f35",
+      "label": "Im Jahr 1947 wurde eine starke Radioquelle in Richtung von M87 entdeckt."
+     },
+     {
+      "fact": "f36",
+      "label": "Der Zusammenhang der Quelle mit der Galaxie wurde 1953 aufgedeckt, und der Jet."
+     },
+     {
+      "fact": "f72",
+      "label": "Messungen aus dem Jahr 2011 haben keine statistisch signifikante Verschiebung feststellen können."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Im März des Jahres 1781 trug der französische Astronom Charles Messier, nachdem er bereits zehn Jahre zuvor die elliptische Galaxie Messier 49 entdeckt hatte, weitere helle Mitgliedsgalaxien des Virgo-Galaxienhaufens."
+   },
+   {
+    "type": "sentence",
+    "text": "Im folgenden Jahr explodierte dann eine Supernova in M87, die aber erst 1922 auf Fotoplatten von I. Balanowski entdeckt wurde und zunächst als mögliche Nova eingeordnet wurde."
+   },
+   {
+    "type": "sentence",
+    "text": "Im erweiterten Klassifikationsschema für Galaxien von de Vaucouleurs wird M87 als E0p bezeichnet."
+   },
+   {
+    "type": "sentence",
+    "text": "Im Jahr 1918 beschrieb der amerikanische Astronom Heber Curtis vom Lick Observatory, dass bei M87 keinerlei Spiralstruktur zu beobachten ist, bemerkte aber gleichzeitig, dass ein «merkwürdiger gerader Strahl… offenbar mit dem Kern durch eine dünne materielle Linie verbunden»ist."
+   },
+   {
+    "type": "sentence",
+    "text": "E0 beschreibt dabei eine elliptische Galaxie ohne wesentliche Abweichungen von der sphärischen Form."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Buchstabe p steht für pekuliar und weist auf die vorhandenen nicht ins Schema passenden Eigenschaften wie den Jet hin."
+   },
+   {
+    "type": "closing",
+    "text": "Da M87 die grösste elliptische Riesengalaxie im Virgo-Superhaufen ist und eine der stärksten Radioquellen am Himmel darstellt, ist diese Galaxie sowohl ein beliebtes Beobachtungsobjekt der Amateurastronomie als auch von herausragender Bedeutung als astronomisches Forschungsobjekt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1a6317dbda1302.1acdf071a6901c"
+ }
+}

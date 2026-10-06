@@ -1,0 +1,220 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-12-morning",
+ "date": "2026-10-12",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Charles Darwin",
+  "qid": "Q1035",
+  "pageid": 8145410,
+  "revid": 1378092670,
+  "domain": "people-science",
+  "teaser": "English naturalist and biologist"
+ },
+ "sources": [
+  {
+   "title": "Charles Darwin",
+   "url": "https://en.wikipedia.org/w/index.php?title=Charles_Darwin&oldid=1378092670",
+   "revid": 1378092670,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Charles Darwin seated crop.jpg",
+   "w": 2370,
+   "h": 3119,
+   "alt": "Charles Darwin",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
+   "sha1": "e2c8bd93d1f9493b4c57d6811c35839e0dab22e6",
+   "credit": {
+    "author": "Beao",
+    "authorSource": "uploader",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f35": {
+   "kind": "date",
+   "value": "1831",
+   "surface": "1831"
+  },
+  "f46": {
+   "kind": "date",
+   "value": "1836",
+   "surface": "1836"
+  },
+  "f72": {
+   "kind": "date",
+   "value": "1839",
+   "surface": "1839"
+  },
+  "f79": {
+   "kind": "date",
+   "value": "1842",
+   "surface": "1842"
+  },
+  "f100": {
+   "kind": "number",
+   "value": 1250,
+   "surface": "1,250"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Charles Darwin",
+    "line": "English naturalist and biologist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin was an English naturalist, geologist."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Charles Darwin"
+   },
+   {
+    "type": "closing",
+    "text": "However, many initially favoured competing explanations that gave only a minor role to natural selection."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Charles Darwin",
+    "line": "English naturalist and biologist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Charles Darwin"
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f35",
+      "label": "Darwin had to stay at Cambridge until June 1831."
+     },
+     {
+      "fact": "f46",
+      "label": "On 2 October 1836, Beagle anchored at Falmouth, Cornwall."
+     },
+     {
+      "fact": "f72",
+      "label": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society."
+     },
+     {
+      "fact": "f79",
+      "label": "Early in 1842, Darwin wrote about his ideas to Charles Lyell."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey."
+   },
+   {
+    "type": "sentence",
+    "text": "Darwin’s early interest in nature led him to neglect his medical education at the University of Edinburgh."
+   },
+   {
+    "type": "closing",
+    "text": "Darwin’s discovery is the unifying theory of the life sciences, explaining the unity and diversity of life."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Charles Darwin",
+    "line": "English naturalist and biologist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Charles Darwin"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f100",
+    "display": "1,250",
+    "caption": "On the Origin of Species proved unexpectedly popular, with the entire stock of 1,250 copies oversubscribed when it went on sale to booksellers on 22 November 1859."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f35",
+      "label": "Darwin had to stay at Cambridge until June 1831."
+     },
+     {
+      "fact": "f46",
+      "label": "On 2 October 1836, Beagle anchored at Falmouth, Cornwall."
+     },
+     {
+      "fact": "f72",
+      "label": "On 24 January 1839, Darwin was elected a Fellow of the Royal Society."
+     },
+     {
+      "fact": "f79",
+      "label": "Early in 1842, Darwin wrote about his ideas to Charles Lyell."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Charles Robert Darwin was born on 12 February 1809 at his family’s home, The Mount, in Shrewsbury, Shropshire."
+   },
+   {
+    "type": "sentence",
+    "text": "Erasmus Darwin had praised general concepts of evolution and common descent in his Zoonomia, a poetic fantasy of gradual creation including undeveloped ideas anticipating concepts his grandson expanded."
+   },
+   {
+    "type": "sentence",
+    "text": "Both families were largely Unitarian, though the Wedgwoods were adopting Anglicanism."
+   },
+   {
+    "type": "sentence",
+    "text": "Robert Darwin, a freethinker, had baby Charles baptised in November 1809 in the Anglican St Chad’s Church, Shrewsbury, but Charles and his siblings attended the local Unitarian Church with their mother."
+   },
+   {
+    "type": "sentence",
+    "text": "The eight-year-old Charles already had a taste for natural history and collecting when he joined the day school run by its preacher in 1817."
+   },
+   {
+    "type": "sentence",
+    "text": "Darwin spent the summer of 1825 as an apprentice doctor, helping his father treat impoverished people in Shropshire, before going to the well-regarded University of Edinburgh Medical School with his brother Erasmus in October 1825."
+   },
+   {
+    "type": "closing",
+    "text": "Darwin’s discovery is the unifying theory of the life sciences, explaining the unity and diversity of life."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0534147f4354b1.01b696f1bacc30"
+ }
+}

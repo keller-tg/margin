@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-15-morning",
+ "date": "2026-10-15",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Japan",
+  "qid": "Q17",
+  "pageid": 2556,
+  "revid": 271053316,
+  "domain": "places",
+  "teaser": "Inselstaat in Ostasien"
+ },
+ "sources": [
+  {
+   "title": "Japan",
+   "url": "https://de.wikipedia.org/w/index.php?title=Japan&oldid=271053316",
+   "revid": 271053316,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Satellite image of Japan in May 2003.jpg",
+   "w": 5800,
+   "h": 7200,
+   "alt": "Japan",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Satellite_image_of_Japan_in_May_2003.jpg/960px-Satellite_image_of_Japan_in_May_2003.jpg",
+   "sha1": "b345f4da983b16251c0359d61bd8bf6333815885",
+   "credit": {
+    "author": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Japan_in_May_2003.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f13": {
+   "kind": "measure",
+   "value": 5640,
+   "unit": "km²",
+   "surface": "5.640 km²"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "2011",
+   "surface": "2011"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1959",
+   "surface": "1959"
+  },
+  "f46": {
+   "kind": "date",
+   "value": "500",
+   "surface": "500"
+  },
+  "f66": {
+   "kind": "date",
+   "value": "2023",
+   "surface": "2023"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Japan",
+    "line": "Inselstaat in Ostasien",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Japan ist ein 14.125 Inseln umfassender ostasiatischer Staat, angrenzend an den Pazifik."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f13",
+    "display": "5.640 km²",
+    "caption": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln."
+   },
+   {
+    "type": "closing",
+    "text": "Das Entwicklungsprogramm der Vereinten Nationen zählt Japan zu den Ländern mit sehr hoher menschlicher Entwicklung."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Japan",
+    "line": "Inselstaat in Ostasien",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Japan ist ein 14.125 Inseln umfassender ostasiatischer Staat, angrenzend an den Pazifik."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Japan"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f13",
+    "display": "5.640 km²",
+    "caption": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco von Russland zurückfordert."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f46",
+      "label": "Vögel In Japan sind über 500 verschiedene Vogelarten gesichtet worden."
+     },
+     {
+      "fact": "f36",
+      "label": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959."
+     },
+     {
+      "fact": "f30",
+      "label": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat."
+     },
+     {
+      "fact": "f66",
+      "label": "Im Jahr 2023 lebten 92 Prozent der Einwohner Japans in Städten."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Bildung des japanischen Staatswesens begann im 5. Jahrhundert unter kulturellem Einfluss des chinesischen Kaiserreichs."
+   },
+   {
+    "type": "closing",
+    "text": "Mit der Erforschung und Lehre der Sprache und Kultur Japans in seiner geschichtlichen Entwicklung beschäftigt sich die Japanologie."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Japan",
+    "line": "Inselstaat in Ostasien",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Japan ist ein 14.125 Inseln umfassender ostasiatischer Staat, angrenzend an den Pazifik, der indirekt im Norden und Nordwesten an Russland, im Westen an Nord- und Südkorea und im Südwesten an Taiwan und China grenzt."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Japan"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f13",
+    "display": "5.640 km²",
+    "caption": "Hierbei umfassen 5.640 km² die südlichen Kurilen-Inseln, die Japan seit dem Friedensvertrag von San Francisco von Russland zurückfordert; somit umfasst die tatsächlich von Japan kontrollierte Landfläche ca. 372.340 km²."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f46",
+      "label": "Vögel In Japan sind über 500 verschiedene Vogelarten gesichtet worden."
+     },
+     {
+      "fact": "f36",
+      "label": "Der stärkste je aufgezeichnete Taifun Japans war der Ise-wan-Taifun von 1959."
+     },
+     {
+      "fact": "f30",
+      "label": "Am 11. März 2011 erschütterte ein heftiges Erdbeben den ganzen Staat."
+     },
+     {
+      "fact": "f66",
+      "label": "Im Jahr 2023 lebten 92 Prozent der Einwohner Japans in Städten."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Japan besteht aus insgesamt 14125 Inseln, die sich entlang der Pazifikküste erstrecken."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Volkszählung aus dem Jahr 2010 weist eine Gesamtbevölkerung Japans von 128.056.026 Menschen aus."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Einwohnerzahl ist seit Jahren rückläufig, so gab das Ministerium für Innere Angelegenheiten und Kommunikation am 31. März 2015 eine Gesamtbevölkerung von 126.659.683 an."
+   },
+   {
+    "type": "sentence",
+    "text": "Japan ist ein Inselstaat, der im Wesentlichen aus einer Inselkette besteht, die sich entlang der Ostküste Asiens erstreckt."
+   },
+   {
+    "type": "sentence",
+    "text": "Dazu kommen 14125 kleinere Inseln, die sich vor allem in der Seto-Inlandsee, in der Kette der Ryūkyū-Inseln und Nampō-shotō konzentrieren."
+   },
+   {
+    "type": "sentence",
+    "text": "Japan wäre somit in etwa 14.657 km² grösser als die Bundesrepublik Deutschland."
+   },
+   {
+    "type": "closing",
+    "text": "Mit der Erforschung und Lehre der Sprache und Kultur Japans in seiner geschichtlichen Entwicklung beschäftigt sich die Japanologie."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "1997625494d232.1801d3af1779c6"
+ }
+}

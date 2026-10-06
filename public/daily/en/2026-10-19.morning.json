@@ -1,0 +1,241 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-19-morning",
+ "date": "2026-10-19",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Cleveland",
+  "qid": "Q37320",
+  "pageid": 5951,
+  "revid": 1378024322,
+  "domain": "cities",
+  "teaser": "City in Ohio, United States"
+ },
+ "sources": [
+  {
+   "title": "Cleveland",
+   "url": "https://en.wikipedia.org/w/index.php?title=Cleveland&oldid=1378024322",
+   "revid": 1378024322,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Cleveland skyline from Lakewood Park, January 2026.jpg",
+   "w": 8199,
+   "h": 4340,
+   "alt": "Cleveland",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg/960px-Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg",
+   "sha1": "662c70ee0430c1a34e4a722ebe7c23470a6f7187",
+   "credit": {
+    "author": "Erik Drost",
+    "authorSource": "artist",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Cleveland_skyline_from_Lakewood_Park,_January_2026.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f9": {
+   "kind": "date",
+   "value": "2022",
+   "surface": "2022"
+  },
+  "f21": {
+   "kind": "date",
+   "value": "1870",
+   "surface": "1870"
+  },
+  "f27": {
+   "kind": "date",
+   "value": "1920",
+   "surface": "1920"
+  },
+  "f29": {
+   "kind": "measure",
+   "value": 30,
+   "unit": "%",
+   "surface": "30%"
+  },
+  "f34": {
+   "kind": "date",
+   "value": "1929",
+   "surface": "1929"
+  },
+  "f49": {
+   "kind": "date",
+   "value": "1966",
+   "surface": "1966"
+  },
+  "f54": {
+   "kind": "measure",
+   "value": 13.8,
+   "unit": "%",
+   "surface": "13.8%"
+  },
+  "f64": {
+   "kind": "measure",
+   "value": 569,
+   "unit": "feet",
+   "surface": "569 feet"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Cleveland",
+    "line": "City in Ohio, United States",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f64",
+    "display": "569 feet",
+    "caption": "The shore of Lake Erie is 569 feet above sea level."
+   },
+   {
+    "type": "closing",
+    "text": "The city’s major league professional sports teams include the Cleveland Browns, the Cleveland Cavaliers."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Cleveland",
+    "line": "City in Ohio, United States",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland is a city in the U.S. state of Ohio, located along the southern shore of Lake Erie."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Cleveland"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f54",
+    "display": "13.8%",
+    "caption": "Cleveland’s unemployment rate of 13.8% was higher than the national average due to the closure of several steel production centers."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f21",
+      "label": "In 1870, John D. Rockefeller founded Standard Oil in Cleveland."
+     },
+     {
+      "fact": "f27",
+      "label": "By 1920 Cleveland had grown into a densely populated metropolis of 796,841."
+     },
+     {
+      "fact": "f34",
+      "label": "In 1929, Cleveland hosted the first of many National Air Races."
+     },
+     {
+      "fact": "f9",
+      "label": "The GDP for Greater Cleveland was US$138.3 billion in 2022."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio, and the 53rd-most populous city in the United States."
+   },
+   {
+    "type": "closing",
+    "text": "The city’s major league professional sports teams include the Cleveland Browns, the Cleveland Cavaliers, and the Cleveland Guardians."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Cleveland",
+    "line": "City in Ohio, United States",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland is a city in the U.S. state of Ohio, located along the southern shore of Lake Erie."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Cleveland"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f29",
+    "display": "30%",
+    "caption": "By 1920 Cleveland had grown into a densely populated metropolis of 796,841, making it the fifth-largest city in the nation, with a foreign-born population of 30%."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f21",
+      "label": "In 1870, John D. Rockefeller founded Standard Oil in Cleveland."
+     },
+     {
+      "fact": "f34",
+      "label": "In 1929, Cleveland hosted the first of many National Air Races."
+     },
+     {
+      "fact": "f49",
+      "label": "The Hough riots erupted from July 18 to 24, 1966."
+     },
+     {
+      "fact": "f9",
+      "label": "The GDP for Greater Cleveland was US$138.3 billion in 2022."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Cleveland was established on July 22, 1796, by surveyors of the Connecticut Land Company when they laid out Connecticut’s Western Reserve into townships and a capital city."
+   },
+   {
+    "type": "sentence",
+    "text": "The first permanent European settler in Cleveland was Lorenzo Carter, who arrived in May 1797 and built a cabin on the banks of the Cuyahoga River."
+   },
+   {
+    "type": "sentence",
+    "text": "Cleaveland oversaw the New England–style design of the plan for what would become the modern downtown area, centered on Public Square."
+   },
+   {
+    "type": "sentence",
+    "text": "Largely through the efforts of the settlement’s first lawyer, Alfred Kelley, the village of Cleveland was incorporated on December 23, 1814."
+   },
+   {
+    "type": "sentence",
+    "text": "The emerging community served as an important supply post for the U.S. during the Battle of Lake Erie in the War of 1812."
+   },
+   {
+    "type": "sentence",
+    "text": "A myth emerged that the spelling was altered by The Cleveland Advertiser to fit the name on the newspaper’s masthead."
+   },
+   {
+    "type": "closing",
+    "text": "The city’s major league professional sports teams include the Cleveland Browns, the Cleveland Cavaliers, and the Cleveland Guardians."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "0af39535af3e50.0f56c25a5439ad"
+ }
+}

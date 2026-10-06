@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-07-morning",
+ "date": "2026-10-07",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Gabriel Fauré",
+  "qid": "Q104919",
+  "pageid": 71142,
+  "revid": 270877624,
+  "domain": "people-arts",
+  "teaser": "Französischer Komponist"
+ },
+ "sources": [
+  {
+   "title": "Gabriel Fauré",
+   "url": "https://de.wikipedia.org/w/index.php?title=Gabriel_Faur%C3%A9&oldid=270877624",
+   "revid": 270877624,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Gabriel Fauré by Pierre Petit 1905 - Gallica 2010 (cropped).jpg",
+   "w": 906,
+   "h": 1375,
+   "alt": "Gabriel Fauré",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Gabriel_Faur%C3%A9_by_Pierre_Petit_1905_-_Gallica_2010_%28cropped%29.jpg",
+   "sha1": "c5ad2681c9dd0d343ab59cfe9f337d52d3839967",
+   "credit": {
+    "author": "Pierre Petit",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Gabriel_Faur%C3%A9_by_Pierre_Petit_1905_-_Gallica_2010_(cropped).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f8": {
+   "kind": "date",
+   "value": "1854",
+   "surface": "1854"
+  },
+  "f10": {
+   "kind": "date",
+   "value": "1870",
+   "surface": "1870"
+  },
+  "f17": {
+   "kind": "date",
+   "value": "1892",
+   "surface": "1892"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1903",
+   "surface": "1903"
+  },
+  "f41": {
+   "kind": "measure",
+   "value": 79,
+   "unit": "jahren",
+   "surface": "79 Jahren"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Gabriel Fauré",
+    "line": "Französischer Komponist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Gabriel Urbain Fauré war ein französischer Komponist des Fin de siècle."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f41",
+    "display": "79 Jahren",
+    "caption": "1924 starb Fauré im Alter von 79 Jahren in Paris an einer Lungenentzündung."
+   },
+   {
+    "type": "closing",
+    "text": "Zu seinen Schülern zählten Nadia Boulanger, George Enescu, Reynaldo Hahn, Charles Koechlin und Maurice Ravel."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Gabriel Fauré",
+    "line": "Französischer Komponist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Gabriel Urbain Fauré war ein französischer Komponist des Fin de siècle."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Gabriel Fauré"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f41",
+    "display": "79 Jahren",
+    "caption": "1924 starb Fauré im Alter von 79 Jahren in Paris an einer Lungenentzündung."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f8",
+      "label": "1854 wurde der Neunjährige an Louis Niedermeyers Pariser Schule für Kirchenmusik aufgenommen."
+     },
+     {
+      "fact": "f10",
+      "label": "Am Deutsch-Französischen Krieg 1870/1871 war Fauré als Kurier eines Infanterie-Regiments beteiligt."
+     },
+     {
+      "fact": "f17",
+      "label": "1892 wurde Fauré zum «Inspektor für Musikunterricht»ernannt."
+     },
+     {
+      "fact": "f25",
+      "label": "Ab 1903 schrieb Fauré regelmässig in der renommierten Tageszeitung Le Figaro über Musik."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Faurés Stücke zeichnen sich durch «parfümfreien Charme und gebändigte Melancholie»aus."
+   },
+   {
+    "type": "closing",
+    "text": "Zu seinen Schülern zählten Nadia Boulanger, George Enescu, Reynaldo Hahn, Charles Koechlin und Maurice Ravel."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Gabriel Fauré",
+    "line": "Französischer Komponist",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Gabriel Urbain Fauré war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schrieb und 1905 Direktor des Pariser Konservatoriums wurde."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Gabriel Fauré"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f41",
+    "display": "79 Jahren",
+    "caption": "1924 starb Fauré im Alter von 79 Jahren in Paris an einer Lungenentzündung."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f8",
+      "label": "1854 wurde der Neunjährige an Louis Niedermeyers Pariser Schule für Kirchenmusik aufgenommen."
+     },
+     {
+      "fact": "f10",
+      "label": "Am Deutsch-Französischen Krieg 1870/1871 war Fauré als Kurier eines Infanterie-Regiments beteiligt."
+     },
+     {
+      "fact": "f17",
+      "label": "1892 wurde Fauré zum «Inspektor für Musikunterricht»ernannt."
+     },
+     {
+      "fact": "f25",
+      "label": "Ab 1903 schrieb Fauré regelmässig in der renommierten Tageszeitung Le Figaro über Musik."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Gabriel Fauré, jüngstes von sechs Kindern eines Schulleiters, wuchs unweit von Carcassonne am Fuss der Pyrenäen auf."
+   },
+   {
+    "type": "sentence",
+    "text": "Nach dem Tod des Schweizer Komponisten nahm sich ab 1861 der zehn Jahre ältere Camille Saint-Saëns des jungen Fauré an; sie blieben zeitlebens befreundet."
+   },
+   {
+    "type": "sentence",
+    "text": "Verschiedene Gymnasien in Paris, Annecy und Foix erinnern an ihn."
+   },
+   {
+    "type": "sentence",
+    "text": "2002 wurde der Asteroid Fauré nach ihm benannt."
+   },
+   {
+    "type": "sentence",
+    "text": "Gabriel Fauré zählt in Frankreich zu den wichtigsten Komponisten in der zweiten Hälfte des 19. Jahrhunderts und zu Beginn des 20. Jahrhunderts."
+   },
+   {
+    "type": "sentence",
+    "text": "Nach einigen Jahren in Rennes bekam er 1870 eine Organistenstelle in Paris, wo er fortan blieb."
+   },
+   {
+    "type": "closing",
+    "text": "Zu seinen Schülern zählten Nadia Boulanger, George Enescu, Reynaldo Hahn, Charles Koechlin und Maurice Ravel."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0ddf8b10d138c8.0de048d250622f"
+ }
+}

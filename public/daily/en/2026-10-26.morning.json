@@ -1,0 +1,182 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-26-morning",
+ "date": "2026-10-26",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Rotavirus",
+  "qid": "Q164778",
+  "pageid": 140968,
+  "revid": 1378622070,
+  "domain": "medicine",
+  "teaser": "Specific genus of RNA viruses"
+ },
+ "sources": [
+  {
+   "title": "Rotavirus",
+   "url": "https://en.wikipedia.org/w/index.php?title=Rotavirus&oldid=1378622070",
+   "revid": 1378622070,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Rotavirus Reconstruction.jpg",
+   "w": 1986,
+   "h": 1739,
+   "alt": "Rotavirus",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/960px-Rotavirus_Reconstruction.jpg",
+   "sha1": "2c0b6e797bfce25d2af7c705177bb87fb327c14e",
+   "credit": {
+    "author": "Kakoui",
+    "authorSource": "uploader",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Rotavirus_Reconstruction.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "measure",
+   "value": 5,
+   "unit": "years",
+   "surface": "5 years"
+  },
+  "f8": {
+   "kind": "measure",
+   "value": 90,
+   "unit": "%",
+   "surface": "90%"
+  },
+  "f10": {
+   "kind": "measure",
+   "value": 36,
+   "unit": "g",
+   "surface": "36 G"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Rotavirus",
+    "line": "Specific genus of RNA viruses",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rotaviruses are the most common cause of diarrhoeal disease among infants and young children."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f10",
+    "display": "36 G",
+    "caption": "At least 36 G types and 51 P types are known."
+   },
+   {
+    "type": "closing",
+    "text": "The most common is RVA."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Rotavirus",
+    "line": "Specific genus of RNA viruses",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rotaviruses are the most common cause of diarrhoeal disease among infants and young children."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rotavirus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f8",
+    "display": "90%",
+    "caption": "The most common is RVA, and these rotaviruses cause more than 90% of rotavirus infections in humans."
+   },
+   {
+    "type": "sentence",
+    "text": "Nearly every child in the world is infected with a rotavirus at least once by the age of five."
+   },
+   {
+    "type": "sentence",
+    "text": "Immunity develops with each infection, so subsequent infections are less severe."
+   },
+   {
+    "type": "closing",
+    "text": "Eleven species are placed in the genus, usually referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Rotavirus",
+    "line": "Specific genus of RNA viruses",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Rotaviruses are the most common cause of diarrhoeal disease among infants and young children."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Rotavirus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f2",
+    "display": "5 years",
+    "caption": "Rotaviral enteritis is usually an easily managed disease of childhood, but among children under 5 years of age, rotavirus caused an estimated 151,714 deaths worldwide from diarrhoea in 2019."
+   },
+   {
+    "type": "sentence",
+    "text": "Nearly every child in the world is infected with a rotavirus at least once by the age of five."
+   },
+   {
+    "type": "sentence",
+    "text": "The 11 species of rotaviruses are referred to as RVA, RVB, RVC, RVD, RVF, RVG, RVH, RVI, RVJ, RVK, and RVL."
+   },
+   {
+    "type": "sentence",
+    "text": "The faeces of an infected person can contain more than 10 trillion infectious particles per gram; fewer than 100 of these are required to transmit infection to another person."
+   },
+   {
+    "type": "sentence",
+    "text": "Rotaviruses are transmitted by the faecal–oral route, via contact with contaminated hands, surfaces and objects, and possibly by the respiratory route."
+   },
+   {
+    "type": "sentence",
+    "text": "Rotaviruses are stable in the environment and have been found in estuary samples at levels up to 1–5 infectious particles per US gallon."
+   },
+   {
+    "type": "sentence",
+    "text": "The viruses survive between 9 and 19 days."
+   },
+   {
+    "type": "sentence",
+    "text": "Rotaviral enteritis is a mild to severe disease characterised by nausea, vomiting, watery diarrhoea, and low-grade fever."
+   },
+   {
+    "type": "closing",
+    "text": "The most common is RVA, and these rotaviruses cause more than 90% of rotavirus infections in humans."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "0fb00680222607.0ba8f8321a431e"
+ }
+}

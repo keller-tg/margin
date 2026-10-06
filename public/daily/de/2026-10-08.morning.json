@@ -1,0 +1,170 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-08-morning",
+ "date": "2026-10-08",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Lemuren",
+  "qid": "Q1192405",
+  "pageid": 3959742,
+  "revid": 266841765,
+  "domain": "animals",
+  "teaser": "Teilordnung der Ordnung Primaten"
+ },
+ "sources": [
+  {
+   "title": "Lemuren",
+   "url": "https://de.wikipedia.org/w/index.php?title=Lemuren&oldid=266841765",
+   "revid": 266841765,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Ruffed Lemur Singapore.JPG",
+   "w": 3072,
+   "h": 2048,
+   "alt": "Lemuren",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Ruffed_Lemur_Singapore.JPG/960px-Ruffed_Lemur_Singapore.JPG",
+   "sha1": "11dab99b2e8a1e565d8bde4e854a4e28fad90d78",
+   "credit": {
+    "author": "Benherz",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Ruffed_Lemur_Singapore.JPG",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 100,
+   "unit": "arten",
+   "surface": "100 Arten"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Lemuren",
+    "line": "Teilordnung der Ordnung Primaten",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Lemuren sind eine Teilordnung der Primaten."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "100 Arten",
+    "caption": "Das Taxon umfasst nach heutiger Sichtweise etwa 100 Arten."
+   },
+   {
+    "type": "closing",
+    "text": "Einige Gattungen, etwa die Riesenlemuren, sind in den letzten zwei Jahrtausenden ausgestorben."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Lemuren",
+    "line": "Teilordnung der Ordnung Primaten",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Lemuren sind eine Teilordnung der Primaten."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Lemuren"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "100 Arten",
+    "caption": "Das Taxon umfasst nach heutiger Sichtweise etwa 100 Arten."
+   },
+   {
+    "type": "sentence",
+    "text": "Lemuren kommen ausschliesslich auf Madagaskar und kleineren Inseln in der Nähe vor."
+   },
+   {
+    "type": "sentence",
+    "text": "Die meisten Arten leben auf Bäumen und sind Pflanzen- oder Allesfresser."
+   },
+   {
+    "type": "closing",
+    "text": "Der Name ist wegen ihrer oft nächtlichen Lebensweise, ihrer grossen Augen und damit markanten Gesichter von den römischen Totengeistern Lemures inspiriert."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Lemuren",
+    "line": "Teilordnung der Ordnung Primaten",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Lemuren sind eine Teilordnung der Primaten."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Lemuren"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "100 Arten",
+    "caption": "Das Taxon umfasst nach heutiger Sichtweise etwa 100 Arten."
+   },
+   {
+    "type": "sentence",
+    "text": "Lemuren kommen ausschliesslich auf Madagaskar und kleineren Inseln in der Nähe vor."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Lemuren sind eine vielgestaltige Gruppe."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Gewicht variiert von 30 Gramm bei den Mausmakis – der Berthe-Mausmaki ist der kleinste Primat überhaupt – bis zum Indri, der 10 Kilogramm erreichen kann."
+   },
+   {
+    "type": "sentence",
+    "text": "Ausgestorbene Formen wie Archaeoindris waren deutlich grösser und wogen bis zu geschätzten 200 Kilogramm."
+   },
+   {
+    "type": "sentence",
+    "text": "Das natürliche Verbreitungsgebiet der Lemuren ist die Insel Madagaskar vor der Ostküste Afrikas."
+   },
+   {
+    "type": "sentence",
+    "text": "Weniger als 10 % der Fläche der Insel verbleiben so weit unberührt, dass sie als Lebensraum dieser Tiere dienen können, sodass die Lemuren heute insgesamt nur auf einer Fläche von 50.000 bis 60.000 km² leben."
+   },
+   {
+    "type": "sentence",
+    "text": "Zwei Arten, der Mongozmaki und der Braune Maki, wurden darüber hinaus auf den Komoren angesiedelt."
+   },
+   {
+    "type": "closing",
+    "text": "Der Name ist wegen ihrer oft nächtlichen Lebensweise, ihrer grossen Augen und damit markanten Gesichter von den römischen Totengeistern Lemures inspiriert."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0c7339626446d3.16124b99226e86"
+ }
+}

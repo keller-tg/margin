@@ -1,0 +1,234 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-21-morning",
+ "date": "2026-10-21",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Empire of Brazil",
+  "qid": "Q217230",
+  "pageid": 269405,
+  "revid": 1378619962,
+  "domain": "history",
+  "teaser": "Monarchy in South America"
+ },
+ "sources": [
+  {
+   "title": "Empire of Brazil",
+   "url": "https://en.wikipedia.org/w/index.php?title=Empire_of_Brazil&oldid=1378619962",
+   "revid": 1378619962,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Paço imperial 1840.png",
+   "w": 1753,
+   "h": 1455,
+   "alt": "Empire of Brazil",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Pa%C3%A7o_imperial_1840.png/960px-Pa%C3%A7o_imperial_1840.png",
+   "sha1": "5cde58038f6ba9717bb430d07f24a085c3250f5d",
+   "credit": {
+    "author": "Paço_imperial_1850.jpg: Attributed to Louis Compte",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_imperial_1840.png",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f16": {
+   "kind": "date",
+   "value": "1532",
+   "surface": "1532"
+  },
+  "f17": {
+   "kind": "measure",
+   "value": 300,
+   "unit": "years",
+   "surface": "300 years"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1824",
+   "surface": "1824"
+  },
+  "f30": {
+   "kind": "date",
+   "value": "1826",
+   "surface": "1826"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "1840",
+   "surface": "1840"
+  },
+  "f40": {
+   "kind": "date",
+   "value": "1846",
+   "surface": "1846"
+  },
+  "f78": {
+   "kind": "number",
+   "value": 50000,
+   "surface": "50,000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Empire of Brazil",
+    "line": "Monarchy in South America",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Permanent settlement followed in 1532."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "50,000",
+    "caption": "More than 50,000 Brazilian soldiers had died."
+   },
+   {
+    "type": "closing",
+    "text": "Lacking any viable heir, the Empire’s political leaders saw no reason to defend the monarchy."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Empire of Brazil",
+    "line": "Monarchy in South America",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The empire’s government was a representative parliamentary constitutional monarchy under the rule of Emperors Pedro I and his son Pedro II."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire of Brazil"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f78",
+    "display": "50,000",
+    "caption": "More than 50,000 Brazilian soldiers had died, and war costs were eleven times the government’s annual budget."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f16",
+      "label": "Permanent settlement followed in 1532."
+     },
+     {
+      "fact": "f25",
+      "label": "The last Portuguese soldiers to surrender did so in March 1824."
+     },
+     {
+      "fact": "f30",
+      "label": "Other difficulties arose when the Empire’s parliament, the General Assembly, opened in 1826."
+     },
+     {
+      "fact": "f39",
+      "label": "The Emperor was declared fit to rule in July 1840."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "John VI later returned to Portugal, leaving his eldest son and heir-apparent, Pedro, to rule the Kingdom of Brazil as regent."
+   },
+   {
+    "type": "closing",
+    "text": "Lacking any viable heir, the Empire’s political leaders saw no reason to defend the monarchy."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Empire of Brazil",
+    "line": "Monarchy in South America",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Empire of Brazil was a 19th-century state that broadly comprised the territories which form modern Brazil and Uruguay until the latter achieved independence in 1828."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Empire of Brazil"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f17",
+    "display": "300 years",
+    "caption": "Permanent settlement followed in 1532, and for the next 300 years the Portuguese slowly expanded westwards until they had reached nearly all of the borders of modern Brazil."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f25",
+      "label": "The last Portuguese soldiers to surrender did so in March 1824."
+     },
+     {
+      "fact": "f30",
+      "label": "Other difficulties arose when the Empire’s parliament, the General Assembly, opened in 1826."
+     },
+     {
+      "fact": "f39",
+      "label": "The Emperor was declared fit to rule in July 1840."
+     },
+     {
+      "fact": "f40",
+      "label": "By 1846, Pedro II had matured physically and mentally."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The territory which would come to be known as Brazil was claimed by Portugal on 22 April 1500, when the navigator Pedro Álvares Cabral landed on its coast."
+   },
+   {
+    "type": "sentence",
+    "text": "In 1808, the army of French Emperor Napoleon I invaded Portugal, forcing the Portuguese royal family—the House of Braganza, a branch of the thousand-year-old Capetian dynasty—into exile."
+   },
+   {
+    "type": "sentence",
+    "text": "In 1815, the Portuguese crown prince Dom John, acting as regent, created the United Kingdom of Portugal, Brazil and the Algarves, which raised the status of Brazil from colony to kingdom."
+   },
+   {
+    "type": "sentence",
+    "text": "The Portuguese government immediately moved to revoke the political autonomy that Brazil had been granted since 1808."
+   },
+   {
+    "type": "sentence",
+    "text": "José Bonifácio de Andrada, along with other Brazilian leaders, convinced Pedro to declare Brazil’s independence from Portugal on 7 September 1822."
+   },
+   {
+    "type": "sentence",
+    "text": "On 12 October, the prince was acclaimed Pedro I, first Emperor of the newly created Empire of Brazil, a constitutional monarchy."
+   },
+   {
+    "type": "closing",
+    "text": "Lacking any viable heir, the Empire’s political leaders saw no reason to defend the monarchy."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.9,
+ "verified": {
+  "version": 1,
+  "hash": "046fce23a8d8d0.10945339f63755"
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-18-morning",
+ "date": "2026-10-18",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Robert Oppenheimer",
+  "qid": "Q132537",
+  "pageid": 57522,
+  "revid": 271013653,
+  "domain": "people-science",
+  "teaser": "US-amerikanischer Physiker"
+ },
+ "sources": [
+  {
+   "title": "Robert Oppenheimer",
+   "url": "https://de.wikipedia.org/w/index.php?title=Robert_Oppenheimer&oldid=271013653",
+   "revid": 271013653,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Oppenheimer (cropped).jpg",
+   "w": 1698,
+   "h": 2471,
+   "alt": "Robert Oppenheimer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/960px-Oppenheimer_%28cropped%29.jpg",
+   "sha1": "c0d52b57c762739f4bcbe8c9f60d835cae54da67",
+   "credit": {
+    "author": "Unknown authorUnknown author",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Oppenheimer_(cropped).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f18": {
+   "kind": "date",
+   "value": "1921",
+   "surface": "1921"
+  },
+  "f23": {
+   "kind": "date",
+   "value": "1926",
+   "surface": "1926"
+  },
+  "f30": {
+   "kind": "measure",
+   "value": 13,
+   "unit": "jahren",
+   "surface": "13 Jahren"
+  },
+  "f32": {
+   "kind": "date",
+   "value": "1936",
+   "surface": "1936"
+  },
+  "f36": {
+   "kind": "date",
+   "value": "1940",
+   "surface": "1940"
+  },
+  "f48": {
+   "kind": "measure",
+   "value": 9,
+   "unit": "km",
+   "surface": "9 km"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Robert Oppenheimer",
+    "line": "US-amerikanischer Physiker",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Julius Robert Oppenheimer war ein US-amerikanischer theoretischer Physiker."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f48",
+    "display": "9 km",
+    "caption": "9 km davon entfernt war ein Bunker errichtet worden."
+   },
+   {
+    "type": "closing",
+    "text": "Präsident John F. Kennedy wollte damit Oppenheimer rehabilitieren."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Robert Oppenheimer",
+    "line": "US-amerikanischer Physiker",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Julius Robert Oppenheimer war ein US-amerikanischer theoretischer Physiker."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Robert Oppenheimer"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f30",
+    "display": "13 Jahren",
+    "caption": "In den folgenden 13 Jahren pendelte er zwischen den beiden Universitäten und lehrte in Herbst und Winter in Berkeley und im Frühjahr in Pasadena."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f18",
+      "label": "Im Februar 1921 ging Oppenheimer mit zehn Bestnoten von der Schule ab."
+     },
+     {
+      "fact": "f23",
+      "label": "1926 veröffentlichte Oppenheimer mehrere Arbeiten über die quantenmechanische Behandlung komplexer Fragen der Atomstruktur."
+     },
+     {
+      "fact": "f32",
+      "label": "Ab 1936 soll Oppenheimer eine romantische Beziehung zu Jean Tatlock unterhalten haben."
+     },
+     {
+      "fact": "f36",
+      "label": "1940 wurde Oppenheimer in die American Academy of Arts and Sciences gewählt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Knapp ein Jahrzehnt später wurde Oppenheimer 1963 als Zeichen seiner politischen Rehabilitierung der Enrico-Fermi-Preis der AEC verliehen."
+   },
+   {
+    "type": "closing",
+    "text": "Präsident John F. Kennedy wollte damit Oppenheimer rehabilitieren."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Robert Oppenheimer",
+    "line": "US-amerikanischer Physiker",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Julius Robert Oppenheimer war ein US-amerikanischer theoretischer Physiker."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Robert Oppenheimer"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f30",
+    "display": "13 Jahren",
+    "caption": "In den folgenden 13 Jahren pendelte er zwischen den beiden Universitäten und lehrte in Herbst und Winter in Berkeley und im Frühjahr in Pasadena."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f18",
+      "label": "Im Februar 1921 ging Oppenheimer mit zehn Bestnoten von der Schule ab."
+     },
+     {
+      "fact": "f23",
+      "label": "1926 veröffentlichte Oppenheimer mehrere Arbeiten über die quantenmechanische Behandlung komplexer Fragen der Atomstruktur."
+     },
+     {
+      "fact": "f32",
+      "label": "Ab 1936 soll Oppenheimer eine romantische Beziehung zu Jean Tatlock unterhalten haben."
+     },
+     {
+      "fact": "f36",
+      "label": "1940 wurde Oppenheimer in die American Academy of Arts and Sciences gewählt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Robert Oppenheimers Vater Julius Seligmann Oppenheimer war 1888 als Textilimporteur in die Vereinigten Staaten eingewandert."
+   },
+   {
+    "type": "sentence",
+    "text": "Roberts Mutter Ella Friedman war Kunsterzieherin."
+   },
+   {
+    "type": "sentence",
+    "text": "Roberts Bruder Frank, war ebenfalls Physiker."
+   },
+   {
+    "type": "sentence",
+    "text": "Band 41, Nr. 4–5, August 1927, S. 268–293, doi:10.1007/BF01391242."
+   },
+   {
+    "type": "sentence",
+    "text": "Auch das Uranmineral Oppenheimerit wurde im Jahre 2016 nach ihm benannt."
+   },
+   {
+    "type": "sentence",
+    "text": "Das Centre for Theoretical Physics der Universität Florida vergab ihm zu Ehren den J. Robert Oppenheimer Memorial Prize."
+   },
+   {
+    "type": "closing",
+    "text": "Präsident John F. Kennedy wollte damit Oppenheimer rehabilitieren; die Preisverleihung erfolgte im Dezember 1963 aber durch Präsident Lyndon B. Johnson, weil Kennedy am 22. November erschossen worden war."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0d6d1aaede480d.08ef2572859d87"
+ }
+}

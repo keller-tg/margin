@@ -1,0 +1,222 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-16-morning",
+ "date": "2026-10-16",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Caspar David Friedrich",
+  "qid": "Q104884",
+  "pageid": 11256,
+  "revid": 271039372,
+  "domain": "people-arts",
+  "teaser": "Deutscher Maler der Romantik"
+ },
+ "sources": [
+  {
+   "title": "Caspar David Friedrich",
+   "url": "https://de.wikipedia.org/w/index.php?title=Caspar_David_Friedrich&oldid=271039372",
+   "revid": 271039372,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Carl Johann Baehr - Bildnis des Malers Caspar David Friedrich.jpg",
+   "w": 1681,
+   "h": 2000,
+   "alt": "Caspar David Friedrich",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Carl_Johann_Baehr_-_Bildnis_des_Malers_Caspar_David_Friedrich.jpg/960px-Carl_Johann_Baehr_-_Bildnis_des_Malers_Caspar_David_Friedrich.jpg",
+   "sha1": "b0c1f647135436b5db0630bf5a0948a3c8af2405",
+   "credit": {
+    "author": "Johann Karl Bähr",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Carl_Johann_Baehr_-_Bildnis_des_Malers_Caspar_David_Friedrich.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f13": {
+   "kind": "date",
+   "value": "1787",
+   "surface": "1787"
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1794",
+   "surface": "1794"
+  },
+  "f25": {
+   "kind": "date",
+   "value": "1800",
+   "surface": "1800"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1805",
+   "surface": "1805"
+  },
+  "f72": {
+   "kind": "measure",
+   "value": 19,
+   "unit": "jahre",
+   "surface": "19 Jahre"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "Deutscher Maler der Romantik",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David Friedrich war ein deutscher Maler, Grafiker und Zeichner."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Maler macht mit seinen Werken bei weitgehend unbekannten Bildkontexten sinnoffene Angebote."
+   },
+   {
+    "type": "closing",
+    "text": "Die Eule im Fenster ist in der für Friedrich charakteristischen Rückenansicht dargestellt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "Deutscher Maler der Romantik",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David Friedrich war ein deutscher Maler, Grafiker und Zeichner."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f72",
+    "display": "19 Jahre",
+    "caption": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f13",
+      "label": "Gegen die Eis-Variante spricht ein milder Dezemberanfang 1787."
+     },
+     {
+      "fact": "f15",
+      "label": "1794 begann Friedrich ein Studium an der Königlich Dänischen Kunstakademie in Kopenhagen."
+     },
+     {
+      "fact": "f25",
+      "label": "Ab 1800 beschäftigte Friedrich das Todes-Thema."
+     },
+     {
+      "fact": "f45",
+      "label": "Aus seiner offensichtlichen Lebenskrise heraus gelang Friedrich 1805 ein erster bedeutender künstlerischer Erfolg."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Mit seinen auf die Wirkungsästhetik ausgerichteten, konstruierten Bilderfindungen leistete er einen originären Beitrag zur modernen Kunst."
+   },
+   {
+    "type": "closing",
+    "text": "Der Maler macht mit seinen Werken bei weitgehend unbekannten Bildkontexten sinnoffene Angebote, die den Betrachter mit seiner angesprochenen Gefühlswelt in den Deutungsprozess einbeziehen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Caspar David Friedrich",
+    "line": "Deutscher Maler der Romantik",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David Friedrich war ein deutscher Maler, Grafiker und Zeichner."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caspar David Friedrich"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f72",
+    "display": "19 Jahre",
+    "caption": "Am 21. Januar 1818 heiratete Caspar David Friedrich die 19 Jahre jüngere Caroline Bommer, Tochter des Blaufärbers Christoph Bommer, in der Dresdner Kreuzkirche."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f13",
+      "label": "Gegen die Eis-Variante spricht ein milder Dezemberanfang 1787."
+     },
+     {
+      "fact": "f15",
+      "label": "1794 begann Friedrich ein Studium an der Königlich Dänischen Kunstakademie in Kopenhagen."
+     },
+     {
+      "fact": "f25",
+      "label": "Ab 1800 beschäftigte Friedrich das Todes-Thema."
+     },
+     {
+      "fact": "f45",
+      "label": "Aus seiner offensichtlichen Lebenskrise heraus gelang Friedrich 1805 ein erster bedeutender künstlerischer Erfolg."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David Friedrich wurde 1774 als sechstes von zehn Kindern des Talgseifensieders und Talgkerzengiessers Adolph Gottlieb Friedrich und dessen Ehefrau, Sophie Dorothea, geborene Bechly, in der damals zu Schwedisch-Pommern gehörenden Hafenstadt Greifswald geboren."
+   },
+   {
+    "type": "sentence",
+    "text": "Als Einwohner einer schwedischen Provinz, die aber als deutsches Herzogtum Teil des Heiligen Römischen Reiches war, war er Deutscher."
+   },
+   {
+    "type": "sentence",
+    "text": "Beide Eltern stammten aus der mecklenburgischen Stadt Neubrandenburg und waren wie ihre Vorfahren Handwerker."
+   },
+   {
+    "type": "sentence",
+    "text": "Überlieferungen, nach denen die Familien einem schlesischen Grafengeschlecht oder dem schwedischen Adel entstammen sollen, sind nicht zu belegen."
+   },
+   {
+    "type": "sentence",
+    "text": "Möglicherweise war den Verwandten die Herkunft des Malers peinlich, da «Seifensieder»als Schimpfwort in Neubrandenburg einen besonders kulturlosen Menschen bezeichnete."
+   },
+   {
+    "type": "sentence",
+    "text": "Caspar David wuchs in seinem Greifswalder Elternhaus in der Langen Gasse 28 auf."
+   },
+   {
+    "type": "closing",
+    "text": "Die Sinnoffenheit der Bilder führte seit der Wiederentdeckung Friedrichs zu Beginn des 20. Jahrhunderts zu einer Vielzahl oft gegensätzlicher Interpretationen sowie zur Theoriebildung aus kunstwissenschaftlicher, philosophischer, literaturwissenschaftlicher, psychologischer oder theologischer Sicht."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "0aa834d6a21b7d.1bfebe63372b24"
+ }
+}

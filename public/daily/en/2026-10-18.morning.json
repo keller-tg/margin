@@ -1,0 +1,235 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-18-morning",
+ "date": "2026-10-18",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Richard Wagner",
+  "qid": "Q1511",
+  "pageid": 25452,
+  "revid": 1375640529,
+  "domain": "people-arts",
+  "teaser": "German composer"
+ },
+ "sources": [
+  {
+   "title": "Richard Wagner",
+   "url": "https://en.wikipedia.org/w/index.php?title=Richard_Wagner&oldid=1375640529",
+   "revid": 1375640529,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:RichardWagner.jpg",
+   "w": 1369,
+   "h": 1897,
+   "alt": "Richard Wagner",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/960px-RichardWagner.jpg",
+   "sha1": "500e3caca3a01eb47ade7ca18cfc3ae2755b3620",
+   "credit": {
+    "author": "Franz Hanfstaengl",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:RichardWagner.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f10": {
+   "kind": "date",
+   "value": "1814",
+   "surface": "1814"
+  },
+  "f11": {
+   "kind": "date",
+   "value": "1820",
+   "surface": "1820"
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1827",
+   "surface": "1827"
+  },
+  "f16": {
+   "kind": "date",
+   "value": "1828",
+   "surface": "1828"
+  },
+  "f83": {
+   "kind": "measure",
+   "value": 15,
+   "unit": "years",
+   "surface": "15 years"
+  },
+  "f85": {
+   "kind": "measure",
+   "value": 24,
+   "unit": "years",
+   "surface": "24 years"
+  },
+  "f111": {
+   "kind": "number",
+   "value": 150000,
+   "surface": "150,000"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Richard Wagner",
+    "line": "German composer",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Wilhelm Richard Wagner was a German composer, theatre director, essayist."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f111",
+    "display": "150,000",
+    "caption": "Moreover, the festival finished with a deficit of about 150,000 marks."
+   },
+   {
+    "type": "closing",
+    "text": "Declared a “genius” by some and a “disease” by others, his views on religion, politics."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Richard Wagner",
+    "line": "German composer",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Richard Wagner"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f85",
+    "display": "24 years",
+    "caption": "Cosima was 24 years younger than Wagner and was herself illegitimate, the daughter of the Countess Marie d’Agoult."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "In August 1814 Johanna and Geyer probably married."
+     },
+     {
+      "fact": "f11",
+      "label": "In late 1820, Wagner was enrolled at Pastor Wetzel’s school at Possendorf, near Dresden."
+     },
+     {
+      "fact": "f15",
+      "label": "By 1827, the family had returned to Leipzig."
+     },
+     {
+      "fact": "f16",
+      "label": "Wagner’s first lessons in harmony were taken during 1828–1831 with Christian Gottlieb Müller."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Unlike most composers, Wagner wrote both the libretti and the music for all of his stage works."
+   },
+   {
+    "type": "closing",
+    "text": "Declared a “genius” by some and a “disease” by others, his views on religion, politics."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Richard Wagner",
+    "line": "German composer",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Richard Wagner"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f83",
+    "display": "15 years",
+    "caption": "After grave difficulties in rehearsal, Tristan und Isolde premiered at the National Theatre Munich on 10 June 1865, the first Wagner opera premiere in almost 15 years."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f10",
+      "label": "In August 1814 Johanna and Geyer probably married."
+     },
+     {
+      "fact": "f11",
+      "label": "In late 1820, Wagner was enrolled at Pastor Wetzel’s school at Possendorf, near Dresden."
+     },
+     {
+      "fact": "f15",
+      "label": "By 1827, the family had returned to Leipzig."
+     },
+     {
+      "fact": "f16",
+      "label": "Wagner’s first lessons in harmony were taken during 1828–1831 with Christian Gottlieb Müller."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Richard Wagner was born on 22 May 1813 to an ethnic German family in Leipzig, then part of the Confederation of the Rhine."
+   },
+   {
+    "type": "sentence",
+    "text": "Wagner’s father Carl died of typhoid fever six months after Richard’s birth."
+   },
+   {
+    "type": "sentence",
+    "text": "Geyer’s love of the theatre came to be shared by his stepson, and Wagner took part in his performances."
+   },
+   {
+    "type": "sentence",
+    "text": "Following Geyer’s death in 1821, Richard was sent to the Kreuzschule, the boarding school of the Dresdner Kreuzchor, at the expense of Geyer’s brother."
+   },
+   {
+    "type": "sentence",
+    "text": "At this period Wagner entertained ambitions as a playwright."
+   },
+   {
+    "type": "sentence",
+    "text": "Beethoven became a major inspiration, and Wagner wrote a piano transcription of the 9th Symphony."
+   },
+   {
+    "type": "closing",
+    "text": "Declared a “genius” by some and a “disease” by others, his views on religion, politics, and society remain debated—most notably the extent to which his antisemitism finds expression in his stage and prose works."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "168f0ce889996b.0f5a82150bffd1"
+ }
+}

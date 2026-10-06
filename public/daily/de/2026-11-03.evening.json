@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-03-evening",
+ "date": "2026-11-03",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Eschen (Pflanzengattung)",
+  "qid": "Q128887",
+  "pageid": 16191,
+  "revid": 266656402,
+  "domain": "plants",
+  "teaser": "Gattung der Familie Ölbaumgewächse"
+ },
+ "sources": [
+  {
+   "title": "Eschen (Pflanzengattung)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Eschen_(Pflanzengattung)&oldid=266656402",
+   "revid": 266656402,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Esche-WJP.jpg",
+   "w": 768,
+   "h": 1024,
+   "alt": "Eschen (Pflanzengattung)",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Esche-WJP.jpg",
+   "sha1": "eccc7e4b08ee8494de344bcc161b28faa75972d8",
+   "credit": {
+    "author": "Walter J. Pilsak, Waldsassen",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Esche-WJP.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Eschen (Pflanzengattung)",
+    "line": "Gattung der Familie Ölbaumgewächse",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "In Europa sind vier Arten heimisch: die Gemeine Esche, die Manna-Esche."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Eschen (Pflanzengattung)",
+    "line": "Gattung der Familie Ölbaumgewächse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Eschen sind eine Pflanzengattung in der Familie der Ölbaumgewächse."
+   },
+   {
+    "type": "closing",
+    "text": "Die Eberesche dagegen gehört, trotz ihres Namens, nicht zu den Eschen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Eschen (Pflanzengattung)",
+    "line": "Gattung der Familie Ölbaumgewächse",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Eschen sind eine Pflanzengattung in der Familie der Ölbaumgewächse."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Eschen (Pflanzengattung)"
+   },
+   {
+    "type": "closing",
+    "text": "Die Eberesche dagegen gehört, trotz ihres Namens, nicht zu den Eschen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "03071d1259ea28.1e8180297c1448"
+ }
+}

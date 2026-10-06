@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-08-morning",
+ "date": "2026-10-08",
+ "lang": "en",
+ "slot": "morning",
+ "topic": {
+  "title": "Falkland Islands",
+  "qid": "Q9648",
+  "pageid": 7550182,
+  "revid": 1375355019,
+  "domain": "islands",
+  "teaser": "Group of islands in the South Atlantic"
+ },
+ "sources": [
+  {
+   "title": "Falkland Islands",
+   "url": "https://en.wikipedia.org/w/index.php?title=Falkland_Islands&oldid=1375355019",
+   "revid": 1375355019,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+   "w": 1400,
+   "h": 1000,
+   "alt": "Falkland Islands",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Falkland-Islands-Terra-2011-01-23-250m.jpg/960px-Falkland-Islands-Terra-2011-01-23-250m.jpg",
+   "sha1": "b659f73ac4e0bea8846826212e30146d4fbb63c3",
+   "credit": {
+    "author": "NASA",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f1": {
+   "kind": "measure",
+   "value": 300,
+   "unit": "mi",
+   "surface": "300 mi"
+  },
+  "f10": {
+   "kind": "date",
+   "value": "1982",
+   "surface": "1982"
+  },
+  "f15": {
+   "kind": "date",
+   "value": "1983",
+   "surface": "1983"
+  },
+  "f16": {
+   "kind": "measure",
+   "value": 2300,
+   "unit": "ft",
+   "surface": "2,300 ft"
+  },
+  "f26": {
+   "kind": "date",
+   "value": "1770",
+   "surface": "1770"
+  },
+  "f34": {
+   "kind": "date",
+   "value": "1826",
+   "surface": "1826"
+  },
+  "f99": {
+   "kind": "measure",
+   "value": 610,
+   "unit": "mm",
+   "surface": "610 mm"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Falkland Islands",
+    "line": "Group of islands in the South Atlantic",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The archipelago, with an area of 4,700 sq mi, comprises East Falkland, West Falkland."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f99",
+    "display": "610 mm",
+    "caption": "Rainfall is common over half of the year, averaging 610 mm in Stanley."
+   },
+   {
+    "type": "closing",
+    "text": "Major economic activities include fishing, tourism, and sheep farming."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Falkland Islands",
+    "line": "Group of islands in the South Atlantic",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Falkland Islands, commonly referred to as the Falklands, is an archipelago in the South Atlantic Ocean on the Patagonian Shelf."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Falkland Islands"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f16",
+    "display": "2,300 ft",
+    "caption": "The islands lie at the boundary of the subantarctic oceanic and tundra climate zones, and both major islands have mountain ranges reaching 2,300 ft."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f26",
+      "label": "Problems began when Spain detected and captured Port Egmont in 1770."
+     },
+     {
+      "fact": "f34",
+      "label": "Vernet settled at the ruins of Puerto Soledad in 1826."
+     },
+     {
+      "fact": "f10",
+      "label": "In April 1982, Argentine military forces invaded the islands."
+     },
+     {
+      "fact": "f15",
+      "label": "Under the British Nationality Act 1983, Falkland Islanders are British citizens."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The archipelago, with an area of 4,700 sq mi, comprises East Falkland, West Falkland, and 776 smaller islands."
+   },
+   {
+    "type": "closing",
+    "text": "Oil exploration, licensed by the Falkland Islands Government, remains controversial as a result of maritime disputes with Argentina."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Falkland Islands",
+    "line": "Group of islands in the South Atlantic",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The Falkland Islands, commonly referred to as the Falklands, is an archipelago in the South Atlantic Ocean on the Patagonian Shelf."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Falkland Islands"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f1",
+    "display": "300 mi",
+    "caption": "The principal islands are about 300 mi east of South America’s southern Patagonian coast and 752 mi from Cape Dubouzet at the northern tip of the Antarctic Peninsula, at a latitude of about 52°S."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f26",
+      "label": "Problems began when Spain detected and captured Port Egmont in 1770."
+     },
+     {
+      "fact": "f34",
+      "label": "Vernet settled at the ruins of Puerto Soledad in 1826."
+     },
+     {
+      "fact": "f10",
+      "label": "In April 1982, Argentine military forces invaded the islands."
+     },
+     {
+      "fact": "f15",
+      "label": "Under the British Nationality Act 1983, Falkland Islanders are British citizens."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "The name Falkland was applied to the channel by John Strong, captain of an English expedition that landed on the islands in 1690."
+   },
+   {
+    "type": "sentence",
+    "text": "The first undisputed landing on the islands is attributed to English captain John Strong, who, en route to Peru and Chile’s littoral in 1690, explored the Falkland Sound and noted the islands’ water and game."
+   },
+   {
+    "type": "sentence",
+    "text": "Governor Colin Martin-Reynolds was appointed in July 2025 and Chief Executive Andrea Clausen took up the post on 1 April 2025."
+   },
+   {
+    "type": "sentence",
+    "text": "The name Falkland Islands comes from Falkland Sound, the strait that separates the two main islands."
+   },
+   {
+    "type": "sentence",
+    "text": "Although Fuegians from Patagonia may have visited the Falkland Islands in prehistoric times, the islands were uninhabited when Europeans first explored them."
+   },
+   {
+    "type": "sentence",
+    "text": "The Falkland Islands are a self-governing British Overseas Territory."
+   },
+   {
+    "type": "closing",
+    "text": "Oil exploration, licensed by the Falkland Islands Government, remains controversial as a result of maritime disputes with Argentina."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.85,
+ "verified": {
+  "version": 1,
+  "hash": "0aa2a7a3bc0cd8.139b52d0a5794f"
+ }
+}

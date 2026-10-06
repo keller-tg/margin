@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-06-evening",
+ "date": "2026-10-06",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Weißer Hai",
+  "qid": "Q129026",
+  "pageid": 1203927,
+  "revid": 267796214,
+  "domain": "animals",
+  "teaser": "Art der Gattung Carcharodon"
+ },
+ "sources": [
+  {
+   "title": "Weißer Hai",
+   "url": "https://de.wikipedia.org/w/index.php?title=Wei%C3%9Fer_Hai&oldid=267796214",
+   "revid": 267796214,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:White shark.jpg",
+   "w": 1200,
+   "h": 835,
+   "alt": "Weißer Hai",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/960px-White_shark.jpg",
+   "sha1": "e70be9e194e7d5242dd4f4324d679bd04d06470a",
+   "credit": {
+    "author": "Pterantula (Terry Goss) at en.wikipedia",
+    "authorSource": "artist",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
+    "attribution": "Terry Goss",
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Weisser Hai",
+    "line": "Art der Gattung Carcharodon",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Die Art kommt fast weltweit vor und besiedelt bevorzugt gemässigte Küstengewässer."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Weisser Hai",
+    "line": "Art der Gattung Carcharodon",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Weisse Hai, seltener auch als Weisshai oder Menschenhai bezeichnet, ist die einzige Art der Gattung Carcharodon aus der Familie der Makrelenhaie."
+   },
+   {
+    "type": "closing",
+    "text": "Als die grösste Haiart, die sich nicht von Plankton ernährt, ist der Weisse Hai der grösste Raubfisch; er kann auch Menschen gefährlich werden."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Weisser Hai",
+    "line": "Art der Gattung Carcharodon",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Weisse Hai, seltener auch als Weisshai oder Menschenhai bezeichnet, ist die einzige Art der Gattung Carcharodon aus der Familie der Makrelenhaie."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Weisser Hai"
+   },
+   {
+    "type": "closing",
+    "text": "Als die grösste Haiart, die sich nicht von Plankton ernährt, ist der Weisse Hai der grösste Raubfisch; er kann auch Menschen gefährlich werden."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "062fb98609aba8.0a6678ec91850a"
+ }
+}

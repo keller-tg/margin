@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-12-morning",
+ "date": "2026-10-12",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Mars (Planet)",
+  "qid": "Q111",
+  "pageid": 3992421,
+  "revid": 270249884,
+  "domain": "astronomy",
+  "teaser": "Vierter Planet des Sonnensystems, tellurisch und orange-rot aufgrund von Eisenoxid"
+ },
+ "sources": [
+  {
+   "title": "Mars (Planet)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Mars_(Planet)&oldid=270249884",
+   "revid": 270249884,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png",
+   "w": 1558,
+   "h": 1558,
+   "alt": "Mars (Planet)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+   "sha1": "f3e909b3724ccc1ab7f447a7bb4a3f1f0c5ca5a0",
+   "credit": {
+    "author": "Kevin Gill from Los Angeles, CA, United States",
+    "authorSource": "artist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f4": {
+   "kind": "measure",
+   "value": 3.9,
+   "unit": "g",
+   "surface": "3,9 g"
+  },
+  "f5": {
+   "kind": "measure",
+   "value": 3.69,
+   "unit": "m/s²",
+   "surface": "3,69 m/s²"
+  },
+  "f55": {
+   "kind": "date",
+   "value": "1013",
+   "surface": "1013"
+  },
+  "f58": {
+   "kind": "date",
+   "value": "2008",
+   "surface": "2008"
+  },
+  "f104": {
+   "kind": "date",
+   "value": "2006",
+   "surface": "2006"
+  },
+  "f111": {
+   "kind": "date",
+   "value": "2010",
+   "surface": "2010"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Mars (Planet)",
+    "line": "Vierter Planet des Sonnensystems, tellurisch und orange-rot aufgrund von Eisenoxid",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mars ist, von der Sonne aus gezählt."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f5",
+    "display": "3,69 m/s²",
+    "caption": "Die Fallbeschleunigung auf seiner Oberfläche beträgt 3,69 m/s², dies entspricht etwa 38 % der irdischen."
+   },
+   {
+    "type": "closing",
+    "text": "Das astronomische Symbol des Mars ist ♂."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Mars (Planet)",
+    "line": "Vierter Planet des Sonnensystems, tellurisch und orange-rot aufgrund von Eisenoxid",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mars ist, von der Sonne aus gezählt, der vierte Planet im Sonnensystem und der äussere Nachbar der Erde."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mars (Planet)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "3,9 g",
+    "caption": "Mit einer Dichte von 3,9 g/cm³ weist der Mars den geringsten Wert der erdähnlichen Planeten auf."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f55",
+      "label": "Im Vergleich zu durchschnittlich 1013 hPa auf der Erde sind dies nur 0,63 %."
+     },
+     {
+      "fact": "f104",
+      "label": "2006 proklamierte die NASA einen einzigartigen Fund: Auf einigen NASA-Fotografien."
+     },
+     {
+      "fact": "f58",
+      "label": "2008 entdeckte man mit Hilfe der Raumsonde Mars Express Wolken aus gefrorenem Kohlendioxid."
+     },
+     {
+      "fact": "f111",
+      "label": "Mit Hilfe von Daten des MRO wurden 2010 Gesteine entdeckt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Mit einem Durchmesser von knapp 6800 Kilometern ist er etwa halb so gross wie die Erde und sein Volumen beträgt gut ein Siebtel des Erdvolumens."
+   },
+   {
+    "type": "closing",
+    "text": "Das astronomische Symbol des Mars ist ♂."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Mars (Planet)",
+    "line": "Vierter Planet des Sonnensystems, tellurisch und orange-rot aufgrund von Eisenoxid",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mars ist, von der Sonne aus gezählt, der vierte Planet im Sonnensystem und der äussere Nachbar der Erde."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Mars (Planet)"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "3,9 g",
+    "caption": "Mit einer Dichte von 3,9 g/cm³ weist der Mars den geringsten Wert der erdähnlichen Planeten auf."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f55",
+      "label": "Im Vergleich zu durchschnittlich 1013 hPa auf der Erde sind dies nur 0,63 %."
+     },
+     {
+      "fact": "f104",
+      "label": "2006 proklamierte die NASA einen einzigartigen Fund: Auf einigen NASA-Fotografien."
+     },
+     {
+      "fact": "f58",
+      "label": "2008 entdeckte man mit Hilfe der Raumsonde Mars Express Wolken aus gefrorenem Kohlendioxid."
+     },
+     {
+      "fact": "f111",
+      "label": "Mit Hilfe von Daten des MRO wurden 2010 Gesteine entdeckt."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mars bewegt sich in einem Abstand von 206,62 bis 249,23 Millionen Kilometern in knapp 687 Tagen auf einer elliptischen Umlaufbahn um die Sonne."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Bahnebene ist 1,85° gegen die Erdbahnebene geneigt."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Bahnexzentrizität beträgt 0,0934."
+   },
+   {
+    "type": "sentence",
+    "text": "Vor 1,35 Millionen Jahren betrug die Exzentrizität nur etwa 0,002, weniger als die der Erde heute."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Periode der Exzentrizität des Mars beträgt etwa 96.000 Jahre, die der Erde etwa 100.000 Jahre."
+   },
+   {
+    "type": "sentence",
+    "text": "Der Mars besitzt eine sehr dünne Atmosphäre."
+   },
+   {
+    "type": "closing",
+    "text": "Das astronomische Symbol des Mars ist ♂."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "09e3c693be3578.1fae839b36adf1"
+ }
+}

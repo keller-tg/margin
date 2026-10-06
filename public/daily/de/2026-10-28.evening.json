@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-28-evening",
+ "date": "2026-10-28",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Fleisch",
+  "qid": "Q10990",
+  "pageid": 144679,
+  "revid": 270946810,
+  "domain": "food",
+  "teaser": "Teile von geschlachteten oder erlegten warmblütigen Tieren, die zum Genuss für Menschen bestimmt sind."
+ },
+ "sources": [
+  {
+   "title": "Fleisch",
+   "url": "https://de.wikipedia.org/w/index.php?title=Fleisch&oldid=270946810",
+   "revid": 270946810,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Venison Steaks.jpg",
+   "w": 850,
+   "h": 629,
+   "alt": "Fleisch",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/64/Venison_Steaks.jpg",
+   "sha1": "4b04824d34a6a3817b3dfbb48ceb8091ec867700",
+   "credit": {
+    "author": "FotoosVanRobin from Netherlands",
+    "authorSource": "artist",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Venison_Steaks.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Fleisch",
+    "line": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "In der Heilkunde kann mit Fleisch auch Granulationsgewebe gemeint sein."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Fleisch",
+    "line": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Im Besonderen steht der Begriff für Teile von Säugetieren, Vögeln und vereinzelt Reptilien, die zur Ernährung des Menschen genutzt werden."
+   },
+   {
+    "type": "closing",
+    "text": "Im Weiteren wird Fleisch auch zur Bezeichnung für die als Nahrungsmittel genutzten Weichteile wechselwarmer Tiere wie Fische, Krebse, Muscheln und Schnecken verwendet."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Fleisch",
+    "line": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Im Besonderen steht der Begriff für Teile von Säugetieren, Vögeln und vereinzelt Reptilien, die zur Ernährung des Menschen genutzt werden."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Fleisch"
+   },
+   {
+    "type": "closing",
+    "text": "Im Weiteren wird Fleisch auch zur Bezeichnung für die als Nahrungsmittel genutzten Weichteile wechselwarmer Tiere wie Fische, Krebse, Muscheln und Schnecken verwendet; verbreitet sind Wortzusammensetzungen wie Krebsfleisch oder Muschelfleisch."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 0.95,
+ "verified": {
+  "version": 1,
+  "hash": "1ec154347bff83.068f04ac929b6a"
+ }
+}

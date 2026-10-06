@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-08-evening",
+ "date": "2026-10-08",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Caesium",
+  "qid": "Q1108",
+  "pageid": 5879,
+  "revid": 1376815966,
+  "domain": "chemistry",
+  "teaser": "Chemical element with atomic number 55"
+ },
+ "sources": [
+  {
+   "title": "Caesium",
+   "url": "https://en.wikipedia.org/w/index.php?title=Caesium&oldid=1376815966",
+   "revid": 1376815966,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Cesium.jpg",
+   "w": 4000,
+   "h": 3000,
+   "alt": "Caesium",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cesium.jpg/960px-Cesium.jpg",
+   "sha1": "14f289d861039c1a19204a386c0fb786715ec412",
+   "credit": {
+    "author": "Dnn87 Contact email: Dnn87yahoo.dk",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Cesium.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Caesium",
+    "line": "Chemical element with atomic number 55",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Caesium has physical and chemical properties similar to those of rubidium and potassium."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Caesium",
+    "line": "Chemical element with atomic number 55",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium is a chemical element; it has symbol Cs and atomic number 55."
+   },
+   {
+    "type": "closing",
+    "text": "The radioactive isotope caesium-137 has a half-life of about 30 years and is used in medical applications, industrial gauges, and hydrology."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Caesium",
+    "line": "Chemical element with atomic number 55",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Caesium is a chemical element; it has symbol Cs and atomic number 55."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Caesium"
+   },
+   {
+    "type": "closing",
+    "text": "The radioactive isotope caesium-137 has a half-life of about 30 years and is used in medical applications, industrial gauges, and hydrology."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "036c5114357d8e.0e35a94fd02770"
+ }
+}

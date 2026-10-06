@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-06-evening",
+ "date": "2026-10-06",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Electric eel",
+  "qid": "Q18926800",
+  "pageid": 61262925,
+  "revid": 1376468508,
+  "domain": "animals",
+  "teaser": "Genus of fishes in South America"
+ },
+ "sources": [
+  {
+   "title": "Electric eel",
+   "url": "https://en.wikipedia.org/w/index.php?title=Electric_eel&oldid=1376468508",
+   "revid": 1376468508,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Electric-eel.jpg",
+   "w": 2304,
+   "h": 1728,
+   "alt": "Electric eel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/960px-Electric-eel.jpg",
+   "sha1": "9df44bd3793de1fad6c110f07cd78cf66ee04fe9",
+   "credit": {
+    "author": "Steven G. Johnson",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Electric-eel.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Electric eel",
+    "line": "Genus of fishes in South America",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Males are larger than females."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Electric eel",
+    "line": "Genus of fishes in South America",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Electric eels grow for as long as they live, adding more vertebrae to their spinal column."
+   },
+   {
+    "type": "closing",
+    "text": "Some captive specimens have lived for over 20 years."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Electric eel",
+    "line": "Genus of fishes in South America",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The electric eels are a genus, Electrophorus, of neotropical freshwater fish from South America in the family Gymnotidae, of which they are the only members of the subfamily Electrophorinae."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Electric eel"
+   },
+   {
+    "type": "closing",
+    "text": "Some captive specimens have lived for over 20 years."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "13e621e052649a.1126a5912fe348"
+ }
+}

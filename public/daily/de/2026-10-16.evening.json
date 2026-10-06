@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-16-evening",
+ "date": "2026-10-16",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Saturn (Planet)",
+  "qid": "Q193",
+  "pageid": 4661,
+  "revid": 270814062,
+  "domain": "astronomy",
+  "teaser": "Sechster Planet des Sonnensystems"
+ },
+ "sources": [
+  {
+   "title": "Saturn (Planet)",
+   "url": "https://de.wikipedia.org/w/index.php?title=Saturn_(Planet)&oldid=270814062",
+   "revid": 270814062,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Saturn from Cassini Orbiter (2004-10-06).jpg",
+   "w": 8888,
+   "h": 4544,
+   "alt": "Saturn (Planet)",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg/960px-Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg",
+   "sha1": "f31bcb52475bb034c89e3ff8df02dd7bee6c1643",
+   "credit": {
+    "author": "NASA/JPL/Space Science Institute",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Saturn_from_Cassini_Orbiter_(2004-10-06).jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Saturn (Planet)",
+    "line": "Sechster Planet des Sonnensystems",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Als Gasplanet hat Saturn keine feste Oberfläche."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Saturn (Planet)",
+    "line": "Sechster Planet des Sonnensystems",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Saturn ist von der Sonne aus gesehen der sechste Planet des Sonnensystems und mit einem Äquatordurchmesser von etwa 120.500 Kilometern nach Jupiter der zweitgrösste."
+   },
+   {
+    "type": "closing",
+    "text": "Benannt ist der Planet nach dem römischen Gott des Reichtums und der Ernte, Saturn."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Saturn (Planet)",
+    "line": "Sechster Planet des Sonnensystems",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Saturn ist von der Sonne aus gesehen der sechste Planet des Sonnensystems und mit einem Äquatordurchmesser von etwa 120.500 Kilometern nach Jupiter der zweitgrösste."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Saturn (Planet)"
+   },
+   {
+    "type": "closing",
+    "text": "Benannt ist der Planet nach dem römischen Gott des Reichtums und der Ernte, Saturn."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "00c672f2d3c586.0bf13ba5db936b"
+ }
+}

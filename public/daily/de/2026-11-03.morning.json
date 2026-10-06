@@ -1,0 +1,230 @@
+{
+ "schema": 1,
+ "id": "de-2026-11-03-morning",
+ "date": "2026-11-03",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Tyrannosaurus",
+  "qid": "Q14332",
+  "pageid": 127771,
+  "revid": 270546401,
+  "domain": "animals",
+  "teaser": "Sauriergattung der Familie Tyrannosauridae"
+ },
+ "sources": [
+  {
+   "title": "Tyrannosaurus",
+   "url": "https://de.wikipedia.org/w/index.php?title=Tyrannosaurus&oldid=270546401",
+   "revid": 270546401,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Stan the Trex at Manchester Museum.jpg",
+   "w": 754,
+   "h": 1165,
+   "alt": "Tyrannosaurus",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/33/Stan_the_Trex_at_Manchester_Museum.jpg",
+   "sha1": "12216e390ccea546d8efb219b14411fa7329c4de",
+   "credit": {
+    "author": "The original uploader was Billlion at English Wikipedia.",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Stan_the_Trex_at_Manchester_Museum.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {
+  "f2": {
+   "kind": "date",
+   "value": "2024",
+   "surface": "2024"
+  },
+  "f4": {
+   "kind": "measure",
+   "value": 66000000,
+   "unit": "jahren",
+   "surface": "66 Millionen Jahren"
+  },
+  "f6": {
+   "kind": "measure",
+   "value": 7000000,
+   "unit": "jahre",
+   "surface": "7 Millionen Jahre"
+  },
+  "f28": {
+   "kind": "date",
+   "value": "2003",
+   "surface": "2003"
+  },
+  "f29": {
+   "kind": "date",
+   "value": "2020",
+   "surface": "2020"
+  },
+  "f88": {
+   "kind": "date",
+   "value": "1970",
+   "surface": "1970"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Tyrannosaurus",
+    "line": "Sauriergattung der Familie Tyrannosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Tyrannosaurus ist eine Gattung bipeder, fleischfressender Dinosaurier aus der Gruppe der Theropoda."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f6",
+    "display": "7 Millionen Jahre",
+    "caption": "Tyrannosaurus mcraeensis lebte 5–7 Millionen Jahre vor Tyrannosaurus rex."
+   },
+   {
+    "type": "closing",
+    "text": "Die Gesamtzahl aller jemals gelebt habenden Exemplare wird auf 2,5 Milliarden geschätzt."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Tyrannosaurus",
+    "line": "Sauriergattung der Familie Tyrannosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Tyrannosaurus ist eine Gattung bipeder, fleischfressender Dinosaurier aus der Gruppe der Theropoda."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Tyrannosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f6",
+    "display": "7 Millionen Jahre",
+    "caption": "Tyrannosaurus mcraeensis lebte 5–7 Millionen Jahre vor Tyrannosaurus rex."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f88",
+      "label": "Um das Jahr 1970 hatten Wissenschaftler bemerkt, dass diese Haltung inkorrekt war."
+     },
+     {
+      "fact": "f28",
+      "label": "Eine kladistische Analyse aus dem Jahr 2003 kam zu dem Schluss, dass Alioramus."
+     },
+     {
+      "fact": "f29",
+      "label": "Phylogenetische Analyse der Tyrannosaurinae aus dem Jahr 2020: Andere Tyrannosauriden-Überreste."
+     },
+     {
+      "fact": "f2",
+      "label": "Im Jahr 2024 wurde mit Tyrannosaurus mcraeensis eine weitere Art beschrieben."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Typusart ist Tyrannosaurus rex, nach Duden Tyrannosaurus Rex, häufig mit T. rex, auch T-Rex, abgekürzt."
+   },
+   {
+    "type": "closing",
+    "text": "Die Gesamtzahl aller jemals gelebt habenden Exemplare wird auf 2,5 Milliarden geschätzt."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Tyrannosaurus",
+    "line": "Sauriergattung der Familie Tyrannosauridae",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Tyrannosaurus ist eine Gattung bipeder, fleischfressender Dinosaurier aus der Gruppe der Theropoda."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Tyrannosaurus"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "66 Millionen Jahren",
+    "caption": "Fossilien des Tyrannosaurus rex fanden sich in verschiedenen Gesteinsformationen im westlichen Nordamerika, die auf die letzten drei Millionen Jahre der Kreidezeit datiert werden, also vor etwa 68 bis 66 Millionen Jahren."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f88",
+      "label": "Um das Jahr 1970 hatten Wissenschaftler bemerkt, dass diese Haltung inkorrekt war."
+     },
+     {
+      "fact": "f28",
+      "label": "Eine kladistische Analyse aus dem Jahr 2003 kam zu dem Schluss, dass Alioramus."
+     },
+     {
+      "fact": "f29",
+      "label": "Phylogenetische Analyse der Tyrannosaurinae aus dem Jahr 2020: Andere Tyrannosauriden-Überreste."
+     },
+     {
+      "fact": "f2",
+      "label": "Im Jahr 2024 wurde mit Tyrannosaurus mcraeensis eine weitere Art beschrieben."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Tyrannosaurus gehörte zu den grössten landlebenden Fleischfressern aller Zeiten."
+   },
+   {
+    "type": "sentence",
+    "text": "Das grösste und schwerste bekannte Exemplar ist der kanadische Fund «Scotty», der Ausmasse von gut 13 Metern und ein Gewicht von 8,8 Tonnen erreichte."
+   },
+   {
+    "type": "sentence",
+    "text": "Gewichtsschätzungen verschiedener Wissenschaftler variieren beträchtlich und reichen von weniger als 4,5 bis über 7,2 Tonnen, wobei die neuesten Schätzungen zwischen 5,4 und 6,8 Tonnen liegen."
+   },
+   {
+    "type": "sentence",
+    "text": "Tyrannosaurus ist die Typusgattung der Überfamilie Tyrannosauroidea, der Familie Tyrannosauridae sowie der Unterfamilie Tyrannosaurinae – mit anderen Worten ist sie der Standard, an welchem Paläontologen entscheiden, ob andere Spezies in derselben Gruppe eingeordnet werden."
+   },
+   {
+    "type": "sentence",
+    "text": "Andere Mitglieder der Unterfamilie Tyrannosaurinae schliessen den nordamerikanischen Daspletosaurus und den asiatischen Tarbosaurus mit ein, die beide in der Vergangenheit von manchen Forschern als Synonyme von Tyrannosaurus betrachtet wurden."
+   },
+   {
+    "type": "sentence",
+    "text": "Im Jahr 1955 benannte der sowjetische Paläontologe Jewgeni Malejew neben dem bereits 1905 beschriebenen Tyrannosaurus rex eine neue Art, Tyrannosaurus bataar, die in der Mongolei entdeckt wurde."
+   },
+   {
+    "type": "closing",
+    "text": "Die Gesamtzahl aller jemals gelebt habenden Exemplare wird auf 2,5 Milliarden geschätzt."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "03c45e61fdedc8.08fe0e70d738ec"
+ }
+}

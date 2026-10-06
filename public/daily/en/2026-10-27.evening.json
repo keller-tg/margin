@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-27-evening",
+ "date": "2026-10-27",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Tuba",
+  "qid": "Q131168",
+  "pageid": 30961,
+  "revid": 1378360960,
+  "domain": "instruments",
+  "teaser": "Brass instrument"
+ },
+ "sources": [
+  {
+   "title": "Tuba",
+   "url": "https://en.wikipedia.org/w/index.php?title=Tuba&oldid=1378360960",
+   "revid": 1378360960,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Yamaha Bass tuba YFB-822.tif",
+   "w": 873,
+   "h": 1417,
+   "alt": "Tuba",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Yamaha_Bass_tuba_YFB-822.tif/lossy-page1-500px-Yamaha_Bass_tuba_YFB-822.tif.jpg",
+   "sha1": "fddd59fc37f6b8e3eda0a5f2889d575460f84e73",
+   "credit": {
+    "author": "Yamaha Corporation",
+    "authorSource": "artist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Yamaha_Bass_tuba_YFB-822.tif",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Tuba",
+    "line": "Brass instrument",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "The tuba usually has four or five valves, although some models have three or six."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Tuba",
+    "line": "Brass instrument",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The tuba is a large brass instrument in the bass-to-contrabass range."
+   },
+   {
+    "type": "closing",
+    "text": "A person who plays the tuba is called a tubist or tubaist, or simply a tuba player."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Tuba",
+    "line": "Brass instrument",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "The tuba is a large brass instrument in the bass-to-contrabass range."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Tuba"
+   },
+   {
+    "type": "closing",
+    "text": "A person who plays the tuba is called a tubist or tubaist, or simply a tuba player."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0dae7319abce06.04b87ac05b4f02"
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-20-morning",
+ "date": "2026-10-20",
+ "lang": "de",
+ "slot": "morning",
+ "topic": {
+  "title": "Falklandinseln",
+  "qid": "Q9648",
+  "pageid": 10356,
+  "revid": 271031549,
+  "domain": "islands",
+  "teaser": "Inselgruppe im südlichen Atlantik und britisches Überseegebiet"
+ },
+ "sources": [
+  {
+   "title": "Falklandinseln",
+   "url": "https://de.wikipedia.org/w/index.php?title=Falklandinseln&oldid=271031549",
+   "revid": 271031549,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+   "w": 1400,
+   "h": 1000,
+   "alt": "Falklandinseln",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Falkland-Islands-Terra-2011-01-23-250m.jpg/960px-Falkland-Islands-Terra-2011-01-23-250m.jpg",
+   "sha1": "b659f73ac4e0bea8846826212e30146d4fbb63c3",
+   "credit": {
+    "author": "NASA",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {
+  "f3": {
+   "kind": "date",
+   "value": "1982",
+   "surface": "1982"
+  },
+  "f4": {
+   "kind": "measure",
+   "value": 400000000,
+   "unit": "jahren",
+   "surface": "400 Millionen Jahren"
+  },
+  "f39": {
+   "kind": "date",
+   "value": "1766",
+   "surface": "1766"
+  },
+  "f42": {
+   "kind": "date",
+   "value": "1820",
+   "surface": "1820"
+  },
+  "f45": {
+   "kind": "date",
+   "value": "1837",
+   "surface": "1837"
+  }
+ },
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Falklandinseln",
+    "line": "Inselgruppe im südlichen Atlantik und britisches Überseegebiet",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Falklandinseln, auch Malwinen, sind eine Inselgruppe im südlichen Atlantik."
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "400 Millionen Jahren",
+    "caption": "Die Falklandinseln waren vor etwa 400 Millionen Jahren Teil des Urkontinents Gondwana."
+   },
+   {
+    "type": "closing",
+    "text": "1982 führte die Auseinandersetzung zum Falklandkrieg zwischen dem Vereinigten Königreich und Argentinien."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Falklandinseln",
+    "line": "Inselgruppe im südlichen Atlantik und britisches Überseegebiet",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Falklandinseln, auch Malwinen, sind eine Inselgruppe im südlichen Atlantik."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Falklandinseln"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "400 Millionen Jahren",
+    "caption": "Die Falklandinseln waren vor etwa 400 Millionen Jahren Teil des Urkontinents Gondwana."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f39",
+      "label": "Port-Louis wurde schon 1766 an Spanien übergeben."
+     },
+     {
+      "fact": "f42",
+      "label": "1820 wurde die Inselgruppe von Argentinien physisch in Besitz genommen."
+     },
+     {
+      "fact": "f45",
+      "label": "1837 wurde eine Kolonialverwaltung eingerichtet."
+     },
+     {
+      "fact": "f3",
+      "label": "1982 führte die Auseinandersetzung zum Falklandkrieg zwischen dem Vereinigten Königreich und Argentinien."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Die Falklandinseln sind ein britisches Überseegebiet mit innerer Autonomie."
+   },
+   {
+    "type": "closing",
+    "text": "Das Vereinigte Königreich übernimmt Verteidigung und Aussenpolitik."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Falklandinseln",
+    "line": "Inselgruppe im südlichen Atlantik und britisches Überseegebiet",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Die Falklandinseln, auch Malwinen, sind eine Inselgruppe im südlichen Atlantik."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Falklandinseln"
+   },
+   {
+    "type": "bignumber",
+    "fact": "f4",
+    "display": "400 Millionen Jahren",
+    "caption": "Die Falklandinseln waren vor etwa 400 Millionen Jahren Teil des Urkontinents Gondwana."
+   },
+   {
+    "type": "timeline",
+    "events": [
+     {
+      "fact": "f39",
+      "label": "Port-Louis wurde schon 1766 an Spanien übergeben."
+     },
+     {
+      "fact": "f42",
+      "label": "1820 wurde die Inselgruppe von Argentinien physisch in Besitz genommen."
+     },
+     {
+      "fact": "f45",
+      "label": "1837 wurde eine Kolonialverwaltung eingerichtet."
+     },
+     {
+      "fact": "f3",
+      "label": "1982 führte die Auseinandersetzung zum Falklandkrieg zwischen dem Vereinigten Königreich und Argentinien."
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "text": "Während des Jura, vor etwa 170 Millionen Jahren, drehten sich die Landstücke, die heute Ost- und Westfalkland bilden, um ca. 120°."
+   },
+   {
+    "type": "sentence",
+    "text": "Die Falklandinseln bestehen aus etwa 200 Inseln, deren wichtigste Westfalkland und Ostfalkland mit etwa 4500 km² bzw. 6000 km² Grösse sind."
+   },
+   {
+    "type": "sentence",
+    "text": "Seit 1946 steht das Territorium auf der UN-Liste der Hoheitsgebiete ohne Selbstregierung."
+   },
+   {
+    "type": "sentence",
+    "text": "Die beiden Hauptorte von West-Falkland, Port Howard und Fox Bay, die beide über eine eigene asphaltierte Landebahn verfügen, haben jeweils nur 22 bzw. 30 Einwohner."
+   },
+   {
+    "type": "sentence",
+    "text": "Zwei Drittel der rund 3.000 Einwohner wohnen in der Hauptstadt Stanley, die auch zugleich Hauptort von Ost-Falkland ist."
+   },
+   {
+    "type": "sentence",
+    "text": "Insgesamt verzeichnet die Flora der Falklandinseln 278 Arten."
+   },
+   {
+    "type": "closing",
+    "text": "Das Vereinigte Königreich übernimmt Verteidigung und Aussenpolitik."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "03a7298b1b9e25.0de31e4c564afe"
+ }
+}

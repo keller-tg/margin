@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-11-01-evening",
+ "date": "2026-11-01",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Liverwort",
+  "qid": "Q189808",
+  "pageid": 367897,
+  "revid": 1375057070,
+  "domain": "plants",
+  "teaser": "Division of non-vascular land plants"
+ },
+ "sources": [
+  {
+   "title": "Liverwort",
+   "url": "https://en.wikipedia.org/w/index.php?title=Liverwort&oldid=1375057070",
+   "revid": 1375057070,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Assortment of Hepaticae from Kunstformen der Natur (1904), plate 82.jpg",
+   "w": 2378,
+   "h": 3331,
+   "alt": "Liverwort",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Assortment_of_Hepaticae_from_Kunstformen_der_Natur_%281904%29%2C_plate_82.jpg/960px-Assortment_of_Hepaticae_from_Kunstformen_der_Natur_%281904%29%2C_plate_82.jpg",
+   "sha1": "548570ddb223c32bd638c62bae544b1bb6ec45d2",
+   "credit": {
+    "author": "Ernst Haeckel",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Assortment_of_Hepaticae_from_Kunstformen_der_Natur_(1904),_plate_82.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Liverwort",
+    "line": "Division of non-vascular land plants",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Liverworts, mosses, and hornworts are collectively known as bryophytes."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Liverwort",
+    "line": "Division of non-vascular land plants",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Liverworts are non-vascular land plants in the division Marchantiophyta, also known as hepatics."
+   },
+   {
+    "type": "closing",
+    "text": "Liverworts occur as either thallose or leafy forms."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Liverwort",
+    "line": "Division of non-vascular land plants",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Liverworts are non-vascular land plants in the division Marchantiophyta, also known as hepatics."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Liverwort"
+   },
+   {
+    "type": "closing",
+    "text": "Liverworts occur as either thallose or leafy forms."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "13a5a795968d4b.138fb07c816e5c"
+ }
+}

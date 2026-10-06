@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "de-2026-10-09-evening",
+ "date": "2026-10-09",
+ "lang": "de",
+ "slot": "evening",
+ "topic": {
+  "title": "Grüner Knollenblätterpilz",
+  "qid": "Q188643",
+  "pageid": 114413,
+  "revid": 270182685,
+  "domain": "plants",
+  "teaser": "Art der Gattung Wulstlinge"
+ },
+ "sources": [
+  {
+   "title": "Grüner Knollenblätterpilz",
+   "url": "https://de.wikipedia.org/w/index.php?title=Gr%C3%BCner_Knollenbl%C3%A4tterpilz&oldid=270182685",
+   "revid": 270182685,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:2009-05 Amanita phalloides crop.jpg",
+   "w": 960,
+   "h": 1140,
+   "alt": "Grüner Knollenblätterpilz",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a6/2009-05_Amanita_phalloides_crop.jpg",
+   "sha1": "23a07519fa569cc989e26be2b371428b77a4af4a",
+   "credit": {
+    "author": "Amanita_phalloides_1.JPG: Archenzo",
+    "authorSource": "artist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:2009-05_Amanita_phalloides_crop.jpg",
+    "attribution": null,
+    "attributionRequired": true
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Grüner Knollenblätterpilz",
+    "line": "Art der Gattung Wulstlinge",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "Schon der teilweise Verzehr eines Fruchtkörpers kann eine tödliche Pilzvergiftung auslösen."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Grüner Knollenblätterpilz",
+    "line": "Art der Gattung Wulstlinge",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Grüne Knollenblätterpilz ist eine Pilzart aus der Familie Amanitaceae und der Gattung der Wulstlinge."
+   },
+   {
+    "type": "closing",
+    "text": "Die enthaltenen Amatoxine und Phallotoxine führen zu Leberversagen und Nierenversagen."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Grüner Knollenblätterpilz",
+    "line": "Art der Gattung Wulstlinge",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Der Grüne Knollenblätterpilz ist eine Pilzart aus der Familie Amanitaceae und der Gattung der Wulstlinge."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Grüner Knollenblätterpilz"
+   },
+   {
+    "type": "closing",
+    "text": "Die enthaltenen Amatoxine und Phallotoxine führen zu Leberversagen und Nierenversagen."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0f0a08ebde3575.0bfaebc3bc6468"
+ }
+}

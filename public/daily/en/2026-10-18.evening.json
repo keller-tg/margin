@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "en-2026-10-18-evening",
+ "date": "2026-10-18",
+ "lang": "en",
+ "slot": "evening",
+ "topic": {
+  "title": "Frigatebird",
+  "qid": "Q203472",
+  "pageid": 183143,
+  "revid": 1371391730,
+  "domain": "animals",
+  "teaser": "Family of seabirds"
+ },
+ "sources": [
+  {
+   "title": "Frigatebird",
+   "url": "https://en.wikipedia.org/w/index.php?title=Frigatebird&oldid=1371391730",
+   "revid": 1371391730,
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "images": {
+  "img1": {
+   "file": "File:Fregata magnificens1.jpg",
+   "w": 1050,
+   "h": 715,
+   "alt": "Frigatebird",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Fregata_magnificens1.jpg/960px-Fregata_magnificens1.jpg",
+   "sha1": "a450c24925154fbcf9e40bfdc13ef2d2ea8d4312",
+   "credit": {
+    "author": "E. Kirdler",
+    "authorSource": "artist",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "fileUrl": "https://commons.wikimedia.org/wiki/File:Fregata_magnificens1.jpg",
+    "attribution": null,
+    "attributionRequired": false
+   }
+  }
+ },
+ "facts": {},
+ "paces": {
+  "easy": [
+   {
+    "type": "title",
+    "title": "Frigatebird",
+    "line": "Family of seabirds",
+    "image": "img1"
+   },
+   {
+    "type": "closing",
+    "text": "All have predominantly black plumage, long, deeply forked tails and long hooked bills."
+   }
+  ],
+  "medium": [
+   {
+    "type": "title",
+    "title": "Frigatebird",
+    "line": "Family of seabirds",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Frigatebirds are a family of seabirds called Fregatidae which are found across all tropical and subtropical oceans."
+   },
+   {
+    "type": "closing",
+    "text": "The three extinct relatives are classified in the genus Limnofregata, and had shorter, less-hooked bills and longer legs, and lived in a freshwater environment."
+   }
+  ],
+  "deep": [
+   {
+    "type": "title",
+    "title": "Frigatebird",
+    "line": "Family of seabirds",
+    "image": "img1"
+   },
+   {
+    "type": "sentence",
+    "text": "Frigatebirds are a family of seabirds called Fregatidae which are found across all tropical and subtropical oceans."
+   },
+   {
+    "type": "image",
+    "image": "img1",
+    "caption": "Frigatebird"
+   },
+   {
+    "type": "closing",
+    "text": "The three extinct relatives are classified in the genus Limnofregata, and had shorter, less-hooked bills and longer legs, and lived in a freshwater environment."
+   }
+  ]
+ },
+ "authoredBy": "extractive",
+ "qualityScore": 1,
+ "verified": {
+  "version": 1,
+  "hash": "0b4a1781d65a06.04a24b82310c54"
+ }
+}
