@@ -270,5 +270,8 @@ saveIndex(index);
 writeJson(rejectsPath(), rejects);
 writeJson(REVIEW_PATH, review);
 writeJson(p('content/images/used.json'), Object.fromEntries(Object.entries(usedImages).sort(([a], [b]) => a.localeCompare(b))));
-writeJson(p('content/reports/image-screen.json'), { generatedAt: new Date().toISOString(), rejectedByScreen: imageScreenLog });
+// cumulative: earlier runs' findings stay listed (a file screened once is not re-logged by later runs)
+const previous = readJson<{ rejectedByScreen: typeof imageScreenLog }>(p('content/reports/image-screen.json'), { rejectedByScreen: [] }).rejectedByScreen;
+const merged = [...previous, ...imageScreenLog.filter((x) => !previous.some((y) => y.file === x.file && y.lang === x.lang))];
+writeJson(p('content/reports/image-screen.json'), { updatedAt: new Date().toISOString(), rejectedByScreen: merged });
 log(`done. network ${stats.network}, cache ${stats.cached}, retries ${stats.retries}, waited ${Math.round(stats.waitedMs / 1000)}s`);
