@@ -14,6 +14,11 @@ From the original brief. Each milestone ends with a review by the owner before t
 - **f.** Notebook and settings (paper, ink, language, pace, motion), plus the entitlements layer (everything unlocked by a flag).
 - **g.** Authoring workflow (prepare / verify / preview) and the first 30-day curated batch in en/de/fr. The curated text replaces the weak extractive openers.
 - **h.** PWA/offline, a nightly GitHub Action (no keys, no AI), deploy config.
+  - **Images (decision to make in h):** rebuild the encoded images in CI with an Actions cache (`.cache/images/` + `public/img/`), *or* commit the encoded images (e.g. to the orphan `pages` branch or to `main`).
+    - **Measured 2026-10-06:** 38 encoded images = **16.4 MB** (AVIF 6.7 MB + WebP 9.7 MB at 480/960/1280 px), about 0.43 MB per image. The downloaded source bytes are another 16.4 MB.
+    - **Extrapolated:** the full 30-day batch (146 images) comes to about **63 MB**, so about **60 MB per month of new content**, or about 0.75 GB a year if it is committed to `main`. That is why plan §1 keeps binaries off `main`.
+    - **Rate limits:** a CI rebuild hits upload.wikimedia.org's rate limits only for new images, since the cache keeps the rest. From this environment's shared IP, upload.wikimedia.org allowed about 20 images an hour (repeated `Retry-After: 600`). GitHub's runners are not tested yet.
+  - **Remaining downloads:** 108 of 146 images for the current batch are still to download. The first run of the CI step does this.
 - **i.** Polish pass: motion, typography, a11y, performance, reduced motion.
 - **j.** README, docs, licenses, the /about page, contribution guide.
 

@@ -15,7 +15,10 @@ import type { ImageRecord } from '../../src/core/license/license';
 import { p } from '../content/lib/store';
 import { fetchImageBytes, stats } from '../content/lib/wiki';
 
-const STANDARD = [250, 330, 500, 960, 1280] as const; // Wikimedia's standard thumbnail widths (T414805)
+// Wikimedia's standard thumbnail widths are 20, 40, 60, 120, 250, 330, 500, 960, 1280, 1920 and 3840
+// (mediawiki.org "Common thumbnail sizes"; direct requests for other widths are rejected). The layout
+// needs at most 1280 (a 34rem photo at 2x), so these are the ones ever requested.
+const STANDARD = [250, 330, 500, 960, 1280] as const;
 export const OUTPUT_WIDTHS = [480, 960, 1280] as const;
 const CACHE = p('.cache/images');
 const OUT = p('public/img');
