@@ -440,5 +440,109 @@
    "pickedAt": "2026-10-06T08:45:04.904Z",
    "attempt": 0
   }
+ },
+ "2026-10-23": {
+  "morning": {
+   "title": "Capella",
+   "qid": "Q12970",
+   "pageid": 1264072,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Capella-Sun comparison.png",
+    "via": "edition:de"
+   },
+   "pickedAt": "2026-10-06T08:46:01.585Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Oat",
+   "qid": "Q12104",
+   "pageid": 46573,
+   "domain": "plants",
+   "image": {
+    "file": "File:AvenaSativa3.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:46:02.165Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-24": {
+  "morning": {
+   "title": "Josquin des Prez",
+   "qid": "Q143100",
+   "pageid": 55021,
+   "domain": "people-arts",
+   "image": {
+    "file": "File:Josquin.JPG",
+    "via": "edition:de"
+   },
+   "pickedAt": "2026-10-06T08:46:03.271Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Manta ray",
+   "qid": "Q1536199",
+   "pageid": 50838,
+   "domain": "animals",
+   "image": {
+    "file": "File:Dharavandhoo Thila - Manata Black Pearl.JPG",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:46:04.657Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-25": {
+  "morning": {
+   "title": "Sea",
+   "qid": "Q165",
+   "pageid": 18842323,
+   "domain": "earth",
+   "image": {
+    "file": "File:Mediterranean Sea 16.61811E 38.99124N.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:46:05.464Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Triton (moon)",
+   "qid": "Q3359",
+   "pageid": 44371,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Triton-usgs23-with-frame.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:46:06.580Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-26": {
+  "morning": {
+   "title": "Rotavirus",
+   "qid": "Q164778",
+   "pageid": 140968,
+   "domain": "medicine",
+   "image": {
+    "file": "File:Rotavirus Reconstruction.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:47:01.182Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Noble gas",
+   "qid": "Q19609",
+   "pageid": 21140,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Edelgase in Entladungsroehren.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T08:47:01.847Z",
+   "attempt": 0
+  }
  }
 }
