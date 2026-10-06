@@ -33,11 +33,13 @@
 /* all leaves share one grid cell: they lie on top of each other, as tall as the tallest */
 .leaves {
   display: grid;
+  grid-template-columns: minmax(0, 1fr); /* long unbreakable lines (trail titles) never widen the page */
   position: relative;
   overflow: clip;
 }
 .leaf {
   grid-area: 1 / 1;
+  min-width: 0;
   position: relative;
   outline: none;
   background: var(--paper);

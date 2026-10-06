@@ -10,15 +10,26 @@ From the original brief. Each milestone ends with a review by the owner before t
 - **b.** Content pipeline, extractive composer, 14+ days of JSON. *Done: 30 days × en/de/fr, verified.*
 - **c.** *Done (see [`player.md`](player.md)).* The **image step first**: build-time download from Wikimedia, resize, encode to modern formats, store locally with credits, so visitors never load images from Wikimedia. **Then** the pace calibration page and the player with the first three page types (title, sentence, image), including the pen-writing reveal and the 2D page-turn transition, polished.
 - **d.** *Done (see [`player.md`](player.md)).* The remaining page types (bignumber, timeline, map, compare, closing), the END pages, and the evening flow with the margin-note page.
-- **e.** Rabbit Trail.
+- **e.** *Done (see [`trail.md`](trail.md)).* Rabbit Trail: text-only hops, live from Wikipedia in the visitor's browser with a pre-baked pool as the fallback, five hops then END with the trail doodled as a path.
+  - **Decided 2026-10-06:**
+    - **Stops are text only**, framed by hand-drawn doodles. No image is loaded at runtime.
+    - **The CSP's `connect-src`** names only en/de/fr.wikipedia.org.
+    - **Screening.** The same rules as the daily pipeline, plus trail topic rules standing in for the Vital-Articles section exclusions. Living people are detected from the birth and death categories, so no Wikidata host is needed.
+    - **Fallback.** If fewer than four stops pass, the hop uses the baked pool.
+    - **Pages per hop:** 1–2 / 2–3 / 3–4.
 - **f.** Notebook and settings (paper, ink, language, pace, motion), plus the entitlements layer (everything unlocked by a flag).
 - **g.** Authoring workflow (prepare / verify / preview) and the first 30-day curated batch in en/de/fr. The curated text replaces the weak extractive openers.
+  - **Compare pages (decided 2026-10-06):** the extractive composer keeps its strict compare rules. The curated authoring step may *propose* compare pages from the source packet, and the verifier checks every number against the packet and `content/refs`.
 - **h.** PWA/offline, a nightly GitHub Action (no keys, no AI), deploy config.
   - **Images (decision to make in h):** rebuild the encoded images in CI with an Actions cache (`.cache/images/` + `public/img/`), *or* commit the encoded images (e.g. to the orphan `pages` branch or to `main`).
     - **Measured 2026-10-06:** 38 encoded images = **16.4 MB** (AVIF 6.7 MB + WebP 9.7 MB at 480/960/1280 px), about 0.43 MB per image. The downloaded source bytes are another 16.4 MB.
     - **Extrapolated:** the full 30-day batch (146 images) comes to about **63 MB**, so about **60 MB per month of new content**, or about 0.75 GB a year if it is committed to `main`. That is why plan §1 keeps binaries off `main`.
     - **Rate limits:** a CI rebuild hits upload.wikimedia.org's rate limits only for new images, since the cache keeps the rest. From this environment's shared IP, upload.wikimedia.org allowed about 20 images an hour (repeated `Retry-After: 600`). GitHub's runners are not tested yet.
+  - **Trail pools:** the first 7 days of each language are baked (`npm run content:trail`). The nightly Action bakes the rest, and each new day's pool, from the committed cache. Until then those days' trails run live only, and offline they end politely ("No paths lead on from here today.").
   - **Remaining downloads:** 108 of 146 images for the current batch are still to download. The first run of the CI step does this.
+  - **Decided 2026-10-06:**
+    - **(a) Smaller encodes first.** Test a top width of about 1000 px (instead of 1280) and a lower AVIF quality, aiming for roughly **150–200 KB per image** (all formats and widths of one image together). Show the owner a before/after comparison of the same photos before switching.
+    - **(b) Encoded images are not committed to git.** CI builds them, with an Actions cache for the downloaded sources and the encoded output.
 - **i.** Polish pass: motion, typography, a11y, performance, reduced motion.
 - **j.** README, docs, licenses, the /about page, contribution guide.
 

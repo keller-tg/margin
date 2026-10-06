@@ -1,0 +1,204 @@
+/* The Rabbit Trail (milestone e). Text-only stops: everything sits on the rules like the daily pages. */
+
+.page--choose {
+  padding-top: var(--rule);
+}
+.trail-q {
+  margin-bottom: 0;
+}
+.trail-privacy {
+  color: var(--ink-soft);
+}
+.trail-finding {
+  color: var(--ink-soft);
+  animation: trail-breathe 1.6s ease-in-out infinite alternate;
+}
+@keyframes trail-breathe {
+  from { opacity: 0.45; }
+  to { opacity: 1; }
+}
+
+/* four choices: a title and one line each, two rules per choice, a hand-drawn arrow before the title */
+.trail-options {
+  list-style: none;
+  margin: var(--rule) 0 0;
+  padding: 0;
+}
+.trail-option {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0 0 0 1.6em;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+  border-radius: 6px;
+}
+.trail-option::before {
+  /* the arrow is drawn, not typed: a little pencil stroke */
+  content: '';
+  position: absolute;
+  left: 0.15em;
+  top: calc(var(--rule-offset) - 0.42em);
+  width: 0.9em;
+  height: 0.5em;
+  background: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 11'%3E%3Cpath d='M1 6.2 Q9 5 17.5 5.6 M13 1.5 Q15.8 4 18.5 5.6 Q15.5 7.4 13.4 9.6' fill='none' stroke='black' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 11'%3E%3Cpath d='M1 6.2 Q9 5 17.5 5.6 M13 1.5 Q15.8 4 18.5 5.6 Q15.5 7.4 13.4 9.6' fill='none' stroke='black' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E") center / contain no-repeat;
+  color: var(--margin-color);
+  opacity: 0.85;
+}
+.leaf[data-unwritten] .trail-option::before {
+  opacity: 0;
+}
+.trail-opt-title {
+  font-weight: var(--wght-title);
+}
+.trail-opt-desc {
+  color: var(--ink-soft);
+}
+.trail-option:hover:not(:disabled) .trail-opt-title,
+.trail-option[data-picked] .trail-opt-title {
+  text-decoration: underline;
+  text-decoration-color: var(--margin-color);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 6px;
+}
+.trail-option:focus-visible {
+  outline: 2px solid var(--margin-color);
+  outline-offset: 2px;
+}
+.trail-option:disabled {
+  cursor: default;
+}
+.trail-option[data-other] {
+  opacity: 0.4;
+}
+.trail-link {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: var(--margin-color);
+  text-underline-offset: 6px;
+}
+
+.page--hop {
+  padding-top: var(--rule);
+}
+.page--hop .ink--page:first-child {
+  margin-top: var(--rule);
+}
+
+/* ---------- END: the way you came ---------- */
+.page--trail-end {
+  padding-top: var(--rule);
+  min-width: 0;
+}
+.trail-map {
+  position: relative;
+  margin-top: var(--rule);
+}
+.trail-doodle {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+.trail-doodle path {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.trail-path path {
+  stroke: var(--ink-soft);
+  stroke-width: 1.6;
+  stroke-dasharray: none;
+}
+.trail-rings path {
+  stroke: var(--margin-color);
+  stroke-width: 2;
+  fill: var(--paper); /* the path tucks in behind each stop */
+}
+.trail-stops {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.trail-stop {
+  position: relative;
+  padding-left: 72px;
+}
+.trail-dot {
+  position: absolute;
+  left: 18px;
+  top: calc(var(--rule-offset) - 0.32em);
+  width: 2px;
+  height: 2px;
+}
+.trail-stop:nth-child(even) .trail-dot {
+  left: 42px;
+}
+.trail-stop-title,
+.trail-stop-desc {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.trail-stop-title {
+  color: var(--ink);
+  text-decoration: none;
+}
+.trail-stop-desc {
+  color: var(--ink-soft);
+}
+.trail-stop[data-start] .trail-stop-title {
+  color: var(--ink-soft);
+}
+.trail-stop[data-last] .trail-stop-title {
+  font-weight: var(--wght-title);
+}
+.trail-stop-title:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--margin-color);
+  text-underline-offset: 6px;
+}
+.trail-stop-title:focus-visible {
+  outline: 2px solid var(--margin-color);
+  outline-offset: 2px;
+}
+.trail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 22px;
+  margin-top: var(--rule);
+}
+.trail-status {
+  min-height: var(--rule);
+}
+
+@media (min-width: 768px) {
+  .trail-stop {
+    padding-left: 96px;
+  }
+  .trail-stop:nth-child(even) .trail-dot {
+    left: 54px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .trail-finding {
+    animation: none;
+  }
+}
+:root[data-motion='off'] .trail-finding {
+  animation: none;
+}

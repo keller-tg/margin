@@ -1,0 +1,109 @@
+[
+ {
+  "id": "fr-2026-10-06",
+  "from": "Nauru",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 4,
+  "rejected": {
+   "stub": 12,
+   "blocklisted category \"…\"": 1,
+   "missing": 1,
+   "too short for medium": 2,
+   "too short": 2,
+   "too short for deep": 3,
+   "too few usable sentences": 6,
+   "too short for easy": 2,
+   "review word \"…\"": 3
+  }
+ },
+ {
+  "id": "fr-2026-10-07",
+  "from": "Manchester",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 4,
+  "rejected": {
+   "stub": 22,
+   "disambiguation": 1,
+   "too short for easy": 3,
+   "no one-line description": 1,
+   "too short for deep": 1,
+   "review word \"…\"": 1
+  }
+ },
+ {
+  "id": "fr-2026-10-08",
+  "from": "Ulrich Zwingli",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 7,
+  "rejected": {
+   "stub": 17,
+   "missing": 2,
+   "trail topic rule \"…\"": 2,
+   "too short for medium": 2,
+   "too short": 1,
+   "no one-line description": 1,
+   "too short for easy": 2
+  }
+ },
+ {
+  "id": "fr-2026-10-09",
+  "from": "Archaea",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 3,
+  "rejected": {
+   "stub": 7,
+   "too short for easy": 3,
+   "too short": 1
+  }
+ },
+ {
+  "id": "fr-2026-10-10",
+  "from": "Technétium",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 4,
+  "rejected": {
+   "stub": 5,
+   "too few usable sentences": 2,
+   "too short for easy": 3,
+   "review word \"…\"": 2,
+   "no one-line description": 1
+  }
+ },
+ {
+  "id": "fr-2026-10-11",
+  "from": "Minneapolis",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "stub": 20,
+   "disambiguation": 1,
+   "too short for deep": 1,
+   "too few usable sentences": 3,
+   "person-living-or-recent": 1,
+   "trail topic rule \"…\"": 4,
+   "too short for medium": 1,
+   "too short for easy": 3,
+   "review word \"…\"": 1
+  }
+ },
+ {
+  "id": "fr-2026-10-12",
+  "from": "Nil",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 4,
+  "rejected": {
+   "stub": 9,
+   "disambiguation": 1,
+   "too few usable sentences": 4,
+   "review word \"…\"": 3,
+   "too short for easy": 7
+  }
+ }
+]

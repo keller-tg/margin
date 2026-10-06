@@ -1,0 +1,102 @@
+[
+ {
+  "id": "de-2026-10-06",
+  "from": "Cleveland",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "stub": 18,
+   "trail topic rule \"…\"": 2,
+   "too short": 4,
+   "too short for deep": 1,
+   "person-living-or-recent": 2
+  }
+ },
+ {
+  "id": "de-2026-10-07",
+  "from": "Gabriel Fauré",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 7,
+  "rejected": {
+   "stub": 12,
+   "too few usable sentences": 14,
+   "too short for deep": 4,
+   "too short": 7,
+   "too short for easy": 2,
+   "too short for medium": 2,
+   "trail topic rule \"…\"": 1,
+   "review word \"…\"": 1
+  }
+ },
+ {
+  "id": "de-2026-10-08",
+  "from": "Lemuren",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "stub": 27,
+   "too few usable sentences": 2,
+   "too short": 1,
+   "too short for easy": 1
+  }
+ },
+ {
+  "id": "de-2026-10-09",
+  "from": "Messier 87",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "stub": 39,
+   "too short": 2,
+   "too few usable sentences": 3,
+   "too short for easy": 2
+  }
+ },
+ {
+  "id": "de-2026-10-10",
+  "from": "John Lennon",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "person-living-or-recent": 6,
+   "trail topic rule \"…\"": 3,
+   "stub": 16,
+   "too short for easy": 2,
+   "too short": 2,
+   "too few usable sentences": 3,
+   "review word \"…\"": 1
+  }
+ },
+ {
+  "id": "de-2026-10-11",
+  "from": "Colorado River",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "stub": 21,
+   "too short for easy": 1,
+   "too short for deep": 1
+  }
+ },
+ {
+  "id": "de-2026-10-12",
+  "from": "Mars (Planet)",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 6,
+  "rejected": {
+   "stub": 27,
+   "too few usable sentences": 2,
+   "too short for deep": 2,
+   "person-living-or-recent": 1,
+   "list-or-year": 1,
+   "too short": 1
+  }
+ }
+]

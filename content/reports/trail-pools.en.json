@@ -1,0 +1,89 @@
+[
+ {
+  "id": "en-2026-10-06",
+  "from": "Caspar David Friedrich",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 7,
+  "rejected": {
+   "too short for medium": 1,
+   "review word \"…\"": 2,
+   "stub": 12,
+   "person-living-or-recent": 1,
+   "too short for easy": 1
+  }
+ },
+ {
+  "id": "en-2026-10-07",
+  "from": "Archaeopteryx",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 3,
+  "rejected": {
+   "stub": 1,
+   "too short for deep": 1,
+   "too short for easy": 1
+  }
+ },
+ {
+  "id": "en-2026-10-08",
+  "from": "Falkland Islands",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 7,
+  "rejected": {
+   "trail topic rule \"…\"": 13,
+   "stub": 7,
+   "review word \"…\"": 1,
+   "too few usable sentences": 1
+  }
+ },
+ {
+  "id": "en-2026-10-09",
+  "from": "Bacteria",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 3,
+  "rejected": {}
+ },
+ {
+  "id": "en-2026-10-10",
+  "from": "Hector Berlioz",
+  "seeds": 16,
+  "leadOnly": false,
+  "requests": 7,
+  "rejected": {
+   "stub": 10,
+   "too short for easy": 3,
+   "too short for medium": 1,
+   "review word \"…\"": 1,
+   "too few usable sentences": 1,
+   "no one-line description": 1,
+   "person-living-or-recent": 4,
+   "too short": 1
+  }
+ },
+ {
+  "id": "en-2026-10-11",
+  "from": "Messier 87",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 3,
+  "rejected": {
+   "stub": 3,
+   "too short for easy": 2
+  }
+ },
+ {
+  "id": "en-2026-10-12",
+  "from": "Charles Darwin",
+  "seeds": 16,
+  "leadOnly": true,
+  "requests": 3,
+  "rejected": {
+   "list-or-year": 1,
+   "too short for easy": 3,
+   "too few usable sentences": 1
+  }
+ }
+]

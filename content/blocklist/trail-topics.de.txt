@@ -1,0 +1,9 @@
+# Rabbit Trail only: see trail-topics.en.txt. Kategorien, die sagen, was ein Artikel IST (Krieg, Schlacht,
+# Waffe, Wahl), nie biografische ("Militärperson …", "Person im …").
+^(krieg|schlacht|seeschlacht|belagerung|invasion|militärische operation|putsch|aufstand|bürgerkrieg|konflikt)(?![\p{L}])
+^(waffe|handfeuerwaffe|gewehr|pistole|maschinengewehr|rakete|bombe|artillerie|panzer|kriegsschiff|militärfahrzeug|militärluftfahrzeug|munition)(?![\p{L}])
+^(kriminalfall|mordfall|verbrechen|organisierte kriminalität|attentat)(?![\p{L}])
+^(wahl|referendum|partei)(?![\p{L}])
+^(droge|rauschgift|psychotrope substanz)(?![\p{L}])
+^(territorialstreit|territorialkonflikt|umstrittenes territorium|separatismus)(?![\p{L}])
+^(militärische einrichtung|militärflugplatz|militärbasis|marinestützpunkt|kaserne|militärischer verband)(?![\p{L}])

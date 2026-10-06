@@ -157,10 +157,11 @@ export function isEtymology(s: string, lang: Lang): boolean {
   return ETYMOLOGY[lang].test(s);
 }
 
+// Unicode-aware word boundaries: a plain \b sees "é" as a non-letter, so "forme" matched inside "Réforme".
 const COPULA: Record<Lang, RegExp> = {
-  en: /\b(is|are|was|were)\b/i,
-  de: /\b(ist|sind|war|waren|bezeichnet|bezeichnen|bildet|bilden|gehört|gehören|zählt|zählen)\b/i,
-  fr: /\b(est|sont|était|étaient|fut|désigne|désignent|constitue|constituent|forme|forment)\b/i,
+  en: /(?<![\p{L}])(is|are|was|were)(?![\p{L}])/iu,
+  de: /(?<![\p{L}])(ist|sind|war|waren|bezeichnet|bezeichnen|bildet|bilden|gehört|gehören|zählt|zählen)(?![\p{L}])/iu,
+  fr: /(?<![\p{L}])(est|sont|était|étaient|fut|désigne|désignent|constitue|constituent|forme|forment)(?![\p{L}])/iu,
 };
 
 /**
@@ -168,7 +169,7 @@ const COPULA: Record<Lang, RegExp> = {
  * nouns ("en forme de disque"). Returns the match with its index, or null.
  */
 function copulaMatch(s: string, lang: Lang): { index: number; text: string } | null {
-  const re = new RegExp(COPULA[lang].source, 'gi');
+  const re = new RegExp(COPULA[lang].source, 'giu');
   for (const m of s.matchAll(re)) {
     const prev = s.slice(0, m.index).trim().split(/[\s’']+/).pop() ?? '';
     if (!NOT_AFTER_ART.test(prev)) return { index: m.index!, text: m[0] };

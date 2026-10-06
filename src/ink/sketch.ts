@@ -57,3 +57,23 @@ export function sketchDot(x: number, y: number, seed: number): string {
   const r = mulberry32(seed);
   return sketchEllipse(x, y, 3.2 + r() * 0.6, 3 + r() * 0.6, seed + 9);
 }
+
+/**
+ * A wandering path through points, as a pencil would doodle it: smooth curves between the points that
+ * bulge sideways a little, never quite straight. One stroke.
+ */
+export function sketchPath(points: readonly (readonly [number, number])[], seed: number, sway = 18): string {
+  if (points.length === 0) return '';
+  const r = mulberry32(seed);
+  const [x0, y0] = points[0]!;
+  let d = `M${f(x0)} ${f(y0)}`;
+  for (let i = 1; i < points.length; i++) {
+    const [ax, ay] = points[i - 1]!;
+    const [bx, by] = points[i]!;
+    const side = i % 2 ? 1 : -1;
+    const s1 = side * sway * (0.6 + r() * 0.8);
+    const s2 = -side * sway * (0.3 + r() * 0.6);
+    d += ` C${f(ax + s1)} ${f(ay + (by - ay) * 0.35)} ${f(bx + s2)} ${f(ay + (by - ay) * 0.7)} ${f(bx + (r() - 0.5) * 1.2)} ${f(by + (r() - 0.5) * 1.2)}`;
+  }
+  return d;
+}

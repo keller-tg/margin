@@ -6,16 +6,10 @@
 // Pure and isomorphic.
 import { PACE_IDS } from '../pace/pace';
 import type { Thing } from '../schema/thing';
-import type { Lang } from '../typography/typography';
 import { pageTexts } from '../verify/verify';
+import { REVIEW_WORDS, W } from './words';
 
-const W = (words: string) => new RegExp(`(?<![\\p{L}])(${words})(?![\\p{L}])`, 'giu');
-
-export const REVIEW_WORDS: Record<Lang, RegExp> = {
-  en: W('bomb|bombs|bombing|bombings|bombed|massacre|massacres|massacred|execution|executions|executed|genocide|genocides|torture|tortured|murder|murders|murdered|assassinated|assassination|terrorism|terrorist|terrorists|atrocity|atrocities|slaughter|slaughtered|rape|raped|corpse|corpses|mass grave|mass graves|holocaust|nuclear weapon|nuclear weapons|atomic bomb|atomic bombs|suicide|war crime|war crimes|ethnic cleansing|lynching|lynched|hallucinogen|hallucinogenic|recreational drug|recreational drugs|narcotic|narcotics|heroin|cocaine'),
-  de: W('Bombe|Bomben|bombardiert|Massaker|Hinrichtung|Hinrichtungen|hingerichtet|Völkermord|Genozid|Folter|gefoltert|Mord|Morde|ermordet|Attentat|Terror|Terrorismus|Terroristen|Gräueltaten|Vergewaltigung|vergewaltigt|Leiche|Leichen|Massengrab|Holocaust|Shoah|Atombombe|Atombomben|Atomwaffe|Atomwaffen|Kernwaffe|Kernwaffen|Suizid|Selbstmord|Kriegsverbrechen|Halluzinogen|halluzinogen|halluzinogene|Rauschmittel|Rauschgift|Kokain|Heroin'),
-  fr: W('bombe|bombes|bombardement|bombardements|bombardé|massacre|massacres|massacré|massacrés|exécution|exécutions|exécuté|exécutés|exécutée|génocide|génocides|torture|torturé|meurtre|meurtres|assassiné|assassinée|assassinat|terrorisme|terroriste|terroristes|atrocité|atrocités|viol|viols|violée|cadavre|cadavres|charnier|charniers|holocauste|Shoah|arme nucléaire|armes nucléaires|bombe atomique|suicide|crime de guerre|crimes de guerre|hallucinogène|hallucinogènes|stupéfiant|stupéfiants|cocaïne|héroïne'),
-};
+export { REVIEW_WORDS };
 
 export type ScanHit = { pace: string; page: number; word: string; text: string };
 

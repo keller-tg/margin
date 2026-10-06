@@ -94,6 +94,11 @@ export function EndPage({ thing }: { thing: Thing }) {
             {t('end.readEvening')}
           </Link>
         ) : null}
+        {morning ? (
+          <Link className="ink-link end-link" to={`/trail/${thing.lang}/${thing.date}`}>
+            {t('trail.start')}
+          </Link>
+        ) : null}
         <Link className="ink-link end-link" to="/">
           {t('end.close')}
         </Link>

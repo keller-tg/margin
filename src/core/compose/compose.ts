@@ -12,7 +12,7 @@ import {
 } from './clean';
 import type { Packet } from './packet';
 import { inMetres } from '../numbers/units';
-import { languageMismatch } from '../verify/verify';
+import { languageMismatch } from '../text/language';
 
 export const QUALITY_THRESHOLD = 0.6;
 

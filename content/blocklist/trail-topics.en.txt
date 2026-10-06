@@ -1,0 +1,12 @@
+# Rabbit Trail only (milestone e). The daily pipeline keeps whole Vital-Articles sections out (wars and
+# military, crime, politics and government, military technology, drugs); a trail stop can be any article,
+# so these category rules do that job for the trail. They match categories that say what an article IS
+# (a war, a battle, a weapon, an election), never biographical ones ("… personnel of …", "People of …"),
+# in line with the narrow-rules decision of 2026-10-06. One case-insensitive regular expression per line.
+^(wars|battles|naval battles|sieges|invasions|conflicts|military operations|insurgencies|coups d'état|military campaigns|military history)( of| in| involving| during| by| fought)\b
+^(weapons|firearms|rifles|pistols|machine guns|missiles|bombs|artillery|tanks|warships|military vehicles|military aircraft|military equipment|ammunition)( of| by| in| used|$)
+^(crimes|murders|organized crime|criminal organizations|kidnappings|robberies|assassinations)( in| of| by|$)
+^(elections|referendums|political parties|political organizations)( in| of)\b
+^(drugs|psychoactive drugs|recreational drugs)( of| in|$)
+^(territorial disputes|disputed territories|political disputes|sovereignty disputes|separatism)( of| in| between| involving|$)
+^(military installations|military bases|military airbases|air force bases|royal air force stations|naval bases|army bases|military units|military organizations)( of| in| by|$)

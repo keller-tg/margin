@@ -8,14 +8,16 @@ export type PaceSpec = {
   eveningPages: number;
   maxWords: number;
   types: readonly PageType[];
+  /** [min, max] pages per Rabbit Trail hop. */
+  trailHopPages: readonly [number, number];
 };
 
 const EASY_TYPES = ['title', 'sentence', 'image', 'bignumber', 'closing'] as const;
 
 export const PACES: Record<PaceId, PaceSpec> = {
-  easy: { pages: [4, 4], eveningPages: 2, maxWords: 15, types: EASY_TYPES },
-  medium: { pages: [6, 7], eveningPages: 3, maxWords: 25, types: [...EASY_TYPES, 'timeline', 'map'] },
-  deep: { pages: [10, 12], eveningPages: 4, maxWords: 40, types: [...EASY_TYPES, 'timeline', 'map', 'compare'] },
+  easy: { pages: [4, 4], eveningPages: 2, maxWords: 15, types: EASY_TYPES, trailHopPages: [1, 2] },
+  medium: { pages: [6, 7], eveningPages: 3, maxWords: 25, types: [...EASY_TYPES, 'timeline', 'map'], trailHopPages: [2, 3] },
+  deep: { pages: [10, 12], eveningPages: 4, maxWords: 40, types: [...EASY_TYPES, 'timeline', 'map', 'compare'], trailHopPages: [3, 4] },
 };
 
 export const PACE_IDS: readonly PaceId[] = ['easy', 'medium', 'deep'];

@@ -1,0 +1,9 @@
+# Rabbit Trail only: see trail-topics.en.txt. Catégories qui disent ce qu'un article EST (une guerre, une
+# bataille, une arme, une élection), jamais les biographiques ("Militaire … de la guerre …").
+^(guerres?|batailles?|batailles navales|sièges?|invasions?|conflits?|opérations militaires|insurrections?|coups? d'[ée]tat)(?![\p{L}])
+^(armes?|armes à feu|fusils?|pistolets?|mitrailleuses?|missiles?|bombes?|artillerie|chars? de combat|blindés?|navires? de guerre|véhicules? militaires?|avions? militaires?|munitions?)(?![\p{L}])
+^(affaires? criminelles?|crimes?|meurtres?|assassinats?|crime organisé)(?![\p{L}])
+^(élections?|référendums?|partis? politiques?)(?![\p{L}])
+^(drogues?|psychotropes?|stupéfiants?)(?![\p{L}])
+^(territoires? contestés?|conflits? territoriaux|différends? territoriaux|séparatisme)(?![\p{L}])
+^(bases? aériennes?|bases? navales?|bases? militaires?|installations? militaires?|unités? militaires?)(?![\p{L}])
