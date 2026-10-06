@@ -24,5 +24,71 @@
    "pickedAt": "2026-10-06T08:51:05.575Z",
    "attempt": 0
   }
+ },
+ "2026-10-07": {
+  "morning": {
+   "title": "Gabriel Fauré",
+   "qid": "Q104919",
+   "pageid": 71142,
+   "domain": "people-arts",
+   "image": {
+    "file": "File:Gabriel Fauré by Pierre Petit 1905 - Gallica 2010 (cropped).jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:52:01.888Z",
+   "attempt": 1
+  },
+  "evening": {
+   "title": "Wega",
+   "qid": "Q3427",
+   "pageid": 75988,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:Vega by Stephen Rahn.jpg",
+    "via": "edition:fr"
+   },
+   "pickedAt": "2026-10-06T08:52:02.992Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-08": {
+  "morning": {
+   "title": "Lemuren",
+   "qid": "Q1192405",
+   "pageid": 3959742,
+   "domain": "animals",
+   "image": {
+    "file": "File:Ruffed Lemur Singapore.JPG",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:52:04.468Z",
+   "attempt": 0
+  },
+  "evening": {
+   "title": "Essigsäure",
+   "qid": "Q47512",
+   "pageid": 41798,
+   "domain": "chemistry",
+   "image": {
+    "file": "File:Acetic acid.jpg",
+    "via": "edition:en"
+   },
+   "pickedAt": "2026-10-06T08:52:05.996Z",
+   "attempt": 0
+  }
+ },
+ "2026-10-09": {
+  "morning": {
+   "title": "Messier 87",
+   "qid": "Q14041",
+   "pageid": 352456,
+   "domain": "astronomy",
+   "image": {
+    "file": "File:M87-full jpg.jpg",
+    "via": "own"
+   },
+   "pickedAt": "2026-10-06T08:53:01.467Z",
+   "attempt": 1
+  }
  }
 }
